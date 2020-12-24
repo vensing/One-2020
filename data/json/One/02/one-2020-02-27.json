@@ -1,0 +1,686 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5427",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-27 06:00:00",
+        "content_list": [
+            {
+                "id": "19858",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2740",
+                "title": "摄影",
+                "forward": "在我看来，抑制黑暗的是那些普通人的琐细的日常点滴，那些细微的善意和爱。",
+                "img_url": "http://image.wufazhuce.com/FvVQIlb-vqFXCYQvdT5OBAjZg7YK",
+                "like_count": 15715,
+                "post_date": "2020-02-27 06:00:00",
+                "last_update_date": "2020-02-23 12:50:22",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2700",
+                "pic_info": "Touann",
+                "words_info": "《霍比特人》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2740",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2740",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2740",
+                    "image": "http://image.wufazhuce.com/FvVQIlb-vqFXCYQvdT5OBAjZg7YK",
+                    "title": "VOL.2700",
+                    "content": "在我看来，抑制黑暗的是那些普通人的琐细的日常点滴，那些细微的善意和爱。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2740?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2740?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 在我看来，抑制黑暗的是那些普通人的琐细的日常点滴，那些细微的善意和爱。——《霍比特人》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2740?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2740?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19872",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4215",
+                "title": "在吗？",
+                "forward": "是谁？",
+                "img_url": "http://image.wufazhuce.com/Fg7IAMbKKZmha17Rk-fNyDrX3DWF",
+                "like_count": 2350,
+                "post_date": "2020-02-27 06:00:00",
+                "last_update_date": "2020-03-03 11:15:53",
+                "author": {
+                    "user_id": "5529761",
+                    "user_name": "短痛",
+                    "desc": "写作者。著有《孤独的孩子，提着易碎的灯笼》。",
+                    "wb_name": "@短tone",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作者。",
+                    "fans_total": "6392",
+                    "web_url": "http://image.wufazhuce.com/Fna7qucK98hngcbtH1Ek9tzAHqL_"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4215",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4215",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4215",
+                    "image": "http://image.wufazhuce.com/Fg7IAMbKKZmha17Rk-fNyDrX3DWF",
+                    "title": "在吗？ 作者/短痛",
+                    "content": "陌生号码的短信。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 在吗？",
+                        "desc": "文/短痛 陌生号码的短信。",
+                        "link": "http://m.wufazhuce.com/article/4215?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 在吗？",
+                        "desc": "文/短痛 陌生号码的短信。",
+                        "link": "http://m.wufazhuce.com/article/4215?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 在吗？》 文/短痛： 陌生号码的短信。 阅读全文：http://m.wufazhuce.com/article/4215?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4215?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "在吗？",
+                        "desc": "陌生号码的短信。",
+                        "link": "http://m.wufazhuce.com/article/4215?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19879",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4218",
+                "title": "司门口大桥下",
+                "forward": "“好想吃碗热干面啊。吃了一辈子的热干面。”",
+                "img_url": "http://image.wufazhuce.com/Fra2btQR1AtZm3oCusxaKZNCCtZd",
+                "like_count": 2026,
+                "post_date": "2020-02-27 06:00:00",
+                "last_update_date": "2020-02-26 14:40:50",
+                "author": {
+                    "user_id": "6859004",
+                    "user_name": "兔草",
+                    "desc": "退役文案，杂耍写手。生于武汉，现居上海。写小说、评论、剧本等。小说见ONE、豆瓣、《野草》等。新书《研究怪兽的人》现已上市。",
+                    "wb_name": "@兔草啊吐槽",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新书《研究怪兽的人》现已上市",
+                    "fans_total": "2735",
+                    "web_url": "http://image.wufazhuce.com/FmIxumvucSMThvBqzjla4dEmFbwL"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4218",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4218",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4218",
+                    "image": "http://image.wufazhuce.com/Fra2btQR1AtZm3oCusxaKZNCCtZd",
+                    "title": "司门口大桥下 作者/兔草",
+                    "content": "“好想吃碗热干面啊。吃了一辈子的热干面。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 司门口大桥下",
+                        "desc": "文/兔草 “好想吃碗热干面啊。吃了一辈子的热干面。”",
+                        "link": "http://m.wufazhuce.com/article/4218?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 司门口大桥下",
+                        "desc": "文/兔草 “好想吃碗热干面啊。吃了一辈子的热干面。”",
+                        "link": "http://m.wufazhuce.com/article/4218?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 司门口大桥下》 文/兔草： “好想吃碗热干面啊。吃了一辈子的热干面。” 阅读全文：http://m.wufazhuce.com/article/4218?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4218?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "司门口大桥下",
+                        "desc": "“好想吃碗热干面啊。吃了一辈子的热干面。”",
+                        "link": "http://m.wufazhuce.com/article/4218?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19867",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1116",
+                "title": "世界得了健忘症·第十三章：殴打",
+                "forward": " 我没有痛苦，没有愤怒，反而产生了一种深深的自我厌恶。这是身处厄运的人时常会产生的感觉——自怨自艾，恨不得自己从未活过。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 911,
+                "post_date": "2020-02-27 06:00:00",
+                "last_update_date": "2020-02-27 08:55:43",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第13章",
+                "number": "13",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1116",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1116",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1116",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第十三章：殴打 作者/昔央",
+                    "content": " 我没有痛苦，没有愤怒，反而产生了一种深深的自我厌恶。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第十三章：殴打",
+                        "desc": "文/昔央  我没有痛苦，没有愤怒，反而产生了一种深深的自我厌恶。",
+                        "link": "http://m.wufazhuce.com/serial/1116?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第十三章：殴打",
+                        "desc": "文/昔央  我没有痛苦，没有愤怒，反而产生了一种深深的自我厌恶。",
+                        "link": "http://m.wufazhuce.com/serial/1116?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第十三章：殴打》 文/昔央：  我没有痛苦，没有愤怒，反而产生了一种深深的自我厌恶。 阅读全文：http://m.wufazhuce.com/serial/1116?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1116?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第十三章：殴打",
+                        "desc": " 我没有痛苦，没有愤怒，反而产生了一种深深的自我厌恶。",
+                        "link": "http://m.wufazhuce.com/serial/1116?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19877",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2769",
+                "title": "如何养成健康的消费观？",
+                "forward": "在进行冲动消费之前，等一等，再等一等。",
+                "img_url": "http://image.wufazhuce.com/Fs9iNTcj_cJ5bHH4ibp6OXsrwfOk",
+                "like_count": 2348,
+                "post_date": "2020-02-27 06:00:00",
+                "last_update_date": "2020-02-26 17:19:38",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "剁手党党魁",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2769",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2769",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2769",
+                    "image": "http://image.wufazhuce.com/Fs9iNTcj_cJ5bHH4ibp6OXsrwfOk",
+                    "title": "如何养成健康的消费观？",
+                    "content": "如何养成健康的消费观？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何养成健康的消费观？",
+                        "desc": "文/阳子 节制此刻的满足，就是调度未来的享受。",
+                        "link": "http://m.wufazhuce.com/question/2769?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何养成健康的消费观？",
+                        "desc": "文/阳子 节制此刻的满足，就是调度未来的享受。",
+                        "link": "http://m.wufazhuce.com/question/2769?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何养成健康的消费观？》 文/阳子： 节制此刻的满足，就是调度未来的享受。 阅读全文：http://m.wufazhuce.com/question/2769?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2769?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何养成健康的消费观？",
+                        "desc": "节制此刻的满足，就是调度未来的享受。",
+                        "link": "http://m.wufazhuce.com/question/2769?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11097592",
+                    "user_name": "阳子",
+                    "desc": "偶尔写字，一事无成。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "朋克青年，精神分裂。",
+                    "fans_total": "96",
+                    "web_url": "http://image.wufazhuce.com/FpM_LRLOr7zODImy2QqDEJIHHwH5"
+                }
+            },
+            {
+                "id": "19880",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1958",
+                "title": "用所有勇气，换一个春天",
+                "forward": "世上没有从天而降的英雄，只有挺身而出的普通人。",
+                "img_url": "http://image.wufazhuce.com/FhcokVRHNiN_WbJWJJWQhqF7dgMn",
+                "like_count": 2395,
+                "post_date": "2020-02-27 06:00:00",
+                "last_update_date": "2020-02-27 08:54:28",
+                "author": {
+                    "user_id": "9970997",
+                    "user_name": "耶律律",
+                    "desc": "公号：耶律律。",
+                    "wb_name": "@Author耶律律",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说作者，自由撰稿人 公众号：耶律律",
+                    "fans_total": "1144",
+                    "web_url": "http://image.wufazhuce.com/Fg9pajYrz3XN5pjCZh0ubhvv_yUa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "1917",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4941",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1958",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1958",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1958",
+                    "image": "http://image.wufazhuce.com/FhcokVRHNiN_WbJWJJWQhqF7dgMn",
+                    "title": "「一个」电影: 1917",
+                    "content": "没有&ldquo;胜者&rdquo;的战争在《1917》之前，我对一战了解甚少，只记得初中历史课本曾高度总结说：一场帝国主义狗咬狗的战争。一战爆发前，欧洲各国政经发展失衡，各方矛盾日益激化。工业革命满足人的需求，却无法满足人的贪婪，欧洲列强都想成为霸主。于是这场战争既分胜负也决生死，造成世界史上罕见的大屠杀。一场注定没有&ldquo;胜者&rdquo;的战争，无法总结出任何深刻主题。就算是战后兴起的女权运动，也是因数千万战士化身白骨而起，实在算不得积极意义。这大概也是众多战争片里，少有一战背景的原因。战争细节，随着亲历者故去，淹没于历史；遗留的伤痛，却化作零散记忆，停在人们心头隐隐作痛。影片《1917》的创作原型，正是导演萨姆&bull;门德斯的祖父。他1917年参战，在战争中担任前线信差，穿梭于不同岗位传送消息。在1917年，两位英军下士斯科菲尔德和布雷克，在法国前线接到上峰命令，于第二天黎明前，赶往另一条前线，向友军传达&ldquo;攻击立止&rdquo;的命令，以防止德文郡1600名士兵，掉入德军圈套。不可能完成的任务电影开篇，上峰选定布雷克去传达命令，因为他哥哥正在德文郡等待进攻。同伴斯科菲尔德紧随其后，多次对任务表示不满。两人爬出战壕，脚踩积水泥泞的弹坑，穿过满挂尸体的铁丝网。来到空荡荡的敌军阵地，又遭遇地雷陷阱，险些丧命。而这一切，仅仅只是开始。我们生活在信息时代，又逢病毒侵袭，或许能明白人如草芥，却很难理解人如媒介，需要用血肉之躯传达消息。当观众以为的主角布雷克被忘恩负义的德军飞行员刺腹身亡时，我们才明白原来导演玩了个欲擒故纵的&ldquo;把戏&rdquo;，爱抱怨的斯科菲尔德才是真主角。根据斯科菲尔德三次转变，影片大致分为三个段落。第一段感性与理性。不同于翩翩少年布雷克，怀念家乡樱花，在乎哥哥安危。原本的斯科菲尔德，是个拿勋章换酒喝的家伙，他心里生死远大于荣誉。岂曰无衣，与子同袍。布雷克遇刺，斯科菲尔德枪杀德军为战友报仇，可这并不能挽回死亡。他把布雷克揽进怀里，答应给他母亲写信，承诺找到他哥哥。并从他身上取下遗物，决定代他完成任务。他不认识地图，但为了布雷克能瞑目，他快速背诵着任务路线。布雷克无法释怀的灵魂，与斯科菲尔德结合，理性与感性集于一身。此间复杂情感，正是袍泽之情。第二段希望与绝望。斯科菲尔德携嘱托深入敌区，在残垣断壁间与子弹赛跑，在照明弹点亮的夜空下四处躲藏。青山一道同云雨，明月何曾是两乡。夜幕里为了躲避追击，斯科菲尔德藏进一间地窖。昏灯下走来一位法国女人，两人用并不相通的语言仓促交谈，原来他们都在躲避德军。女人先帮他擦拭伤口，而后从抽屉抱出女婴。临走前，他留下所有食物，之前在农场灌装的牛奶，此时正好派上用场。短暂温存，仿佛圣母圣婴化身下凡，让斯科菲尔德相信，人间还有关怀。启程出发那一刻，希望与绝望在他心里早已成为同义词。第三段生存与死亡。即将逃离敌区，德军仍旧穷追不舍，斯科菲尔德被迫投河。他在湍流中挣扎，从瀑布顶端下坠，最终被冲到一片平静的河面上。山川异域，风月同天。任务之初，斯科菲尔德二人曾路过一片樱桃花树林，布雷克提起家乡也有樱桃花，每到果实成熟，摘不过来，它们掉在地上会长出更多树。斯科菲尔德漂浮在死水中，空中突然洒下大片樱桃花，他伸手去触碰花瓣时，发现河面上早已浮尸成群。突然不远处传来天籁，生与死的界限变得模糊。他爬过尸体上岸，向歌声走去，原来是友军在清唱思乡歌曲。他随队行军，终于来到德文郡二区战壕，赶上他们发起第一波进攻。斯科菲尔德成功传达命，在关键时刻阻止了这场屠杀。接着他将布雷克遗物交还哥哥，然后倚树坐下，默默拿出妻儿照片。观众这才知道，他活下来的信念来自家庭。一镜到底感性与理性，希望与绝望，生存与死亡，这些对立而相互衔接的概念，借由尸体和樱花，歌唱与爆炸，死水和湍流等意向呈现，是影片《1917》塑造人物的独特手法。由斯科菲尔德昏迷为界，前后分为两大段，前半段写实，后半段写意，让整部电影看上去犹如文学作品，残酷而不失优美。布雷克对哥哥的情感，推动整个故事。他死后，斯科菲尔德承接了这份情感，就像导演承接祖父在一战的记忆。无论戏里戏外，情感连接是本片最吸引人，也最为重要的内核表现方式。为了让观众身临其境，导演萨姆&bull;门德斯和摄影执导罗杰&bull;狄金斯，决心采用一镜到底的方式拍摄《1917》。这也是二人第四次大银幕合作。所谓一镜到底，是指全片从头到尾只用一个长镜头。其实本片在拍摄中并非如此，而是用许多隐蔽剪辑，让观众有一种流畅体验。因此，寻找剪辑点，也成了许多影迷一项乐趣。据创作者介绍，他们动用挖掘机，挖出一条一英里长的战壕。为了节省时间，一边挖一边排练。尽可能使场景和表演严丝合缝。拍摄难度和筹备时长，都是巨大挑战。好在萨姆&bull;门德斯做过15年话剧导演，从以往面对观众不能停，到现在摄影机不能停，过度还算自然。在我看来，这不仅改变了拍电影的方式，也改变了看电影的方式。影片画面流畅配乐宏大，两小时下来，如同玩一场战地游戏，让人充分沉浸其中。记得使命召唤系列，就曾用过《兵临城下》的场景，不妨也期待一番《1917》的游戏体验。人祸和天灾战争，从来不是一个人拯救一群人的英雄故事这么简单，就像斯科菲尔德拯救1600条性命，也没能成为英雄一样。麦肯锡上校告诉他：&ldquo;希望是一种危险的东西，现在命令撤退，下周又会下达不同命令，结束这场战争只有一种办法，就是只剩下一个人。&rdquo;荒唐的描述来自荒唐的战争。1914年7月到1918年11月，一战历时四年零三个月，超过1600万人死亡，2000万人受伤，1000多万人终身残疾。仅凡尔登要塞一役，死伤近百万，被称为&ldquo;凡尔登绞肉机&rdquo;，可见战争之凶残。开战不久，法德便在西线开始堑壕战，由东向西绵延七百公里，战壕一直挖到英吉利海峡边缘。此后四年时间里，双方士兵掘壕固守。每日伤亡数万人，进攻距离只以几米算。战火纷飞下，大规模军队流动，平民迁徙，1918年欧洲大陆爆发西班牙大流感。流感很快侵袭军营，一批批士兵相继倒下，迫使战争提前结束。瘟疫波及全球10亿人口，最保守估计2500万人丧生，被称作终结一战的&ldquo;上帝之手&rdquo;。协约国贪如虎狼，同盟国得寸进尺。战争与瘟疫，人祸和天灾，同属悲剧，说不上哪个更坏。斯科菲尔德，以及他的敌人和同袍，都是这场荒唐战争的牺牲品，是那些权贵们大手一挥所付出的代价。他送信时死里逃生，也许下一次没这么幸运，也许他还会染上流感，全身发紫，被自己的肺液淹死。情感支撑信念在《1917》之前，我对一战了解甚少，只记得初中历史课本曾高度总结说：一场帝国主义狗咬狗的战争。我所受的教育一向如此，凡事先定性，话糙且直白。在这种语境下成长，就算理得清来龙去脉，记得准年月日期，也不见得有能力感受历史原点的人和事。经过多年遗忘和重新整理，我似乎能改正许多先入为主的偏见。比如在主人公斯科菲尔德身上，看到另一种可能，当个人裹进时代洪流，不妨用情感支撑信念。我们正在经历一场如同战争的瘟疫，人人都希望在梦里战胜病毒，可希望是一种危险的东西，从个体生命出发去想，根本谈不到胜利。灾难当前，或许我们都该有所转变，尝试去相信去感受，人性里那些闪光的情感。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 用所有勇气，换一个春天",
+                        "desc": "文/耶律律 战争与瘟疫，人祸和天灾，说不上哪个更坏。",
+                        "link": "http://m.wufazhuce.com/movie/1958?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 用所有勇气，换一个春天",
+                        "desc": "文/耶律律 战争与瘟疫，人祸和天灾，说不上哪个更坏。",
+                        "link": "http://m.wufazhuce.com/movie/1958?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 用所有勇气，换一个春天》 文/耶律律： 战争与瘟疫，人祸和天灾，说不上哪个更坏。 阅读全文：http://m.wufazhuce.com/movie/1958?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1958?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "用所有勇气，换一个春天",
+                        "desc": "战争与瘟疫，人祸和天灾，说不上哪个更坏。",
+                        "link": "http://m.wufazhuce.com/movie/1958?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19859",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3073",
+                "title": "我爱你，并不是一件丢脸的事",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FpmEgsqkeh_gUji2jSS3Y-1x9hj4?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1994,
+                "post_date": "2020-02-27 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3073",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3073",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 我爱你，并不是一件丢脸的事",
+                        "desc": "爱人，是一种可以改变你我世界的超能力",
+                        "link": "http://m.wufazhuce.com/radio/3073?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lkYWCga2Y_NGRWw02RM07VFW0nmd"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 我爱你，并不是一件丢脸的事",
+                        "desc": "爱人，是一种可以改变你我世界的超能力",
+                        "link": "http://m.wufazhuce.com/radio/3073?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lkYWCga2Y_NGRWw02RM07VFW0nmd"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 我爱你，并不是一件丢脸的事》 主播/马晓橙： 爱人，是一种可以改变你我世界的超能力 阅读全文：http://m.wufazhuce.com/radio/3073?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3073?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lkYWCga2Y_NGRWw02RM07VFW0nmd"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "我爱你，并不是一件丢脸的事",
+                        "link": "http://m.wufazhuce.com/radio/3073?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lkYWCga2Y_NGRWw02RM07VFW0nmd"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 780 期",
+                "audio_url": "http://music.wufazhuce.com/lkYWCga2Y_NGRWw02RM07VFW0nmd"
+            }
+        ],
+        "menu": {
+            "vol": "2700",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4215",
+                    "title": "在吗？"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4218",
+                    "title": "司门口大桥下",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1116",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第十三章：殴打"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2769",
+                    "title": "如何养成健康的消费观？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1958",
+                    "title": "用所有勇气，换一个春天"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3073",
+                    "title": "我爱你，并不是一件丢脸的事"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

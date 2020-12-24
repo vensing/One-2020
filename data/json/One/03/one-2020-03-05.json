@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5436",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-05 06:00:00",
+        "content_list": [
+            {
+                "id": "19909",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2747",
+                "title": "摄影",
+                "forward": "你总是喜欢把事情拖到第二天，你不能再这么拖了，因为有一天，你会有很多事要做，你的余生都不够你用。",
+                "img_url": "http://image.wufazhuce.com/FvMVPQsj32Y6JxF4wuiPntmBkiKY",
+                "like_count": 27577,
+                "post_date": "2020-03-05 06:00:00",
+                "last_update_date": "2020-03-01 12:41:54",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2707",
+                "pic_info": "Yunming Wang",
+                "words_info": "《余生的第一天》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2747",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2747",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2747",
+                    "image": "http://image.wufazhuce.com/FvMVPQsj32Y6JxF4wuiPntmBkiKY",
+                    "title": "VOL.2707",
+                    "content": "你总是喜欢把事情拖到第二天，你不能再这么拖了，因为有一天，你会有很多事要做，你的余生都不够你用。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2747?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2747?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 你总是喜欢把事情拖到第二天，你不能再这么拖了，因为有一天，你会有很多事要做，你的余生都不够你用。——《余生的第一天》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2747?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2747?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19923",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4229",
+                "title": "人间动物园",
+                "forward": "逃避令人放松，它会给你一种从头再来的错觉，就像重玩一盘游戏一样。但事实不是这样的，生活和玩游戏不一样，他心里很清楚，却不敢细想。",
+                "img_url": "http://image.wufazhuce.com/FsyhdXpEfoRQozaiZiUmXqo9GqDI",
+                "like_count": 2951,
+                "post_date": "2020-03-05 06:00:00",
+                "last_update_date": "2020-03-04 20:07:48",
+                "author": {
+                    "user_id": "10500412",
+                    "user_name": "卡兰",
+                    "desc": "无",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作爱好者，文字共和国的新公民。",
+                    "fans_total": "251",
+                    "web_url": "http://image.wufazhuce.com/Fu6EMUikqcT2n2KnB5p_6dZqUAyT"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4229",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4229",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4229",
+                    "image": "http://image.wufazhuce.com/FsyhdXpEfoRQozaiZiUmXqo9GqDI",
+                    "title": "人间动物园 作者/卡兰",
+                    "content": "逃避令人放松，它会给你一种从头再来的错觉，就像重玩一盘游戏一样。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 人间动物园",
+                        "desc": "文/卡兰 逃避令人放松，它会给你一种从头再来的错觉，就像重玩一盘游戏一样。",
+                        "link": "http://m.wufazhuce.com/article/4229?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 人间动物园",
+                        "desc": "文/卡兰 逃避令人放松，它会给你一种从头再来的错觉，就像重玩一盘游戏一样。",
+                        "link": "http://m.wufazhuce.com/article/4229?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 人间动物园》 文/卡兰： 逃避令人放松，它会给你一种从头再来的错觉，就像重玩一盘游戏一样。 阅读全文：http://m.wufazhuce.com/article/4229?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4229?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "人间动物园",
+                        "desc": "逃避令人放松，它会给你一种从头再来的错觉，就像重玩一盘游戏一样。",
+                        "link": "http://m.wufazhuce.com/article/4229?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19903",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1122",
+                "title": "世界得了健忘症·第十六章：重建",
+                "forward": "我不喜欢“重建”这个词，我和走在人群里的普通人相同，我们不过都是在努力生活罢了。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 906,
+                "post_date": "2020-03-05 06:00:00",
+                "last_update_date": "2020-03-04 16:14:39",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第16章",
+                "number": "16",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1122",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1122",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1122",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第十六章：重建 作者/昔央",
+                    "content": "我不喜欢“重建”这个词，我和走在人群里的普通人相同，我们都是在努力生活。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第十六章：重建",
+                        "desc": "文/昔央 我不喜欢“重建”这个词，我和走在人群里的普通人相同，我们都是在努力生活。",
+                        "link": "http://m.wufazhuce.com/serial/1122?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第十六章：重建",
+                        "desc": "文/昔央 我不喜欢“重建”这个词，我和走在人群里的普通人相同，我们都是在努力生活。",
+                        "link": "http://m.wufazhuce.com/serial/1122?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第十六章：重建》 文/昔央： 我不喜欢“重建”这个词，我和走在人群里的普通人相同，我们都是在努力生活。 阅读全文：http://m.wufazhuce.com/serial/1122?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1122?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第十六章：重建",
+                        "desc": "我不喜欢“重建”这个词，我和走在人群里的普通人相同，我们都是在努力生活。",
+                        "link": "http://m.wufazhuce.com/serial/1122?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19924",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2776",
+                "title": "你最讨厌自己哪里？",
+                "forward": "一直以来，我的思维都异于常人，一旦发生什么事，别人都是跟着多数人的意见走，我会多想一点：他们的做法是正确的吗？",
+                "img_url": "http://image.wufazhuce.com/FmnaxMMAjM-JrMpUX69xqMSNUCaF",
+                "like_count": 3400,
+                "post_date": "2020-03-05 06:00:00",
+                "last_update_date": "2020-03-04 14:36:15",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "失败症患者",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2776",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2776",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2776",
+                    "image": "http://image.wufazhuce.com/FmnaxMMAjM-JrMpUX69xqMSNUCaF",
+                    "title": "你最讨厌自己哪里？",
+                    "content": "你最讨厌自己哪里？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你最讨厌自己哪里？",
+                        "desc": "文/Seasee Youl 我讨厌自己活成了当初最讨厌的样子。",
+                        "link": "http://m.wufazhuce.com/question/2776?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你最讨厌自己哪里？",
+                        "desc": "文/Seasee Youl 我讨厌自己活成了当初最讨厌的样子。",
+                        "link": "http://m.wufazhuce.com/question/2776?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你最讨厌自己哪里？》 文/Seasee Youl： 我讨厌自己活成了当初最讨厌的样子。 阅读全文：http://m.wufazhuce.com/question/2776?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2776?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你最讨厌自己哪里？",
+                        "desc": "我讨厌自己活成了当初最讨厌的样子。",
+                        "link": "http://m.wufazhuce.com/question/2776?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10407227",
+                    "user_name": "Seasee Youl",
+                    "desc": "专栏作家  知乎大V  微信公众号：第四条鱼",
+                    "wb_name": "@Seasee Youl",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "专栏作家  微信公众号：第四条鱼",
+                    "fans_total": "3952",
+                    "web_url": "http://image.wufazhuce.com/FoTw-1O5lVdpEQ6pNSlwJ92GyvUI"
+                }
+            },
+            {
+                "id": "19925",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1962",
+                "title": "原来我们从来，都只爱自己",
+                "forward": "外面的世界很精彩，我出去会变的可爱。外面的机会来得很快，我一定找到自己的存在。",
+                "img_url": "http://image.wufazhuce.com/Fg1fjPGrTRfaSwRUrdYHPTNXXCye",
+                "like_count": 1929,
+                "post_date": "2020-03-05 06:00:00",
+                "last_update_date": "2020-03-04 16:06:40",
+                "author": {
+                    "user_id": "11127846",
+                    "user_name": "江户川糯米乱步",
+                    "desc": "世间少有好玩之人，公众号糯米丸子串。在平行宇宙里和萨特聊聊存在主义，去过非洲和兰波品品埃塞俄比亚咖啡。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "会烘焙咖啡的品鉴师，热爱写作的逗逼 ",
+                    "fans_total": "41",
+                    "web_url": "http://image.wufazhuce.com/FiCg2rm2tfcfDtRfi-IXytgMbqga"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "如果·爱",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4945",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1962",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1962",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1962",
+                    "image": "http://image.wufazhuce.com/Fg1fjPGrTRfaSwRUrdYHPTNXXCye",
+                    "title": "「一个」电影: 如果·爱",
+                    "content": "当你老到需要出回忆录的时候，突然发现里面没有爱情故事，是应该高兴还是悲哀？复习《如果&bull;爱》，是因为看到朋友分享蔡琴的《张三的歌》，旋律是《外面的世界》。起先，我是从周迅嘴里听到这首歌的。电影里，林见东透过门缝，窥视周迅饰演的老孙赤裸的美背时，她就唱着外面的世界。《如果&bull;爱》的英文翻译为Perhaps Love，perhaps，表示可能、也许、如果，这样看来，爱变成了一个问题，而不是一种感情。这一点，聂文在第一个场景里就自言自语道&ldquo;小雨应该不是真的爱张扬；张扬回来找小雨，也不是因为爱她；班主跟小雨也谈不上什么爱情&rdquo;。这些看似肯定的措辞，暗示的却是质疑和强烈的思考。在看惯主角之间的爱情后，视角移向配角，我还发现了一种爱情的常态。以投资人为配角（曾志伟饰演）的场景共出现四次，第一次要求聂文拍一个爱情片，满足观众收视率，同时希望自己的小秘出演；第二次，听到林见东经纪人的合约要求毫不理会；第三次抱怨男二号找不到演员，将造成损失；第四次知道聂文出走，焦虑资金周转问题。小秘从头到尾都是顺从，像极了人们常说的物质世界，就像感情的牢固程度和物质基础具有极大相关性。而当爱这个字眼，要让孙纳、林见东和聂文去经历时，却会变得纯粹而复杂。孙纳：&ldquo;不记得才好。爱情&hellip;&hellip;没有过&rdquo;嘴上说着不要，心里却很诚实。很多人喜欢这样评价女人，因为她们说话总是真真假假，难以分辨。当有人要为孙纳制作回忆录时，她很明确地表态说，不要回忆录要出写真。问及爱情时，她焦虑了，连倒酒的手也在发抖。&ldquo;不记得才好。爱情&hellip;&hellip;没有过。&rdquo;没有过，就是有过。世故、圆滑、精明、虚荣&hellip;&hellip;这是很多人对孙纳的评价。在我看来，她是一个心性刚毅到无法动摇的女人。现实中的编剧显然对这个角色偏袒了，她是少数利用自身优势，走到人生巅峰的例子，换取成功的代价是爱情。她说：&ldquo;如果别人像我这么苦，一定会努力的。&rdquo;孙纳的现实，来自于放低姿态和认清自我。我想，她对于爱情的思考是，对我这种人来说，过于奢侈。她曾经很希望林见东可以成为导演，她就能成为明星。从这个角度去考量&ldquo;爱情&rdquo;这个词汇，显得动机不纯。孙纳问林见东借了一箱泡面之后，便说&ldquo;香港人，我还欠你泡面&rdquo;， 1995年的时候香港还没有回归，在当年孙纳的心目中，应该算是个富裕的地方。她得知林见东要退学时，说道&ldquo;你又没拍过几个电影，你又怎么会知道自己没天份&rdquo;。她拽着林见东的样子，仿佛看到了成为明星的希望。她心里肯定曾经燃起一丝小小希望，林见东住在自己这里，说不定有一天成为大导演，就是圆满的结局了。如果林见东真的很快就成为了导演，这部戏就可以结束了。但他们像极了现实中，我们年幼的爱情。女孩子总是太早熟，男孩子总是不知道女人的心思。孙纳清楚成为明星就要趁早，她不愿为林见东能否成为导演这个赌局买单。攀附美国导演、勾引林见东的同学冼平，最终一步步成为明星，就是她选择的，最快的出路。她不愿回忆的过去，除了爱过的林见东，也有那些为了成名所做的交易。《十字街头》中的歌词大概是老孙那段日子最好的写照，&ldquo;爽不爽一霎那，天堂地狱一家&rdquo;、&ldquo;爱情是道具&rdquo;、&ldquo;别跟生活怄气&rdquo;。她爱林见东吗？肯定爱过，我原先认为，孙纳不论对林见东还是聂文都没说过爱，可能因为她的世界里没有&ldquo;爱&rdquo;。其实，老孙的爱，表现在身体上。她为什么在找美国导演前，把自己的肉体给林见东？她心里渴望的干净，应该属于林见东。她可爱的地方在于简单直接，但咬着牙也不能让别人知道自己苦。林见东和聂文都看到她的苦，也都看见她的渴望。老孙和林见东从北京回上海时，是有机会破镜重圆的。她订了两人一起回上海的机票，表示内心已经动摇了。这一丝希望，最终被她挡在回忆的门外。她的苦源自于太清楚自己的天平上有什么，之后该往哪里走。但凡她不打算进军美国市场，都可以马上跟着林见东去过他想要生活。可是，她是打不死的&ldquo;老孙&rdquo;呐。更何况，&ldquo;火热的爱情只出于暂时&rdquo;，那么聪明世故的女人，难道不明白林见东爱的是回忆里的她吗？拥有过就好，这是老孙心里最柔软的底线了。&ldquo;歌厅全坐满了才100个人，但光一个电影院就能坐好几百个人。&rdquo;这样的老孙，难道不可爱吗？林见东：&ldquo;老孙，我走了，不要忘记北京&ldquo;活在回忆里不肯走出来的人才最可怕。如果不是再次相遇，林见东后半辈子会被回忆淹死，同样，孙纳的心结也无法解开。私以为，像林见东那么柔软的人，跟老孙是不合适的。但爱情，从来那么不讲道理。那一年，他们坐在公交车上，林见东说：&ldquo;老孙老孙，我可不是你，永远打不死。&rdquo;老孙却说：&ldquo;我也会死的，只是你看不见，做人太容易，就不好玩儿了。&rdquo;他并没有被孙纳的句话触动，因为他选择了这样柔软的人生态度。孙纳为自己的野心负责，代价是爱情；林见东选择了什么？对感情，选择继续用回忆吞噬自己，代价是夜夜失眠，承受每醒一次，就&ldquo;失去&rdquo;一次的痛苦；对事业，他想成为导演，但除了说自己&ldquo;没天份&rdquo;，努力啃书之外，就没有更多的努力了，最终成了个有些名气的香港演员。他对周遭的设定，从不反抗，甚至连影片尾声，他来到面馆要一杯咖啡，竟被塞了一碗酸辣面。但他依然接受。他听到老孙想成为明星的想法，只道&ldquo;你应该可以&rdquo;，他会不知道成为&ldquo;明星&rdquo;的代价吗？老孙说&ldquo;如果你当了导演，你还可以把我捧红呢&rdquo;，他没有任何表态。听到老孙说，美国导演要娶她，依然没有表态。甚至听到同学冼平说&ldquo;跟我&rdquo;，他都没有发怒。也许你说他是懦夫，但我想说，按照他的条件，说任何话都没有资格，况且，他一开始就了解老孙。难道这样的柔软，听上去不像为了五斗米折腰的你我吗？所以，有什么可恨的，这么柔软而脆弱的人应该心疼。他也正是那个企图&ldquo;N次踏进同一条河流&rdquo;的痴心妄想之人。10年后，纠缠他的回忆和爱情编织在了一起，已经分不清让他执着到现在的到底是什么？他扔下老孙去机场时，我会想，有什么深仇大恨值得&ldquo;技能冷却&rdquo;10年来报复？到头来，还是因为老孙多买一张机票，像狗一样赶回去见老孙。他反复踏进那条回忆的河里，试图找到最初的老孙，却捞起了一地鸡毛。他们在曾经熟悉的阶梯上相拥时，都知道已经回不去了。当他在门外看老孙回片场，看到聂文饰演的班主为孙纳放手的时候，突然醒了。难道爱不就是，能够看到并包容她所有缺陷，看着她好好吃饭，就快乐了么。当他一直在电脑前面敲击着&ldquo;我跟你&rdquo;&ldquo;跟我走&rdquo;，当他一直下沉到河里寻找老孙的时候，或许有人正感同身受。对感情执着的人，注定悲伤。好在他醒了过来，轻道一句&ldquo;老孙，我走了，不要忘记北京&rdquo;，把回忆和爱情的结彻底解开。聂文：&ldquo;让我成为你的回忆&rdquo;聂文对于孙纳爱的形态开始是占有，最后是放手。对电影的初心和爱，让他最终释怀得很轻松。影片中的聂文从一开始就很清楚自己和孙纳的状态：&ldquo;那时候，你需要个导演，我需要个伴侣。我们在一起那么多年，大家都要多了。&rdquo;聂文和孙纳所有的互动都围绕聂文的电影，聂文更器重的应该是孙纳的演技和能力，因而渐渐变成了单方面的依恋。在他的想象中，孙纳是爱他的，体现在马戏团班主的歌词里&ldquo;也许你是爱我的。&rdquo;实际上，他并不确定，但希望自己可以活在这种想象中。&ldquo;梦里有梦，都不要醒&rdquo;，聂文长期处于自欺状态里，这影响了他的电影创作。除此之外，还要平衡自己对于电影的初心和膨胀的欲望。当他看到旁白送给孙纳的回忆影片时，更确定孙纳和林见东有一段回忆的事实，便怒火中烧。&ldquo;爱是占有，男人本就该妒忌，爱蒙了心，爱瞎了眼，不顾一切只许你爱我，去告诉他，面对面说，说你爱我不是他。&rdquo;并给了孙纳一个巴掌，说&ldquo;恨一个人要比恨他的人更痛苦。&rdquo;当他问孙纳觉得剧本改得如何，孙纳说好。他却反讥&ldquo;什么时候说，聂文你已经完蛋了。&rdquo;当他的绝对主导地位受到威胁时，便陷入失控状态。面馆老板问，你以前吃面特别香，现在是不是不饿了。而当人思绪紊乱的时候，可能连吃的什么都不知道。聂文更像个生活阅历丰富的人，明确自己对天平上的哪一件事更有把握。他权衡再三决定放下，&ldquo;戏演完了，你也不再是小雨了。&rdquo;他也很清楚，孙纳到底想要什么。&ldquo;我不是你的自由，白云青天向我招手，我愿为你接受这命运&hellip;&hellip;我终于找到了爱情故事，一生中也无法彻底忘记，我终于拥有了美丽回忆，飘过来淌过去永不忘记。&rdquo;马戏团班主和聂文同时放手，离开了小雨和孙纳。有人认为，孙纳和聂文之间是存在爱情的，如果你对于爱情的理解正是&ldquo;相互扶持&rdquo;或者&ldquo;陪伴&rdquo;，那我同意你的观点。但在我狭隘的定义里面，他们的互相扶持更像一种合作或者是利用。至少孙纳一定是这么理解的，所以当聂文最后轻松地说了一句&ldquo;杀青&rdquo;时，孙纳的眼泪更多是出于感激或者愧疚，应当不是爱。聂文最终到面馆吃面的时候很饿，那时他应该已经找回了初心和热爱。怎么定义热爱呢？前几天有个朋友看到一个例子&ldquo;怎么去看爱不爱做这件事？如果今年你中了500万彩票，明天你还会继续做这件事吗？&rdquo;我相信聂文一定会继续拍电影，这就是热爱。电影尾声，孙纳拿到回忆录。她说，希望可以出演一部简简单单的爱情故事。说着一边流泪，一边看向天，向往那种&ldquo;简单的爱情故事&rdquo;已经是她回不去的过往。正因人心的复杂，我们才更向往纯粹的爱情。而她耳边回荡的那句&ldquo;老孙，我走了，不要忘记北京&rdquo;和她自己说得过的&ldquo;最爱你的人永远是你自己&rdquo;便是交缠在一起的&ldquo;既往&rdquo;和&ldquo;当下&rdquo;。那么，未来会怎样？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 原来我们从来，都只爱自己",
+                        "desc": "文/江户川糯米乱步 每个人都想明白，谁是自己生命不该错过的真爱。",
+                        "link": "http://m.wufazhuce.com/movie/1962?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 原来我们从来，都只爱自己",
+                        "desc": "文/江户川糯米乱步 每个人都想明白，谁是自己生命不该错过的真爱。",
+                        "link": "http://m.wufazhuce.com/movie/1962?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 原来我们从来，都只爱自己》 文/江户川糯米乱步： 每个人都想明白，谁是自己生命不该错过的真爱。 阅读全文：http://m.wufazhuce.com/movie/1962?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1962?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "原来我们从来，都只爱自己",
+                        "desc": "每个人都想明白，谁是自己生命不该错过的真爱。",
+                        "link": "http://m.wufazhuce.com/movie/1962?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19904",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3082",
+                "title": "孤独的人是可耻的？",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FjwF_pV8O6A7pgoFljM8Q62VuVMd?imageView2/1/w/375/h/240/q/95",
+                "like_count": 2133,
+                "post_date": "2020-03-05 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3082",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3082",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 孤独的人是可耻的？",
+                        "desc": "当你独处的时候，整个世界都在你的手里",
+                        "link": "http://m.wufazhuce.com/radio/3082?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lkzN2yYfppaGPaGfGF4CnhGQPUE5"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 孤独的人是可耻的？",
+                        "desc": "当你独处的时候，整个世界都在你的手里",
+                        "link": "http://m.wufazhuce.com/radio/3082?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lkzN2yYfppaGPaGfGF4CnhGQPUE5"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 孤独的人是可耻的？》 主播/马晓橙： 当你独处的时候，整个世界都在你的手里 阅读全文：http://m.wufazhuce.com/radio/3082?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3082?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lkzN2yYfppaGPaGfGF4CnhGQPUE5"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "孤独的人是可耻的？",
+                        "link": "http://m.wufazhuce.com/radio/3082?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lkzN2yYfppaGPaGfGF4CnhGQPUE5"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 784 期",
+                "audio_url": "http://music.wufazhuce.com/lkzN2yYfppaGPaGfGF4CnhGQPUE5"
+            }
+        ],
+        "menu": {
+            "vol": "2707",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4229",
+                    "title": "人间动物园"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1122",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第十六章：重建"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2776",
+                    "title": "你最讨厌自己哪里？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1962",
+                    "title": "原来我们从来，都只爱自己"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3082",
+                    "title": "孤独的人是可耻的？"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

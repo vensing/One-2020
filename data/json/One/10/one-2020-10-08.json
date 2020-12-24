@@ -1,0 +1,583 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5632",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-08 06:00:00",
+        "content_list": [
+            {
+                "id": "21226",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2966",
+                "title": "摄影",
+                "forward": "我可以否认一样东西，但不一定非得诋毁它，或者剥夺别人相信的权利。",
+                "img_url": "http://image.wufazhuce.com/FsMZrADh7gBWvcEqBZs1YK-TnFgz",
+                "like_count": 16249,
+                "post_date": "2020-10-08 06:00:00",
+                "last_update_date": "2020-09-30 16:41:31",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2924",
+                "pic_info": "Damir Spanic",
+                "words_info": "加缪",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2966",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2966",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2966",
+                    "image": "http://image.wufazhuce.com/FsMZrADh7gBWvcEqBZs1YK-TnFgz",
+                    "title": "VOL.2924",
+                    "content": "我可以否认一样东西，但不一定非得诋毁它，或者剥夺别人相信的权利。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2966?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2966?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我可以否认一样东西，但不一定非得诋毁它，或者剥夺别人相信的权利。——加缪 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2966?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2966?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21206",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4467",
+                "title": "情歌杀人事件",
+                "forward": "山上的雨声淅淅沥沥，我们在音乐环绕中一直聊到小雨停息。",
+                "img_url": "http://image.wufazhuce.com/FguGLsIJ8Ifrr-sCBZp2BDGnr3JG",
+                "like_count": 1696,
+                "post_date": "2020-10-08 06:00:00",
+                "last_update_date": "2020-09-28 18:13:54",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4467",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4467",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4467",
+                    "image": "http://image.wufazhuce.com/FguGLsIJ8Ifrr-sCBZp2BDGnr3JG",
+                    "title": "情歌杀人事件 作者/肖睿",
+                    "content": "我闻到灰尘的味道，原来这就叫自由。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 情歌杀人事件",
+                        "desc": "文/肖睿 我闻到灰尘的味道，原来这就叫自由。",
+                        "link": "http://m.wufazhuce.com/article/4467?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 情歌杀人事件",
+                        "desc": "文/肖睿 我闻到灰尘的味道，原来这就叫自由。",
+                        "link": "http://m.wufazhuce.com/article/4467?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 情歌杀人事件》 文/肖睿： 我闻到灰尘的味道，原来这就叫自由。 阅读全文：http://m.wufazhuce.com/article/4467?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4467?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "情歌杀人事件",
+                        "desc": "我闻到灰尘的味道，原来这就叫自由。",
+                        "link": "http://m.wufazhuce.com/article/4467?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21046",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1289",
+                "title": "我的么啊·终章：回家",
+                "forward": "你也不是什么美玉无瑕，就别老嫌三挑四了。",
+                "img_url": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                "like_count": 905,
+                "post_date": "2020-10-08 06:00:00",
+                "last_update_date": "2020-09-04 15:10:18",
+                "author": {
+                    "user_id": "4814954",
+                    "user_name": "陈麒凌",
+                    "desc": "陈麒凌，也教书，也写小说。曾获得联合报文学奖首奖、全球华文文学星云奖、林语堂文学奖。",
+                    "wb_name": "@陈麒凌",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "也教书，也写小说。",
+                    "fans_total": "2296",
+                    "web_url": "http://image.wufazhuce.com/Fggt2Ut1kJ7uTNjxGSG4w-LGRL6S"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第20章",
+                "number": "20",
+                "serial_id": "87",
+                "serial_list": [
+                    "1270",
+                    "1271",
+                    "1272",
+                    "1273",
+                    "1274",
+                    "1275",
+                    "1276",
+                    "1277",
+                    "1278",
+                    "1279",
+                    "1280",
+                    "1281",
+                    "1282",
+                    "1283",
+                    "1284",
+                    "1285",
+                    "1286",
+                    "1287",
+                    "1288",
+                    "1289"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1289",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1289",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1289",
+                    "image": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                    "title": "我的么啊·终章：回家 作者/陈麒凌",
+                    "content": "你也不是什么美玉无瑕，就别老嫌三挑四了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 我的么啊·终章：回家",
+                        "desc": "文/陈麒凌 你也不是什么美玉无瑕，就别老嫌三挑四了。",
+                        "link": "http://m.wufazhuce.com/serial/1289?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 我的么啊·终章：回家",
+                        "desc": "文/陈麒凌 你也不是什么美玉无瑕，就别老嫌三挑四了。",
+                        "link": "http://m.wufazhuce.com/serial/1289?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 我的么啊·终章：回家》 文/陈麒凌： 你也不是什么美玉无瑕，就别老嫌三挑四了。 阅读全文：http://m.wufazhuce.com/serial/1289?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1289?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我的么啊·终章：回家",
+                        "desc": "你也不是什么美玉无瑕，就别老嫌三挑四了。",
+                        "link": "http://m.wufazhuce.com/serial/1289?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21231",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3002",
+                "title": "关于生活，你产生过什么顿悟？",
+                "forward": "小时候的人生计量单位是天，长大后的人生计量单位是年。",
+                "img_url": "http://image.wufazhuce.com/Fi25-FKfMnKehx1Jx9xrbXm5vzxG",
+                "like_count": 2958,
+                "post_date": "2020-10-08 06:00:00",
+                "last_update_date": "2020-10-08 17:08:50",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE·一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3002",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3002",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3002",
+                    "image": "http://image.wufazhuce.com/Fi25-FKfMnKehx1Jx9xrbXm5vzxG",
+                    "title": "关于生活，你产生过什么顿悟？",
+                    "content": "关于生活，你产生过什么顿悟？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 关于生活，你产生过什么顿悟？",
+                        "desc": "文/网友 生活它就是累，越是折腾越倒霉。",
+                        "link": "http://m.wufazhuce.com/question/3002?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 关于生活，你产生过什么顿悟？",
+                        "desc": "文/网友 生活它就是累，越是折腾越倒霉。",
+                        "link": "http://m.wufazhuce.com/question/3002?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 关于生活，你产生过什么顿悟？》 文/网友： 生活它就是累，越是折腾越倒霉。 阅读全文：http://m.wufazhuce.com/question/3002?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3002?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "关于生活，你产生过什么顿悟？",
+                        "desc": "生活它就是累，越是折腾越倒霉。",
+                        "link": "http://m.wufazhuce.com/question/3002?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "21232",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2061",
+                "title": "奶奶，电视放完了，你什么时候回来？",
+                "forward": "孩子，接下来的路，你要自己走。",
+                "img_url": "http://image.wufazhuce.com/FrswI3uzo2HfaGBvwrErkrbkbMK_",
+                "like_count": 1828,
+                "post_date": "2020-10-08 06:00:00",
+                "last_update_date": "2020-10-08 18:59:05",
+                "author": {
+                    "user_id": "11513719",
+                    "user_name": "伊朝南",
+                    "desc": "一个在阳光下和黑暗中都能茁壮生长的白日梦患者。",
+                    "wb_name": "@伊朝南",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个脱离不了低级趣味的人。",
+                    "fans_total": "651",
+                    "web_url": "http://image.wufazhuce.com/FpKk5N9eg_v2zyAkX7XPWYqc8YtG"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "疯狂约会美丽都",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5044",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2061",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2061",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2061",
+                    "image": "http://image.wufazhuce.com/FrswI3uzo2HfaGBvwrErkrbkbMK_",
+                    "title": "「一个」电影: 疯狂约会美丽都",
+                    "content": "很多年前，我看过一部法国动画，叫《疯狂约会美丽都》。因为片名又是疯狂又是约会的，看之前我以为这是一部不得了的爱情片，满心期待地打开视频，看完之后才发现，疯狂确实是很疯狂的，但爱情也确实是不存在的。这是一部讲述硬核奶奶寻找乖孙的电影。01 | 查宾的爱好故事的主人公是一个戴着深度近视镜、脸上有颗大痦子的瘸腿奶奶，和孙子查宾相依为命。查宾是个内向的孩子，父母已经去世。为了取悦他，奶奶小心翼翼地观察着他的一举一动，判断他的喜好。在为查宾打扫房间时，奶奶在他床下发现了一本剪报，里面全是自行车赛的内容。得知查宾的心思之后，奶奶给他买了一辆小自行车。小院子里，奶奶织毛衣，查宾骑车子，小狗追着尾巴转圈圈。画面用温暖的昏黄色调，像一副动态老照片，充满了温馨祥和。查宾渐渐长大，他对自行车的爱好丝毫不减。奶奶便骑着三轮车跟在他身后吹着哨子为他加油，风雨无阻地陪着。画面在这里转向使用偏阴冷的暗绿色调，衬托祖孙俩训练的艰难。奶奶对查宾的爱与关怀全部都在生活细节中体现。查宾训练，她紧紧跟随；查宾吃饭，她校车轴；查宾休息，她给按摩；查宾睡觉，她背上楼。奶奶的&ldquo;动态&rdquo;，也衬托出查宾的&ldquo;静&rdquo;。这个静不是指安静，而是查宾的麻木。他对一切都坦然接受，没有回应，感受不到热情，只是机械地完成他该完成的事情。或许是因为人物线条夸张怪异，或许是因为近乎默片的对白量，更或许是查宾的麻木，祖孙二人和一只狗的生活给人一种冷漠的疏离感。&nbsp;02 | 黑暗势力查宾习惯了骑车时奶奶在身边吹哨子督促，因此当他参加环法自行车赛时，奶奶也跟着。然而大赛被法国黑手党控制，他们暗中使手段扎破了奶奶坐着的为查宾加油的医疗车的车胎，自己伪装成医疗车，沿途将疲惫不堪的赛车手装上车，查宾也被他们带走。奶奶觉察到异常，骑着狗狂奔追到海港，眼睁睁看着装着查宾的轮船开走。看着远去的轮船，她用身上仅剩的一法郎，租了一只双人游览用的小破艇船去追赶大轮船。留下船主孤单的身影在岸边张望：谈好的一法郎租用二十分钟，船呢？这是全片第一份疯狂&mdash;&mdash;奶奶在她伟大的爱的驱使下，展开了一场实力悬殊的追寻。骑着狗狂奔已然很荒诞，但开着小破艇追大轮船显然更为离奇。她的小船在海浪中、在狂风暴雨下、在鲨鱼背上颠簸、飘摇，却始终不言放弃。这段剧情的配乐也非常相得益彰，激昂又振奋，音乐和画面交叠，衬托出一个孤身且年迈的瘸腿老人，即便对手是庞大的黑道组织也毫不退缩的勇敢和坚韧。因此这个故事绝非它表面上表现出的那样冷淡、疏离。在坚硬线条、怪诞叙事之下，它还隐藏着一股激流。这激流来源于奶奶对查宾毫无保留、信念坚定的爱：它之前涌动在奶奶和查宾毫无波澜的日常之中，支撑着她日复一日的平淡生活；之后推动着她一往无前，不惧艰险地去营救查宾。&nbsp;03 | 偶遇知音美丽都是一个欲望之都，也是一个势利之都，奶奶追到这里失去了查宾的线索。她身无分文，在夜色中和自己的狗流落街头。在街头流浪的夜晚，奶奶捡起身边的一个破车轴敲打音乐，吸引了三位老女郎。而这三位女郎，便是影片一开头出现在电视上唱美丽都的佳丽村三姐妹。时过境迁，如今她们已然苍老，过着穷困潦倒的生活。伴随着奶奶的敲击乐，她们围着篝火打起节拍、翩然起舞。这几位上了年纪的老人，只要有音乐，就要跳舞，就好像只要有篝火就该狂欢。这是全片的第二份疯狂&mdash;&mdash;年迈的，生活困顿的女人们之间不计回报，不问艰险的互助。曾经风靡一时，如今浮华散尽的三个年迈的女人，在黑暗、物欲横流的尘世养活自己已然艰难，却以乐会友，侠义心肠地收留了奶奶。她们没饭可吃，就带上背篓、雨伞和手榴弹，不慌不忙来到大河边，手榴弹扔进河里的同时撑起雨伞遮河水，拿起背篓接青蛙，辅料还有蝌蚪。即便困顿如此，她们依然随时都能歌唱起舞，奶奶加入三姐妹的乐队，和她们一起在餐厅舞台演出。乐器是吸尘器、报纸、冰箱格挡、车轴&mdash;&mdash;这妥妥的就是走在时代前端的先锋实验音乐啊。这份人生态度，仿似无论生活如何碾压，都夺不走她们那颗注定要追求快活的心，生活的艰难、岁月的流逝，所有的逆境都不能让她们缴械，她们是自己生命中的英雄。04 | 查到线索掠走查宾的黑道老大经营着一个赛车地下赌场。这些赛车手们一旦输掉比赛失去利用价值，下场就是被枪毙。查宾从小被奶奶训练得耐力非常好，黑道老大对他很满意，甚至用自己的汗巾为他擦汗。这位老大在餐厅吃饭时，沾着查宾汗水的汗巾被和奶奶形影不离的狗叼了出来。接着就开始了营救查宾大作战。这是全片的三份疯狂&mdash;&mdash;即便势单力孤，也要不畏危险地讨回公道。奶奶从狗这得到线索，跟踪一个从黑道老大那里出来的人，趁他刮脸时，偷了他的外套。而此人恰巧是自行车联动装置的设计师。外套里有自己的照片和联动装置的设计笔记。在三姐妹的协助下，奶奶和狗来到地下赌场，打晕了设计师并伪装成他，钻到联动台的下方，拆下擂台。车子载着擂台和荧幕冲出赌场时，四面八方的子弹飞射而来，三姐妹此前用来在河里炸青蛙的手榴弹此刻便派上了用场&mdash;&mdash;扔一颗给看台，趁众人慌乱时，她们跳上擂台，和奶奶、查宾一起冲出赌场。05 | 爱的回应黑道被激怒，全员出动。这是全片最后的也是最高潮的疯狂&mdash;&mdash;老弱势孤用硬碰硬的方式，战胜了体强人众。追击者们或被三姐妹用来挡子弹的平底锅砸中，或被她们的帽子遮住车前视线，或因为车子在陡坡上翻车，总之以各种意料之外情理之中的方式车毁人亡。而最终追击者的翻车方式最出乎意料也最让人啼笑皆非&mdash;&mdash;车飞驰而来，奶奶伸出瘸腿假肢，车被绊倒了，并且顺势冲向海面，掉进黑道老大坐着的轮船的烟囱里，车毁，船也毁。谁能想到，狡猾蛮横到警察都查不出纰漏的黑社会，竟然没干过几个年迈体弱的女人和一只狗。最终自行车擂台带着奶奶们安全穿越大桥，远离都市，来到宁静的乡村。一场疯狂的&ldquo;约会&rdquo;就此结束，如果影片到此处戛然而止，它仅仅就是一个荒诞的暗黑童话故事而已。然而奶奶的声音忽然响起，就这样吗？结束了吗？接着，最后一幕画面缩进电视荧屏中，两鬓斑白的查宾坐在电视机前，像他小时候那样，挠挠屁股，扭头看向身边的空座位，回答道：结束了，奶奶。从头至尾，只有这一刻，也惟有这一刻，查宾是有温度有情感的。同样也只有这一刻，奶奶是缺席的。整部影片里，查宾对周遭事物冷漠、麻木，作为旁观者，看着奶奶一点一点地展开她的爱，至于她用爱所抗衡的一切，最终能到达哪个地方，我们不抱希望，像是个冒险闯关游戏，她只要安然无恙夺回她心爱的查宾就好了。正因如此，最终突然降临的温情和回应，才让荧幕前的我们措手不及。在这个暗黑、荒诞、冷硬、不讲逻辑的疯狂故事里，&ldquo;结束了，奶奶&rdquo;是唯一的暖色调和感性逻辑。一个人毫无保留的去爱最终得到回应，看上去是理所当然的事，然而在生活中不回应亲人长辈们的爱，似乎要更司空见惯。不一定是我们不懂得去爱，更可能是我们像查宾一样，在习以为常中忽略了他们，以为只要我在，爱就在，一旦给予爱的那个人离去，才明白过来，原来是他在，爱才在。所以不要再吝啬自己的表达，在一切都还来得及的时候，给所有的爱以回应。很多年过去，我对这部影片一直念念不忘，看过那么多宫崎骏、迪士尼和皮克斯的动画，这部法国动画和它们相比，画风远离主流审美，夸张粗砺，故事又格外荒诞阴郁，没有一丝常规动画片的可爱萌动。按说不该是我喜欢的类型，但看完之后，却有种很深沉的感动扎入心底，久久难以抚平。回想之下，也许是因为在苦涩和坚硬中体会到柔和的温情，更让人难以忘怀吧。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 奶奶，电视放完了，你什么时候回来？",
+                        "desc": "文/伊朝南 孩子，接下来的路，你要自己走。",
+                        "link": "http://m.wufazhuce.com/movie/2061?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 奶奶，电视放完了，你什么时候回来？",
+                        "desc": "文/伊朝南 孩子，接下来的路，你要自己走。",
+                        "link": "http://m.wufazhuce.com/movie/2061?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 奶奶，电视放完了，你什么时候回来？》 文/伊朝南： 孩子，接下来的路，你要自己走。 阅读全文：http://m.wufazhuce.com/movie/2061?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2061?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "奶奶，电视放完了，你什么时候回来？",
+                        "desc": "孩子，接下来的路，你要自己走。",
+                        "link": "http://m.wufazhuce.com/movie/2061?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21047",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3278",
+                "title": "英年早睡的我",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FqZrM4jzue6zRhS7tAagwIneW_ks?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1349,
+                "post_date": "2020-10-08 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3278",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3278",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 英年早睡的我",
+                        "desc": "熬夜，真的，一点，也不酷",
+                        "link": "http://m.wufazhuce.com/radio/3278?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lq-0U2wqqVNjFPdmddjtJjDJ12la"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 英年早睡的我",
+                        "desc": "熬夜，真的，一点，也不酷",
+                        "link": "http://m.wufazhuce.com/radio/3278?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lq-0U2wqqVNjFPdmddjtJjDJ12la"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 英年早睡的我》 主播/李荟莹： 熬夜，真的，一点，也不酷 阅读全文：http://m.wufazhuce.com/radio/3278?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3278?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lq-0U2wqqVNjFPdmddjtJjDJ12la"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "英年早睡的我",
+                        "link": "http://m.wufazhuce.com/radio/3278?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lq-0U2wqqVNjFPdmddjtJjDJ12la"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 897 期",
+                "audio_url": "http://music.wufazhuce.com/lq-0U2wqqVNjFPdmddjtJjDJ12la"
+            }
+        ],
+        "menu": {
+            "vol": "2924",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4467",
+                    "title": "情歌杀人事件"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1289",
+                    "serial_list": [
+                        "1270",
+                        "1271",
+                        "1272",
+                        "1273",
+                        "1274",
+                        "1275",
+                        "1276",
+                        "1277",
+                        "1278",
+                        "1279",
+                        "1280",
+                        "1281",
+                        "1282",
+                        "1283",
+                        "1284",
+                        "1285",
+                        "1286",
+                        "1287",
+                        "1288",
+                        "1289"
+                    ],
+                    "title": "我的么啊·终章：回家"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3002",
+                    "title": "关于生活，你产生过什么顿悟？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2061",
+                    "title": "奶奶，电视放完了，你什么时候回来？"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3278",
+                    "title": "英年早睡的我"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

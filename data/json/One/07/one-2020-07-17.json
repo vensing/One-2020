@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5561",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-17 06:00:00",
+        "content_list": [
+            {
+                "id": "20747",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2882",
+                "title": "摄影",
+                "forward": "绿树阴浓夏日长，楼台倒影入池塘。\n水晶帘动微风起，满架蔷薇一院香。",
+                "img_url": "http://image.wufazhuce.com/FtqVtHv40Od-oadno3v9S7s8vvI-",
+                "like_count": 15326,
+                "post_date": "2020-07-17 06:00:00",
+                "last_update_date": "2020-07-21 12:58:39",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2841",
+                "pic_info": "Federica Ariemma",
+                "words_info": "高骈《山亭夏日》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2882",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2882",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2882",
+                    "image": "http://image.wufazhuce.com/FtqVtHv40Od-oadno3v9S7s8vvI-",
+                    "title": "VOL.2841",
+                    "content": "绿树阴浓夏日长，楼台倒影入池塘。\n水晶帘动微风起，满架蔷薇一院香。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2882?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2882?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 绿树阴浓夏日长，楼台倒影入池塘。\n水晶帘动微风起，满架蔷薇一院香。——高骈《山亭夏日》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2882?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2882?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20742",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4384",
+                "title": "爱情可能就在不远处",
+                "forward": "爱情不是公式，不是某些条件的加总，而是两个人的心灵在某些特定的时空与背景底下互动而生的情感。",
+                "img_url": "http://image.wufazhuce.com/Fhon-xuE2jdlEfbvkFlczGUhCB_c",
+                "like_count": 2172,
+                "post_date": "2020-07-17 06:00:00",
+                "last_update_date": "2020-07-17 10:13:46",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4384",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4384",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4384",
+                    "image": "http://image.wufazhuce.com/Fhon-xuE2jdlEfbvkFlczGUhCB_c",
+                    "title": "爱情可能就在不远处 作者/陈雪",
+                    "content": "你必须要从早到晚，周一到周日，每天都会喜欢他。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 爱情可能就在不远处",
+                        "desc": "文/陈雪 你必须要从早到晚，周一到周日，每天都会喜欢他。",
+                        "link": "http://m.wufazhuce.com/article/4384?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 爱情可能就在不远处",
+                        "desc": "文/陈雪 你必须要从早到晚，周一到周日，每天都会喜欢他。",
+                        "link": "http://m.wufazhuce.com/article/4384?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 爱情可能就在不远处》 文/陈雪： 你必须要从早到晚，周一到周日，每天都会喜欢他。 阅读全文：http://m.wufazhuce.com/article/4384?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4384?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "爱情可能就在不远处",
+                        "desc": "你必须要从早到晚，周一到周日，每天都会喜欢他。",
+                        "link": "http://m.wufazhuce.com/article/4384?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20675",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1235",
+                "title": "维多利亚的派对·第十三章：马场之花",
+                "forward": "所有人远远围观，好戏一场。",
+                "img_url": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                "like_count": 729,
+                "post_date": "2020-07-17 06:00:00",
+                "last_update_date": "2020-07-03 10:49:25",
+                "author": {
+                    "user_id": "9618188",
+                    "user_name": "吴沚默",
+                    "desc": "编剧，TVB演员。",
+                    "wb_name": "@吳沚默momo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，TVB演员。",
+                    "fans_total": "4493",
+                    "web_url": "http://image.wufazhuce.com/Fo5OsUHwTVzmosA0MtZMBJV9tOWs"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第13章",
+                "number": "13",
+                "serial_id": "86",
+                "serial_list": [
+                    "1215",
+                    "1217",
+                    "1218",
+                    "1219",
+                    "1220",
+                    "1225",
+                    "1226",
+                    "1227",
+                    "1228",
+                    "1232",
+                    "1233",
+                    "1234",
+                    "1235",
+                    "1236",
+                    "1237",
+                    "1238",
+                    "1239",
+                    "1260",
+                    "1261",
+                    "1262",
+                    "1263",
+                    "1264",
+                    "1265",
+                    "1266",
+                    "1267",
+                    "1268",
+                    "1269"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1235",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1235",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1235",
+                    "image": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                    "title": "维多利亚的派对·第十三章：马场之花 作者/吴沚默",
+                    "content": "所有人远远围观，好戏一场。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 维多利亚的派对·第十三章：马场之花",
+                        "desc": "文/吴沚默 所有人远远围观，好戏一场。",
+                        "link": "http://m.wufazhuce.com/serial/1235?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 维多利亚的派对·第十三章：马场之花",
+                        "desc": "文/吴沚默 所有人远远围观，好戏一场。",
+                        "link": "http://m.wufazhuce.com/serial/1235?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 维多利亚的派对·第十三章：马场之花》 文/吴沚默： 所有人远远围观，好戏一场。 阅读全文：http://m.wufazhuce.com/serial/1235?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1235?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "维多利亚的派对·第十三章：马场之花",
+                        "desc": "所有人远远围观，好戏一场。",
+                        "link": "http://m.wufazhuce.com/serial/1235?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20760",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2915",
+                "title": "什么样的人不需要迁就？",
+                "forward": "我们要迁就夏天带来的酷热、白天之后的黑夜、失眠裹挟的孤独……需要迁就实在太多，没精力去迁就别人了。",
+                "img_url": "http://image.wufazhuce.com/Fv1bNfDeuoGw7i9C_2UZeAeiOkXY",
+                "like_count": 2299,
+                "post_date": "2020-07-17 06:00:00",
+                "last_update_date": "2020-07-16 09:47:18",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "柔荑花序",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2915",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2915",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2915",
+                    "image": "http://image.wufazhuce.com/Fv1bNfDeuoGw7i9C_2UZeAeiOkXY",
+                    "title": "什么样的人不需要迁就？",
+                    "content": "什么样的人不需要迁就？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 什么样的人不需要迁就？",
+                        "desc": "文/林庭 每个人心里都有一座阶梯教室。",
+                        "link": "http://m.wufazhuce.com/question/2915?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 什么样的人不需要迁就？",
+                        "desc": "文/林庭 每个人心里都有一座阶梯教室。",
+                        "link": "http://m.wufazhuce.com/question/2915?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 什么样的人不需要迁就？》 文/林庭： 每个人心里都有一座阶梯教室。 阅读全文：http://m.wufazhuce.com/question/2915?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2915?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "什么样的人不需要迁就？",
+                        "desc": "每个人心里都有一座阶梯教室。",
+                        "link": "http://m.wufazhuce.com/question/2915?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "20741",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3293",
+                "title": "你是我，梦里梦见醒不来的梦",
+                "forward": "弗洛伊德曾在著作中写道：“梦的本质是愿望的实现。”我再次陷入梦境，梦里我回到了那个机场......",
+                "img_url": "http://image.wufazhuce.com/Fi8NihT0rq0pj_G_wDEX846ohcEn",
+                "like_count": 1862,
+                "post_date": "2020-07-17 06:00:00",
+                "last_update_date": "2020-07-16 15:46:18",
+                "author": {
+                    "user_id": "9606198",
+                    "user_name": "黄子京",
+                    "desc": "作者、诗人。微信公众号：黄子京。",
+                    "wb_name": "@黄子京hzj",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者、诗人。微信公众号：黄子京。",
+                    "fans_total": "5327",
+                    "web_url": "http://image.wufazhuce.com/FgqaxpmefULlWSexRwIEJ9NcoaMf"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lmzWvKkh16Coe4FnI1B_ND2w1LEz",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "白日梦",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3293",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3293",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3293",
+                    "image": "http://image.wufazhuce.com/Fi8NihT0rq0pj_G_wDEX846ohcEn",
+                    "title": "「一个」音乐: 黄子京 白日梦",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.今年四月份，我拿到了上海一家影视公司的offer。老实说，我感到很开心，毕竟上海是我一直以来向往的城市，但是我一想到自己曾和他相约去北京，内心的酸涩便代替了雀跃，甚至开始有点想他。记得电影《2046》中有这样一句台词：&ldquo;其实爱情是有时间性的，太早，或是太迟认识，结果都是不行的。&rdquo;我想，也许我晚一点认识他，一切都会和现在不一样，可是谁又能依照自己的想法，选择每一场相遇的时间呢？那是去年二月的一个晚上，小雪，有风，我因为心情不好，一个人沿着街道走了很远。走着走着，我觉得双腿发酸，想要找个地方坐一会儿。那时已经临近大年三十，周围的饮品店都关了门，只有一家书店还亮着灯。我推开门走进去，里面并没有顾客，只有老板坐在一个沙发椅上昏昏欲睡。说是&ldquo;老板&rdquo;，其实他和我年龄相仿，个子很高，头发略长，留着一点胡子。我点了一杯咖啡，随手从书架上拿出一本书，坐在他对面漫不经心地翻看。大概是因为太过无聊，不到半个小时，他开始和我有一搭没一搭地聊了起来。他问我平时都读什么书，我说长篇小说比较多，他说他最近也在写一本小说，前八章已经完成了，在一本杂志上连载。我问他那本杂志叫什么名，他转身从抽屉里拿出一本，翻到那一页递给我，我这才发现，原来我们在为同一家杂志社供稿。&ldquo;这也太巧了吧，&rdquo;他得知这件事也很惊讶，&ldquo;也许我们应该早点认识。&rdquo;我问他为什么选择开书店，他说这座城市的书店太少了，很多外国小说都买不到，而且他有一个私心，希望有朝一日，自己写的书能够摆满整个书店，到那时，他还能帮自己做一下宣传。我被他的想法逗笑了，觉得他这个人很有趣。那天书店打烊之后，我们一起去吃了夜宵。几杯酒入肚，我们竟成了无话不谈的朋友。他说如果有一天，自己不开书店了，可能会去北京的一家文化公司当编辑，他问我到时候要不要一起去，我点了点头，笑着说当然。2.上海的夏天不同于北方，有着令人难捱的湿热，烈日下走在街上，仿佛掉入开锅的笼屉。刚开始我很难适应，时间长了，我只能不断从心理上安慰自己，告诉自己，夏天本来就应该是这个样子的。我依旧会在每个月中旬去买那本杂志，尽管现在我已经不再为那家杂志社供稿。他的小说已经连载完毕，变成了一个固定的专栏。我很想从那不到两千字的文章中窥探出他的近况，但是我却没能如愿。那些文章中记录着他在广州新认识的朋友，或光鲜或潦倒，分散在各个行业，过着我并不了解的生活。入夜后我经常失眠，有时我会随机点开一部老电影，靠在椅子上看到天亮，更多的时候，我会到楼下24小时营业的肯德基点一杯饮料，听那些无家可归或有家难回的人讲他们的经历。我注意到有一位老奶奶，每天都坐在相同的位置，戴着一副金丝眼镜给一个人写信。听周围的人说，她的精神状况不太好，丈夫很早就去世了，她心里一直过不去这道坎。我不知道他们说的是不是真的，只觉得心里很不是滋味。她偶尔会把写好的信递给我看，字迹娟秀，如印刷体一般的俄文，令我不禁对她刮目相看。我忽然想起，他去广州之前，曾经答应过我，每隔半个月，就会写信给我。我知道他是哄我的，一个连微信都懒得发的人，怎么可能频繁地给我写信，但是我还是笑着说好&mdash;&mdash;试问陷入爱情的人，又有谁没有奢望过这种不合时宜的浪漫呢？他说他要去广州找他的母亲，那个离婚之后就再没有理过他的女人。他总觉得她不会像父亲描述的那样狠心，这其中一定有他不曾了解的误会。他想要真正和她相处一段时光，如果她确实对他冷若冰霜，那么他一辈子都不会再去见她。我问他那书店怎么办，他说他很抱歉，之前没有对我说实话，那家书店其实是他的一个朋友开的，他只是帮忙经营，但是那个梦想却是真的，如果有一天他的小说出单行本，他一定邀请我做他签售会的嘉宾。启程那天，我一直送他到机场，正赶上几个明星来这座城市录节目，航站楼里挤满了接机的粉丝。我本想再和他多说几句话，却不料被奔跑的人群挤到一边，最后只能狼狈地冲着他挥了挥手。他冲我笑了一下，我的心里却有一种预感，我们以后再也不会见面了。3.来上海之前，我以为外地人占这家公司员工的大多数，到了这里，我才发现，这家公司里的本地人比我想象中要多得多，大家除了在一些正式的场合会说普通话，其余时间都用上海话聊天。为了能够尽快融入这个集体，我特地在网上学习了一下上海话，粗略地了解了上海话的语音和声调。经过一段时间的努力，我已经大致能够听懂同事闲聊的内容，但是距离自己熟练地运用，还差很多。这让我想起我们刚刚在一起的时候，我问他：&ldquo;既然你妈妈是广州人，那你一定会说粤语吧。&rdquo;他点了点头。我说：&ldquo;你教我一句粤语吧，随便什么都可以。&rdquo;他想了一会儿，笑着说：&ldquo;嫁畀我。&rdquo;我一头雾水：&ldquo;你刚刚说什么？&rdquo;他用普通话说道：&ldquo;嫁给我。&rdquo;我的脸一下子红了，我说：&ldquo;这话可不是随便说的，你不怕我当真啊？&rdquo;他一脸无所谓的样子：&ldquo;那你就当真啊，反正身份证和户口簿我都随身带着，大不了咱一会儿就去领证。&rdquo;我见他语气这么轻松，就想故意将他一军：&ldquo;巧了，我今天正好也带着呢，那咱们现在就去？&rdquo;说着，我伸手拦了一辆出租车，直接上了车。我本以为他会连忙拦住我，改口说刚才只是开个玩笑，没想到他紧跟着我上了车，把车门一关，对司机说道：&ldquo;师傅，民政局！&rdquo;这次换我骑虎难下，整整一路，我都在心里琢磨，自己到底应该以什么借口下车，在哪里下车。犹豫来犹豫去，车就开到了民政局门口。他从衣兜里掏出钱递给司机，然后搂着我进了民政局大厅。我手心都出汗了，见他还在坚定地往前走，只好自己认怂。&ldquo;你还真娶啊？&rdquo;我走着走着，一下子站住了。&ldquo;当然了，君子一言，驷马难追。&rdquo;他一脸认真地看着我。&ldquo;是不是太草率了？&rdquo;我低下头，不敢看他的眼睛。&ldquo;好像是有点，&rdquo;他忽然笑了，&ldquo;连戒指和玫瑰都没有，确实太过分了。&rdquo;那天我们终究没有领证，从民政局出来之后，他带我去了游乐场。我们都没有再提这件事，就好像这件事从来就没有发生过一样。他那天手气特别好，一连抓到三个玩偶，可以看得出，他玩得很开心，可是我却总想从他脸上找到一丝失落的影子。回家路上，我很想问问他，今天说的话到底是不是真的，但是我没有。很多事情，知道确定的答案，可能远不如怀揣着疑问一直走下去。在真相面前，我选择退缩，如果眼前的一切美好只是一场梦，那么我唯一能做的，就是让这场梦不要太快醒来。4.由于晚上经常失眠，所以午休对我来说，有着至关重要的作用。每次午餐之后，我都会趴在办公桌上小憩。很多时候，我都会梦见他，梦见他从广州来上海看我，梦见我们重新回到那家书店，甚至梦见我们已经携手走进婚礼的殿堂。弗洛伊德曾在著作中写道：&ldquo;梦的本质是愿望的实现。&rdquo;或许我太过想念他，又或许在潜意识里，我觉得他从未离开过我，所以我才会一而再、再而三地在梦中见到他，沉浸在那熟悉却不再属于我的温存之中。回顾那些和他相处的时光，我并不能清楚地记得，自己到底是从哪一刻爱上他的。如果一定要说出某个时间点，我想是我们认识两个月后的那个黄昏。我发微信问他在干什么，他说他正在看电影。我不知道他在看什么电影，需要一个半小时还是两三个小时，所以那个晚上，我过得非常难熬。我既想给他打电话，又怕打扰到他，那种如坐针毡的感觉让我知道，自己已经离不开他了。然而现实很快就打了我一个耳光，它告诉我，在这个世界上，没有谁是离不开谁的，只是有的思念会短如流星，有的思念会长如白昼。夏至那天晚上，我们做了一件有些幼稚的事情，就是一起坐在海边等日落，看看所谓最长的白昼，到底会有多久。我们最后得出的结论是16个小时，在这座城市里，最长的白昼占据着一天中三分之二的时光，而我们心底那个最爱的人，能否陪我们走过一生中三分之二的年华，还是一转眼，就消失在茫茫人海，不见了踪影？有时候，我很想去广州见他，找一个冠冕堂皇的借口约他出来吃饭，但是我转念一想，如果我在他心里如同他在我心里那般重要，他又怎么会与我不再联系，让我在日日夜夜用幻想续写我们的故事。也许一切本就是我的一厢情愿，他只是与我度过了一段还算愉快的时光，并无意与我相伴一生。我开始后悔，为什么那天没有真的和他领证。我当时只觉得婚姻是件大事，不能太仓促，现在才明白，人生中的很多事，不能等到完全准备好了再去做，所谓机缘巧合，往往就是那一瞬的运气，错过了，也许一生就再也遇不到了。如果你问我，倘若人生能够重来一次，我还会不会爱上他，我的答案是肯定的。令人唏嘘的并不是爱情本身，而是我们在爱情中的优柔寡断和畏缩不前。就算我知道我和他的爱情不会有结果，我也愿在最美好的年华拥有一段最难忘的回忆，在余生的每个傍晚想起他的模样。窗外下起了小雨，我轻轻把窗子关上，坐在桌子前继续翻看那本杂志。或许是因为太累的缘故，看着看着，我竟忍不住睡着了。我再次陷入梦境，梦里我回到了那个机场，依旧站在送他的那个位置，被接机的粉丝挤来挤去，但是这一次，他没有继续往前走，而是转过身，坚定地走向我，给了我一个温暖的拥抱。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你是我，梦里梦见醒不来的梦",
+                        "desc": "文/黄子京 我见山川与人海，却只能在梦里盼你。",
+                        "link": "http://m.wufazhuce.com/music/3293?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你是我，梦里梦见醒不来的梦",
+                        "desc": "文/黄子京 我见山川与人海，却只能在梦里盼你。",
+                        "link": "http://m.wufazhuce.com/music/3293?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你是我，梦里梦见醒不来的梦》 文/黄子京： 我见山川与人海，却只能在梦里盼你。 阅读全文：http://m.wufazhuce.com/music/3293?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3293?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你是我，梦里梦见醒不来的梦",
+                        "desc": "我见山川与人海，却只能在梦里盼你。",
+                        "link": "http://m.wufazhuce.com/music/3293?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "白日梦",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "陈宥如",
+                "audio_album": "白日梦",
+                "cover": "http://image.wufazhuce.com/FhZRs5m--_GY1Y7qnOGTXAhQctHs",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2841",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4384",
+                    "title": "爱情可能就在不远处"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1235",
+                    "serial_list": [
+                        "1215",
+                        "1217",
+                        "1218",
+                        "1219",
+                        "1220",
+                        "1225",
+                        "1226",
+                        "1227",
+                        "1228",
+                        "1232",
+                        "1233",
+                        "1234",
+                        "1235",
+                        "1236",
+                        "1237",
+                        "1238",
+                        "1239",
+                        "1260",
+                        "1261",
+                        "1262",
+                        "1263",
+                        "1264",
+                        "1265",
+                        "1266",
+                        "1267",
+                        "1268",
+                        "1269"
+                    ],
+                    "title": "维多利亚的派对·第十三章：马场之花"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2915",
+                    "title": "什么样的人不需要迁就？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3293",
+                    "title": "你是我，梦里梦见醒不来的梦"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,598 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5279",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-01 06:00:00",
+        "content_list": [
+            {
+                "id": "19526",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2683",
+                "title": "摄影",
+                "forward": "新的一年，自由快乐。",
+                "img_url": "http://image.wufazhuce.com/Fs3_-pQA53swl4yQA-QpsxQXMYP6",
+                "like_count": 33265,
+                "post_date": "2020-01-01 06:00:00",
+                "last_update_date": "2019-12-31 17:12:33",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2643",
+                "pic_info": "Flora Westbrook",
+                "words_info": "韩寒",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2683",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2683",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2683",
+                    "image": "http://image.wufazhuce.com/Fs3_-pQA53swl4yQA-QpsxQXMYP6",
+                    "title": "VOL.2643",
+                    "content": "新的一年，自由快乐。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2683?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2683?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 新的一年，自由快乐。——韩寒 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2683?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2683?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19529",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4143",
+                "title": "一切都会好起来的",
+                "forward": "本世纪10年代已经结束了，在20年代的第一天，一切都会好起来的。",
+                "img_url": "http://image.wufazhuce.com/FhMrKszTgk3DHmrCh1nHor1_9FSr",
+                "like_count": 4264,
+                "post_date": "2020-01-01 06:00:00",
+                "last_update_date": "2020-01-01 09:56:05",
+                "author": {
+                    "user_id": "4813757",
+                    "user_name": "苏更生",
+                    "desc": "「一个」App常驻作家，微信公众号：ishikuaiqian",
+                    "wb_name": "@假苏更生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "「一个」App常驻作家。",
+                    "fans_total": "97549",
+                    "web_url": "http://image.wufazhuce.com/Fg_e6teZsb3lZ1QStYtdnAkh6bO8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4143",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4143",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4143",
+                    "image": "http://image.wufazhuce.com/FhMrKszTgk3DHmrCh1nHor1_9FSr",
+                    "title": "一切都会好起来的 作者/苏更生",
+                    "content": "本世纪10年代已经结束了，在20年代的第一天，一切都会好起来的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 一切都会好起来的",
+                        "desc": "文/苏更生 本世纪10年代已经结束了，在20年代的第一天，一切都会好起来的。",
+                        "link": "http://m.wufazhuce.com/article/4143?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 一切都会好起来的",
+                        "desc": "文/苏更生 本世纪10年代已经结束了，在20年代的第一天，一切都会好起来的。",
+                        "link": "http://m.wufazhuce.com/article/4143?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 一切都会好起来的》 文/苏更生： 本世纪10年代已经结束了，在20年代的第一天，一切都会好起来的。 阅读全文：http://m.wufazhuce.com/article/4143?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4143?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一切都会好起来的",
+                        "desc": "本世纪10年代已经结束了，在20年代的第一天，一切都会好起来的。",
+                        "link": "http://m.wufazhuce.com/article/4143?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19479",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1066",
+                "title": "铃兰·第十五章·空灵伤感的歌声",
+                "forward": "他一向相信直觉，直觉从不背叛他。",
+                "img_url": "http://image.wufazhuce.com/FrEEMD1gDiP2cgR6LplJ-xsl_aH-",
+                "like_count": 790,
+                "post_date": "2020-01-01 06:00:00",
+                "last_update_date": "2019-12-31 23:23:09",
+                "author": {
+                    "user_id": "10866249",
+                    "user_name": "夏阳",
+                    "desc": "小说作家，摇滚青年，久居北京，夜行动物。",
+                    "wb_name": "@ 夏阳Joker",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写小说的。",
+                    "fans_total": "1406",
+                    "web_url": "http://image.wufazhuce.com/FqaYtfVfdxDmpEumJZKSLQsaAdzB"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第15章",
+                "number": "15",
+                "serial_id": "77",
+                "serial_list": [
+                    "1038",
+                    "1040",
+                    "1041",
+                    "1044",
+                    "1045",
+                    "1046",
+                    "1049",
+                    "1052",
+                    "1053",
+                    "1054",
+                    "1056",
+                    "1063",
+                    "1064",
+                    "1065",
+                    "1066",
+                    "1067",
+                    "1068",
+                    "1069",
+                    "1075",
+                    "1076",
+                    "1077",
+                    "1080",
+                    "1081",
+                    "1082"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1066",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1066",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1066",
+                    "image": "http://image.wufazhuce.com/FrEEMD1gDiP2cgR6LplJ-xsl_aH-",
+                    "title": "铃兰·第十五章·空灵伤感的歌声 作者/夏阳",
+                    "content": "他一向相信直觉，直觉从不背叛他。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 铃兰·第十五章·空灵伤感的歌声",
+                        "desc": "文/夏阳 他一向相信直觉，直觉从不背叛他。",
+                        "link": "http://m.wufazhuce.com/serial/1066?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 铃兰·第十五章·空灵伤感的歌声",
+                        "desc": "文/夏阳 他一向相信直觉，直觉从不背叛他。",
+                        "link": "http://m.wufazhuce.com/serial/1066?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 铃兰·第十五章·空灵伤感的歌声》 文/夏阳： 他一向相信直觉，直觉从不背叛他。 阅读全文：http://m.wufazhuce.com/serial/1066?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1066?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "铃兰·第十五章·空灵伤感的歌声",
+                        "desc": "他一向相信直觉，直觉从不背叛他。",
+                        "link": "http://m.wufazhuce.com/serial/1066?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19532",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2713",
+                "title": "如何改变依赖型人格？",
+                "forward": "适度依赖能让人们走得更近，过度依赖会让人感到焦虑，回避依赖又会使人冷淡。",
+                "img_url": "http://image.wufazhuce.com/FmjDQOxpb4fjCAgLifKatKJXXXql",
+                "like_count": 3198,
+                "post_date": "2020-01-01 06:00:00",
+                "last_update_date": "2019-12-31 22:27:31",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "路里",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2713",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2713",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2713",
+                    "image": "http://image.wufazhuce.com/FmjDQOxpb4fjCAgLifKatKJXXXql",
+                    "title": "如何改变依赖型人格？",
+                    "content": "人应该如何改变依赖型人格呢？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何改变依赖型人格？",
+                        "desc": "文/陈允皓 适度依赖能让人们走得更近，过度依赖会让人感到焦虑，回避依赖又会使人冷淡。",
+                        "link": "http://m.wufazhuce.com/question/2713?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何改变依赖型人格？",
+                        "desc": "文/陈允皓 适度依赖能让人们走得更近，过度依赖会让人感到焦虑，回避依赖又会使人冷淡。",
+                        "link": "http://m.wufazhuce.com/question/2713?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何改变依赖型人格？》 文/陈允皓： 适度依赖能让人们走得更近，过度依赖会让人感到焦虑，回避依赖又会使人冷淡。 阅读全文：http://m.wufazhuce.com/question/2713?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2713?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何改变依赖型人格？",
+                        "desc": "适度依赖能让人们走得更近，过度依赖会让人感到焦虑，回避依赖又会使人冷淡。",
+                        "link": "http://m.wufazhuce.com/question/2713?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10358044",
+                    "user_name": "陈允皓",
+                    "desc": "生活明朗，万物可爱。公众号：陈允皓",
+                    "wb_name": "@陈允皓Mars",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "生活明朗，万物可爱。公众号：陈允皓",
+                    "fans_total": "2380",
+                    "web_url": "http://image.wufazhuce.com/FsSQfZ7WLGyo6SbEBwas01L5iQw4"
+                }
+            },
+            {
+                "id": "19505",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3177",
+                "title": "你是我绕过人间山河，才遇到的人间烟火",
+                "forward": "爱情这种信仰，总让擦身而过显得没那么遗憾悔恨，总让人期待无论何时，无论何地，对面终会走来一个人，与你撞得满怀。",
+                "img_url": "http://image.wufazhuce.com/FltCU3ypRS8yLSn6ZUAKC5g2J1RA",
+                "like_count": 2572,
+                "post_date": "2020-01-01 06:00:00",
+                "last_update_date": "2019-12-31 12:10:31",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lss8xsWnBRB8EPj2m9PlQwk7cArk",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "你说",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3177",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3177",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3177",
+                    "image": "http://image.wufazhuce.com/FltCU3ypRS8yLSn6ZUAKC5g2J1RA",
+                    "title": "「一个」音乐: 不辣 你说",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  电影《推拿》里都红喜欢小马，但小马迷恋嫂子。有一场戏，他们坐在长椅上，都红用这样一段话&ldquo;对面走过来一个人，撞上了叫做爱情；对面开过来一辆车，撞上了叫做车祸。可惜车与车总是撞，人与人却总是让&rdquo;含蓄地向小马表达了自己的爱意。小马或许听懂了，或许没明白，总之后来的他爱上了洗头店的小蛮。这就是爱情，它的发生概率只有0和100。&nbsp;1.都红和小马的故事发生在南京，林立和胡天的故事也是。他们的故事里都没有过爱情，但都发生过爱。你问我&ldquo;爱情&rdquo;和&ldquo;爱&rdquo;的区别是什么？很难讲，总之这两个名词就是无法画上等号。就像胡天明知道林立一直跟在他身后走了十年，但他从没回过一次头，没转过一次身。他们之间没有爱情，只有爱。&nbsp;只有爱可以解释一切没发生过的爱情。2020年，林立和胡天整整认识了二十年。今天是新年的第一天，也是她结婚后的第一个新年，透过落地窗，她看着绚烂的烟火在夜空绽放、闪烁、划落，嘴角不经意地微微上扬。&ldquo;新年快乐！&rdquo;这是林立收到的第一条新年短信，来自胡天。林立和胡天是初中同班同学，林立坐在第一排，胡天坐在最后一排。要不是周末在补课老师家日渐培养了同桌感情，恐怕他们之间连友谊都不会有。很幸运，中考结束，他们又考上了同一所高中。林立还是坐第一排，胡天坐最后一排，虽然两个人不在一个班级，但却是他们靠得最近的时候，因为这次他和她只隔了一堵墙。&nbsp;只是，胡天恋爱了，一谈就谈到了大学。桌上，林立的手机响了很久，这是这个礼拜打来的第四通电话。从我和林立同寝的那刻起，一个名叫胡天的异性自然成为了我们的云舍友。他能保证一周至少和林立通话三次，频繁的时候一天两次，令人百思不得其解的是，胡天每次打来电话分享的通话内容都是&ldquo;我要不要和XXX分手&rdquo;&ldquo;失恋了，心情不好，求安慰&rdquo;&ldquo;我和XXX在一起了&rdquo;这三个感情状态，更让人费解的是，林立从不厌烦。&nbsp;2.大学四年，胡天谈过的女朋友可以凑好几桌麻将，但林立却一直单身，没谈过一次恋爱，没接受过一次爱慕者的追求。整个四年，林立所有的大学时光都用来陪胡天谈恋爱。我们常常在熄灯后卧谈时问林立&ldquo;你和胡天到底是什么关系？&rdquo;，试图从她嘴里套出一些深夜真心话，可机敏的她总是用类似&ldquo;我们只是朋友&rdquo;&ldquo;好朋友，很好的朋友&rdquo;这样的回答来模糊焦点。日子久了，所有人都习惯了林立和胡天这样一对&ldquo;好朋友&rdquo;的存在。好朋友就是胡天的每一任女友都知道林立的存在，知道林立对胡天很重要；好朋友就是只要胡天一失恋，林立就会赶最早一班火车去往他在的城市，什么都不问不说，只是陪着他；好朋友就是胡天每次把自己认为最靠谱最优秀的兄弟介绍给林立，林立总会逃走；好朋友就是胡天会静静地站在墙角，看林立画完一个半小时的妆；好朋友就是一起去喜欢的城市，在许愿树下为彼此许下最美好的愿望。好朋友就是两个人做了很多只有恋爱中的人才会做的事，却从没人开口说过一句&ldquo;我们在一起&rdquo;。林立不喜欢我们用&ldquo;备胎&rdquo;&ldquo;蓝颜知己&rdquo;来概括她和胡天的关系，也不喜欢我们用花心来形容胡天。林立是一个虔诚的基督教徒，在她的理解中：&ldquo;爱是恒久忍耐，又是恩赐；爱是不嫉妒；爱是不自夸，不张狂，不做害羞的事，不求自己的益处，不轻易发怒，不计算人的恶，不喜欢不义，只喜欢真理；凡事包容，凡事相信，凡事盼望，凡事忍耐。爱是永不止息。&rdquo;林立也从来不相信我们对胡天这个双子座男生的性格解剖和心思分析，作为基督徒的她，不谈星座，不提星座，因为每个人的性格和出生时间没有关系。但胡天身上的孩子气，就是每本星座书都会提到的双子座典型性格。当胡天的孩子气变成讨人喜欢的时候，林立和他通完的每次电话，都会因为开心到嘴唇抽筋，大笑到腹部酸痛。3.第二天，我们总会发现，林立好像连走路都踮起了脚尖，像是收获了人生第一条白色公主蓬蓬裙时的雀跃。当然，胡天的孩子气也有非常可恨的时候。有一年，胡天和林立参加他们的初中同学聚会。那天格外冷，林立穿得有些单薄，聚会结束后，站在门口的她，冷得瑟瑟发抖。一旁的胡天故作绅士地递给她一副手套，林立瞄了一眼，完全不理睬。过了会儿，景天从里面走了出来，看到林立冻得嘴唇发紫，立马脱下自己的外套和围巾扣在她身上。没等林立拒绝，景天回头说了句&ldquo;改天请我吃饭，还我&rdquo;就跑远了。上学的时候，景天对林立就格外照顾，但林立一直故意和他拉开距离。只是，现在的这一幕在胡天看来，就是林立宁愿要景天的外套和围巾，也不要自己的手套。&ldquo;回家了。&rdquo;胡天扭头就走，完全不顾林立在背后追问他&ldquo;怎么了&rdquo;。林立一头雾水，看着胡天远去的背影，不知道自己哪里又触动了他的敏感神经。一切发生得莫名其妙，胡天像是一个讨不到糖的孩子，而这次林立也不想再去哄他。两人的僵持持续了快一个月。那一个月，寝室的夜晚变得格外安静，但也再没听见过林立爽朗的笑声，直到那天林立生日。胡天翘了一天课，坐着火车来找林立，打开了那个印着她喜欢的偶像图案的奶油蛋糕。林立抿着嘴笑得像一朵还未绽放的樱花，胡天一边摸着头，一边从裤子口袋掏出了打火机，为她点了蜡烛，陪她许了愿望。莫名其妙地，胡天和林立又和好了。时间飞快，转眼到了大四毕业，毕业前的最后一晚，我们绕着学校走了好久好久。那一晚，大家都很伤感，但都笑得很大声。虽然，很不想结束大学的美好时光，但却又对未来那么期待。也就是在那一晚，林立终于喊出了憋了四年的心声：&ldquo;我不要好朋友，我想谈恋爱。&rdquo;全世界都知道，林立的这句话是对着谁说的，也就只有，胡天不知道。4.几年后，再次听到林立的消息，是因为她要结婚了。结婚对象是双子座，但不是胡天。教堂里，在神父和众人的注视和祝福中，林立泪目地喊出了那句&ldquo;我愿意&rdquo;。几年前，林立想要恋爱，没有等来胡天。现在，她成了新娘，眼前是那个将陪她走完一生的男人。&nbsp;爱情是什么？爱是什么？爱情和爱的区别又是什么？很难说。或许，爱情就是个&ldquo;Moment&rdquo;的问题，有就有，没有就没有。爱不一样，爱是愿意把时间分享给彼此。很遗憾，胡天和林立从没有过爱情。很幸运，林立还是找到了自己的爱情。虽然，她不相信星座，可她相信爱情啊！&nbsp;果然，&ldquo;爱情，众生不能熄灭，大水也不能淹没&rdquo;。爱情这种信仰，总让擦身而过显得没那么遗憾悔恨，总让人期待无论何时，无论何地，对面终会走来一个人，与你撞得满怀。当爱人的双手紧紧地环抱住林立，两人站在窗前看着这漫天的新年烟火如白昼、如流星，林立更相信了，相信&ldquo;爱情，众生不能息灭，大水也不能淹没&rdquo;。2020年来了，新的一年，你还愿意相信爱情吗？\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你是我绕过人间山河，才遇到的人间烟火",
+                        "desc": "文/不辣 新的一年，祝你和幸福撞个满怀。",
+                        "link": "http://m.wufazhuce.com/music/3177?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你是我绕过人间山河，才遇到的人间烟火",
+                        "desc": "文/不辣 新的一年，祝你和幸福撞个满怀。",
+                        "link": "http://m.wufazhuce.com/music/3177?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你是我绕过人间山河，才遇到的人间烟火》 文/不辣： 新的一年，祝你和幸福撞个满怀。 阅读全文：http://m.wufazhuce.com/music/3177?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3177?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你是我绕过人间山河，才遇到的人间烟火",
+                        "desc": "新的一年，祝你和幸福撞个满怀。",
+                        "link": "http://m.wufazhuce.com/music/3177?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "你说",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "牟敏雪",
+                "audio_album": "你说",
+                "cover": "http://image.wufazhuce.com/Fv1cxpTknkPNGWZi1ZeDckEGZKOy",
+                "bg_color": "#000"
+            },
+            {
+                "id": "18911",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "2926",
+                "title": "请等一等，一切都会过去",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fot-LCGSn7sYdk3xWIUOcmyTqNIR?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1932,
+                "post_date": "2020-01-01 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙、李荟莹",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "2926",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/2926",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 请等一等，一切都会过去",
+                        "desc": "新年快乐",
+                        "link": "http://m.wufazhuce.com/radio/2926?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lm9knoJDTDxg9JMdMtdCD8lUBOe2"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 请等一等，一切都会过去",
+                        "desc": "新年快乐",
+                        "link": "http://m.wufazhuce.com/radio/2926?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lm9knoJDTDxg9JMdMtdCD8lUBOe2"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 请等一等，一切都会过去》 主播/马晓橙等二位： 新年快乐 阅读全文：http://m.wufazhuce.com/radio/2926?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/2926?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lm9knoJDTDxg9JMdMtdCD8lUBOe2"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "请等一等，一切都会过去",
+                        "link": "http://m.wufazhuce.com/radio/2926?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lm9knoJDTDxg9JMdMtdCD8lUBOe2"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 754 期",
+                "audio_url": "http://music.wufazhuce.com/lm9knoJDTDxg9JMdMtdCD8lUBOe2"
+            }
+        ],
+        "menu": {
+            "vol": "2643",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4143",
+                    "title": "一切都会好起来的"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1066",
+                    "serial_list": [
+                        "1038",
+                        "1040",
+                        "1041",
+                        "1044",
+                        "1045",
+                        "1046",
+                        "1049",
+                        "1052",
+                        "1053",
+                        "1054",
+                        "1056",
+                        "1063",
+                        "1064",
+                        "1065",
+                        "1066",
+                        "1067",
+                        "1068",
+                        "1069",
+                        "1075",
+                        "1076",
+                        "1077",
+                        "1080",
+                        "1081",
+                        "1082"
+                    ],
+                    "title": "铃兰·第十五章·空灵伤感的歌声"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2713",
+                    "title": "如何改变依赖型人格？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3177",
+                    "title": "你是我绕过人间山河，才遇到的人间烟火"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "2926",
+                    "title": "请等一等，一切都会过去"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

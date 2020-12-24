@@ -1,0 +1,533 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5371",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-08 06:00:00",
+        "content_list": [
+            {
+                "id": "19549",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2689",
+                "title": "摄影",
+                "forward": "毕竟我不像饮料那样，贴着草莓味或柠檬味的标签。",
+                "img_url": "http://image.wufazhuce.com/FhcT7UzhSuDGTMGRvX4QXcPVDZf-",
+                "like_count": 20191,
+                "post_date": "2020-01-08 06:00:00",
+                "last_update_date": "2020-01-03 12:25:00",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2650",
+                "pic_info": "Josh Mclain",
+                "words_info": "伊坂幸太郎",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2689",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2689",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2689",
+                    "image": "http://image.wufazhuce.com/FhcT7UzhSuDGTMGRvX4QXcPVDZf-",
+                    "title": "VOL.2650",
+                    "content": "毕竟我不像饮料那样，贴着草莓味或柠檬味的标签。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2689?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2689?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 毕竟我不像饮料那样，贴着草莓味或柠檬味的标签。——伊坂幸太郎 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2689?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2689?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19578",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4151",
+                "title": "奥特曼的幸福告白",
+                "forward": "做人最重要的就是要知道好歹，现在的生活她已经很满足，别的就不要再想了。",
+                "img_url": "http://image.wufazhuce.com/Fp3k4sWg1h0U-Ja3K-GDkszjlc6Y",
+                "like_count": 2366,
+                "post_date": "2020-01-08 06:00:00",
+                "last_update_date": "2020-01-08 00:14:43",
+                "author": {
+                    "user_id": "10416005",
+                    "user_name": "枨不戒",
+                    "desc": "自由撰稿人，自17年来在网络平台写作，作品散见于骚客文艺、怪兽、豆瓣阅读等电子平台，散文集《老去的小镇》获得第31届梁实秋文学奖首奖。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "自由撰稿人。",
+                    "fans_total": "1497",
+                    "web_url": "http://image.wufazhuce.com/FotMRYq1mJOVVJVJQ5ZRYCy1ccMy"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4151",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4151",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4151",
+                    "image": "http://image.wufazhuce.com/Fp3k4sWg1h0U-Ja3K-GDkszjlc6Y",
+                    "title": "奥特曼的幸福告白 作者/枨不戒",
+                    "content": "等我长大了，我就会变成真正的奥特曼。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 奥特曼的幸福告白",
+                        "desc": "文/枨不戒 等我长大了，我就会变成真正的奥特曼。",
+                        "link": "http://m.wufazhuce.com/article/4151?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 奥特曼的幸福告白",
+                        "desc": "文/枨不戒 等我长大了，我就会变成真正的奥特曼。",
+                        "link": "http://m.wufazhuce.com/article/4151?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 奥特曼的幸福告白》 文/枨不戒： 等我长大了，我就会变成真正的奥特曼。 阅读全文：http://m.wufazhuce.com/article/4151?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4151?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "奥特曼的幸福告白",
+                        "desc": "等我长大了，我就会变成真正的奥特曼。",
+                        "link": "http://m.wufazhuce.com/article/4151?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19484",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1069",
+                "title": "铃兰·第十八章·界限模糊的善恶",
+                "forward": "你内心的另一个自己在做出选择，那才是真正的你。",
+                "img_url": "http://image.wufazhuce.com/FrEEMD1gDiP2cgR6LplJ-xsl_aH-",
+                "like_count": 985,
+                "post_date": "2020-01-08 06:00:00",
+                "last_update_date": "2019-12-23 14:51:37",
+                "author": {
+                    "user_id": "10866249",
+                    "user_name": "夏阳",
+                    "desc": "小说作家，摇滚青年，久居北京，夜行动物。",
+                    "wb_name": "@ 夏阳Joker",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写小说的。",
+                    "fans_total": "1406",
+                    "web_url": "http://image.wufazhuce.com/FqaYtfVfdxDmpEumJZKSLQsaAdzB"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第18章",
+                "number": "18",
+                "serial_id": "77",
+                "serial_list": [
+                    "1038",
+                    "1040",
+                    "1041",
+                    "1044",
+                    "1045",
+                    "1046",
+                    "1049",
+                    "1052",
+                    "1053",
+                    "1054",
+                    "1056",
+                    "1063",
+                    "1064",
+                    "1065",
+                    "1066",
+                    "1067",
+                    "1068",
+                    "1069",
+                    "1075",
+                    "1076",
+                    "1077",
+                    "1080",
+                    "1081",
+                    "1082"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1069",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1069",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1069",
+                    "image": "http://image.wufazhuce.com/FrEEMD1gDiP2cgR6LplJ-xsl_aH-",
+                    "title": "铃兰·第十八章·界限模糊的善恶 作者/夏阳",
+                    "content": "你内心的另一个自己在做出选择，那才是真正的你。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 铃兰·第十八章·界限模糊的善恶",
+                        "desc": "文/夏阳 你内心的另一个自己在做出选择，那才是真正的你。",
+                        "link": "http://m.wufazhuce.com/serial/1069?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 铃兰·第十八章·界限模糊的善恶",
+                        "desc": "文/夏阳 你内心的另一个自己在做出选择，那才是真正的你。",
+                        "link": "http://m.wufazhuce.com/serial/1069?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 铃兰·第十八章·界限模糊的善恶》 文/夏阳： 你内心的另一个自己在做出选择，那才是真正的你。 阅读全文：http://m.wufazhuce.com/serial/1069?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1069?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "铃兰·第十八章·界限模糊的善恶",
+                        "desc": "你内心的另一个自己在做出选择，那才是真正的你。",
+                        "link": "http://m.wufazhuce.com/serial/1069?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19586",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2720",
+                "title": "如何做到爱自己？",
+                "forward": "成熟的爱的原则是：我被人爱，因为我爱人。",
+                "img_url": "http://image.wufazhuce.com/FiaWpLTb-3a_YmL00g2Qym0DHHuO",
+                "like_count": 3572,
+                "post_date": "2020-01-08 06:00:00",
+                "last_update_date": "2020-01-08 10:25:49",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "姜乐辛",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2720",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2720",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2720",
+                    "image": "http://image.wufazhuce.com/FiaWpLTb-3a_YmL00g2Qym0DHHuO",
+                    "title": "如何做到爱自己？",
+                    "content": "如何做到爱自己？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何做到爱自己？",
+                        "desc": "文/任任艾 爱自己是一生浪漫的开始。",
+                        "link": "http://m.wufazhuce.com/question/2720?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何做到爱自己？",
+                        "desc": "文/任任艾 爱自己是一生浪漫的开始。",
+                        "link": "http://m.wufazhuce.com/question/2720?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何做到爱自己？》 文/任任艾： 爱自己是一生浪漫的开始。 阅读全文：http://m.wufazhuce.com/question/2720?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2720?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何做到爱自己？",
+                        "desc": "爱自己是一生浪漫的开始。",
+                        "link": "http://m.wufazhuce.com/question/2720?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10945096",
+                    "user_name": "任任艾",
+                    "desc": "自由撰稿人，爱用雅俗相兼的文字冷静地叙写情感，已出版《幸福女人读婚姻》。",
+                    "wb_name": "@任任艾-",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "自由撰稿人，已出版《幸福女人读婚姻》",
+                    "fans_total": "221",
+                    "web_url": "http://image.wufazhuce.com/Fve8koHSiD1S4_4y1p0nvM5lw6hH"
+                }
+            },
+            {
+                "id": "19573",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3182",
+                "title": "你不爱我，是开头也是结局",
+                "forward": "成年人的世界中，面对爱情，最需要做到的不过就是及时止损。你不爱我，那我退出你的生活，不再打扰。",
+                "img_url": "http://image.wufazhuce.com/Ft5wmtdGJ07qxVCPmVqWXyINCsod",
+                "like_count": 2717,
+                "post_date": "2020-01-08 06:00:00",
+                "last_update_date": "2020-01-07 23:13:09",
+                "author": {
+                    "user_id": "8998039",
+                    "user_name": "谢绾",
+                    "desc": "百日空想美食家",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "百日空想美食家",
+                    "fans_total": "5264",
+                    "web_url": "http://image.wufazhuce.com/FnSa7uhw1EZg8RGH9eo0FLIcSSt9"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/ltZ72j-D2VP9qSlJmn9XvJZmg-mw",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "Q9",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3182",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3182",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3182",
+                    "image": "http://image.wufazhuce.com/Ft5wmtdGJ07qxVCPmVqWXyINCsod",
+                    "title": "「一个」音乐: 谢绾 Q9",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.我坐在理发店里，要求理发师给我推成板寸，再拉上一个X图案。理发师拽着我的长马尾，很是惋惜。他说现在秃头和脱发的人太多，少见我这样一大把浓密的头发，只可惜表面这层的分叉太多。听着这话，我还是执意要营造一个全新的自己，哪怕因为缺乏睡眠，所以脸色苍白，眼底青灰。&ldquo;那我就给你剪掉咯。&rdquo;理发师的表情甚至有点歉意，仿佛不珍惜尚且浓密的头发，实在是不该。我抬头望向镜子里的自己，费力地按了按太阳穴，血液从四肢百骸冲涌上来，像潮水拍打礁石一样撞着头颅。忽然想起一句话：我对你的感情，就像头发的分叉一样不合时宜。丁晨对长发近乎变态的执着，实实在在影响了我好多年。其实我留长头发并不好看，而且长期懒散而疏于护理，导致它更像一团杂草。我实在很难描述丁晨同我的关系，毕竟曾经也笃定，友情以上必然是爱情未满。可不是。在不了解他的人眼中，他风趣绅士进退有度，总能恰到好处地给予关怀。可当真对他抱有好感时才会觉得，他的态度太过暧昧不清。就像给人以希冀，乘着过山车直冲云霄，而后又跌入谷底。我知道自己应该保持冷静的，经常跟朋友开玩笑：&ldquo;是人是鬼都已经见过了，我自己也不是什么好东西。&rdquo;可就应乾隆给如懿取名，一次心意动。只是恰到好处的，在某个愿意动心的时间点，看见一个并不值得动心的人。丁晨同我维持了好几年普通朋友的关系。我算计半晌，才觉得大概真正动心，起始于偶然一次的遭遇。我那天回家途中被人堵着要微信，叼着烟的男孩子讲起几句土味情话，大概是从某些视频软件学来的小把戏。上班的烦躁与二手烟的尼古丁味直直令人作呕，我努力皱眉，叫自己看起来便不大善良，心里实则慌乱不已。好在丁晨及时替我解围，掌心贴在肩头的触感，让我头次觉得满是暖意。我还记得他微怒的表情，&ldquo;离我女朋友远点！&rdquo;他体型清瘦，额头上有些许汗水，大概是小跑过来的缘故。这种场景其实并不在我所有关于浪漫的幻想之中，可真真切切发生后，竟远胜于我曾做过所有面目模糊的美梦，这是一场鲜活的、呼吸的星彩。惊魂不定的时候我还记得向他道谢，而他只是低声宽慰，从路边刚支起的小点心铺买了一瓶AD钙。&ldquo;这个应该不算很甜。&rdquo;他连我不爱甜味的习惯都记得。我不知道是这种英雄救美的方式更令我动心，还是一贯以来朋友之间微末的好感得以升华。后来坐在街边的米线店，我从菜谱中间回过神，看见他眼底细碎光亮。我鬼使神差给了他一个拥抱，全当做是感谢，&ldquo;射手男都和你一样，这么贴心吗？&rdquo;他笑了笑：&ldquo;当然不一样。&rdquo;&nbsp;2.我同丁晨从大学时代相识，到一同留在异乡。但有些可惜的是，我们却到现在才有理由拉近距离。下班之后偶尔会约饭，他每次都会送我回家，刨除心底微不足道的不确定，我猜这是彼此欢喜。我们一同去清吧听歌，点两杯没有什么度数的酒，打发时间一样坐到深夜，就算没有讲几句话，也足够让我的心温软下来。及时止损应该是一种天赋。又或者说我刚好缺乏这种天赋。走到社会上之后，很多情形都教会我们不要把事情做太绝，否则哭天抢地的样子实在难看。所以我从未标榜多么爱他，甚至对这句话绝口不提，只是将这种情绪安稳地摁在心底。他问我感情动向，我也只是搪塞，实在没有能力对着他玩笑的口吻，说出一句：&ldquo;我喜欢你。&rdquo;不想说出口，又渴望被发现，可到了分叉口又害怕被人觉察出自己这点难以启齿的小心思，多么纠结。唯一一次逾距，是在KTV的真心话大冒险局上，他问我近期有什么机会，我说：&ldquo;你。&rdquo;说完就后悔，装作被酒呛到，连连咳嗽之后，改口成：&ldquo;你猜。&rdquo;我什么都不敢承认，到底是太懦弱。可丁晨不是的。等我选择抽身后，再从上帝视角捋顺我同他的关系，不难发现他便是微博一直刷屏的暖渣男类型。只是我太容易被柔情蜜意蒙蔽双眼，心甘情愿地搅进漩涡而已。我蓄长发的过程很是艰难，长到颈脖时，是最令人难以忍受的长度，扎起来不够好看，垂下来又足够闹心。简直像极了我对丁晨不可言说的感情。&nbsp;3.如果不是丁晨同另一个姑娘牵扯不清的场面被我撞见，大概我会始终沉溺于这种虚伪的情义。他们言语暧昧，附带细微的肢体动作，就像曾经的他和我。其实我挺后知后觉的，毕竟&ldquo;喜欢你&rdquo;这种柔光变焦滤镜加在眼睛上，叫人无知无觉、偏听偏信。有很多人打着暖男的幌子，不愿意对爱情负责，丁晨就是其中之一。他对谁都好，又对谁都并非真正上心，不过是在爱自己之余，将多余的不必要的精力宣泄出去。我出差回来，在上海浦东机场落地，突然觉得心酸。同班航空的姑娘将大大小小的行李箱随便扔在边上，飞奔过去，同接站的男朋友拥抱。没有人会来接我，只有公司报销打车费。丁晨有限的精力不可能全部分给我，他游走周旋在太多女生中间，不肯停泊靠岸。他只会发消息告诉我：&ldquo;路上小心。&rdquo;一句不会有任何附加成本的话语，却能惊动一个人的心。这种感情我本来就不该沉溺放肆，何况他那样聪明，怎么会看不懂我的暗示？他只是不想看懂，所以假装一无所知，所以装作若无其事。我同他一样是射手座，总不能将这归咎于星座的劣根性。诚如他所讲，哪有人是一样的，就算抽筋削骨都会有千差万别的深浅颜色。网上铺天盖地评论pua渣男，恰巧丁晨离职。部门从前跟他暧昧的小姑娘摆摆手机，到处宣扬：&ldquo;还好我机灵，不然岂不是要被骗了。&rdquo;她当然没有被骗，只是像我一样，曾经幻想过，自己会是丁晨的唯一，是他的回头岸。我只能悄悄宽慰自己，起码他没有给承诺，没有给许愿，我自然也没有空欢喜、空惆怅。&nbsp;4.很多人会用华丽的语句来形容爱情，譬如今晚月色很美，譬如你是我见过最不一样的。可我不是，我想要的，只是&ldquo;我和在身边的你&rdquo;。如果一个人的感情可以分成几等分，再平均地给予别人，那我宁可连一点都不要。断舍离不是容易的事，可做不了独一无二，还是及早放手的好。起码免掉用情太深的哭闹，起码免掉一味沉沦的悲伤。我再也不会沉迷这种爱情，换句话来说，这种感情本质上都不应该加上爱情这两个字，以后我的生活会过得更好，没有你，没有多余的爱。人这辈子其实也没有很长，我希望我能够在有限的时间中，将我的爱给予那位心里眼里都只有我的人。成年人的世界中，面对爱情，最需要做到的不过就是及时止损。你不爱我，那我退出你的生活，不再打扰。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你不爱我，是开头也是结局",
+                        "desc": "文/谢绾 我们就到这吧，你归你，我归我。",
+                        "link": "http://m.wufazhuce.com/music/3182?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你不爱我，是开头也是结局",
+                        "desc": "文/谢绾 我们就到这吧，你归你，我归我。",
+                        "link": "http://m.wufazhuce.com/music/3182?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你不爱我，是开头也是结局》 文/谢绾： 我们就到这吧，你归你，我归我。 阅读全文：http://m.wufazhuce.com/music/3182?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3182?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你不爱我，是开头也是结局",
+                        "desc": "我们就到这吧，你归你，我归我。",
+                        "link": "http://m.wufazhuce.com/music/3182?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "Q9",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "ZZX",
+                "audio_album": "Q",
+                "cover": "http://image.wufazhuce.com/lneUPb33wVftTZY6MFJsxE8xPdMJ",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2650",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4151",
+                    "title": "奥特曼的幸福告白"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1069",
+                    "serial_list": [
+                        "1038",
+                        "1040",
+                        "1041",
+                        "1044",
+                        "1045",
+                        "1046",
+                        "1049",
+                        "1052",
+                        "1053",
+                        "1054",
+                        "1056",
+                        "1063",
+                        "1064",
+                        "1065",
+                        "1066",
+                        "1067",
+                        "1068",
+                        "1069",
+                        "1075",
+                        "1076",
+                        "1077",
+                        "1080",
+                        "1081",
+                        "1082"
+                    ],
+                    "title": "铃兰·第十八章·界限模糊的善恶"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2720",
+                    "title": "如何做到爱自己？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3182",
+                    "title": "你不爱我，是开头也是结局"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

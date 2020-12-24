@@ -1,0 +1,533 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5385",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-20 06:00:00",
+        "content_list": [
+            {
+                "id": "19657",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2710",
+                "title": "摄影",
+                "forward": "你是非常可爱的人，真应该遇到最好的人，我也真希望我就是。",
+                "img_url": "http://image.wufazhuce.com/FhoccSyVh6xziBZnFzh7wtUKKhen",
+                "like_count": 27833,
+                "post_date": "2020-01-20 06:00:00",
+                "last_update_date": "2020-01-17 16:35:43",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2662",
+                "pic_info": "cottonbro",
+                "words_info": "王小波",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2710",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2710",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2710",
+                    "image": "http://image.wufazhuce.com/FhoccSyVh6xziBZnFzh7wtUKKhen",
+                    "title": "VOL.2662",
+                    "content": "你是非常可爱的人，真应该遇到最好的人，我也真希望我就是。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2710?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2710?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 你是非常可爱的人，真应该遇到最好的人，我也真希望我就是。——王小波 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2710?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2710?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19634",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4161",
+                "title": "我们试图相爱",
+                "forward": "爱情故事里，总喜欢把爱情搞得很曲折，但爱情的发生可以是一条简单的射线。",
+                "img_url": "http://image.wufazhuce.com/FhnBx74RcASIwClEUz3_FS-qL7ii",
+                "like_count": 2306,
+                "post_date": "2020-01-20 06:00:00",
+                "last_update_date": "2020-01-20 09:09:00",
+                "author": {
+                    "user_id": "10957830",
+                    "user_name": "王萌",
+                    "desc": "诗歌公众号：打铜巷。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者。",
+                    "fans_total": "410",
+                    "web_url": "http://image.wufazhuce.com/Fv11S4Cn4y2rxS0BZsyJMD9YFIYa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4161",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4161",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4161",
+                    "image": "http://image.wufazhuce.com/FhnBx74RcASIwClEUz3_FS-qL7ii",
+                    "title": "我们试图相爱 作者/王萌",
+                    "content": "那辆车撞他的同时，等于把我也撞了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 我们试图相爱",
+                        "desc": "文/王萌 那辆车撞他的同时，等于把我也撞了。",
+                        "link": "http://m.wufazhuce.com/article/4161?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 我们试图相爱",
+                        "desc": "文/王萌 那辆车撞他的同时，等于把我也撞了。",
+                        "link": "http://m.wufazhuce.com/article/4161?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 我们试图相爱》 文/王萌： 那辆车撞他的同时，等于把我也撞了。 阅读全文：http://m.wufazhuce.com/article/4161?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4161?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我们试图相爱",
+                        "desc": "那辆车撞他的同时，等于把我也撞了。",
+                        "link": "http://m.wufazhuce.com/article/4161?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19569",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1081",
+                "title": "铃兰·第二十三章·城市夜幕的巡礼",
+                "forward": "你有没有想过，比毒药更伤人的，就是爱情。",
+                "img_url": "http://image.wufazhuce.com/FhUzMx5BP5ekE8TrnAPQ-NpRQ1Pf",
+                "like_count": 845,
+                "post_date": "2020-01-20 06:00:00",
+                "last_update_date": "2020-01-10 10:04:18",
+                "author": {
+                    "user_id": "10866249",
+                    "user_name": "夏阳",
+                    "desc": "小说作家，摇滚青年，久居北京，夜行动物。",
+                    "wb_name": "@ 夏阳Joker",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写小说的。",
+                    "fans_total": "1406",
+                    "web_url": "http://image.wufazhuce.com/FqaYtfVfdxDmpEumJZKSLQsaAdzB"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第23章",
+                "number": "23",
+                "serial_id": "77",
+                "serial_list": [
+                    "1038",
+                    "1040",
+                    "1041",
+                    "1044",
+                    "1045",
+                    "1046",
+                    "1049",
+                    "1052",
+                    "1053",
+                    "1054",
+                    "1056",
+                    "1063",
+                    "1064",
+                    "1065",
+                    "1066",
+                    "1067",
+                    "1068",
+                    "1069",
+                    "1075",
+                    "1076",
+                    "1077",
+                    "1080",
+                    "1081",
+                    "1082"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1081",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1081",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1081",
+                    "image": "http://image.wufazhuce.com/FhUzMx5BP5ekE8TrnAPQ-NpRQ1Pf",
+                    "title": "铃兰·第二十三章·城市夜幕的巡礼 作者/夏阳",
+                    "content": "你有没有想过，比毒药更伤人的，就是爱情。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 铃兰·第二十三章·城市夜幕的巡礼",
+                        "desc": "文/夏阳 你有没有想过，比毒药更伤人的，就是爱情。",
+                        "link": "http://m.wufazhuce.com/serial/1081?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 铃兰·第二十三章·城市夜幕的巡礼",
+                        "desc": "文/夏阳 你有没有想过，比毒药更伤人的，就是爱情。",
+                        "link": "http://m.wufazhuce.com/serial/1081?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 铃兰·第二十三章·城市夜幕的巡礼》 文/夏阳： 你有没有想过，比毒药更伤人的，就是爱情。 阅读全文：http://m.wufazhuce.com/serial/1081?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1081?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "铃兰·第二十三章·城市夜幕的巡礼",
+                        "desc": "你有没有想过，比毒药更伤人的，就是爱情。",
+                        "link": "http://m.wufazhuce.com/serial/1081?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19667",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2731",
+                "title": "慢热的人该如何谈恋爱？",
+                "forward": "祝你永远长一张没被欺负过的脸，还敢爱，还有力气失望，还有想幸福的念头。",
+                "img_url": "http://image.wufazhuce.com/FvR6V20QN93gFJkoMaACQU4jc8P2",
+                "like_count": 6398,
+                "post_date": "2020-01-20 06:00:00",
+                "last_update_date": "2020-01-19 14:46:03",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "天之北海之涯",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2731",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2731",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2731",
+                    "image": "http://image.wufazhuce.com/FvR6V20QN93gFJkoMaACQU4jc8P2",
+                    "title": "慢热的人该如何谈恋爱？",
+                    "content": "慢热的人该如何谈恋爱？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 慢热的人该如何谈恋爱？",
+                        "desc": "文/文长长 有时，真的会觉得爱一个人好难。",
+                        "link": "http://m.wufazhuce.com/question/2731?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 慢热的人该如何谈恋爱？",
+                        "desc": "文/文长长 有时，真的会觉得爱一个人好难。",
+                        "link": "http://m.wufazhuce.com/question/2731?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 慢热的人该如何谈恋爱？》 文/文长长： 有时，真的会觉得爱一个人好难。 阅读全文：http://m.wufazhuce.com/question/2731?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2731?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "慢热的人该如何谈恋爱？",
+                        "desc": "有时，真的会觉得爱一个人好难。",
+                        "link": "http://m.wufazhuce.com/question/2731?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "19626",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3192",
+                "title": "你什么都不用做，光是站在那里，我都爱你",
+                "forward": "在感情中，女生想要的不是爱，而是偏爱。当我知道你偏爱我一人时，我会有着安全感，我知道我不会成为你的负担，而你会成为我前进的动力。",
+                "img_url": "http://image.wufazhuce.com/Fofyl3lE2iN-TopY-XK01RjeL9ip",
+                "like_count": 2759,
+                "post_date": "2020-01-20 06:00:00",
+                "last_update_date": "2020-01-19 20:39:58",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/luHPUcKLykNLS7q9X67zq6DD0BG9",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "C2",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3192",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3192",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3192",
+                    "image": "http://image.wufazhuce.com/Fofyl3lE2iN-TopY-XK01RjeL9ip",
+                    "title": "「一个」音乐: 姜乐辛 C2",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.林子傲是我现任男友，我们在一起三年多，其间少有吵闹。我曾经一度在想，关于我和林子傲的这段感情，我是不是应该说点什么才算是对得起我们，对得起这段感情。可我停笔许久，我怕甜到自己。认识我的朋友都知道，我性格有些软弱，尤其是面对感情，当对方表现出极其喜欢我那种状态时，我会有些不知所措，不知道该怎么去回馈对方。倒不是说林子傲不够好，相反，林子傲是个完美性的恋人。之所以这么定义他，是因为他在我和朋友眼中，当真做到了完美。我们从相识到恋爱，他都把我保护的很好，从未让我受过一点委屈。&nbsp;在林子傲身边，我总觉得我上辈子是他的救命恩人，所以这辈子，他如此爱护我。&nbsp;2.我们很难不被浑身散发着光芒的人吸引，林子傲出现在我生命中，这绝非偶然，他享受唱歌的舞台，哪怕只是个小小的地方。那是我第一次去清吧，朋友因为失恋，拉我喝酒。可惜我酒精过敏，只能喝饮料。平时逞强要面子的她，喝了酒就像个孩子，拿着酒杯跟我说她这段感情有多难过，那个男人给她带来多大的伤害，她明明很恨他，可终究是她自己选的人，她接受现在的一切。在遇见那个男人之前，她是怕失恋的，总觉得失恋是件天要塌下来的事，但结束这段感情后，她突然明白一个道理，失恋这事，其实过去了，也就没那么可怕。她说累后趴在桌上睡，我听着台上那位驻唱歌手唱歌，他说他今天带来的歌是自己的原创作品，希望大家能够喜欢。&nbsp;他的长相不是一眼望去，就觉得自己可以的那种，而是越看越入迷，尤其是当他开口唱歌时，忧郁眼神加上烟嗓特点，完全将我的注意力吸引过去。台下的人很多，听说那天还有专门为他而去的小粉丝。我不知道自己哪来的勇气，在他唱完歌后跑到他面前要微信。我发誓，要林子傲微信是我这辈子做过最勇敢的一件事，也是最不会后悔的事。他没有觉得我这样很唐突，而是看了我一眼，笑着对我说：&ldquo;你之前也是这么找别人要微信号的吗？&rdquo;我有些脸红，急忙摇着头说不是，这是第一次。他拿出手机加了我微信，验证消息：林子傲。林子傲，我喜欢这个名字。出于礼貌，我也将我的名字发了过去：骆衫。&nbsp;3.加完好友，他背上他的吉他转身离开，我站在原地跟他挥手说再见。看他身影渐渐远去，我马上拿出手机翻他朋友圈，看看有没有其她女生的踪迹，可惜他朋友圈只有日常生活和音乐分享，我从朋友圈看到微博，从微博看到网易云，关于他的一切，我都充满兴趣。正在我看的津津有味时，朋友走到我身后问我在看什么看这么认真，我连忙否认，她半信不疑地拿走我的手机，捂着嘴说：不会吧骆衫，这不是刚刚那个驻唱嘛，什么情况啊。&ldquo;酒还没醒吧，走走走，回家了。&rdquo;为了避免她再说什么，我只好拉她回去。那晚我有些失眠，我在床上翻滚着身子，找各种话题跟他搭话，他没有嫌我烦，陪我聊到凌晨三点，后来我实在困得不行，跟他说了声晚安。他温柔地回道：那晚安，祝你有个好梦。或许是我太久没跟心动的男生聊天，跟他结束对话后，我发了条朋友圈庆祝：光会照亮前方的路。他秒赞后，在评论区留下一句话：逆光而来的，是温柔。在那之后，我经常去听他唱歌，每次都提前到那给他酸奶。这个小习惯是在平时聊天时，他无意间提到的，他说他上场前都会喝酸奶，起初是为了不让自己紧张，后来竟成为习惯。在我第一次给他带酸奶那天，他有些惊讶，许是没想到我会这样做，接过酸奶，他看着我会心一笑，带我坐在他给我留好的位置上。日子久了，那家清吧里的朋友都认识我，每次我到那，大家都调侃，杉杉来找林子傲呀。&nbsp;大家对我很客气，我从最开始害羞到最后跟大家玩到一起，甚至深夜畅聊都有过。有次我们玩真心话大冒险，我抽到真心话，大家互相看着，然后问我：杉杉，老实说，你是不是喜欢林子傲。我被当众问的有些不知所措，脸瞬间红了起来。我将眼光投向林子傲，想找他求助，可不知道他是故意不说话，还是想听到答案。我们大眼瞪小眼，正在我闭着眼准备承认时，我旁边出来一个声音：骆衫，我喜欢你。我睁眼看着旁边的林子傲，发现他坐在我身边。大家在身边起哄，说在一起在一起。&nbsp;我坐在那不知道该说些什么，林子傲看着我的眼睛问我愿不愿意做他女朋友。我想都没想，直点头：我愿意。这让我更加肯定，当时找他要联系方式是正确的选择。主动才有故事，不主动或许只会后悔。&nbsp;不过有一说一，我没想到他也会喜欢我，我向来对自己没有自信，总觉得什么好事都不会发生在我身上，我这个人就是好事绝缘体。&nbsp;4.林子傲的出现，带我走出我的自我否定，这点我真的很感谢他。他时不时给我讲个笑话，唱首歌，跟我一起沟通作词，了解我的想法和看法，有时候我会觉得我这想法很稚嫩，不够他想要达到的那个高度，但他从未有过一点不耐烦，每次都认认真真听我表达。&nbsp;那是我第一次感受到被在乎，被肯定，被相信。&nbsp;我不是个喜欢看书的人，但和林子傲在一起后，我对知识的渴望程度越来越高，平时他在忙时，我会去看各种书籍提高自己，拓展自己的知识性。&nbsp;这是件幸福的事，连我妈每次跟我开视频，我都是在看书。我妈说她没做到的，林子傲都做到了，她要请林子傲去我们家吃饭，当面夸夸他。当然，我没跟林子傲提这事，怕他飘起来。我从前不了解创作者这个行业的辛苦，看到林子傲坐在桌前焦虑的模样，我想我能做的大概就是陪在他身边，给他一个暖心地拥抱。恋爱一年，我们选择同居，同居生活比我们想象中快乐。白天我上班，晚上去他驻唱的清吧&ldquo;童话&rdquo;听他唱歌。我的生活不再像从前一样单调，有时候，也会带上朋友一起去捧场。刚跟林子傲确定关系时，朋友说，果然啊骆衫，我就知道你对人家有意思，还不承认。为了感谢她当时带我去&ldquo;童话&rdquo;，我决定请她去我家吃饭，我跟林子傲一起给她做顿丰盛的谢友宴。那晚我们仨聊到很晚，在陌生的城市中，有着彼此陪伴，我们身上那份孤独感，渐渐变得不再明显，不再重要。林子傲知道我喜欢舞蹈，但我因为懒，之前报好的舞蹈课，去了一次就再也没去过。&nbsp;他给我报好班后跟我说，以后每次他都陪我一起。后来当真我在上舞蹈课，他在门口等我。&nbsp;很累时想要放弃，在家睡觉，林子傲都拉着我去那，他说他不希望看到我放弃自己喜欢的事情。&nbsp;本着我对舞蹈的喜欢和天赋，加上原有的舞蹈基础，再捡起来并不难，我开始认真对待舞蹈这件事，像我认真看书一样。&nbsp;每跳一支舞，我都会觉得身体很放松，似乎再多情绪都能在舞蹈中表达，我不像林子傲那样会写，可以将想说的话都写在歌词中，我只有用舞蹈来传递。经常我跳完舞出来，他还在对着电脑写词，我担心会影响他，和他说以后可以不用陪我来上课，我跳完自己回去就行。&nbsp;林子傲抱着我，他说他希望我在地方都有他，我可以随时找到他，而他也可以在我需要他时，第一时间陪着我。&nbsp;这是他爱我方式，我欣然接受，也很享受这份爱。&nbsp;5.在感情中，女生想要的不是爱，而是偏爱。当我知道你偏爱我一人时，我会有着满满的安全感，我知道我不会成为你的负担，而你会成为我前进的动力。&nbsp;我们会在放假的时候，宅在家看电影，做甜品，愿意走动时，也会出去拍照片。林子傲看到我从前的摄影照片后，在我们恋爱一周年纪念日那天，送了我一台相机，之后这相机里都是他，林子傲说这是为了提高我的摄影水平。&nbsp;不过虽然这样说，他也有在学习摄影技巧，给我拍了很多照片。&nbsp;我也因此省去拍写真的钱，林子傲这位摄影师只需要一顿烧烤就可以搞定。&nbsp;他不断地挖掘我身上优点，将我内在潜能全都激发出来，我也很荣幸，因为他变成了更好的人。如果不是林子傲，我想或许我不会再去跳舞，也不会再摄影，习惯当工作奴后，剩下的所有时间，我都只想拿来睡觉，偶尔和朋友出去玩。&nbsp;林子傲拿着我给他拍的照片，以我名义参加了省赛，虽然没获奖，但我还是很高兴。后来我开始参加各种摄影活动，林子傲一如既往地陪着我。&nbsp;今年是我们在长沙的第三年，我的新年愿望是开一家属于自己的工作室，名字我都想好了，&ldquo;林骆工作室&rdquo;，教舞蹈和摄影。&nbsp;6.遇见好的恋人，大概不过如此，他会激励你，给你带来前进的动力。&nbsp;我常说林子傲是我的光，可他说，真正照亮我的，其实是我自己，是我愿意花心思和时间，所以才会有这样的成果。认识林子傲是我这辈子，最幸运的事。&nbsp;有幸与你相爱，余生为你而来。&nbsp;谢谢你成为我的光，带我看到那从未见过的世界。若是有下辈子，我还想要再遇见你。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你什么都不用做，光是站在那里，我都爱你",
+                        "desc": "文/姜乐辛 你是我生命中的一切。\n",
+                        "link": "http://m.wufazhuce.com/music/3192?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你什么都不用做，光是站在那里，我都爱你",
+                        "desc": "文/姜乐辛 你是我生命中的一切。\n",
+                        "link": "http://m.wufazhuce.com/music/3192?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你什么都不用做，光是站在那里，我都爱你》 文/姜乐辛： 你是我生命中的一切。\n 阅读全文：http://m.wufazhuce.com/music/3192?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3192?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你什么都不用做，光是站在那里，我都爱你",
+                        "desc": "你是我生命中的一切。\n",
+                        "link": "http://m.wufazhuce.com/music/3192?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "C2",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "ZZX",
+                "audio_album": "C",
+                "cover": "http://image.wufazhuce.com/Fkgv0YzC7v1_AqQ1l4ucp2eGFcGJ",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2662",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4161",
+                    "title": "我们试图相爱"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1081",
+                    "serial_list": [
+                        "1038",
+                        "1040",
+                        "1041",
+                        "1044",
+                        "1045",
+                        "1046",
+                        "1049",
+                        "1052",
+                        "1053",
+                        "1054",
+                        "1056",
+                        "1063",
+                        "1064",
+                        "1065",
+                        "1066",
+                        "1067",
+                        "1068",
+                        "1069",
+                        "1075",
+                        "1076",
+                        "1077",
+                        "1080",
+                        "1081",
+                        "1082"
+                    ],
+                    "title": "铃兰·第二十三章·城市夜幕的巡礼"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2731",
+                    "title": "慢热的人该如何谈恋爱？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3192",
+                    "title": "你什么都不用做，光是站在那里，我都爱你"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

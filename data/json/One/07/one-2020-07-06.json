@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5554",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-06 06:00:00",
+        "content_list": [
+            {
+                "id": "20659",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2871",
+                "title": "摄影",
+                "forward": "连雨不知春去，一晴方觉夏深。",
+                "img_url": "http://image.wufazhuce.com/Fny41mSHC5Nuwrr3GrRppHUIn2Uh",
+                "like_count": 21927,
+                "post_date": "2020-07-06 06:00:00",
+                "last_update_date": "2020-06-30 17:17:54",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2830",
+                "pic_info": "Filip Zrnzevic",
+                "words_info": "范成大《喜晴》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2871",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2871",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2871",
+                    "image": "http://image.wufazhuce.com/Fny41mSHC5Nuwrr3GrRppHUIn2Uh",
+                    "title": "VOL.2830",
+                    "content": "连雨不知春去，一晴方觉夏深。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2871?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2871?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 连雨不知春去，一晴方觉夏深。——范成大《喜晴》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2871?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2871?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20682",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4373",
+                "title": "海尔波普永不回归",
+                "forward": "他说，我能感觉到，这里会跳得厉害。他说着把手放在胸前，我觉得有温度，就像鱼跃进温暖的海水。",
+                "img_url": "http://image.wufazhuce.com/FvvZTQ1dtHlBXhftiI307APTWvcl",
+                "like_count": 2205,
+                "post_date": "2020-07-06 06:00:00",
+                "last_update_date": "2020-07-05 20:14:56",
+                "author": {
+                    "user_id": "11143412",
+                    "user_name": "春帆",
+                    "desc": "讲故事的人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个试图用笔去谈论一切的人。",
+                    "fans_total": "1249",
+                    "web_url": "http://image.wufazhuce.com/FqPQK9g6yDEMlDzXW0V6GDT1RMt6"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4373",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4373",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4373",
+                    "image": "http://image.wufazhuce.com/FvvZTQ1dtHlBXhftiI307APTWvcl",
+                    "title": "海尔波普永不回归 作者/春帆",
+                    "content": "满目疮痍的心，仍无法破解命运的有意为难。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 海尔波普永不回归",
+                        "desc": "文/春帆 满目疮痍的心，仍无法破解命运的有意为难。",
+                        "link": "http://m.wufazhuce.com/article/4373?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 海尔波普永不回归",
+                        "desc": "文/春帆 满目疮痍的心，仍无法破解命运的有意为难。",
+                        "link": "http://m.wufazhuce.com/article/4373?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 海尔波普永不回归》 文/春帆： 满目疮痍的心，仍无法破解命运的有意为难。 阅读全文：http://m.wufazhuce.com/article/4373?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4373?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "海尔波普永不回归",
+                        "desc": "满目疮痍的心，仍无法破解命运的有意为难。",
+                        "link": "http://m.wufazhuce.com/article/4373?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20653",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1227",
+                "title": "维多利亚的派对·第八章：水中的她",
+                "forward": "她当时不知道，自己得到的一切都是幸运，幸运是会被收回的。",
+                "img_url": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                "like_count": 777,
+                "post_date": "2020-07-06 06:00:00",
+                "last_update_date": "2020-07-05 20:08:24",
+                "author": {
+                    "user_id": "9618188",
+                    "user_name": "吴沚默",
+                    "desc": "编剧，TVB演员。",
+                    "wb_name": "@吳沚默momo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，TVB演员。",
+                    "fans_total": "4493",
+                    "web_url": "http://image.wufazhuce.com/Fo5OsUHwTVzmosA0MtZMBJV9tOWs"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第8章",
+                "number": "8",
+                "serial_id": "86",
+                "serial_list": [
+                    "1215",
+                    "1217",
+                    "1218",
+                    "1219",
+                    "1220",
+                    "1225",
+                    "1226",
+                    "1227",
+                    "1228",
+                    "1232",
+                    "1233",
+                    "1234",
+                    "1235",
+                    "1236",
+                    "1237",
+                    "1238",
+                    "1239",
+                    "1260",
+                    "1261",
+                    "1262",
+                    "1263",
+                    "1264",
+                    "1265",
+                    "1266",
+                    "1267",
+                    "1268",
+                    "1269"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1227",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1227",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1227",
+                    "image": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                    "title": "维多利亚的派对·第八章：水中的她 作者/吴沚默",
+                    "content": "她当时不知道，自己得到的一切都是幸运，幸运是会被收回的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 维多利亚的派对·第八章：水中的她",
+                        "desc": "文/吴沚默 她当时不知道，自己得到的一切都是幸运，幸运是会被收回的。",
+                        "link": "http://m.wufazhuce.com/serial/1227?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 维多利亚的派对·第八章：水中的她",
+                        "desc": "文/吴沚默 她当时不知道，自己得到的一切都是幸运，幸运是会被收回的。",
+                        "link": "http://m.wufazhuce.com/serial/1227?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 维多利亚的派对·第八章：水中的她》 文/吴沚默： 她当时不知道，自己得到的一切都是幸运，幸运是会被收回的。 阅读全文：http://m.wufazhuce.com/serial/1227?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1227?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "维多利亚的派对·第八章：水中的她",
+                        "desc": "她当时不知道，自己得到的一切都是幸运，幸运是会被收回的。",
+                        "link": "http://m.wufazhuce.com/serial/1227?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20635",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2899",
+                "title": "如何激发学习欲望？",
+                "forward": "每个人内心都有过想要好好学点东西的欲望，我们欠缺的是不断延续自己的学习欲望，保持自己专注力的能力。",
+                "img_url": "http://image.wufazhuce.com/FgsFL7n5ul7xENxztso2ba67TuW0",
+                "like_count": 3951,
+                "post_date": "2020-07-06 06:00:00",
+                "last_update_date": "2020-07-05 19:53:49",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "闷闷头",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2899",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2899",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2899",
+                    "image": "http://image.wufazhuce.com/FgsFL7n5ul7xENxztso2ba67TuW0",
+                    "title": "如何激发学习欲望？",
+                    "content": "如何激发学习欲望？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何激发学习欲望？",
+                        "desc": "文/文长长 要很清楚你想要去的远方在哪里，你究竟有多想要到达那个地方。",
+                        "link": "http://m.wufazhuce.com/question/2899?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何激发学习欲望？",
+                        "desc": "文/文长长 要很清楚你想要去的远方在哪里，你究竟有多想要到达那个地方。",
+                        "link": "http://m.wufazhuce.com/question/2899?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何激发学习欲望？》 文/文长长： 要很清楚你想要去的远方在哪里，你究竟有多想要到达那个地方。 阅读全文：http://m.wufazhuce.com/question/2899?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2899?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何激发学习欲望？",
+                        "desc": "要很清楚你想要去的远方在哪里，你究竟有多想要到达那个地方。",
+                        "link": "http://m.wufazhuce.com/question/2899?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "20669",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3287",
+                "title": "你一定会，站在热爱的世界闪闪发光",
+                "forward": "少年就是少年，他们看春风不喜，看夏蝉不烦，看秋风不悲，看冬雪不叹，看满身富贵懒察觉，看不公不允敢面对，只因他们是少年。",
+                "img_url": "http://image.wufazhuce.com/Ftd2qetHoKY9y_1OgRnNIrawiX8d",
+                "like_count": 2514,
+                "post_date": "2020-07-06 06:00:00",
+                "last_update_date": "2020-07-06 08:16:46",
+                "author": {
+                    "user_id": "7820045",
+                    "user_name": "董大胆",
+                    "desc": "典型巨蟹座，微博@是董大胆",
+                    "wb_name": "@是董大胆",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "典型巨蟹座",
+                    "fans_total": "14449",
+                    "web_url": "http://image.wufazhuce.com/FuEA5ld2cD8j9-0b8BLXSk1fsgxC"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/loUyRZSPSyJod2HlKHf0pOhF-AHq",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "电影主角",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3287",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3287",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3287",
+                    "image": "http://image.wufazhuce.com/Ftd2qetHoKY9y_1OgRnNIrawiX8d",
+                    "title": "「一个」音乐: 董大胆 电影主角",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.陈诚回母校的那天下午，这座城市刚下过一场声势浩大的雨。这场雨打乱了他的计划，原本他想同合作方谈妥后直接过去，谁知瞬间被淋成落汤鸡。好在离家不远，于是湿漉漉地赶回家换衣服。一向做事周全的他，没将自己在生活里的马虎大意算进去。这半个月他整个人都泡在团队的新项目里，根本无暇顾及其它。家里的脏衣服早已堆积如山，翻遍整个房间，都没能找出一套干净的西服，只能退而求其次地选择了简单的常服。离开家时陈诚看到闲置在一旁的自行车，觉得自己这样穿就该骑上它，索性真这样做了。他骑着自行车穿过一排排香樟树，车轮轧过地面被雨水打湿的树叶，有一瞬间的恍惚觉得自己还是个高中生。他又想起这些年的际遇，苦笑着摇摇头，到底是回不去了。感叹着自己早已离开黄金时代的陈诚，在校门口被门卫大叔一顿责备：&ldquo;你哪个班的？这都什么时候了，典礼都要开始了，你还搁这慢悠悠的。&rdquo;&ldquo;大叔，我是受邀回来的毕业生。&rdquo;他颇为委屈。大叔盯着他细细思索，过会突然说道：&ldquo;我想起来了，你小子当年&hellip;&hellip;&rdquo;&ldquo;大叔，要来不及了，我先进去了。&rdquo;趁大叔还没说出自己的&ldquo;光荣事迹&rdquo;时，陈诚赶紧溜之大吉。门卫大叔没有继续说下去，快步离开的他松了口气：&ldquo;能被门卫大叔记住的，一定不是什么好事，还好我溜得快。&rdquo;2.脱身之后他很快被校园里的横幅吸引了，那些醒目的大字，话语间全是对高三生的祝福。他嗅到紧张的气息，也感受到属于他们的光明未来正一步一步靠近。钟意一眼就认出了陈诚，哪怕他们已经很久没见了，久到她以为他们这辈子都不会再见了，可他又出现了。之前老许说陈诚也会来，她还以为他不过是逗她开心。老许是她和陈诚高三时的班主任，但是她和陈诚并不同班，他比她高一届，他快毕业时她才认识他。陈诚这个名字早在她刚进高一时便听过了，他是整个学校的&ldquo;风云人物&rdquo;，各种与学习无关，性质恶劣的事，大家最先想到的始作俑者都是陈诚。他和老许那些&ldquo;明争暗斗&rdquo;的故事，在学校被传为一段佳话。托他的福，老许也被传得神乎其神，所有拯救问题生的事只要到了老许这里似乎就能引刃而解。可老许和钟意说，是陈诚拯救了自己，在这个世界上能拯救自己的只有自己。陈诚身体里所有的叛逆因子来自他的父亲，从小到大，每当陈诚犯错，他父亲总是二话不说揍他一顿。陈诚不认同父亲的教育方式，于是选择了另一个错误的反抗方式。他选择犯更多的错去激怒自己的父亲，也把自己弄得伤痕累累。老许替陈诚治好了那些伤，把他从黑暗中拉出来，给他机会再次选择要成为怎样的人。陈诚没有让老许失望，这次他回来，是要作为优秀毕业生发言的。3.钟意认识陈诚是很巧合的事情，陈诚毕业那年，她拿了个相机在校园里随手记录毕业季。拍累了的她，蹲在树荫下看成片。陈诚抱着一箱子的复习资料刚好路过，便把那个箱子送给了她。&ldquo;这些复习资料给你好了。&rdquo;当时的他没有任何铺垫，简单直白地把箱子放在了她旁边，也不管她要不要。还未等钟意反应过来说句谢谢，他便大步离开，钟意只好举起相机拍下了他的背影。阳光从树叶的缝隙里照下来，她看到了扉页上的名字&mdash;&mdash;陈诚。后来老许发现了她对那些书的珍视，于是偶尔和她说起陈诚。那个只有一面之缘，却在她生命里打下深深烙印的少年。时隔多年，她见到他，他仍然是少年。这令她想起陀思妥耶夫斯基《少年》里的那段话：&ldquo;少年就是少年，他们看春风不喜，看夏蝉不烦，看秋风不悲，看冬雪不叹，看满身富贵懒察觉，看不公不允敢面对，只因他们是少年。&rdquo;好可惜，他不认识她。不过钟意没时间伤春悲秋，陈诚随心所欲穿的衣服，虽然衬他的少年感，可并不适合上台发言。她有条不紊地联系了商家送一套西服过来，在后台找到了陈诚。&ldquo;麻烦你还是换一件衣服，等会拍照可能会好看些。&rdquo;她礼貌地露出一个笑，手心却早已濡湿。&ldquo;不好意思。&rdquo;他局促地挠了挠后脑勺，&ldquo;我马上去换。&rdquo;&nbsp;4.陈诚的发言反响很好，他说到自己过去走的弯路，感谢老许对自己的帮助，还说到这几年的成就。每一句话都掷地有声，振聋发聩。最后他说：&ldquo;请你相信，这看似不起眼的日复一日，会在将来的某一天，突然让你看到坚持的意义。&rdquo;&ldquo;等苦尽甘来的那一天，山河星月都将为你做贺礼。&rdquo;大家掌声雷动，钟意拿着相机站在人群中，湿了眼眶。她为他开心，他终于成为了闪闪发光的大人。她没发现，陈诚的目光也落在她的身上。她不知道，这世上其实没有那么多偶然。比如那他给她复习资料那天，他早就跟着她走了大半个校园，设想哪句开场白不会让她以为自己别有用心。再比如，他为什么会无缘无故给一个陌生人东西，何况那些资料还是他整理了一个礼拜才弄出来的。他早就认识她，高二冬天的某一天，他再次把自己弄得伤痕累累后离家出走。直到饥肠辘辘才发现自己身上一分钱都没有，于是只好尝试向路人求助。可大家看到他狼狈的模样，都避之不及，只有钟意把口袋里的钱都掏出来给了他。当时的她迷迷糊糊，似乎因为早起精神状态不佳，可他视力很好，瞥见了她校徽上的名字。人群逐渐散去，他静静地望着她，发现她也站在原地没有动。他突然明白了什么，她为什么能准确地把衣服拿给自己，为什么前一天老许反复问自己是不是真的会来。恍然大悟的他跳下舞台，快速朝她跑过去，自己如此突兀，也不知道会不会吓到她？他要说什么呢？就问她照片拍得好看吗？能不能发给自己？那只好加个微信吧。他们之间的距离逐渐缩短，她的目光炙热，他像是被一种难得的安全感包裹了起来。于是他听见自己支支吾吾的声音：&ldquo;你好呀！我是陈诚。&rdquo;钟意对他笑，不说话，他却读懂了一切。反正他们俩时间还长，可以慢慢诉衷肠、讲情话。他相信这不是故事的结束，而是故事的开始。前路坦荡，最好的仍在路上。祝高三的读者朋友们高考顺利，一起走花路吧！\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你一定会，站在热爱的世界闪闪发光",
+                        "desc": "文/董大胆 明天的太阳和大学录取通知书，都值得期待。",
+                        "link": "http://m.wufazhuce.com/music/3287?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你一定会，站在热爱的世界闪闪发光",
+                        "desc": "文/董大胆 明天的太阳和大学录取通知书，都值得期待。",
+                        "link": "http://m.wufazhuce.com/music/3287?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你一定会，站在热爱的世界闪闪发光》 文/董大胆： 明天的太阳和大学录取通知书，都值得期待。 阅读全文：http://m.wufazhuce.com/music/3287?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3287?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你一定会，站在热爱的世界闪闪发光",
+                        "desc": "明天的太阳和大学录取通知书，都值得期待。",
+                        "link": "http://m.wufazhuce.com/music/3287?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "电影主角",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "LEGGO",
+                "audio_album": "电影主角",
+                "cover": "http://image.wufazhuce.com/Fkl_Vl_g8qJ6jBuk1PyDoEMLw7VG",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2830",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4373",
+                    "title": "海尔波普永不回归"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1227",
+                    "serial_list": [
+                        "1215",
+                        "1217",
+                        "1218",
+                        "1219",
+                        "1220",
+                        "1225",
+                        "1226",
+                        "1227",
+                        "1228",
+                        "1232",
+                        "1233",
+                        "1234",
+                        "1235",
+                        "1236",
+                        "1237",
+                        "1238",
+                        "1239",
+                        "1260",
+                        "1261",
+                        "1262",
+                        "1263",
+                        "1264",
+                        "1265",
+                        "1266",
+                        "1267",
+                        "1268",
+                        "1269"
+                    ],
+                    "title": "维多利亚的派对·第八章：水中的她"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2899",
+                    "title": "如何激发学习欲望？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3287",
+                    "title": "你一定会，站在热爱的世界闪闪发光"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

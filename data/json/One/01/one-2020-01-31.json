@@ -1,0 +1,628 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5397",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-31 06:00:00",
+        "content_list": [
+            {
+                "id": "19660",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2713",
+                "title": "摄影",
+                "forward": "你的任务，就是珍惜你自己的人生，而且还要比之前任何时候更加珍惜。",
+                "img_url": "http://image.wufazhuce.com/Fn6QEDVQHBLohgWjzi6mVelTWO39",
+                "like_count": 21750,
+                "post_date": "2020-01-31 06:00:00",
+                "last_update_date": "2020-01-17 16:50:43",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2673",
+                "pic_info": "Carli Jeen",
+                "words_info": "东野圭吾",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2713",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2713",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2713",
+                    "image": "http://image.wufazhuce.com/Fn6QEDVQHBLohgWjzi6mVelTWO39",
+                    "title": "VOL.2673",
+                    "content": "你的任务，就是珍惜你自己的人生，而且还要比之前任何时候更加珍惜。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2713?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2713?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 你的任务，就是珍惜你自己的人生，而且还要比之前任何时候更加珍惜。——东野圭吾 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2713?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2713?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19701",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4177",
+                "title": "世界与你无关",
+                "forward": "让我们保持自我，保持乐观，保持世界与自己的距离，保持内心的硬度，保持敏感及开心的能力，并学会控制自己，与安定相依相伴。",
+                "img_url": "http://image.wufazhuce.com/Fsh6Cb7EdKK2jbsy6mP5mu1lgZkM",
+                "like_count": 4098,
+                "post_date": "2020-01-31 06:00:00",
+                "last_update_date": "2020-01-31 10:15:43",
+                "author": {
+                    "user_id": "4814644",
+                    "user_name": "丁丁张",
+                    "desc": "媒体人、作家。",
+                    "wb_name": "@丁丁张",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "媒体人、作家。已出版《世界与你无关》等。",
+                    "fans_total": "555",
+                    "web_url": "http://image.wufazhuce.com/Fk44svRNdEsUCJ8JWkC1nyk3CiSU"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4177",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4177",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4177",
+                    "image": "http://image.wufazhuce.com/Fsh6Cb7EdKK2jbsy6mP5mu1lgZkM",
+                    "title": "世界与你无关 作者/丁丁张",
+                    "content": "让我们保持自我，保持乐观，保持敏感及开心的能力。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 世界与你无关",
+                        "desc": "文/丁丁张 让我们保持自我，保持乐观，保持敏感及开心的能力。",
+                        "link": "http://m.wufazhuce.com/article/4177?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 世界与你无关",
+                        "desc": "文/丁丁张 让我们保持自我，保持乐观，保持敏感及开心的能力。",
+                        "link": "http://m.wufazhuce.com/article/4177?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 世界与你无关》 文/丁丁张： 让我们保持自我，保持乐观，保持敏感及开心的能力。 阅读全文：http://m.wufazhuce.com/article/4177?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4177?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界与你无关",
+                        "desc": "让我们保持自我，保持乐观，保持敏感及开心的能力。",
+                        "link": "http://m.wufazhuce.com/article/4177?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19706",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4178",
+                "title": "假日结束倒计时",
+                "forward": "可以再赖会床吗？",
+                "img_url": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                "like_count": 1689,
+                "post_date": "2020-01-31 06:00:00",
+                "last_update_date": "2020-01-30 23:39:39",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "阳子等三位",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4178",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4178",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4178",
+                    "image": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                    "title": "假日结束倒计时 作者/阳子、颗馨、曲尚",
+                    "content": "可以再赖会床吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 假日结束倒计时",
+                        "desc": "文/阳子、颗馨、曲尚 可以再赖会床吗？",
+                        "link": "http://m.wufazhuce.com/article/4178?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 假日结束倒计时",
+                        "desc": "文/阳子、颗馨、曲尚 可以再赖会床吗？",
+                        "link": "http://m.wufazhuce.com/article/4178?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 假日结束倒计时》 文/阳子、颗馨、曲尚： 可以再赖会床吗？ 阅读全文：http://m.wufazhuce.com/article/4178?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4178?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "假日结束倒计时",
+                        "desc": "可以再赖会床吗？",
+                        "link": "http://m.wufazhuce.com/article/4178?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "19685",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1093",
+                "title": "两次破碎·第四章：晶状粉末",
+                "forward": "人和人之间呐，随缘，别攀缘。该着跟谁就跟谁，凑不到一块儿也别勉强。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 1127,
+                "post_date": "2020-01-31 06:00:00",
+                "last_update_date": "2020-04-07 16:06:46",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第4章",
+                "number": "4",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1093",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1093",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1093",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第四章：晶状粉末 作者/连筑",
+                    "content": "人和人之间呐，随缘，别攀缘。该着跟谁就跟谁，凑不到一块儿也别勉强。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第四章：晶状粉末",
+                        "desc": "文/连筑 人和人之间呐，随缘，别攀缘。该着跟谁就跟谁，凑不到一块儿也别勉强。",
+                        "link": "http://m.wufazhuce.com/serial/1093?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第四章：晶状粉末",
+                        "desc": "文/连筑 人和人之间呐，随缘，别攀缘。该着跟谁就跟谁，凑不到一块儿也别勉强。",
+                        "link": "http://m.wufazhuce.com/serial/1093?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第四章：晶状粉末》 文/连筑： 人和人之间呐，随缘，别攀缘。该着跟谁就跟谁，凑不到一块儿也别勉强。 阅读全文：http://m.wufazhuce.com/serial/1093?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1093?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第四章：晶状粉末",
+                        "desc": "人和人之间呐，随缘，别攀缘。该着跟谁就跟谁，凑不到一块儿也别勉强。",
+                        "link": "http://m.wufazhuce.com/serial/1093?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19703",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2742",
+                "title": "如何克服经常性的自我怀疑？",
+                "forward": "要走自己的路，别人或急或缓或飘，也是别人的事。",
+                "img_url": "http://image.wufazhuce.com/Fk0FAze6kIcXuSgSlZwMnJyyz_bs",
+                "like_count": 3283,
+                "post_date": "2020-01-31 06:00:00",
+                "last_update_date": "2020-01-30 14:48:23",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "都说鱼太沸",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2742",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2742",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2742",
+                    "image": "http://image.wufazhuce.com/Fk0FAze6kIcXuSgSlZwMnJyyz_bs",
+                    "title": "如何克服经常性的自我怀疑？",
+                    "content": "如何克服经常性的自我怀疑？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何克服经常性的自我怀疑？",
+                        "desc": "文/林庭 要走自己的路，别人或急或缓或飘，也是别人的事。",
+                        "link": "http://m.wufazhuce.com/question/2742?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何克服经常性的自我怀疑？",
+                        "desc": "文/林庭 要走自己的路，别人或急或缓或飘，也是别人的事。",
+                        "link": "http://m.wufazhuce.com/question/2742?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何克服经常性的自我怀疑？》 文/林庭： 要走自己的路，别人或急或缓或飘，也是别人的事。 阅读全文：http://m.wufazhuce.com/question/2742?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2742?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何克服经常性的自我怀疑？",
+                        "desc": "要走自己的路，别人或急或缓或飘，也是别人的事。",
+                        "link": "http://m.wufazhuce.com/question/2742?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "19635",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3195",
+                "title": "也许生活很苦，但我们很甜",
+                "forward": "我以为我不会再遇见爱情，直到我遇见你。你渐渐成为我生命中不可缺少的人，我们面对再多的困难都毫不担心，因为我们会留在彼此身边，陪伴彼此。",
+                "img_url": "http://image.wufazhuce.com/FpmmuelqCWSfECPE6RM1n65URDxB",
+                "like_count": 2407,
+                "post_date": "2020-01-31 06:00:00",
+                "last_update_date": "2020-01-31 09:44:06",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/ln4iXxeoEpFlTVO3ZksYtDxe8qGH",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "落幕",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3195",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3195",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3195",
+                    "image": "http://image.wufazhuce.com/FpmmuelqCWSfECPE6RM1n65URDxB",
+                    "title": "「一个」音乐: 姜乐辛 落幕",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.这是我今年第一次参加婚礼，早在几个月前，贺佳茜就叮嘱我少吃点，免得到时侯穿不上伴娘服。我起初以为伴娘服是让我自己挑，谁知道是她挑好直接带我去试，她说那是跟她婚纱配套的伴娘服，很适合我。试伴娘服那天，我没敢饱着肚子去，以贺佳茜的脾气，我要吃撑了，她能在我耳边念叨几个月。好在我穿上很合身，款式也适合我，掀开帘子那瞬间，贺佳茜&ldquo;哇&rdquo;一声，不知道还以为是我结婚。&nbsp;她拉着我四处转，我看向镜子中的自己，幻想真穿上婚纱时，是种怎样的感觉。陪我们试衣服的那位女生说她很羡慕我们这样，给最好的朋友当伴娘。&nbsp;这次试婚纱，她没喊秦世一起来，她说她希望秦世见到她穿婚纱是在婚礼现场，对小女生来说，这样无疑是最浪漫的一种举动。我见证了他们这段感情从无到有，从争吵到和好，再从谈恋爱到结婚，我比自己结婚还要高兴。我跟贺佳茜望向彼此，这不正是二十年前，我们所幻想的模样吗？我们从幼儿园就陪在对方身边，再吵再闹都没离开过彼此，早以及拿对方当家人看待。&nbsp;2.秦世是我学弟，大学社团招新认识的他，那时候他还像个小孩子，整天跟在我身后，没事就找我聊天，有我在的地方，他都一定会在。不过好在秦世这人老实，每次我要发脾气时，他都一脸委屈的看着我：学姐，我就想跟你做朋友，学多点东西。日子久了，我们关系变得比从前要更好，我经常带他跟朋友吃饭，出去逛街也会带着他，但我对他没有超过朋友间的感情。贺佳茜生日那天，我带秦世去参加聚会，在场的都是老朋友，见我跟秦世进来，贺佳茜勾住我脖子对我说：可以啊乐辛，这么快就有了小弟弟啊，长得还挺帅。&nbsp;&ldquo;说什么呢，我可没考虑过他，就是一朋友，带着他出来玩玩。&ldquo;&nbsp;秦世拿着生日礼物递到贺佳茜手上，笑着说了声&ldquo;姐姐，生日快乐&rdquo;。这一声姐姐，喊得贺佳茜整个人都酥了起来。大概是我们接触的不是同龄就是比我们大的，当身边出现一个弟弟时，贺佳茜显然比我还激动。秦世很快和大家融到一起，根本不像初见。聚会结束后，朋友对我说，下次再带秦世一起出来啊，一回生二回熟，咱下次继续。也是那晚，贺佳茜和我躺在一张床上，她很认真地问我对秦世到底有没有想法，我摇着头说真没有。第二天，她找我要了秦世的微信，那段时间秦世找我的话题，都是拐弯抹角的问贺佳茜，起初我还没反应过来是怎么回事，以为只是认识一下，毕竟双方跟我关系都很好。那段时间，秦世不再像从前那样总跟着我，他像是突然懂事一样。我们仨经常出去玩，每次三人行，秦世都十分照顾我们，一起吃饭时他们聊得火热，我在一旁享受着美食。有天我们出去喝酒，贺佳茜喝多了拉着秦世的手：秦世，我问你，你要不要和我在一起，我这辈子还没主动追过男生，但我现在就想问问你，你喜不喜欢我。我刚喝进嘴里的一口酒，差点没给喷出来。&nbsp;我擦去嘴角的酒水，看着贺佳茜跟秦世，他一脸宠溺地抱着贺佳茜，对她说：我要，我原本想等我生日那天，正式跟你表白的，你这比我先说了。&nbsp;站在一旁的我，显得有些懵，脑袋里在飞速运转着关于他们的事情。我拍了拍贺佳茜肩膀：&ldquo;贺佳茜，什么情况啊，你们俩这速度可够快的啊，要不是今儿你喝多了自己说出来，还得瞒我多久。&rdquo;&nbsp;秦世有些不好意思地看着我：&ldquo;学姐，我要不先给你们送回去，茜茜现在这样也不太舒服。明儿我请你们吃饭，当面跟你解释。&rdquo;贺佳茜躺在秦世怀里，样子像极了小时候她靠在我身边，拿我当她全部的样子。我有些心疼，或许她是想重新开始。如今有个温暖的男孩子陪在她身边，倒没什么不好，秦世也算是我的熟人，我相信他的人品。&nbsp;3.&ldquo;乐辛，我好饿，你给我拿点吃的。&rdquo;&nbsp;&ldquo;贺佳茜，你赖在我床上，我还得伺候你，你说说我上辈子是不是欠你的，这辈子你要这么折磨我。以后你要是结婚了，我跟你说，你不找个跟我一样爱你的人，你就别结了。&rdquo;等等，说到结婚，是不是把什么重要的事忘了。&ldquo;来，老实交代，你跟秦世什么情况。&rdquo;我拿着零食扔到床上，想要了解这其中的所以然。贺佳茜拿着手机傻笑，她说秦世约我们吃饭，待会饭局上说。平时起床化妆得两小时起步的她，今天一小时就搞定了，还顺便洗了个澡。&nbsp;见到秦世，我没说话，等着他俩自己坦白。&nbsp;秦世牵着贺佳茜的手，对我说：学姐，我一直都很尊重你，觉得你很优秀，想跟在你后面学点东西，想要更好的为社团服务，提高自己。&ldquo;我不是听这个。&rdquo;&nbsp;&ldquo;认识茜茜是上次你带我去参加聚会，我很喜欢她的性格，但我不好意思开口要联系方式，也不好意思找你，我怕你会觉得我这人肤浅。第二天茜茜学姐加我，我心里小鹿乱撞，不知道该怎么办，只好从你这打探些关于她的消息。&rdquo;&nbsp;贺佳茜在身边有些着急，开口说，乐辛，是我追的秦世，你知道的，我好不容易放下之前的那些不开心。秦世的性格跟我互补，我对他也有感觉，我不想再错过了。&nbsp;是啊，人这辈子很难遇见一个跟自己性格互补的人，而好不容易遇见，那一定不要错过。你永远不知道你这次错过后，在以后的生活中还会不会再见到。&nbsp;4.我对秦世说，那是我最好的闺蜜，可不准欺负她。&nbsp;秦世像拿到糖果的小孩，一脸笑意地握紧贺佳茜的手对我说：&ldquo;学姐放心，我一定好好对茜茜学姐好。&rdquo;&ldquo;什么学姐，都把我叫老了，这显得我老牛吃嫩草。&rdquo;我故意笑她，难道不是吗？你本来就比秦世大。贺佳茜告诉我，感情这种事，跟年龄其实没有太大关系的，两个人只要真的相爱，哪怕他们差十几岁，那他们也会过得幸福。&nbsp;后来，她当真向我证明爱情这件事，与年龄是没关系的。秦世对她很好，所有的小细节，秦世都做得很到位。有些时候，我甚至都在想，她这是走了什么运。每次出去，秦世都会提前在宿舍楼下等着，不管贺佳茜提出多过分的要求，他都会满足她。有时凌晨两点多，贺佳茜说想喝奶茶，但那个点已经门禁，秦世会翻墙出去给贺佳茜买，放在自己怀里，再偷偷溜去女寝楼下，让她下去拿。&nbsp;贺佳茜喜欢小玩偶，秦世会找各个地方的玩偶买来送给她，每周一次的小惊喜，他们一直保持着。我们已经大四，很快要出去实习，这也意味着，他们不能整天黏在一起。对恋爱中的人来说，最不想面对的大概就是分离，谁也不能保证感情这种东西的持久度。&nbsp;但这似乎没有对他们产生什么影响，贺佳茜在南京本地找了一份实习工作。她说她舍不得离开秦世，好不容易找到这样值得依靠的男友，她要好好珍惜，不想错过。一年多的感情，她不想就这样放弃，她不喜欢异地恋，也不愿意接受。我没多说什么，南京这座城市承载着他们所有的回忆，我唯一对贺佳茜说的就是：以前我可以帮你做每个决定，但这次的决定，我希望你自己做了之后，不要后悔，这是你的人生，你要对自己负责，对人生负责。爱情和事业，对于毕业生来说很难两全，你要权衡好，不管你做什么决定，我都支持你。因为你是我最在乎的人，我比谁都希望你幸福。&nbsp;5.毕业那年，我独自去了长沙一家心仪许久的传媒公司。而贺佳茜在南京的那份实习工作很累，但听说能学到的知识很多，很幸运，她跟对了领导。至于秦世，他暑假在贺佳茜公司附近租了房子，离学校也不是很远，他说这样就可以每天陪着贺佳茜，等到开学，他上完课就回来给贺佳茜准备各种美食。他们二人世界过得相当舒服，贺佳茜经常跟我开视频，聊他们的生活，比如秦世给她做营养餐，秦世带她出去放松，秦世在她生理期时，陪她一起喝红糖水等等。我看着她甜蜜的样子，虽然吃得满嘴狗粮，但仍然感到快乐。她证明了她的决定没有做错。工作后时间过得很快，我跟贺佳茜在各自实习公司转了正，有着稳定的生活和收入，她和秦世的感情也一如从前。&nbsp;有时我问她，到底要怎样才会遇到对的人，像她跟秦世，她很认真地对我说：主动和缘分。&nbsp;缘分到了，主动点准没错。或者换句话来说，主动点，也许那就是你的缘分。后来，秦世毕业后也留在南京，去了导师推荐的公司，他们经常一起去健身房，出去旅游，摄影，做尽情侣之间的浪漫小事。&nbsp;贺佳茜说，秦世还是那样细心，她也终于决定她这辈子就他了。&nbsp;我只要有空回南京找他们，他们都会在家给我做一顿晚餐，味道还挺好。秦世说，他厨艺都是为了给贺佳茜做饭，才有所长进。&nbsp;6.我没想到，等我再次见到他们，竟然是试伴娘服，参加他们的婚礼。这么多年，他们唯一变得大概就是越来越爱彼此。我看着他们，不禁有些欣慰和庆幸，庆幸我最好的闺蜜嫁给我最好的朋友，庆幸他们始终爱着彼此，保持真诚。&nbsp;婚礼那天，贺佳茜穿着婚纱出现在秦世面前，秦世当场落泪。他说他这辈子最值得骄傲的事有两件。第一是成为他父母的儿子，第二是娶了贺佳茜。他们站在台上，音响师放起莫文蔚的那首《慢慢喜欢你》：慢慢喜欢你，慢慢地亲密，慢慢聊自己，慢慢和你走在一起，慢慢我想配合你，慢慢把我给你，慢慢喜欢你慢慢地回忆，慢慢地陪你，慢慢地老去。&nbsp;正在这时，我接到贺佳茜递给我捧花，她拉着我的手，对着大家说：我希望可以把我遇见爱情的好运传递给乐辛，不因为别的，只因她是我最好的朋友。&nbsp;这样的结局，或许正是最好的结局。最好的朋友在身边，最爱的人也在身边。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 也许生活很苦，但我们很甜",
+                        "desc": "文/姜乐辛 生活中99%的糖分是因为你，而1%是遇见你。",
+                        "link": "http://m.wufazhuce.com/music/3195?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 也许生活很苦，但我们很甜",
+                        "desc": "文/姜乐辛 生活中99%的糖分是因为你，而1%是遇见你。",
+                        "link": "http://m.wufazhuce.com/music/3195?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 也许生活很苦，但我们很甜》 文/姜乐辛： 生活中99%的糖分是因为你，而1%是遇见你。 阅读全文：http://m.wufazhuce.com/music/3195?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3195?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "也许生活很苦，但我们很甜",
+                        "desc": "生活中99%的糖分是因为你，而1%是遇见你。",
+                        "link": "http://m.wufazhuce.com/music/3195?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "落幕",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "KivaL",
+                "audio_album": "白玫瑰",
+                "cover": "http://image.wufazhuce.com/Fp0Avog-SwYVAjV6kDyVbc9hPW5o",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2673",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4177",
+                    "title": "世界与你无关"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4178",
+                    "title": "假日结束倒计时",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1093",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第四章：晶状粉末"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2742",
+                    "title": "如何克服经常性的自我怀疑？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3195",
+                    "title": "也许生活很苦，但我们很甜"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

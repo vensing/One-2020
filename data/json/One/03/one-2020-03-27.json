@@ -1,0 +1,513 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5449",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-27 06:00:00",
+        "content_list": [
+            {
+                "id": "20042",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2769",
+                "title": "插画",
+                "forward": "星河在上，波光在下\n我在你身边，\n等着你的回答。",
+                "img_url": "http://image.wufazhuce.com/Fl3aMNXxpilxgnlzcVTdTHUi0h3J",
+                "like_count": 21892,
+                "post_date": "2020-03-27 06:00:00",
+                "last_update_date": "2020-03-23 16:43:06",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2729",
+                "pic_info": "Xuan旋",
+                "words_info": "张寒寺《不正常人类症候群》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2769",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2769",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2769",
+                    "image": "http://image.wufazhuce.com/Fl3aMNXxpilxgnlzcVTdTHUi0h3J",
+                    "title": "VOL.2729",
+                    "content": "星河在上，波光在下\n我在你身边，\n等着你的回答。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2769?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2769?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 星河在上，波光在下\n我在你身边，\n等着你的回答。——张寒寺《不正常人类症候群》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2769?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2769?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20047",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4252",
+                "title": "你讨厌菠萝吗？",
+                "forward": "她笑得很甜，我猜比菠萝更甜一些。",
+                "img_url": "http://image.wufazhuce.com/Fo9BAggEcNTl1T4XMVU6EmdkQCZ4",
+                "like_count": 2661,
+                "post_date": "2020-03-27 06:00:00",
+                "last_update_date": "2020-03-26 20:50:31",
+                "author": {
+                    "user_id": "11199000",
+                    "user_name": "杨森",
+                    "desc": "短篇小说作者，影视编剧，郑州大学建筑系毕业。",
+                    "wb_name": "@那你自罚一杯得了",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "90后写手，编剧。",
+                    "fans_total": "151",
+                    "web_url": "http://image.wufazhuce.com/FjA_rejfjEBfDfNF6zBIunDQ7GBH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4252",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4252",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4252",
+                    "image": "http://image.wufazhuce.com/Fo9BAggEcNTl1T4XMVU6EmdkQCZ4",
+                    "title": "你讨厌菠萝吗？ 作者/杨森",
+                    "content": "你猜。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 你讨厌菠萝吗？",
+                        "desc": "文/杨森 你猜。",
+                        "link": "http://m.wufazhuce.com/article/4252?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 你讨厌菠萝吗？",
+                        "desc": "文/杨森 你猜。",
+                        "link": "http://m.wufazhuce.com/article/4252?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 你讨厌菠萝吗？》 文/杨森： 你猜。 阅读全文：http://m.wufazhuce.com/article/4252?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4252?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你讨厌菠萝吗？",
+                        "desc": "你猜。",
+                        "link": "http://m.wufazhuce.com/article/4252?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20044",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1142",
+                "title": "恶女阿尤·第六章：疑点重重",
+                "forward": "大众舆论最喜欢的对手不是强者，也不是恶人，而是嘴硬的人。",
+                "img_url": "http://image.wufazhuce.com/FuWm2aUojqqcxK6Eb_y5JNUmFVp-",
+                "like_count": 828,
+                "post_date": "2020-03-27 06:00:00",
+                "last_update_date": "2020-04-07 16:48:19",
+                "author": {
+                    "user_id": "11135365",
+                    "user_name": "咸良",
+                    "desc": "91年生，看片多，读书少，热爱电影和足球，不打游戏不喝酒。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说新人，正尝试电影剧本创作。",
+                    "fans_total": "588",
+                    "web_url": "http://image.wufazhuce.com/FofYp0HTuyFcGlfuBP_qS85X81GI"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第6章",
+                "number": "6",
+                "serial_id": "81",
+                "serial_list": [
+                    "1131",
+                    "1133",
+                    "1135",
+                    "1138",
+                    "1139",
+                    "1142",
+                    "1144",
+                    "1146",
+                    "1148",
+                    "1150",
+                    "1151",
+                    "1154",
+                    "1156",
+                    "1158"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1142",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1142",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1142",
+                    "image": "http://image.wufazhuce.com/FuWm2aUojqqcxK6Eb_y5JNUmFVp-",
+                    "title": "恶女阿尤·第六章：疑点重重 作者/咸良",
+                    "content": "大众舆论最喜欢的对手不是强者，也不是恶人，而是嘴硬的人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 恶女阿尤·第六章：疑点重重",
+                        "desc": "文/咸良 大众舆论最喜欢的对手不是强者，也不是恶人，而是嘴硬的人。",
+                        "link": "http://m.wufazhuce.com/serial/1142?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 恶女阿尤·第六章：疑点重重",
+                        "desc": "文/咸良 大众舆论最喜欢的对手不是强者，也不是恶人，而是嘴硬的人。",
+                        "link": "http://m.wufazhuce.com/serial/1142?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 恶女阿尤·第六章：疑点重重》 文/咸良： 大众舆论最喜欢的对手不是强者，也不是恶人，而是嘴硬的人。 阅读全文：http://m.wufazhuce.com/serial/1142?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1142?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "恶女阿尤·第六章：疑点重重",
+                        "desc": "大众舆论最喜欢的对手不是强者，也不是恶人，而是嘴硬的人。",
+                        "link": "http://m.wufazhuce.com/serial/1142?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20051",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2800",
+                "title": "学习中如何克服疲倦？",
+                "forward": "管理好自己，你才能更强大。",
+                "img_url": "http://image.wufazhuce.com/FjNyYXJ2DKg6_8oiJ6QiD4cNGHjL",
+                "like_count": 5639,
+                "post_date": "2020-03-27 06:00:00",
+                "last_update_date": "2020-03-26 19:38:29",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "李约瑟",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2800",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2800",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2800",
+                    "image": "http://image.wufazhuce.com/FjNyYXJ2DKg6_8oiJ6QiD4cNGHjL",
+                    "title": "学习中如何克服疲倦？",
+                    "content": "快要高考了，想知道学霸是怎样作息的，为什么都不会困？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 学习中如何克服疲倦？",
+                        "desc": "文/刘嘉森 学霸不会困，靠的不是体力，是自我管理。",
+                        "link": "http://m.wufazhuce.com/question/2800?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 学习中如何克服疲倦？",
+                        "desc": "文/刘嘉森 学霸不会困，靠的不是体力，是自我管理。",
+                        "link": "http://m.wufazhuce.com/question/2800?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 学习中如何克服疲倦？》 文/刘嘉森： 学霸不会困，靠的不是体力，是自我管理。 阅读全文：http://m.wufazhuce.com/question/2800?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2800?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "学习中如何克服疲倦？",
+                        "desc": "学霸不会困，靠的不是体力，是自我管理。",
+                        "link": "http://m.wufazhuce.com/question/2800?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11205779",
+                    "user_name": "刘嘉森",
+                    "desc": "2015年衡水中学文科状元，就读于北大中文系。",
+                    "wb_name": "@刘嘉森96",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "衡中文科状元，就读于北大中文系。",
+                    "fans_total": "1227",
+                    "web_url": "http://image.wufazhuce.com/FsoCCsMwreMXak47Z-ggVNJBgtf_"
+                }
+            },
+            {
+                "id": "19959",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3224",
+                "title": "我为我所有不合时宜的出现，向你道歉",
+                "forward": "对不起，让你爱上一个糟糕的我。谢谢你，让我明白怎样去爱别人。",
+                "img_url": "http://image.wufazhuce.com/FqPlarGAUZt5dYo3InDTBot0q96h",
+                "like_count": 2753,
+                "post_date": "2020-03-27 06:00:00",
+                "last_update_date": "2020-03-26 20:47:11",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lvZTwQZu_GhgOY42GqNxj7_gYQjn",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "你看不见",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3224",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3224",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3224",
+                    "image": "http://image.wufazhuce.com/FqPlarGAUZt5dYo3InDTBot0q96h",
+                    "title": "「一个」音乐: 姜乐辛 你看不见",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.这一次，我跟程辛是真的结束了。他临走的时候，什么都没说，只留下一张纸条，上面写着：别再找我，放过我。在这之前，我从未想到&ldquo;放过&rdquo;这两个字会用于我们。我太过于爱他，以至于我爱的方式让他失去自由，离自己的生活越来越远。这段感情，也因为我不间断的猜测，在中途被判了死刑。其实我有做过改变，在我看到他跟别人相处互动时，努力保持不乱猜想，要给予他信任。但只要时间一久，我心里的那些疑问又会冒出来，从而控制不住那些伤害他的话。这样反复的日子太多次，程辛作为公认的好脾气，也终究被我磨得不耐烦。我清楚他对我太失望，我的孩子气、不懂事、小情绪、甚至无理取闹都在促使他一步步变得崩溃。所以当我看到那张纸条时，心里没有怨恨，没有责怪，我反而为他感到轻松，他总算逃离我，可以好好做他自己。我一个人在家，趴在沙发上哭了许久，打开网易云日推，点最上面RAiBOW计划的那首《你看不见》，这首歌中的每句词，都像是说我现在的状态，说着我和程辛的这段爱情。我走到阳台，坐在他给我买的摇椅上看着天空，单曲循环着。那天的天空比往日要蓝，大概上天早就知道，不合适的人终究是会分开，而这片蓝天，正是上天送我们的分手礼。&nbsp;2.我把自己关在家，谁找都不予理会。等眼泪哭干，伸手将电视旁的日记本拿了过来，那是我们用来记录生活的，从最初到最终的爱情历程，原先想着等到结婚，这可以成为我们之间的信物。我已经许久没再看过它，平时都是程辛更新，我实在太懒，不喜动笔，总觉得心里记住就够了，没必要再多此一举。不过这对程辛来说，却显得格外重要。我翻开里面的内容，从第一页开始慢慢往后看。第一页上面写道：程辛遇见林佳路，是这个世界上最幸福的事。初相识时，双方都拼尽全力在对方心里留下好的印象。第一次见程辛是在朋友会上玩游戏，他坐在我右手边，正好是我上家，他时常不那么明显地给我放水，想要让我赢。好面子的我，脸上有光，心情当然是好。等游戏结束，我去他那一桌找他聊天，谢谢他给我面子。他上下看了我一眼，说不用谢，我就是觉得你挺可爱。&ldquo;下次请你吃饭，我叫林佳路。&rdquo;说完准备回家陪猫主子。可刚踏出第一步，就被他拦住：既然要请吃饭，那要不先加个微信？没有联系方式，难道是要云吃饭？想想他这话好像也是，我只是见了彼此一面而已。于是，我拿出手机，将微信二维码递过去，让他加我好友。他在验证消息中写着：程辛。程辛，这名字倒是很好听。我礼貌性地回复他：林佳路。现在太多人都是加上微信没有下文，我以为我跟程辛与彼此也是这样，所以那晚后，我也没再想起来这事，整天除了工作就是跟朋友约着喝喝酒，周末在家学习烹饪，看看书。直到某天，我在家拆着新买回来的书，微信提示音响起，是程辛。&ldquo;林佳路，出来吃火锅吗？我在莽子等你，不准拒绝，你还欠我一顿饭呢。&rdquo;正好那是周末，我换了身衣服，化个淡妆出门。莽子离我家很近，走过去十分钟。我到那时，他已经点好菜，见我来了，将点菜器递到我手上，问我要不要再加点什么。我看点菜栏都是我爱吃的，还有些疑惑，怎么我们口味这样像。那次应该算是我们第一次真正意义上见面，他全程都很照顾我，给我调蘸料，准备我爱喝的豆奶。后来我才知道，原来他刚加上我时，就翻遍了我所有的社交软件，关于我的一切，他都了如指掌。所以他约在莽子也是因为我常在微博上发我去那吃，他点的那些菜，也是每次图片上都有的。原来真的有人会看完你的每一条动态，每一句微博，你曾经所有的喜怒哀乐，都会在未来的某天，被一个人感受和理解。我从来没想过我会遇到这样人，但我遇到了。3.我们因为都爱吃火锅，所以经常约对方出来莽子见，哪怕上火也硬要吃。保持这样饭友的关系，大概有三个多月，有天我们都喝多了，他在送我回家的路上拉着我的手跟我说：佳路，我喜欢你，我想以男朋友的身份在你身边照顾你。他喝醉酒温柔说话的样子，让我没法拒绝，我依偎在他怀里，答应道。我怎么也没想到，我眼前这个身高190的大男孩会有着这样柔情的一面。第二天他醒来给我打电话，亲昵地叫着：宝贝。我大概是这个时候开始，渐渐融化在他的温柔乡中。我说，你没有跟我好好告白，我还不算正牌女友。当晚，他就召集朋友在我们家边上的广场上，用蜡烛摆着我名字，穿着我喜欢的布偶服，手捧一束纯蓝色满天星。这样的表白仪式，是我曾经在微博上提到过的，他全都记了下来。那一刻他给我的感觉就是，从今往后我可以不用羡慕任何人，我被他明目张胆的爱着，可以做任何想做的事。我将这一切称为仪式感和偏爱，而程辛也很乐意给予我这一切。我们整天陪在彼此身边，给对方带来不同乐趣。许是被爱着的人都有恃无恐，占有欲强的我肯定他不会离开我，所以在这之后的生活中，我几乎是将他和我绑在一起，我们从两个世界，变成一个世界，再到后来的强行融在其中。他无论做什么我都会问，回家晚点，我会冷言冷语地问他去哪了，和谁在一起。哪怕他跟别的女生说话，我都会怀疑他是不是变了心。起初他还不断地跟我说，希望我可以相信他，他很爱我，不会和其她女生有什么瓜葛。但我说不出来，我是不信他，还是不信我自己。他给予我再多安全感，我都依旧怕他离开，渐渐地，他身边朋友聚会都没再有过他的影子。我生怕他会被比我好看的女孩子抢走，手机也是每天必须交给我检查，我需要看到他这一天的人际交往。这样的生活，我也很累，但是我爱他。我用我的方式爱他，虽然我知道不好，但没法改掉。&nbsp;4.我整天满脑子乱想，他去哪我都跟着，谁都没有自由。他从最开始让我相信他，到现在一句话都不说，除了上班就是下班回家做饭，看电视，我们之间也不再像从前那样拥有乐趣。似乎总有些什么，阻挡在我们中间，使我们无法靠近对方。而那时，我也没意识到，这段感情已经不是爱情，这更像囚禁，将对方强行囚禁在自己身边。我再怎么无理取闹，他都没有对我发过脾气，直到那天，我听到他接一个女生的电话，温柔地对那头说：等我，马上到。我以为那是某个喜欢他的女生，便挡在门口不让他出去，他看着我，没有生气，没有表情，很冷静地告诉我，那是他表姐，他姐夫出车祸了，全家都在等着他，能不能放他出去。我这辈子都忘不了他当时那个眼神，那里面无光无爱，仅有无奈。我想要跟着他一起去医院，但被他拒绝。我看着他离开的背影，内心五味杂陈。我坐在沙发上，不敢睡觉，我怕他回来，我见不到他，可到凌晨四点多，我实在熬不住了。等我睡醒，屋里依旧空无一人，我以为他还没回来，起身走到餐桌边看到上面有张纸条：别再找我，放过我。房间衣柜里，他的衣服也都一件不剩，其他的却都还在。桌上那本日记本，最后一页写着这样的话：我不是不爱了，而是实在爱不下去了。&nbsp;5.半个月后，朋友约我喝酒，我知道那个局程辛也在。我抱着我们还有复合的可能去到那，朋友叮嘱我别太任性，好不容易喊来程辛。我说，不会的，你放心。可面对心爱的人，谁又能控制的住自己呢。我太爱程辛，他在我的生活中占据着无法移动的位置。或许他再给我一次机会，我可以改变自己呢。程辛见到我没有躲避，走到我身边让我少喝点，喝多了吐，伤身体。我开口问起最近怎么样，姐夫有没有好点，他放下酒杯，坐到我身边，跟我聊起近况。不知道怎么，我又像从前一样，问他身边有没有出现新的女孩子，他是不是真的不喜欢我，我们当真回不去吗。他皱了皱眉毛，眼神中写满了不耐烦，在他起身的那刻，我抓紧他的手，试图留下他。但他没有给我机会，直接甩开：林佳路，我们这次真的到这了，我也可以确定自己不再爱你。后来他真的，再也没有回头，只留下我一人呆愣在原地。朋友说，原本今晚的局，是想让我们和好的，程辛也愿意再给你一次机会，但你还是猜疑，没有给他一点信任。我们不能因为是女生，所以就要事事占理。他也是他家里的宝贝，我们需要适当的换位思考，不然你不会幸福的。程辛跟她说，我除了不信任他和作，其她什么都很好。我看着手机屏上我们的合照，他笑得那样开心，我以为我还来得及再抱紧他，可这夜里隐隐作痛的回忆，提醒着我，我已经失去他了。&nbsp;6.我们已经分开两年，其间他没有再跟我有过任何联系，我也识趣的没再打扰他，像他说的，放过他。我答应他。这两年里，我也在反思着自己，偶尔想起他，翻着我们的日记本或手机里的合影。我那时候太幼稚，总以为分离这件事，是遥不可及的。潜意识里认为我们那么相爱，怎么会分开呢。直到他说他不爱我，我才知道，我是真的失去他了。他离开我之后，好像一切都没什么变化，我还是要一天天过，像他在的时候一样。只是这两年，我始终没再开始新的恋爱。而他有了新女朋友，听说性格成熟稳重。朋友给我看照片，我竟觉得他们很有夫妻相，他的每条微博都是那个女生。我见过他爱我的样子，所以我知道，他是真的爱她。从前他在我这丢掉的光，终于再次找了回来。照片上他眼神中的柔情，曾经也给予过我，但我已经快淡忘了，我们真的太久没好好说过话。分开的时候，他让我放过他，我做到了，如今我该对自己说声，放过自己。在这最后，我想对他说声对不起和谢谢。对不起，让你爱上一个糟糕的我。谢谢你，让我明白怎样去爱别人。祝你幸福，程辛。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我为我所有不合时宜的出现，向你道歉",
+                        "desc": "文/姜乐辛 我只是太过于爱你。",
+                        "link": "http://m.wufazhuce.com/music/3224?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我为我所有不合时宜的出现，向你道歉",
+                        "desc": "文/姜乐辛 我只是太过于爱你。",
+                        "link": "http://m.wufazhuce.com/music/3224?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我为我所有不合时宜的出现，向你道歉》 文/姜乐辛： 我只是太过于爱你。 阅读全文：http://m.wufazhuce.com/music/3224?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3224?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我为我所有不合时宜的出现，向你道歉",
+                        "desc": "我只是太过于爱你。",
+                        "link": "http://m.wufazhuce.com/music/3224?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "你看不见",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "林力尧",
+                "audio_album": "橙",
+                "cover": "http://image.wufazhuce.com/Fg8ySFoB03Ozcz_1LguLSrWgAIxp",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2729",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4252",
+                    "title": "你讨厌菠萝吗？"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1142",
+                    "serial_list": [
+                        "1131",
+                        "1133",
+                        "1135",
+                        "1138",
+                        "1139",
+                        "1142",
+                        "1144",
+                        "1146",
+                        "1148",
+                        "1150",
+                        "1151",
+                        "1154",
+                        "1156",
+                        "1158"
+                    ],
+                    "title": "恶女阿尤·第六章：疑点重重"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2800",
+                    "title": "学习中如何克服疲倦？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3224",
+                    "title": "我为我所有不合时宜的出现，向你道歉"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,522 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5280",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-01 06:00:00",
+        "content_list": [
+            {
+                "id": "19662",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2714",
+                "title": "摄影",
+                "forward": "人有的时候真是奇怪。选择了的会后悔，放弃了的会遗憾，但是完美只能是一种理想，而不可能是一种存在。",
+                "img_url": "http://image.wufazhuce.com/Fh5hrVkx7Pc7lmVEtFwN8QZYvbg6",
+                "like_count": 23253,
+                "post_date": "2020-02-01 06:00:00",
+                "last_update_date": "2020-01-17 17:19:26",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2674",
+                "pic_info": "Johan Bos",
+                "words_info": "山本文绪",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2714",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2714",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2714",
+                    "image": "http://image.wufazhuce.com/Fh5hrVkx7Pc7lmVEtFwN8QZYvbg6",
+                    "title": "VOL.2674",
+                    "content": "人有的时候真是奇怪。选择了的会后悔，放弃了的会遗憾，但是完美只能是一种理想，而不可能是一种存在。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2714?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2714?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人有的时候真是奇怪。选择了的会后悔，放弃了的会遗憾，但是完美只能是一种理想，而不可能是一种存在。——山本文绪 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2714?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2714?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19708",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4179",
+                "title": "一个摇滚青年的罗曼史",
+                "forward": "又是一个毕业季的到来，云淡风轻的夏天，情侣们抱头痛哭，夜晚喝醉的人大声歌唱，学士帽扔向天空，被定格在一张张各奔天涯的照片里。",
+                "img_url": "http://image.wufazhuce.com/FoKEfVD0gVmnd1RQzZU1aZxMNlfc",
+                "like_count": 2131,
+                "post_date": "2020-02-01 06:00:00",
+                "last_update_date": "2020-01-31 19:27:53",
+                "author": {
+                    "user_id": "6960654",
+                    "user_name": "丫头的徐先生",
+                    "desc": "民警，青年写作者",
+                    "wb_name": "@丫头的徐先生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "民警，青年写作者",
+                    "fans_total": "7375",
+                    "web_url": "http://image.wufazhuce.com/FjG3jW-dXWCvX3P9lGu74_4M4XBL"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4179",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4179",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4179",
+                    "image": "http://image.wufazhuce.com/FoKEfVD0gVmnd1RQzZU1aZxMNlfc",
+                    "title": "一个摇滚青年的罗曼史 作者/丫头的徐先生",
+                    "content": "社会那么大，我在哪里和你相逢啊？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 一个摇滚青年的罗曼史",
+                        "desc": "文/丫头的徐先生 社会那么大，我在哪里和你相逢啊？",
+                        "link": "http://m.wufazhuce.com/article/4179?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 一个摇滚青年的罗曼史",
+                        "desc": "文/丫头的徐先生 社会那么大，我在哪里和你相逢啊？",
+                        "link": "http://m.wufazhuce.com/article/4179?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 一个摇滚青年的罗曼史》 文/丫头的徐先生： 社会那么大，我在哪里和你相逢啊？ 阅读全文：http://m.wufazhuce.com/article/4179?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4179?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一个摇滚青年的罗曼史",
+                        "desc": "社会那么大，我在哪里和你相逢啊？",
+                        "link": "http://m.wufazhuce.com/article/4179?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19682",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1092",
+                "title": "世界得了健忘症·第二章：异类",
+                "forward": "造梦者要为世人搭建的梦幻宝塔还没现出雏形，属于她自己的梦，就先碎掉了。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 1097,
+                "post_date": "2020-02-01 06:00:00",
+                "last_update_date": "2020-01-22 12:14:57",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第2章",
+                "number": "2",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1092",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1092",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1092",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第二章：异类 作者/昔央",
+                    "content": "造梦者要为世人搭建的梦幻宝塔还没现出雏形，属于她自己的梦，就先碎掉了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第二章：异类",
+                        "desc": "文/昔央 造梦者要为世人搭建的梦幻宝塔还没现出雏形，属于她自己的梦，就先碎掉了。",
+                        "link": "http://m.wufazhuce.com/serial/1092?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第二章：异类",
+                        "desc": "文/昔央 造梦者要为世人搭建的梦幻宝塔还没现出雏形，属于她自己的梦，就先碎掉了。",
+                        "link": "http://m.wufazhuce.com/serial/1092?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第二章：异类》 文/昔央： 造梦者要为世人搭建的梦幻宝塔还没现出雏形，属于她自己的梦，就先碎掉了。 阅读全文：http://m.wufazhuce.com/serial/1092?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1092?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第二章：异类",
+                        "desc": "造梦者要为世人搭建的梦幻宝塔还没现出雏形，属于她自己的梦，就先碎掉了。",
+                        "link": "http://m.wufazhuce.com/serial/1092?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19704",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2743",
+                "title": "怎样让自己更加果断？",
+                "forward": "犹豫不决时，我们自己会因为这种纠结而感觉压力重重，饱受折磨。甚至因此失去本来属于自己的人生机会。",
+                "img_url": "http://image.wufazhuce.com/FjdQjB6ct52Opv0YxN0AIxWxwwhP",
+                "like_count": 2423,
+                "post_date": "2020-02-01 06:00:00",
+                "last_update_date": "2020-01-31 16:30:34",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "贤哥君君",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2743",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2743",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2743",
+                    "image": "http://image.wufazhuce.com/FjdQjB6ct52Opv0YxN0AIxWxwwhP",
+                    "title": "怎样让自己更加果断？",
+                    "content": "怎样让自己更加果断？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎样让自己更加果断？",
+                        "desc": "文/鹿丸 青山虽常在，柴火不等人。",
+                        "link": "http://m.wufazhuce.com/question/2743?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎样让自己更加果断？",
+                        "desc": "文/鹿丸 青山虽常在，柴火不等人。",
+                        "link": "http://m.wufazhuce.com/question/2743?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎样让自己更加果断？》 文/鹿丸： 青山虽常在，柴火不等人。 阅读全文：http://m.wufazhuce.com/question/2743?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2743?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎样让自己更加果断？",
+                        "desc": "青山虽常在，柴火不等人。",
+                        "link": "http://m.wufazhuce.com/question/2743?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10573652",
+                    "user_name": "鹿丸",
+                    "desc": "运气特别差的爱笑的男人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "运气特别差的爱笑的男人。",
+                    "fans_total": "2369",
+                    "web_url": "http://image.wufazhuce.com/Fqg0xcqtLypItAb4NvaJVf8DnIAn"
+                }
+            },
+            {
+                "id": "19705",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1947",
+                "title": "用所有温柔，化解伤痛",
+                "forward": "唯有爱与勇气，能抚平过去的伤痕。",
+                "img_url": "http://image.wufazhuce.com/Fvbt72zwtytBwXrwXIcioSxxuqVk",
+                "like_count": 2499,
+                "post_date": "2020-02-01 06:00:00",
+                "last_update_date": "2020-02-01 00:34:22",
+                "author": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "房间",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4930",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1947",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1947",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1947",
+                    "image": "http://image.wufazhuce.com/Fvbt72zwtytBwXrwXIcioSxxuqVk",
+                    "title": "「一个」电影: 房间",
+                    "content": "电影《Room》是根据艾玛&bull;唐纳修的同名小说改编，而艾玛&bull;唐纳修在写《Room》时，亦是取材于当年震惊欧洲的奥地利囚禁乱伦案。2008年，奥地利阿姆斯太滕镇发生了一起令人胆战心惊的&ldquo;弗莱茨勒事件&rdquo;，不得不让大众再次思考亲情与人性的关系。18岁少女伊丽莎白&bull;弗莱茨勒被亲生父亲约瑟夫&bull;弗莱茨勒迷奸，禁锢在地下室长达24年，并生下7个孩子，其中三个在地下室里长大，从未见过天日，另外三个被约瑟夫以收养或领养的方式抚养，还有一个早夭。后来因其19岁长女罹患罕见重病，被医生要求警方找其生母提供病史资料，才得以揭发此事。而伊丽莎白出来时，已经42岁了，整个人的身体状况与精神面目遭到严重的摧毁。电影《Room》的故事与现实事件有所不同，但又十分类似，相同点在于它是悲情绝望的，讲述女孩乔伊被一个叫&ldquo;老尼克&rdquo;的男人诱拐，从此在他房子后院的木棚里，开始了长达7年的囚禁生活，并诞下儿子杰克。不同点在于，电影始终有一股野蛮的力量在向下扎根生长，稳稳的，长久的，令人感到欣喜。电影的切入点很有意思，是以小男孩杰克的视角与口吻展开，将剧情本身的沉重基调化开了。画面一开始，杰克刚起床，告诉乔伊，&ldquo;妈妈，我五岁了。&rdquo;然后乖巧地向台灯，盆栽，蛋蛋蛇，毯子，衣柜，电视，水池，马桶打招呼。一间逼仄简陋的木棚，囊括了乔伊和杰克生活的所有。靠着老尼克偶尔的补给，他们在里面吃饭，睡觉，拉撒，锻炼身体。在乔伊牙痛或身体不适时，她始终向杰克强调&ldquo;意志更重要&rdquo;的精神。杰克从出生以来，就一直住在木棚里，他的世界观是由这间狭窄昏暗的四方房子构成的。先是房间，然后是外太空，接着是天堂。中间夹杂着的一切，都是魔法变出来的，所有他没有见过的事物都存在于电视里。山太大了，海也是，所以不是真的，如果是真的，电视不可能装得下。在杰克的世界里，永远分不清真和假。他知道自己和妈妈是真的，却不知老尼克是真是假，或许一半真一半假。晚上睡觉时，他总是先睡在衣柜里，等老尼克解决好性欲望后，乔伊才会将熟睡的杰克抱回床上。大部分情况，乔伊会卑微地乞求老尼克和她上床，就为了不让他触碰自己的孩子。因为杰克是她目前活下去的唯一希望。那晚杰克因为好奇，从衣柜走出来，站在床前看那个让他们母子避之不及的男人。老尼克向他打招呼后，本来睡着的乔伊受到了极大的刺激，条件反射般起身制止他与孩子的一切交谈。杰克被吓哭，而老尼克也反手掐住乔伊的喉咙。第二日，木棚内的电闸被老尼克切断了，时值冬日，棚内寒冷。杰克在读《爱丽丝梦游仙境》，乔伊受此启发，萌生了逃出去的念头。她需要杰克的帮助，说他已到五岁，足以理解这个世界，而杰克却说他只想回到四岁，当乔伊说起她曾经的美好生活时，杰克说她那个故事好无聊，并且不相信她所说的世界。而他的世界是怎样的呢？老鼠是他的朋友，用鸡蛋壳窜起来的蛋蛋蛇亦是他的朋友。唯一的亮光，便是从头顶上那个小小的天窗照进来的。他的天空只有天窗那么大，只有绿色的才是树叶，黄色的不是。他触碰阳光的唯一机会，不是敞开双手给这个世界一个大大的拥抱，而是将手放到冰冷的墙壁上，一寸一寸地移动幼小的身子，抚摸斑驳的光影，试图拥有多一点，再多一点。对外面的世界不是不好奇，而是没有理由让他去好奇，因为从未见过，所以不存在很强烈的奢望。但乔伊是见过外面世界的人，因为曾经拥有，所以她分外渴求逃离这方寸之地。而眼前正有一个时机，她把杰克的脸用热毛巾裹热，假装因为停电而发烧生病，然后利用去医院的时候，求救于警察。然而计划失败，老尼克不愿意送他去医院。于是乔伊只能让杰克选择假装死亡，用地毯将他裹好，让老尼克找一个多树的地方再埋。乔伊告诉杰克，躺在地毯里，身体一定要硬挺，像死人那样，并且教他在何时何地跳车，看到有人时，就大声呼救。杰克却忽然问：&ldquo;谁是&lsquo;有人&rsquo;？&rdquo;那一刻我是愣住的。装死，从卷好的地毯里扭出来，再跳车，呼救，这些对我们大人而言，或许很简单，可他只是一个五岁的孩子，一个只见过四面墙，从未见过广阔天地的孩子。有那么一瞬，乔伊是冷酷无情的，但现实又令她毫无办法。杰克在&ldquo;出门&rdquo;前，将乔伊脱落的蛀牙带着，因为他知道，那是妈妈身体的一部分，在陪着他，给予他勇气与力量。影片终于来到最高潮部分，我的一颗心悬着，心想才看到一半，若他没逃出，接下来讲什么内容呢？若逃出了，又讲什么内容呢？毕竟关于&ldquo;逃离&rdquo;已经诠释完毕。当杰克躺在卡车后面，将身体扭出地毯时，入目的一切皆令他震惊，天空是如此的大，无边无际，空气是如此的清新，那是他不曾触摸的事物。正是这几秒钟的走神，差一点让他错过跳车的机会。好在，他成功了。如此的艰难，仿佛用尽一生的力气与勇气，才敢往这个世界迈出一步。他才知道，树叶也可以是黄色的。外面的人，是真的，狗也是真的。老尼克看到四周有人，又无法隐瞒时，立即将杰克丢下，开车逃跑了。此时此刻，我才真正认清这个男人，自私无用，胆小懦弱，可即便这样一个人，乔伊母子面对他时，仍旧束手无策。后来路人叫来了警察，而聪明敏锐的女警察不出一刻，便根据杰克断断续续的话语，将木棚的位置查出，最后成功地让他们母子团聚。若说影片前半部分的基调是冷色调，昏暗，封闭，紧张的，那么后半部分便是暖色调，明亮，宽敞，犹豫的。为什么是犹豫？因为要重新进入这个世界，既欣喜又害怕，既好奇又退缩。那颗完整的心已经被伤害了，还能选择再相信一次吗？还能容纳这一切吗？对于这类题材的故事，我一直以为&ldquo;逃离&rdquo;才是最重要的，原来不是。不止从肉体上得到解脱，更要从心灵上得到自由。从那个实体的房间到精神层面上的心房，每一步都要逃离，以及逃离后，该如何对悲伤沉重的过去释然，这才是最重要的。影片的后半部分，教会我一个道理：如果两个人都活得很痛苦，那我们就互相救赎吧。起初，杰克并不能真正融入这个新鲜多彩的世界。他怕光，怕见生人，说话很小声，蜷缩着身子，以此来保护自己。他困在内心深处那个房间里了。好在小孩子很快就能适应新的环境。母亲的陪伴，外婆的温柔，还有外婆的朋友Leo的善解人意。他有了新的玩具，新的朋友，还有狗。这一切都是真实的，然而当他真正走出来时，妈妈乔伊的内心却陷入了绝境。因为她曾经的家庭早已不完整了，父亲搬走，母亲再婚。自从她和杰克回来后，父亲甚至不敢直视杰克的眼睛。她还和母亲吵架，觉得自己的人生已毁坏，他们却能照常生活，根本就不关心她。有时候，一个相隔万里的陌生人的遭遇都能牵起我们内心的波澜，更何况是身边亲近的人。该要吞下多少苦楚，忍下多少眼泪，才能看起来很坚强。成年人的痛苦都是藏在心里的，他们克制，隐忍，安静地消化一切。即便悲伤常伴，太阳依旧照常升起，因此唯一能做的，就是默默地付出，直至不再提起此事，假装从未发生。不是为了让自己安心，也不是为了遗忘，而是不愿再刺激对方，更是为了那个遥远的美好未来。乔伊的母亲便是这样一个角色。乔伊不能理解这样的母亲，一气之下接受了记者的采访。面对记者各种尖锐的问题，乔伊再次陷入自我怀疑，并在当晚，趁杰克睡下后，在浴室选择自杀。若非杰克发现及时，又将是另一个悲剧。乔伊被送至医院治疗时，杰克曾这样说过：&ldquo;妈妈急着要冲上天堂，但她忘了我，笨妈妈，所以外星人把她扔下来，哗啦，把她摔坏了。&rdquo;而他唯一能做的，就是将自己微薄的力量赐予妈妈。他在逃出木棚时，曾把乔伊给他的那颗蛀牙当作勇气与力量的化身。现在，他也要将自己储着力量的头发，剪下来寄给医院里的乔伊。记得杰克刚出来时，亲人曾提议他将长头发剪短，那时他不肯，说那是他的力量，他要用来保护自己。现在他不需要了，乔伊将他送出木棚，他也要用那股力量将乔伊带出心魔。后来，乔伊从医院回来时，杰克正在院子里与小伙伴踢球。乔伊和杰克拥抱，他们看到了彼此最好的状态。于是两人选择再次回到那个囚禁他们多年的木棚里。木棚好像缩小了，房间也不再是房间，因为门是开着的，他们是自由的。离开时，杰克一样样地抚摸着说：&ldquo;再见盆栽，再见椅子一号，再见椅子二号，再见桌子，再见衣柜，再见水槽，再见天窗。妈妈和房间说再见吧。&rdquo;乔伊以极低的声音说：&ldquo;再见，房间。&rdquo;他们恨着这个世界，同时也是爱着的。他们痛苦着，同时也在竭尽全力拾起快乐。人生一半一半，一半警醒着，一半温柔着。这样才能挣脱桎梏，摆脱枷锁，跨出生活中一个又一个的房间，最终迈入幸福。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 用所有温柔，化解伤痛",
+                        "desc": "文/林庭 唯有爱与勇气，能抚平过去的伤痕。",
+                        "link": "http://m.wufazhuce.com/movie/1947?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 用所有温柔，化解伤痛",
+                        "desc": "文/林庭 唯有爱与勇气，能抚平过去的伤痕。",
+                        "link": "http://m.wufazhuce.com/movie/1947?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 用所有温柔，化解伤痛》 文/林庭： 唯有爱与勇气，能抚平过去的伤痕。 阅读全文：http://m.wufazhuce.com/movie/1947?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1947?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "用所有温柔，化解伤痛",
+                        "desc": "唯有爱与勇气，能抚平过去的伤痕。",
+                        "link": "http://m.wufazhuce.com/movie/1947?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2674",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4179",
+                    "title": "一个摇滚青年的罗曼史"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1092",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第二章：异类"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2743",
+                    "title": "怎样让自己更加果断？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1947",
+                    "title": "用所有温柔，化解伤痛"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

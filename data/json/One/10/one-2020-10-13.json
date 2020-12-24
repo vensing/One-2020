@@ -1,0 +1,575 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5654",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-13 06:00:00",
+        "content_list": [
+            {
+                "id": "21236",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2971",
+                "title": "摄影",
+                "forward": "就这样，我不断地更换认识的人，也不断地使自己进入不认识的人们之中去。我既不悲观，也不乐观，只是每天早上睁开眼睛迎接新的一天，一个人努力过下去。",
+                "img_url": "http://image.wufazhuce.com/FhTznflYhw7mSdCpQhBNAmOZByXA",
+                "like_count": 16674,
+                "post_date": "2020-10-13 06:00:00",
+                "last_update_date": "2020-10-09 13:04:57",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2929",
+                "pic_info": "Adrien Olichon",
+                "words_info": "青山七惠",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2971",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2971",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2971",
+                    "image": "http://image.wufazhuce.com/FhTznflYhw7mSdCpQhBNAmOZByXA",
+                    "title": "VOL.2929",
+                    "content": "就这样，我不断地更换认识的人，也不断地使自己进入不认识的人们之中去。我既不悲观，也不乐观，只是每天早上睁开眼睛迎接新的一天，一个人努力过下去。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2971?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2971?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 就这样，我不断地更换认识的人，也不断地使自己进入不认识的人们之中去。我既不悲观，也不乐观，只是每天早上睁开眼睛迎接新的一天，一个人努力过下去。——青山七惠 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2971?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2971?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21263",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4476",
+                "title": "烟火沉没",
+                "forward": "当欢乐穿越时空，激荡豪情无限。当梦想挽起明天，拥抱生活的灿烂。",
+                "img_url": "http://image.wufazhuce.com/FmG8DIx0lLvXEVgBXNwoyD6NPGy2",
+                "like_count": 2286,
+                "post_date": "2020-10-13 06:00:00",
+                "last_update_date": "2020-10-13 09:06:26",
+                "author": {
+                    "user_id": "10842628",
+                    "user_name": "赵耐凡",
+                    "desc": "短篇《十一月北方下雪》作者",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "耐凡不耐烦",
+                    "fans_total": "798",
+                    "web_url": "http://image.wufazhuce.com/Fj1H6EI3JIZh-fdDJmXfRj1YJOJl"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4476",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4476",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4476",
+                    "image": "http://image.wufazhuce.com/FmG8DIx0lLvXEVgBXNwoyD6NPGy2",
+                    "title": "烟火沉没 作者/赵耐凡",
+                    "content": "我杀了人，来自首。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 烟火沉没",
+                        "desc": "文/赵耐凡 我杀了人，来自首。",
+                        "link": "http://m.wufazhuce.com/article/4476?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 烟火沉没",
+                        "desc": "文/赵耐凡 我杀了人，来自首。",
+                        "link": "http://m.wufazhuce.com/article/4476?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 烟火沉没》 文/赵耐凡： 我杀了人，来自首。 阅读全文：http://m.wufazhuce.com/article/4476?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4476?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "烟火沉没",
+                        "desc": "我杀了人，来自首。",
+                        "link": "http://m.wufazhuce.com/article/4476?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21259",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1315",
+                "title": "制作人们·第二章：酗酒的乐手",
+                "forward": "你们今天要是站着出了这个门，我跟你们姓！",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 663,
+                "post_date": "2020-10-13 06:00:00",
+                "last_update_date": "2020-10-10 17:40:47",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第2章",
+                "number": "2",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1315",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1315",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1315",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第二章：酗酒的乐手 作者/鳄鱼姐",
+                    "content": "你们今天要是站着出了这个门，我跟你们姓！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第二章：酗酒的乐手",
+                        "desc": "文/鳄鱼姐 你们今天要是站着出了这个门，我跟你们姓！",
+                        "link": "http://m.wufazhuce.com/serial/1315?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第二章：酗酒的乐手",
+                        "desc": "文/鳄鱼姐 你们今天要是站着出了这个门，我跟你们姓！",
+                        "link": "http://m.wufazhuce.com/serial/1315?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第二章：酗酒的乐手》 文/鳄鱼姐： 你们今天要是站着出了这个门，我跟你们姓！ 阅读全文：http://m.wufazhuce.com/serial/1315?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1315?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第二章：酗酒的乐手",
+                        "desc": "你们今天要是站着出了这个门，我跟你们姓！",
+                        "link": "http://m.wufazhuce.com/serial/1315?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21245",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3004",
+                "title": "太在乎别人的感受怎么办？",
+                "forward": "你就是太在乎别人，才搞得自己疲惫又心累。",
+                "img_url": "http://image.wufazhuce.com/FmGcfG-fQ5UU04dhZBQyOp76PI-9",
+                "like_count": 2999,
+                "post_date": "2020-10-13 06:00:00",
+                "last_update_date": "2020-10-14 11:45:37",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "讨好症患者",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3004",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3004",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3004",
+                    "image": "http://image.wufazhuce.com/FmGcfG-fQ5UU04dhZBQyOp76PI-9",
+                    "title": "太在乎别人的感受怎么办？",
+                    "content": "太在乎别人的感受怎么办？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 太在乎别人的感受怎么办？",
+                        "desc": "文/达令欧尼 别到他人的戏里当配角。",
+                        "link": "http://m.wufazhuce.com/question/3004?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 太在乎别人的感受怎么办？",
+                        "desc": "文/达令欧尼 别到他人的戏里当配角。",
+                        "link": "http://m.wufazhuce.com/question/3004?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 太在乎别人的感受怎么办？》 文/达令欧尼： 别到他人的戏里当配角。 阅读全文：http://m.wufazhuce.com/question/3004?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3004?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "太在乎别人的感受怎么办？",
+                        "desc": "别到他人的戏里当配角。",
+                        "link": "http://m.wufazhuce.com/question/3004?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11566142",
+                    "user_name": "达令欧尼",
+                    "desc": "做一个好人，读书写字。 做一个好的文字表达者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：达令欧尼",
+                    "fans_total": "413",
+                    "web_url": "http://image.wufazhuce.com/FijAmp6Le3fo_1Tma8f5iZSZYoNq"
+                }
+            },
+            {
+                "id": "21262",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2063",
+                "title": "注定爱一场，注定永相忘",
+                "forward": "情动于心，与君别离。秋夜的梦知道，我还爱你。",
+                "img_url": "http://image.wufazhuce.com/Fgu7Q8pzw-29Sp8jf2WDV8QjUxAU",
+                "like_count": 2193,
+                "post_date": "2020-10-13 06:00:00",
+                "last_update_date": "2020-10-12 16:48:46",
+                "author": {
+                    "user_id": "11627090",
+                    "user_name": "杏子",
+                    "desc": "一个爱看电影，偶尔写写画画的985理工女。",
+                    "wb_name": "@杏梓·",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "走走停停。",
+                    "fans_total": "37",
+                    "web_url": "http://image.wufazhuce.com/FiD6_gxA74KQIAwVV4C1gBDrGUPA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "纯真年代",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5046",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2063",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2063",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2063",
+                    "image": "http://image.wufazhuce.com/Fgu7Q8pzw-29Sp8jf2WDV8QjUxAU",
+                    "title": "「一个」电影: 纯真年代",
+                    "content": "有多爱一个人，才会愿意抛下一切，奋不顾身，摒弃流言蜚语，世俗偏见只为和她在一起？又有多爱一个人，才会愿意为了他，选择放手，再不相见，自此之后天各一方，彼此思念？人生总是有太多的求不得，爱别离。有时候当我们意识到自己的心时，却已不得不牵起另一个人的手说着此生不渝。可即使骗过所有人，抵过了漫漫岁月的煎熬，也始终难以说服自己的心。就像歌词里唱的那样：得不到的永远在骚动。可能到最后，早已分不清是执念还是深情......电影《纯真年代》中的男主人公便是如此，他用一生扮演了好丈夫，好父亲的角色，心里却为另一人搭起一座圣殿，直至老去也未曾忘怀。&ldquo;一望可相见，一步如重城。&rdquo;比爱而不得更难的，大概是你们彼此相爱，却也明了他此后人生的悲喜再与你无关。如果遇见便是错过，那便选择放手，保留爱情最后的尊严；如果注定不能终老，那便彼此思念，刻骨铭心的度过余生。&nbsp;01 命中注定，要爱上你十九世纪末的纽约是野心家的名利场。上流社会看似光鲜亮丽，可背后隐藏的仍是封建贵族的腐朽堕落和资产阶级的尔虞我诈。纽约就像一座装饰考究的牢笼，锁住了一切的不羁与自由。男主纽兰特出身显赫，事业有成，为人也温文尔雅，彬彬有礼。表面上他是上流社会完美的拥护者，是众人心里的推崇对象。可内心里，他鄙视贵族之间的夸夸而谈，看透了他们的虚伪和自大，不屑与其为伍。他和女主艾伦在剧院相逢，年少时，纽兰特曾爱慕艾伦，这段感情却因艾伦的远嫁他乡而无疾而终。再见时，艾伦已是奥兰斯基夫人，她不满丈夫的骄奢淫逸，从欧洲回到美国，而亚契也将要迎娶艾伦的表妹&mdash;&mdash;梅为妻。梅同纽兰特一样，出身于纽约的名门望族。她温柔娴静，落落大方，永远是舞会的焦点，众人吹捧的对象。她热衷于社交，对一切都仿佛得心应手却又表现得那么云淡风清。在外人眼里，她代表着纽约上流社会一切的美好，同纽兰特是天造地设的一对。可在纽兰特看来，梅就像被上流社会打扮好的精致的洋娃娃，美丽的背后，只有空洞和苍白。他表面上对她彬彬有礼，心里却又无一刻不想逃离。所以当不拘于礼教的艾伦出现时，他沦陷了。&ldquo;心动只是一瞬间，有时只需要一个眼神，几句话语。&rdquo;艾伦的洒脱张扬，风情万种是如此的令纽兰特魂牵梦萦。这个与众不同的女人让纽兰特心里反抗的种子，生了根，发了芽。当所有人都津津乐道艾伦和伯爵秘书的花边传闻，因为她的不拘礼法而在私下刻意疏远，拒绝去有她的宴会赴约时，只有纽兰特不肯参与其中。他去找当时的权威为艾伦主持公道，为她与自己保守愚昧的妹妹和母亲争执。当人们都觉得艾伦应当为了丰厚的资产回到欧洲，继续扮演&ldquo;伯爵夫人&rdquo;这个身份时，只有纽兰特劝她遵从本心。这样的深情，艾伦读懂了，也难以抵抗。在一次次的倾心交谈之后，纽兰特终是情难自己，他向艾伦袒露心意，他跪下来亲吻她的鞋尖，他们彼此相拥缠绵，互诉衷肠。偌大的纽约，两个孤独的灵魂不可遏制地相爱了。可隔在他们中间的是世俗的眼光和梅的幸福。当纽兰特想要解除婚约和艾伦在一起时，艾伦却选择了放手。她深知纵使两人再想挣脱纽约这片深潭，却早已是深陷其中。她说出了全片最令人心碎的台词：&ldquo;I can&#39;t love you until I give you up!&rdquo; 因为深爱，所以选择放手，艾伦用自己的决绝为这份不适时的爱保留了最后的余温。&nbsp;02 兜兜转转，都是没握住那缕夕阳不久，纽兰特同梅结婚，纽约又多了一对貌合神离的夫妻，而艾伦也刻意回避着他们，就这样相安无事的过了一年半。婚后，纽兰特同梅出入大小宴会，看似甜蜜，可梅却无法走进纽兰特的内心。封建礼教的桎梏和思想上的空无一物，使她和纽兰特之间始终有着深深的隔阂。在这段感情里，梅代表着传统，艾伦代表着反叛。纽兰特则是始终徘徊于两者之间。他深受爱而不得的折磨，却又难以走出上流社会的舒适圈；他在内心里迫切的想要逃离眼前虚伪的一切，却又无法放弃所拥有的财富与声望。所以当他看着独自站在海边的艾伦，却没有勇气迎上去。只是暗暗在心里发誓，若艾伦在船驶过灯塔前回头，他才走向她。可有时，命运就是这么不留情面。当船缓缓驶过灯塔，他终是没有等到艾伦的回头。在往后的日子里，纽约就像一张大网，让这对情人一次次的相遇，又一次次的错过。在外人的流言蜚语间，他们小心翼翼地挂念着对方，却又不得不走出这黄粱美梦。而梅在他们的感情中，像是个旁观者又像是个参与者。她一心交付，却始终得不到想要的真心。当纽兰特以为自己的心思被瞒的很好时，却不知梅早已从他回避的眼神中看出了端倪。她看向纽兰特的眼神里，有乞求，有挽留，更多的是不愿说破的哀伤。但梅终是聪明的，当她发觉纽兰特准备抛下一切与艾伦远走高飞时，她懂得如何运用柔软和无辜的力量去捍卫自己的婚姻。最终，她赢了，赢得虽不磊落，但终是利用怀孕这个圈套使得艾伦自愿回到欧洲，继续当她的伯爵夫人。在践行宴上，整个纽约的贵族都以谈笑风生的姿态窥视着这对&ldquo;不体面&rdquo;的情人。在纽兰特的眼里，他们就像是一群&ldquo;共谋者&rdquo;，只为将他与心爱的人分离。当纽兰特佯装无意地说出自己会去欧洲看艾伦时，艾伦微笑着回答到：&ldquo;如果你和梅能来的话...&rdquo;将纽兰特最后的希望熄灭，为这段感情画上句号。很多时候，先放手的人不是不爱，而正是因为爱的太深才愿意去背负转身的绝望和离开的沉重。&nbsp;03 你是我心底不曾言说的秘密往后的几十年，纽兰特和梅生儿育女，朝夕相伴。在外人眼里，他是一个好丈夫，好父亲。而每当他回想起艾伦，他总会感觉到虚幻宁静，仿佛书里或者画中所描绘的一位爱人，她象征了他错失的一切。当老了的纽兰特因儿子的婚礼来到欧洲，从儿子口中得知了，其实梅早已知他心中另有所爱。他本以为自己将这个不见光的秘密守的很好，却未曾想到在他因不得所爱而饱受煎熬时，妻子也承受着同样的痛苦。可白云苍狗，岁月不居，过往的纠葛像一粒石子投入大海一般，再难掀起波澜。唯有那天黄昏的那抹夕阳余晖和码头上那个自始至终不曾回头的人始终留在纽兰特的心里，未曾远走。他们三人的爱情，到最后已说不清是谁成全了谁。命运的戏谑，时代的洪流，一步步将每个人推向各自的结局。我们不得而知，若纽兰特真的和艾伦私奔是否三个人会收获各自的幸福。可大概就像艾伦说的那样：&ldquo;没有任何一个国家能容得下他们，在那个年代没人能接纳像他们这样的情人。&rdquo;影片的结尾，纽兰特望着艾伦的窗口，终是没走上去再见她一面。他佝偻的身影慢慢走向落日的余晖中，渐渐消失在街角。恍惚间，回忆闪过，又转瞬即逝，那么美却也那么遥远，想伸手去触碰，却终是难以抓住......影片里，两个女主人公总让人联想到张爱玲笔下的红玫瑰与白玫瑰，艾伦就像娇艳的红玫瑰，永远是纽兰特心口上的一颗朱砂痣，而梅则如同白玫瑰，纵使她再好，久而久之，也不过是衣服上的一粒饭。可能到最后，纽兰特对于艾伦与其说是爱，不如说她代表着他失去的岁月，正是因为失去，才是举世无双的良辰美景。有时候，我们为了寻觅心底的镜花水月，而忽略了身边人的美好，等到感悟时，却早已是物是人非，再难回首....."
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 注定爱一场，注定永相忘",
+                        "desc": "文/杏子 错的时间对的人，一生在忘一个人。",
+                        "link": "http://m.wufazhuce.com/movie/2063?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 注定爱一场，注定永相忘",
+                        "desc": "文/杏子 错的时间对的人，一生在忘一个人。",
+                        "link": "http://m.wufazhuce.com/movie/2063?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 注定爱一场，注定永相忘》 文/杏子： 错的时间对的人，一生在忘一个人。 阅读全文：http://m.wufazhuce.com/movie/2063?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2063?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "注定爱一场，注定永相忘",
+                        "desc": "错的时间对的人，一生在忘一个人。",
+                        "link": "http://m.wufazhuce.com/movie/2063?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21237",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3300",
+                "title": "一个无聊的小发现",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FjcSrYCDsdAFrtBlwFHMNaZamJlp?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1061,
+                "post_date": "2020-10-13 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3300",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3300",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 一个无聊的小发现",
+                        "desc": "发现生活中无聊的美好",
+                        "link": "http://m.wufazhuce.com/radio/3300?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lhMZTOs9_bSWizHJpJuZp8e0frVa"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 一个无聊的小发现",
+                        "desc": "发现生活中无聊的美好",
+                        "link": "http://m.wufazhuce.com/radio/3300?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lhMZTOs9_bSWizHJpJuZp8e0frVa"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 一个无聊的小发现》 主播/李荟莹： 发现生活中无聊的美好 阅读全文：http://m.wufazhuce.com/radio/3300?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3300?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lhMZTOs9_bSWizHJpJuZp8e0frVa"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "一个无聊的小发现",
+                        "link": "http://m.wufazhuce.com/radio/3300?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lhMZTOs9_bSWizHJpJuZp8e0frVa"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 899 期",
+                "audio_url": "http://music.wufazhuce.com/lhMZTOs9_bSWizHJpJuZp8e0frVa"
+            }
+        ],
+        "menu": {
+            "vol": "2929",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4476",
+                    "title": "烟火沉没"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1315",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第二章：酗酒的乐手"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3004",
+                    "title": "太在乎别人的感受怎么办？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2063",
+                    "title": "注定爱一场，注定永相忘"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3300",
+                    "title": "一个无聊的小发现"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

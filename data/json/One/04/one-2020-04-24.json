@@ -1,0 +1,737 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5483",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-04-24 06:00:00",
+        "content_list": [
+            {
+                "id": "20206",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2798",
+                "title": "摄影",
+                "forward": "如果不知道自己想要干什么，就先工作。只要工作，就可以得到米、酱、酱油、朋友和信任。可以一边工作，一边寻找真正想干的事，千万不要游手好闲。",
+                "img_url": "http://image.wufazhuce.com/FrIXn6UeYcjax44F8eYOcvR3eWLq",
+                "like_count": 25892,
+                "post_date": "2020-04-24 06:00:00",
+                "last_update_date": "2020-04-17 12:00:00",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2757",
+                "pic_info": "Ian Dooley",
+                "words_info": "岛田洋七 《超级阿嬷的信》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2798",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2798",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2798",
+                    "image": "http://image.wufazhuce.com/FrIXn6UeYcjax44F8eYOcvR3eWLq",
+                    "title": "VOL.2757",
+                    "content": "如果不知道自己想要干什么，就先工作。只要工作，就可以得到米、酱、酱油、朋友和信任。可以一边工作，一边寻找真正想干的事，千万不要游手好闲。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2798?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2798?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 如果不知道自己想要干什么，就先工作。只要工作，就可以得到米、酱、酱油、朋友和信任。可以一边工作，一边寻找真正想干的事，千万不要游手好闲。——岛田洋七 《超级阿嬷的信》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2798?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2798?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20227",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4288",
+                "title": "寂寞的轨道",
+                "forward": "每个人都有一条轨道，上班下班，一日三餐。",
+                "img_url": "http://image.wufazhuce.com/FnbFAKniVyrDsE97w2zPbMeovpcc",
+                "like_count": 2847,
+                "post_date": "2020-04-24 06:00:00",
+                "last_update_date": "2020-04-23 18:58:42",
+                "author": {
+                    "user_id": "5529761",
+                    "user_name": "短痛",
+                    "desc": "写作者。著有《孤独的孩子，提着易碎的灯笼》。",
+                    "wb_name": "@短tone",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作者。",
+                    "fans_total": "6392",
+                    "web_url": "http://image.wufazhuce.com/Fna7qucK98hngcbtH1Ek9tzAHqL_"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4288",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4288",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4288",
+                    "image": "http://image.wufazhuce.com/FnbFAKniVyrDsE97w2zPbMeovpcc",
+                    "title": "寂寞的轨道 作者/短痛",
+                    "content": "原来生活里最大的心酸，是连想哭都被琐事打断。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 寂寞的轨道",
+                        "desc": "文/短痛 原来生活里最大的心酸，是连想哭都被琐事打断。",
+                        "link": "http://m.wufazhuce.com/article/4288?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 寂寞的轨道",
+                        "desc": "文/短痛 原来生活里最大的心酸，是连想哭都被琐事打断。",
+                        "link": "http://m.wufazhuce.com/article/4288?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 寂寞的轨道》 文/短痛： 原来生活里最大的心酸，是连想哭都被琐事打断。 阅读全文：http://m.wufazhuce.com/article/4288?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4288?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "寂寞的轨道",
+                        "desc": "原来生活里最大的心酸，是连想哭都被琐事打断。",
+                        "link": "http://m.wufazhuce.com/article/4288?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20249",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4293",
+                "title": "父母与机器人|【ONEx数羊指南&阿莫学长】",
+                "forward": "积极的、向上的情感可能更容易感觉放松。",
+                "img_url": "http://image.wufazhuce.com/FncPNeWs-NIvme2E6t8m5NxynMUg",
+                "like_count": 804,
+                "post_date": "2020-04-24 06:00:00",
+                "last_update_date": "2020-04-24 14:53:46",
+                "author": {
+                    "user_id": "5631435",
+                    "user_name": "ONE·一个 ",
+                    "desc": "ONE 是由韩寒监制的文艺生活应用，覆盖摄影、插画、小说、问答、音乐、电影等，精挑细选，每日更新。",
+                    "wb_name": "@一个App工作室",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "ONE·一个 是由韩寒监制的文艺生活应用",
+                    "fans_total": "5566",
+                    "web_url": "http://image.wufazhuce.com/FvSMJiVyijX8G4BFHwhvDprO5yvW"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4293",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4293",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4293",
+                    "image": "http://image.wufazhuce.com/FncPNeWs-NIvme2E6t8m5NxynMUg",
+                    "title": "父母与机器人|【ONEx数羊指南&阿莫学长】 作者/ONE·一个 ",
+                    "content": "积极的、向上的情感可能更容易感觉放松。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "活动 | 父母与机器人|【ONEx数羊指南&阿莫学长】",
+                        "desc": "文/ONE·一个  积极的、向上的情感可能更容易感觉放松。",
+                        "link": "http://m.wufazhuce.com/article/4293?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "活动 | 父母与机器人|【ONEx数羊指南&阿莫学长】",
+                        "desc": "文/ONE·一个  积极的、向上的情感可能更容易感觉放松。",
+                        "link": "http://m.wufazhuce.com/article/4293?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《活动 | 父母与机器人|【ONEx数羊指南&阿莫学长】》 文/ONE·一个 ： 积极的、向上的情感可能更容易感觉放松。 阅读全文：http://m.wufazhuce.com/article/4293?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4293?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "父母与机器人|【ONEx数羊指南&阿莫学长】",
+                        "desc": "积极的、向上的情感可能更容易感觉放松。",
+                        "link": "http://m.wufazhuce.com/article/4293?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "42",
+                        "title": "活动"
+                    }
+                ]
+            },
+            {
+                "id": "20245",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4292",
+                "title": "越长大，越沉默",
+                "forward": "当我沉默的时候，觉得很充实，当我开口说话，就感到了空虚。",
+                "img_url": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                "like_count": 2537,
+                "post_date": "2020-04-24 06:00:00",
+                "last_update_date": "2020-04-23 19:11:43",
+                "author": {
+                    "user_id": "11164490",
+                    "user_name": "梅头脑等五位",
+                    "desc": "体制下的失败者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个App编辑。",
+                    "fans_total": "457",
+                    "web_url": "http://image.wufazhuce.com/FuBMYDqSxiUiN00ZWBHezOa3N6yO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4292",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4292",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4292",
+                    "image": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                    "title": "越长大，越沉默 作者/梅头脑、曲尚、张拉灯、颗馨、柒斐",
+                    "content": "都说沉默是金，我怎么还没暴富？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 越长大，越沉默",
+                        "desc": "文/张拉灯等五位 都说沉默是金，我怎么还没暴富？",
+                        "link": "http://m.wufazhuce.com/article/4292?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 越长大，越沉默",
+                        "desc": "文/张拉灯等五位 都说沉默是金，我怎么还没暴富？",
+                        "link": "http://m.wufazhuce.com/article/4292?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 越长大，越沉默》 文/张拉灯等五位： 都说沉默是金，我怎么还没暴富？ 阅读全文：http://m.wufazhuce.com/article/4292?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4292?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "越长大，越沉默",
+                        "desc": "都说沉默是金，我怎么还没暴富？",
+                        "link": "http://m.wufazhuce.com/article/4292?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "20237",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1167",
+                "title": "最后的审判（二）第四章：负负得正",
+                "forward": "你们中国人真的奇怪，该勇敢的时候不勇敢，不该大胆的时候都很大胆。",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 833,
+                "post_date": "2020-04-24 06:00:00",
+                "last_update_date": "2020-04-22 10:14:20",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第4章",
+                "number": "4",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1167",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1167",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1167",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第四章：负负得正 作者/红拂夜奔不复还",
+                    "content": "你们中国人真的奇怪，该勇敢的时候不勇敢，不该大胆的时候都很大胆。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第四章：负负得正",
+                        "desc": "文/红拂夜奔不复还 你们中国人真的奇怪，该勇敢的时候不勇敢，不该大胆的时候都很大胆。",
+                        "link": "http://m.wufazhuce.com/serial/1167?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第四章：负负得正",
+                        "desc": "文/红拂夜奔不复还 你们中国人真的奇怪，该勇敢的时候不勇敢，不该大胆的时候都很大胆。",
+                        "link": "http://m.wufazhuce.com/serial/1167?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第四章：负负得正》 文/红拂夜奔不复还： 你们中国人真的奇怪，该勇敢的时候不勇敢，不该大胆的时候都很大胆。 阅读全文：http://m.wufazhuce.com/serial/1167?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1167?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第四章：负负得正",
+                        "desc": "你们中国人真的奇怪，该勇敢的时候不勇敢，不该大胆的时候都很大胆。",
+                        "link": "http://m.wufazhuce.com/serial/1167?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20215",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2824",
+                "title": "你觉得“少年感”是什么样的？",
+                "forward": "就是清新而带点叛逆。",
+                "img_url": "http://image.wufazhuce.com/FprJnHgsE_orExKlYsk7fte1J-5M",
+                "like_count": 2698,
+                "post_date": "2020-04-24 06:00:00",
+                "last_update_date": "2020-04-23 18:59:50",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2824",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2824",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2824",
+                    "image": "http://image.wufazhuce.com/FprJnHgsE_orExKlYsk7fte1J-5M",
+                    "title": "你觉得“少年感”是什么样的？",
+                    "content": "你觉得“少年感”是什么样的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你觉得“少年感”是什么样的？",
+                        "desc": "文/网友 兴高采烈地迎接每一场空欢喜，是我最少年的事。",
+                        "link": "http://m.wufazhuce.com/question/2824?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你觉得“少年感”是什么样的？",
+                        "desc": "文/网友 兴高采烈地迎接每一场空欢喜，是我最少年的事。",
+                        "link": "http://m.wufazhuce.com/question/2824?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你觉得“少年感”是什么样的？》 文/网友： 兴高采烈地迎接每一场空欢喜，是我最少年的事。 阅读全文：http://m.wufazhuce.com/question/2824?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2824?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你觉得“少年感”是什么样的？",
+                        "desc": "兴高采烈地迎接每一场空欢喜，是我最少年的事。",
+                        "link": "http://m.wufazhuce.com/question/2824?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20231",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3245",
+                "title": "崔天琪：我还向往爱情，但没太多期待",
+                "forward": "你可以一个人到老，你也可以有人陪着，不管哪种生活都不会很差。爱情也好，婚姻也好，这都不是人生中必须要有的东西。",
+                "img_url": "http://image.wufazhuce.com/FmoutKntwtBK-rndiCSuUk_akQsi",
+                "like_count": 2062,
+                "post_date": "2020-04-24 06:00:00",
+                "last_update_date": "2020-04-23 22:38:35",
+                "author": {
+                    "user_id": "10594301",
+                    "user_name": "曲尚",
+                    "desc": "一个App编辑。",
+                    "wb_name": "@止于曲尚",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个App编辑。",
+                    "fans_total": "1212",
+                    "web_url": "http://image.wufazhuce.com/FpI_s9uBEO3wVPgFq0WSxtlVfqRb"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/FjwLyYRGHLrZGiAM7ki_FdP-G_AG",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "天琪想对你说",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3245",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3245",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3245",
+                    "image": "http://image.wufazhuce.com/FmoutKntwtBK-rndiCSuUk_akQsi",
+                    "title": "「一个」音乐: 曲尚 天琪想对你说",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  人在恋爱的时候，都认为自己是情圣。这些年来，我听了几首情歌，也谈了几段恋爱，歌单中有着固定歌曲，《放过》就是其一，我很喜欢里面一句歌词：谁也伤不到我，除非是你放开我的手。这句话完美诠释我在爱情中的观点，有时甚至觉得这首歌是专门为我写的。每次听这首歌都会想，歌手是有着怎样的经历，才会写出这样的词。这个小疑问在我心里困惑了很多年，现在我度过难熬的日子，身边也不再有喜欢的人身影，但我带着疑问，找到解我困惑的人&mdash;&mdash;崔天琪。她的音乐都说写词来源于生活，天琪证实了这点，《放过》这首歌的歌词正是她当时跟男友吵架后所写出来的，十八九岁的年纪是最无畏的，面对爱情也好，生活也罢，都是如此。不同人有着不同的抒发方式，她将自己的态度写进歌词中，用音乐这样的方式去传递出来，只是当时的她没有想到，这首歌会火很多年，那时候她钱不多，公司可供宣传的资金也不足，宣传力度没法做到很大，所以期望没有很高。平时她自己也很少用音乐软件听歌，还是朋友告诉她，现在这首歌在网易云上挺热的，你可以去看看。她这才去搜自己的歌，听网友翻唱，看网友拍的视频，这些对她来说都是很有趣的事情。看到自己歌被很多人喜欢，且喜欢这么多年，对一个歌手而言，这是被肯定的表现。天琪也有去分析大家喜欢这首歌的原因，她认为，可能大多数人都会被歌词戳中，与她们当下的经历正好相符。这些其实都没什么，悲伤的时候可以悲伤，放下的时候去放下，去经历你该经历的，去享受你目前的整个状态。感情这件事，基本上大家都会面对，无论结局是否美好，享受过程也是重要的。人与人之间所有的相遇都是命中注定，你遇到的那个人，他总能教会你点什么。等时间长了，你再回头看，会发现其实也没什么，毕竟再难熬的日子，你都熬了过来。&nbsp;她的爱情唱情歌的人，多少都经历过爱。现在的生活，谈爱总觉得有些俗气，但要真的不说，又显得不够深情。天琪对爱情的态度很简单，在她看来，爱情也好，婚姻也好，这都不是人生中必须要有的东西，最重要的还是随心，她现在也是没有很渴望。你可以一个人到老，你也可以有人陪着，不管哪种生活都不会很差。想怎样做就怎样做，自己开心就好。人活在世界上已经很难了，倘若连爱的权力都没有，那岂不是在消耗时间？你要相信自己是拥有爱的资格的，无论你处在哪个阶段，你都可以去爱。一直以来她都相信爱情是顺其自然而来的，遇到就爱，没遇到也不着急。现在人恋爱，谈来谈去耗费完精力，也不一定能够走完一辈子。大部分人都是不完美的，可能相处很久，你会突然发现，这个人并不是你想要的那个人。近两年，天琪很喜欢自己《爱过天使爱过魔鬼》这首歌的歌词：我爱过天使也爱过魔鬼，但又怎样，起码我很真实。她觉得很对，因为很多人都会这样，等过去那段时间，你会问自己，当时爱上的是什么鬼，可在你爱的时候，你就会觉得对方就是你的一切，他就是天使，但可能下一次你还是会喜欢魔鬼。她相信大部分人在面对爱情，都是感性对待，能在感情中做到理性，这个境界也不是一般人能达到。所以如天琪所说的，想爱就去爱，想散就散，别局限自己，也别强求自己，怎么高兴怎么来。简单来讲，也就是希望大家都能够活成自己理想中的模样，这也是来到这个世界上最重要的一点。天琪在&ldquo;生活&rdquo;这件事上，看得很通透，知道自己想要什么，需要怎样去做。她的大部分决定都在她自己手上，她身上也没什么束缚，一切事情都基于她是否开心，将更多精力放在自己身上。她在家会经常劝她妹妹，想做什么就去做，让自己开心点。在能有机会去做想做的事情时，放心大胆地去做，千万别等自己后悔。后悔是这世上最无助的举措，她希望大家不要有这样的经历。&nbsp;她的生活提到生活，可能大家有在抖音上看到天琪与爸爸的互动。轻松有趣又生活化，这种风格本身比较讨喜，也能够引起大家的共鸣。相信不少人看到后都会想起自己跟爸爸的日常生活，或许看者也会选择用这种方式去记录。抛去歌手这个身份，天琪也不过是个小女生，在她的人生字典中，吃是必不可少的，最幸福的事，也莫过于享受美食和音乐。美食是这个世界上最治愈人的东西，情绪会因为美食而产生波动。心情无论好坏，都要去享受美食所带给你的快乐。和喜欢的一切在一起，才是理想的生活。天琪正拥有着，我想你也会。大家都是普通人，但也都是自己的焦点，所以快乐点活着，也请务必活得像自己。好不容易来人间一趟，可不能白活。天琪眼中的ONE&ldquo;一个&rdquo;是文艺App，打开阅读能让自己安静下来，大多时候去看里面的内容，会有共鸣感，我觉得这对大家会有所帮助，起码我看完会有很释然的感觉，比如阅读栏目感受人生，问答栏目解答困惑，音乐栏目歌曲跟文章的结合，我也是很喜欢，以及影视和电台，都各有各的特点。我很喜欢这种传递方式，跟我做音乐的态度一样。不求做到最精，但求做到最好。新歌《流放》中的一句歌词我想要送给大家：是安静过后头颅的狂欢，是梦醒后出不来的疯狂，是与你不同褐色的夕阳。希望在看这篇文章的你们，都能够拥有属于自己的幸福，再爱别人，也请你依旧要爱自己，因为你值得。我是崔天琪，我在ONE等你来听我的歌。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 崔天琪：我还是向往爱情，但没太多期待",
+                        "desc": "文/曲尚 顺其自然，想爱就爱。",
+                        "link": "http://m.wufazhuce.com/music/3245?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 崔天琪：我还是向往爱情，但没太多期待",
+                        "desc": "文/曲尚 顺其自然，想爱就爱。",
+                        "link": "http://m.wufazhuce.com/music/3245?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 崔天琪：我还是向往爱情，但没太多期待》 文/曲尚： 顺其自然，想爱就爱。 阅读全文：http://m.wufazhuce.com/music/3245?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3245?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "崔天琪：我还是向往爱情，但没太多期待",
+                        "desc": "顺其自然，想爱就爱。",
+                        "link": "http://m.wufazhuce.com/music/3245?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "天琪想对你说",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "崔天琪",
+                "audio_album": "天琪想对你说",
+                "cover": "http://image.wufazhuce.com/Fg4ldrHbWY1n5DxHOjuaSgi5QUNY",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2757",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4288",
+                    "title": "寂寞的轨道"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4293",
+                    "title": "父母与机器人|【ONEx数羊指南&阿莫学长】",
+                    "tag": {
+                        "id": "42",
+                        "title": "活动"
+                    }
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4292",
+                    "title": "越长大，越沉默",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1167",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第四章：负负得正"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2824",
+                    "title": "你觉得“少年感”是什么样的？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3245",
+                    "title": "崔天琪：我还向往爱情，但没太多期待"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

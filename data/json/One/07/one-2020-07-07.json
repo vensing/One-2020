@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5555",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-07 06:00:00",
+        "content_list": [
+            {
+                "id": "20686",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2873",
+                "title": "插画",
+                "forward": "我们各自离开了小镇。像两滴水，在大海中不再相逢。",
+                "img_url": "http://image.wufazhuce.com/FtChsE-LqEkDQprpEXBXBBIq1CUI",
+                "like_count": 15205,
+                "post_date": "2020-07-07 06:00:00",
+                "last_update_date": "2020-07-06 15:05:12",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2831",
+                "pic_info": "左马",
+                "words_info": "路明《出小镇记》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2873",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2873",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2873",
+                    "image": "http://image.wufazhuce.com/FtChsE-LqEkDQprpEXBXBBIq1CUI",
+                    "title": "VOL.2831",
+                    "content": "我们各自离开了小镇。像两滴水，在大海中不再相逢。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2873?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2873?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我们各自离开了小镇。像两滴水，在大海中不再相逢。——路明《出小镇记》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2873?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2873?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "1"
+            },
+            {
+                "id": "20687",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4375",
+                "title": "天台野餐",
+                "forward": "我一直揣着这个消息，没舍得讲，像揣了一块糖，吃完就没了。我家很久没吃糖了。",
+                "img_url": "http://image.wufazhuce.com/FnbJCThBrj2NXJW5uKMYdKNrXqoQ",
+                "like_count": 2084,
+                "post_date": "2020-07-07 06:00:00",
+                "last_update_date": "2020-07-06 11:14:10",
+                "author": {
+                    "user_id": "4813833",
+                    "user_name": "路明",
+                    "desc": "大学教师，「一个」App常驻作者。",
+                    "wb_name": "@后排的路明",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "大学教师，「一个」App常驻作者。",
+                    "fans_total": "6704",
+                    "web_url": "http://image.wufazhuce.com/Ft6Cws9-y_cHQUxUrKmBFHTMuopo"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4375",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4375",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4375",
+                    "image": "http://image.wufazhuce.com/FnbJCThBrj2NXJW5uKMYdKNrXqoQ",
+                    "title": "天台野餐 作者/路明",
+                    "content": "书也有寿命，有的书就看几年，有的能看几百、几千年。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 天台野餐",
+                        "desc": "文/路明 书也有寿命，有的书就看几年，有的能看几百、几千年。",
+                        "link": "http://m.wufazhuce.com/article/4375?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 天台野餐",
+                        "desc": "文/路明 书也有寿命，有的书就看几年，有的能看几百、几千年。",
+                        "link": "http://m.wufazhuce.com/article/4375?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 天台野餐》 文/路明： 书也有寿命，有的书就看几年，有的能看几百、几千年。 阅读全文：http://m.wufazhuce.com/article/4375?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4375?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "天台野餐",
+                        "desc": "书也有寿命，有的书就看几年，有的能看几百、几千年。",
+                        "link": "http://m.wufazhuce.com/article/4375?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20664",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1231",
+                "title": "打雪仗·第十章：失踪右耳",
+                "forward": "婴儿最聪明，心如敞开的大门，容纳天地万物。随着年岁增长，家庭、教育和社会慢慢关掉这扇门。当它锁死之时，人们将这一刻定义为“成熟”。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 818,
+                "post_date": "2020-07-07 06:00:00",
+                "last_update_date": "2020-07-02 15:31:30",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第10章",
+                "number": "10",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1231",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1231",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1231",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第十章：失踪右耳 作者/肖睿",
+                    "content": "人们都说婴儿天真无邪，其实他们错了，我什么都知道，什么都明白。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第十章：失踪右耳",
+                        "desc": "文/肖睿 人们都说婴儿天真无邪，其实他们错了，我什么都知道，什么都明白。",
+                        "link": "http://m.wufazhuce.com/serial/1231?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第十章：失踪右耳",
+                        "desc": "文/肖睿 人们都说婴儿天真无邪，其实他们错了，我什么都知道，什么都明白。",
+                        "link": "http://m.wufazhuce.com/serial/1231?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第十章：失踪右耳》 文/肖睿： 人们都说婴儿天真无邪，其实他们错了，我什么都知道，什么都明白。 阅读全文：http://m.wufazhuce.com/serial/1231?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1231?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第十章：失踪右耳",
+                        "desc": "人们都说婴儿天真无邪，其实他们错了，我什么都知道，什么都明白。",
+                        "link": "http://m.wufazhuce.com/serial/1231?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20637",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2900",
+                "title": "被孤立了应该怎么办？",
+                "forward": "每一个人都拥有独处一角的神圣权利，不应该去嘲讽，也不应该去对立。",
+                "img_url": "http://image.wufazhuce.com/FkV0lw9I5QZNPk61DN8VuOci6J2T",
+                "like_count": 1983,
+                "post_date": "2020-07-07 06:00:00",
+                "last_update_date": "2020-07-06 18:24:11",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "无名草子",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2900",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2900",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2900",
+                    "image": "http://image.wufazhuce.com/FkV0lw9I5QZNPk61DN8VuOci6J2T",
+                    "title": "被孤立了应该怎么办？",
+                    "content": "被孤立了应该怎么办？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 被孤立了应该怎么办？",
+                        "desc": "文/林庭 如果是自己的原因，或许还有改变的机会。",
+                        "link": "http://m.wufazhuce.com/question/2900?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 被孤立了应该怎么办？",
+                        "desc": "文/林庭 如果是自己的原因，或许还有改变的机会。",
+                        "link": "http://m.wufazhuce.com/question/2900?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 被孤立了应该怎么办？》 文/林庭： 如果是自己的原因，或许还有改变的机会。 阅读全文：http://m.wufazhuce.com/question/2900?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2900?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "被孤立了应该怎么办？",
+                        "desc": "如果是自己的原因，或许还有改变的机会。",
+                        "link": "http://m.wufazhuce.com/question/2900?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "20681",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2018",
+                "title": "在沙发上睡醒的那个人，你想干什么？",
+                "forward": "在厕所，他写文写到腿发麻，舅公留下批注“字真丑，还有错别字，用词不当，语法错误。不过你要是认真写，还真没那么有趣。”",
+                "img_url": "http://image.wufazhuce.com/FnM_D_g-K8r3qFCOf-hWtl3YsoxX",
+                "like_count": 1644,
+                "post_date": "2020-07-07 06:00:00",
+                "last_update_date": "2020-07-06 18:46:08",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "睡沙发的人",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5001",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2018",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2018",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2018",
+                    "image": "http://image.wufazhuce.com/FnM_D_g-K8r3qFCOf-hWtl3YsoxX",
+                    "title": "「一个」电影: 睡沙发的人",
+                    "content": "每个人的青春里都有一段胸怀山河却无所事事的时光，不知道自己想要什么，不知道自己该往哪里去，不知道当下的自己能做什么。因为不知道得太多，最后就只能站在原地徘徊，瞎混日子。当镜头对准佛系青年粟一柯，拍下他高考落榜后的时光时，那些&ldquo;持续性混吃等死，间歇性踌躇满志&rdquo;的人生状态，仿若复刻了当代大多数年轻人所面对的生活困境和心理写照。&nbsp;电影《睡沙发的人》从男主角粟一柯的生活出发，讲述了一个温馨调皮、有趣轻松的关于&ldquo;如何改变自我，追求理想&rdquo;的故事。没有热血燃烧的口号，没有青春萌动的爱情，没有深刻的社会意义。用导演自己的话来说，他就是想拍一个调子松快的家庭片，来讲述一个人在成长过程中的一段经历，遇到了一个能改变你、让你变得更好的人。那个人也许在你身边，也许已离你远去，但当你回想起来时，总会有一丝温暖和感动。&nbsp;望子成龙的母亲VS不学无术的儿子粟一柯，典型学渣，高考以学校最低分落榜，连复读的资格都没有。学习成绩不行，学习态度糟糕，整日浑浑噩噩、得过且过，却练就了一门&ldquo;开锁&rdquo;的好手艺。电影开场，就是母亲把帮朋友撬锁的他从警局领回家。和其他母亲一样，她对粟一柯侥幸地怀抱希望，觉得自己儿子只要复读或许就能考上大学。既然去学校复读无望，就在家复读。在母亲的周密计划下，粟一柯开始了他的&ldquo;艰苦&rdquo;学习生活，白天完成一堆数学练习题、背诵几页英文单词，晚上还要接受母亲的检查。当然，这一切只是看似努力刻苦。粟一柯没有学习的天分，相反在投机取巧、不学无术上颇有作为。当母亲举着习题册大声指责&ldquo;别人全部做对是本事，你全做错也是本事&rdquo;时，根本不知道粟一柯有独特的做题方法：掷骰子。他把选择题的ABCD标在骰子上，掷到哪个，就选哪个答案。趁着母亲不在家，他还偷看电视，听到敲门声才关电视。开门前，还不忘摸一摸电视机热不热，顺便给电视机盖上一块布，恢复好原样。手机给母亲没收，他就想方设法溜进母亲房间，翻箱倒柜地找，不小心打破了母亲房间的一只花瓶，就赶紧去厨房倒空了酱油瓶，刷干净标签，插上花，假装一切都没发生。失而复得的手机为粟一柯带来了无穷的学习动力，特别在背诵英文单词的时候，连他自己本人都无法分清自己到底是沉浸在了学习中还是手机里的比基尼女郎。母亲不是不知道粟一柯的德行，但在她看来，&ldquo;粟一柯必须复读&rdquo;，因为读书是唯一出路。她经营着一家小服装店，文化程度不高，既说不出&ldquo;知耻而后勇&rdquo;这样的成语，也认不准这五个字。在粟一柯的人生规划上，她能做的就是不放弃不抛弃地监督他、管教他认真读书。影片中&ldquo;望子成龙的父母&rdquo;和&ldquo;不学无术的孩子&rdquo;是东方传统家庭的最常见亲子搭配，面对不肯学习、不爱学习的孩子，父母的解决办法总是简单粗暴：逼着学，不想学也得学。很少有父母愿意听一听孩子的想法，问一问他们的心声，让他们为自己的生活做选择，下决定。如果没有遇见舅公，母亲也不会放弃掌控粟一柯的人生，粟一柯更不会拥有自由选择的机会。文青老学霸VS迷惘小学渣粟一柯的舅公，与邻居相处不好，无奈之下被他母亲接来家里照顾，三个人这才开始了同一屋檐下的生活。初次见面，粟一柯对舅公的印象不算很好，一张没有笑容的脸，不太平易近人。况且，舅公来了家里，粟一柯就不得不去睡沙发。一顿晚餐后，舅公爱挑剔难伺候的模样更是让粟一柯和他保持了安全距离。白天的时候，母亲出去上班，家里就剩下粟一柯和舅公两人独处。和之前一样，粟一柯终日浑浑噩噩，不思进取。与粟一柯形成鲜明对比的是舅公，他每天的生活像一只瑞士钟表，规律得可怕。不喜社交的他，一天的生活从晨练开始，在看报和读书中度过，是个标准的老年学霸。眼看着日子一天天过去，粟一柯毫无长进，束手无策的母亲只好求助舅公，让他帮忙指点指点。没想到舅公非但不帮忙，反而把矛头指向了粟一柯的母亲。当母亲命令粟一柯&ldquo;不该放弃复读&rdquo;的时候，舅公一句&ldquo;该放弃的是你，放弃改造他&rdquo;点醒了母亲。其实，在与粟一柯的相处中，舅公早就发现他对学习没兴趣，就算复读能上大学的希望也很渺茫。与其如此，倒不如索性任其发展，发掘一下他的兴趣。与母亲的理念不同，舅公从来没觉得学习是唯一出路，相反在他看来，实现自我理想的途径有很多种。高考只是其中一种，从不是唯一。人的一生很长，把高考这件事放到整个人生来看，就是一件小事。就算高考失利也没有关系，因为比高考更重要的是，能找到自己的热爱和兴趣。也是因为舅公，粟一柯第一次在母亲面前说出了自己对未来的真实想法，也争取到了一年时间，不管是学习，还是工作，去寻找自己的兴趣所在。或许也是因为这次对话，粟一柯开始渐渐走近了舅公，而舅公呢，虽然嘴上说着&ldquo;这孩子没救了&rdquo;，其实却以潜移默化的方式点拨着他。&nbsp;第一节课，舅公借着灯光暗为由，让粟一柯给他读几句话。自然，身为学渣的粟一柯不负众望，仅两句话就读错了两个字，完全不在状态。第二天，粟一柯醒来发现自己床头多了本泛黄的《棋王》和《现代汉语词典》。此刻的粟一柯并不知道，从他打开《棋王》的那一刻，自己的人生正悄然发生着变化。一天，邻居男孩进不了家门，向开锁大王粟一柯寻求帮助，已经改行的粟一柯果断拒绝，只邀请他进门一边作业一边等父母回家。机缘巧合，粟一柯借读《棋王》的灵感，辅导男孩写了一篇作文。意外的是，没几天，男孩又敲开了粟一柯家的门，这次不是开锁，是请他再帮个忙。&nbsp;粟一柯拒绝，男孩就以金钱相诱。没想到，这一辅导让粟一柯出了名，引来一群小朋友，每个都举着钞票来拜师。似乎是受到邻居男孩的崇拜和鼓舞，粟一柯又问舅公借了茨威格的《象棋的故事》、《契诃夫小说选》、《月亮和六便士》。一来一往，几来几去，文学这座桥梁把粟一柯和舅公紧紧地联结了起来。那些经典文学作品中深刻的、贴切的、真实的反映人内心和情感的文字，像一颗颗种子在粟一柯的心里生根发芽，加上舅公的那句&ldquo;表达需要&rdquo;，粟一柯开始尝试自己写东西。在厕所，他写文写到腿发麻，舅公留下批注&ldquo;字真丑，还有错别字，用词不当，语法错误。不过你要是认真写，还真没那么有趣。&rdquo;一句&ldquo;有趣&rdquo;，让粟一柯有了继续写作的动力。其实，舅公早就看透了当代年轻人的通病：&ldquo;沉浸幻想，而从不行动&rdquo;，粟一柯也不例外。所以，他的理念是：行动先于意识。不管粟一柯是否真的有写作天赋，先鼓励他多尝试，多创作，万一不小心这就是他的兴趣。粟一柯就是当代青年的一个缩影，大多数人都有过或正面临和他一样的人生阶段，在迷惘的漩涡里打转，在人生的十字路口犹豫，在毕业的选择路口徘徊，不知道自己该往哪里去。这时候，与其整日胡思乱想，不如行动起来。因为，幻想是没有结果的，而理想只潜藏在行动中。就像粟一柯，备受鼓舞的他，灵感迸发，作品不断。他把写好的稿子夹在舅公书里、水壶旁、门缝里，舅公看到则一字一句地帮他修改。一老一少，一个学霸一个学渣，在文字的互通中，日渐融洽。在舅公的指引下，粟一柯渐渐找到了自己的兴趣。原来那个整日无所事事的自己变成了此刻捧着一本书爱不释手的那个人。这就是人的改变，从一瞬间开始，从一本书开始，从遇见一个人开始，也从找到理想开始。理想这件事，就是汪洋大海上的一座灯塔，夜愈黑，它愈亮。一旦你发现了它，就要紧紧把握不松手。把握时间，掌握方向正当粟一柯沉浸在创作中时，家里迎来了不速之客：小姨一家。饭桌上，小姨一边炫耀着自己儿子出国的事，一边对粟一柯冷嘲热讽。忍到忍耐极限，粟一柯不得不说出自己想当作家的梦想，却引来了表弟更多的嘲讽。粟一柯低着头，不想多说一句话，等他抬头的时候，才发现舅公拿了一本杂志摆在他眼前，&ldquo;我不小心把你写的小说给投了，没想到杂志社真给发表了。&rdquo;饭后，舅公和粟一柯到公园散步，看到粟一柯依然逃避着自己的未来，舅公为他上了最后一课&mdash;&mdash;逃避很简单，只要不去想不去做，像个鸵鸟一样把头埋在沙里就可以，假装一切正常，不去解决任何问题。所有逃避，都是可耻的，都是不想行动的借口。要想解决生活中的难题，只能勇于直面。无论在文学创作还是人生规划上，舅公从不像母亲对粟一柯有强烈的控制欲，他只是引导。最终掌握粟一柯人生的，还是他自己。毋庸置疑，粟一柯是无比幸运的，因为他遇见了真正的人生导师。重要的事，都在夏天发生，经过舅公的点拨，加上自己的反复权衡，粟一柯决定复读，并下定决心好好创作。只是，当粟一柯复读报完名，回到家才发现舅公走了，他独自去了养老院生活。不告而别的舅公就这样离开了粟一柯的生活，临别留言是满满一箱子珍藏的，甚至是绝版的旧书。当然，还有这张意味深长的海报。当理想离不开创作，当创作必须扎根于生活，而生活又是艰苦时，还有什么比体验泥沙俱下的生活更珍贵的礼物送给此刻的粟一柯。因为理想，所以必须努力上进；因为理想，所以愿意品尝苦涩；因为理想，所以甘心接受寂寞；更是因为理想，所以不再颓废，好好生活。这个夏天，粟一柯终于离开了那张象征着悠闲生活、懒散态度的沙发，放弃了胡思乱想，真正开始了他的人生，睡沙发的男孩的故事也在这里结束了。所以，看完这个故事的你，在夏天尚未结束，热血还在燃烧的时刻，会何时停止幻想，扬帆起航？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 在沙发上睡醒的那个人，你想干什么？",
+                        "desc": "文/不辣 比高考更重要的是，能找到自己的热爱和兴趣。",
+                        "link": "http://m.wufazhuce.com/movie/2018?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 在沙发上睡醒的那个人，你想干什么？",
+                        "desc": "文/不辣 比高考更重要的是，能找到自己的热爱和兴趣。",
+                        "link": "http://m.wufazhuce.com/movie/2018?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 在沙发上睡醒的那个人，你想干什么？》 文/不辣： 比高考更重要的是，能找到自己的热爱和兴趣。 阅读全文：http://m.wufazhuce.com/movie/2018?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2018?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "在沙发上睡醒的那个人，你想干什么？",
+                        "desc": "比高考更重要的是，能找到自己的热爱和兴趣。",
+                        "link": "http://m.wufazhuce.com/movie/2018?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20638",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3201",
+                "title": "这是我想念你时的风景，把它全都寄给你",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FuoimXfS4r9bdyUCNzDXiK0C64yP?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1534,
+                "post_date": "2020-07-07 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3201",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3201",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 这是我想念你时的风景，把它全都寄给你",
+                        "desc": "你收到的最有纪念意义的明信片是什么呢？",
+                        "link": "http://m.wufazhuce.com/radio/3201?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqP8-5GQEHRMkCvZDcupeWwdd_jd"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 这是我想念你时的风景，把它全都寄给你",
+                        "desc": "你收到的最有纪念意义的明信片是什么呢？",
+                        "link": "http://m.wufazhuce.com/radio/3201?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqP8-5GQEHRMkCvZDcupeWwdd_jd"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 这是我想念你时的风景，把它全都寄给你》 主播/李荟莹： 你收到的最有纪念意义的明信片是什么呢？ 阅读全文：http://m.wufazhuce.com/radio/3201?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3201?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lqP8-5GQEHRMkCvZDcupeWwdd_jd"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "这是我想念你时的风景，把它全都寄给你",
+                        "link": "http://m.wufazhuce.com/radio/3201?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqP8-5GQEHRMkCvZDcupeWwdd_jd"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 847 期",
+                "audio_url": "http://music.wufazhuce.com/lqP8-5GQEHRMkCvZDcupeWwdd_jd"
+            }
+        ],
+        "menu": {
+            "vol": "2831",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4375",
+                    "title": "天台野餐"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1231",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第十章：失踪右耳"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2900",
+                    "title": "被孤立了应该怎么办？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2018",
+                    "title": "在沙发上睡醒的那个人，你想干什么？"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3201",
+                    "title": "这是我想念你时的风景，把它全都寄给你"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

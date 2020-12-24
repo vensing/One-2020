@@ -1,0 +1,680 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5391",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-23 06:00:00",
+        "content_list": [
+            {
+                "id": "19648",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2702",
+                "title": "摄影",
+                "forward": "我们可以浪费时间，但不可以浪费生活。",
+                "img_url": "http://image.wufazhuce.com/FlrrYLqCM4YRu0J7CbqwCQbAo-YL",
+                "like_count": 17370,
+                "post_date": "2020-01-23 06:00:00",
+                "last_update_date": "2020-01-17 16:21:36",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2665",
+                "pic_info": "Sheep.",
+                "words_info": "大卫·福斯特·华莱士",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2702",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2702",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2702",
+                    "image": "http://image.wufazhuce.com/FlrrYLqCM4YRu0J7CbqwCQbAo-YL",
+                    "title": "VOL.2665",
+                    "content": "我们可以浪费时间，但不可以浪费生活。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2702?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2702?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我们可以浪费时间，但不可以浪费生活。——大卫·福斯特·华莱士 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2702?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2702?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19679",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4169",
+                "title": "一碗牛肉面",
+                "forward": "这些年，他不愿意回家，可这座光怪陆离的城市，亦不属于他。",
+                "img_url": "http://image.wufazhuce.com/FiiPXZH9UBTw2bs2pnKcpUvrKpEJ",
+                "like_count": 2549,
+                "post_date": "2020-01-23 06:00:00",
+                "last_update_date": "2020-01-23 10:11:29",
+                "author": {
+                    "user_id": "10975503",
+                    "user_name": "南摊煎饼",
+                    "desc": "不加香菜不要辣",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "煎饼爱好者",
+                    "fans_total": "137",
+                    "web_url": "http://image.wufazhuce.com/FssogJuxc4LMPecOxC86X74q2pht"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4169",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4169",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4169",
+                    "image": "http://image.wufazhuce.com/FiiPXZH9UBTw2bs2pnKcpUvrKpEJ",
+                    "title": "一碗牛肉面 作者/南摊煎饼",
+                    "content": "这些年，他不愿意回家，可这座光怪陆离的城市，亦不属于他。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 一碗牛肉面",
+                        "desc": "文/南摊煎饼 这些年，他不愿意回家，可这座光怪陆离的城市，亦不属于他。",
+                        "link": "http://m.wufazhuce.com/article/4169?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 一碗牛肉面",
+                        "desc": "文/南摊煎饼 这些年，他不愿意回家，可这座光怪陆离的城市，亦不属于他。",
+                        "link": "http://m.wufazhuce.com/article/4169?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 一碗牛肉面》 文/南摊煎饼： 这些年，他不愿意回家，可这座光怪陆离的城市，亦不属于他。 阅读全文：http://m.wufazhuce.com/article/4169?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4169?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一碗牛肉面",
+                        "desc": "这些年，他不愿意回家，可这座光怪陆离的城市，亦不属于他。",
+                        "link": "http://m.wufazhuce.com/article/4169?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19680",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4170",
+                "title": "这位女演员，不建议“挽回前男友”",
+                "forward": "“路都要自己走一遍，才会知道要怎么走。 ”",
+                "img_url": "http://image.wufazhuce.com/FsfOg7LgJ5A66ACdEjLP8r6CMJgX",
+                "like_count": 1641,
+                "post_date": "2020-01-23 06:00:00",
+                "last_update_date": "2020-01-22 17:59:31",
+                "author": {
+                    "user_id": "10826894",
+                    "user_name": "大噪",
+                    "desc": "小而宁，大而噪。",
+                    "wb_name": "@姜大噪",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小而宁，大而噪。",
+                    "fans_total": "567",
+                    "web_url": "http://image.wufazhuce.com/FhP11mQQubEBqtX22QldIDsNtUCx"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4170",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4170",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4170",
+                    "image": "http://image.wufazhuce.com/FsfOg7LgJ5A66ACdEjLP8r6CMJgX",
+                    "title": "这位女演员，不建议“挽回前男友” 作者/大噪",
+                    "content": "“路都要自己走一遍，才会知道要怎么走。 ”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "ONE能青年 | 这位女演员，不建议“挽回前男友”",
+                        "desc": "文/大噪 “路都要自己走一遍，才会知道要怎么走。 ”",
+                        "link": "http://m.wufazhuce.com/article/4170?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "ONE能青年 | 这位女演员，不建议“挽回前男友”",
+                        "desc": "文/大噪 “路都要自己走一遍，才会知道要怎么走。 ”",
+                        "link": "http://m.wufazhuce.com/article/4170?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE能青年 | 这位女演员，不建议“挽回前男友”》 文/大噪： “路都要自己走一遍，才会知道要怎么走。 ” 阅读全文：http://m.wufazhuce.com/article/4170?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4170?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "这位女演员，不建议“挽回前男友”",
+                        "desc": "“路都要自己走一遍，才会知道要怎么走。 ”",
+                        "link": "http://m.wufazhuce.com/article/4170?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "49",
+                        "title": "ONE能青年"
+                    }
+                ]
+            },
+            {
+                "id": "19603",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1085",
+                "title": "魔都春梦·第十七章：年轻房客",
+                "forward": "把别人的利益看得轻如鸿毛，如何期待别人能善待他们？",
+                "img_url": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                "like_count": 781,
+                "post_date": "2020-01-23 06:00:00",
+                "last_update_date": "2020-04-07 16:52:10",
+                "author": {
+                    "user_id": "4813463",
+                    "user_name": "老王子",
+                    "desc": "小说家，诗人。@新老王子",
+                    "wb_name": "@新老王子",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，诗人。@新老王子",
+                    "fans_total": "5145",
+                    "web_url": "http://image.wufazhuce.com/FgegDExkkeP8izCd3fkGKRwoyKiS"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第17章",
+                "number": "17",
+                "serial_id": "78",
+                "serial_list": [
+                    "1055",
+                    "1059",
+                    "1057",
+                    "1058",
+                    "1060",
+                    "1061",
+                    "1062",
+                    "1070",
+                    "1071",
+                    "1072",
+                    "1073",
+                    "1074",
+                    "1078",
+                    "1079",
+                    "1083",
+                    "1084",
+                    "1085",
+                    "1086",
+                    "1087"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1085",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1085",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1085",
+                    "image": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                    "title": "魔都春梦·第十七章：年轻房客 作者/老王子",
+                    "content": "把别人的利益看得轻如鸿毛，如何期待别人能善待他们？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 魔都春梦·第十七章：年轻房客",
+                        "desc": "文/老王子 把别人的利益看得轻如鸿毛，如何期待别人能善待他们？",
+                        "link": "http://m.wufazhuce.com/serial/1085?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 魔都春梦·第十七章：年轻房客",
+                        "desc": "文/老王子 把别人的利益看得轻如鸿毛，如何期待别人能善待他们？",
+                        "link": "http://m.wufazhuce.com/serial/1085?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 魔都春梦·第十七章：年轻房客》 文/老王子： 把别人的利益看得轻如鸿毛，如何期待别人能善待他们？ 阅读全文：http://m.wufazhuce.com/serial/1085?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1085?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "魔都春梦·第十七章：年轻房客",
+                        "desc": "把别人的利益看得轻如鸿毛，如何期待别人能善待他们？",
+                        "link": "http://m.wufazhuce.com/serial/1085?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19676",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2734",
+                "title": "有哪些悖论一下子就吸引了你？",
+                "forward": "放松，不要对抗。你不放松，你看，你在对抗。你在放松，你看，你在对抗你的不放松。",
+                "img_url": "http://image.wufazhuce.com/Fslo7gnf9q9LkPLFy6jZH9Lz3ADL",
+                "like_count": 2441,
+                "post_date": "2020-01-23 06:00:00",
+                "last_update_date": "2020-01-22 17:50:22",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "大愚若知",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2734",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2734",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2734",
+                    "image": "http://image.wufazhuce.com/Fslo7gnf9q9LkPLFy6jZH9Lz3ADL",
+                    "title": "有哪些悖论一下子就吸引了你？",
+                    "content": "有哪些悖论一下子就吸引了你？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 有哪些悖论一下子就吸引了你？",
+                        "desc": "文/李松蔚 我要你自觉学习，但我又不要你因为我要你学习你才学习。",
+                        "link": "http://m.wufazhuce.com/question/2734?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 有哪些悖论一下子就吸引了你？",
+                        "desc": "文/李松蔚 我要你自觉学习，但我又不要你因为我要你学习你才学习。",
+                        "link": "http://m.wufazhuce.com/question/2734?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 有哪些悖论一下子就吸引了你？》 文/李松蔚： 我要你自觉学习，但我又不要你因为我要你学习你才学习。 阅读全文：http://m.wufazhuce.com/question/2734?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2734?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有哪些悖论一下子就吸引了你？",
+                        "desc": "我要你自觉学习，但我又不要你因为我要你学习你才学习。",
+                        "link": "http://m.wufazhuce.com/question/2734?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "4814790",
+                    "user_name": "李松蔚",
+                    "desc": "李松蔚，大学讲师，心理咨询师。公众号：李松蔚（ID：therapistlsw）",
+                    "wb_name": "@李松蔚PKU",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "大学讲师，心理咨询师。",
+                    "fans_total": "1791",
+                    "web_url": "http://image.wufazhuce.com/FkE8x68taWccJXlH-1xx6sjfKh7V"
+                }
+            },
+            {
+                "id": "19674",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1943",
+                "title": "贺岁片观影指南（抢票也不能抓瞎）",
+                "forward": "是惊喜还是地雷，就帮你到这了。",
+                "img_url": "http://image.wufazhuce.com/FqnM0E9k4xxR8PUCVs5OvN-yohwt",
+                "like_count": 1364,
+                "post_date": "2020-01-23 06:00:00",
+                "last_update_date": "2020-01-22 18:46:58",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE文艺生活",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "春节档片单",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4926",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1943",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1943",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1943",
+                    "image": "http://image.wufazhuce.com/FqnM0E9k4xxR8PUCVs5OvN-yohwt",
+                    "title": "「一个」电影: 春节档片单",
+                    "content": "每年临近春节长假，除了回家的车票机票难订，还有一张票也非常难抢 &mdash;&mdash;春节档电影票。打开买票APP，爆红的选座图只剩前排和角落， 好不容易放假回家，却因为春节档电影票而挤破头，甚至连黄牛都开始倒腾电影票了。不得不说，看电影，完全就是春节假期的刚需。毕竟，它是唯一能在春节期间，让老中青三代各取所需、各自安静的活动。因此，春节档绝对是全年院线最爆满的时期，&ldquo;谁让这是大过年呢？&rdquo;2020年1月25日，鼠年的大年初一，有近十部国产电影组队攻占院线，啥最好看？啥最值得看？都在这里。烧脑又风骚，《唐探》系列以&ldquo;热闹不失逼格&rdquo;的风格稳坐春节档。从2015年的第一部到2020年的第三部，五年三部让《唐人街探案》获得了自己的忠实粉丝群体。可以烧脑，可以恶搞，始终不变的是昊然弟弟的颜值。《唐人街探案3》游历欧美后将推理赛场选在日本，在深厚悬疑推理文化的国度上演新故事。前两部中排名第一的侦探Q终于露出真面目。除了刘昊然、王宝强、肖央、张子枫、妻夫木聪等常驻阵容之外，《唐探3》入乡随俗地请到长泽雅美、三浦友和、浅野忠信、染谷将太、铃木保奈美&hellip;...这串名字，几乎涵盖经典日影和热门日剧！如果你想热闹却懒得动，想旅游又没有钱，想看电影还要求多多少少有些深(zhuang)度(bi)&hellip;...那就去抢《唐人街探案3》吧！喜剧+风光+推理一张电影票，完美达成短暂假期的卑微追求。开辟了囧宇宙的山争哥哥今年组团&ldquo;囧&rdquo;游西伯利亚。剧情讲述事业有成的伊万(徐峥饰)意外的和母亲踏上开往俄罗斯的长途列车，旅途中依旧是迎面而来的各种囧人囧事，更让人崩溃的是被亲妈唠叨六天六夜&hellip;...《囧妈》哪里是异国旅游，完全就是 &mdash;&mdash; &ldquo;过年回家之我妈与我&rdquo;。母爱含量与假期时长成反比，电影《囧妈》是要把我们这代人&ldquo;过年回家的焦虑&rdquo;全部公开处刑。疼你，红烧肉给你吃，爱你，又不让你多吃&hellip;...好久不见，见一面反而要保持距离&hellip;...见不着面，又开启大60秒语音轰炸&hellip;...今年春节同一个世界，同一个妈妈搬上大银幕！但是两代人之间即便再多的嫌弃，也终究不会比爱更多，于是剧情注定要催泪。喜剧的包袱逗你笑，亲情痛点骗你哭。带妈妈一起，去影院&ldquo;笑(孝)顺开年&rdquo;。这意思是&hellip;...不仅要给自己抢票，老妈的票你也得安排上！目标群体：成年人亲子档国产儿童动画电影的三大法宝 &mdash;&mdash; &nbsp;羊、猪、熊。总有一款动物为中国2.2亿儿童代言&hellip;...即便今年没有喜羊羊和小猪佩奇，但依旧有熊大熊二以及光头强陪您(的孩子)过大年！提前透露一点点 &mdash;&mdash;这部《熊出没：狂野大陆》中所谓&ldquo;狂野大陆&rdquo;是个人类能变身动物的游乐园，但幕后却潜藏阴谋&hellip;...居然点儿美剧《西部世界》的味道！不多说了，有娃的买票吧，我们不抢。动画片都是给孩子准备的？别担心&hellip;...今年春节档，还给成人们准备了 &mdash;&mdash; 《姜子牙》就像哪吒的故事被重新演绎&hellip;...这次姜子牙的传奇也没有老生常谈，而是重新解读了他在封神的时刻被打入凡尘，寻找自我的故事。又是借古代人传奇，讲当代人追求。也正是因为有了这层剧情设计，才让故事脱离传统，无论剧情、还是主题都更适合成年人观影。如今大家都对国产动画满心期待&hellip;...今年哪吒创下50亿的票房神话，罗小黑也成功出圈，这次国漫大翻身让动画迷热血沸腾！从大圣到大鱼，从哪吒到姜子牙，国产电影的神话宇宙搭建的有模有样，似乎看到了曾经领跑世界的中国动画电影迎来复兴。姜子牙，请接棒！有成龙大哥，才叫过年呢！年过花甲的成龙坦言不再玩命拍摄动作片，但是他的大部分新片还是难逃动作武打的设定。就像这部《急先锋》以反恐为故事背景，具体到了剧情中还是打戏为主，除了地上打，海里打，天上打，这次还带上杨洋、艾伦、朱正廷一起打。康康看预告片 &mdash;&mdash;(大场面可能都剪在预告里了)回头看看成龙大哥最近的选片路数 &mdash;&mdash;《机器之血》豆瓣4.7分，票房3.05亿《神探蒲松龄》豆瓣3.8分，票房1.53亿《龙牌之谜》豆瓣3.6分，票房2009万有时候真的很心疼成龙大哥，一把年纪的影坛大腕，还要给烂片铺路、为新人站台、帮票房拉量&hellip;...即便如此努力，这部《急先锋》依旧难以出头！因为大年初一，它遇到了劲敌&hellip;...《急先锋》的劲敌就是这部 &mdash;&mdash; 《紧急救援》。以灾难开场，狂飙肾上腺素。飞机面临生死迫降，油井起火濒临爆炸，预告呈现各种灾难场面，看这架势，继《湄公河行动》、《红海行动》之后，林超贤导演又要玩大的。这次林超贤将镜头对准背负使命的职业 &mdash;&mdash; 应急特勤队。按照他的说法，海上救援这个题材难度大，他再也不会拍第二次了，这部就是他的极限了。影片把血性男儿，巾帼女杰，英雄赞歌完美的融合，既击中大众情感，又切中新主旋律的要求。外加彭于晏、辛芷蕾领衔主演，男女老少皆宜，真叫人不服不行。春节档头号种子 &mdash;&mdash;&nbsp;中国女排，在2019年以连胜姿态拿下世界冠军，如今又要争夺春节档票房冠军。论排面，论情怀，论卡司，论故事，陈可辛的《中国女排》充满了春节档票房冠军品相，以女排连胜气势，这场银幕竞赛也稳赢！巩俐、黄渤饰演郎平、陈忠和，影视界的影帝影后，出演中国排球的领军人物。如此编排，足见诚意。之前巩俐在片场，举手投足间简直是郎平本平。巩俐的表演展现在细枝末节，容貌身形上的差别被神情体态的神似所还原，拿捏精准。此外郎平的女儿白浪亲自上场，饰演青年时的郎平，中国女排的冠军阵容也原班上阵亲自出演，这分卡司的重量，几乎无人可及。其实《中国女排》最核心的亮点不在故事，而是在于中国人对&ldquo;女排精神&rdquo;数十年如一日的长久情结。从70周年国庆时兵哥哥表白女排，到电影《我和我的祖国》重现80年代国人对女排的热爱，《中国女排》将回忆、家国、传奇完美串联。不要迟疑，看她，看她们！回忆去年春节档电影，《流浪地球》、《飞驰人生》、《疯狂外星人》、《新喜剧之王》在6天创造了近60亿票房。科幻电影《流浪地球》甚至还打破界线，成为了中国科幻电影的元年之作，意义非凡。而今年有《紧急救援》、《中国女排》这样情怀和精神激励人心的大作，也有《囧妈》这样对准微观家庭细节的暖心喜剧，打破60亿纪录不成问题。只不过还没收红包，就要给票房贡献红包了！你会选择哪部影片开年呢？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 贺岁片观影指南（抢票也不能抓瞎）",
+                        "desc": "文/ONE文艺生活 是惊喜还是地雷，就帮你到这了。",
+                        "link": "http://m.wufazhuce.com/movie/1943?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 贺岁片观影指南（抢票也不能抓瞎）",
+                        "desc": "文/ONE文艺生活 是惊喜还是地雷，就帮你到这了。",
+                        "link": "http://m.wufazhuce.com/movie/1943?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 贺岁片观影指南（抢票也不能抓瞎）》 文/ONE文艺生活： 是惊喜还是地雷，就帮你到这了。 阅读全文：http://m.wufazhuce.com/movie/1943?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1943?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "贺岁片观影指南（抢票也不能抓瞎）",
+                        "desc": "是惊喜还是地雷，就帮你到这了。",
+                        "link": "http://m.wufazhuce.com/movie/1943?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19604",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3037",
+                "title": "团聚的时刻，总会有人离开家",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fs_4lx95jpNvZEM2PkgkP2Os_ohR?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1286,
+                "post_date": "2020-01-23 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3037",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3037",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 团聚的时刻，总会有人离开家",
+                        "desc": "和平年代，总有些人为我们守护安宁",
+                        "link": "http://m.wufazhuce.com/radio/3037?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lloJ0H8a6Vp8va_YVV39Oag62WRo"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 团聚的时刻，总会有人离开家",
+                        "desc": "和平年代，总有些人为我们守护安宁",
+                        "link": "http://m.wufazhuce.com/radio/3037?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lloJ0H8a6Vp8va_YVV39Oag62WRo"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 团聚的时刻，总会有人离开家》 主播/马晓橙： 和平年代，总有些人为我们守护安宁 阅读全文：http://m.wufazhuce.com/radio/3037?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3037?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lloJ0H8a6Vp8va_YVV39Oag62WRo"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "团聚的时刻，总会有人离开家",
+                        "link": "http://m.wufazhuce.com/radio/3037?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lloJ0H8a6Vp8va_YVV39Oag62WRo"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 764 期",
+                "audio_url": "http://music.wufazhuce.com/lloJ0H8a6Vp8va_YVV39Oag62WRo"
+            }
+        ],
+        "menu": {
+            "vol": "2665",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4169",
+                    "title": "一碗牛肉面"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4170",
+                    "title": "这位女演员，不建议“挽回前男友”",
+                    "tag": {
+                        "id": "49",
+                        "title": "ONE能青年"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1085",
+                    "serial_list": [
+                        "1055",
+                        "1059",
+                        "1057",
+                        "1058",
+                        "1060",
+                        "1061",
+                        "1062",
+                        "1070",
+                        "1071",
+                        "1072",
+                        "1073",
+                        "1074",
+                        "1078",
+                        "1079",
+                        "1083",
+                        "1084",
+                        "1085",
+                        "1086",
+                        "1087"
+                    ],
+                    "title": "魔都春梦·第十七章：年轻房客"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2734",
+                    "title": "有哪些悖论一下子就吸引了你？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1943",
+                    "title": "贺岁片观影指南（抢票也不能抓瞎）"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3037",
+                    "title": "团聚的时刻，总会有人离开家"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

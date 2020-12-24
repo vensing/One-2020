@@ -1,0 +1,575 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5671",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-11-03 06:00:00",
+        "content_list": [
+            {
+                "id": "21379",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2992",
+                "title": "摄影",
+                "forward": "其实人生也没有什么道理可讲，但是我们不必丧气，还是要期待，人生有奇遇。明日将发生什么，谁都不知道，为什么不去期待呢？",
+                "img_url": "http://image.wufazhuce.com/FjnMv3t2oCc9vP5rOui1ZEoESucR",
+                "like_count": 14336,
+                "post_date": "2020-11-03 06:00:00",
+                "last_update_date": "2020-11-02 13:10:56",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2950",
+                "pic_info": "Alistair Macrobert",
+                "words_info": "苏更生",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2992",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2992",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2992",
+                    "image": "http://image.wufazhuce.com/FjnMv3t2oCc9vP5rOui1ZEoESucR",
+                    "title": "VOL.2950",
+                    "content": "其实人生也没有什么道理可讲，但是我们不必丧气，还是要期待，人生有奇遇。明日将发生什么，谁都不知道，为什么不去期待呢？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2992?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2992?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 其实人生也没有什么道理可讲，但是我们不必丧气，还是要期待，人生有奇遇。明日将发生什么，谁都不知道，为什么不去期待呢？——苏更生 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2992?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2992?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21370",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4499",
+                "title": "如山",
+                "forward": "而这场病似乎也成为了他一生的病灶，永远也无法愈合。",
+                "img_url": "http://image.wufazhuce.com/FmnmPa9lMYRWm31pqVb28C5YKc28",
+                "like_count": 1875,
+                "post_date": "2020-11-03 06:00:00",
+                "last_update_date": "2020-11-03 08:27:21",
+                "author": {
+                    "user_id": "9676953",
+                    "user_name": "夏堃",
+                    "desc": "一点点刻薄",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一点点刻薄",
+                    "fans_total": "3117",
+                    "web_url": "http://image.wufazhuce.com/Fp9dI32b91vJGwZYDWbgcHJ0YAId"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4499",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4499",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4499",
+                    "image": "http://image.wufazhuce.com/FmnmPa9lMYRWm31pqVb28C5YKc28",
+                    "title": "如山 作者/夏堃",
+                    "content": "他躺在那里，被时间遗忘了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 如山",
+                        "desc": "文/夏堃 他躺在那里，被时间遗忘了。",
+                        "link": "http://m.wufazhuce.com/article/4499?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 如山",
+                        "desc": "文/夏堃 他躺在那里，被时间遗忘了。",
+                        "link": "http://m.wufazhuce.com/article/4499?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 如山》 文/夏堃： 他躺在那里，被时间遗忘了。 阅读全文：http://m.wufazhuce.com/article/4499?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4499?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如山",
+                        "desc": "他躺在那里，被时间遗忘了。",
+                        "link": "http://m.wufazhuce.com/article/4499?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21301",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1324",
+                "title": "制作人们·第十一章：美食决斗士",
+                "forward": "你觉不觉得，这是个杀敌一千，自毁八百的主意？",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 652,
+                "post_date": "2020-11-03 06:00:00",
+                "last_update_date": "2020-10-16 15:03:59",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第11章",
+                "number": "11",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1324",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1324",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1324",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第十一章：美食决斗士 作者/鳄鱼姐",
+                    "content": "你觉不觉得，这是个杀敌一千，自毁八百的主意？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第十一章：美食决斗士",
+                        "desc": "文/鳄鱼姐 你觉不觉得，这是个杀敌一千，自毁八百的主意？",
+                        "link": "http://m.wufazhuce.com/serial/1324?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第十一章：美食决斗士",
+                        "desc": "文/鳄鱼姐 你觉不觉得，这是个杀敌一千，自毁八百的主意？",
+                        "link": "http://m.wufazhuce.com/serial/1324?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第十一章：美食决斗士》 文/鳄鱼姐： 你觉不觉得，这是个杀敌一千，自毁八百的主意？ 阅读全文：http://m.wufazhuce.com/serial/1324?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1324?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第十一章：美食决斗士",
+                        "desc": "你觉不觉得，这是个杀敌一千，自毁八百的主意？",
+                        "link": "http://m.wufazhuce.com/serial/1324?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21371",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3025",
+                "title": "被人喜欢的感觉是什么样的？",
+                "forward": "那一刻，我觉得自己成了世界上最幸运的人。",
+                "img_url": "http://image.wufazhuce.com/FkRPfbQoaFN_c-F7VU2mlMA27rBu",
+                "like_count": 2822,
+                "post_date": "2020-11-03 06:00:00",
+                "last_update_date": "2020-11-02 17:57:24",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "早起其实还不错",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3025",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3025",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3025",
+                    "image": "http://image.wufazhuce.com/FkRPfbQoaFN_c-F7VU2mlMA27rBu",
+                    "title": "被人喜欢的感觉是什么样的？",
+                    "content": "被人喜欢的感觉是什么样的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 被人喜欢的感觉是什么样的？",
+                        "desc": "文/莫比乌斯之路 原来我也会有可爱之处。",
+                        "link": "http://m.wufazhuce.com/question/3025?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 被人喜欢的感觉是什么样的？",
+                        "desc": "文/莫比乌斯之路 原来我也会有可爱之处。",
+                        "link": "http://m.wufazhuce.com/question/3025?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 被人喜欢的感觉是什么样的？》 文/莫比乌斯之路： 原来我也会有可爱之处。 阅读全文：http://m.wufazhuce.com/question/3025?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3025?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "被人喜欢的感觉是什么样的？",
+                        "desc": "原来我也会有可爱之处。",
+                        "link": "http://m.wufazhuce.com/question/3025?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11656625",
+                    "user_name": "莫比乌斯之路",
+                    "desc": "作家、书评人、影评人，毕业于南京大学政府管理学院。\r\n作品多次刊登、转载于《中国青年》杂志、每日豆瓣公众号、GGV纪源资本公众号等多家媒体。出版纸质书《他人是如何影响我们的》、《18个女生的18岁》作者之一。豆瓣电子书《彼此凝视的眼睛》、《少女的一千次心动》，起点电子书《香闺蜜事》。\r\n自由撰稿人，深谙职场人际关系，擅长分析各类人际关系与情感，关注女性权益。通过幽默风趣的笔触，犀利的视角，用讲故事的方式，带领读者一起拨开迷雾，探索生活的真谛。",
+                    "wb_name": "@莫比乌斯之路",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "热爱生活，热爱写作的人",
+                    "fans_total": "348",
+                    "web_url": "http://image.wufazhuce.com/FkCZ4X_MIGQ-Xj3tnwP7delBwvw8"
+                }
+            },
+            {
+                "id": "21374",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2072",
+                "title": "有些道理，妖怪懂得，人反而糊涂了",
+                "forward": "弹幕万人泪目，妖怪教你做人。",
+                "img_url": "http://image.wufazhuce.com/Ft7QY8-ZeqmwpTmtQEDRCn0lttuA",
+                "like_count": 2341,
+                "post_date": "2020-11-03 06:00:00",
+                "last_update_date": "2020-11-02 17:09:38",
+                "author": {
+                    "user_id": "9285941",
+                    "user_name": "笙笙不兮",
+                    "desc": "随遇而安，品人世百味。\r\n执笔从容，叹心中悲欢。 \r\n微信公众号：笙笙不兮（ssbx-alwaysgirl）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "伪文艺媒体小白",
+                    "fans_total": "2264",
+                    "web_url": "http://image.wufazhuce.com/Fp6hXFroWZB0JmsH5cVsoIbhKosu"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "百妖谱",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5055",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2072",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2072",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2072",
+                    "image": "http://image.wufazhuce.com/Ft7QY8-ZeqmwpTmtQEDRCn0lttuA",
+                    "title": "「一个」电影: 百妖谱",
+                    "content": "&ldquo;妖有百种，皆分明善恶；人心一颗，却万千难测。&rdquo;这是国漫《百妖谱》片尾曲的歌词。四分钟的曲，仅此一句的词，罕见，却妙极。就像剧中讲述的几个故事，明明各有千秋，却总能令人反反复复，想起这句词。全剧共12集，6个故事。篇幅很短，剧情也很简单，可是却常常让人在沉默中红了眼眶，直戳心底的柔软。绘梦出品，董易执导，原著作者桫椤双树编剧，都为这部国漫积累了高分爆款基础。讲百种妖怪，述世间沧桑。这是属于《百妖谱》的浪漫。&nbsp;01灰狐寒夜，蜀地，风雪客栈。吱呀一声店门打开，走进一位灰衣少年。&ldquo;这位公子，吃饭还是住店？&rdquo;&ldquo;我等人。来一壶酒，二两羊肉。&rdquo;&ldquo;好嘞！&rdquo;少年坐在角落方桌，眉宇深锁，周身萦绕着一股深重的怨气。另一边，一位娇俏明丽的红衣少女，不动声色地抬起眼。与她同行的是名天真可爱的小和尚，这样的组合本就奇特，看到她腕上那枚不响的金铃，少年猛地眯起眼。这扑面而来的江湖气息，便是《百妖谱》的开场。那少年不是普通少年，是一只修炼四十年才化人形的灰狐。少女也不是等闲少女，是专治妖怪不治人的鬼医桃夭。联手除掉吃人的妖怪后，灰狐虚弱倒地，连根断掉的尾巴分外醒目。在他断断续续的讲述中，往事掀开一角，故事进入正篇&hellip;&hellip;多年前，蜀地战乱，民不聊生。尚且年幼的小灰狐，被一群散兵捉住，差点没了尾巴，幸被一少年以命相救。有人在旁讥诮：&ldquo;为了一只狐狸拼上性命，值得吗？&rdquo;这么多年过去，灰狐一直记得少年的回答：&ldquo;同样是一条命，我觉得值。&rdquo;那时的少年痛恨战争，誓要行侠仗义，以强者之姿守护弱小黎民。寒夜篝火旁，他把满腔正义都说给灰狐听，&ldquo;如果你是人就好了，我们可以一起喝酒吃肉，仗剑江湖。&rdquo;天亮后，少年离开了。这一次，灰狐没有和他走。他用了四十年，修炼成人，只为完成少年的心愿。乱世依旧，有关当下那名恶魔将军的传闻，灰狐行了一路，听了一路。只是他没想到，那位将军，竟是昔日少年。屠龙勇士，终变恶龙。毕竟四十年太久了，久到可以让人忘却理想，背离初心。那双手曾经温暖柔软，如今却手握重铁，荼毒苍生；那声音曾经赤诚清澈，如今却冰冷低沉，一声令下便可收割数条人命。江湖侠客，终成恶煞。他活成自己最讨厌的模样，百姓畏惧他，朝廷嫉恨他，就连皇帝都忌惮他手中兵权，随便寻了个罪名，早早拟好斩首的圣旨。神奇的是，到了翌日，将军忽得圣宠，斩首变封赏，百官皆诧。没有人知道，那晚皇帝寝宫外的地砖上，灰狐的血滴滴答答流淌了一路。妖界有传言：灰狐的狐尾尤其珍贵，取之则化光，喂给一人吃，再辅以另一人之姓名八字，念咒，服下狐尾的人，必对此人心生喜爱，纵有杀父之仇，也可放之不计。那一晚，灰狐自断狐尾，救了昔日好友，又吞下千百条因将军而死的怨念幽浮，以自己的身体为容器，封印起他的罪孽。&ldquo;既然你还是不懂他，又为何要不顾一切去救他？&rdquo;客栈内，桃夭望着地上奄奄一息的灰狐，困惑不已。&ldquo;我救的不是他，而是多年前一个寒夜里，醉梦中，仗剑江湖的少年。&rdquo;四十年了，属于少年的江湖早已远去，而灰狐还守着那团篝火，烈酒的味道，他至今记得清晰。事已至此，桃夭可以医好他，只是要遭受非人苦痛，如同重生，且会丢失此前全部记忆。而灰狐毫不犹豫地答应，因为&ldquo;我还是想活着，想看看这盛世。&rdquo;这便是灰狐的故事。并不如何宏大，却胜在完整细腻，惹人唏嘘。它不够美好：善良正直的少年，逐渐成长为残忍嗜血的将军；却也有柔软的一面：长情的灰狐，嘴硬心软的桃，纯真善良的小和尚磨牙，以及那些留存在记忆中的，彼此相依的日夜。他们都犯过错，也都为自己的过错付出代价。看完之后，你会感慨，无论人还是妖，行走在这复杂尘世，所求不过无悔亦无憾。&nbsp;02庆忌《管子&middot;水地篇》有云，&ldquo;谷之不徙，水之不竭者，生庆忌。&rdquo;庆忌幻化于水中，却要依赖人类的呼唤方能破出水面，那个呼唤他的人，也由此成为他毕生效忠的主人。这种小妖没别的本事，就是速度快，擅通风报信，必要时，可以使出一日千里的本事。只是他们多半不知道，日行千里之后，便是力竭而亡之时。少年第一次在家中见到庆忌，是它刚完成阿爹交代的任务，千里送信，力竭而亡。直到那时，少年才意识到被村里人奉为巫医的阿爹，究竟是如何积累的万贯家业。那天以后，少年发誓，永不差遣庆忌。在少年看来，阿爹为人送信，是为了银子，可庆忌送信，却仅仅因为他觉得应该要帮阿爹。那只被他唤出的庆忌一直在等，等着给他送一次信，可是少年从未开口，哪怕心爱的姑娘随家人远走，临别前哽咽着对自己说，&ldquo;任何时候，只要你跟我讲一声，千山万水我都回来。&rdquo;为何不差庆忌送信？毕竟，&ldquo;他也是条命呢。&rdquo;后来，少年也离开了。那只承诺要为他送信的庆忌，为了防止少年回来找不到自己，在幻化之地留了下来，一等就是五十年。镜花泽的水污浊了，灵气消了，有毒气了，庆忌都没有离开。桃夭看着浑身都被染成绿色的庆忌问：&ldquo;你有没有想过，他可能永远不回来了？&rdquo;庆忌一愣，沉默良久，说：&ldquo;万一他回来了又找不到我呢。&rdquo;我想任何人看到这里，真的很难不被打动。《百妖谱》里的妖鲜少作恶，大多善良而单纯，有着人类自愧不如的品性。比如庆忌，它活着的全部意义，就是不负承诺，哪怕等待半个世纪，哪怕那个承诺，注定要以生命为代价。&nbsp;03蜉蝣跛脚老头毕生都在寻找一个姑娘。在他万念俱灰，想要一死了之的那一天，那姑娘就像一朵明媚的太阳花，照亮了彼时他灰暗的人生。老爷子是个跛脚狼人。年轻时，他天资不足，被同伴遗弃，想要在人群中生活，又惨遭各种嫌弃。一只跛狼想要在人群中活下来，简直太难了。再次遭人讥笑后，他咬咬牙，深夜跑去跳河，再睁眼，就发现自己被一个娇俏的小姑娘捞上了岸。就这样，他被她拉着看日出，逛街，在路边摊吃大碗面，莫名其妙给人唱歌&hellip;&hellip;真搞不懂，为什么她可以那么开心，仿佛世间万物都是第一次见，一天里把别人好长时间才做得全的事，全都做了个遍。到了晚上，姑娘兴高采烈地对他说：&ldquo;我们来拜天地吧！&rdquo;跛狼彻底惊呆了，&ldquo;成何体统，你以后要嫁人的！&rdquo;姑娘还是笑嘻嘻：&ldquo;嫁给你不行吗？&rdquo;就这样，在两人初遇的湖边，他稀里糊涂地和这个只有一面之缘的姑娘，对着湖水拜了天地，醒来后，身边却只剩姑娘的那方红盖头。她说自己出身医学世家，可以送他一种可以死得毫不痛苦的药，只不过炼药需要一年的时间。于是年复一年，跛狼从少年变成老大爷，却迟迟等不来那个笑容明丽的神秘姑娘。听完他的故事，桃夭在跛狼珍藏的红盖头上发现金芒点点，端倪过后，恍然：世有一虫，幼时隐于水下，成虫后出水，寿极短，朝生暮死，称蜉蝣。原来，那姑娘根本不是什么医家之后，也根本无法与他重逢。朝生暮死，就是她的宿命。而她选择用这仅有一天的生命，救了他长长的余生。每一个被你我浪费掉的今日，是它们永远也到不了的明天。对蜉蝣姑娘来说，她的永世只有一天，可这一天她过得很充实，也很快乐。她赏美景，品美食，遇到个心灰意冷的傻小子，跟他拜了天地，还救了他一命。在短短一天的时间里，她完成了许多人一生也做不到的事。蜉蝣一日，乌龟千年。寿与天齐又如何？倘若活得浑浑噩噩，生命依然毫无价值。不负此生，才是活着的全部意义。《百妖谱》有种少有的高级。一只妖，引出一个故事。以妖心写人情，看浮世众生，善恶不言自明。加上画风精美，制作考究，故事浅显易懂，道理回味无穷，称它一句良心国漫，毫不为过。看完你会欣慰，除了治愈系日漫《夏目友人帐》，倘若温柔还有其他模样，那该是百妖的容颜。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 有些道理，妖怪懂得，人反而糊涂了",
+                        "desc": "文/笙笙不兮 弹幕万人泪目，妖怪教你做人。",
+                        "link": "http://m.wufazhuce.com/movie/2072?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 有些道理，妖怪懂得，人反而糊涂了",
+                        "desc": "文/笙笙不兮 弹幕万人泪目，妖怪教你做人。",
+                        "link": "http://m.wufazhuce.com/movie/2072?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 有些道理，妖怪懂得，人反而糊涂了》 文/笙笙不兮： 弹幕万人泪目，妖怪教你做人。 阅读全文：http://m.wufazhuce.com/movie/2072?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2072?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有些道理，妖怪懂得，人反而糊涂了",
+                        "desc": "弹幕万人泪目，妖怪教你做人。",
+                        "link": "http://m.wufazhuce.com/movie/2072?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21302",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3317",
+                "title": "时间不早，打工人你好",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FlMh0u3cyMozq32_kO2OYbS_XZZV?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1204,
+                "post_date": "2020-11-03 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3317",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3317",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 时间不早，打工人你好",
+                        "desc": "同是天涯打工人，相逢何必曾相识",
+                        "link": "http://m.wufazhuce.com/radio/3317?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loC4MetRSePL1km8-e4B8_41FLdc"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 时间不早，打工人你好",
+                        "desc": "同是天涯打工人，相逢何必曾相识",
+                        "link": "http://m.wufazhuce.com/radio/3317?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loC4MetRSePL1km8-e4B8_41FLdc"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 时间不早，打工人你好》 主播/马晓橙： 同是天涯打工人，相逢何必曾相识 阅读全文：http://m.wufazhuce.com/radio/3317?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3317?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/loC4MetRSePL1km8-e4B8_41FLdc"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "时间不早，打工人你好",
+                        "link": "http://m.wufazhuce.com/radio/3317?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loC4MetRSePL1km8-e4B8_41FLdc"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 909 期",
+                "audio_url": "http://music.wufazhuce.com/loC4MetRSePL1km8-e4B8_41FLdc"
+            }
+        ],
+        "menu": {
+            "vol": "2950",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4499",
+                    "title": "如山"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1324",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第十一章：美食决斗士"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3025",
+                    "title": "被人喜欢的感觉是什么样的？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2072",
+                    "title": "有些道理，妖怪懂得，人反而糊涂了"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3317",
+                    "title": "时间不早，打工人你好"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

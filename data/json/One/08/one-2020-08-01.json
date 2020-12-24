@@ -1,0 +1,538 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5577",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-08-01 06:00:00",
+        "content_list": [
+            {
+                "id": "20807",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2897",
+                "title": "摄影",
+                "forward": "我把你栽在我的花园里，栽在这个最隐秘之处——我的心房。",
+                "img_url": "http://image.wufazhuce.com/FvU2EXOYrXIPvwZoekUSrvA33BTS",
+                "like_count": 13206,
+                "post_date": "2020-08-01 06:00:00",
+                "last_update_date": "2020-07-22 16:59:57",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2856",
+                "pic_info": "Henry Be",
+                "words_info": "雷切尔·布卢沃斯坦《我的花园里》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2897",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2897",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2897",
+                    "image": "http://image.wufazhuce.com/FvU2EXOYrXIPvwZoekUSrvA33BTS",
+                    "title": "VOL.2856",
+                    "content": "我把你栽在我的花园里，栽在这个最隐秘之处——我的心房。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2897?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2897?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我把你栽在我的花园里，栽在这个最隐秘之处——我的心房。——雷切尔·布卢沃斯坦《我的花园里》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2897?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2897?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20854",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4402",
+                "title": "含石",
+                "forward": "生活就是生活，不总是需要诗，就这么简单。",
+                "img_url": "http://image.wufazhuce.com/FsYW1m4fv79Y3iZz5YKvJ9XXNeS3",
+                "like_count": 2531,
+                "post_date": "2020-08-01 06:00:00",
+                "last_update_date": "2020-07-31 17:32:31",
+                "author": {
+                    "user_id": "11489482",
+                    "user_name": "孙振宇",
+                    "desc": "青年写作者，贵州凯里人，擅长搞笑，喜欢折耳根、今敏和一个人听歌。愿望是走向糖霜共和，抵达银河主义。",
+                    "wb_name": "@孙大棒goku",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者，公众号：宇宙酒",
+                    "fans_total": "615",
+                    "web_url": "http://image.wufazhuce.com/Fnwii_4IlSfce2Qi14hlr51nQmoe"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4402",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4402",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4402",
+                    "image": "http://image.wufazhuce.com/FsYW1m4fv79Y3iZz5YKvJ9XXNeS3",
+                    "title": "含石 作者/孙振宇",
+                    "content": "这是他失败的人生里，最成功的一次失败。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 含石",
+                        "desc": "文/孙振宇 这是他失败的人生里，最成功的一次失败。",
+                        "link": "http://m.wufazhuce.com/article/4402?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 含石",
+                        "desc": "文/孙振宇 这是他失败的人生里，最成功的一次失败。",
+                        "link": "http://m.wufazhuce.com/article/4402?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 含石》 文/孙振宇： 这是他失败的人生里，最成功的一次失败。 阅读全文：http://m.wufazhuce.com/article/4402?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4402?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "含石",
+                        "desc": "这是他失败的人生里，最成功的一次失败。",
+                        "link": "http://m.wufazhuce.com/article/4402?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20739",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1250",
+                "title": "打雪仗·第二十一章：为爱复仇",
+                "forward": "恐惧的味道像是硫酸，嘶喊的味道像是仙人掌，哭泣的味道像是酒精棉签，搏斗的味道像是狗舌头，挣扎的味道像是脚镣，焚烧的味道像是干涸的河床。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 723,
+                "post_date": "2020-08-01 06:00:00",
+                "last_update_date": "2020-07-14 11:53:50",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第21章",
+                "number": "21",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1250",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1250",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1250",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第二十一章：为爱复仇 作者/肖睿",
+                    "content": "恐惧的味道像是硫酸，嘶喊的味道像是仙人掌。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第二十一章：为爱复仇",
+                        "desc": "文/肖睿 恐惧的味道像是硫酸，嘶喊的味道像是仙人掌。",
+                        "link": "http://m.wufazhuce.com/serial/1250?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第二十一章：为爱复仇",
+                        "desc": "文/肖睿 恐惧的味道像是硫酸，嘶喊的味道像是仙人掌。",
+                        "link": "http://m.wufazhuce.com/serial/1250?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第二十一章：为爱复仇》 文/肖睿： 恐惧的味道像是硫酸，嘶喊的味道像是仙人掌。 阅读全文：http://m.wufazhuce.com/serial/1250?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1250?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第二十一章：为爱复仇",
+                        "desc": "恐惧的味道像是硫酸，嘶喊的味道像是仙人掌。",
+                        "link": "http://m.wufazhuce.com/serial/1250?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20853",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2930",
+                "title": "什么样的能力最容易被低估？",
+                "forward": "生活有时会很苦，所以祝你做一个收放自如的大人。",
+                "img_url": "http://image.wufazhuce.com/Fr9JxUnsqT1AxM87A20FKLgZ_Cmf",
+                "like_count": 3188,
+                "post_date": "2020-08-01 06:00:00",
+                "last_update_date": "2020-07-29 18:18:06",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "没有皱纹的苦瓜",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2930",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2930",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2930",
+                    "image": "http://image.wufazhuce.com/Fr9JxUnsqT1AxM87A20FKLgZ_Cmf",
+                    "title": "什么样的能力最容易被低估？",
+                    "content": "什么样的能力最容易被低估？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 什么样的能力最容易被低估？",
+                        "desc": "文/文长长 能力可以与生俱来，也可以自己安排。",
+                        "link": "http://m.wufazhuce.com/question/2930?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 什么样的能力最容易被低估？",
+                        "desc": "文/文长长 能力可以与生俱来，也可以自己安排。",
+                        "link": "http://m.wufazhuce.com/question/2930?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 什么样的能力最容易被低估？》 文/文长长： 能力可以与生俱来，也可以自己安排。 阅读全文：http://m.wufazhuce.com/question/2930?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2930?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "什么样的能力最容易被低估？",
+                        "desc": "能力可以与生俱来，也可以自己安排。",
+                        "link": "http://m.wufazhuce.com/question/2930?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "20858",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2029",
+                "title": "我无法后退一步，因为你在身后",
+                "forward": "在爱情和战争里，人都会不择手段，但如果两者同时发生呢？",
+                "img_url": "http://image.wufazhuce.com/Fp85C1J5BVYtqoQfcLC_xJjAxlxd",
+                "like_count": 1732,
+                "post_date": "2020-08-01 06:00:00",
+                "last_update_date": "2020-07-31 15:34:23",
+                "author": {
+                    "user_id": "9285941",
+                    "user_name": "笙笙不兮",
+                    "desc": "随遇而安，品人世百味。\r\n执笔从容，叹心中悲欢。 \r\n微信公众号：笙笙不兮（ssbx-alwaysgirl）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "伪文艺媒体小白",
+                    "fans_total": "2264",
+                    "web_url": "http://image.wufazhuce.com/Fp6hXFroWZB0JmsH5cVsoIbhKosu"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "珍珠港",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5012",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2029",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2029",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2029",
+                    "image": "http://image.wufazhuce.com/Fp85C1J5BVYtqoQfcLC_xJjAxlxd",
+                    "title": "「一个」电影: 珍珠港",
+                    "content": "第二次世界大战，人类历史上无法忘却的沉重伤疤。有关于它的电影实在太多，随便一个切口，一个角色，都能染上时代浓烈的硝烟味，要么孤勇，要么壮烈。少有电影为战争年代镀上浓烈的浪漫色彩，《珍珠港》算其中的佼佼者。一双兄弟，一对恋人，三个人的感情线随着战火不断摇曳。爱情与友情，龃龉与原谅，美好与破碎重重纠缠，大时代的尘埃落在头顶重若千钧，谁也无法全身而退。01&nbsp; 爱，而不得在伊芙琳看来，与雷夫的相遇，带着点宿命的味道。一个是应征入伍的战斗机飞行员，一个是负责体检考核的军队护士，他为了靠近她挨了两针臀部注射，撞肿了鼻子，又被香槟塞狠狠弹到伤处，痛到极点忍不住掉眼泪，却也因此收获了美人的香吻。如果伊芙琳回头想想这段经历就会发现，他们两人最大的宿命，就是从相遇到相爱，总是带着伤痛\b与阴差阳错。他们才刚刚陷入爱河，雷夫就要奔赴英国作战，说是为了心中的英雄梦也好，为了服从上级命令也好，总之是走了，留下深爱的女人，把她托付给从小到大的好兄弟丹尼。&ldquo;如果我不幸为国捐躯，希望是由你来告诉她这个消息。&rdquo;&ldquo;替我照顾好她。&rdquo;这句潜台词，雷夫没说，可丹尼懂得，我们也懂。上了战场，生死由天定，谁也不敢夸口可以平安。这样无言的隐忧还有许多。临行前，雷夫本可以与伊芙琳在酒店度过一个美好的夜晚，可是他忍住了。不是他真的有多高尚，而是他无法在此时给心爱的女孩承诺一个美好的未来。万一他回不来，万一她甘愿枯等，万一&hellip;&hellip;可是那么多万一，谁也没想到，他真的在一次战斗中不幸坠机，杳无音讯，被写进官方认定的&ldquo;烈士&rdquo;名单。当丹尼满面悲痛地出现在伊芙琳面前，我相信在那一刻，她的世界崩塌了。那些美好的过去，期待的将来，在得知雷夫死讯的那一刻悉数崩塌，砸碎了所有的幻想。彼时他们驻扎在珍珠港，美丽的夏威夷海滩，每天沐浴着明媚的阳光与海风热浪，如果没有这个噩耗，原本她可以守着与雷夫的那些信，惬意畅想美好未来。这世上的感情种类千千万，爱而不得最残忍。伊芙琳太美，美得只要笑一下，就会看得人心都化了。当初雷夫就是融化在这样明艳的笑容里，可谁又知道，同去体检的丹尼，在见到伊芙琳的第一眼时，没有同样被她的美貌俘虏呢？从小到大，雷夫一直充当丹尼的保护者，他骄傲勇敢，敢爱敢恨，遇到喜欢的姑娘，哪怕挂彩都要去追，可丹尼不同。他有些不自信，不爱争抢，凡事能退则退，更别说让自己与好兄弟爱上同一个女人。原本他从一开始，就做好了退出的打算，可奈何命运老是喜欢作弄人。爱情的萌芽无法控制，即便明知不妥，却无法克制内心的悸动。有人看不过去，骂伊芙琳水性杨花，三个月就能爱上昔日恋人的好兄弟。可是她能怎么办呢？战争年代，身处与死亡距离最近的部队医院，她再怎么坚强，总得找个依靠。后来，&ldquo;死而复生&rdquo;的雷夫对伊芙琳说，是你的爱支撑我活下去。&ldquo;我本来活不成，但是我在海里向上帝承诺，我说我很抱歉，我知道我不该丢下你想去当英雄，但我承诺只要能再见到你，我将别无所求。&rdquo;这场三个人的爱情里，每个人都是受害者。谁与谁是追逐，谁与谁是感动，谁与谁是真心相爱，只有当事人心里清楚。执行&ldquo;自杀任务&rdquo;前，雷夫只是想要一个解释，为什么伊芙琳没能坚持等他回来。为什么呢？伊芙琳说不出口。战争的阴霾悬在头顶，谁又敢轻易怀疑对生死的判定？活着的人，日子总得过下去，哪怕顶着压力，哪怕背离初心。这是战争背后的又一种伤痕，痛苦，却又无可奈何。&nbsp;02&nbsp; 兄弟齐心说回雷夫与丹尼这对好兄弟。什么是兄弟？是一人有难，一人必定出手相助；是同进同退，有着旁人比不了的熟悉与默契；是再大的隔阂，宿醉后还是要睡在一起，国难当头果断联手，个人恩怨悉数抛开。作为一部以战争为背景的浪漫爱情电影，《珍珠港》里的战斗场面之宏大，武戏线索铺陈之周全，令人惊叹。当日军战斗机悄悄来到美丽祥和的夏威夷海滩，导演用一系列镜头，全方位展示了什么叫做&ldquo;所谓悲剧，就是把美好的东西毁灭给人看&rdquo;。珍珠港陷落，好男儿理当为国出征。兄弟两人互为僚机，互相帮衬，那套&ldquo;老鹰捉小鸡&rdquo;的空中配合，是只有他们可以完成的高难度绝招，一举击落7架日本敌机。这在当时，几乎可以称作奇迹。面对上级提出的&ldquo;自杀任务&rdquo;，兄弟两人没有丝毫犹豫地接受，也许在那一时刻，丹尼才理解了雷夫之前，为何一定要留下心爱的女人，毅然去协助英国出战。再浓烈的儿女情长，也比不过危难关头的家国大义。如果誓死守护脚下的土地，是作为男人的天职，那么舍身相救，就是兄弟之间无言的默契。丹尼被俘，雷夫果断开枪击毙三四名日本兵，而当他子弹耗尽，直面敌军枪口，是丹尼想也不想挡在前面，用肉身替他挡下子弹，以命抵命，换他平安。丹尼不知道，此时伊芙琳已有身孕，如果这次任务能够平安，自己就要做爸爸了。可是此时此刻他能做的，只是虚弱一笑，为国牺牲。命运轮转，这一次，换雷夫替自己守护妻儿，将兄弟情就此延续。影片最后，雷夫牵着伊芙琳的手，带&ldquo;小丹尼&rdquo;坐飞机，夕阳下那张童真的笑脸，是对丹尼最好的告慰。&nbsp;03&nbsp; 普通人的高光时刻《珍珠港》之所以被誉为史诗级别的电影，就在于它虽时长三个小时，却剧情紧凑，没有闲笔。主演之外，每一位配角都立体生动，一举一动皆牵动人心。一位黑人的舰队厨师，在训练间隙与白人比赛拳击，用满面伤口换来胜利。为他医治时，伊芙琳一边缝针一边问：&ldquo;你这么拼，赢了又能换来什么？&rdquo;而他眼神坚毅，认真回答：&ldquo;尊重&rdquo;。简短一句，道破自己心中不甘，也暗示当时，美国黑人的艰难处境。后来，珍珠港遇袭，是他轻声安抚中弹后焦灼和痛苦的舰长，让他不会带着牵挂辞世。&ldquo;大家都就位了，你将我们训练有素，&rdquo;这句话，不只在说他所在的那支舰队，也是对当时美军部队的高度评价。这部讲战争也讲爱情的电影，时隔多年，依旧震撼人心。&ldquo;自杀任务&rdquo;前，面对上级&ldquo;愿意出战者上前一步&rdquo;的命令，那排齐刷刷向前的身影，那声简单有力的一踏步，无不令人眼含热泪，为年轻战士的拳拳爱国热血而澎湃。这是属于普通人的高光时刻。硝烟之下，男人女人都没有抱怨，更没有胆怯，而是咬紧牙关，共赴国难。纵观整部影片，最令人动容的台词，是大战前夕，一位叫不出名字的战友询问丹尼：&ldquo;他们选中我们，是因为我们年轻并且愚蠢吗？&rdquo;而丹尼只是笑笑，没有丝毫犹豫。&mdash;&mdash;不，因为我们是精英。这才是史诗级别的战争片。属于战士们的故事，有誓守山河的铮铮铁骨，也有浪漫刻骨的风月柔情。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 我无法后退一步，因为你在身后",
+                        "desc": "文/笙笙不兮 枪林弹雨里，想到你，让我重获勇气。",
+                        "link": "http://m.wufazhuce.com/movie/2029?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 我无法后退一步，因为你在身后",
+                        "desc": "文/笙笙不兮 枪林弹雨里，想到你，让我重获勇气。",
+                        "link": "http://m.wufazhuce.com/movie/2029?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 我无法后退一步，因为你在身后》 文/笙笙不兮： 枪林弹雨里，想到你，让我重获勇气。 阅读全文：http://m.wufazhuce.com/movie/2029?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2029?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我无法后退一步，因为你在身后",
+                        "desc": "枪林弹雨里，想到你，让我重获勇气。",
+                        "link": "http://m.wufazhuce.com/movie/2029?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2856",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4402",
+                    "title": "含石"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1250",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第二十一章：为爱复仇"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2930",
+                    "title": "什么样的能力最容易被低估？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2029",
+                    "title": "我无法后退一步，因为你在身后"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

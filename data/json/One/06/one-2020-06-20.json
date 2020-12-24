@@ -1,0 +1,538 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5539",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-20 06:00:00",
+        "content_list": [
+            {
+                "id": "20541",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2851",
+                "title": "摄影",
+                "forward": "只有那些勇敢镇定的人，才能熬过黑暗，迎来光明。",
+                "img_url": "http://image.wufazhuce.com/FqYCCkAGh8WALKW_In_o6JCC3dnZ",
+                "like_count": 15510,
+                "post_date": "2020-06-20 06:00:00",
+                "last_update_date": "2020-06-18 14:52:12",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2814",
+                "pic_info": "Morgan Petroski",
+                "words_info": "安赫尔·阿斯图里亚斯《玉米人》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2851",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2851",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2851",
+                    "image": "http://image.wufazhuce.com/FqYCCkAGh8WALKW_In_o6JCC3dnZ",
+                    "title": "VOL.2814",
+                    "content": "只有那些勇敢镇定的人，才能熬过黑暗，迎来光明。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2851?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2851?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 只有那些勇敢镇定的人，才能熬过黑暗，迎来光明。——安赫尔·阿斯图里亚斯《玉米人》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2851?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2851?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20577",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4357",
+                "title": "乘病而去",
+                "forward": "我弟说，阿谷哥就是三秒英雄。我说，是的，大家都是一瞬间的英雄，英雄过后就会后悔了。",
+                "img_url": "http://image.wufazhuce.com/FoTKXWzvqPPunXTNhM6j9BZP1nM1",
+                "like_count": 1709,
+                "post_date": "2020-06-20 06:00:00",
+                "last_update_date": "2020-06-19 18:55:21",
+                "author": {
+                    "user_id": "9429516",
+                    "user_name": "丁圣润",
+                    "desc": "曾获新概念作文大赛、香港青年文学奖。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一枚小可爱",
+                    "fans_total": "345",
+                    "web_url": "http://image.wufazhuce.com/FqJTvxxVquRHbvI7K0-EcE_P7wyl"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4357",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4357",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4357",
+                    "image": "http://image.wufazhuce.com/FoTKXWzvqPPunXTNhM6j9BZP1nM1",
+                    "title": "乘病而去 作者/丁圣润",
+                    "content": "年轻人，别病恹恹的！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 乘病而去",
+                        "desc": "文/丁圣润 年轻人，别病恹恹的！",
+                        "link": "http://m.wufazhuce.com/article/4357?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 乘病而去",
+                        "desc": "文/丁圣润 年轻人，别病恹恹的！",
+                        "link": "http://m.wufazhuce.com/article/4357?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 乘病而去》 文/丁圣润： 年轻人，别病恹恹的！ 阅读全文：http://m.wufazhuce.com/article/4357?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4357?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "乘病而去",
+                        "desc": "年轻人，别病恹恹的！",
+                        "link": "http://m.wufazhuce.com/article/4357?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20535",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1213",
+                "title": "打雪仗·第三章：消失爱人",
+                "forward": "她不敢告诉家人这件事，每天一大早就出门，假装是去给儿子看新房。她一遍遍地跟我讲这些事情，说我不还钱，她就没法做人了。可我能说什么呢？我比她还惨，我什么都不说。   ",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 725,
+                "post_date": "2020-06-20 06:00:00",
+                "last_update_date": "2020-06-12 15:46:49",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第3章",
+                "number": "3",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1213",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1213",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1213",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第三章：消失爱人 作者/肖睿",
+                    "content": "我能说什么呢？我比她还惨，我什么都不说。   "
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第三章：消失爱人",
+                        "desc": "文/肖睿 我能说什么呢？我比她还惨，我什么都不说。   ",
+                        "link": "http://m.wufazhuce.com/serial/1213?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第三章：消失爱人",
+                        "desc": "文/肖睿 我能说什么呢？我比她还惨，我什么都不说。   ",
+                        "link": "http://m.wufazhuce.com/serial/1213?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第三章：消失爱人》 文/肖睿： 我能说什么呢？我比她还惨，我什么都不说。    阅读全文：http://m.wufazhuce.com/serial/1213?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1213?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第三章：消失爱人",
+                        "desc": "我能说什么呢？我比她还惨，我什么都不说。   ",
+                        "link": "http://m.wufazhuce.com/serial/1213?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20570",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2882",
+                "title": "有哪些不落俗套的聊天开场白？",
+                "forward": "留给淡而慢之的开场白空间已经很少了。",
+                "img_url": "http://image.wufazhuce.com/Fi6UVqu-As3ltyX58CSfRZWRJMOd",
+                "like_count": 1955,
+                "post_date": "2020-06-20 06:00:00",
+                "last_update_date": "2020-06-19 17:48:50",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "石原外美",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2882",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2882",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2882",
+                    "image": "http://image.wufazhuce.com/Fi6UVqu-As3ltyX58CSfRZWRJMOd",
+                    "title": "有哪些不落俗套的聊天开场白？",
+                    "content": "有哪些不落俗套的聊天开场白？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 有哪些不落俗套的聊天开场白？",
+                        "desc": "文/狮心 叫爸爸。",
+                        "link": "http://m.wufazhuce.com/question/2882?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 有哪些不落俗套的聊天开场白？",
+                        "desc": "文/狮心 叫爸爸。",
+                        "link": "http://m.wufazhuce.com/question/2882?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 有哪些不落俗套的聊天开场白？》 文/狮心： 叫爸爸。 阅读全文：http://m.wufazhuce.com/question/2882?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2882?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有哪些不落俗套的聊天开场白？",
+                        "desc": "叫爸爸。",
+                        "link": "http://m.wufazhuce.com/question/2882?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11408852",
+                    "user_name": "狮心",
+                    "desc": "卑微静谧，狂热炽烈。\r\n热爱阳光普照，雨水丰盛。\r\n大多数时候都觉得写故事是一件很痛苦的事，但写完的瞬间，会在某处体会到看到一颗种子开花般的愉悦。目前热衷于把阅读快感和打动人心相互结合，写出两者兼有的故事。希望写出一种，可以让外星人看了后也不想侵略地球的文体，前提是他们懂简体中文。\r\n总之，是一个在一直探索着的硬核的人。同时也是一个在探索的道路上不断前行，碰巧摔了个狗吃屎后，就拐弯买杯“一点点”，不探索了的人。",
+                    "wb_name": "@写手狮心",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "举世无双大笨蛋",
+                    "fans_total": "649",
+                    "web_url": "http://image.wufazhuce.com/Fv8_ynm8zWQTwp9SkR4KSuSLLmIz"
+                }
+            },
+            {
+                "id": "20589",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2011",
+                "title": "注意！他们要明目张胆地炫父了",
+                "forward": "如果世界容不下你，生命由不得我。那么我永无止息的爱，就是你永恒的天堂。",
+                "img_url": "http://image.wufazhuce.com/FiBYLMyIX-mnkbqtCkUwRXJ84ssx",
+                "like_count": 1863,
+                "post_date": "2020-06-20 06:00:00",
+                "last_update_date": "2020-06-20 09:40:39",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "不辣等十位作者",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "给爸爸",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4994",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2011",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2011",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2011",
+                    "image": "http://image.wufazhuce.com/FiBYLMyIX-mnkbqtCkUwRXJ84ssx",
+                    "title": "「一个」电影: 给爸爸",
+                    "content": "知道吗？你曾改变了一个人的生命轨迹&mdash;&mdash;让他从一个男孩，终于成长为一个担得起责任、扛得住压力的男人。而作为&ldquo;回报&rdquo;，他将会把一生最大的期待和最重的爱意，交付于你。他是你的父亲，是你初识世界后，开口说话时最轻易就能发出的声音&mdash;&mdash;&ldquo;爸爸&rdquo;。每个人眼中的爸爸是不同的，他或者严肃，或者风趣；或者木讷，或者浪漫；或者一板一眼，或者轻松自在。爸爸或许什么都做不好，又或许总是把一切事情忘记。但你要相信的是，不论如何，不论他们是什么样的人，他们都会心甘情愿地用生命来爱你。@不辣推荐电影：《剩者为王》刘墉在《一生能有多少爱》中如此写道：&ldquo;女儿是爸爸上辈子的情人&rdquo;，之前不太理解这句话，看完这部电影之后才深刻体悟。如曦，一个大龄未婚职场女性，眼看着三十五岁的大门已打开，可她的感情生活却依然一片空白。她当然可以为了周遭的质疑声、旁人的催促声去相亲，去结婚，勉强自己进入婚姻，过上和大多数人一样的凑活生活。但，她没有。因为如曦一直渴望着能和她爱的人走完一生，这是她对爱情的坚持。无论爱的人多晚到来，她都愿意等，并不会妥协。她是幸运的，因为有一个如她一般坚守幸福原则的父亲。他说：&ldquo;三十年前，是她来了，才让我成为一个父亲。作为一个父亲，我就应该和她一起去守护，只要她认定了，我就陪着她。那她有时候受挫了，我就等她回来哭一场。如果她忍着不哭，好，那我可以烧一桌好吃的给她吃。&rdquo;因为他是她的父亲，所以她在他这里，只能幸福，别的不行。而这个世界，也没有人比他更希望自己的姑娘可以得到真爱、可以拥有幸福，因为他们曾经深爱过。他，是父亲，是前世情人。在今天如此特别的日子里，让我们&ldquo;干杯&rdquo;！&nbsp;@kimi推荐电影：《银河补习班》从全市人民的英雄到全市人民的罪人，马皓文把自己的前半生活成了一个Loser。在这个中国式的父与子故事中，马皓文和马飞这对父子，总是时不时地被命运玩弄，以屋漏偏逢连夜雨的方式遭受着磨难，这让他们短暂的快乐看上去更加弥足珍贵。一别七年，父子俩以一种尴尬的方式重逢，这让马飞的气恼多过兴奋，也深深刺痛着马皓文的心。他没能遵守和儿子的约定，还差一点错过了他的成长。于是，当所有人对马飞这个孩子的未来判了&ldquo;死刑&rdquo;时，他决定用自己的方式来弥补对儿子的亏欠。&nbsp;他用许三多式的不抛弃不放弃给予马飞鼓励，他总告诉马飞&ldquo;你可以&rdquo;，而不是那句令人压力山大的&ldquo;我是为了你好&rdquo;。毕竟，把自己的曾经的喜好灌输给孩子，是不公平的。这就像他从未真正把大桥坍塌的事对马飞说清楚一样，因为那件事与马飞无关，他不该也不能让自己的事影响孩子。或许，他活得很失败，但儿子马飞的成功就是他最大的骄傲。作为一个父亲，马皓文的形象并不伟岸，甚至带着逆来顺受、委曲求全的平淡。但是，这就像父爱本来的样子：无所不在，润物无声。&nbsp;@星恢推荐电影：《如父如子》与&ldquo;女人天生就对孩子有母爱&rdquo;这个误解并行的另一个错误常识，是&ldquo;男人从孩子降生的那一刻，就可以成为一个父亲&rdquo;。是枝裕和导演的《如父如子》，男主角野野宫良多一家遇见了&ldquo;抱错孩子&rdquo;这个庸俗老套，但实际无比残忍的剧情，身为建筑设计师、精英人士的良多以为，把有血缘的孩子换回自己身边，而把做了他们6年孩子的庆多换走是最好的选择。他把亲情当做一种充满了血浆蛋白、氧和无机盐的东西，能给小孩提供优渥的生活和教育环境就尽到了父亲的职责。他忙碌、冷淡，对庆多有着严格的要求&mdash;&mdash;就像当年他的父亲从来不会陪他放风筝一样。良多没有意识到，盖章和出生证明并不能真正组成家庭，孩子与父母之间的羁绊，是时间的根芽慢慢抽出、伸展、缠绕、细碎的枝蔓里有彼此之间一日又一日的关注与陪伴，这些枝桠伸进孩子和父母的心里，让他们从头到脚，流淌着红色的东西。不要误解，那个红色叫做爱。当良多看见庆多执意留下的照相机中自己的照片，当他看见当年掉包的护士的养子，勇敢而颤抖地挡在面前，当他对庆多说出那句&ldquo;对不起&rdquo;，他才真正成为父亲。没有血缘关系的良多和庆多拉着手回家，这一次他们如父，如子。&nbsp;@耶律律推荐电影：《烈日灼心》三月初，好友卜老三喜得贵子，拉着我给大侄子起名。卜尔特，跑得快，卜习班，考得高，实在不行叫卜树，将来是个搞艺术的娃。玩笑之余，我问三哥，当爸爸啥感觉？三哥说，觉得对不起他，因为我还是个孩子。我们这代人成长在故事里，虚构模拟远大过现实，当有一天亲手抱起孩子，必然止不住内心震颤。他问我，怎样做个好爸爸？我回答说，用生命爱他。生命，在汉语里有两重含义，一是血肉之躯，二是时间精力。普通人悉心陪伴就算付出，至于血肉之躯，多发生在文艺作品中。曹保平导演的悬疑片《烈日灼心》，就是一部深究父爱的作品。七年前三青年杀害一家五口潜逃，七年后三人早已改头换面。辛小丰当协警，杨自道开出租，陈比觉成了傻子，他们共同抚养着小女儿尾巴。刑侦老手伊谷春，曾参与水库灭门案。此番他接任警长，先对辛小丰起疑，而后又屡次欣赏他。相敬相杀几回合，伊谷春终于将辛杨缉拿归案。执行死刑后，真凶却意外出现。那么三兄弟为何招供呢？原来害死尾巴妈妈之后，他们一直将她抚养在身边。孩子渐渐长大，救赎之路走到尽头，唯有死，才能让孩子轻松地活。辛小丰死前问道，我们是好爸爸吗？我想观众会说是，因为当人们目睹罪恶，抵达故事核心时，才发现收获了爱与善。而换取这份爱与善的，正是生命。&nbsp;@笙笙不兮推荐电影：《我是山姆》关于父爱，有太多沉厚如山的内敛与表达，而《我是山姆》中的父亲与他们都不相同。他的智商只有7岁，却为了女儿，一次次打破智商的桎梏，让父爱呈现出一份令人动容的纯真。影片中的山姆和律师，如同天下父母的两种极端。一种人是山姆，看似一无所有，却唯独捧着一颗真心，为孩子付出所能想到的一切；另一种人是律师，能力出众，功成名就，住在大得离谱的豪宅里，却没时间与孩子看一集动画，打一次游戏。看这部电影，总是笑着笑着就哭了。你会发现，原来人与人之间的情感可以如此纯粹，原来父爱可以如此伟大，原来孩子想要的陪伴如此简单。世界上什么都可以复制比较，唯有爱不可以。世界上什么都可以被明码标价，也唯有爱，不计代价。&nbsp;@yaoyaooo推荐剧目：《请回答1997》成东日在《请回答》系列中连续饰演的父亲角色，从来不缺少讨论。我最喜欢的还是他热烈与温情并叙的那次&mdash;&mdash;《请回答1997》里程诗源的父亲。高中生诗源是H.O.T的粉丝，房间贴满偶像海报，积极参加歌友会，熟练回答一切关于偶像的提问，最狂热的一次是跑到成员tony家门口蹲点追星，缩在纸皮箱中度过了一夜，用真情追星诠释最燃青春。可诗源爸爸不能理解她的追星行为，曾经撕过她房间的海报，无所谓地穿破了偶像周边雨衣，最极端的一次，是剪掉了女儿的长发，试图用铁腕手段&ldquo;矫正&rdquo;青春。压制有多强力，反抗就有多不挠。诗源为了获取偶像代言的电台礼品，投稿谎称自己的父亲得了癌症，希望被鼓励。煽情的信件果然被选中，不料父亲在体检中被确诊胃癌，诗源顿时无比自责，去到医院哭着抱住了父亲。接受手术治疗前夕，父亲人生第一次去到教堂祷告，并非怕死，而是担心自己突然离开，女儿顿时无所依靠，说完便掩面无声痛哭。忧心女儿活得天真，和忧心女儿无法继续天真的，正是同一个矛盾的父亲。幸亏手术成功，我们后续才得以见到&mdash;&mdash;为女儿送考时柔情的，眼见女儿搬家去异地上大学时不舍的，以及误会女儿抽烟时戏精附身般夸张痛心的，不断击出情绪直线球的，程诗源的父亲。&nbsp;@奶油气泡精推荐电影：《海洋天堂》&ldquo;如果世界容不下你，生命由不得我。那么我永无止息的爱，就是你永恒的天堂。&rdquo;当66岁的成龙这两年频繁在电影里呈现出跟他年龄相符的老态形象时，大家才发现，以他为代表的一众武打明星真的开始打不动了，毕竟谁没有变老的一天呢？然而早在十年前，李连杰就&ldquo;弃武从文&rdquo;演了《海洋天堂》。这部10年的电影，乍一看似乎集齐了现在所有的俗套元素：绝症、去世、自闭症。按理说本该是个轰轰烈烈的狗血大戏，导演薛晓璐却拍的意外的冷静克制，甚至有几分日式家庭片子的影子。李连杰不再是叱咤国际的武打巨星，而是身患肝癌的单身父亲心诚，文章也还没变成《失恋三十三天》里刻薄毒舌的王小贱，而是重度自闭症大男孩大福。电影名字和剧情都没有离开海洋，大福也像一只孤独的海豚畅游在海洋馆里，在他的世界，蔚蓝的海水是他自由的小天地，他是海洋中的精灵。没有任何一家福利院愿意收大福，于是心诚只好和时间赛跑，他不厌其烦的教大福该如何吃饭、穿衣、认钱、坐公交，这些看上去鸡毛蒜皮的小事变得有千斤重，心诚知道，这是一位父亲在世时能为孩子做的最后一点事。&nbsp;而周杰伦《说了再见》作为主题曲更是催泪炸弹：&ldquo;说了再见，才发现再也见不到&rdquo; &ldquo;说好陪我到老，永恒往哪里找&rdquo;，这或许是我们子女与父母最真实的写照。&nbsp;@陈廿臻推荐电影：《四个春天》我对家庭类影片的偏爱要多于特型类的。因为前者更贴近我们日常的细节，能从中看到与自己生活相关的共性，每每想起，后劲绵长，观影体验是和回家一样的酸涩与幸福交织。记得点映时我和男友去看《四个春天》，这部平实的家庭录影让我哭完了整场，四个春天的跨越里，陆妈并未见到明显的苍老，她乐呵呵的，唱歌，上山，翻相册，像绝大多数矍铄的老太太一样，是家庭的主心骨，定海针。而陆爸，这个和善的老人家，随着燕子去又回，迎春花开又落，是可以察觉到他的衰老的。没有什么比看着一个父亲一年年老去更加残忍，因为在我们惯性的印象中，父亲总是无所不能的。我从陆导写的文章里试图拼凑过陆爸的性格碎片，善良，乐于助人，顾家，热爱音乐与摄影，这样的性格配置在绝大多数中国家庭里已经算是顶配了。绝大多数的父亲们，或许是因为没有经历过怀胎十月，和婴儿共用一个身体的亲密，父爱觉醒得要比母爱迟一些。他们是父亲，是家里的当权者，既要为家庭抵御外面的风雨，也要给自己的精神世界在家庭之外寻找一个落脚点。等到年华老去，看到孩子长成他年轻时的模样，父爱方才彻底觉醒，落入实处，回归家庭，成为一种互相理解的懂得。&nbsp;@MENG推荐电影：《比海更深》不知为何，在一众的&ldquo;父亲&rdquo;形象中，最令我印象深刻，也最有感触的，却是一个不太合格的&ldquo;无赖&rdquo;的爸爸，那就是《比海更深》中阿部宽饰演的良多。游手好闲，不务正业，想要成为作家，却没有太多业务，整天赌博，买彩票，妻子受不了他离开了，老母亲一边被啃老一边暗搓搓地揶揄他。这样一个父亲，给不了儿子太多的物质和安全感，但是儿子每次和他见面都过得很开心。因为，他不会像别的父亲一样板着脸，要求孩子做着做那，样样优秀。相反，他会带着儿子去看棒球赛，去买彩票，好像他才是那个任性的小孩。他用行动告诉孩子，不是每个人都会成为自己理想中的大人。所以，不要担心，不要紧张，做自己喜欢的事就好了。良多的儿子告诉爸爸：我想做公务员。但是他又对妈妈说：我就是喜欢四坏球。孩子其实什么都知道，他知道父亲是有梦想的，知道妈妈是爱爸爸的。也许不是每一个人都能成为理想中的父亲吧，可是这又如何呢？&nbsp;@陈凯琳推荐电影：《摔跤吧！爸爸》《摔跤吧！爸爸》在2016年上映时曾引起轰动，作为一部根据真实事件改编的电影，阿米尔&middot;汗生动还原了印度摔跤运动员马哈维亚&middot;辛格&middot;珀尕辛格的形象。在女性地位低下的印度，辛格这样的父亲实在难能可贵，也许他心心念着妻子能生下儿子继承摔跤梦，但诞下四个女儿后并没有因此嫌弃她们，而是培养她们成为了优秀的摔跤运动员。有人说辛格是一个用孩子作为圆梦工具的自私的大男子主义者，但在印度这样的社会，无数如花似玉的女孩在十多岁便嫁作人妇，她们出生即沦为生育工具。面对身边人的质疑与嘲笑，辛格不惧社会的争议，打破唯有男人才能摔跤的观念，为女儿们找到了全新的出路。电影中，辛格就像大多数人的父亲一样专横霸道，不苟言笑，在训练女儿时毫不留情，却也展现出无限柔情，为了女儿在校长面前流泪。他坚毅果敢，能屈能伸，最终带领女儿们克服重重困难，摆脱了约定俗成的命运，成为世界冠军，同时也为自己赢得了尊严。父爱如山，愿每个女孩都能拥有这样一位值得依靠，在你追求自我的道路上保驾护航的父亲。爸爸究竟是一个什么样的职业呢？他需要保护孩子，又不能有所溺爱，因此，他们总把爱藏得很深。他期盼孩子成为一个成功的人，却也渴望孩子们能拥有自由，因此，他们或许早上还严厉地批评了你，到了深夜却蹑手蹑脚走进你的房间，帮你把被子盖好。或许，他们也是第一次当爸爸，有些生涩、有些忐忑、有些不知所措。如果是这样的话，不知道你愿不愿意对他宽容一点。走近他，拥抱他，跟他说说话，陪他喝杯酒，告诉他说：&ldquo;没关系，你已经做得很好了&rdquo;，就像，他曾经对你做的那样。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 注意！他们要明目张胆地炫父了",
+                        "desc": "文/不辣等十位作者 拼爹，拼的就是爹有多爱你。",
+                        "link": "http://m.wufazhuce.com/movie/2011?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 注意！他们要明目张胆地炫父了",
+                        "desc": "文/不辣等十位作者 拼爹，拼的就是爹有多爱你。",
+                        "link": "http://m.wufazhuce.com/movie/2011?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 注意！他们要明目张胆地炫父了》 文/不辣等十位作者： 拼爹，拼的就是爹有多爱你。 阅读全文：http://m.wufazhuce.com/movie/2011?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2011?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "注意！他们要明目张胆地炫父了",
+                        "desc": "拼爹，拼的就是爹有多爱你。",
+                        "link": "http://m.wufazhuce.com/movie/2011?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2814",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4357",
+                    "title": "乘病而去"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1213",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第三章：消失爱人"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2882",
+                    "title": "有哪些不落俗套的聊天开场白？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2011",
+                    "title": "注意！他们要明目张胆地炫父了"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

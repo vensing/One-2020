@@ -1,0 +1,510 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5667",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-24 06:00:00",
+        "content_list": [
+            {
+                "id": "21322",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2982",
+                "title": "摄影",
+                "forward": "爱不是所有问题的答案，但爱能解决大多数问题。",
+                "img_url": "http://image.wufazhuce.com/FlMXVPcbIgd6-k9umK3bljgZxr4r",
+                "like_count": 15028,
+                "post_date": "2020-10-24 06:00:00",
+                "last_update_date": "2020-10-20 15:27:33",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2940",
+                "pic_info": "Taylor Heery",
+                "words_info": "艾玛·哈代",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2982",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2982",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2982",
+                    "image": "http://image.wufazhuce.com/FlMXVPcbIgd6-k9umK3bljgZxr4r",
+                    "title": "VOL.2940",
+                    "content": "爱不是所有问题的答案，但爱能解决大多数问题。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2982?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2982?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 爱不是所有问题的答案，但爱能解决大多数问题。——艾玛·哈代 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2982?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2982?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21314",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4484",
+                "title": "乌鸦",
+                "forward": "祖父跟往常一样，搬出他的旧竹椅，坐在阳台上观看梧桐树。雾气散去，太阳从树顶露出来，阳光照射下的一根树枝上多了一团黑影。",
+                "img_url": "http://image.wufazhuce.com/FhbFtYtCYDlrcVwTv7kXRmjM0GW1",
+                "like_count": 1781,
+                "post_date": "2020-10-24 06:00:00",
+                "last_update_date": "2020-10-23 11:58:31",
+                "author": {
+                    "user_id": "11644694",
+                    "user_name": "铁柱",
+                    "desc": "不自由撰稿人。",
+                    "wb_name": "@树上的总督",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "不自由撰稿人。",
+                    "fans_total": "61",
+                    "web_url": "http://image.wufazhuce.com/FsPo8xH1A8ADHy7GybHEm4jXVi5l"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4484",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4484",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4484",
+                    "image": "http://image.wufazhuce.com/FhbFtYtCYDlrcVwTv7kXRmjM0GW1",
+                    "title": "乌鸦 作者/铁柱",
+                    "content": "你想想，你骑着白鹤飞上云端，多美。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 乌鸦",
+                        "desc": "文/铁柱 你想想，你骑着白鹤飞上云端，多美。",
+                        "link": "http://m.wufazhuce.com/article/4484?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 乌鸦",
+                        "desc": "文/铁柱 你想想，你骑着白鹤飞上云端，多美。",
+                        "link": "http://m.wufazhuce.com/article/4484?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 乌鸦》 文/铁柱： 你想想，你骑着白鹤飞上云端，多美。 阅读全文：http://m.wufazhuce.com/article/4484?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4484?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "乌鸦",
+                        "desc": "你想想，你骑着白鹤飞上云端，多美。",
+                        "link": "http://m.wufazhuce.com/article/4484?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21276",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1320",
+                "title": "制作人们·第七章：一百万奖金",
+                "forward": "我没兴趣，区区一百万而已，我自己也赚得到。",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 665,
+                "post_date": "2020-10-24 06:00:00",
+                "last_update_date": "2020-10-12 14:48:26",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第7章",
+                "number": "7",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1320",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1320",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1320",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第七章：一百万奖金 作者/鳄鱼姐",
+                    "content": "我没兴趣，区区一百万而已，我自己也赚得到。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第七章：一百万奖金",
+                        "desc": "文/鳄鱼姐 我没兴趣，区区一百万而已，我自己也赚得到。",
+                        "link": "http://m.wufazhuce.com/serial/1320?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第七章：一百万奖金",
+                        "desc": "文/鳄鱼姐 我没兴趣，区区一百万而已，我自己也赚得到。",
+                        "link": "http://m.wufazhuce.com/serial/1320?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第七章：一百万奖金》 文/鳄鱼姐： 我没兴趣，区区一百万而已，我自己也赚得到。 阅读全文：http://m.wufazhuce.com/serial/1320?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1320?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第七章：一百万奖金",
+                        "desc": "我没兴趣，区区一百万而已，我自己也赚得到。",
+                        "link": "http://m.wufazhuce.com/serial/1320?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21327",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3014",
+                "title": "真正的成熟是怎样的？",
+                "forward": "吃饱睡好，爱惜健康，保持心情愉悦。",
+                "img_url": "http://image.wufazhuce.com/FiLWfBAfgJuwlAWM5X09ZTEOznSZ",
+                "like_count": 4399,
+                "post_date": "2020-10-24 06:00:00",
+                "last_update_date": "2020-10-24 07:47:43",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "破碎的茶包",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3014",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3014",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3014",
+                    "image": "http://image.wufazhuce.com/FiLWfBAfgJuwlAWM5X09ZTEOznSZ",
+                    "title": "真正的成熟是怎样的？",
+                    "content": "真正的成熟是怎样的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 真正的成熟是怎样的？",
+                        "desc": "文/缪斯谭 知世故而不世故，善自嘲而不嘲人。",
+                        "link": "http://m.wufazhuce.com/question/3014?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 真正的成熟是怎样的？",
+                        "desc": "文/缪斯谭 知世故而不世故，善自嘲而不嘲人。",
+                        "link": "http://m.wufazhuce.com/question/3014?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 真正的成熟是怎样的？》 文/缪斯谭： 知世故而不世故，善自嘲而不嘲人。 阅读全文：http://m.wufazhuce.com/question/3014?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3014?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "真正的成熟是怎样的？",
+                        "desc": "知世故而不世故，善自嘲而不嘲人。",
+                        "link": "http://m.wufazhuce.com/question/3014?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "21335",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2068",
+                "title": "举着骨头当火把",
+                "forward": "正义可能不会缺席，但一定会迟到。",
+                "img_url": "http://image.wufazhuce.com/FshsweOFF9MfDNti0hMy8fXcEUhc",
+                "like_count": 2000,
+                "post_date": "2020-10-24 06:00:00",
+                "last_update_date": "2020-10-23 11:37:55",
+                "author": {
+                    "user_id": "11658233",
+                    "user_name": "黄尔多",
+                    "desc": "热爱音乐，相信科学。永远浪漫，永远横冲直撞。",
+                    "wb_name": "@黄尔多",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "目前俨然废物一个。",
+                    "fans_total": "39",
+                    "web_url": "http://image.wufazhuce.com/FhsPfn5L9g8f1PmRZUPfYu5SWJ0X"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "沉默的真相",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5051",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2068",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2068",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2068",
+                    "image": "http://image.wufazhuce.com/FshsweOFF9MfDNti0hMy8fXcEUhc",
+                    "title": "「一个」电影: 沉默的真相",
+                    "content": "海恩法则指出，每一起严重事故的背后，必然有29次轻微事故和300起未遂先兆以及1000起事故隐患。这个法则若应用于难发现、难取证、难指控的性侵案，似乎显得有过之而无不及。据公益项目&ldquo;女童保护&rdquo;统计，2013年至2019年，媒体共曝光2096起性侵儿童的案例，全国法院审结的猥亵儿童案件数高达1.6万。紫金陈的小说《长夜难明》中，故事脉络的起点，便讲述了一群山区留守女童被作为礼物赠予县城里的大人物。由这部小说改编的网剧《沉默的真相》，在开播前豆瓣上就已经有四万多人标记&ldquo;想看&rdquo;。刚播出时，有人吐槽尺度和密度比不上原著，运镜和配乐比不上《隐秘的角落》，有人抱怨中插太多，剪辑混乱。但这些人看到最后基本上都已经没力气挑毛病了。&nbsp;1 &nbsp;速朽的蝼蚁，不死的权力剧集开篇就是一出声势浩大的抛尸&mdash;&mdash;繁忙的地铁站，一个头发油腻衣服皱巴的中年大叔拖着至少二十八寸大的行李箱，从道路正中间逆向穿过迎面而来的人流，在安检口被拦下后，他声称行李箱中有炸弹。警察与记者闻风出动，满城哗然。在现场千百双眼睛的审视下，箱子被打开&mdash;&mdash;一具尸体定格在无尽的黑暗之中。案件由三个时空的叙事线逐步推进：2000年山区支教大学生侯贵平调查班上女学生服农药自杀的原委，2003年检察官江阳调查侯贵平强奸妇女畏罪自杀的真相，2010年刑警严良调查江阳被谋杀抛尸案件。多个人物，多条轨迹，并进，交错，分散，又汇合。为准确形容这部剧的剧情走向，网友发明了一个词叫高开炸走。主创运用了大量的蒙太奇手法和转场剪辑来建立三个时空的联系，时间上的设计也很巧妙，从法治制度不再那么落后的千禧年开始，又在智能手机普及的信息大爆炸时代之前画上句号。十二集共十个钟头，没有一分钟的镜头是浪费的（逼不得已的广告植入除外）。支教老师侯贵平是这十年黑暗的第一个探路者。在他为工厂女工举办的高考复读班上，昏暗的教室，破旧的桌椅，女生们统一的纺织厂制服和眼中闪耀的光，这是剧中为数不多的温暖片段。他的满腔热血给山区的孩子们带来了改变命运的希望，同时也改变了他自己的命运。面对女学生翁美香的非正常死亡，他始终为没有保护好她而愧疚，于是日夜为查寻真相奔走忙碌。他是有些许天真的，一次次举报无果，一次次被贿赂、被警告，查到后面连老师和女友都已经觉得不对劲，他还是相信只要一直查下去就能揪出幕后黑手。他不知道自己出的这种力，在庞大的利益集团面前，无异于鸡蛋撞高墙。也正因为这份拍案而起的血性，导致了他最后近乎屈辱地死在那个险象环生的山区里，被扣上强奸犯的罪名长达十年。的确，对大人物来说，解决问题最好的办法就是解决掉发现这个问题的人，何况这个人还是一个无足轻重的大学生。在这一时空的叙述中，充斥着大量的隐喻。比如在解释&ldquo;君&rdquo;字时，侯贵平把手放在嘴巴前面，暗示着这个角色是&ldquo;手拿权杖、发号施令的君主&rdquo;身后&ldquo;被封口的、渺如尘埃的君子&rdquo;；比如翁美香笔记上的单词：light（光）、peaceful（和平的）、hope（希望），与她即将凋零的生命形成了残忍的对比；比如复读班的英语课上，侯贵平教学生读的两句话：What if I never let you go?What if it brings hope?（如果我永不放弃呢？如果这样可以带来希望呢？）分明就是这个人物的独白。作为读过原著的观众，这些意味深长的特写，都让我不忍卒视。&nbsp;2 &nbsp;十年饮冰，难凉热血这部剧整体的风格偏向沉稳，正如原著作者紫金陈一直强调的，这个故事拍出来不应是喜剧作品，也不是商业作品，而是有营养的严肃作品。所以这种略为克制的表现形式恰恰是妥帖的。虽然定位为悬疑，剧中的推理大部分属于社会派。官商勾结、权色交易、威胁诬陷、杀人灭口&hellip;&hellip;几乎每一个片段你都可以在社会新闻版面找到原型。没有高智商犯罪，没有难懂的作案手法，并不需要想象力的角色立场和动机，腐败罪恶就这样简单粗暴地被剖开扔在你眼前，但真相对于主角们却似乎总是触不可及，因为&mdash;&mdash;没有证据，呵，那永远在路上的证据，永远得不到的证据。侯贵平拍到了可作为关键性证据的照片，然后照相馆起火了；终于得到了仅剩的唯一一张照片，然后侯贵平被&ldquo;跳河自杀&rdquo;了；警察局外的证人离奇失踪了，警察局内的证人离奇死亡了；查到最后，还不放弃的检察官江阳和他的好兄弟朱伟都进去了。与戏份不多的侯贵平相比较，江阳这个中心人物的悲剧色彩更为厚重。刚接触这个案件的时候，法律人的敏感和理性就已经让他嗅到了它的非同寻常之处。在女友吴爱可单纯的坚持之下，他才开始参与这桩旧案的侦查，犹疑地，审慎地。但越来越接近漩涡中心，他反而下定决心一查到底。犯罪集团及其背后保护伞的打压，让近在咫尺的证据和证人一一消失，让他和朱伟轮番被诬陷入狱；在寻找真相的过程中，他和吴爱可渐行渐远，即便他后来成了家，也为了保护家人而不得不把他们推得远远的&hellip;&hellip;当重重的阻力和无数意外打击来临时，他都没有再想过回头。名校毕业，单位唯一的研究生，意气风发的年纪，志同道合的女友，位高权重的准岳父，如果他愿意，他可以娶自己最喜欢的女孩，拥有最光明的事业和前程。哪怕只做一个普通人，过着平凡的生活，也远比后来的他要幸运上千百倍。但根植于心中的正义已然苏醒，又如何能忍受装睡？从第一次翻开案卷到他死的七年之间，他只做了查找真相这一件事情，只有这一件。剧中最动人的一幕是在他出狱后的火锅局上，一直在他身后默默支持他的陈明章说：&ldquo;今年年底，就到今年年底，到此为止，好不好？&rdquo;江阳隔了半晌，点头表示答应了。后来突然发现自己的钱包丢了，他掩面痛哭起来：&ldquo;钱包丢了，钱包丢了，钱包还是丢了&hellip;&hellip;&rdquo;那几声呐喊，让人绝望，让人心痛得想跟着哭。他哭的不是钱包丢了，他哭的是自己的无能为力，无路可投。在知道自己时日无多之后，他在录像机面前说：&ldquo;尽力了，我们都尽力了。&rdquo;然后主动将头伸进绞架&mdash;&mdash;这是一位人民检察官在罹患绝症的至暗时刻为他未完成的事业所做的最后一点挣扎。&ldquo;还司法一个尊严&rdquo;，这是他留给这个世界的最后一句话。&nbsp;3 &nbsp;长夜难明，但终究会明总有吹哨人，被扼住咽喉，仍要让哨声回响。于是哨声终于不再封沉于黑暗，沉默的真相终于不再沉默。长夜难明并不可怕，我们还有江阳这样的守夜人，可又有谁去守着守夜人呢？正义可能不会缺席，但却一直在迟到。一方面，我们需要无数的江阳，一方面，我们但愿永远不会有另一个江阳。这样的人间哪里配得上他啊？是什么样的绝望和无奈才让一个人民检察官不得不用自己的牺牲来换取程序正义？七年了。在七年的翻案过程中，检察官、刑警、法医、律师、记者，五种身份五股力量在为那些&ldquo;失声&rdquo;的受害者发声。而正义却依然无处伸张，施暴者依然逍遥法外，毫无底线地翻越规则，践踏司法。于是就有了开头的&ldquo;地铁抛尸&rdquo;，为了让案件得到重视和关注，为了讲完这个故事，他们以死设局。正如陈明章所说：它是潘多拉的魔盒，打开就回不去了。在三个时空里，一群素昧平生的人为了同一个信念，举着骨头当火把，将未完成的使命一棒接力一棒，发起了一次又一次看似自不量力的冲锋。没有人给自己铺退路，所有人都做好了最坏的准备，不问值不值得，只求不留遗憾。也许真正的英雄从来不是始终饱含希望，而是在不断幻灭之后，继续拾起重建，在认清真相看穿本质之后，依然选择挺住。这部剧聚焦着赤裸裸的、触目惊心的现实痛点，在现下如此多社会事件面前，它的现实意义是远高于艺术价值的。看的时候会震撼、愤怒、无奈、唏嘘，觉得一切的一切都那么黑暗，可是转念一想，这些黑暗能够被我们看到，便是光明。2011年的韩国电影《熔炉》末尾，那个人权中心的女干事说：&ldquo;我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。&rdquo;在电影之外，沉寂六年的真实案件重启调查，一系列相关法律随之重新修订，直到现在，&ldquo;熔炉效应&rdquo;仍在无限扩大。有些作品，拥有让人为之沸腾的能量。紫金陈说，其他故事的创作目的就是好看，唯独这个故事输出了价值观。这几年微博上至少有十几二十个人告诉他，因为看了《长夜难明》，他们高考报志愿选择了法律相关专业，毕业后选择了公检法等工作。长夜里，有一群人走在前头，凭一口气，点一盏灯；而念念不忘，必有回响。就用《南方周末》1999年新年特刊中主编寄语和新年献词的标题来结束这篇文章吧。一是：&ldquo;让无力者有力，让悲观者前行&rdquo;；一是：&ldquo;总有一种力量，让我们泪流满面&rdquo;。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 举着骨头当火把",
+                        "desc": "文/黄尔多 让无力者有力，让受辱者前行。",
+                        "link": "http://m.wufazhuce.com/movie/2068?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 举着骨头当火把",
+                        "desc": "文/黄尔多 让无力者有力，让受辱者前行。",
+                        "link": "http://m.wufazhuce.com/movie/2068?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 举着骨头当火把》 文/黄尔多： 让无力者有力，让受辱者前行。 阅读全文：http://m.wufazhuce.com/movie/2068?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2068?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "举着骨头当火把",
+                        "desc": "让无力者有力，让受辱者前行。",
+                        "link": "http://m.wufazhuce.com/movie/2068?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2940",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4484",
+                    "title": "乌鸦"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1320",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第七章：一百万奖金"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3014",
+                    "title": "真正的成熟是怎样的？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2068",
+                    "title": "举着骨头当火把"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

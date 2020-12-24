@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5560",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-15 06:00:00",
+        "content_list": [
+            {
+                "id": "20715",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2879",
+                "title": "摄影",
+                "forward": "城市就是这样，从来熙熙攘攘，皆是颠沛流离。而我们，向来随波逐流，却也不能任人宰割。",
+                "img_url": "http://image.wufazhuce.com/FkM4QJxMrcwzWLKsqQM_5VuXzfMG",
+                "like_count": 15335,
+                "post_date": "2020-07-15 06:00:00",
+                "last_update_date": "2020-07-08 11:45:30",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2839",
+                "pic_info": "Jack Finnigan",
+                "words_info": "吴沚默《维多利亚的派对》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2879",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2879",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2879",
+                    "image": "http://image.wufazhuce.com/FkM4QJxMrcwzWLKsqQM_5VuXzfMG",
+                    "title": "VOL.2839",
+                    "content": "城市就是这样，从来熙熙攘攘，皆是颠沛流离。而我们，向来随波逐流，却也不能任人宰割。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2879?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2879?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 城市就是这样，从来熙熙攘攘，皆是颠沛流离。而我们，向来随波逐流，却也不能任人宰割。——吴沚默《维多利亚的派对》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2879?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2879?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20755",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4385",
+                "title": "人生的暂停键",
+                "forward": "一个人有一个人的孤独，两个人比一个人更孤独。一个人的孤独是可以被看见的孤独，两个人的孤独是隐藏起来的孤独。",
+                "img_url": "http://image.wufazhuce.com/FhhqbNyt9_ZjVKPIkBLU8U34SVcY",
+                "like_count": 3026,
+                "post_date": "2020-07-15 06:00:00",
+                "last_update_date": "2020-07-15 12:32:57",
+                "author": {
+                    "user_id": "4813757",
+                    "user_name": "苏更生",
+                    "desc": "「一个」App常驻作家，微信公众号：ishikuaiqian",
+                    "wb_name": "@假苏更生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "「一个」App常驻作家。",
+                    "fans_total": "97549",
+                    "web_url": "http://image.wufazhuce.com/Fg_e6teZsb3lZ1QStYtdnAkh6bO8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4385",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4385",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4385",
+                    "image": "http://image.wufazhuce.com/FhhqbNyt9_ZjVKPIkBLU8U34SVcY",
+                    "title": "人生的暂停键 作者/苏更生",
+                    "content": "孤独的那个瞬间，就是我们人生的暂停键。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 人生的暂停键",
+                        "desc": "文/苏更生 孤独的那个瞬间，就是我们人生的暂停键。",
+                        "link": "http://m.wufazhuce.com/article/4385?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 人生的暂停键",
+                        "desc": "文/苏更生 孤独的那个瞬间，就是我们人生的暂停键。",
+                        "link": "http://m.wufazhuce.com/article/4385?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 人生的暂停键》 文/苏更生： 孤独的那个瞬间，就是我们人生的暂停键。 阅读全文：http://m.wufazhuce.com/article/4385?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4385?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "人生的暂停键",
+                        "desc": "孤独的那个瞬间，就是我们人生的暂停键。",
+                        "link": "http://m.wufazhuce.com/article/4385?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20673",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1234",
+                "title": "维多利亚的派对·第十二章：围村之忆",
+                "forward": "丝缎与羊绒，就是天国吧？",
+                "img_url": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                "like_count": 681,
+                "post_date": "2020-07-15 06:00:00",
+                "last_update_date": "2020-07-14 19:02:18",
+                "author": {
+                    "user_id": "9618188",
+                    "user_name": "吴沚默",
+                    "desc": "编剧，TVB演员。",
+                    "wb_name": "@吳沚默momo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，TVB演员。",
+                    "fans_total": "4493",
+                    "web_url": "http://image.wufazhuce.com/Fo5OsUHwTVzmosA0MtZMBJV9tOWs"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第12章",
+                "number": "12",
+                "serial_id": "86",
+                "serial_list": [
+                    "1215",
+                    "1217",
+                    "1218",
+                    "1219",
+                    "1220",
+                    "1225",
+                    "1226",
+                    "1227",
+                    "1228",
+                    "1232",
+                    "1233",
+                    "1234",
+                    "1235",
+                    "1236",
+                    "1237",
+                    "1238",
+                    "1239",
+                    "1260",
+                    "1261",
+                    "1262",
+                    "1263",
+                    "1264",
+                    "1265",
+                    "1266",
+                    "1267",
+                    "1268",
+                    "1269"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1234",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1234",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1234",
+                    "image": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                    "title": "维多利亚的派对·第十二章：围村之忆 作者/吴沚默",
+                    "content": "丝缎与羊绒，就是天国吧？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 维多利亚的派对·第十二章：围村之忆",
+                        "desc": "文/吴沚默 丝缎与羊绒，就是天国吧？",
+                        "link": "http://m.wufazhuce.com/serial/1234?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 维多利亚的派对·第十二章：围村之忆",
+                        "desc": "文/吴沚默 丝缎与羊绒，就是天国吧？",
+                        "link": "http://m.wufazhuce.com/serial/1234?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 维多利亚的派对·第十二章：围村之忆》 文/吴沚默： 丝缎与羊绒，就是天国吧？ 阅读全文：http://m.wufazhuce.com/serial/1234?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1234?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "维多利亚的派对·第十二章：围村之忆",
+                        "desc": "丝缎与羊绒，就是天国吧？",
+                        "link": "http://m.wufazhuce.com/serial/1234?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20745",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2911",
+                "title": "什么样的习惯会影响终生？",
+                "forward": "人欲望一多，就容易心思混乱，贪字得个贫。",
+                "img_url": "http://image.wufazhuce.com/FitLQVX9rZemOzU7wIFypHfweLY4",
+                "like_count": 4160,
+                "post_date": "2020-07-15 06:00:00",
+                "last_update_date": "2020-07-14 13:10:33",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "机器猫的少女梦",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2911",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2911",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2911",
+                    "image": "http://image.wufazhuce.com/FitLQVX9rZemOzU7wIFypHfweLY4",
+                    "title": "什么样的习惯会影响终生？",
+                    "content": "什么样的习惯会影响终生？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 什么样的习惯会影响终生？",
+                        "desc": "文/缪斯谭 我们都是被习惯照亮的夜行人。",
+                        "link": "http://m.wufazhuce.com/question/2911?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 什么样的习惯会影响终生？",
+                        "desc": "文/缪斯谭 我们都是被习惯照亮的夜行人。",
+                        "link": "http://m.wufazhuce.com/question/2911?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 什么样的习惯会影响终生？》 文/缪斯谭： 我们都是被习惯照亮的夜行人。 阅读全文：http://m.wufazhuce.com/question/2911?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2911?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "什么样的习惯会影响终生？",
+                        "desc": "我们都是被习惯照亮的夜行人。",
+                        "link": "http://m.wufazhuce.com/question/2911?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "20737",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3292",
+                "title": "醉眼看人间，只你最温柔",
+                "forward": "“我只是觉得，我们好像错过了什么。其实，当初我对你也是有好感的。”",
+                "img_url": "http://image.wufazhuce.com/Fr8HjmM20D00lnNTocRUQHqQ91mh",
+                "like_count": 2004,
+                "post_date": "2020-07-15 06:00:00",
+                "last_update_date": "2020-07-13 12:53:35",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/ls-3Pb4mEuqCcDYj_3Sbn4Hbe2Qy",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "夏日假想",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3292",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3292",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3292",
+                    "image": "http://image.wufazhuce.com/Fr8HjmM20D00lnNTocRUQHqQ91mh",
+                    "title": "「一个」音乐: 鹿西兮 夏日假想",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.每周固定的娱乐项目是去&ldquo;夏日假想&rdquo;酒吧小坐片刻，有时约着朋友一起，有时一个人点杯清酒坐到很晚，迷迷糊糊晃晃悠悠回家，困了倒头就睡，没有睡意就随意打开一部老电影重温。上周约了温落一起去，我告诉她，前不久在四号地铁线上遇见了张子初。他西装革履，手里握着一捧荞麦花，戴着耳机沉思。出站时，他看见了我，点点头，一言不发转身离开。我没想到，原来去掉了聊天软件，我们已经形同陌路。&ldquo;姜之南，我觉得你俩缘分未尽。&rdquo;温落用她炙热的目光盯着我。我捏起酒中的冰块含住，牙齿酸痛，眯起眼睛看杯中液体微微摇晃，身后的歌手低着头，开始唱卫彬月的歌。缘分未尽，这也蛮好。&ldquo;你还记不记得我送过他荞麦花。&rdquo;我这样问着的时候，温落正跟邻座的男生聊得火热。我打开手机，已经十二点多了，电量告急，天气预报提醒，此刻外面正降大雨。&ldquo;终究未成恋人。&rdquo;我自言自语。还记得，16年冬季的一天傍晚，我按响了张子初家的门铃，把他拉到码头。我们坐在海边高台上，吹冷风，看夕阳。我从书包里掏出一大把荞麦花塞到张子初手里，他问我这是什么。他迷离的眼神，低垂的睫毛，握着荞麦花的左手指骨清晰，他精致的容颜陷落进厚厚的围巾里，他温柔的声音回响在我的脑中，侵蚀我的自信与骄傲。从那一刻开始，我彻底被自卑情绪包裹。&nbsp;想同他讲话，想告诉他我最近喜欢的歌曲，追的电视剧，喜欢的偶像，想陪他看夜晚的霓虹，雨后的云彩，傍晚的树影，清晨的迷雾。想抱一下他的身体，想吻一吻他的脸颊，想给他写一百封情书，想理顺他的乱发......可我一句话都说不出来。那些准备了好多天的告白情话，那些精心安排的措辞，那些好不容易积攒的勇气，控制着不停颤抖的手，眼神无处安放，全然在他那一句&ldquo;这是什么&rdquo;中灰飞烟灭。我第一次意识到，爱会让人自卑。我可以在一个人的任何时刻，随时陷入爱意弥漫的森林，随意飘荡，做着少女的美梦。但当他真真切切站在我面前的时候，我一言不发却已溃不成军。他似乎察觉到我的困窘，又一次问我，&ldquo;这是什么花，挺好看的。&rdquo;&ldquo;荞麦花。&rdquo;&ldquo;最近的韩剧《鬼怪》里面女主人公也收到了荞麦花。&rdquo;他浅浅笑着看向远方，我看向他的侧脸。&ldquo;原来你也有看。&rdquo;&ldquo;没有，听别人说的。&rdquo;&nbsp;2.温落还不愿回家，我一个人离开酒吧。没有伞，跑着到附近的公交站躲雨。最近小雨不断，雨丝缠绵，空气潮湿，气温降低，但依旧残留丝丝闷热。我不禁想起前男友林浩，跟我一样，是喜欢自由，不愿被束缚的水瓶座。他比我大五岁，喜欢雨天，喜欢昏暗的光线，狭窄的空间。他总在下雨的日子里来到我身边，身体靠近身体，潮湿加上潮湿。我明白，林浩跟张子初是完全不同的两种人。林浩不喜欢长久与安稳，只贪图新鲜感，张子初却必须有稳定的基础给他撑腰时，才能果断做决定。而我喜欢的，从始至终都是张子初。我选择的，却不是真心，是一种说不清道不明的钝感与自在。在林浩面前，我无需小心翼翼装作某人喜欢的样子，因为我不爱他，所以不用在乎他会如何看我。但在子初面前，这些只会成为越来越重的包袱，压垮我的期望与欢喜。为了逃离让我不自觉自卑的张子初，我选择了去南方上学与生活。每年夏天，在长久连绵的雨季到来之前，子初还是会发来消息询问我是否适应南方的生活。我讨厌他这种装腔作势的关心，又忍不了彻底离开他的虚无孤寂。年少的我用了最笨拙的方式，选择用新欢，来忘掉不曾说出口的旧爱。只我一人知晓的旧爱。在新欢到来之后，在长久的磨合与搁置之后，依旧没有彻底离去。他是刻在你心上的意中人，他是留在你青春岁月的印记，此生再也无法抹去。除非，你选择将那一整段岁月抛弃，好的，坏的，都丢掉。所以，最终失去一切的，还是只有你一个人。&nbsp;3.在四年前尝试告白失败的那个冬季过后，我开始迎来了新的生活方式。减肥，变好看，成为了生活的第一要事。半年的努力，终于在那个盛夏来临的清晨初见成效。我穿上从未尝试过的白色亚麻长裙，捋顺留长的头发，跟张子初一起坐在了4路公交车的最后一排。他分享一个耳机给我，里面放着五月天的《温柔》。跟上次一样，我依旧不知道该说些什么，只好听着音乐望着窗外发呆。公交车走走停停，我仔细察觉他的呼吸与动作，心跳随着他的举动飘忽不定。那天上数学课的时候，温落给我传来纸条，上面写着：张子初下周生日。那个时候五月天北京演唱会刚刚开始售票，我把攒了许久的零花钱全部用来买了一张演唱会的票，想作为生日礼物送给他。但之后好几次，在一起搭乘的公交车上，在一起走过的校园操场，在周末一群朋友相约去看海的时候，无数个瞬间，我都用颤抖的手在口袋里握紧着那张票，话到嘴边却说不出口。最后，我把那张票悄悄塞进了他的桌洞里。我的勇气，只能支撑我去按响他家的门铃。剩下的，没力量去做了。起初，我以为，是因为我不够好看，不够优秀，才没有底气面对他。后来，我变得好看，变得优秀，依旧没有底气面对他。&nbsp;深夜随意翻开答案之书，得到的答案是，自有命运安排。于是年少的我开始等待，等待命运之手把我推到他的面前，让他爱上我。但我等到的，是另一种命运。&nbsp;4.高考结束后，我们各奔南北，彼此相距几千公里。那藏在心里未曾说出的话，那送出去再没消息的花，跟我那一段无疾而终的暗恋，跟那差一点就说出口的告白，都消散在不成熟的风中。我极少主动与子初联系，但他却时不时给我发来消息，聊一些不痛不痒的话题。深夜再困，只要是他发来的消息，我一定秒回。但每当我以为关系足够更进一步的时候，他又会不知名的突然冷淡下来，抽身离开。等过段时间，等我不再对他抱有幻想的时候，他又会毫无预兆地回来。我怀疑他只想玩忽暧昧，也无数次劝诫自己与他断绝这种近似畸形的关系。但每每他重新发来消息，一副无事发生的样子，那些想要离开他的想法也一一破裂。大约这样的日子过了一年，张子初在朋友圈公开了他的女友。可可爱爱的女生，软弱甜腻，隔屏可窥，我甘拜下风。那段时间，尝试喝酒助眠，时常上网与陌生人聊天，于是认识了林浩。他名牌大学毕业，懂摄影，给多家平台写稿，有才华，有想法，这些所谓属于一个成熟男人的内涵与魅力吸引了我。于是网友奔现，于是彻夜聊天，于是草率急促地开始一段热恋。在这期间，子初依旧偶尔发来消息，询问我过得如何。我也没有告诉过他，我交了男朋友，反而在他面前装作一副依旧单身的样子，冥冥中期待着什么。半年后，林浩突然开始申请去国外读书，而我也准备考研。我们经常吵架，在一个双方醉酒的夜晚，狼狈不堪地辱骂对方，最终分手。这段不曾涉及真心的感情，没让我忘记子初，却给我留下了一段糟糕的回忆。 可没有办法，我们总是在不懂爱的年龄爱上别人，又在爱上别人之后懂得了爱。&nbsp;5.&ldquo;我们能见一面吗？&rdquo;手机屏幕亮度极低，上面显示消息人的名字，张子初。这个已经消失在我的手机屏幕上许久的名字，这个我知道还躺在好友列表里但没有勇气打开聊天框的名字，就这样再次出现在我的视线中，猝不及防。&ldquo;有什么事吗？我最近不太有时间。&rdquo;&ldquo;那天见到你之后，突然间想起很多以前的事，想起你送我的荞麦花，想起夏天我们一起去过的海边。&rdquo;&ldquo;所以你是想拉我回忆青春吗？&rdquo;&ldquo;我只是觉得，我们好像错过了什么。其实，当初我对你也是有好感的。&rdquo;雨停了。我盯着屏幕上这一行字，突然间笑了出来。&ldquo;好感&rdquo;这个模糊的字眼，这飘忽不定，讲不清道不明的好感，随我坠入这夏日假想，像青春期时候的日记一样荒唐。以前，我们在夏夜的操场上吃冰棍，看月亮高悬的时候，我试探着问他，我们会去同一所大学吗？他答，之南，我们不应该把前途与感情混在一起。那时候我以为，他注定会成为我跌跌撞撞的青春里最大的遗憾。他又发来一条消息：还记得以前，听说你喜欢《鬼怪》，也跟着看了好多遍。还有你送的荞麦花，做成了标本一直珍藏着，还有一起坐过的4路公交车，那天用手机偷偷拍了你的背影。后来我们分隔好远，我就想着时不时找你聊天，又怕你会烦。说这么多只是想问，我们能重新来过吗？内心被猛地撞了一下。过去这场独角戏，持续多年上演，自己是导演，编剧，演员，而他只是一个配合演出的固定角色。这场戏的剧情也足够简单。你本是路边洁白花树，我背着渴望占有的包袱途经，又自惭形秽地离开。多年后，我卸下满身重负轻装上阵，你也摇曳一树花瓣挽留。于是我终于驻足，于是你终于将我拢于树下。于是我们，在这个夏天重逢，正式相爱。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 醉眼看人间，只你最温柔",
+                        "desc": "文/鹿西兮 终于把梦里的你等来了，我很满意。",
+                        "link": "http://m.wufazhuce.com/music/3292?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 醉眼看人间，只你最温柔",
+                        "desc": "文/鹿西兮 终于把梦里的你等来了，我很满意。",
+                        "link": "http://m.wufazhuce.com/music/3292?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 醉眼看人间，只你最温柔》 文/鹿西兮： 终于把梦里的你等来了，我很满意。 阅读全文：http://m.wufazhuce.com/music/3292?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3292?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "醉眼看人间，只你最温柔",
+                        "desc": "终于把梦里的你等来了，我很满意。",
+                        "link": "http://m.wufazhuce.com/music/3292?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "夏日假想",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "卫彬月",
+                "audio_album": "夏日假想",
+                "cover": "http://image.wufazhuce.com/Fsrtq0syCc44YVcgub1pKxLmN3kC",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2839",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4385",
+                    "title": "人生的暂停键"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1234",
+                    "serial_list": [
+                        "1215",
+                        "1217",
+                        "1218",
+                        "1219",
+                        "1220",
+                        "1225",
+                        "1226",
+                        "1227",
+                        "1228",
+                        "1232",
+                        "1233",
+                        "1234",
+                        "1235",
+                        "1236",
+                        "1237",
+                        "1238",
+                        "1239",
+                        "1260",
+                        "1261",
+                        "1262",
+                        "1263",
+                        "1264",
+                        "1265",
+                        "1266",
+                        "1267",
+                        "1268",
+                        "1269"
+                    ],
+                    "title": "维多利亚的派对·第十二章：围村之忆"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2911",
+                    "title": "什么样的习惯会影响终生？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3292",
+                    "title": "醉眼看人间，只你最温柔"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

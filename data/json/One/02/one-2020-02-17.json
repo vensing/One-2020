@@ -1,0 +1,538 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5410",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-17 06:00:00",
+        "content_list": [
+            {
+                "id": "19813",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2730",
+                "title": "摄影",
+                "forward": "我觉得，我爱这一切，也许这是因为我没有别的东西可爱，或者，即使世上没有什么真的值得任何心灵所爱，而多愁善感的我却必须爱有所及。",
+                "img_url": "http://image.wufazhuce.com/Fm5JkjDAYvdE5ZB5wP36TcXdG03i",
+                "like_count": 15916,
+                "post_date": "2020-02-17 06:00:00",
+                "last_update_date": "2020-02-15 18:28:37",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2690",
+                "pic_info": "Martin Edholm",
+                "words_info": "费尔南多·佩索阿《不安之书》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2730",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2730",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2730",
+                    "image": "http://image.wufazhuce.com/Fm5JkjDAYvdE5ZB5wP36TcXdG03i",
+                    "title": "VOL.2690",
+                    "content": "我觉得，我爱这一切，也许这是因为我没有别的东西可爱，或者，即使世上没有什么真的值得任何心灵所爱，而多愁善感的我却必须爱有所及。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2730?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2730?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我觉得，我爱这一切，也许这是因为我没有别的东西可爱，或者，即使世上没有什么真的值得任何心灵所爱，而多愁善感的我却必须爱有所及。——费尔南多·佩索阿《不安之书》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2730?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2730?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19811",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4203",
+                "title": "这个春节，我们没放假",
+                "forward": "等疫情结束后，我想睡个懒觉，我想回家，我还想喝一碗我妈炖的土鸡汤。",
+                "img_url": "http://image.wufazhuce.com/FgLtIzXrSqtQuN4mLTtpHQmkns8P",
+                "like_count": 3036,
+                "post_date": "2020-02-17 06:00:00",
+                "last_update_date": "2020-02-16 21:09:33",
+                "author": {
+                    "user_id": "11050495",
+                    "user_name": "未绪",
+                    "desc": "一时的心血来潮和莫名其妙的放弃。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "多喜乐，长安宁。",
+                    "fans_total": "83",
+                    "web_url": "http://image.wufazhuce.com/FlapLIMry30tMYfFfg-6y24b3TcZ"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4203",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4203",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4203",
+                    "image": "http://image.wufazhuce.com/FgLtIzXrSqtQuN4mLTtpHQmkns8P",
+                    "title": "这个春节，我们没放假 作者/未绪",
+                    "content": "等疫情结束后，我想睡个懒觉，我想回家，我还想喝一碗我妈炖的土鸡汤。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 这个春节，我们没放假",
+                        "desc": "文/未绪 等疫情结束后，我想睡个懒觉，我想回家，我还想喝一碗我妈炖的土鸡汤。",
+                        "link": "http://m.wufazhuce.com/article/4203?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 这个春节，我们没放假",
+                        "desc": "文/未绪 等疫情结束后，我想睡个懒觉，我想回家，我还想喝一碗我妈炖的土鸡汤。",
+                        "link": "http://m.wufazhuce.com/article/4203?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 这个春节，我们没放假》 文/未绪： 等疫情结束后，我想睡个懒觉，我想回家，我还想喝一碗我妈炖的土鸡汤。 阅读全文：http://m.wufazhuce.com/article/4203?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4203?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "这个春节，我们没放假",
+                        "desc": "等疫情结束后，我想睡个懒觉，我想回家，我还想喝一碗我妈炖的土鸡汤。",
+                        "link": "http://m.wufazhuce.com/article/4203?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19806",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1106",
+                "title": "两次破碎·第十一章：旧案猫腻",
+                "forward": "这线索像马蜂，狠狠蛰了他一口，让他脑子发懵，又麻又胀。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 777,
+                "post_date": "2020-02-17 06:00:00",
+                "last_update_date": "2020-04-07 16:09:06",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第11章",
+                "number": "11",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1106",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1106",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1106",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第十一章：旧案猫腻 作者/连筑",
+                    "content": "这线索像马蜂，狠狠蛰了他一口，让他脑子发懵，又麻又胀。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第十一章：旧案猫腻",
+                        "desc": "文/连筑 这线索像马蜂，狠狠蛰了他一口，让他脑子发懵，又麻又胀。",
+                        "link": "http://m.wufazhuce.com/serial/1106?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第十一章：旧案猫腻",
+                        "desc": "文/连筑 这线索像马蜂，狠狠蛰了他一口，让他脑子发懵，又麻又胀。",
+                        "link": "http://m.wufazhuce.com/serial/1106?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第十一章：旧案猫腻》 文/连筑： 这线索像马蜂，狠狠蛰了他一口，让他脑子发懵，又麻又胀。 阅读全文：http://m.wufazhuce.com/serial/1106?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1106?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第十一章：旧案猫腻",
+                        "desc": "这线索像马蜂，狠狠蛰了他一口，让他脑子发懵，又麻又胀。",
+                        "link": "http://m.wufazhuce.com/serial/1106?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19812",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2759",
+                "title": "为什么要和不喜欢的人相处？",
+                "forward": "“对于每个人来说，他人都是一面镜子。”",
+                "img_url": "http://image.wufazhuce.com/Fqmots-7IJvfxvou0p4o4P9WvyWC",
+                "like_count": 3345,
+                "post_date": "2020-02-17 06:00:00",
+                "last_update_date": "2020-02-16 19:56:32",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "疾风贱豪",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2759",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2759",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2759",
+                    "image": "http://image.wufazhuce.com/Fqmots-7IJvfxvou0p4o4P9WvyWC",
+                    "title": "为什么要和不喜欢的人相处？",
+                    "content": "为什么要和不喜欢的人相处？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 为什么要和不喜欢的人相处？",
+                        "desc": "文/小林 “对于每个人来说，他人都是一面镜子。”",
+                        "link": "http://m.wufazhuce.com/question/2759?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 为什么要和不喜欢的人相处？",
+                        "desc": "文/小林 “对于每个人来说，他人都是一面镜子。”",
+                        "link": "http://m.wufazhuce.com/question/2759?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 为什么要和不喜欢的人相处？》 文/小林： “对于每个人来说，他人都是一面镜子。” 阅读全文：http://m.wufazhuce.com/question/2759?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2759?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "为什么要和不喜欢的人相处？",
+                        "desc": "“对于每个人来说，他人都是一面镜子。”",
+                        "link": "http://m.wufazhuce.com/question/2759?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10026268",
+                    "user_name": "小林",
+                    "desc": "青年作者",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者",
+                    "fans_total": "647",
+                    "web_url": "http://image.wufazhuce.com/FrKfcj81kP1QtJ-mtDtbBltgGlcc"
+                }
+            },
+            {
+                "id": "19756",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3204",
+                "title": "分手是我先提的，但不是我不爱了",
+                "forward": "无论何时你感到些许自在，想让这段感情恢复成从前的模样，我都可以张开拥抱等你回来。我爱你，爱你的一切好与不好，与此同时也包容你的所有。",
+                "img_url": "http://image.wufazhuce.com/FiLm6k_-LKE1Q5bu9c2cJvh1Jcz_",
+                "like_count": 2294,
+                "post_date": "2020-02-17 06:00:00",
+                "last_update_date": "2020-02-16 22:13:36",
+                "author": {
+                    "user_id": "10268072",
+                    "user_name": "梁佑",
+                    "desc": "公众号：苍蝇与马",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：苍蝇与马",
+                    "fans_total": "2837",
+                    "web_url": "http://image.wufazhuce.com/FtbNqxCso2jiboHhODfmTn0I_CMn"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/ltmfyYRI2yb9DRavTHt3AGdM_LY5",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "c1",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3204",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3204",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3204",
+                    "image": "http://image.wufazhuce.com/FiLm6k_-LKE1Q5bu9c2cJvh1Jcz_",
+                    "title": "「一个」音乐: 梁佑 c1",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.她时常觉得人生如梦，好像总是活在幻觉里，这并不是和薛冰在一起后才有的感受。他们快要在一起的那一年，她用半个月的时间，去了很多地方，上海，苏州，乌镇，后来辗转到西安，准备回家。在西安的街头，冷风飕飕，她穿着一件穿了三年的黑色呢子大衣，大一时买的。过了三个冬天，衣服开始一直起球，她买了除球器。嗡嗡嗡地声音在衣服上回旋，细小的电流钻进她的手臂。&nbsp;她舍不得扔掉。在西安时，她去酒吧听歌，和好多陌生人围在一张桌子前，燃烧过的红色蜡烛堆积得像一座小山丘。她看到灯光映衬下的一张张脸庞，平静地，低着头地，仰头试图让眼泪倒流地。原来有这么多人，有难过的事吗？她想。也不知从何时开始，在地铁公交上，观察陌生人时，她总是去猜想他们生命里最悲哀的部分。世界开始在她眼里变成一个巨大陷阱。每个人都深陷其中，难以脱逃。坐火车回家，火车经过秦岭山脉时，她恍然明白，她一直在寻找的，不过是一个人的心，不过是可以让她回头时就能看到的人。2.她和薛冰，对这个世界都有着强烈的疏离感，好像这个世界上，那些热热闹闹的人，那些山水，橱窗里的物品，乃至身边的人，都离自己很远，即使大家坐得很近。心的距离，依然隔着山川湖海。那时她想，人是由来自宇宙的原子组成的，那么，既然她和薛冰之间有着难以抵抗的吸引力，是不是可以说在遥远的星系，在浩瀚的星辰里，他们曾是靠在一起的微小原子。或许他们之间，有着更加深远持久的联系。是在另一个安静的空间里，而不是在纷繁复杂的人间。遇到薛冰，就像是遇到了另一个自己。两个人心意相通，在一起，也就是一瞬间的事。那年春节结束后，薛冰要回学校，离开那天她说，你留下来吧。他说，你跟我走吧。就这样，不存在谁表白谁，像电影一样，像梦一样，他们在一起了。两个孤独的人，拥抱在一起取暖，消解掉人世间的一部分孤独。故事如果在这里就结尾，就会皆大欢喜。&nbsp;3.大学毕业时，他们已经在一起两年了。那两年异地的日子，并不难受。很多次薛冰来到她的城市。她在机场，在火车站，高铁站，都等待过他，也送走过他。他一遍遍地带着笑容迎面而来，她一次次地忍着泪水目送他的背影。过安检前，他又扭过头冲她挥手再见。她立马挤出一个笑容。后来，在回忆里，那些景象真实得像假的一样，她嗅到机场和火车站的味道，嗅到他身上的气味。记忆最深的一次是，她去高铁站送他，他们在外面的广场上聊天，那是夏日。他穿着灰色短袖，背着黄色书包。她穿着一件红色条纹衬衫，站在他面前。离进站时间越来越近，他说：&ldquo;你先打车吧，等你走了，我也就进去了。&rdquo;车停在广场边，他帮她拉开车门。闷热的夏日，她瞥见他额头上的汗珠。她坐进去的瞬间，薛冰突然特别用力地握住她的拳头。用力到手上的青筋都露了出来，她的手上也留下几道红色的手印，像伤疤。&nbsp;车门关闭，车辆太多。司机关上车窗，打开空调，慢悠悠地开着车。她扭过头，看到人行道上的他，随着那辆车的轨迹一直往前走，他看一眼路，看一眼车窗。从外面看不到里面，但从里面却能看到外面。她一直望着他，车慢慢变快，他也落后了，步伐慢了。回过头，她的眼眶已经湿润。那个眼神，那个场景，无论过多久，她都难以忘怀，或许她一生也忘不了，最好是这样。二十一岁那年，世界上最善良的男孩，深爱着她。她是个心细又敏感的人，很多人说她像南方人，也有很多人对她的第一印象是：画画的。而薛冰最开始对她的印象，是冷静与孤独。她收藏了他们所有的车票，旅游景点的门票。在将那些小东西装进蓝色盒子的时候，她的想法已经很遥远了。人是会忘记的，这是必然的事，等以后，我们会忘掉以前的很多事，很多快乐，可是我舍不得忘记，到那时，我们拿出这些东西来看，一起回忆往事。她手里捏着蓝色车票，想着未来的事。&nbsp;4.&nbsp;她想象了无数种他们可能会过的生活，就是没有想到，他们会分手。薛冰的心一直在下沉，失望，崩溃。她察觉得有点晚了。当他不停地做噩梦的时候，她终于有了很强烈地，不好的预感。他失望，失望人间不是所有的事，都能用爱情去和解。爱情也只是两个带着自身命运，弱点与欲望的人，为了在一起，为了长久，用力相爱，去克服种种困难。可是这世间有太多的事，是复杂到说不清楚的。他失望，失望他忘不掉充满伤害的童年，那些伤害在长大的日子里，变得更加深刻。在无数个夜晚，偷偷潜入他的梦里，无止境地折磨他。他崩溃，崩溃自己后来的家庭，崩溃四个完全不一样的人，要带着各自的痛苦，痛苦地生活在一起。这么多年，他尝试过无数次沟通，无一例外，每一次都以失败告终。母亲每次以养育他为由，将他所有的话打回到肚子里。养育变成了对他的恩赐，变成了他小心翼翼接受地馈赠。血缘这个东西，实在是很难讲清楚。在看似强韧不可摧的纽带背后，是否存在着一根紧绷的，随时会断掉的弦呢。她不知道自己该怎么做，只有陪伴与安慰。事情没有好转的迹象。薛冰在一个漩涡里越坠越深，他开始想要逃离一切。包括逃离她。分手是在一个夜晚，凌晨一点多，薛冰在对她说这些事。终于，她在对话框里打出了她曾经最恐惧的事，她说，我们分开你会好受吗。薛冰说，会，我不用再在乎你，也就不必再在乎任何人了。&nbsp;她望着手机屏幕发呆。一个朋友突然打来语音电话，说在唱歌，想让她听听。她接通电话，那边唱的是《关于郑州的记忆》。那歌声像是从很远的地方传来，从梦里，从曾经，从未来，从那个高铁站，从薛冰纯真善良的眼睛里。她和薛冰没有去过郑州，可是他们一起去过太多地方。她在心里默念：关于所有的地方，我想的全是你。他们还是相爱的，她知道，只是他积压了多年的痛苦，开始爆发。他们都没有强大到可以去抵抗这些伤痛。她提出建议，做好朋友，薛冰答应了。透过窗户，看不到月亮，或许外面压根就没有月亮。夜晚特别安静，安静到她舍不得哭。他们在一起三年多，那一刻她却告诉自己，她将永远和薛冰在内心深处独处，没有任何人可以找到，也没有任何人可以打扰。&nbsp;没有世界，只有他们。&nbsp;5.&nbsp;我们终究会再回到彼此身边，这不是疑问句，这是肯定句。这段感情只是你有些难过，需要时间和精力去调整，没关系，我可以等你的，时间我也有，这你不快乐的日子里，我都在你身后。无论何时你感到些许自在，想让这段感情恢复成从前的模样，我都可以张开拥抱等你回来。我爱你，爱你的一切好与不好，与此同时也包容你的所有。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 分手是我先提的，但不是我不爱了",
+                        "desc": "文/梁佑 我愿意做一切，让你快乐的事。",
+                        "link": "http://m.wufazhuce.com/music/3204?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 分手是我先提的，但不是我不爱了",
+                        "desc": "文/梁佑 我愿意做一切，让你快乐的事。",
+                        "link": "http://m.wufazhuce.com/music/3204?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 分手是我先提的，但不是我不爱了》 文/梁佑： 我愿意做一切，让你快乐的事。 阅读全文：http://m.wufazhuce.com/music/3204?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3204?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "分手是我先提的，但不是我不爱了",
+                        "desc": "我愿意做一切，让你快乐的事。",
+                        "link": "http://m.wufazhuce.com/music/3204?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "c1",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "ZZX",
+                "audio_album": "C",
+                "cover": "http://image.wufazhuce.com/FuGSoHQYhqtCct1x23XuuIRKlABX",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2690",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4203",
+                    "title": "这个春节，我们没放假",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1106",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第十一章：旧案猫腻"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2759",
+                    "title": "为什么要和不喜欢的人相处？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3204",
+                    "title": "分手是我先提的，但不是我不爱了"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

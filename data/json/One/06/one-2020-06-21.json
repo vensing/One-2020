@@ -1,0 +1,457 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5545",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-21 06:00:00",
+        "content_list": [
+            {
+                "id": "20579",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2856",
+                "title": "摄影",
+                "forward": "我本可以忍受黑暗，如果我不曾见过太阳。",
+                "img_url": "http://image.wufazhuce.com/FgJmqP_yPLaedpZy0dmo82Ez8ppT",
+                "like_count": 16844,
+                "post_date": "2020-06-21 06:00:00",
+                "last_update_date": "2020-06-18 16:25:13",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2815",
+                "pic_info": "Jude Beck",
+                "words_info": "艾米莉·狄金森",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2856",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2856",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2856",
+                    "image": "http://image.wufazhuce.com/FgJmqP_yPLaedpZy0dmo82Ez8ppT",
+                    "title": "VOL.2815",
+                    "content": "我本可以忍受黑暗，如果我不曾见过太阳。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2856?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2856?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我本可以忍受黑暗，如果我不曾见过太阳。——艾米莉·狄金森 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2856?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2856?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20575",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4356",
+                "title": "我爸八则",
+                "forward": "他当爹当得出色，我这边用户体验好，完全是因为别的原因......",
+                "img_url": "http://image.wufazhuce.com/Fnp2-QIquJ2rroXkjVv_bUd9wgsV",
+                "like_count": 1844,
+                "post_date": "2020-06-21 06:00:00",
+                "last_update_date": "2020-06-20 23:54:58",
+                "author": {
+                    "user_id": "11356942",
+                    "user_name": "故园风雨前",
+                    "desc": "70后。躯体借寓在20世纪末的老楼里，精神好像也沉迷于寂静狭小的一偏。世界变化那么急却不大理会它，作为活人有点儿失职。又绝不淡泊，物质非物质的惦记着太多。但所有欲望归纳下来，无非爱草木，恨流年。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "媒体人，70后。",
+                    "fans_total": "250",
+                    "web_url": "http://image.wufazhuce.com/FvPueqyhKNiOpPyNRQrKest-E3XM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4356",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4356",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4356",
+                    "image": "http://image.wufazhuce.com/Fnp2-QIquJ2rroXkjVv_bUd9wgsV",
+                    "title": "我爸八则 作者/故园风雨前",
+                    "content": "我爸，一个平平无奇的单口相声演员。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 我爸八则",
+                        "desc": "文/故园风雨前 我爸，一个平平无奇的单口相声演员。",
+                        "link": "http://m.wufazhuce.com/article/4356?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 我爸八则",
+                        "desc": "文/故园风雨前 我爸，一个平平无奇的单口相声演员。",
+                        "link": "http://m.wufazhuce.com/article/4356?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 我爸八则》 文/故园风雨前： 我爸，一个平平无奇的单口相声演员。 阅读全文：http://m.wufazhuce.com/article/4356?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4356?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我爸八则",
+                        "desc": "我爸，一个平平无奇的单口相声演员。",
+                        "link": "http://m.wufazhuce.com/article/4356?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20585",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2887",
+                "title": "多次恋爱让你明白了什么道理？",
+                "forward": "真正想离开的人，都是悄无声息地离开，从此江湖再见，各自安好。",
+                "img_url": "http://image.wufazhuce.com/FiOKbplXDAlnX5l1W4DU8q-6WA4r",
+                "like_count": 4607,
+                "post_date": "2020-06-21 06:00:00",
+                "last_update_date": "2020-06-20 21:50:17",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "看脚下",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2887",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2887",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2887",
+                    "image": "http://image.wufazhuce.com/FiOKbplXDAlnX5l1W4DU8q-6WA4r",
+                    "title": "多次恋爱让你明白了什么道理？",
+                    "content": "多次恋爱让你明白了什么道理？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 多次恋爱让你明白了什么道理？",
+                        "desc": "文/缪斯谭 好好说话远比海誓山盟来得重要。",
+                        "link": "http://m.wufazhuce.com/question/2887?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 多次恋爱让你明白了什么道理？",
+                        "desc": "文/缪斯谭 好好说话远比海誓山盟来得重要。",
+                        "link": "http://m.wufazhuce.com/question/2887?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 多次恋爱让你明白了什么道理？》 文/缪斯谭： 好好说话远比海誓山盟来得重要。 阅读全文：http://m.wufazhuce.com/question/2887?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2887?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "多次恋爱让你明白了什么道理？",
+                        "desc": "好好说话远比海誓山盟来得重要。",
+                        "link": "http://m.wufazhuce.com/question/2887?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "20586",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3282",
+                "title": "我是你的航线，你是我的航海家",
+                "forward": "或许你不是最厉害的英雄，却是最好的爸爸。",
+                "img_url": "http://image.wufazhuce.com/FoFCPAfsHJFAVRLp-ww1RQHoBeSR",
+                "like_count": 1680,
+                "post_date": "2020-06-21 06:00:00",
+                "last_update_date": "2020-06-19 11:48:31",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "符雅凝等四位",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lkJVbfcPnAGo_frt60sYBorbdu0-",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "航海家的女儿[Acoustic Version]",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3282",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3282",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3282",
+                    "image": "http://image.wufazhuce.com/FoFCPAfsHJFAVRLp-ww1RQHoBeSR",
+                    "title": "「一个」音乐: 符雅凝、Ailia、梁佑、柒斐 航海家的女儿[Acoustic Version]",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  爸爸总是沉默的象征，不喜欢表达爱意，不喜欢告诉你他的付出。爸爸总是神秘的，你看不透，看不破，很多时候，甚至懂不了。但爸爸不是不爱，不在乎，也没有多难懂，他只是爱的有点笨拙，有点粗糙。爸爸的爱，更多在细节里，在行动上，需要你慢慢察觉。你不一定听过爸爸说爱你，但他表达过的爱，总是那么难忘。像一位航海家，历尽千帆，遇过惊涛骇浪，最后只为你默默护航。在父亲节这样一个特殊的日子，&ldquo;青春有你2&rdquo;的实力偶像符雅凝将她对父亲的深情都放在了她的首支个人单曲《航海家的女儿》里。ONE&middot;一个音乐栏目独家首发《航海家的女儿》不插电版本，我们也特别邀请到了歌曲制作人Ailia以及歌手符雅凝一起分享自己的故事，听着这首歌的你，又有什么样特别的故事呢？航海家的女儿文|Ailia（《航海家的女儿》制作人）很久很久以前，有个航海家，他说他是孤独的，常年在海上漫无边际的飘荡，从海洋到陆地的距离，隔了一个迷茫的青春。直到他第一个孩子出生，这位航海家从太平洋凯旋回来，结束了远航的路线。赤道融掉雪花，天边举起暖阳，他抱着刚出生的女儿，向世界宣布他的新航线，从此放下事业，专心陪伴家庭。这位航海家后来才发现，自己也是第一次做家长，从毫无经验的准爸爸变成了某个小生命的人生导师，他也在学习的过程，一点点摸索如何成为更好的父亲。从照顾生活起居开始。每天早上6点起来做早餐，365天不重样，原来掌舵的船长也可以掌勺，只要女儿在外面吃到任何一道好吃的菜，第二天他都会在家里的饭桌上呈现同样的味道。如此热爱新鲜感的他，在女儿出生后，不再周游列国看世界。他说要守在女儿身边，给她一个风平浪静的生活。那一年孩子紧急要去国外大学面试，航海家放下手头所有的工作，牵起女儿的手陪她奔赴战场。十二月的寒风，临近圣诞假，商铺休假，三点天就黑了。为了给发烧的女儿买药，他决定出门闯闯。航海家说：&ldquo;三十年前，我是航海家，闯荡世界也不怕弄丢自己，现在爹要为你护航，掌的是家里的舵，乘着你成长路线必不可少的风浪。&rdquo;永远不会忘记那个冬天，&ldquo;航海家&rdquo;的背影带来的安全感和温暖。我就是那位航海家的女儿。&nbsp;而我的航海家，永远都在为我守驾护航。&nbsp;父亲的自由与孤独文|梁佑很久以后，当我回想起以前的家庭生活，想到我童年，少年，乃至现在的父亲，他总是以一副沉默，孤独，有着自我宇宙的模样出现。人世间所有的关系，都应该是为了彼此更好地实现自身的独立和圆满。我想在我和父亲的相处过程中，我们都在朝这个方向发展。小学三年级，老师在父亲面前夸奖我作文写得好，记忆很深，那天回到家，他很开心。只是令我惊奇地是，这么多年过去了，他一直在鼓励我写作，告诉我要坚持自己热爱的事。有一年回到家，我们两个聊天，他说，你知道吗，其实生活挺无趣的，但如果你有了自己热爱的事，生活就会好一点。也是那时候，我开始后知后觉地发现，原来我和父亲如此相像，喜欢发呆，悲观，充满理想主义，都喜欢待在自己的理想国里，不愿意出去。父亲喜欢书法，养植物，童年时，我和哥哥经常站在他的书桌前，看他认真地写字，毛笔像是有魔法一样，那么柔软，美，有那么遒劲有力，好神奇。或许也正是因为他有自己热爱的事，所以才没有把所有的注意力都放在我和哥哥身上，这也给予我们很多自由生长的空间，我很感激。父亲曾说自己一生不得志，这句话令我思索很久。他沉默，独自思考的时候，我总觉得他很孤独。可是生活里，他又是一个乐观，幽默的人，他擅长把所有不好的事，用说笑话的方式带过，缓解大家的压力。关于生活的种种真相，都在长大后一一显露，开始明白父母的不易，恍惚间也明白了很多他们沉默的那些瞬间，可是父母年轻时的容颜，很多过去的往事，又在回忆里淡去，我多想用力记住所有温暖。人世间也真是残忍，当你学会珍惜以后，摆在你面前的却是一次又一次的离别，我们最终，要和所有的人告别，这漫长的一生，是一场无止境的告别。如今，每次要离开家的时候，父亲总是要送我，我拗不过便答应，他送我上车，我透过车窗，望着窗外的他，头发少了好多，眼角的皱纹也增多了。父亲笑着冲我挥手，我回过头，眼泪，怎么都忍不住。&nbsp;愿天下父女终成soulmate文|柒斐去年年底有一段时间，在机缘巧合之下我和爸爸有了独处的机会。在一座西南小城里，每日闲来上山喝茶，忙时也会餐后散步。某日的一个傍晚，我照常和我爸牵着手在楼下的小闹市散步，小城里有一些帮忙扛东西上楼的老汉儿，个个精瘦，身体前弓，脸上满是岁月的沟壑，脚上的布鞋也磨得不成样子。每每看到他们，我都会挎住爸爸的胳膊感慨人生对我们的宽宏。街边买完糍粑后，我爸拿给我吃，一边用竹签戳起一粒糍粑，一边对我说：&ldquo;我有个事情想跟你商量一下。&rdquo;我接过竹签，点点头，要他继续说下去。他看了看我，片刻才道：&ldquo;我想我走了以后，把眼角膜捐出去，你同意吗？&rdquo;我停下来手上戳糍粑的动作，抬头看了看他，没想太久便回答说：&ldquo;同意啊。这样真好，我没想到过你愿意这种好事。&rdquo;爸爸本来紧绷的眉头在一瞬间舒缓，不一会儿，咧开嘴笑了起来，像个小孩似的。一边紧紧握住我的手，一边说：&ldquo;那你既然同意了，到时候要记得给我签捐赠同意书。还有，别告诉你妈妈。&rdquo;往后，这成了我们之间的一个小秘密，即便后来，我们还是统一口径告诉了妈妈，也得到了她的支持。但我和爸爸之间的小秘密其实很多，比如孩童时期多买一颗糖给我，比如妈妈不知道的情况下去吃顿烧烤，比如偷偷评论妈妈的身材发展趋势，比如在大马路上看哪个姑娘漂亮......生活一向琐碎而繁冗，想在其中拾起一些乐趣，似乎并不是一件很容易的事情。但我有了这样一个愿意分享情绪起伏，愿意把嫌弃换成反话说给我听，愿意宠溺却不纵容我的爸爸，着实是一件幸事，他让我轻易感受到一种交付，也让我更愿意主动承担该承担的责任。记得高三那年爸妈陪我去自主招生，因为学校建在一个山坡上，爸爸怕我上山坡太辛苦，于是在探路的夜晚，顶着四五十岁的高龄，硬是把我背到了校门口。一边背着我一边说：&ldquo;太久没背你了，还真是比小时候沉了不少。&rdquo;后来妈妈把这一幕拍了下来，回看的时候我才发现，这么多年没被他背了，现在的他，还真是比以前矮了不少。愿我的soulmate，有一天还能再次背起我，做个我的大力士。算了，我祈求得太多，还是只盼着他平安健康，这样就好。My King文|符雅凝（青春有你2实力偶像）爸爸这个词对我来说只能用&ldquo;国王&rdquo;来形容，他既是我的全世界，又是真正能保护我的唯一的男人，我和他有太多说不完的故事。我家的教育理念与其他人不太一样，从小我爸就主张平等教育，他说我们三个就是好朋友，好哥们儿，有什么事儿大家相互照应着，这么多年，他也是这么做的。我和他都是心很细的人，有时候一句话，一件事，我们俩眼神一对，就知道对方是什么意思，你明白那种骨子里的默契吗？是亲人，又胜似朋友，这么多年，他有两个身份。我们最喜欢做的一件事就是倾听对方，我都二十出头了，这件事还依然延续着，有时聊尽兴了会到深夜两三点。我们喜欢互相辩驳，试着用自己的道理和逻辑说服对方，我们都很享受这个过程，因为这是我们沟通的渠道。这些平常的对话中，是我们对彼此的尊重，这个不是可以掩饰出来的，那份尊重是他承诺给我的平等。有时吵架了，我知道他心重，在无法即时当面沟通的时候，我会写信给他，或者微信留言给他，第二天早上我会急切的打开手机，看他的回信。其实我们都深爱着对方，只不过他跟我一样，不善言辞，不会把爱挂在嘴边，却永远让我感到被爱包围着，他经常说：&ldquo;被人惦记是一件很幸福的事儿&rdquo;，小时候我还不懂这意思，直到现在我写下这句话已经热泪盈眶。过去我总是在逃避对他的爱，我不想表达得那么明显，不想让他知道其实我很需要他在身旁，但后来我发现，再坚强的人也要给回应，要让他知道他是被爱着的。不知什么时候，当他不在的时候，只要一提起爸爸这个词我心里都会涌起万分的悸动。不知是惦念，愧疚，还是心疼，我渐渐发现他在我生命里原来占了那么大的比重，逃避了这么多年的爱还是要面对的，现在我想说，我需要他，我爱他，他是我真正想守护的男人，我对他的爱不想只藏在心里，我想让他知道我还需要他。小时候我哮喘病，他一次次不辞辛苦把我从生死关救回来。我怕黑睡不着，他每天变着花样拿玩偶给我讲故事哄我睡觉。每一个故事的结尾都是&ldquo;从此他们过上了幸福快乐的生活。&rdquo;我们都热爱音乐，每天在家里放着歌开演唱会，我们互相分享歌单，我听他的张国荣谭咏麟张学友，她听我的蔡依林周杰伦ladygaga，唱尽兴了互相凹造型把家里的锅碗瓢盆儿都用上。傍晚是我们感性的时候，他躺着听我分享最近的心路历程，然后用他的思路帮我解开困惑，我站在门口迟迟不肯回自己的房间，其实我只是想多跟他待一会儿&hellip;&hellip;这么多年，他见证了我的变化，也一定有过害怕的时候吧，害怕我随着长大离他越来越远，但我想跟他说：你是我的国王，我能跑到哪里去呢，我就在你身后，现在换我来守护你，国王要好好守住城堡，剩下的就交给我吧。和爸爸之间的故事，总是细腻又感动，爸爸是我生命里第一个超人，是我心中最无所不能的象征。而现在，我在他身上感受到衰老，因为他，我迫切地渴望长大。爸爸，谢谢你为我领航，现在，换我来做你的航海家。希望今天，你可以和你的&ldquo;航海家&rdquo;说一句，&ldquo;爸爸，我爱你，父亲节快乐。&rdquo;\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我是你的航线，你是我的航海家",
+                        "desc": "文/符雅凝、Ailia、梁佑、柒斐 你是我的世界里，最平凡最伟大的存在。",
+                        "link": "http://m.wufazhuce.com/music/3282?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我是你的航线，你是我的航海家",
+                        "desc": "文/符雅凝、Ailia、梁佑、柒斐 你是我的世界里，最平凡最伟大的存在。",
+                        "link": "http://m.wufazhuce.com/music/3282?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我是你的航线，你是我的航海家》 文/符雅凝、Ailia、梁佑、柒斐： 你是我的世界里，最平凡最伟大的存在。 阅读全文：http://m.wufazhuce.com/music/3282?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3282?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我是你的航线，你是我的航海家",
+                        "desc": "你是我的世界里，最平凡最伟大的存在。",
+                        "link": "http://m.wufazhuce.com/music/3282?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "航海家的女儿[Acoustic Version]",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "符雅凝",
+                "audio_album": "航海家的女儿Navigator’s Daughter ",
+                "cover": "http://image.wufazhuce.com/Fug5P0sU1rX6c_kX7BJiSyh2Zdp3",
+                "bg_color": "#000"
+            },
+            {
+                "id": "20576",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3191",
+                "title": "你是为了被爱而出生的人呐...",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FnNP1U5MyorPV5zHGVRywpE1hSqA?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1356,
+                "post_date": "2020-06-21 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3191",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3191",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 你是为了被爱而出生的人呐...",
+                        "desc": "我到底哪里做的不好，不值得被爱呢",
+                        "link": "http://m.wufazhuce.com/radio/3191?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lujmi9FjHxc3fKF68ORUj4d4kahn"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 你是为了被爱而出生的人呐...",
+                        "desc": "我到底哪里做的不好，不值得被爱呢",
+                        "link": "http://m.wufazhuce.com/radio/3191?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lujmi9FjHxc3fKF68ORUj4d4kahn"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 你是为了被爱而出生的人呐...》 主播/马晓橙： 我到底哪里做的不好，不值得被爱呢 阅读全文：http://m.wufazhuce.com/radio/3191?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3191?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lujmi9FjHxc3fKF68ORUj4d4kahn"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "你是为了被爱而出生的人呐...",
+                        "link": "http://m.wufazhuce.com/radio/3191?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lujmi9FjHxc3fKF68ORUj4d4kahn"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 836 期",
+                "audio_url": "http://music.wufazhuce.com/lujmi9FjHxc3fKF68ORUj4d4kahn"
+            }
+        ],
+        "menu": {
+            "vol": "2815",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4356",
+                    "title": "我爸八则"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2887",
+                    "title": "多次恋爱让你明白了什么道理？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3282",
+                    "title": "我是你的航线，你是我的航海家"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3191",
+                    "title": "你是为了被爱而出生的人呐..."
+                }
+            ]
+        },
+        "ad": []
+    }
+}

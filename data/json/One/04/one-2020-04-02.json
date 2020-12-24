@@ -1,0 +1,571 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5459",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-04-02 06:00:00",
+        "content_list": [
+            {
+                "id": "20071",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2775",
+                "title": "摄影",
+                "forward": "我疯狂收集每一个快乐的瞬间，用他们回击每一个糟糕的日子。",
+                "img_url": "http://image.wufazhuce.com/FrLWJZi6cIbDVrNOQjvsz6wMW8wY",
+                "like_count": 21867,
+                "post_date": "2020-04-02 06:00:00",
+                "last_update_date": "2020-03-27 11:11:40",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2735",
+                "pic_info": "远方",
+                "words_info": "珍妮·罗森",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2775",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2775",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2775",
+                    "image": "http://image.wufazhuce.com/FrLWJZi6cIbDVrNOQjvsz6wMW8wY",
+                    "title": "VOL.2735",
+                    "content": "我疯狂收集每一个快乐的瞬间，用他们回击每一个糟糕的日子。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2775?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2775?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我疯狂收集每一个快乐的瞬间，用他们回击每一个糟糕的日子。——珍妮·罗森 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2775?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2775?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20094",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4260",
+                "title": "与姜文有关的日子",
+                "forward": "他身上有股劲儿让很多认识他的人愿意为他做点事。",
+                "img_url": "http://image.wufazhuce.com/Fq8Q4YAZkBWn-eEWmYMFH7jZ3h5Q",
+                "like_count": 3061,
+                "post_date": "2020-04-02 06:00:00",
+                "last_update_date": "2020-04-01 15:44:56",
+                "author": {
+                    "user_id": "4814961",
+                    "user_name": "马东",
+                    "desc": "马东，青年作者。公众号：桥下有人",
+                    "wb_name": "@马东不吃饭",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "马东，青年作者。公众号：桥下有人",
+                    "fans_total": "3202",
+                    "web_url": "http://image.wufazhuce.com/FvRM4yjN1X0QaLkFJlOXc9XrmKeC"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4260",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4260",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4260",
+                    "image": "http://image.wufazhuce.com/Fq8Q4YAZkBWn-eEWmYMFH7jZ3h5Q",
+                    "title": "与姜文有关的日子 作者/马东",
+                    "content": "点他！点他！点他！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 与姜文有关的日子",
+                        "desc": "文/马东 点他！点他！点他！",
+                        "link": "http://m.wufazhuce.com/article/4260?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 与姜文有关的日子",
+                        "desc": "文/马东 点他！点他！点他！",
+                        "link": "http://m.wufazhuce.com/article/4260?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 与姜文有关的日子》 文/马东： 点他！点他！点他！ 阅读全文：http://m.wufazhuce.com/article/4260?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4260?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "与姜文有关的日子",
+                        "desc": "点他！点他！点他！",
+                        "link": "http://m.wufazhuce.com/article/4260?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20058",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1145",
+                "title": "即将来临·下一个世界：第六章",
+                "forward": "在这里真正意义上的人早就消失了，这里只有长了毛的兽人和没有长毛的兽人，在比赛着谁的命可以活的更长。",
+                "img_url": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                "like_count": 718,
+                "post_date": "2020-04-02 06:00:00",
+                "last_update_date": "2020-04-07 18:18:17",
+                "author": {
+                    "user_id": "11174853",
+                    "user_name": "李永明",
+                    "desc": "我一路奋斗，不仅为了改变世界，也为了不让世界改变我……",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "《即将来临》第二部正在创作中",
+                    "fans_total": "219",
+                    "web_url": "http://image.wufazhuce.com/FvEDXeitvNoNe_H1vF8iAZC9Ht8B"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第6章",
+                "number": "6",
+                "serial_id": "82",
+                "serial_list": [
+                    "1136",
+                    "1137",
+                    "1140",
+                    "1141",
+                    "1143",
+                    "1145",
+                    "1147",
+                    "1149",
+                    "1152",
+                    "1153",
+                    "1155",
+                    "1157",
+                    "1159",
+                    "1160"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1145",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1145",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1145",
+                    "image": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                    "title": "即将来临·下一个世界：第六章 作者/李永明",
+                    "content": "这里只有长了毛的兽人和没有长毛的兽人，在比赛着谁的命可以活的更长。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 即将来临·下一个世界：第六章",
+                        "desc": "文/李永明 这里只有长了毛的兽人和没有长毛的兽人，在比赛着谁的命可以活的更长。",
+                        "link": "http://m.wufazhuce.com/serial/1145?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 即将来临·下一个世界：第六章",
+                        "desc": "文/李永明 这里只有长了毛的兽人和没有长毛的兽人，在比赛着谁的命可以活的更长。",
+                        "link": "http://m.wufazhuce.com/serial/1145?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 即将来临·下一个世界：第六章》 文/李永明： 这里只有长了毛的兽人和没有长毛的兽人，在比赛着谁的命可以活的更长。 阅读全文：http://m.wufazhuce.com/serial/1145?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1145?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "即将来临·下一个世界：第六章",
+                        "desc": "这里只有长了毛的兽人和没有长毛的兽人，在比赛着谁的命可以活的更长。",
+                        "link": "http://m.wufazhuce.com/serial/1145?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20113",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2809",
+                "title": "如何看待2020高考延期？",
+                "forward": "开心点朋友们，在一个不是每个人都能成功的世界，你还可以选择拥有一个让自己自由快乐的能力。",
+                "img_url": "http://image.wufazhuce.com/FhS8pkn0vzRIcuyi0gkmLITf-BPD",
+                "like_count": 2657,
+                "post_date": "2020-04-02 06:00:00",
+                "last_update_date": "2020-04-02 00:39:27",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "笨鸟先睡",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2809",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2809",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2809",
+                    "image": "http://image.wufazhuce.com/FhS8pkn0vzRIcuyi0gkmLITf-BPD",
+                    "title": "如何看待2020高考延期？",
+                    "content": "如何看待2020高考延期？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何看待2020高考延期？",
+                        "desc": "文/付圣强 “求之于势，不责于人。”",
+                        "link": "http://m.wufazhuce.com/question/2809?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何看待2020高考延期？",
+                        "desc": "文/付圣强 “求之于势，不责于人。”",
+                        "link": "http://m.wufazhuce.com/question/2809?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何看待2020高考延期？》 文/付圣强： “求之于势，不责于人。” 阅读全文：http://m.wufazhuce.com/question/2809?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2809?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何看待2020高考延期？",
+                        "desc": "“求之于势，不责于人。”",
+                        "link": "http://m.wufazhuce.com/question/2809?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11228819",
+                    "user_name": "付圣强",
+                    "desc": "ONE首席运营官。微博@付圣强",
+                    "wb_name": "@付圣强",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "ONE首席运营官。微博@付圣强",
+                    "fans_total": "201",
+                    "web_url": "http://image.wufazhuce.com/FnTtBFVB71uh7zKsu1JcA2ReJQ-W"
+                }
+            },
+            {
+                "id": "20089",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1976",
+                "title": "少年时爱的人，总在回忆里发光",
+                "forward": "你是拥有山川河海的神明，而我是因与神明交错而发光的少女。愿我的神明常驻此地，眼里有我。",
+                "img_url": "http://image.wufazhuce.com/Fq2GAEFWCiH-4_VaAt-C_FCuwmCA",
+                "like_count": 4168,
+                "post_date": "2020-04-02 06:00:00",
+                "last_update_date": "2020-04-01 15:43:15",
+                "author": {
+                    "user_id": "9606198",
+                    "user_name": "黄子京",
+                    "desc": "作者、诗人。微信公众号：黄子京。",
+                    "wb_name": "@黄子京hzj",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者、诗人。微信公众号：黄子京。",
+                    "fans_total": "5327",
+                    "web_url": "http://image.wufazhuce.com/FgqaxpmefULlWSexRwIEJ9NcoaMf"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "溺水小刀",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4959",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1976",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1976",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1976",
+                    "image": "http://image.wufazhuce.com/Fq2GAEFWCiH-4_VaAt-C_FCuwmCA",
+                    "title": "「一个」电影: 溺水小刀",
+                    "content": "前几天，一条微博热搜的出现令网友激动不已。什么？菅田将晖和小松菜奈恋爱了？难道电影《溺水小刀》里的CP成真了？尽管双方事务所还没有回应，但是大量的影迷已经按捺不住自己乱撞的少女心，迫不及待地播放这部电影，想要重温两人当年带给我们的感动。那么今天我们就来一起梳理一下这部电影的主要情节，顺便欣赏那些令我们感到惊艳的镜头。&nbsp;01&nbsp;这部电影改编自GEORGE朝仓的同名漫画，讲述了少男少女之间的纯爱故事。夏芽是经常登上杂志封面的平面模特，她文静漂亮，经常梳着两个长长的辫子，对未来怀有无限憧憬。阿航是世代保护这片土地的长谷川家之子，是一个帅气不羁的少年。他认为山川和大海尽在他的掌控，这座小镇的所有都任由他来处置。一个夏日的傍晚，在波涛汹涌的海边，他们相遇了。四目相对的那一刻，似有一种别样的情愫在彼此心间流动。也许缘分就是这样一种奇妙的东西，开学之后，两个人在学校的教室里再次相遇。原来夏芽因为家庭的情况以及父母的担忧，放弃了平面模特的道路，回到小镇继续自己的学业。在这里，夏芽不仅再次遇见了阿航，还认识了温暖的大友和可爱的加奈。阿航虽然心里喜欢夏芽，但是每次见到夏芽都装作一副不屑一顾的样子。夏芽的心里也对阿航有着一种莫名的好感，为了引起他的注意，她决定答应知名摄影师广能晶吾的邀请，拍摄一套写真集。不料拍摄的过程中，阿航扔出一颗石子击中了摄影师，他告诉摄影师，这是他家的地盘，她也是他的。自此，少年的心意昭然若揭，一场甜蜜的恋爱慢慢拉开了序幕。夏芽主动让阿航翻看自己的写真集，她坦言自己想要更靠近他一点。阿航从书包里拿出一罐汽水递给夏芽，久经摇晃的汽水四处迸溅，夏芽不慎弄脏了自己的下巴，而阿航则顺势吻上了她的嘴唇。陷入热恋中的夏芽不愿再接受广能晶吾的电影邀约，只想一心待在阿航的身边。阿航则鼓励夏芽继续发挥自己的才能，并且把随身佩戴的手链送给夏芽，希望它能够一直保佑她。转眼间，小镇迎来了一年一度的镇火节。镇火节是一种秋季祭祀活动，又被称为镇火大祭，是日本三大奇祭之一。阿航和夏芽身着民族服饰开心地前往，却不料中途发生了一场意外，使得二人的心头从此蒙上了阴影。阿航戴着面具，举着火把走在表演的队伍里。夏芽站在一旁，眼神一直追随着他的脚步。这时，一个男人跑到夏芽的身边，谎称她的爷爷已经病倒，需要她立刻赶到医院。夏芽没有多想，便跟着这个男人坐上了汽车。车开到一半的时候，男人试图强奸夏芽。原来他是一个狂热的粉丝，从夏芽出道开始就一直在关注她。预感到情况不妙的阿航匆匆赶到，却不慎被男人打倒在地。就在男人快要得逞的时候，夏芽的父亲及时赶来，阻止了这场悲剧的发生。自责的阿航趴在地上崩溃痛哭，他忽然发现自己并不是无所不能的，就连自己心爱的女孩都保护不了。02那次事件之后，夏芽渐渐疏远了阿航，而阿航也因为自责不再联系夏芽，他成为了街头的一个小混混，整天无所事事，打架斗殴。与此同时，铺天盖地的八卦新闻也令夏芽感到困扰，校园里的流言蜚语让她抬不起头来。夏芽和阿航的同学大友，是一个温柔体贴的男生，他不愿看到夏芽郁郁寡欢的样子，主动找她谈心，并且骑着单车带她品尝甜甜的山茶花。少女的脸上终于重新露出笑容，偏偏阿航恰巧路过，夏芽的目光立刻被吸引过去。她远远地跟在阿航的身后，直到大海深处，却听到阿航说，以后不要再来找他。伤心的夏芽哭着走在路上，恰巧遇见正在玩耍的大友。他轻轻擦去她脸上的泪水，陪着她一起去打棒球。他们聊起自己对未来的设想，笑声回荡在球场。大友的温暖令夏芽暂时忘记了生活中的烦恼，也使夏芽对他产生了一丝好感。回到家里，夏芽在涂趾甲的时候，将其中的一个趾甲涂成了山茶花的红色，暗示大友已经在她心里占据一席之地。时隔不久，夏芽和阿航再次在海边偶遇，心情低落的两人紧紧地拥抱在一起。短暂的缠绵之后，夏芽提出想和阿航一起离开小镇，没想到阿航却就此提出了分手。阿航不得不承认，自己始终无法从那次事件的阴影中逃脱出来。他已经不再是以前那个闪闪发光的阿航，再也无法为夏芽提供任何帮助，可是他希望夏芽能够继续像以前那样耀眼地活着，拥有无比绚烂的未来。失恋的夏芽决定接受广能晶吾的电影邀约，去东京发展自己的事业。当她把这个消息告诉大友的时候，大友忍不住红了眼眶。他哭着唱起那首《俺们要去东京了》，夏芽也随着他一起哼唱。尽管对夏芽有着万般不舍，他最后还是露出了微笑，为夏芽送上了暖心的祝福。03怀着对东京生活的期待，夏芽与众人道别。启程前夕，恰逢又一年镇火节。夏芽独自坐在屋子里，看着阿航曾经送给她的手链，回忆着他们之间的点点滴滴。不料去年对她图谋不轨的那个男人再次找到她，试图继续对她实施侵犯。正在参加表演的阿航从好友加奈那里得知，有个戴假面具的可疑男人翻过了墙。气愤的阿航拿着火把冲进屋子与男人展开搏斗，男人为了让自己能够和夏芽一起登上第二天的新闻，最后选择用小刀自杀。漆黑的夜里，加奈约夏芽在桥头见面，她告诉夏芽自己会让那把小刀沉入海底，只是希望夏芽从此以后不要再去见阿航。未散的惊恐与离别的悲伤交织在一起，夏芽忍不住跪地啜泣，少男少女的故事就这样告一段落。几年之后，夏芽实现了自己的梦想，在国际电影节上获得了最佳女主角。在分享获奖感言的时候，她想起了自己深爱的阿航。那个被她视为神明的人，曾给予她莫大的勇气。荧幕上播放着影片女主角初到东京时的特别影像，看着看着，夏芽忽然觉得电影里的男主角变成了自己日思夜想的阿航。两个人骑着摩托车一起吹着海风，他们对着蓝天和白云奋力呼喊，欢笑之余流下了激动的泪水。&nbsp;04&ldquo;那时，我才十五岁，以为自己可以知晓一切，以为自己可以得到一切，以为自己可以把一切交付给他，以为只有自己拥有与他欢笑着跃入水中的权利。我想要拥有的仅仅是可以穿透身体般耀眼的光芒，令人目眩神驰，令人无法呼吸，令人颤抖不已。&rdquo;这是电影中夏芽的画外音，相信也是大多数人回忆起青春岁月时内心深处最大的感慨。那时的我们还不懂得爱情究竟是什么，却因为擦肩而过的瞬间陷入深深的迷恋。我们不停地在人群中寻找那个人的身影，一个浅浅的微笑就足以令我们心动不已。为了能够靠近那个人一点，我们努力让自己变得更加优秀，试图吸引他的注意。随着一天一天的相处，我们渐渐发现对方也喜欢着自己，欣喜的同时感到一种难以言喻的幸福。于是不论是校园的门口，还是傍晚的街道，都留下了两个人手牵手走过的足迹。阳光里，彼此的口中似有说不完的甜言蜜语；夜空下，彼此的眼中似有星光在闪烁。那时的我们也像夏芽和阿航一样，觉得拥有了彼此便拥有了整个世界，我们认为自己可以一直紧紧抓住心爱的人，拥有闪闪发光的人生。可是后来我们渐渐发现，现实要比我们想象中残酷得多，压力和矛盾令我们喘不过气来，我们仅仅维持普通人的生活，就已经耗尽了全力。然而如果人生能够重来一次，我们还是会奋不顾身地奔向那个令我们无比心动的人。纵然两个人未必能够走到那个天长地久的结局，那些残留在心间的感动，也足以令我们回味一生。&nbsp;05有人说，这部电影的剪辑风格偏意识流，缺乏强烈的情节冲突，并不足以称为一部上乘之作。然而我想说的是，这恰恰是青春最为真实的模样，没有那么多轰轰烈烈的大起大落，有的只是静谧的夏日、蔚蓝的大海以及单车上那个白衣飘飘的少年。也许随着年龄的增长，我们终会与所爱之人渐行渐远，但是记忆中那些一起经历的欢笑，却深深地镌刻在我们的脑海，成为我们此生无法忘怀的美好。影片的结尾，载着鲜花的摩托车驶入山洞，画面定格在两张稚气未脱的脸上。那是阿航和夏芽的青春岁月，也是我们回不去的年少时光。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 少年时爱的人，总在回忆里发光",
+                        "desc": "文/黄子京 我第一次遇见你的时候，你闪闪发光。",
+                        "link": "http://m.wufazhuce.com/movie/1976?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 少年时爱的人，总在回忆里发光",
+                        "desc": "文/黄子京 我第一次遇见你的时候，你闪闪发光。",
+                        "link": "http://m.wufazhuce.com/movie/1976?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 少年时爱的人，总在回忆里发光》 文/黄子京： 我第一次遇见你的时候，你闪闪发光。 阅读全文：http://m.wufazhuce.com/movie/1976?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1976?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "少年时爱的人，总在回忆里发光",
+                        "desc": "我第一次遇见你的时候，你闪闪发光。",
+                        "link": "http://m.wufazhuce.com/movie/1976?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20059",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3105",
+                "title": "呐，送朵花花给你~~~",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fqft1-S5ikuoemreRmRt8vm1dRPL?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1539,
+                "post_date": "2020-04-02 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3105",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3105",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 呐，送朵花花给你~~~",
+                        "desc": "花儿——听上去就很美好",
+                        "link": "http://m.wufazhuce.com/radio/3105?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lse0It7HrYkNvnfAfW7ZeDHpagWM"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 呐，送朵花花给你~~~",
+                        "desc": "花儿——听上去就很美好",
+                        "link": "http://m.wufazhuce.com/radio/3105?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lse0It7HrYkNvnfAfW7ZeDHpagWM"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 呐，送朵花花给你~~~》 主播/马晓橙： 花儿——听上去就很美好 阅读全文：http://m.wufazhuce.com/radio/3105?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3105?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lse0It7HrYkNvnfAfW7ZeDHpagWM"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "呐，送朵花花给你~~~",
+                        "link": "http://m.wufazhuce.com/radio/3105?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lse0It7HrYkNvnfAfW7ZeDHpagWM"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 798 期",
+                "audio_url": "http://music.wufazhuce.com/lse0It7HrYkNvnfAfW7ZeDHpagWM"
+            }
+        ],
+        "menu": {
+            "vol": "2735",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4260",
+                    "title": "与姜文有关的日子"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1145",
+                    "serial_list": [
+                        "1136",
+                        "1137",
+                        "1140",
+                        "1141",
+                        "1143",
+                        "1145",
+                        "1147",
+                        "1149",
+                        "1152",
+                        "1153",
+                        "1155",
+                        "1157",
+                        "1159",
+                        "1160"
+                    ],
+                    "title": "即将来临·下一个世界：第六章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2809",
+                    "title": "如何看待2020高考延期？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1976",
+                    "title": "少年时爱的人，总在回忆里发光"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3105",
+                    "title": "呐，送朵花花给你~~~"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

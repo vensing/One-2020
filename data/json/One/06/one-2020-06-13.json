@@ -1,0 +1,522 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5532",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-13 06:00:00",
+        "content_list": [
+            {
+                "id": "20521",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2848",
+                "title": "摄影",
+                "forward": "如果竭尽自己最大努力仍然还是一无所得，所剩下的只是善良意志，它诚如沉睡的宝石一样，自身就发射着耀目的光芒，自身之内就具有价值。",
+                "img_url": "http://image.wufazhuce.com/Flu0TsMmf-BcxYFLL0pU7OH3jQ3C",
+                "like_count": 14737,
+                "post_date": "2020-06-13 06:00:00",
+                "last_update_date": "2020-06-10 18:12:53",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2807",
+                "pic_info": "Garidy Sanders",
+                "words_info": "康德",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2848",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2848",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2848",
+                    "image": "http://image.wufazhuce.com/Flu0TsMmf-BcxYFLL0pU7OH3jQ3C",
+                    "title": "VOL.2807",
+                    "content": "如果竭尽自己最大努力仍然还是一无所得，所剩下的只是善良意志，它诚如沉睡的宝石一样，自身就发射着耀目的光芒，自身之内就具有价值。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2848?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2848?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 如果竭尽自己最大努力仍然还是一无所得，所剩下的只是善良意志，它诚如沉睡的宝石一样，自身就发射着耀目的光芒，自身之内就具有价值。——康德 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2848?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2848?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "1"
+            },
+            {
+                "id": "20512",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4348",
+                "title": "拿摄影机的人",
+                "forward": "我问他们：“高会不会做出冲动的事？”阿蒙推推眼镜说：“跳海吗？”“不会，”老姚斩钉截铁地说，“他游泳那么厉害，淹不死。”",
+                "img_url": "http://image.wufazhuce.com/FtijdwGQw9UGBrl2YvDbu3YyAB_q",
+                "like_count": 1603,
+                "post_date": "2020-06-13 06:00:00",
+                "last_update_date": "2020-06-12 12:17:42",
+                "author": {
+                    "user_id": "10859358",
+                    "user_name": "王李西子",
+                    "desc": "新闻舆论工作者，非职业的写作者、剧评人、戏剧编导。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作是惟一僵持的事。",
+                    "fans_total": "325",
+                    "web_url": "http://image.wufazhuce.com/FiAloQNX499dQq-z3jNazEu6bfZH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4348",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4348",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4348",
+                    "image": "http://image.wufazhuce.com/FtijdwGQw9UGBrl2YvDbu3YyAB_q",
+                    "title": "拿摄影机的人 作者/王李西子",
+                    "content": "你能拍进我心里吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 拿摄影机的人",
+                        "desc": "文/王李西子 你能拍进我心里吗？",
+                        "link": "http://m.wufazhuce.com/article/4348?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 拿摄影机的人",
+                        "desc": "文/王李西子 你能拍进我心里吗？",
+                        "link": "http://m.wufazhuce.com/article/4348?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 拿摄影机的人》 文/王李西子： 你能拍进我心里吗？ 阅读全文：http://m.wufazhuce.com/article/4348?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4348?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "拿摄影机的人",
+                        "desc": "你能拍进我心里吗？",
+                        "link": "http://m.wufazhuce.com/article/4348?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20514",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1209",
+                "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第八章",
+                "forward": "冬季让离别显得冷清，人们能够不动声色地再也不见。而在夏日，情绪被温度加持，连悲伤都变得更为炙热。",
+                "img_url": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                "like_count": 795,
+                "post_date": "2020-06-13 06:00:00",
+                "last_update_date": "2020-06-10 11:31:39",
+                "author": {
+                    "user_id": "10730599",
+                    "user_name": "城迟",
+                    "desc": "人生前半场周转于互联网公司，凡客T恤事业部总监，乐视影业IP衍生部负责人。36岁出版代表作《我和这个世界不熟》，上市三天，冲进当当畅销榜前十。被阿耐、路内等著名作家推荐。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，代表作《我和这个世界不熟》。",
+                    "fans_total": "1326",
+                    "web_url": "http://image.wufazhuce.com/FiR3WpirjtIX3_RL6eZGxew_la3R"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第22章",
+                "number": "22",
+                "serial_id": "84",
+                "serial_list": [
+                    "1164",
+                    "1165",
+                    "1166",
+                    "1168",
+                    "1171",
+                    "1172",
+                    "1178",
+                    "1179",
+                    "1181",
+                    "1183",
+                    "1184",
+                    "1187",
+                    "1189",
+                    "1190",
+                    "1194",
+                    "1196",
+                    "1199",
+                    "1201",
+                    "1203",
+                    "1206",
+                    "1207",
+                    "1209"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1209",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1209",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1209",
+                    "image": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                    "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第八章 作者/城迟",
+                    "content": "去爱一个给你正能量的人。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 分手遗迹清理员：不会占卜的吉普赛女孩·第八章",
+                        "desc": "文/城迟 去爱一个给你正能量的人。”",
+                        "link": "http://m.wufazhuce.com/serial/1209?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 分手遗迹清理员：不会占卜的吉普赛女孩·第八章",
+                        "desc": "文/城迟 去爱一个给你正能量的人。”",
+                        "link": "http://m.wufazhuce.com/serial/1209?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 分手遗迹清理员：不会占卜的吉普赛女孩·第八章》 文/城迟： 去爱一个给你正能量的人。” 阅读全文：http://m.wufazhuce.com/serial/1209?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1209?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第八章",
+                        "desc": "去爱一个给你正能量的人。”",
+                        "link": "http://m.wufazhuce.com/serial/1209?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20537",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2876",
+                "title": "你被迫学会了哪些社交常识？",
+                "forward": "很多人出现在我们的生命里，就只是为了调个头而已。",
+                "img_url": "http://image.wufazhuce.com/Fpu0eZ8nZeVwPNUKaQH9aXx2fjGH",
+                "like_count": 3126,
+                "post_date": "2020-06-13 06:00:00",
+                "last_update_date": "2020-06-12 15:24:29",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "黎吧啦的猫",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2876",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2876",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2876",
+                    "image": "http://image.wufazhuce.com/Fpu0eZ8nZeVwPNUKaQH9aXx2fjGH",
+                    "title": "你被迫学会了哪些社交常识？",
+                    "content": "你被迫学会了哪些社交常识？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你被迫学会了哪些社交常识？",
+                        "desc": "文/缪斯谭 事贵制人，勿制于人，知之始己，而后知人。",
+                        "link": "http://m.wufazhuce.com/question/2876?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你被迫学会了哪些社交常识？",
+                        "desc": "文/缪斯谭 事贵制人，勿制于人，知之始己，而后知人。",
+                        "link": "http://m.wufazhuce.com/question/2876?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你被迫学会了哪些社交常识？》 文/缪斯谭： 事贵制人，勿制于人，知之始己，而后知人。 阅读全文：http://m.wufazhuce.com/question/2876?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2876?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你被迫学会了哪些社交常识？",
+                        "desc": "事贵制人，勿制于人，知之始己，而后知人。",
+                        "link": "http://m.wufazhuce.com/question/2876?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "20531",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2008",
+                "title": "就像是一场梦，醒了以后还是意难平",
+                "forward": "在梦里，有“东北李子维”，“东北道明寺”和“东北江直树”......",
+                "img_url": "http://image.wufazhuce.com/Fr_Rz6VTyg7OnYQJngF1QoZCQsLJ",
+                "like_count": 2487,
+                "post_date": "2020-06-13 06:00:00",
+                "last_update_date": "2020-06-13 10:37:59",
+                "author": {
+                    "user_id": "11185651",
+                    "user_name": "颗馨",
+                    "desc": "既然不再假装自己不是多愁善感的诗人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "做最积极的悲观主义者。",
+                    "fans_total": "885",
+                    "web_url": "http://image.wufazhuce.com/Fj65EDdIoR9aUxJnUlYaqjaKWF55"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "我才不要和你做朋友呢",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4991",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2008",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2008",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2008",
+                    "image": "http://image.wufazhuce.com/Fr_Rz6VTyg7OnYQJngF1QoZCQsLJ",
+                    "title": "「一个」电影: 我才不要和你做朋友呢",
+                    "content": "你有没有想象过妈妈年轻时的样子？在和你一个年纪的时候，在她还不是妈妈，而是个少女的时候。不知道那个时候的她能不能理解现在的自己，不知道那个时候的她有没有想到自己变成了总是把&ldquo;我是为你好&rdquo;挂在嘴边的中年人。想知道，那时的她也会&ldquo;早恋&rdquo;吗？是不是个好学生，有没有被叫过家长？会不会让自己的父母生气？她也有过梦想吗？她想成为什么样的人呢？更想知道，是什么让她现在变成了这个样子？变得古板，变得有时不近人情，变得不能理解我的心事，不能体谅我的心情。每个妈妈都曾是少女，如果回到妈妈的少女时代，我们会不会和妈妈成为朋友呢？《我才不要和你做朋友呢》给了你这样一种可能，回到那些年，看看追过妈妈的男孩子们，也和试试看，妈妈到底能不能成为朋友。听这样的片名，青春片，网剧，穿越，可能很多人都不会期待。但这部剧就是今年夏天最大的惊喜，好像回到了那个时代，回到了青春期，认识了少女时的妈妈和她的朋友们，拥有了一场最美丽的例外。&nbsp;1剧中的女主角李进步是一个有个性的小女孩，独来独往，成绩优秀，会直接叫妈妈的大名，让妈妈开家长会的时候不要说大话。在她眼里，最失败的人生莫过于妈妈，一个人带着孩子，一把年纪还慌慌张张不靠谱，一事无成，连自己的女儿最需要的陪伴都做不到，比起妈妈，她更愿意叫她李青桐，作为女儿，她很想改变这样妈妈。也就是这样一个契机，在一次离家出走中，李进步穿越到了二十年前，在她出生之前的铁原&mdash;&mdash;妈妈的故乡，做了李青桐的同学，顶着李青桐发小的名字，真的做了妈妈的朋友。在尝试着改变妈妈人生的过程中，她也慢慢找到了自己缺失的青春&mdash;&mdash;友情，亲情，白日梦，玩笑，甚至是心动的人。其实怀念青春很少是怀念具体的某一件事，更多的是怀念当时的那种状态。懵懵懂懂却满腹心事，不知道每天在开心些什么，也不知道每天在难过什么。好像所有情绪都来得快去得快，最大的烦恼不是能不能考上大学，就是我眼中的那个人是不是眼里也有我。剧里妈妈就读的铁原三中虽然并不存在，但每个人都会感觉，啊，这是我的高中吧。黑板一角的值日生，坐在倒数几排上课总喜欢接话的男生，扎着蝴蝶结有点骄傲的优等生，班主任经典的&ldquo;我迟早被你们气死&rdquo;&ldquo;有什么话你上来讲&rdquo;。数学课永远听不懂，物理题总是做不对，一看书就困，一上课就走神，放学就想着去吃什么，放假就盘算着一起去哪玩。每次考不好，都需要一个会写连笔字的同学，每次家长会，都要复盘一遍这学期我又被没收了什么，哪几科老师肯定骂我。你看，青春里全是细节，就是这些鸡毛蒜皮组成了我们的青春回忆。你可能记得喜欢的人喜欢听什么歌，用哪支笔写字，什么学得最好，放学回家往哪边走，上课最爱做什么小动作，却记不清到底是哪天你动了心，说不出那个时候怎么就那么喜欢他，也忘了到底是为什么放下他的。看完这部剧好像跟着主角又毕业了一次，那年的琐碎再度袭来，感动还是那么深刻。&nbsp;2说到心动的人，铁原三中为你提供了几个最有初恋感的男孩子，在这里，有&ldquo;东北李子维&rdquo;，&ldquo;东北道明寺&rdquo;和&ldquo;东北江直树&rdquo;。李进步来到二十年前遇到的第一个人就是&ldquo;东北李子维&rdquo;段霄，可惜这场邂逅发生在澡堂&mdash;&mdash;最适合&ldquo;坦诚相见&rdquo;的地方。这么一件窘迫的小事成了两个人的秘密，作为&ldquo;举目无亲&rdquo;的&ldquo;外地人&rdquo;，段霄是李进步最初的依靠，小太阳一样的他是李进步&ldquo;五月的极光&rdquo;，或许并不存在，但足够惊艳。每次李进步闯祸，段霄都会第一时间不问对错的站在她这边，哪怕是得罪高年级的&ldquo;校霸&rdquo;，每次李进步生病，段霄都会找尽借口去看她。在所有时刻，只要有李进步，段霄的眼光就是长在她身上的。和她成为同桌的窃喜，一起在冷天里披着被子等人，坐绿皮火车去漠河，段霄永远阳光温暖，用陪伴来表现所有的在乎。而贯穿全片的最大悬念就是&ldquo;到底谁是李进步的爸爸&rdquo;。两位&ldquo;爸爸&rdquo;候选人，一个是&ldquo;东北道明寺&rdquo;校霸陈君何，一个是&ldquo;东北江直树&rdquo;学霸吴智勋。陈君何，高年级学生。不学无术，漫不经心，永远站不直插口袋，走到哪身后都有两个小弟，谁也不敢惹他，名副其实的校霸。但他并不是什么坏人，只是一个普普通通讲义气，又有点不懂事的男孩，喜欢一个女孩也只会默默的在她身后，每一次靠近李青桐都被人以为是要欺负她，每一次想帮帮她都会好心被误会。永远嘴硬，不愿意承认自己的在乎，却总是在最需要的时候出现，又假装没什么的摆摆手离开，傲娇又幼稚。可以为你厚脸皮，但是不想你难堪。明明可以解释，但还是选择多做少说。吴智勋则完全相反，是天才少年，永远的第一名。不喜欢浪费时间在学习以外的事，独来独往，很少笑，总是板着脸做题，可就是莫名会迷上他眼角的泪痣，冷清的氛围。讲题的时候总是会有点不耐烦，说你笨，回家之后又会用好几个晚上写厚厚一本笔记让你背。只有看到你的时候，偶尔会笑，所有与学习无关的事都是和你有关的。最单纯的年纪，每一份爱都是最好的，你最怀念的那个男孩，那个女孩，在这部剧中都能找到，好像又回到那一年，我们都清白，简单，诚恳又执拗。&nbsp;3大多数青春里，父母都好像充当了反派，他们永远不懂我们，永远用以爱之名来压迫，他们要求你成为更好的人，而自己却不是多么优秀的大人。为什么你总让我成为你理想中的孩子，却不做我理想中的父母。这是贯穿我们青春的谜题，也是这部剧想讨论的一个问题。我们总说，怎么和父母和解，亲人本该是最亲最爱的人，却用了敌人才用的词&mdash;&mdash;和解。这也是李进步回到过去需要解开的谜题之一，她想知道，妈妈以前是什么样子，又是什么让妈妈变成这个样子。《我才不要和你做朋友呢》，一句有点别扭有点赌气的话，和父母做朋友，不敢想也不情愿，但实际上，回到二十年前的李进步成了李青桐最好的朋友，意外地，自然地跨越二十年时空，作为少女的李青桐和就是少女的李进步和解了。就像我们不能选择父母一样，父母也不能选择孩子，就像我们是第一次做子女一样，妈妈也是第一次做妈妈，她也曾是那么烂漫叛逆的少女，却要一夜之间成为你的妈妈，或许她也还是个孩子，却在那一刻起必须成为妈妈。&ldquo;这天底下最苦最难的事，就是给别人当妈&rdquo;，&ldquo;十个爹里九个不合格，一百个妈里九十九个都把这辈子的心操在孩子身上了。&rdquo;当李进步回到过去，看着自己的妈妈做女儿的样子，听着姥爷的劝解，这些话明明不是说给她听的，她却被打动了。终于，她也开始明白，妈妈的世界不是只有孩子，也不应该只有孩子，而作为孩子，可能我们也要想想妈妈，她是不是真的不容易，她是不是不被理解也有点委屈。可能我们都不能成为彼此心中最理想的状态，他们不是最完美的父母，我们也不是最完美的小孩。比起和解，可能拥抱更恰当，在我们成长的路上，父母也在成长，最终我们会一起长大成人。他们会成为被理解的父母，我们也会成为能理解别人的大人。二十年前的青春，到现在也依然迷人，东北的大雪，插卡的电话亭，街边的游戏厅，王力宏的磁带，烧烤摊，小吃店。请回答千禧年，新世纪已经来了二十年，我们活在全新的时代里，还是会偶尔怀念过去，那个人情暖暖的时代，又困难又简单的生活，都一去不复返了。可那些单纯美好存在过，不会因为时光流转就消失，我们拥有回忆，也拥有未来。最好的就是带着过去的点点滴滴勇敢地向前走，不恋过去，不惧将来，握紧喜欢的人，实现此刻的梦。不管这场穿越是不是一场梦，不管爸爸是吴智勋还是陈君何，在这一刻，我们活在现实里，也带着过往，还能继续爱着生活，爱着身边的那个人就够了。这部剧就像是青春一样，美好过，感动过，就够了。&nbsp;我希望这种快乐伴随着你，不论人生如何，都不必失去。片中班主任最后给&ldquo;妈妈&rdquo;李青桐的寄语可能就是这部剧想传达给你的感动之一，我们不必在乎结局，那些人在我们的脑海中真实的活过。他们善良，开朗又自在，一定会很好，被他们打动过的你，也是。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 就像是一场梦，醒了以后还是意难平",
+                        "desc": "文/颗馨 不论人生如何，都不必失去。",
+                        "link": "http://m.wufazhuce.com/movie/2008?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 就像是一场梦，醒了以后还是意难平",
+                        "desc": "文/颗馨 不论人生如何，都不必失去。",
+                        "link": "http://m.wufazhuce.com/movie/2008?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 就像是一场梦，醒了以后还是意难平》 文/颗馨： 不论人生如何，都不必失去。 阅读全文：http://m.wufazhuce.com/movie/2008?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2008?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "就像是一场梦，醒了以后还是意难平",
+                        "desc": "不论人生如何，都不必失去。",
+                        "link": "http://m.wufazhuce.com/movie/2008?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2807",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4348",
+                    "title": "拿摄影机的人"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1209",
+                    "serial_list": [
+                        "1164",
+                        "1165",
+                        "1166",
+                        "1168",
+                        "1171",
+                        "1172",
+                        "1178",
+                        "1179",
+                        "1181",
+                        "1183",
+                        "1184",
+                        "1187",
+                        "1189",
+                        "1190",
+                        "1194",
+                        "1196",
+                        "1199",
+                        "1201",
+                        "1203",
+                        "1206",
+                        "1207",
+                        "1209"
+                    ],
+                    "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第八章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2876",
+                    "title": "你被迫学会了哪些社交常识？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2008",
+                    "title": "就像是一场梦，醒了以后还是意难平"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,575 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5670",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-31 06:00:00",
+        "content_list": [
+            {
+                "id": "21348",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2989",
+                "title": "摄影",
+                "forward": "我不愿承认生活最后会沦落得与拙劣的文学作品如此相像。",
+                "img_url": "http://image.wufazhuce.com/FpJEW5m3FSkmNMhpdCJdgI2LzJgN",
+                "like_count": 11949,
+                "post_date": "2020-10-31 06:00:00",
+                "last_update_date": "2020-10-26 13:51:19",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2947",
+                "pic_info": "Anton Chumak",
+                "words_info": "加西亚·马尔克斯《一桩事先张扬的凶杀案》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2989",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2989",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2989",
+                    "image": "http://image.wufazhuce.com/FpJEW5m3FSkmNMhpdCJdgI2LzJgN",
+                    "title": "VOL.2947",
+                    "content": "我不愿承认生活最后会沦落得与拙劣的文学作品如此相像。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2989?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2989?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我不愿承认生活最后会沦落得与拙劣的文学作品如此相像。——加西亚·马尔克斯《一桩事先张扬的凶杀案》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2989?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2989?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21362",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4496",
+                "title": "消失的春雪",
+                "forward": "表针一圈圈转动，转白了天空，转亮了鸟鸣，转高了日头。",
+                "img_url": "http://image.wufazhuce.com/FiuNNae8EPUeVWNU3Nx_8jHrEXaB",
+                "like_count": 1870,
+                "post_date": "2020-10-31 06:00:00",
+                "last_update_date": "2020-10-31 09:15:25",
+                "author": {
+                    "user_id": "11563863",
+                    "user_name": "阿虎",
+                    "desc": "86年生，山西人，影视编剧，小说作者，现居北京。出版有长篇小说《梅花钉》、《刑案秘档》。短篇多发布于豆瓣阅读以及《推理》杂志，目前专注于悬疑推理类型的创作。编剧独立电影作品《不合理蛙》入围2016年柏林华语电影节青年参赛单元。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，小说作者，现居北京。",
+                    "fans_total": "346",
+                    "web_url": "http://image.wufazhuce.com/Fh8gokNt2KMRW1BZRFeHvmguxXa7"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4496",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4496",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4496",
+                    "image": "http://image.wufazhuce.com/FiuNNae8EPUeVWNU3Nx_8jHrEXaB",
+                    "title": "消失的春雪 作者/阿虎",
+                    "content": "人生就是如此磨人吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 消失的春雪",
+                        "desc": "文/阿虎 人生就是如此磨人吗？",
+                        "link": "http://m.wufazhuce.com/article/4496?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 消失的春雪",
+                        "desc": "文/阿虎 人生就是如此磨人吗？",
+                        "link": "http://m.wufazhuce.com/article/4496?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 消失的春雪》 文/阿虎： 人生就是如此磨人吗？ 阅读全文：http://m.wufazhuce.com/article/4496?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4496?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "消失的春雪",
+                        "desc": "人生就是如此磨人吗？",
+                        "link": "http://m.wufazhuce.com/article/4496?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21299",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1323",
+                "title": "制作人们·第十章：天台的谈判",
+                "forward": "晚上不管熬到几点都可以。但是早起？没可能的。",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 716,
+                "post_date": "2020-10-31 06:00:00",
+                "last_update_date": "2020-10-16 14:55:21",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第10章",
+                "number": "10",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1323",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1323",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1323",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第十章：天台的谈判 作者/鳄鱼姐",
+                    "content": "晚上不管熬到几点都可以。但是早起？没可能的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第十章：天台的谈判",
+                        "desc": "文/鳄鱼姐 晚上不管熬到几点都可以。但是早起？没可能的。",
+                        "link": "http://m.wufazhuce.com/serial/1323?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第十章：天台的谈判",
+                        "desc": "文/鳄鱼姐 晚上不管熬到几点都可以。但是早起？没可能的。",
+                        "link": "http://m.wufazhuce.com/serial/1323?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第十章：天台的谈判》 文/鳄鱼姐： 晚上不管熬到几点都可以。但是早起？没可能的。 阅读全文：http://m.wufazhuce.com/serial/1323?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1323?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第十章：天台的谈判",
+                        "desc": "晚上不管熬到几点都可以。但是早起？没可能的。",
+                        "link": "http://m.wufazhuce.com/serial/1323?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21361",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3022",
+                "title": "你见过哪些极甜的长辈爱情故事？",
+                "forward": "“我这一生都是坚定的唯物主义者，唯有你，我希望有来世”。",
+                "img_url": "http://image.wufazhuce.com/Fm8tvh_91H2ZUsEef7BkSpvT4A-a",
+                "like_count": 2692,
+                "post_date": "2020-10-31 06:00:00",
+                "last_update_date": "2020-10-28 15:13:43",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE·一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3022",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3022",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3022",
+                    "image": "http://image.wufazhuce.com/Fm8tvh_91H2ZUsEef7BkSpvT4A-a",
+                    "title": "你见过哪些极甜的长辈爱情故事？",
+                    "content": "你见过哪些极甜的长辈爱情故事？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你见过哪些极甜的长辈爱情故事？",
+                        "desc": "文/网友 “纸短情长，吻你千万”。",
+                        "link": "http://m.wufazhuce.com/question/3022?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你见过哪些极甜的长辈爱情故事？",
+                        "desc": "文/网友 “纸短情长，吻你千万”。",
+                        "link": "http://m.wufazhuce.com/question/3022?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你见过哪些极甜的长辈爱情故事？》 文/网友： “纸短情长，吻你千万”。 阅读全文：http://m.wufazhuce.com/question/3022?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3022?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你见过哪些极甜的长辈爱情故事？",
+                        "desc": "“纸短情长，吻你千万”。",
+                        "link": "http://m.wufazhuce.com/question/3022?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "21367",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2071",
+                "title": "能不能给我一杯泡面的时间？",
+                "forward": "来看剧吧，就一杯泡面的时间，给个机会？",
+                "img_url": "http://image.wufazhuce.com/FqmV2NqfjYJphfVGKS86ioyDRKW4",
+                "like_count": 1916,
+                "post_date": "2020-10-31 06:00:00",
+                "last_update_date": "2020-10-30 16:53:36",
+                "author": {
+                    "user_id": "10511986",
+                    "user_name": "yaoyaoooo",
+                    "desc": "candy crush玩家，加西亚·马尔克斯狂热粉，写作自娱，未完全脱离旅游业的新入门插画师，下个目的地包含但不限于夏季挪威峡湾、留尼汪。",
+                    "wb_name": "@yaoyaoooo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "名字里有辆奥迪，正在画画的人。",
+                    "fans_total": "517",
+                    "web_url": "http://image.wufazhuce.com/Fkaqni13cptOk7thG6X6yRQ1-Lpa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "“泡面番”片单",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5054",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2071",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2071",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2071",
+                    "image": "http://image.wufazhuce.com/FqmV2NqfjYJphfVGKS86ioyDRKW4",
+                    "title": "「一个」电影: “泡面番”片单",
+                    "content": "高峰期等电梯，至少5分钟；外卖小哥喊我下楼拿饭，提早了5分钟；刚好错过前序列车，下一趟列车还得等5分钟；火车上集体泡面时，互相干瞪眼5分钟；妈妈刚拖完地，喊我别踩来踩去，让地板再吹干5分钟&hellip;&hellip;匆忙人生中，忽然被按下暂停键的5分钟，实在多不胜数，要是能把这些流逝的5分钟攒起来花，大可不必问天再借五百年。时间管理大师们说，这些碎片时间可以用来学外语，可以跳热身操，可以紧追时事新闻，可以打开音乐软件让它随便猜我喜欢&hellip;&hellip;要我说，用来追&ldquo;泡面番&rdquo;，不也很香吗？泡面番这个词最早是在日本动漫观众中流传起来的，指那些3-6分钟一集的动漫，泡个泡面的时间，就看完了。从来不被寄予厚望的5分钟番剧们，单集时间虽短，剧情却算饱满，不少已经向大屏幕发展。今日片单，诸位细品，看看这些泡面番，还有机会戳中你吗？Part1 &nbsp;&nbsp;日漫1.《矶部矶兵卫物语》&nbsp;推荐观影时刻：无厘头叹气时生活在日本江户时代（相当于中国明末到清朝同治年间）的武士矶部矶兵卫，是个懒散之人，每日幻想多于行动，却在向观众展示幻想时，顺便介绍了江户时代的世俗风物。比如，由于城市排水设施并不发达，拥有私人浴室是很奢侈的，庶民民享受泡澡乐趣，都要去到男女混浴的公共澡堂，想要来澡堂偶遇美女的矶部矶兵卫，只见到了美腿大叔；又比如在新月之夜，庶民们流行&ldquo;百物语&rdquo;的娱乐，即一人讲一个鬼故事，每讲完一个鬼故事就吹灭一根蜡烛，矶部矶兵卫为了开溜，堂而皇之地摆出了&ldquo;我妈喊我回家吃饭&rdquo;的借口。一集区区30秒，浮世绘画风的动画在眼前一帧帧划过，明明只想短暂消遣一下，却又仿佛学到了什么&hellip;&hellip;2.《搞笑漫画日和》推荐观影时刻：被生活恶搞时2005年-2010年连载四季的日和漫画，豆瓣评分均在9分以上。该剧借以恶搞许多名人以及社会现象，讽刺人性的黑暗以及生活的荒谬，5分钟一集的时长加上极快的配音语速，一集看下来像是被生活的密集槽点连击。2005年第一季第一集内容放在今天，也毫不过时。面包开发公司老板试图用&ldquo;卡通贴纸收集&rdquo;的噱头吸引小朋友购买，负责贴纸绘图的员工却仅仅设计出三款贴纸，实在匹配不上老板的宏图，老板于是提议&ldquo;高仿&rdquo;对手公司的贴纸图画，却又埋怨画师作品&ldquo;不像&rdquo;。满腔热忱的画师吐槽老板说：&ldquo;画得太像会被告侵权哦！&rdquo;每每看到这些&ldquo;陈年老梗&rdquo;，总要感叹&mdash;&mdash;历史真是惊人地相似啊！Part2 &nbsp;&nbsp;国漫3.《罗小黑战记》推荐观影时刻：家中爱宠上房揭瓦时动画连载于2011年，时隔八年终于搬上大荧幕。画风可爱，随手截图都能当屏保和桌面。故事主人公小白，收养了一只黑猫，取名&ldquo;小黑&rdquo;，殊不知小黑竟是妖精，失去原形才化身猫咪流落人间。从此，二十八集的故事有了两个视角：要么，从小白角度出发，身边有从不揭下面膜的妈妈，和从不释手报纸的爸爸，有乡下的亲切堂哥和爷爷，还有学校活泼的同学和老师，猫咪罗小黑从天而降只是为小白的快乐生活锦上添花；要么，从罗小黑角度出发，不断寻求能为自己恢复真身的帮助，遇神求神，遇怪打怪，有志猫事竟成。每集五分钟可萌可燃，看完似乎可以原谅家中爱宠的捣蛋行为，万一它也是只法力被封印的妖精呢？4.《请吃红小豆吧！》推荐观影时刻：不知道肥宅点什么时2018年新晋泡面番《请吃红小豆》在2020年发力连更了第三第四季。累计52集动画，俨然就是个&ldquo;红豆菜单&rdquo;。想要被吃掉的主角红小豆，在各式菜品中走穴营业，始终没被吃掉，反而结识珍珠李建勋、芦荟安东尼、枸杞赵建国、黄圆、椰果、西米露、咸蛋黄等各式各样的配料朋友。红小豆系列将不起眼的配料拟人化、平民化，再赋予脑洞剧情，不仅提升观众对剧情走向的好奇，万万没想到还提升观众的食欲。剧中原创配乐也备受喜爱，屡屡被《奇葩说第六季》《青春有你第二季》《向往的生活第三四/季》等各大综艺破圈引用，以至于剧迷们纷纷提醒创作者查收版权费，创作者亮出授权声明安抚剧迷，皆大欢喜。5.《快把我哥带走》推荐观影时刻：想家的时候观众更多是从彭昱畅和张子枫主演的漫改电影《快把我哥带走》回过头来知道这部动画的。电影紧紧抓住了哥哥时分和妹妹时秒相爱相杀的动人亲情，进行魔幻煽情改编，而原著动漫（目前连载到第四季）却要轻松欢快得多，不仅描写了兄妹的生活相处，还描写了兄妹二人在最灿烂的中学时光的友情故事。校门外路边小吃摊、校服混洗染色、南方人澡堂大赏、暗恋与自恋故事&hellip;&hellip;生活化的碎片情节撑不起一套史诗巨作，却能确立一个个人物鲜明独特的性格，让观众少不了几次晃神，以为片中人不就是自己学生时代认识的某某吗！？Part3 &nbsp; 真人/漫改剧6.《今日的猫村小姐》推荐观影时刻：家务拖延症发作时今年四月新上架的漫改真人泡面番，每集仅仅3分钟，可我大概要花2分钟适应，因为剧中的猫村猫小姐扮演者，是曾经以八季《孤独的美食家》刻印在我脑海的松重丰大叔啊！高高大大的松重丰饰演小猫咪毫不含糊，将猫咪磨爪，怕烫，爱干净，高兴时露肚皮撒娇的习性一一演绎，完成形象颠覆之余，也没耽误剧情&mdash;&mdash;猫村猫一直想和少爷重逢，于是找了份家政工作，被指派到神犬家干活，从此是只社会猫了。每当工作遇到挫折，它都会通过回忆少爷补给干劲，无疑也是只治愈猫了。7.《住手吧！关同学》推荐观影时刻：冷不丁想起同桌的你时2014年日漫番剧《上课小动作》每集差不多8分钟，2015年被整合改编成30分钟一集的真人日剧《邻座的怪同学》，2019年引进国内，并改编成5分钟一集的真人版泡面番《住手吧！关同学》。漫改剧内容很大程度上还原了动画的中经典的开小差场景，比如橡皮擦多米诺骨牌，比如避难演习中的机器人替身。国内漫改版本将原著中的场景设定得更为本土化，并采用竖屏拍摄，便于观众手持移动设备观看。任他剧情如何改编，唯一不变的忠告是&mdash;&mdash;你和同桌当真搞出那么大阵仗的脑洞小差，讲台上的老师绝不会毫不察觉的。8.《啊！因为是男高，所以很幸福》推荐观影时刻：犹豫要不要联系老伙计时梦想成为漫画家的金南九，与梦想成为男子偶像的韩圣峰，在男子高中成为了朋友。课堂被点名时相互帮腔打掩护，只是两人友谊的开端，不断巩固友谊的，总是那些一起闯祸，竞相出糗的时刻。祸闯多了，难免闹别扭，这时，总有一个人要先给对方找台阶下，草稿纸上的五子棋，就是和解的信号。《因为是男高》并无原创漫画脚本，每集5分钟，含有三个小章节的沙雕剧情，让人既能当下捧腹欢笑，又能日后长久回味。连细节服化和配乐节奏，也完全不输一部长篇精致韩剧，聊天表情包必须有这部剧gif的位置。刷完上面8个系列的17部泡面番，只需一天时间，还完全不耽误8小时养生睡眠，真的不给它们一个机会吗？我反正给了，一开始看泡面番，我试图把它当作两件耗时工作之间的大脑转场，一次短暂放空。没想到是我大意了，泡面番这么好看，根本停不下来，耗时的工作任务，更应该被看作两集精巧泡面番之间持久的大脑转场吧。同样的，日复一日随意散落的5分钟，才不是无足轻重的碎片生命，而是我们各自人生独一无二连载着的泡面番呀！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 能不能给我一杯泡面的时间？",
+                        "desc": "文/yaoyaoooo 5分钟“泡面番”片单，给个机会？",
+                        "link": "http://m.wufazhuce.com/movie/2071?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 能不能给我一杯泡面的时间？",
+                        "desc": "文/yaoyaoooo 5分钟“泡面番”片单，给个机会？",
+                        "link": "http://m.wufazhuce.com/movie/2071?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 能不能给我一杯泡面的时间？》 文/yaoyaoooo： 5分钟“泡面番”片单，给个机会？ 阅读全文：http://m.wufazhuce.com/movie/2071?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2071?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "能不能给我一杯泡面的时间？",
+                        "desc": "5分钟“泡面番”片单，给个机会？",
+                        "link": "http://m.wufazhuce.com/movie/2071?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21300",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3316",
+                "title": "彩蛋丨那一刻觉得自己没那么优秀",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FuQ9t-rC5Vp_OVeaT7Cfe_qx5wCn?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1173,
+                "post_date": "2020-10-31 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙、李荟莹",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3316",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3316",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 彩蛋丨那一刻觉得自己没那么优秀",
+                        "desc": "未来会有花开",
+                        "link": "http://m.wufazhuce.com/radio/3316?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ltwzzXao_v7BfqSg42O3Fq2GnkVO"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 彩蛋丨那一刻觉得自己没那么优秀",
+                        "desc": "未来会有花开",
+                        "link": "http://m.wufazhuce.com/radio/3316?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ltwzzXao_v7BfqSg42O3Fq2GnkVO"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 彩蛋丨那一刻觉得自己没那么优秀》 主播/马晓橙等二位： 未来会有花开 阅读全文：http://m.wufazhuce.com/radio/3316?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3316?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/ltwzzXao_v7BfqSg42O3Fq2GnkVO"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "彩蛋丨那一刻觉得自己没那么优秀",
+                        "link": "http://m.wufazhuce.com/radio/3316?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ltwzzXao_v7BfqSg42O3Fq2GnkVO"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 907 期",
+                "audio_url": "http://music.wufazhuce.com/ltwzzXao_v7BfqSg42O3Fq2GnkVO"
+            }
+        ],
+        "menu": {
+            "vol": "2947",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4496",
+                    "title": "消失的春雪"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1323",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第十章：天台的谈判"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3022",
+                    "title": "你见过哪些极甜的长辈爱情故事？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2071",
+                    "title": "能不能给我一杯泡面的时间？"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3316",
+                    "title": "彩蛋丨那一刻觉得自己没那么优秀"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

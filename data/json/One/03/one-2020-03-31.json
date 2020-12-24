@@ -1,0 +1,571 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5455",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-31 06:00:00",
+        "content_list": [
+            {
+                "id": "20069",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2773",
+                "title": "摄影",
+                "forward": "不要为明天忧虑。早上醒来，充分地好好活这一天，最近我只留心这件事。现在我不说谎了，读书也逐渐不是为了虚荣与算计。以前老爱仰赖明天、敷衍当下，现在也不会了。只是一天一天，非常珍惜地过日子。",
+                "img_url": "http://image.wufazhuce.com/Fs-2TBEosmmC7OyEi5obCKUHB4-X",
+                "like_count": 22662,
+                "post_date": "2020-03-31 06:00:00",
+                "last_update_date": "2020-03-27 11:01:47",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2733",
+                "pic_info": "Marcos Perez",
+                "words_info": "太宰治《小说灯笼》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2773",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2773",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2773",
+                    "image": "http://image.wufazhuce.com/Fs-2TBEosmmC7OyEi5obCKUHB4-X",
+                    "title": "VOL.2733",
+                    "content": "不要为明天忧虑。早上醒来，充分地好好活这一天，最近我只留心这件事。现在我不说谎了，读书也逐渐不是为了虚荣与算计。以前老爱仰赖明天、敷衍当下，现在也不会了。只是一天一天，非常珍惜地过日子。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2773?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2773?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 不要为明天忧虑。早上醒来，充分地好好活这一天，最近我只留心这件事。现在我不说谎了，读书也逐渐不是为了虚荣与算计。以前老爱仰赖明天、敷衍当下，现在也不会了。只是一天一天，非常珍惜地过…——太宰治《小说灯笼》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2773?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2773?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20075",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4256",
+                "title": "一路向南计划",
+                "forward": "人啊，想象中的难过和实际上的难过不一样。独自承受的脆弱，跟被人保护的脆弱也不一样。",
+                "img_url": "http://image.wufazhuce.com/FpxArKAMGYUYmcwfZEShdQqTia2x",
+                "like_count": 2606,
+                "post_date": "2020-03-31 06:00:00",
+                "last_update_date": "2020-03-30 19:19:43",
+                "author": {
+                    "user_id": "11221818",
+                    "user_name": "田雪珊",
+                    "desc": "爱写字的中年叛逆少女。",
+                    "wb_name": "@雪山__",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "天真有邪，自由散漫。",
+                    "fans_total": "110",
+                    "web_url": "http://image.wufazhuce.com/Fni1Z_KHalbXweq6AWogA-OQZxgJ"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4256",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4256",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4256",
+                    "image": "http://image.wufazhuce.com/FpxArKAMGYUYmcwfZEShdQqTia2x",
+                    "title": "一路向南计划 作者/田雪珊",
+                    "content": "心里知道和真正发生之间，总还是隔着一万个想不到。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 一路向南计划",
+                        "desc": "文/田雪珊 心里知道和真正发生之间，总还是隔着一万个想不到。",
+                        "link": "http://m.wufazhuce.com/article/4256?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 一路向南计划",
+                        "desc": "文/田雪珊 心里知道和真正发生之间，总还是隔着一万个想不到。",
+                        "link": "http://m.wufazhuce.com/article/4256?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 一路向南计划》 文/田雪珊： 心里知道和真正发生之间，总还是隔着一万个想不到。 阅读全文：http://m.wufazhuce.com/article/4256?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4256?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一路向南计划",
+                        "desc": "心里知道和真正发生之间，总还是隔着一万个想不到。",
+                        "link": "http://m.wufazhuce.com/article/4256?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20045",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1143",
+                "title": "即将来临·下一个世界：第五章",
+                "forward": "他居然还穿越了那里 —“死亡封锁区”，一块早已经被核污染、一块聚集了无数兽人的必死之地。",
+                "img_url": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                "like_count": 678,
+                "post_date": "2020-03-31 06:00:00",
+                "last_update_date": "2020-04-07 18:18:06",
+                "author": {
+                    "user_id": "11174853",
+                    "user_name": "李永明",
+                    "desc": "我一路奋斗，不仅为了改变世界，也为了不让世界改变我……",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "《即将来临》第二部正在创作中",
+                    "fans_total": "219",
+                    "web_url": "http://image.wufazhuce.com/FvEDXeitvNoNe_H1vF8iAZC9Ht8B"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第5章",
+                "number": "5",
+                "serial_id": "82",
+                "serial_list": [
+                    "1136",
+                    "1137",
+                    "1140",
+                    "1141",
+                    "1143",
+                    "1145",
+                    "1147",
+                    "1149",
+                    "1152",
+                    "1153",
+                    "1155",
+                    "1157",
+                    "1159",
+                    "1160"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1143",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1143",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1143",
+                    "image": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                    "title": "即将来临·下一个世界：第五章 作者/李永明",
+                    "content": "他居然还穿越了那里 —“死亡封锁区”。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 即将来临·下一个世界：第五章",
+                        "desc": "文/李永明 他居然还穿越了那里 —“死亡封锁区”。",
+                        "link": "http://m.wufazhuce.com/serial/1143?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 即将来临·下一个世界：第五章",
+                        "desc": "文/李永明 他居然还穿越了那里 —“死亡封锁区”。",
+                        "link": "http://m.wufazhuce.com/serial/1143?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 即将来临·下一个世界：第五章》 文/李永明： 他居然还穿越了那里 —“死亡封锁区”。 阅读全文：http://m.wufazhuce.com/serial/1143?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1143?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "即将来临·下一个世界：第五章",
+                        "desc": "他居然还穿越了那里 —“死亡封锁区”。",
+                        "link": "http://m.wufazhuce.com/serial/1143?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20026",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2796",
+                "title": "为什么有的人天天找我聊天？",
+                "forward": "我想与你一起度过这一天，聊些有的没的。",
+                "img_url": "http://image.wufazhuce.com/FvljrBnpK4AtNbl-pAUP8A4ed08s",
+                "like_count": 3848,
+                "post_date": "2020-03-31 06:00:00",
+                "last_update_date": "2020-03-30 20:10:26",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "峥嵘",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2796",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2796",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2796",
+                    "image": "http://image.wufazhuce.com/FvljrBnpK4AtNbl-pAUP8A4ed08s",
+                    "title": "为什么有的人天天找我聊天？",
+                    "content": "有个不是很熟男生，喜欢天天找我聊天，这是为什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 为什么有的人天天找我聊天？",
+                        "desc": "文/伟大的人民 “这个妹妹我曾见过的”。",
+                        "link": "http://m.wufazhuce.com/question/2796?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 为什么有的人天天找我聊天？",
+                        "desc": "文/伟大的人民 “这个妹妹我曾见过的”。",
+                        "link": "http://m.wufazhuce.com/question/2796?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 为什么有的人天天找我聊天？》 文/伟大的人民： “这个妹妹我曾见过的”。 阅读全文：http://m.wufazhuce.com/question/2796?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2796?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "为什么有的人天天找我聊天？",
+                        "desc": "“这个妹妹我曾见过的”。",
+                        "link": "http://m.wufazhuce.com/question/2796?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11182724",
+                    "user_name": "伟大的人民",
+                    "desc": "虽然大叔长了一张粗糙的脸，但是大叔有一颗细腻的心。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "微信公众号：大叔谈恋爱。",
+                    "fans_total": "411",
+                    "web_url": "http://image.wufazhuce.com/Fl8JCir9nBw5C8vgDpPQlSZ7QEOP"
+                }
+            },
+            {
+                "id": "20083",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1975",
+                "title": "春天没了你，四月成了最残酷的季节",
+                "forward": "我曾听人说过，当你不能再拥有，唯一能让自己做的，就是不要忘记。",
+                "img_url": "http://image.wufazhuce.com/FuYA1o4X5SXOpkgj3edaE4AtJkaw",
+                "like_count": 3434,
+                "post_date": "2020-03-31 06:00:00",
+                "last_update_date": "2020-03-30 19:38:57",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "张国荣电影纪念",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4958",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1975",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1975",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1975",
+                    "image": "http://image.wufazhuce.com/FuYA1o4X5SXOpkgj3edaE4AtJkaw",
+                    "title": "「一个」电影: 张国荣电影纪念",
+                    "content": "弗洛伊德说：&ldquo;短暂的东西都是美好的，因为在它生命最璀璨的时刻给永久保留下来，我们看不见秋去冬来的凋萎，所以便成了永恒。&rdquo;当我们哀悼短暂而美好的东西，如生命，是因为我们感觉并且无法克服那带来的庞大失落。2003年4月1日，空气中尚且还弥漫着SARS危险的气息，一条如愚人般的新闻震惊世界：他离开了，从环文华东方酒店二十四楼纵身跃下。没有任何预兆，没有丝毫准备，所有爱他的人不得不接受如浪潮如暴雨一般的沮丧、失落和悲恸。为了再见他一面，每年的四月和九月，全世界的粉丝都会聚集在小岛上，同唱一曲《梦死醉生》。从80年代的&ldquo;荣迷&rdquo;到&ldquo;后荣迷&rdquo;，一代一代的年轻人慢慢老去却依然坚守，一代一代生机勃勃的年轻人加入并持续接力，传递着他的永恒传奇。他是风华绝代的张国荣，是&ldquo;一生没有做坏事&rdquo;的Leslie，是值得一生宠爱的哥哥。哥哥永远青春明艳，《纵横四海》里，他是那个潇洒风流、胆大包天的江湖大盗，对着镜头浪荡不羁地招手，在犯案前对画家说：&ldquo;你知道我是谁吗？我叫阿占，记住我，看明天的报纸吧&rdquo;，并在画像上签下名字。哥哥永远摄人心魂，他是《阿飞正传》中&ldquo;一生只落地一次的无脚鸟&rdquo;旭仔，在留声机沉郁热情拉丁音乐中，穿着纯白背心和短裤，对着长镜独舞的阴郁孤独男子。从衣橱前的款摆腰身，到镜子中的孤芳自赏，再到阳台上的悠然沉醉，张国荣演尽放荡不羁和放浪形骸。旭仔，香港60年代渴望高飞的反叛青年，是一个对女人充满诱惑的浪子。没有女人可以忘记他一分钟的咒语，他用无限激情，吸引着一个又一个少女，打发着一分钟又一分钟的时光。但，他没有心思和任何女人恋爱，不会为任何一个女人停留，只是固执地寻找着自己的亲生母亲，为此不惜伤害自己的养母以及生命中出现的每个女人。用游戏的方式来追逐自己的感情，用遗忘的方式来表达自己的珍藏。当千里迢迢的旭仔从香港到菲律宾寻母，生母却避而不见，他愤而离去。背过镜头，走得飞快，双肩随着急速的脚步起伏晃动，留下一句狠辣的自白：&ldquo;当我离开这座房子的时候，我知道有一双眼睛一直在窗帘后看着我，可是我不会回头。我只是想看她一眼，既然她不给我机会，我也不会给她机会。&rdquo;张国荣独有的文艺忧郁气质和幽怨眼神和旭仔身上专属于60年代的慵懒和颓废、挥霍和迷失，内心的迷惘寂寞莫名暗合。关锦鹏提及他饰演的旭仔时，用了&ldquo;only and only one（绝无仅有的一个）。&rdquo;《阿飞正传》，让张国荣获得了第一个电影上的奖项&mdash;&mdash;第10届香港电影金像奖&ldquo;最佳男主角&rdquo;。如果人间真有&ldquo;美和爱&rdquo;的化身，只能是张国荣。世间纵有千般好，但唯他最珍贵。拍《胭脂扣》的时候，李碧华认定：&ldquo;如果不是他和她来演，情愿这部戏胎死腹中。&rdquo;他是张国荣，她是梅艳芳。&ldquo;十二少&rdquo;仿若是为张国荣量身打造的一般，世家弟子的风度翩翩，却又懦弱无能的模样，只能他能驾驭。电影中，他在烟花之地倚红楼内拾级而上，或左右流盼，或回眸浅笑，演活了那个流连风月场所的纨绔多情子弟，十二少。流转的眼波，抽大烟的迷离，吞鸦片时的脆弱无助，张国荣在举手投足间把十二少的贵气和旧时颓靡如工笔画一般细细勾勒。作为情欲的化身，十二少因性生爱，恋上红牌妓女如花。相爱的两人，因身份地位悬殊和家人反对，说好一起因爱殉情，十二少却选择了苟且偷生，负情了苦苦等候的如花。如果天下&ldquo;负心汉&rdquo;有一张名单，其中一定有&ldquo;十二少&rdquo;的名字，只是他是个让人恨不起来的负心汉。忘不了他，年轻时眼神中充满的醉生梦死的色欲，神态中透露的逍遥洒脱的天真，举止间张扬的睥睨世俗的自负。恨不起他，年老色衰、变得无耻不堪，再见阴间而来的如花时，却步履踉跄地追出去一直嘶喊着&ldquo;对不起&rdquo;。&ldquo;十二少&rdquo;只能是张国荣，也只有张国荣，再无他人可配。不同于戏里的薄情负心，戏外的张国荣重情重义。人人都知，他和梅艳芳是好朋友。有一阵梅姐感情不顺，和他玩笑说：&ldquo;如果我到 40 岁，嫁不出去，你娶我好吗？&rdquo;张国荣爽快地答，&ldquo;好呀&rdquo;。只可惜，他走得太着急，同年12月30日梅艳芳也病逝。巧的是，那一年，梅姐正好40岁。张国荣曾在演唱会上说：&ldquo;一个艺人能够做到姣、靓、型、寸，男又得女又得，这才是成功。&rdquo;这份对自我阴柔特质的自信和肯定，让他在电影《霸王别姬》中大放异彩，如袁四爷（葛优饰）在影片中的赞叹：&ldquo;此境非你莫属，此貌非你莫有。&rdquo;程蝶衣，一生悲苦，是无父无母的孤儿，卖落戏班后只与师哥段小楼相依为命。戏台上，他们是最佳拍档；戏台下，他们是生活伴侣，从小青梅竹马，祸福与共。可惜，段小楼未能对京剧从一而终，中途数度放弃，对艺术不忠。长大后，另爱他人，背弃爱情，独留程蝶衣将所有悲伤默默承受。他是一个在现实里做梦的人，在他的世界里，理想和现实、舞台和人生、男与女、真与幻、生与死统统被融合了。他的梦幻人生既是舞台情景与现实人生的混淆，又是男性意识与女性意识的错乱。他和她，程蝶衣和虞姬，真假难辨，人戏合一，两者难以剥离。陈凯歌选张国荣出演程蝶衣，看中的不仅是他孤僻清冽气质与程蝶衣的贴合，更是中意他男儿身却独有的妩媚，特别是眼神，那是虞姬的眼神。只有他能演出人戏不分、雌雄同体的神韵，只有他能将深入骨髓的阴柔之美自然流露，也只有他能成就&ldquo;不疯魔不成活&rdquo;的程蝶衣。张国荣精致细腻，出神入化的表演，让《霸王别姬》成了他影坛人生的一部重要代表作。此片被评为上个世纪&ldquo;一百部最伟大的电影&rdquo;，同时还是港人&ldquo;十大最爱电影&rdquo;之首，更在1993年的戛纳电影节上，首次捧得&ldquo;金棕榈奖&rdquo;。也是从那时起，&ldquo;Leslie&rdquo;这个名字飞出了香港的弹丸之地，成了国际影坛90年代的一名红人。从那之后，他的剧照几乎在欧美、日本、大陆和港台的每一本影视刊物上出现。林夕在为张国荣的《我》填词时这样写道：&ldquo;谁都是造物者的光荣，不用闪躲，为我喜欢的生活而活，不用粉墨，就站在光明的角落我就是我，是颜色不一样的烟火。&rdquo;在浮华喧嚣、纷繁复杂的娱乐圈，张国荣明知真性情是禁忌，却偏爱表达真我，做个反叛者。90年代正是香港传媒全面沦陷的年代，&ldquo;狗仔队&rdquo;独大垄断，只有&ldquo;煽、色、腥&rdquo;的报道。在媒体的无孔不入的猎奇镜头下，口诛笔伐的凭据中，贩卖隐私的被消费中，张国荣毅然决然穿上了红艳高跟鞋与男性舞蹈演员贴身共舞。更毫不避讳地出演了王家卫的电影《春光乍泄》。影片中，他饰演的何宝荣和黎耀辉（梁朝伟饰）在充满南美风情的色欲地带阿根廷布宜诺斯艾利斯共度了一段狂野、迷乱、风流的同志情。他们时而抱住彼此身体，轻移脚步，在简陋、寂静无人的厨房回旋起舞。时而赤身裸体互相触抚热吻，粗粝的画面、粗重的喘息、粗暴的动作，将男性恋人的情与欲、欲与爱推向纯美的艺术境界。《春光乍泄》里的张国荣奉献了最&ldquo;本色&rdquo;的表演，唯美的爱情，大胆绚丽的画面，晃动和迷离的镜头，配上何宝荣的那句：&ldquo;我们重新开始吧&rdquo;，诉尽了爱人间彼此纠缠苦闷却无法脱身的两难。只要他静静地靠上黎耀辉肩膀时，他的一切放纵就可以得到原谅；只要他对着那盏灯哭泣时，所有人都想为他擦泪。张国荣的诠释，让何宝荣的放纵不羁的缺陷成了动人心魂的美丽。虽然此片中的他错过了金像奖影帝桂冠，却再次成就了一个无法超越的经典荧幕形象。1997 年 1 月，红馆复出演唱会的最后一场，台上的张国荣公布了他和唐生的关系，&ldquo;唐先生是妈妈以外，我生命中至爱的人&rdquo; 并配上一曲《为你钟情》。不出所料，无良狗仔不仅伺机大作文章，偷拍成瘾，甚至随意捏造谎言，蓄意污化他的形象。当尖锐的镜头一次又一次对准张国荣和唐生时，这一次，他倔强地牵着唐生的手，任凭身后的照相机怎么去捕捉画面，任凭明日的新闻会有何等看图说话。只是，再无所谓的态度都藏着所谓，再坚强的意志都融着脆弱，再强大的内心都不敌中伤。阿飞一生落地一次，蝶衣以死明志，何宝荣失落了人间护照，哥哥抱着溃败心情写下了遗言：&ldquo;Depression，多谢各位朋友，多谢麦列菲菲教授，这一年来很辛苦，不能再忍受，多谢唐先生，多谢家人，多谢肥姐，我一生没有做坏事，为何这样。&rdquo;若这地方必须将爱伤害，抹杀内心色彩，请让你就此消失这晚风雨内，可再生某梦幻年代。有人问，张国荣的魅力在哪里，为什么他能完全地从时间中获得赦免，除了变得越来越凄迷，越来越美丽。因为他是所有&ldquo;荣迷&rdquo;也会是未来&ldquo;荣迷&rdquo;心中永恒闪亮的灯塔，因为心中有他，远方有他，所以想为他好好经营自己的生活。如他一般勤奋工作、像他一样孤勇坚强、似他一般善待家人和朋友，做一个和他一样真正的好人。纵使有一天容颜老去，繁华落尽，也不忘一生之中有幸成为他的粉丝。又逢一年人间四月芳菲尽，绵绵阴雨未断绝，想念他，悼念他。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 春天没了你，四月成了最残酷的季节",
+                        "desc": "文/不辣 我曾听人说过，当你不能再拥有，唯一能让自己做的，就是不要忘记。",
+                        "link": "http://m.wufazhuce.com/movie/1975?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 春天没了你，四月成了最残酷的季节",
+                        "desc": "文/不辣 我曾听人说过，当你不能再拥有，唯一能让自己做的，就是不要忘记。",
+                        "link": "http://m.wufazhuce.com/movie/1975?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 春天没了你，四月成了最残酷的季节》 文/不辣： 我曾听人说过，当你不能再拥有，唯一能让自己做的，就是不要忘记。 阅读全文：http://m.wufazhuce.com/movie/1975?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1975?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "春天没了你，四月成了最残酷的季节",
+                        "desc": "我曾听人说过，当你不能再拥有，唯一能让自己做的，就是不要忘记。",
+                        "link": "http://m.wufazhuce.com/movie/1975?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20027",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3101",
+                "title": "四月，一切向暖，深深思念",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fts5aAbLPbFsRTp9dNHoUsSsjVYy?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1777,
+                "post_date": "2020-03-31 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3101",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3101",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 四月，一切向暖，深深思念",
+                        "desc": "在四月，你有什么重要的日子吗？",
+                        "link": "http://m.wufazhuce.com/radio/3101?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ljw7hRzp5YPMZTzuuUL-f9Pa6sRw"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 四月，一切向暖，深深思念",
+                        "desc": "在四月，你有什么重要的日子吗？",
+                        "link": "http://m.wufazhuce.com/radio/3101?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ljw7hRzp5YPMZTzuuUL-f9Pa6sRw"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 四月，一切向暖，深深思念》 主播/李荟莹： 在四月，你有什么重要的日子吗？ 阅读全文：http://m.wufazhuce.com/radio/3101?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3101?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/ljw7hRzp5YPMZTzuuUL-f9Pa6sRw"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "四月，一切向暖，深深思念",
+                        "link": "http://m.wufazhuce.com/radio/3101?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ljw7hRzp5YPMZTzuuUL-f9Pa6sRw"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 796 期",
+                "audio_url": "http://music.wufazhuce.com/ljw7hRzp5YPMZTzuuUL-f9Pa6sRw"
+            }
+        ],
+        "menu": {
+            "vol": "2733",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4256",
+                    "title": "一路向南计划"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1143",
+                    "serial_list": [
+                        "1136",
+                        "1137",
+                        "1140",
+                        "1141",
+                        "1143",
+                        "1145",
+                        "1147",
+                        "1149",
+                        "1152",
+                        "1153",
+                        "1155",
+                        "1157",
+                        "1159",
+                        "1160"
+                    ],
+                    "title": "即将来临·下一个世界：第五章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2796",
+                    "title": "为什么有的人天天找我聊天？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1975",
+                    "title": "春天没了你，四月成了最残酷的季节"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3101",
+                    "title": "四月，一切向暖，深深思念"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

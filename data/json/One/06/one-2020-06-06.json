@@ -1,0 +1,522 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5508",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-06 06:00:00",
+        "content_list": [
+            {
+                "id": "20457",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2841",
+                "title": "插画",
+                "forward": "此时情绪此时天，无事小神仙。",
+                "img_url": "http://image.wufazhuce.com/FjDqFI4fCDNkm-dW5M1z8zwXZAnN",
+                "like_count": 24898,
+                "post_date": "2020-06-06 06:00:00",
+                "last_update_date": "2020-06-06 08:51:30",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2800",
+                "pic_info": "@狐狸狐狸鱼",
+                "words_info": "周邦彦《鹤冲天·溧水长寿乡作》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2841",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2841",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2841",
+                    "image": "http://image.wufazhuce.com/FjDqFI4fCDNkm-dW5M1z8zwXZAnN",
+                    "title": "VOL.2800",
+                    "content": "此时情绪此时天，无事小神仙。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2841?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2841?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 此时情绪此时天，无事小神仙。——周邦彦《鹤冲天·溧水长寿乡作》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2841?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2841?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20487",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4342",
+                "title": "假枪",
+                "forward": "“烧房子还是吃枪子，你选一个。”",
+                "img_url": "http://image.wufazhuce.com/FhES7PmBT9LQPG21ieus2Jhsq9my",
+                "like_count": 1653,
+                "post_date": "2020-06-06 06:00:00",
+                "last_update_date": "2020-06-09 13:37:43",
+                "author": {
+                    "user_id": "10842628",
+                    "user_name": "赵耐凡",
+                    "desc": "短篇《十一月北方下雪》作者",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "耐凡不耐烦",
+                    "fans_total": "798",
+                    "web_url": "http://image.wufazhuce.com/Fj1H6EI3JIZh-fdDJmXfRj1YJOJl"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4342",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4342",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4342",
+                    "image": "http://image.wufazhuce.com/FhES7PmBT9LQPG21ieus2Jhsq9my",
+                    "title": "假枪 作者/赵耐凡",
+                    "content": "没人知道，他身上揣了把枪。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 假枪",
+                        "desc": "文/赵耐凡 没人知道，他身上揣了把枪。",
+                        "link": "http://m.wufazhuce.com/article/4342?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 假枪",
+                        "desc": "文/赵耐凡 没人知道，他身上揣了把枪。",
+                        "link": "http://m.wufazhuce.com/article/4342?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 假枪》 文/赵耐凡： 没人知道，他身上揣了把枪。 阅读全文：http://m.wufazhuce.com/article/4342?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4342?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "假枪",
+                        "desc": "没人知道，他身上揣了把枪。",
+                        "link": "http://m.wufazhuce.com/article/4342?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20474",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1203",
+                "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第五章",
+                "forward": "活得更认真一些，好好吃饭，用心刷牙，见到熟人大声说嗨，离别时看着别人的眼睛说再见。",
+                "img_url": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                "like_count": 894,
+                "post_date": "2020-06-06 06:00:00",
+                "last_update_date": "2020-06-02 12:31:56",
+                "author": {
+                    "user_id": "10730599",
+                    "user_name": "城迟",
+                    "desc": "人生前半场周转于互联网公司，凡客T恤事业部总监，乐视影业IP衍生部负责人。36岁出版代表作《我和这个世界不熟》，上市三天，冲进当当畅销榜前十。被阿耐、路内等著名作家推荐。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，代表作《我和这个世界不熟》。",
+                    "fans_total": "1326",
+                    "web_url": "http://image.wufazhuce.com/FiR3WpirjtIX3_RL6eZGxew_la3R"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第19章",
+                "number": "19",
+                "serial_id": "84",
+                "serial_list": [
+                    "1164",
+                    "1165",
+                    "1166",
+                    "1168",
+                    "1171",
+                    "1172",
+                    "1178",
+                    "1179",
+                    "1181",
+                    "1183",
+                    "1184",
+                    "1187",
+                    "1189",
+                    "1190",
+                    "1194",
+                    "1196",
+                    "1199",
+                    "1201",
+                    "1203",
+                    "1206",
+                    "1207",
+                    "1209"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1203",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1203",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1203",
+                    "image": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                    "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第五章 作者/城迟",
+                    "content": "人生除了生死，都是擦伤。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 分手遗迹清理员：不会占卜的吉普赛女孩·第五章",
+                        "desc": "文/城迟 人生除了生死，都是擦伤。",
+                        "link": "http://m.wufazhuce.com/serial/1203?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 分手遗迹清理员：不会占卜的吉普赛女孩·第五章",
+                        "desc": "文/城迟 人生除了生死，都是擦伤。",
+                        "link": "http://m.wufazhuce.com/serial/1203?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 分手遗迹清理员：不会占卜的吉普赛女孩·第五章》 文/城迟： 人生除了生死，都是擦伤。 阅读全文：http://m.wufazhuce.com/serial/1203?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1203?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第五章",
+                        "desc": "人生除了生死，都是擦伤。",
+                        "link": "http://m.wufazhuce.com/serial/1203?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20478",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2869",
+                "title": "如何成为朋友圈文案大师？",
+                "forward": "让粗糙的事情本身被蒙进毛玻璃里，而不是展示最琐碎的细节。",
+                "img_url": "http://image.wufazhuce.com/Fp0IG_zCwtSlWBzKXYpyuStD8uoW",
+                "like_count": 2854,
+                "post_date": "2020-06-06 06:00:00",
+                "last_update_date": "2020-06-07 12:45:28",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "绕日飞行",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2869",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2869",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2869",
+                    "image": "http://image.wufazhuce.com/Fp0IG_zCwtSlWBzKXYpyuStD8uoW",
+                    "title": "如何成为朋友圈文案大师？",
+                    "content": "如何成为朋友圈文案大师？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何成为朋友圈文案大师？",
+                        "desc": "文/陈大力 首先不要怕丢脸！",
+                        "link": "http://m.wufazhuce.com/question/2869?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何成为朋友圈文案大师？",
+                        "desc": "文/陈大力 首先不要怕丢脸！",
+                        "link": "http://m.wufazhuce.com/question/2869?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何成为朋友圈文案大师？》 文/陈大力： 首先不要怕丢脸！ 阅读全文：http://m.wufazhuce.com/question/2869?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2869?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何成为朋友圈文案大师？",
+                        "desc": "首先不要怕丢脸！",
+                        "link": "http://m.wufazhuce.com/question/2869?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "7989297",
+                    "user_name": "陈大力",
+                    "desc": "陈大力，95后新锐作者，无敌大长腿，钻石少女心。公众号：陈大力（ID:chendali1995）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "95后新锐作者，无敌大长腿，钻石少女心。",
+                    "fans_total": "9855",
+                    "web_url": "http://image.wufazhuce.com/Fm7qZ68h0XjMceY1WWp7-ykCX29R"
+                }
+            },
+            {
+                "id": "20490",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2005",
+                "title": "爱是最大尺度的秘密，是最长一声的叹息",
+                "forward": "人人都知“幸福”是人编织的谎言，却人人拼命追逐。",
+                "img_url": "http://image.wufazhuce.com/FnKIRWbR3MI64-536hN4f-BaVVDr",
+                "like_count": 1959,
+                "post_date": "2020-06-06 06:00:00",
+                "last_update_date": "2020-06-06 14:49:25",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "叹息桥",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4988",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2005",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2005",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2005",
+                    "image": "http://image.wufazhuce.com/FnKIRWbR3MI64-536hN4f-BaVVDr",
+                    "title": "「一个」电影: 叹息桥",
+                    "content": "&ldquo;人的一生，需要隐藏多少秘密，才能巧妙地度过一生&rdquo;，这是智者对混沌人生的发问和唏嘘。人生混沌，所有一切都只能在真相和假象的边界游走。所谓&ldquo;幸福&rdquo;和&ldquo;叹息&rdquo;有时不过桥的两端，就看你更愿意站在哪里。《叹息桥》以一种&ldquo;不破不立&rdquo;的全新姿态为港剧正名，仅仅开播两天就创下豆瓣9.0的高分，并登上热门剧集首位。不见TVB中的鸡飞狗跳、激情枪战和脸谱化的港人态度&ldquo;做人最重要的是开心&rdquo;，这部剧用自己异类的特别，证明了在港剧整体萎靡的大背景下它如黑马一般的存在，也重新定义了港剧。原来，除了TVB，还可以是它《叹息桥》。所以，它讲的究竟是一个怎样的故事？正如这部剧宣传照最下面的一排小字所言&ldquo;走进爱情罗生门&rdquo;，《叹息桥》的内核是爱情，但又不仅仅讲爱情那么简单。这是一个时间跨度长达20年，发生在6个男女之间的爱恨纠葛，其中更多的是人对人生的无助，人性悲凉，和对生活的无奈。每个人，在这个故事里，都能找到自己的影子。李子勇、胡启源和何乐儿的三角恋情，胡启源和梁淑媛的婚外情，李子勇和方小薇&ldquo;友情以上，恋人未满&rdquo;的同居情，在看似彼此平和假象和稳定关系下，却各自怀揣着不可言说的秘密。只有当镜头对准他们的时候，那些深藏于心的真实想法才如拧开的水龙头一般释放。导演压迫的镜头感和强迫的画面感，就像是一把冷峻的手术刀，轻轻划开了这块属于假象和真相混沌的危险边缘地带。低视角、留边框、留白空间，造足了人与人之间的疏离感和寂寞感。贴地的机位，像是一种偷窥，近大远小的透视感，剥离了人物和环境的紧密感，拘谨在画面中间渺小的两个人，既独立又禁锢。明明是一家人，在一张桌子吃饭，中间却隔了一堵墙，对坐的两个又各自被固定在狭小的窗框中。而大量对称和1/3构图，强烈视觉冲击和文艺感之余，更多的是一丝不苟的强迫感。秩序中容不得一丝杂乱，克制里容不得一刻放纵，从多维度象征着6个男女的渺小和无力。当李子勇怀疑自己和何乐儿之间存在第三者，按下她家门铃，开门却看到胡启源的时候，才恍然，原来自己才是第三者。是恋人，还是备胎？李子勇和何乐儿初识于比利时，那时候他们很年轻。李子勇为了多赚钱铤而走险被滞留在比利时，伪装成一名街头画家，暗地里做着见不得光的事，正巧碰上了独自旅行的富家女何乐儿。因为一只丢失的钱包和一张画像，本来只该匆匆别过的他们，在比利时有了在叹息桥又一次的重逢。那时的他们并不知道，这一刻的缘分会延续到二十年后。多年后，在何乐儿父亲昌哥的小酒馆，何乐儿认出了李子勇，那个曾经才华横溢的比利时画家。此时的李子勇已改邪归正，和好友共同经营着一家茶餐厅。得知何乐儿工作之余，还是网络美食达人，便邀请她来自己餐厅试吃。你来我往，李子勇和何乐儿重逢后感情不断升温，牵手、吃饭、看电影，做了一切情侣之间该做的事，也是别人眼中最登对的情侣。只有李子勇隐隐感觉，他和何乐儿之间好像没那么简单。虽然两人是恋人关系，但李子勇从没有去过何乐儿家里，偶尔看电影晚了，送何乐儿回家，她也从来不会邀请他上楼喝杯咖啡。在何乐儿发到网上的图片背景里，李子勇还发现了并不属于她的手机充电线。明明她已经看过那部电影，还陪他再看一遍，假装自己是第一次看。恋人之间是有第六感的，特别当两个人之间出现了第三者。无数的推测和假象，让李子勇来到了何乐儿的家门前，按下了门铃。这是李子勇视角中，他和何乐儿的感情，在胡启源开门的那刻，破灭了。胡启源，经济适用男，和何乐儿相识于一次朋友的生日会。工作稳定、会赚钱、人好，符合一切&ldquo;好男人&rdquo;标准，最大的喜好是收集限量玩具，最大缺点是听妈妈的话，是个永远长不大的妈宝男。在和何乐儿交往同居的日子里，他可以一边当着蹭吃蹭住的巨婴，一边可以享受着没有母亲强权的自由。所以，即使他发现何乐儿有了新欢李子勇，也可以装作毫不在意。因为，在香港想租一个比何乐儿家要好的地方成本太大，而他又不想回到母亲身边。与其这样，不如对自己的爱情睁一只眼闭一只眼。在没有更好的选择下，何乐儿就是最好的选择。这份感情中，李子勇选择了戳穿，胡启源选择了漠视，截然不同的爱情选择，计较的已经不再是&ldquo;谁更爱何乐儿&rdquo;这个命题，他们仅仅在意的只是&ldquo;和她在一起可以得到什么&rdquo;或者&ldquo;何乐儿是不是在说谎&rdquo;。爱情，对三人来说，已经是一道计算题。他们都是精明的商人，打着爱的名义干尽违心图利的事。小说电影中所描绘的爱情浪漫和美好，在这个故事中不复存在，更可怕的是，他们的模样才是生活中爱情最真实的样子。谁是恋人，谁是备胎？这个问题不重要，因为无论是前者，还是后者，都已和爱情无关。所以，就算何乐儿有多渴望爱情，甚至用&ldquo;脚踏两只船&rdquo;选择所谓最佳爱情时，仍然无从得知，自己想要的爱情究竟是什么。被现实推着走的她，来不及洞察自己内心，只能潦草选择，混乱判断。&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;是婚姻，还是互捞？在三个人的追逐中，何乐儿选择了胡启源，因为这是她父亲给她建议。从小家境优越，在父亲宠溺中长大的她，自小没有主见。父亲，是她的靠山，也是她的避风港，生活的风浪从未将她打湿。所以，三十多岁的她，面对爱情选择题，第一时间想到的还是求助父亲。胡启源，老实可靠，他比李子勇更适合作为结婚对象，是何乐儿脱离&ldquo;大龄剩女&rdquo;和&ldquo;高龄产妇危机&rdquo;的救命稻草。这些，比起他耽误何乐儿8年青春只为蹭吃蹭喝显得无足轻重。所以，就算他错过了试婚纱，何乐儿也能轻易原谅。每个人都有秘密，拆开&ldquo;好男人&rdquo;人设胡启源的秘密，只能用&ldquo;一地鸡毛&rdquo;形容。年轻的时候，他和上司梁淑媛，曾发生一夜情，不知情下孕有一子。一夜情后，两人各自步入正轨，梁淑媛和男友结婚，胡启源离开原来的公司，有了新的生活。多年后，梁淑媛丈夫因为多年不得志，离开家庭前往美国。孤身的梁淑媛与胡启源再次重逢，钟家俊的真实身份才浮出水面。此时，梁淑媛是胡启源儿子的母亲，胡启源是何乐儿的未婚夫。胡启源错过试婚纱是故意的，比起何乐儿，他找到了功能更齐全的梁淑媛。突然拥有了几百尺的房子，还有了一个儿子，这一切让他有了踢开何乐儿的勇气。但，曾经都有过想要撇开彼此的他们，还是结婚了。因为何乐儿的父亲需要人照顾，因为梁淑媛重新找回了和美的一家三口幸福，胡启源又落单了。婚姻的本质是契约精神，是一生承诺，但对何乐儿和胡启源来说，更像是对溺水之人的互捞。幸福的婚礼现场，前来祝福的宾客看到的是包裹甜蜜的美丽糖纸，却从来想不到拆开包装，里面是一条臭水沟，深陷其中的人，不仅无法仰望星空，反而越来越下沉。如果说李子勇和何乐儿戳破了爱情的美丽肥皂泡，让人对爱情不再抱以纯真幻想，那胡启源和何乐儿的婚姻所投射的就是现实生活中大多数人真实的婚姻现状。自我麻痹、自欺欺人，明明知道两个之间有裂痕，也知道裂痕在哪里，可就是宁可选择视而不见也不肯花时间修复。睡在一张双人床上，除了是恋人，还有可能只是床伴。&nbsp;是朋友，还是爱人？《叹息桥》中唯一一个相对温暖的一对，就是李子勇和方小薇。年轻的时候，他们在同一间茶餐厅打工。不善言辞的李子勇对方小薇早已心生情愫，却始终暗自掩藏。他能为方小薇做的就是，多赚钱帮她还高利贷，以至于在比利时铤而走险，错过了回香港陪她过生日的承诺。为了隐瞒真相，李子勇还骗她说&ldquo;比利时靓妹很多，风景很好，想多留一段时间。&rdquo;方小薇重视承诺，从不失信，李子勇的食言，伤透了她的心。另一端，在比利时得知方小薇交了新男友的李子勇，只能狠狠地用拳头锤地。年轻的时候，李子勇和方小薇之间就有超越友情，又不是爱情的感情存在，不过一个装傻，一个不说，一晃二十年就过了。李子勇终于回到了香港，理由很简单，方小薇失恋了。作为好拍档，好朋友，李子勇第一时间收留了落魄的方小薇，并和她一起开了茶餐厅。男女之间的友情是种很玄的东西，好像多少都会掺杂着喜欢和爱。可一旦错过了合适的时机，朋友永远变不成恋人。就像是烧到99度的水，只要不继续加温，就永远不会沸腾。方小薇看着李子勇和何乐儿交往，李子勇看着方小薇进入新的感情，谁也不表达嫉妒，谁也不争取机会，只任两人之间变成恋人的可能性越来越小。没人比李子勇更知道方小薇是一个缺少安全感的人，所以他每天都会比她早回家。没人李子勇更了解方小薇是一个喜欢照顾别人的人，因为这样她才有被需要的感觉。没人知道，李子勇对着方小薇的现男友说：&ldquo;如果有天，你不喜欢她了，别告诉她，你和我说。&rdquo;在等待船来的港口，尊重承诺的方小薇来了，李子勇终于把二十年前不敢当面给她的画交到了她的手里。所有能表达的感情都是肤浅的，这句话用来形容李子勇和方小薇再合适不过。他们之间，是爱情还是友情，重要吗？友情没有进化成爱情，遗憾吗？或许吧，但在爱不需要任何名义，付出不需要任何身份，真心不需要任何回报中，他们是幸福的。那种一往情深的感情或许不冠以任何抬头，却是真挚感人。错过，如果是种注定，理由不过是因为害怕失去。正如《我可能不会爱你》中程又青在剧场一遍又一遍重复地那样：&ldquo;在拥有的时候，就已经失去&rdquo;，所以，最好的拥有就是不如错过。&nbsp;是幸福，还是叹息？比利时，有座桥叫叹息桥。为了看一眼，年轻的何乐儿远赴千里，孤身一人来到这里，却偶遇了李子勇。李子勇告诉她，叹息桥的别名叫幸福桥，在桥上遇见的男女都会一见钟情，陷入爱情。事实证明，叹息桥也好，幸福桥也罢，身在其中的男男女女，爱来爱去的故事到最后总是叹息胜过幸福。《叹息桥》以一种罗生门的方式，用不同的个人视角讲述了同一时间、空间里发生的事情，交错的时间，非线性的叙事，拼凑出了世间真相和个人面对生活的无奈和茫然。所有的悲欢、爱恨、拥有、错过，在这里混乱地发生，又真实存在。人类对于自我感情世界的认知是狭小的，每个人都带着私心和怯懦在其中盲目游走。走向何方，目的地是哪里，永远是个谜。漫漫一生，我们也好像只能在不断被真相刺伤和自我麻痹中匍匐前行，寻觅着所谓的&ldquo;幸福&rdquo;。人人都知&ldquo;幸福&rdquo;是人编织的谎言，却人人拼命追逐。追到穷途末路时，才恍觉，最后只有一声叹息。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 爱是最大尺度的秘密，是最长一声的叹息",
+                        "desc": "文/不辣 有些人，一旦错过就不再。",
+                        "link": "http://m.wufazhuce.com/movie/2005?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 爱是最大尺度的秘密，是最长一声的叹息",
+                        "desc": "文/不辣 有些人，一旦错过就不再。",
+                        "link": "http://m.wufazhuce.com/movie/2005?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 爱是最大尺度的秘密，是最长一声的叹息》 文/不辣： 有些人，一旦错过就不再。 阅读全文：http://m.wufazhuce.com/movie/2005?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2005?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "爱是最大尺度的秘密，是最长一声的叹息",
+                        "desc": "有些人，一旦错过就不再。",
+                        "link": "http://m.wufazhuce.com/movie/2005?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2800",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4342",
+                    "title": "假枪"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1203",
+                    "serial_list": [
+                        "1164",
+                        "1165",
+                        "1166",
+                        "1168",
+                        "1171",
+                        "1172",
+                        "1178",
+                        "1179",
+                        "1181",
+                        "1183",
+                        "1184",
+                        "1187",
+                        "1189",
+                        "1190",
+                        "1194",
+                        "1196",
+                        "1199",
+                        "1201",
+                        "1203",
+                        "1206",
+                        "1207",
+                        "1209"
+                    ],
+                    "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第五章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2869",
+                    "title": "如何成为朋友圈文案大师？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2005",
+                    "title": "爱是最大尺度的秘密，是最长一声的叹息"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

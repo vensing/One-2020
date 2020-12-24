@@ -1,0 +1,392 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5701",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-11-27 06:00:00",
+        "content_list": [
+            {
+                "id": "21492",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "3016",
+                "title": "摄影",
+                "forward": "真正重要的那种自由，意味着专注、自觉、自律、不懈努力，以及真诚的关怀他人，并且每天都以无数琐碎微小而乏味的方式，一次又一次地为他人牺牲奉献。这便是真正的自由。这便是学习如何去思考。",
+                "img_url": "http://image.wufazhuce.com/FskVoIhNiBe_GgK9cHwEp5-T22th",
+                "like_count": 13093,
+                "post_date": "2020-11-27 06:00:00",
+                "last_update_date": "2020-11-23 15:09:04",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2974",
+                "pic_info": "Randy Fath",
+                "words_info": "大卫·福斯特·华莱士《生命中最简单又最困难的事》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3016",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/3016",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/3016",
+                    "image": "http://image.wufazhuce.com/FskVoIhNiBe_GgK9cHwEp5-T22th",
+                    "title": "VOL.2974",
+                    "content": "真正重要的那种自由，意味着专注、自觉、自律、不懈努力，以及真诚的关怀他人，并且每天都以无数琐碎微小而乏味的方式，一次又一次地为他人牺牲奉献。这便是真正的自由。这便是学习如何去思考。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3016?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3016?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 真正重要的那种自由，意味着专注、自觉、自律、不懈努力，以及真诚的关怀他人，并且每天都以无数琐碎微小而乏味的方式，一次又一次地为他人牺牲奉献。这便是真正…——大卫·福斯特·华莱士《生命中最简单又最困难的事》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3016?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3016?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21498",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4526",
+                "title": "沉默前奏曲",
+                "forward": "我向来觉得，每个人的孤独都很独特，这种孤独也是其气质所在，倘若因无法自持而特意分享这种孤独，反而会沦为平庸。",
+                "img_url": "http://image.wufazhuce.com/Fr-d_q3lznU9dxh2VH97Eq40ckKU",
+                "like_count": 2261,
+                "post_date": "2020-11-27 06:00:00",
+                "last_update_date": "2020-11-27 11:11:48",
+                "author": {
+                    "user_id": "11639041",
+                    "user_name": "姜尤硕",
+                    "desc": "已出版《时光若如悬河》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "已出版《时光若如悬河》。",
+                    "fans_total": "296",
+                    "web_url": "http://image.wufazhuce.com/Fi1xbokrVeDR5qos5n2qR6ID_NRb"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4526",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4526",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4526",
+                    "image": "http://image.wufazhuce.com/Fr-d_q3lznU9dxh2VH97Eq40ckKU",
+                    "title": "沉默前奏曲 作者/姜尤硕",
+                    "content": "对于相逢又离别这种事，最好习以为常。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 沉默前奏曲",
+                        "desc": "文/姜尤硕 对于相逢又离别这种事，最好习以为常。",
+                        "link": "http://m.wufazhuce.com/article/4526?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 沉默前奏曲",
+                        "desc": "文/姜尤硕 对于相逢又离别这种事，最好习以为常。",
+                        "link": "http://m.wufazhuce.com/article/4526?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 沉默前奏曲》 文/姜尤硕： 对于相逢又离别这种事，最好习以为常。 阅读全文：http://m.wufazhuce.com/article/4526?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4526?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "沉默前奏曲",
+                        "desc": "对于相逢又离别这种事，最好习以为常。",
+                        "link": "http://m.wufazhuce.com/article/4526?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21500",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3049",
+                "title": "你知道如何毁掉一个人吗？",
+                "forward": "人心被侵扰，灵魂便会逐渐枯竭，将如死水一潭，万念俱灰。",
+                "img_url": "http://image.wufazhuce.com/FhYNu_E_FpX1sYjCtR1cwy3mpHpf",
+                "like_count": 2900,
+                "post_date": "2020-11-27 06:00:00",
+                "last_update_date": "2020-11-27 11:04:27",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "Capote",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3049",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3049",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3049",
+                    "image": "http://image.wufazhuce.com/FhYNu_E_FpX1sYjCtR1cwy3mpHpf",
+                    "title": "你知道如何毁掉一个人吗？",
+                    "content": "你知道如何毁掉一个人吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你知道如何毁掉一个人吗？",
+                        "desc": "文/林庭 希望你不要遇到这样对你的人。",
+                        "link": "http://m.wufazhuce.com/question/3049?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你知道如何毁掉一个人吗？",
+                        "desc": "文/林庭 希望你不要遇到这样对你的人。",
+                        "link": "http://m.wufazhuce.com/question/3049?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你知道如何毁掉一个人吗？》 文/林庭： 希望你不要遇到这样对你的人。 阅读全文：http://m.wufazhuce.com/question/3049?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3049?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你知道如何毁掉一个人吗？",
+                        "desc": "希望你不要遇到这样对你的人。",
+                        "link": "http://m.wufazhuce.com/question/3049?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "21506",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3370",
+                "title": "祝远隔山海的你，日日快乐",
+                "forward": "“原来是你呀，你在偷看吗？”",
+                "img_url": "http://image.wufazhuce.com/FuDJOykEuX50Ua2OAQBwdarIsOYm",
+                "like_count": 1610,
+                "post_date": "2020-11-27 06:00:00",
+                "last_update_date": "2020-11-26 17:13:02",
+                "author": {
+                    "user_id": "10594014",
+                    "user_name": "二葵",
+                    "desc": "直截了当白羊座",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "直截了当白羊座",
+                    "fans_total": "1144",
+                    "web_url": "http://image.wufazhuce.com/FnCiAnxUC4bylXx_kO0LdYbiz8As"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lp73jkvGY4UwPFMVYv_rauQ0lmgO",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "我和我的金鱼都抑郁了",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3370",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3370",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3370",
+                    "image": "http://image.wufazhuce.com/FuDJOykEuX50Ua2OAQBwdarIsOYm",
+                    "title": "「一个」音乐: 二葵 我和我的金鱼都抑郁了",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1许澈第一次遇到向栀的时候，她穿着一个很大的半旧睡裙，头发像金毛狮王一样炸着，手里拿了把扫帚，目光阴森森地看过来，让他直接打了个冷颤。&ldquo;新来的。&rdquo;向栀用扫帚戳了下地，&ldquo;你们小声一点。&rdquo;许澈看了眼墙上的时钟，中午十二点，他敢怒不敢言。第二次遇见向栀，是凌晨两点。许澈为了赶交稿期限半夜才从画室出来，却在楼道里被人堵住了回家的路。不是刻意堵他的，是有人挤在楼道里接吻，把路堵了。感应灯在亮起来的那一秒许澈就赶忙躲了起来，他只瞄到了一眼就不敢再看。后来向栀还拿这件事嘲笑他，&ldquo;也就是你这样的怂货，要是我会直接走过去把人扒拉开，再骂一句别挡道儿。&rdquo;可是许澈只是贴着墙站着，感应灯过了一会儿又悄无声息地暗下去，逼仄的楼道里暧昧的声响一直绵延，许澈涨红了整张脸。感应灯又亮了，一个男人的身影从他身边闪过去，许澈知道他们是结束了。长舒一口气，许澈低着头继续往上走，却迎头撞上了没进门的向栀，她站在台阶上低低俯视他，穿着黑色的吊带和小皮裙，双腿笔直纤长，妆容精致，口红微花。她看到许澈后挑挑眉，语带调侃，&ldquo;原来是你呀，你在偷看吗？&rdquo;&ldquo;我没有！&rdquo;许澈有点恼了，明明是她在那儿那啥，怎的到头来她优哉游哉，他却一副羞愧难当的样子。真是一个不简单的女人。向栀噗一声笑出来，看向他的眼神中戏谑不减，许澈尽量让自己忽略她，面无表情地绕过向栀向上走去。可向栀却看到了他手中拎着的便利袋，眼睛亮起来，&ldquo;这么晚了，你哪里买的手工面？&rdquo;&ldquo;办公室冰箱里的。&rdquo;&ldquo;你上班了？看起来那么小。&rdquo;&ldquo;我是A大美术生，办公室是老师的画室。&rdquo;许澈终于转过身看她。向栀愣了一下，她摆摆手表示不感兴趣，转身准备开门。&ldquo;喂。&rdquo;许澈却又叫住她，&ldquo;你要吃吗，我可以多煮一点。&rdquo;&nbsp;2许澈的房间和他这个人一样，干净整洁，向栀托腮盯着他笑得贼兮兮，&ldquo;弟弟，你真的是邀请我上来吃面的？&rdquo;&ldquo;不然呢？&rdquo;许澈紧绷着脸，他很紧张，他想过无数次遇见她的场景，他幻想过无数次她现实中的样子，但实在没想到，她是这样的。&ldquo;你上夜班吗？&rdquo;许澈转移了话题。&ldquo;算是吧。&rdquo;向栀摊摊手，&ldquo;我在酒吧上班。&rdquo;她一边说一边去看许澈的表情，可是许澈依然是面无表情。百无聊赖地站起身，向栀围着他的客厅四处看，到处都是杂七杂八的颜料盒子和宣纸，靠着窗还支着一个木架子，确实是典型的美术生。&ldquo;我最近在参加一个设计大赛。&rdquo;许澈突然开口，他从书包里抽出一本画稿给她看，&ldquo;我想表达被禁锢的生命力，可是我画得的好空洞。&rdquo;许澈画的是一只在鱼缸里的金鱼，却卷着尾巴想要跳出来。向栀探头探脑地去看，像是对美术生的世界充满好奇，却在看一眼后就没了兴趣。&ldquo;这就是一条金鱼嘛。奶奶家一块钱一张的那种塑料桌布。&rdquo;向栀的评价对于专业的美术生来讲简直是难听至极，可许澈却突然来了兴致，他追问她：&ldquo;要是你，会怎么改？&rdquo;向栀一脸匪夷所思，她翘起手指指向自己，&ldquo;你问我？弟弟，你是觉得我很有生命力吗？&rdquo;&ldquo;嗯。&rdquo;一个字让她笑得花枝乱颤，上挑的眼尾有万种风情，再看向许澈的眼中又带上了嘲弄，&ldquo;弟弟，你可不要爱上我。&rdquo;许澈叹了口气，果然是对牛弹琴。&nbsp;3许澈的煮面技术真的一流，从那以后，向栀便经常到他家来蹭饭。他知道向栀没有对象，至于那天在她家门口接吻的男人，向栀没有提起过，他也没有去问。向栀上班昼夜颠倒，许澈每天要赶画稿也睡得很晚，两人莫名就这样成了饭搭子。每次晚上向栀推开许澈家的门，那个男孩子永远都是坐在画架旁眉头紧锁，而门口厨房的小桌子上，都会帮她温着一杯蜂蜜水。听到她来，许澈会起身煮面，两个人一人一碗头顶头慢慢吃，许澈会给她讲今天学校发生的事情，向栀默默地听。相处久了，才发现他们中真正沉默的人，是向栀。她半夜回来的时候身上总是带着或浓或淡的酒味，许澈不知道她到底在哪个酒吧做什么工作，但她每晚都会回来。时不时会有不同的男人送她回家，许澈从窗口会看到向栀从他们的车上下来，他们或拥抱或接吻，像难舍难分的情侣，却没有一个人能在她身边长久。有一天她又喝大了回来，捂着肚子疼得蹲在玄关处，许澈把蜂蜜水和胃药递给她，忍不住责怪，&ldquo;你这个样子是活不久的。&rdquo;&ldquo;哼，活那么久干什么。&rdquo;向栀仰头吞下药，&ldquo;人生在世，就是要及时行乐。&rdquo;&ldquo;那你现在快乐吗。&rdquo;向栀仰头喝水的动作顿了一下，捧着水杯的手遮住了她沉静的眸子，但她在那一瞬间涌起的悲伤，许澈能感受到。一杯水下肚，向栀把水杯塞回许澈手里，她眨眨眼睛，又恢复了一副吊儿郎当什么都无所谓的样子，嘻哈调笑着，&ldquo;我快乐呀，姐姐没有一天不快乐。&rdquo;她起身摸摸他的头，&ldquo;我下去睡觉了。&rdquo;&nbsp;4晚上睡觉时许澈梦到了向栀，她穿着一身白裙子坐在学校的草坪上画画，长发柔顺的披在肩膀，夕阳照在她脸上。她转头看到许澈，便甜甜地笑起来，朝他招招手。梦中许澈并没有立刻上前去，他手背在身后藏了一束栀子花，即使在梦中，许澈都能清醒地感受到自己的紧张。向栀等了他好久，许澈都没有动，她疑惑地看向他，而他低头犹豫了很久，最后终于下定决心，捧着花走向她。可却当自己要走到她身边时，向栀突然被一群男人给围了起来，他们个个手里都拿着玫瑰花对着她大献殷勤，向栀轻蔑一笑，却还是把他们的玫瑰花一个个都收走，然后摇身一变，又变成了她日常浓妆黑裙，摇曳生姿的样子。她捧着玫瑰花被那群男人簇拥着走了，许澈在身后拼命地喊她，喊得撕心裂肺，可她始终没有回头看他一眼。许澈知道自己梦魇了，他难受得窒息却醒不过来，正无计可施时，不知哪里&ldquo;哐啷&rdquo;一声响，许澈被吓到，一下子就醒了。是楼下传来的声音，像是有人在争吵，许澈一个机灵，拿起外套就往下冲。楼道里挤满了人，一个三十多岁的女人正对着向栀破口大骂，她挤着身子想要进屋，可向栀却死死堵在门口。&ldquo;他不在这里，你赶紧离开。&rdquo;向栀声音很硬，没有丝毫妥协。&ldquo;不在？不在你拦什么？一定是做了贼才会心虚！&rdquo;说着女人还是挤了进去，对着屋子一通乱喊。什么都没有，女人出来的时候，向栀还是一副冷漠傲然的样子。&ldquo;你可以走了。&rdquo;&ldquo;我还会再来的！&rdquo;&ldquo;我们再没有联络过。&rdquo;女人的神情憔悴又狼狈，她看着向栀年轻精致的面庞，知道她没有说谎，可她的恨意却一点也没有少，指着她又骂道：&ldquo;你不要一副清高的样子，当年要不是因为你，我老公能不爱我了吗？什么都是遇到你之后开始变的，你堂堂A大高材生，却跑去破坏人家庭，给人当&hellip;&hellip;&rdquo;&ldquo;够了！&rdquo;向栀脸色惨白，声音发抖，&ldquo;我也是受害者，你为什么不肯放过我？&rdquo;&ldquo;哼。&rdquo;女人终于得意了一点，&ldquo;这是你应得的，你这辈子都不会好过的。&rdquo;一群人吵吵嚷嚷地又散去了，向栀靠着门边蜷缩起来，像一只受伤的小兽。许澈走到她身边，伸手把她扶了起来。&ldquo;你有什么要问的吗？&rdquo;向栀一脸疲惫。&ldquo;那个女的会不会去你上班的地方闹，我这几天去接你下班可以吗？&rdquo;向栀抬起头，掩饰不住的惊讶，她盯着许澈，许澈坦然地回视她，他们就这样对视了很久。最后，向栀点了点头。&nbsp;5向栀工作的地方还是和许澈想象的不大一样，是一个静吧，向栀在那里做驻场歌手。那晚许澈就坐在台下听她唱歌。脑袋里一直过着一些事情。他从小就开始学画画，他很爱美术，也得过很多奖，一路顺风顺水地读到研究生，却遇到了瓶颈：他的画一直中规中矩，除去已经熟悉的应试画法，他其实没有多少创作天赋。导师说，热爱也可以弥补天赋，何况他学的扎实，以后不愁没饭吃。可许澈总觉得少了点什么。直到有一天，许澈在导师办公室发现了一张完成了大半的线稿，他说不上来当时的感觉，就是被震得一动不动，他觉得那个人有自己一直缺失的东西。他激动地抓着导师问这是谁画的，可一直对他知无不尽的恩师，这次却欲言又止。后来他在导师抽屉里找到了那个人的很多画，他知道了她是女孩子，他又去网上搜她的作品，每场比赛她几乎都是评委的宠儿，连他不敢上去说一句话的业界大佬，都说她才气逼人。向栀，刚刚崭露头角却又销声匿迹的天才画家，恩师最倾注心血却又最颗粒无收的废柴学生。导师说，向栀再不回来交毕业作品，她的学历就废了。&ldquo;我已经帮着拖了两年，她再不回来，我就放弃了。&rdquo;&ldquo;我去找她。&rdquo;许澈站起身，不理会导师惊讶的目光，语气坚定，&ldquo;我去找她回来。&rdquo;他知道当年轰动全校的丑事让她没有什么脸面回来，可是导师从来没有怪过她，人生又为什么要拿别人的错误来惩罚自己。那时候的许澈根本不懂什么是爱情，当时他只是一腔热血的要找她回来，他想着要用梦想和老师的恩情来说服她，温暖她。他只是出于对人才的赞叹和可惜，他没有想到自己会喜欢上她。&nbsp;6那晚向栀喝了很多酒，她用淡淡的语气讲着她的初恋，那个总是用最精辟的语言评论她作品的商业精英。&ldquo;他说他喜欢我，会娶我，我信了，我从来没想过他有妻子有孩子。&rdquo;向栀趴在桌子上，嘴角挂着一抹笑，眼睛里却全是悲伤，&ldquo;当时导师让我参加设计大赛的时候我已经怀孕了，他拉着我打掉了孩子，我流产后躺在他给我租的房子里，一笔都画不出来了。但那个时候我还对他抱有希望，直到一个星期后我从出租屋里出来，回到学校，学校里老师同学看我的眼光都变了。&rdquo;许澈拳头不由自主地攥紧，那人的妻子，像今天闹向栀的住处一样，在当时闹了向栀的学校，人言可畏，向栀的前途一下子就毁了。&ldquo;后来他老婆又来找我，耳光扇在脸上的时候，我才知道自己究竟成了什么。&rdquo;向栀的眼泪一颗颗掉了下来，&ldquo;我这些年一直都浑浑噩噩的，我知道导师在等我回去，可我不是不想回去，许澈，我画不出来了，自从孩子流掉之后，我就画不出来了。&rdquo;遇人不淑，简直是毁掉一个女孩子最好的方法。向栀哭着哭着便没了声音，许澈小心翼翼的地扶起她的头，把她的鼻涕眼泪擦干净，然后把她背到背上，送她回家。向栀无意识间攥紧了许澈的袖子，直到他把她放到床上，她还死死地攥着。许澈弯起腰，他小心翼翼地地掀起向栀的刘海，亲了亲她的额头。他满眼心疼，对着她悄悄说了一句：&ldquo;我喜欢你。&rdquo;&nbsp;7向栀醒来的时候看到许澈趴在她床沿边睡着了，自己的手指勾着他的袖子，她呆了呆，把手指缩了回来。阳光透过窗帘的缝隙洒了一点点在许澈的鼻子上，向栀抬起手，轻轻摸了摸他的头。她看着他，静静红了眼眶。许澈，他是这样干净的一个男孩子，他应该去找一个真正像栀子花一样的女孩子，而不是自己这种，满身泥泞洗都洗不掉的人。向栀站起身走到窗台边，那张金鱼的画稿已经完成了大半，画架旁边支着画笔和颜料，向栀盯着看了很久，手握成拳头又松开，最后，她坐下来，拿起了笔。这是她能送给他的，最好的礼物。许澈醒来的时候向栀已经不在了，桌上放着一张完稿的画，旁边有张便条，很娟秀的小字：感谢这么久的陪伴，许澈，祝你前程似锦。冬日的一个午后，空荡荡的房间里，一个大男人抱着一张画，蹲在地上哭得一塌糊涂。两个月后，设计大赛的评审结果出来，获奖作品是一张金鱼，而作者署名那里，是很久没有消息的向栀。&ldquo;许澈，向栀来消息了。&rdquo;画室里，导师招手让许澈过来，&ldquo;这是向栀的毕业作品，她从很远的地方寄过来的。&rdquo;许澈打开画一眼不眨的盯着看，嘴角渐渐蔓延出笑意。&ldquo;你要她的地址吗？我可以给你。&rdquo;&ldquo;不了。&rdquo;许澈摇摇头，&ldquo;她好就好了，祝她前程似锦。&rdquo;&nbsp;祝他们前程似锦，祝他们，各自安好。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 祝远隔山海的你，日日快乐",
+                        "desc": "文/二葵 没你的日子，我别来无恙。",
+                        "link": "http://m.wufazhuce.com/music/3370?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 祝远隔山海的你，日日快乐",
+                        "desc": "文/二葵 没你的日子，我别来无恙。",
+                        "link": "http://m.wufazhuce.com/music/3370?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 祝远隔山海的你，日日快乐》 文/二葵： 没你的日子，我别来无恙。 阅读全文：http://m.wufazhuce.com/music/3370?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3370?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "祝远隔山海的你，日日快乐",
+                        "desc": "没你的日子，我别来无恙。",
+                        "link": "http://m.wufazhuce.com/music/3370?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "我和我的金鱼都抑郁了",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "狮童乐队",
+                "audio_album": "我和我的金鱼都抑郁了",
+                "cover": "http://image.wufazhuce.com/Frajd8xTZwXSg8N6C2X34NoybJ1w",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2974",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4526",
+                    "title": "沉默前奏曲"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3049",
+                    "title": "你知道如何毁掉一个人吗？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3370",
+                    "title": "祝远隔山海的你，日日快乐"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

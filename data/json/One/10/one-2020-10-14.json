@@ -1,0 +1,509 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5652",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-14 06:00:00",
+        "content_list": [
+            {
+                "id": "21238",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2972",
+                "title": "摄影",
+                "forward": "一些不可控的力量可能会拿走你很多东西，但它唯一无法剥夺的是你自主选择如何应对不同处境的自由。你无法控制生命中会发生什么，但你可以控制面对这些事情时自己的情绪与行动。",
+                "img_url": "http://image.wufazhuce.com/FlVEFQrcmzzGpGT3NMIq3jLef3Zj",
+                "like_count": 15261,
+                "post_date": "2020-10-14 06:00:00",
+                "last_update_date": "2020-10-09 13:05:09",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2930",
+                "pic_info": "Dream Holidays",
+                "words_info": "《活出生命的意义》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2972",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2972",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2972",
+                    "image": "http://image.wufazhuce.com/FlVEFQrcmzzGpGT3NMIq3jLef3Zj",
+                    "title": "VOL.2930",
+                    "content": "一些不可控的力量可能会拿走你很多东西，但它唯一无法剥夺的是你自主选择如何应对不同处境的自由。你无法控制生命中会发生什么，但你可以控制面对这些事情时自己的情绪与行动。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2972?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2972?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 一些不可控的力量可能会拿走你很多东西，但它唯一无法剥夺的是你自主选择如何应对不同处境的自由。你无法控制生命中会发生什么，但你可以控制面对这些事情时自己的情绪与行动。——《活出生命的意义》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2972?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2972?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21260",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4474",
+                "title": "一双鞋的自白",
+                "forward": "人类的复杂是我们理解不了的，单纯地做一双鞋子该做的，不好吗？",
+                "img_url": "http://image.wufazhuce.com/Fh8y6bnYidFZjg5ETd8R8PPbpFce",
+                "like_count": 1713,
+                "post_date": "2020-10-14 06:00:00",
+                "last_update_date": "2020-10-15 07:00:56",
+                "author": {
+                    "user_id": "11199000",
+                    "user_name": "杨森",
+                    "desc": "短篇小说作者，影视编剧，郑州大学建筑系毕业。",
+                    "wb_name": "@那你自罚一杯得了",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "90后写手，编剧。",
+                    "fans_total": "151",
+                    "web_url": "http://image.wufazhuce.com/FjA_rejfjEBfDfNF6zBIunDQ7GBH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4474",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4474",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4474",
+                    "image": "http://image.wufazhuce.com/Fh8y6bnYidFZjg5ETd8R8PPbpFce",
+                    "title": "一双鞋的自白 作者/杨森",
+                    "content": "一个鞋子战胜人类的故事。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 一双鞋的自白",
+                        "desc": "文/杨森 一个鞋子战胜人类的故事。",
+                        "link": "http://m.wufazhuce.com/article/4474?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 一双鞋的自白",
+                        "desc": "文/杨森 一个鞋子战胜人类的故事。",
+                        "link": "http://m.wufazhuce.com/article/4474?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 一双鞋的自白》 文/杨森： 一个鞋子战胜人类的故事。 阅读全文：http://m.wufazhuce.com/article/4474?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4474?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一双鞋的自白",
+                        "desc": "一个鞋子战胜人类的故事。",
+                        "link": "http://m.wufazhuce.com/article/4474?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21202",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1306",
+                "title": "丧书·第五章：郁蒸",
+                "forward": "如果一个人让你感到不幸，那么就及时远离他。我远离了不少人，不少人也远离了我。",
+                "img_url": "http://image.wufazhuce.com/Fisz_ZuaUTFtSRGBJzV1RXVm2RZd",
+                "like_count": 938,
+                "post_date": "2020-10-14 06:00:00",
+                "last_update_date": "2020-09-28 17:18:33",
+                "author": {
+                    "user_id": "8795394",
+                    "user_name": "刘酿苦",
+                    "desc": "你想当我第51个粉丝吗？ 公众号：刘酿苦。",
+                    "wb_name": "@刘酿苦",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "其实我很甜。",
+                    "fans_total": "5690",
+                    "web_url": "http://image.wufazhuce.com/FnaSk0TmlreBXvKXCFxxvN2nBMHy"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第5章",
+                "number": "5",
+                "serial_id": "89",
+                "serial_list": [
+                    "1302",
+                    "1303",
+                    "1304",
+                    "1305",
+                    "1306",
+                    "1308",
+                    "1309",
+                    "1310",
+                    "1311",
+                    "1312",
+                    "1313",
+                    "1314"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1306",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1306",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1306",
+                    "image": "http://image.wufazhuce.com/Fisz_ZuaUTFtSRGBJzV1RXVm2RZd",
+                    "title": "丧书·第五章：郁蒸 作者/刘酿苦",
+                    "content": "如果一个人让你感到不幸，那么就及时远离他。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 丧书·第五章：郁蒸",
+                        "desc": "文/刘酿苦 如果一个人让你感到不幸，那么就及时远离他。",
+                        "link": "http://m.wufazhuce.com/serial/1306?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 丧书·第五章：郁蒸",
+                        "desc": "文/刘酿苦 如果一个人让你感到不幸，那么就及时远离他。",
+                        "link": "http://m.wufazhuce.com/serial/1306?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 丧书·第五章：郁蒸》 文/刘酿苦： 如果一个人让你感到不幸，那么就及时远离他。 阅读全文：http://m.wufazhuce.com/serial/1306?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1306?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "丧书·第五章：郁蒸",
+                        "desc": "如果一个人让你感到不幸，那么就及时远离他。",
+                        "link": "http://m.wufazhuce.com/serial/1306?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21278",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3005",
+                "title": "看问题如何做到客观公正？",
+                "forward": "坦诚面对自己的弱项，客观度量自己的强项，知耻后勇，才能脚踏实地。",
+                "img_url": "http://image.wufazhuce.com/Fg48XnUzFbOhPrxsl4cDnJXQ7HKl",
+                "like_count": 2190,
+                "post_date": "2020-10-14 06:00:00",
+                "last_update_date": "2020-10-14 11:44:24",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "歪理大师",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3005",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3005",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3005",
+                    "image": "http://image.wufazhuce.com/Fg48XnUzFbOhPrxsl4cDnJXQ7HKl",
+                    "title": "看问题如何做到客观公正？",
+                    "content": "看问题如何做到客观公正？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 看问题如何做到客观公正？",
+                        "desc": "文/缪斯谭 做人切莫太双标。",
+                        "link": "http://m.wufazhuce.com/question/3005?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 看问题如何做到客观公正？",
+                        "desc": "文/缪斯谭 做人切莫太双标。",
+                        "link": "http://m.wufazhuce.com/question/3005?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 看问题如何做到客观公正？》 文/缪斯谭： 做人切莫太双标。 阅读全文：http://m.wufazhuce.com/question/3005?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3005?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "看问题如何做到客观公正？",
+                        "desc": "做人切莫太双标。",
+                        "link": "http://m.wufazhuce.com/question/3005?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "21264",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3344",
+                "title": "大胆点生活，你没那么多观众",
+                "forward": "原来，这个社会的人们吃着新世纪的食物，看着新世纪的风景，听着新世界的新闻，却思索着旧时代的人生大事。",
+                "img_url": "http://image.wufazhuce.com/Flxzjz71m7vjNi_Rysw-JVnKazen",
+                "like_count": 1999,
+                "post_date": "2020-10-14 06:00:00",
+                "last_update_date": "2020-10-13 18:50:00",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/luTd5spDY0zUcFvBiSfo5Mc7VfkS",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "爱着的，经过的",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3344",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3344",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3344",
+                    "image": "http://image.wufazhuce.com/Flxzjz71m7vjNi_Rysw-JVnKazen",
+                    "title": "「一个」音乐: 鹿西兮 爱着的，经过的",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.十年前，初秋，风微凉，我站在晨光中，他慢慢向我走来。我看着他透着寒气的双眼，眼睛里仿佛藏了一只野兽，它包裹着糖浆做的外衣，心却刻着疤痕，在某个不曾预料的时刻就会冲破牢笼。它会毫无顾忌扑向我，将我按在地上碾压，撕咬，等到奄奄一息的时刻，弃我于荒原，再向绝望哭泣的我讨要最后的慈悲。我曾对这一切毫不知情，你们也不曾明白那一刻的恐惧。我强装镇定，不去看他的眼睛。&ldquo;你知道的，我妈想要个孩子。&rdquo;&ldquo;现在说这些已经没有意义了。&rdquo;我点点头，率先走进大门，他跟在后面。他认为这一切并不公平，我无力反驳。我无法告诉他，我不曾深爱你，也对没有孩子这事毫无愧疚。我早已厌恶关于他的一切，他那经时常携带的由他的母亲悉心缝制的面具，他那从小被纵容的任性胡闹，他那被教导的怎样利用女人的心软，他那被支持的怎样展现一个所谓男人的权威来留住女人。可惜你们在今日早晨依旧劝我回头，劝我不要任性，责备我的一意孤行，责备我的不知体谅。你说你也是这样过来的，你说他已经做的很好了，你说他的母亲待我如亲闺女，你说，如果有个孩子就不会走到这一步了。明明我们都说好了，今日一别，彼此安好，互不相欠。我看他站在门外，手在左边口袋里摸索。我猜他想找一根香烟。因为抽烟这事，我们曾大吵一架。那日，他的母亲过来拉架，说着他为了家庭压力大才抽烟之类的话。我强忍着不用粗糙的语言面对他的家人，只能坐在一旁默默流泪。晚上，他又过来哄我，带我去吃火锅，逛商场，然后骗他的母亲说今晚加班不回家。我们在凌晨之前赶到城市另一边的一家宾馆，年轻的前台用奇怪的眼神打量着我。他总说妈在家不方便，他总说家附近的宾馆老板妈都认识，他总说过几年换个大房子，我们就搬出去，然后我就悻悻然躺在了宾馆新换的席梦思床上。他在墙边磕掉烟灰后回头看我，我也看着他，谁也不动，时间就这样流逝着。&nbsp;2.2005年的夏天，我毕业了。你们用某种关系将我安排进了老家一家不大不小的企业工作，是个闲差，我不甘心，总想着要走。很快，在我尚未找到出路的日子里，亲戚们纷纷找来，他们坐在客厅里喝茶，大声说着某个人同事的侄子，某个人朋友的外甥，零零散散的照片，形形色色的工作，你们一唱一和，安排我去某家餐厅吃饭，告诉我要跟某个穿灰色T恤的男孩子认识一下。我就这样经由相亲，认识了他。你们都说，他是个好人，老实，孝顺，长相也说得过去。你们说，男人不需要好看，能干就行。你们说，嫁给他，将是我一生的幸运。这话，我当时竟看不出它错得那样离谱。他也主动，每晚去接我下班，送我回家，常常给我打电话，周末约我去游乐场，然后去看电影。我拒绝，我退缩，我躲避，我把自己关在房间听音乐，他却托人递来两张九月二十三日Beyond昆明演唱会的门票。他说，我们只是一起去看一场演唱会而已。我心动，知晓这是偶像的告别巡演，不想错过。他定了火车票，我们提前两天坐上合肥开往昆明的绿皮火车，却不曾想在徐州停了两个小时，又在贵阳停留四个小时，我们就这样意外地错过了演唱会。眼泪在我眼眶中打转，他却突然站起来，大声给车厢里的人唱《海阔天空》。&ldquo;今天我寒夜里看雪飘过，怀着冷却了的心窝飘远方，风雨里追赶雾里分不清影踪，天空海阔你与我可会变&hellip;&hellip;&rdquo;疲惫的人们被点燃，年轻的男孩子们站起来挥舞着手臂，大声唱歌。那些背着麻袋的打工老汉，那些带着孩子的年轻妈妈，那些抹着鲜艳口红的年轻女孩，那些不知道Beyond的人们，也开始张着嘴想要哼唱着什么。他就那样站在座位上，带着这些陌路人歌唱理想，直到一张张被岁月抚过的面孔挂着笑，自己的眼泪不知何时低落于角落。那一刻，我认同了你们说的话，这好像的确是我的幸运，遇上一个闪着光的男人。如今想来，那并非心动，更多的是羡慕。这次之后，所有人都认为我们在一起了。可这话，他不曾问，我也不曾承认。某天，他邀请我去家里，我竟也跟着去了，带着一箱牛奶。直到他的妈妈眼含热泪握着我的手，我才知晓他的父亲早已去世，老人家如今将我当作了新生活的希望。你们自己张罗着，双方家长早已见面，瞬间将我推向了婚姻的入口。我说，我没有准备好。我说，我们根本不曾确立关系，但我得到了你们从未有过的严厉呵斥。丢脸，恶心，不知自爱，不明事理，你们说一个女孩子没有确立关系为何跟人家相处，你们说一个女孩子不要挑挑拣拣最后剩下，你们说都是为我好不要不知好歹。他们一句为我好，让我全盘皆输。原来，这个社会的人们吃着新世纪的食物，看着新世纪的风景，听着新世界的新闻，却思索着旧时代的人生大事。&nbsp;3.他一直对我不错，我找不到拒绝他的理由。2006年的初冬，在很多人的迫切期望下，我们结婚了。高朋满座，喜乐奏响，那亲朋好友的一声声祝福像极了告别悼词，那一身白纱真实地披在身上像极了对青春的祭奠，那印着天长地久百年好合的请柬，像极了对我余生最大的诅咒。夜晚，疲惫，乏力，晕眩，恍惚，我来不及脱掉新娘服就倒在床上，后背被你们洒在上面的花生，喜糖和枣硌出千万个洞。他喝了不少酒，跌跌撞撞推门进来，将收到的红包尽数扔到桌子上。他说，累了？嗯。你去我妈那桌敬酒的时候为什么不笑？什么？他抓住我的手腕压过来，开始解衣服扣子。新婚之夜，大喜之日，你们给我安排的好人，我的丈夫，帮我完成了所谓此生最大意义上的转变。除了痛苦，除了疲惫，除了男人的无知与狼狈，除了婆婆踮着脚尖走过客厅的脚步声，我竟一无所获，这真讽刺。所幸婚后生活还算安稳，我按照你们的叮嘱，照顾家里人的饮食起居，并努力做好准备迎接一个新生命的到来。我努力扮演着一个不让你们失望的好孩子角色，却也在黄昏的路上被穿着高跟鞋奔跑的年轻姑娘刺痛心脏。我想要的与你们认为我应该拥有的相差甚远，我甚至无法从中打捞到某种平衡，只能熬着等着活着。可是要多久，才能等来自己想要的生活，等到桌上布满灰尘，等到衣物发黄变皱，等到路边的老人不再乞讨，等到这世上再没有一个我。偶尔翻翻书，他下班回来抱怨我不准备饭菜，偶尔躺在床上发呆，他督促我去帮母亲干活，偶尔忘记给鱼缸换水，他什么也不说，就那样冷漠着。人们交流着，向我讨要成为人生赢家的法宝，我却只顾着关上刺眼的灯光，怕它照出我的胆怯，心虚与迷茫。&nbsp;4.他让我去医院检查一下，因为我们没有孩子。我说，你跟我一起吧，我有朋友在医院工作。他抬手把桌上的花瓶摔碎。那一刻，我明白了这一个多月的冷漠出于何意。那四处跳跃的玻璃碎片，耀伤了我的眼，也划破了心。我说出了我二十四年来唯一能想到的脏话，他却急着扑过来捂住我的嘴。他着急时候的狼狈样子像极了曾在婚礼上敬酒的我，我疯一般大喊，内心腐烂已久的酸臭气息喷射到他的脸上。随之他的巴掌从高处落下来，左耳轰鸣，右耳却清晰地听见他那一句从牙缝中挤出来的&ldquo;贱货&rdquo;。他一边小声骂着怕母亲听见，一边粗暴地扒我的衣服。我动弹不得。原来婚姻制度，不仅以爱之名美化了繁衍后代生物进化的动物行为，不仅为生理欲求提供了便利和合法化，还将女人以红色丝带精致包装，做了世上最凄美的礼物。我狼狈地逃回家，无声地控诉，他的母亲追来，将事情的来龙去脉细细说与你们听，除此之外，还有她的辛劳与委屈。老太太的眼泪止不住往下掉，不知为何，一场短暂的婚姻里她成了最大的受害者。她说着抱歉的话，为亲爱的儿子开脱罪责，甚至祈求我回家。我为何成了坏人，又该以何处为家？我说，把他找来吧，这是我们两个人之间的事。我说，我们离婚吧。他说，你太幼稚了，谁把离婚挂在嘴边，这可是两个家庭的大事。你们说，你怎么那么固执，夫妻之间吵架多正常，差不多得了。在所有人的劝告下，我又坚持了两年。直到2008年的那个早晨，我看着站在民政局门口抽烟的他，多年来才第一次觉得自己是个鲜活的人了。我厌恶的婚姻，我庆幸不曾到来的孩子，它们本是照进我生命的黑暗，却也让我得以脱身。我走过去拍拍他的肩膀，笑着说&ldquo;你可以去找能给你生孩子的女人了&rdquo;。他眼中的寒意消散，我想，他也有遗憾与不舍，我想，他也在怀疑母亲曾教给他的生活法则，我想，他该试着自己去理解生活的安排。十二年后的今天，我依旧单身，交往过几个男人，带他们去我婚后曾睡过的宾馆，后来也没在一起。你们担心，依旧给我张罗着相亲，面对那些挺着肚腩的二婚男人，我只能逃离，越走越远。后来，你们不再提起他，也不再提起结婚这事。直到前不久，你们带着遗憾相继离开了我。与你们，与他有关的岁月就这样彻底结束。脚下不再被禁锢，一个人的起舞却依旧藏着伤怀与落寞。只是请原谅我吧。这辈子最大的叛逆，就是开始按照自己的意愿生活。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 大胆点生活，你没那么多观众",
+                        "desc": "文/鹿西兮 不随便搭别人的船，因为自己就是一片海。",
+                        "link": "http://m.wufazhuce.com/music/3344?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 大胆点生活，你没那么多观众",
+                        "desc": "文/鹿西兮 不随便搭别人的船，因为自己就是一片海。",
+                        "link": "http://m.wufazhuce.com/music/3344?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 大胆点生活，你没那么多观众》 文/鹿西兮： 不随便搭别人的船，因为自己就是一片海。 阅读全文：http://m.wufazhuce.com/music/3344?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3344?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "大胆点生活，你没那么多观众",
+                        "desc": "不随便搭别人的船，因为自己就是一片海。",
+                        "link": "http://m.wufazhuce.com/music/3344?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "爱着的，经过的",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "鹿先森乐队",
+                "audio_album": "在心碎处",
+                "cover": "http://image.wufazhuce.com/FmFmyOIWxSI9j9ON6sl9z1ncMKFf",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2930",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4474",
+                    "title": "一双鞋的自白"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1306",
+                    "serial_list": [
+                        "1302",
+                        "1303",
+                        "1304",
+                        "1305",
+                        "1306",
+                        "1308",
+                        "1309",
+                        "1310",
+                        "1311",
+                        "1312",
+                        "1313",
+                        "1314"
+                    ],
+                    "title": "丧书·第五章：郁蒸"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3005",
+                    "title": "看问题如何做到客观公正？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3344",
+                    "title": "大胆点生活，你没那么多观众"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

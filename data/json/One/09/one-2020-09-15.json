@@ -1,0 +1,583 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5622",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-09-15 06:00:00",
+        "content_list": [
+            {
+                "id": "21096",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2943",
+                "title": "摄影",
+                "forward": "身处一个科技爆炸、沟通无限的世界，我们感受到的，却是史无前例的孤独无助。在全世界都可以社交起来的时候，我们却无法用最原始的方式获得真正有效的沟通。",
+                "img_url": "http://image.wufazhuce.com/Fpt3-Jp6s8Sm5ttqxVmF7Ov7CQwR",
+                "like_count": 14050,
+                "post_date": "2020-09-15 06:00:00",
+                "last_update_date": "2020-09-11 16:27:09",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2901",
+                "pic_info": "Martin Adams",
+                "words_info": "《无可慰藉》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2943",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2943",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2943",
+                    "image": "http://image.wufazhuce.com/Fpt3-Jp6s8Sm5ttqxVmF7Ov7CQwR",
+                    "title": "VOL.2901",
+                    "content": "身处一个科技爆炸、沟通无限的世界，我们感受到的，却是史无前例的孤独无助。在全世界都可以社交起来的时候，我们却无法用最原始的方式获得真正有效的沟通。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2943?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2943?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 身处一个科技爆炸、沟通无限的世界，我们感受到的，却是史无前例的孤独无助。在全世界都可以社交起来的时候，我们却无法用最原始的方式获得真正有效的沟通。——《无可慰藉》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2943?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2943?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21092",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4446",
+                "title": "未竟的告白",
+                "forward": "生活如果有长心的话，它的心应该是不好看的，像皱巴巴的猪大肠，或者像黑漆漆的牛油果皮，反正像一切我不喜欢的东西。",
+                "img_url": "http://image.wufazhuce.com/FhsplcPg4bLvUP-xPYdaraZn6uxs",
+                "like_count": 2654,
+                "post_date": "2020-09-15 06:00:00",
+                "last_update_date": "2020-09-15 07:33:13",
+                "author": {
+                    "user_id": "4814886",
+                    "user_name": "花大钱",
+                    "desc": "花大钱，青年作家。",
+                    "wb_name": "@花大钱",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "花大钱，青年作家。",
+                    "fans_total": "25985",
+                    "web_url": "http://image.wufazhuce.com/Fmaj0Hb6PTZezqg7JL6s8K9rQk6r"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4446",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4446",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4446",
+                    "image": "http://image.wufazhuce.com/FhsplcPg4bLvUP-xPYdaraZn6uxs",
+                    "title": "未竟的告白 作者/花大钱",
+                    "content": "故乡，不过是祖先流浪的最后一站。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 未竟的告白",
+                        "desc": "文/花大钱 故乡，不过是祖先流浪的最后一站。",
+                        "link": "http://m.wufazhuce.com/article/4446?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 未竟的告白",
+                        "desc": "文/花大钱 故乡，不过是祖先流浪的最后一站。",
+                        "link": "http://m.wufazhuce.com/article/4446?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 未竟的告白》 文/花大钱： 故乡，不过是祖先流浪的最后一站。 阅读全文：http://m.wufazhuce.com/article/4446?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4446?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "未竟的告白",
+                        "desc": "故乡，不过是祖先流浪的最后一站。",
+                        "link": "http://m.wufazhuce.com/article/4446?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21026",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1279",
+                "title": "我的么啊·第十章：疯狂巴赫",
+                "forward": "继续履行合同，乙方应不定时陪同甲方逛街。",
+                "img_url": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                "like_count": 688,
+                "post_date": "2020-09-15 06:00:00",
+                "last_update_date": "2020-09-04 12:16:15",
+                "author": {
+                    "user_id": "4814954",
+                    "user_name": "陈麒凌",
+                    "desc": "陈麒凌，也教书，也写小说。曾获得联合报文学奖首奖、全球华文文学星云奖、林语堂文学奖。",
+                    "wb_name": "@陈麒凌",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "也教书，也写小说。",
+                    "fans_total": "2296",
+                    "web_url": "http://image.wufazhuce.com/Fggt2Ut1kJ7uTNjxGSG4w-LGRL6S"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第10章",
+                "number": "10",
+                "serial_id": "87",
+                "serial_list": [
+                    "1270",
+                    "1271",
+                    "1272",
+                    "1273",
+                    "1274",
+                    "1275",
+                    "1276",
+                    "1277",
+                    "1278",
+                    "1279",
+                    "1280",
+                    "1281",
+                    "1282",
+                    "1283",
+                    "1284",
+                    "1285",
+                    "1286",
+                    "1287",
+                    "1288",
+                    "1289"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1279",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1279",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1279",
+                    "image": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                    "title": "我的么啊·第十章：疯狂巴赫 作者/陈麒凌",
+                    "content": "继续履行合同，乙方应不定时陪同甲方逛街。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 我的么啊·第十章：疯狂巴赫",
+                        "desc": "文/陈麒凌 继续履行合同，乙方应不定时陪同甲方逛街。",
+                        "link": "http://m.wufazhuce.com/serial/1279?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 我的么啊·第十章：疯狂巴赫",
+                        "desc": "文/陈麒凌 继续履行合同，乙方应不定时陪同甲方逛街。",
+                        "link": "http://m.wufazhuce.com/serial/1279?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 我的么啊·第十章：疯狂巴赫》 文/陈麒凌： 继续履行合同，乙方应不定时陪同甲方逛街。 阅读全文：http://m.wufazhuce.com/serial/1279?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1279?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我的么啊·第十章：疯狂巴赫",
+                        "desc": "继续履行合同，乙方应不定时陪同甲方逛街。",
+                        "link": "http://m.wufazhuce.com/serial/1279?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21085",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2974",
+                "title": "气场是如何培养的？",
+                "forward": "安内攘外，精简通透 。",
+                "img_url": "http://image.wufazhuce.com/FiwXcBGvOqApJy1bmHLis3byP102",
+                "like_count": 4149,
+                "post_date": "2020-09-15 06:00:00",
+                "last_update_date": "2020-09-14 22:22:29",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "待机时间覅几份",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2974",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2974",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2974",
+                    "image": "http://image.wufazhuce.com/FiwXcBGvOqApJy1bmHLis3byP102",
+                    "title": "气场是如何培养的？",
+                    "content": "气场是如何培养的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 气场是如何培养的？",
+                        "desc": "文/缪斯谭 自信的人，一般气场都不会太弱。",
+                        "link": "http://m.wufazhuce.com/question/2974?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 气场是如何培养的？",
+                        "desc": "文/缪斯谭 自信的人，一般气场都不会太弱。",
+                        "link": "http://m.wufazhuce.com/question/2974?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 气场是如何培养的？》 文/缪斯谭： 自信的人，一般气场都不会太弱。 阅读全文：http://m.wufazhuce.com/question/2974?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2974?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "气场是如何培养的？",
+                        "desc": "自信的人，一般气场都不会太弱。",
+                        "link": "http://m.wufazhuce.com/question/2974?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "21098",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2051",
+                "title": "生活不易，老婆子更要美丽",
+                "forward": "一生总要有些追求，不然会有遗憾的。",
+                "img_url": "http://image.wufazhuce.com/FkWU7HpjjhRsJ6UWqJiQPkRWDF_B",
+                "like_count": 1788,
+                "post_date": "2020-09-15 06:00:00",
+                "last_update_date": "2020-09-15 08:16:44",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "影人：树木希林",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5034",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2051",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2051",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2051",
+                    "image": "http://image.wufazhuce.com/FkWU7HpjjhRsJ6UWqJiQPkRWDF_B",
+                    "title": "「一个」电影: 影人：树木希林",
+                    "content": "两年前的9月15日，她乘风归去。她的葬礼上，导演是枝裕和在讣告中写道，&ldquo;我后悔最后让您演了一个死在电影中的角色&rdquo;。而她，曾在生前特意叮嘱道，&ldquo;你就把我这老婆子的事忘了吧，你要把时间用在年轻人身上。我就不再和你见面了。&rdquo;第一次看到她，便是在是枝裕和的电影里，起初只认为这是个受过岁月摧残的女人，浑浊眼神中无法窥见她的过往；同时又不受控制地想要去一遍遍品味，她那沉没于俗世而沉静自我的气质。原来，她拥有丰富，饱受争议且不可复制的一生。她是，树木希林。&nbsp;1. &ldquo;我想要你能看得到，所以我在发光。&rdquo;1943年出生的她，最初以&ldquo;悠木千帆&rdquo;为名开始演艺生涯，直到43岁才凭借《烈驹》崭露头角，而被大众熟知则是源于2007年上映的电影《东京塔》。在影片中，树木希林饰演了一位身患癌症的母亲。她跟随儿子来到东京常住，两人置身于熙攘的人群中，牵手走过十字路口。主人公没有太多言语，爱与牵挂便有了别样的意义。就是这一经典镜头深深打动了年轻的是枝裕和，他决定，请树木希林出演自己电影中母亲的角色。2008年，两人第一次合作的电影《步履不停》上映。树木希林在其中扮演了一个失去儿子的母亲。她啰嗦刻薄，但又深情而克制，会在夜晚追逐飞进屋内的蝴蝶，并深信那是亲人的化身。在是枝裕和浅浅的镜头中，她将这一形象赋予浓厚的生活气息&mdash;&mdash;没有眼泪与绝望，有的只是一位母亲思念与寂寞两种情绪的奇妙交响。影片《步履不停》可以说奠定了是枝裕和的电影风格，也让树木希林的形象牢固地印刻在影迷心中。在这之后，两人更是开始了长达十年的合作。《奇迹》，《比海更深》，《如父如子》，《海街日记》，再到《小偷家族》，是枝裕和的每一部作品中几乎都能窥见树木希林的身影，两人的才华碰撞更是留下了无数经典电影场景。无论是怎样的母亲形象，树木希林都能把握到人物独特的精髓，而非千篇一律。多年合作，是枝导演早以将希林老师看作此生第二个母亲。他努力用影像挽留的，是树木希林作为自己母亲存在的每分每秒。在《小偷家族》的结尾，树木希林去掉假牙，独身坐在沙滩上用无声的口型说出了那句&ldquo;谢谢你们呀&rdquo;。这也是树木希林留在是枝裕和电影中的最后一句话。一句无声的谢谢，一副最真实的面容，不仅是影片中婆婆对于家人的留恋，更是树木希林对是枝裕和的依依不舍。十年间，他们互相尊重互相依赖，携手奉献多部经典作品，更是建立了超脱于演员与导演关系的母子深情。如今，这深深的羁绊已然画上句号，但它不会消失。时光不老影像长存，只要是枝裕和的影片在，树木希林便一直在身边。&nbsp;2.&ldquo;我们不用成为某个人，我们自己有自己生存的意义。&rdquo;在看树木希林的电影时，我时常会掉进一种错觉，仿佛屏幕中的老人即刻便会走下来，替我与这卑微的生活拉锯消磨。她不去做任何阐述和指导，只是带着未曾凋零的理想主义气场，便能将这万般裂痕的生活弥补。而这种填补生活的能力并非全部来源于影片的设计，而与树木希林自身的气场与创造力有关。相较于同时期的女演员，树木希林长相并不出众，用她自己的话来说，走上演员这条路纯属偶然。年轻时候性格强烈，我行我素，留在荧幕上的形象千姿百态，却没有得到期待中的结果；到了晚年性子柔和下来，开始抛却形式，更多地在意人性本身和琢磨生活，经典之作也在这段时间集中爆发。她常常调侃自己对于演戏的随性，通常在片场才背台词，这些行为让她看似并非一个勤奋的好演员。而很多时候她又有超脱于行业固定思维之外的想法，没有欲望，不做周全准备，致力于打破自己，完全置身于人物中摸索另一个世界，不受剧本台词局限，这一切让人如此惊喜。生命中的最后一年，树木希林以超强的精力与毅力拍摄了四部作品。她是《小偷家族》中游走于贫穷与犯罪边缘的婆婆；是《樱花恶魔》中拿着水晶球唱歌摇摆的老人；是《日日是好日》中严谨温柔的茶道师；也是《有熊谷守一在的地方》与山崎努配合出演的野兽主义画家的妻子。四部作品几乎以无缝对接的形式拍完，被问及如何调整情绪时，树木希林回答，&ldquo;昨天把剧本都烧掉了&rdquo;。尽力抛却昨日的自己，不必恋恋不舍，因为留下的会是崭新的。这份释然与豁达背后，是她耗尽多年才明白的对当下感受的执着与细微处的极致追求。她会把自家的咸菜，手帕，刀具带到片场，理由是用起来真实。她会放低身段遵从导演的意愿，又会直接指出《小偷家族》中人设的不合理处，将是枝裕和问得哑口无言。树木希林就这样一边珍惜着平淡生活的真实感受，一边进入角色。她喜欢生活原本的样子，拒绝被贴上标签，她喜欢凭着一口气去做事，方方面面得到完善才罢休，她喜欢一直往前走，探寻新的可能。就这样，重的东西她假装很轻，轻的东西又被她拿得很重。&nbsp;3.&ldquo;世上皆是患得患失的爱情，而我的爱情无怨无悔。&rdquo;不同于影片中平静安然的母亲形象，生活中的树木希林却满是风霜。22岁，她嫁给了话剧演员岸田森，很快便被她以婚后生活太平淡不爱了为由终止。直到后来与摇滚歌手内田裕也一见钟情，这个女人的一生风雨才真正袭来。当年相恋的两人很快结婚，没有婚纱，树木希林穿一身牛仔裙就这样嫁给了深爱的男人。但婚后的生活却不尽如人意，两人不停争吵，内田裕也更是家暴，出轨。这段爱恨交织的婚姻却并未以离婚告终。内田裕也曾递交离婚申请，树木希林强烈反对，两人由此开始了多年的分居生活，夫妻的名分就这样维持了一辈子。多年后，树木希林谈到自己的婚姻时说：&ldquo;我喜欢他，喜欢他的全部。如果有来世，无论如何，我都会时刻警惕自己，不能再与这个人相见。如果来世再次相遇，我仍会爱上他，再次度过狼狈的一生。&rdquo;这段感情或许不为外人理解，其间心酸也只有本人知晓。但它不曾败给世俗与生活，也不曾被琐碎与时间瓦解。遗憾的是女人遇上一个顽劣，冲动又不受束缚的男人，幸运的是她在残酷无情的现实与比海更深的爱中找到一种忠于自我的平衡。她遇上的爱情极端，粗暴，决绝，她还回去的却是满满深情。&nbsp;4.&ldquo;如果人死后会成为宇宙的灰尘，至少要变成一颗美丽且发亮着飞舞的尘埃。那个，是我最后的欲望。&rdquo;树木希林&ldquo;酷&rdquo;了一辈子。不管是拍卖掉原本的艺名，还是把奖杯改造成家里的台灯，她都是特立独行随心所欲的。她的生命感始终生生不息，难以被打败。从2003年因视网膜脱落导致左眼失明，到61岁确诊乳腺癌，70岁时扩散到全身。她感受到身体的某种秩序正被打乱，却也不敢暂停脚步以致滑向另一个极端。导演木寺一孝曾跟拍了树木希林人生的最后一年，并制作成纪录片《活成&ldquo;树木希林&rdquo;》。在其中可以看到，除了面对自我与生活的潇洒，她也有焦躁不安无法消解的一面。只不过，这让她得以重新审视自我与生命的关系，从而做出新的反应。在纪录片中，树木希林透露了对于死亡的看法：&ldquo;活着的人对于衰老而亡非常执拗&hellip;&hellip;但死就是那么回事&hellip;&hellip;就是日常生活中的一个事件。&rdquo;75岁生日那天，她再次对着镜头吐露心声：&ldquo;虽然很辛苦，但我很幸福。&rdquo;最后的时刻，她不曾流连于爱的人身边，不曾极度依赖药物延续生命。面对结束，她没有表现出太多悲伤，回首往日，也没有太多遗憾，一切顺理成章。回首一生，二十多岁，想要控制一切以求拥有，三十多岁，付出与回报不成正比，四十多岁，寻找新的定位，五十多岁，创造荧幕传奇。她的一生贯穿着一种刚劲儿，锋利，对峙，失望与坎坷从未散去，同时她又美得慈悲而荒凉，令人感动且折服。耗费半生成为行业传奇，耗尽青春守卫一段爱情，一生造就一场幻梦，证明女人足以对抗世界而获得一切。在这样的世界里，云低垂，光黯淡，但心与天空最为接近。她向所有人展现了女性存在的另外一种自由的姿态。今夜如若明朗，记得抬头看星，最亮的那颗，或许就是树木希林。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 生活不易，老婆子更要美丽",
+                        "desc": "文/鹿西兮 “我仍会爱上他，再次度过狼狈的一生。”",
+                        "link": "http://m.wufazhuce.com/movie/2051?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 生活不易，老婆子更要美丽",
+                        "desc": "文/鹿西兮 “我仍会爱上他，再次度过狼狈的一生。”",
+                        "link": "http://m.wufazhuce.com/movie/2051?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 生活不易，老婆子更要美丽》 文/鹿西兮： “我仍会爱上他，再次度过狼狈的一生。” 阅读全文：http://m.wufazhuce.com/movie/2051?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2051?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "生活不易，老婆子更要美丽",
+                        "desc": "“我仍会爱上他，再次度过狼狈的一生。”",
+                        "link": "http://m.wufazhuce.com/movie/2051?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21027",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3268",
+                "title": "脆弱教会我的事儿",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FrPvkoIi_WjtOe7jOmFszIqsk1SD?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1319,
+                "post_date": "2020-09-15 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3268",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3268",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 脆弱教会我的事儿",
+                        "desc": "永不缺席的脆弱，最为珍贵",
+                        "link": "http://m.wufazhuce.com/radio/3268?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lgKqAFzrseH1S8JeCBD5kaQ3qEIi"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 脆弱教会我的事儿",
+                        "desc": "永不缺席的脆弱，最为珍贵",
+                        "link": "http://m.wufazhuce.com/radio/3268?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lgKqAFzrseH1S8JeCBD5kaQ3qEIi"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 脆弱教会我的事儿》 主播/李荟莹： 永不缺席的脆弱，最为珍贵 阅读全文：http://m.wufazhuce.com/radio/3268?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3268?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lgKqAFzrseH1S8JeCBD5kaQ3qEIi"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "脆弱教会我的事儿",
+                        "link": "http://m.wufazhuce.com/radio/3268?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lgKqAFzrseH1S8JeCBD5kaQ3qEIi"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 883 期",
+                "audio_url": "http://music.wufazhuce.com/lgKqAFzrseH1S8JeCBD5kaQ3qEIi"
+            }
+        ],
+        "menu": {
+            "vol": "2901",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4446",
+                    "title": "未竟的告白"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1279",
+                    "serial_list": [
+                        "1270",
+                        "1271",
+                        "1272",
+                        "1273",
+                        "1274",
+                        "1275",
+                        "1276",
+                        "1277",
+                        "1278",
+                        "1279",
+                        "1280",
+                        "1281",
+                        "1282",
+                        "1283",
+                        "1284",
+                        "1285",
+                        "1286",
+                        "1287",
+                        "1288",
+                        "1289"
+                    ],
+                    "title": "我的么啊·第十章：疯狂巴赫"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2974",
+                    "title": "气场是如何培养的？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2051",
+                    "title": "生活不易，老婆子更要美丽"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3268",
+                    "title": "脆弱教会我的事儿"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

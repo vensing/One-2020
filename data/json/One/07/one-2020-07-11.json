@@ -1,0 +1,538 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5567",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-11 06:00:00",
+        "content_list": [
+            {
+                "id": "20716",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2880",
+                "title": "摄影",
+                "forward": "闹钟响了就按继续响铃的人，人生中的事也会一拖再拖。",
+                "img_url": "http://image.wufazhuce.com/Ft4ij5c2wOn2-7Z5duonFg4_ctJI",
+                "like_count": 17683,
+                "post_date": "2020-07-11 06:00:00",
+                "last_update_date": "2020-07-08 11:46:51",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2835",
+                "pic_info": "David Marcu",
+                "words_info": "坂元裕二",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2880",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2880",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2880",
+                    "image": "http://image.wufazhuce.com/Ft4ij5c2wOn2-7Z5duonFg4_ctJI",
+                    "title": "VOL.2835",
+                    "content": "闹钟响了就按继续响铃的人，人生中的事也会一拖再拖。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2880?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2880?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 闹钟响了就按继续响铃的人，人生中的事也会一拖再拖。——坂元裕二 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2880?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2880?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20706",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4379",
+                "title": "想吃的日子",
+                "forward": "“我们这些自私的人若无其事的活下去了。”",
+                "img_url": "http://image.wufazhuce.com/Fm61ew2lUeyEaJQQ6vxPorctS-7K",
+                "like_count": 2049,
+                "post_date": "2020-07-11 06:00:00",
+                "last_update_date": "2020-07-11 09:11:34",
+                "author": {
+                    "user_id": "11179432",
+                    "user_name": "苏方",
+                    "desc": "小说集《一些时刻》《异乡记》",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "生于1984，正在成为作家。",
+                    "fans_total": "305",
+                    "web_url": "http://image.wufazhuce.com/FsIJIHfl7qqXKTNgPiQ76O2TEjqj"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4379",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4379",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4379",
+                    "image": "http://image.wufazhuce.com/Fm61ew2lUeyEaJQQ6vxPorctS-7K",
+                    "title": "想吃的日子 作者/苏方",
+                    "content": "“我们这些自私的人若无其事的活下去了。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 想吃的日子",
+                        "desc": "文/苏方 “我们这些自私的人若无其事的活下去了。”",
+                        "link": "http://m.wufazhuce.com/article/4379?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 想吃的日子",
+                        "desc": "文/苏方 “我们这些自私的人若无其事的活下去了。”",
+                        "link": "http://m.wufazhuce.com/article/4379?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 想吃的日子》 文/苏方： “我们这些自私的人若无其事的活下去了。” 阅读全文：http://m.wufazhuce.com/article/4379?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4379?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "想吃的日子",
+                        "desc": "“我们这些自私的人若无其事的活下去了。”",
+                        "link": "http://m.wufazhuce.com/article/4379?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20693",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1241",
+                "title": "打雪仗·第十二章：无声疯狂",
+                "forward": "这事太逗了，唯一一条有效线索，是个精神病提供给我们的。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 669,
+                "post_date": "2020-07-11 06:00:00",
+                "last_update_date": "2020-07-14 11:46:07",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第12章",
+                "number": "12",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1241",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1241",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1241",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第十二章：无声疯狂 作者/肖睿",
+                    "content": "这事太逗了，唯一一条有效线索，是个精神病提供给我们的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第十二章：无声疯狂",
+                        "desc": "文/肖睿 这事太逗了，唯一一条有效线索，是个精神病提供给我们的。",
+                        "link": "http://m.wufazhuce.com/serial/1241?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第十二章：无声疯狂",
+                        "desc": "文/肖睿 这事太逗了，唯一一条有效线索，是个精神病提供给我们的。",
+                        "link": "http://m.wufazhuce.com/serial/1241?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第十二章：无声疯狂》 文/肖睿： 这事太逗了，唯一一条有效线索，是个精神病提供给我们的。 阅读全文：http://m.wufazhuce.com/serial/1241?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1241?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第十二章：无声疯狂",
+                        "desc": "这事太逗了，唯一一条有效线索，是个精神病提供给我们的。",
+                        "link": "http://m.wufazhuce.com/serial/1241?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20719",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2908",
+                "title": "如果突然暴富，你会做什么？",
+                "forward": "买买买买买买买买！",
+                "img_url": "http://image.wufazhuce.com/FvASgFdJn0TmhhHxEzbaBVAXHl56",
+                "like_count": 1534,
+                "post_date": "2020-07-11 06:00:00",
+                "last_update_date": "2020-07-10 11:28:30",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2908",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2908",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2908",
+                    "image": "http://image.wufazhuce.com/FvASgFdJn0TmhhHxEzbaBVAXHl56",
+                    "title": "如果突然暴富，你会做什么？",
+                    "content": "如果突然暴富，你会做什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如果突然暴富，你会做什么？",
+                        "desc": "文/网友 买买买买买买买买！",
+                        "link": "http://m.wufazhuce.com/question/2908?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如果突然暴富，你会做什么？",
+                        "desc": "文/网友 买买买买买买买买！",
+                        "link": "http://m.wufazhuce.com/question/2908?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如果突然暴富，你会做什么？》 文/网友： 买买买买买买买买！ 阅读全文：http://m.wufazhuce.com/question/2908?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2908?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如果突然暴富，你会做什么？",
+                        "desc": "买买买买买买买买！",
+                        "link": "http://m.wufazhuce.com/question/2908?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20718",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2020",
+                "title": "真·披荆斩棘的哥哥们，请出道吧！",
+                "forward": "苦恼与偏激的当事人、理智与果敢派出所、客观与同情围观者，看似立场各异的三群人，就处在同一个魔幻人间。",
+                "img_url": "http://image.wufazhuce.com/FhsRkH6UEs_6s6zGmsL8v4Gcoggv",
+                "like_count": 1668,
+                "post_date": "2020-07-11 06:00:00",
+                "last_update_date": "2020-07-11 14:19:36",
+                "author": {
+                    "user_id": "10511986",
+                    "user_name": "yaoyaoooo",
+                    "desc": "candy crush玩家，加西亚·马尔克斯狂热粉，写作自娱，未完全脱离旅游业的新入门插画师，下个目的地包含但不限于夏季挪威峡湾、留尼汪。",
+                    "wb_name": "@yaoyaoooo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "名字里有辆奥迪，正在画画的人。",
+                    "fans_total": "517",
+                    "web_url": "http://image.wufazhuce.com/Fkaqni13cptOk7thG6X6yRQ1-Lpa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "派出所的故事2019",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5003",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2020",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2020",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2020",
+                    "image": "http://image.wufazhuce.com/FhsRkH6UEs_6s6zGmsL8v4Gcoggv",
+                    "title": "「一个」电影: 派出所的故事2019",
+                    "content": "上海，常住人口2500万，流动人口600万，分布着400多间派出所，你能想象多少轻则迷惑，重则犯罪的行为24小时不间断上演吗？上了热搜的我们知道，不上热搜的，恐怕只有派出所知道了。没有《白夜追凶》里频发的藏尸分尸，没有《湄公河行动》中潜入毒窝的九死一生，也没有《无间道》天台上，拔枪互指的对峙&hellip;&hellip;取而代之的，是一位位名不见经传的警员，他们不仅在台风天轻舟驱鹅，在摩天大厦楼顶劝返抖音拍客，帮助居民寻找忘记拔下的钥匙，还要应对醉驾肇事车主迷糊对话等一系列无比细微的日常琐事。这些打破警匪大片感，却包罗万家灯火的警情，就来自纪录片《派出所的故事2019》。纪录片在B站与豆瓣获评破9高分，延续了上一季《巡逻现场实录2018》的好口碑，我们未必与每一起警情有雷同的人生经历，却很可能被警情中潜藏的人性照见内心，激起共鸣。警情1：丢2019年超强台风&ldquo;利奇马&rdquo;刚走，松江某小区的河道上出现黑天鹅，短暂走红朋友圈，社区民警栗忠贵与陆童猜测，天鹅可能是从动物园飞出来的，随即前往查看。他们到达现场后核实，天鹅是从隔壁小区顺着涨水的河道游过来的，正朝着开放水域徘徊试探。民警联系了附近的河道清理船，自己上阵，赶在天鹅彻底走丢前，引导它们返航小区水域。鹅在迷途，是个小概率事件，钱包在迷途，却常有发生。2019年7月，一位拾金不昧者将捡到的皮夹、身份证、无法解锁的手机，交给了正在值夜班的90后年轻警员&mdash;&mdash;黄慧萌与沈佳栋。警员凭借失物迅速核实失主身份，却苦恼于无法联系其前来认领。黄慧萌灵机一动，尝试通过手机号添加了同龄失主的微信，对方果然在别的移动终端登录，妙计奏效，物归原主。相比丢钱包，更为高频发生的是人在迷途。2019年国庆，南京东路步行街人头攒动，一名来沪游玩的小女孩和妈妈刚在福建中路路口走散了，幸亏能够背出妈妈的手机号码，于是向正在执勤的民警沈佳德求助。民警立马联系，使女孩得以迅速与家人团聚。这起儿童走失案收场才十分钟，南京东路另一头与浙江中路交叉的路口，一位小男孩向民警季一凡发起求助，同样是和自己的妈妈走散，也能背出妈妈的手机号码。民警在电话中耐心地指引这位人生地不熟的母亲前来，此时，拍摄者在画外告诉季一凡，刚刚一位走失儿童的母亲，也是非常不熟悉路况的，男孩听到这句话迅速回应：&ldquo;刚刚那（走失的）是我姐姐。&rdquo;经过画面对比，十分钟内在接连两个路口认领孩子的，果真是同一位母亲。有太多的儿童走失案，都像片中由&ldquo;一个没看住&rdquo;的小疏忽引发，个别因为悲剧性结局被送上热搜，个别因为幸运的失而复得被编为引人一笑的小段子，大部因为结局尚不明朗而被大众折叠忽略。警情已了，警醒无限，能在笑声中思考，谁愿意在哭声中后悔呢？迷途的天鹅、丢失的钱包、走散的儿童，都算是肉眼可见的&ldquo;丢失&rdquo;，可还有些眼不可见的丢失，大概只能用&ldquo;丢魂&rdquo;来形容了。过了零点的夏夜，一名外国女子拨打120求助，说是有人心脏不舒服，对细致的现场状况与具体位置却无法表述得更清楚。公安指挥中心接报后派遣值班巡警马晓亮和周世奇前往协助。两位民警到达现场，方知心脏不适的是女子的男友，男子见到民警进屋，开始表现得狂躁，并胡乱抓东西砸向民警，不像是心脏不适。民警退出屋子，男子匍匐在地上跟了出来，甚至扑向楼道的窗户。两名民警只好先制伏这位激动的&ldquo;病人&rdquo;，等待急救。急救人员到达检查，判断男子没有心脏问题，一时间，男子突然狂躁的原因成谜，需前往医院检查才能知晓。正要转送医院，男子忽然对周世奇产生了极大的信任，直呼&ldquo;帅哥&rdquo;&ldquo;小唐哥&rdquo;&ldquo;正义的天使&rdquo;，为防止送医途中男子再度失控，周世奇也跟上了救护车，与马晓亮兵分两路，医院汇合。马晓亮先一步到达医院，核实了男子身份，得知该男子曾在2019年有过吸贩毒记录，叫人不得不怀疑，狂躁亢奋有没有可能是复吸引起的？出警画风在&ldquo;紧急&rdquo;&ldquo;迷雾&rdquo;&ldquo;无常撒娇&rdquo;中几度切换，持续到凌晨三点多。终于，男子的尿检结果出来&mdash;&mdash;阴性；第二天司法鉴定中心的毛发复检结果&mdash;&mdash;阴性。这意味着，男子并没有复吸，两位民警感到意外，却又欣慰。后经确认，严重低血钾是导致了事发时男子意识丧失与肢体瘫痪的原因。没有那么多&ldquo;大案临头&rdquo;，却总有叫人感到滑稽，尴尬，无语的&ldquo;丢失&rdquo;警情，频频向警员们抛出&ldquo;在吗？&rdquo;的疑问，而警员们也以迅捷的行动应答着&ldquo;我一直在呀！&rdquo;警情2：诈2019年一天清晨，松江公安分局中山派出所警员姚峰，协助北京警方抓捕了一名假造记者身份的诈骗嫌疑人丁某。问讯过程中，丁某声称自己日常工作是为企业家拍纪录片，对于搜查出来的&ldquo;CCTV特约记者名片&rdquo;&ldquo;上海电视台记者证&rdquo;，坚称是单位办的，自己从未使用过，甚至指天发誓。此时，姚峰直接制止说到：&ldquo;你这个位置上，对天发誓的人多了。&rdquo;言之凿凿的丁某发誓被打断，一下子露了怯。姚峰抓住机会教育引导，丁某终于逐步交代自己私印名片，网购记者证，对报案人明借实骗的行为。2020年2月，新冠疫情高峰，防疫物资紧俏，鲁女士募集了一笔爱心款项，计划购买口罩进行捐赠。鲁女士通过微信添加了一名颜姓男子，该男子称自己有私人飞机，与市面最好的口罩资源，可以直接将防疫物资从海外运输回国内。男子在收取十六万元定金后，却迟迟不发货，引起了鲁女士的警觉。警员戴佳伟与黄俊俊在掌握男子行踪后，对该男子及其同居女友进行了抓捕与审讯。审讯中，颜姓男子的陈述前后矛盾，谎话连篇，竟然对女友也并未如实相告&mdash;&mdash;他隐瞒自己已婚已育的事实，自称已离异，是一名爱心机构负责人。在骗取爱心款项当天，颜某便挥霍一空，问讯当场被揭穿行骗事实依旧面无愧色。眼见晓之以理行不通，戴佳伟想动之以情，颜某依旧油盐不进，回应民警说：&ldquo;我想退掉中国国籍。&rdquo;实施诈骗的人总能提出可怜的理由，可怜之人必有可恨之处。人但凡起了行骗之心，实施了诈骗之术，就仿佛掉进了&ldquo;可怜&rdquo;&ldquo;可恨&rdquo;头尾衔接的莫比乌斯环，难逃圈套。&nbsp;警情3：凶2019年10月，黄浦区看守所，一名年近退休的民警与一名在押人员汪某相视而坐。汪某并不认识眼前的警官，许多从第一季《巡逻现场实录2018》追过来的观众，却一眼认出，这是22年前卢湾区入室抢劫杀人案的英勇警察颜申午，也是案件被害者的楼下邻居。颜申午自报身份后，汪某神情紧张起来，他正是抢劫杀人案最后一名在逃嫌疑人。在逃22年的他从宋姓改为汪姓，心怀侥幸结婚生子，仿佛翻新了自己的人生。不料随着科技发展，许多前沿识别工具被投入到警务侦查工作，身处黑龙江的汪某上传的生物信息（比如指纹、DNA）成了上海警方久寻的抓捕线索。线索像书签一样，把尘封旧案定位回了事发当日&mdash;&mdash;颜申午正在家休息，听到邻居女孩呼救便出门查看，随即遇上一名持刀歹徒并上前与之搏斗，肩部被刺了一刀，还被削去一块头皮，终究负伤制服歹徒，邻居女孩因为颈动脉被刺，失血去世。主犯伏法后二十二年，小颜变老颜，终于得见最后一名逃犯落网归案。警察这份职业，一面要展现正义、无畏、智慧，一面又需承受误解、牺牲、遗憾。连老颜都调侃自己是为数不多活着的国家二级英模。纵然如此，民警们对于自身职业的选择，只有同一个觉悟&mdash;&mdash;不悔。十五集《派出所的故事2019》，既有相当琐碎甚至令人不以为意的警情，也有偷盗、诈骗、贩假等引人警惕的警情，还有难得破获的追凶案。警情并不因为繁杂琐碎就不值得分配警力处理，也不因为沉重凶险就可借口力不从心回避。苦恼与偏激的当事人、理智与果敢派出所、客观与同情围观者，看似立场各异的三群人，就处在同一个魔幻人间，甚至是一个人三种精神状态的外在折射而已。试问自己，怎会没有沮丧失落想要放弃的低谷？遇挫时没试过自省自强的反弹？日常生活中少得了对顺境逆境的回味与审视？所谓的人间迷惑行为，从来不会与己无关，单个个体困境的暴露，极可能是集体困境的一处蚁穴。我们才不要把派出所当作一个没有感情的迷惑行为存档机器，而是代入已知的警情，思其所以然，防患于未然。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 真·披荆斩棘的哥哥们，请出道吧！",
+                        "desc": "文/yaoyaoooo 大城无小事，平凡亦英雄。",
+                        "link": "http://m.wufazhuce.com/movie/2020?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 真·披荆斩棘的哥哥们，请出道吧！",
+                        "desc": "文/yaoyaoooo 大城无小事，平凡亦英雄。",
+                        "link": "http://m.wufazhuce.com/movie/2020?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 真·披荆斩棘的哥哥们，请出道吧！》 文/yaoyaoooo： 大城无小事，平凡亦英雄。 阅读全文：http://m.wufazhuce.com/movie/2020?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2020?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "真·披荆斩棘的哥哥们，请出道吧！",
+                        "desc": "大城无小事，平凡亦英雄。",
+                        "link": "http://m.wufazhuce.com/movie/2020?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2835",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4379",
+                    "title": "想吃的日子"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1241",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第十二章：无声疯狂"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2908",
+                    "title": "如果突然暴富，你会做什么？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2020",
+                    "title": "真·披荆斩棘的哥哥们，请出道吧！"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

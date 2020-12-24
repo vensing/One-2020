@@ -1,0 +1,392 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5684",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-11-16 06:00:00",
+        "content_list": [
+            {
+                "id": "21440",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "3005",
+                "title": "摄影",
+                "forward": "你陪我走过你的梦境，且告诉我光何时归返。",
+                "img_url": "http://image.wufazhuce.com/FmDdp9VtZkvPRZU4wGubmqeCUEyt",
+                "like_count": 12447,
+                "post_date": "2020-11-16 06:00:00",
+                "last_update_date": "2020-11-13 16:12:44",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2963",
+                "pic_info": "Tanya Trofymchuk",
+                "words_info": "聂鲁达",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3005",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/3005",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/3005",
+                    "image": "http://image.wufazhuce.com/FmDdp9VtZkvPRZU4wGubmqeCUEyt",
+                    "title": "VOL.2963",
+                    "content": "你陪我走过你的梦境，且告诉我光何时归返。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3005?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3005?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 你陪我走过你的梦境，且告诉我光何时归返。——聂鲁达 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3005?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3005?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "1"
+            },
+            {
+                "id": "21435",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4513",
+                "title": "放手也是一种爱",
+                "forward": "“直到有一天”，这句话听来多么恐怖，好像所有美好的事物都会有终结。",
+                "img_url": "http://image.wufazhuce.com/FgN83BSxsCtMytnbnNdDjmjMnyg5",
+                "like_count": 2368,
+                "post_date": "2020-11-16 06:00:00",
+                "last_update_date": "2020-11-15 21:27:48",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4513",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4513",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4513",
+                    "image": "http://image.wufazhuce.com/FgN83BSxsCtMytnbnNdDjmjMnyg5",
+                    "title": "放手也是一种爱 作者/陈雪",
+                    "content": "你至少可以一把斩断乱麻，让自己从头来过。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 放手也是一种爱",
+                        "desc": "文/陈雪 你至少可以一把斩断乱麻，让自己从头来过。",
+                        "link": "http://m.wufazhuce.com/article/4513?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 放手也是一种爱",
+                        "desc": "文/陈雪 你至少可以一把斩断乱麻，让自己从头来过。",
+                        "link": "http://m.wufazhuce.com/article/4513?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 放手也是一种爱》 文/陈雪： 你至少可以一把斩断乱麻，让自己从头来过。 阅读全文：http://m.wufazhuce.com/article/4513?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4513?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "放手也是一种爱",
+                        "desc": "你至少可以一把斩断乱麻，让自己从头来过。",
+                        "link": "http://m.wufazhuce.com/article/4513?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21438",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3038",
+                "title": "什么样的社交算是有效社交？",
+                "forward": "见贤思齐焉，谈笑有鸿儒。",
+                "img_url": "http://image.wufazhuce.com/Fu7u0S9k_-uDul4oAsbtErzsRE3L",
+                "like_count": 3591,
+                "post_date": "2020-11-16 06:00:00",
+                "last_update_date": "2020-11-15 20:38:49",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "星辰",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3038",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3038",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3038",
+                    "image": "http://image.wufazhuce.com/Fu7u0S9k_-uDul4oAsbtErzsRE3L",
+                    "title": "什么样的社交算是有效社交？",
+                    "content": "什么样的社交算是有效社交？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 什么样的社交算是有效社交？",
+                        "desc": "文/缪斯谭 分清何为工作关系，何为玩乐关系，何为互助关系。",
+                        "link": "http://m.wufazhuce.com/question/3038?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 什么样的社交算是有效社交？",
+                        "desc": "文/缪斯谭 分清何为工作关系，何为玩乐关系，何为互助关系。",
+                        "link": "http://m.wufazhuce.com/question/3038?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 什么样的社交算是有效社交？》 文/缪斯谭： 分清何为工作关系，何为玩乐关系，何为互助关系。 阅读全文：http://m.wufazhuce.com/question/3038?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3038?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "什么样的社交算是有效社交？",
+                        "desc": "分清何为工作关系，何为玩乐关系，何为互助关系。",
+                        "link": "http://m.wufazhuce.com/question/3038?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "21443",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3363",
+                "title": "人总是老得太快，爱得太慢",
+                "forward": "我们酌了些酒，清淡的米酒。夕阳到来的时候，我拍下他床边夕阳映在窗户上的影子，浓郁的，向日葵的颜色。",
+                "img_url": "http://image.wufazhuce.com/FtatF3e8owYJvHI8NfPT0sbs9VSm",
+                "like_count": 1722,
+                "post_date": "2020-11-16 06:00:00",
+                "last_update_date": "2020-11-16 10:24:19",
+                "author": {
+                    "user_id": "11164439",
+                    "user_name": "柒斐",
+                    "desc": "海岸线爱好者，睡眠不足的普通电影观众。\r\n独立编剧，HerPeaches剧本工作室创始人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，HerPeaches工作室创始人。",
+                    "fans_total": "989",
+                    "web_url": "http://image.wufazhuce.com/FlgBlHjLF40QuAwszutvMT3biQO3"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/ln6cBxCNdRLZeecCIAmkrrJ_yoom",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "迷鹿",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3363",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3363",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3363",
+                    "image": "http://image.wufazhuce.com/FtatF3e8owYJvHI8NfPT0sbs9VSm",
+                    "title": "「一个」音乐: 柒斐 迷鹿",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  &ldquo;这些年过去了，我没再见过他了。&rdquo;我这样说着，但胡郁桐却不相信。借着无理取闹的劲儿我骂了她几句，后觉得泄气，想想酒盏下虚度光阴不过如此，也就罢了。但事实是，我却再也没见过他的了。因为我在离开他很久很久以后，遗憾，我已经没什么新故事。想想我也没什么必要去介怀这事，毕竟认识他的时候，我也不曾是个讲故事的人。那时候他喜欢的，也不是听我讲故事。因为他从来都觉得，自己的故事比我写得好多了。还有一件事，我要坦白地承认，千千万万人里，是我当时主动向前走了些，才撩拨到他的。彼时是大学一年级，我和胡郁桐在城市角落的画廊看见他，本只是为了讨他一副画像，却在后来爱上给他写故事。&nbsp;他叫赵青山。名字听起来很老气吧？然而他的确是个老人。怎样才算是个老人？大概就是在我十几岁的光景，他已然被来往的行人叫叔叔或伯伯。是我大意，从来也没向他确认过年龄这件事。城市角落艺术区的街头画家很多，但像他这样能坐在画廊里明目张胆赚钱的却不少。那日因胡郁桐腿快了几步，他便先画了她。继而是我。于是，这份运气好歹不说地降临到我身上&mdash;&mdash;&ldquo;不好意思，封膜的喷雾没有了。画不能给你。&rdquo;其实，我从没介意过那握在他手里，按几下就能让画的表面封上一层膜的喷雾，我甚至觉得它刺鼻难闻，会对身体有害。但赵青山很坚持，说一定要等封好膜后才能将画交于我。因为我最初问他要的，就是这样一副带封层的画。&nbsp;留下电话，他说他叫赵青山，就住在城郊的院子里，自艺术区向西穿过一条铁道，转弯后从挂着大红灯笼的门口入，右手边第三个门便是。如若我不信，尽管可以去找他理论一番。我笑他对现在的年轻人才是没有信任，处处怀疑我们并非善茬儿，否则这么周到客气也算是过于刻意。他不语，显然被我几句话噎了回去。从此，我以为的画家、艺术家，就应该是不善言辞但技艺高超的。我将那未封膜的画拍了照在手机里，才允他暂且拿回家。相约再见的时间是下个周五。&nbsp;因为幸免于堵车，所以我到得早了些。正赶上艺术区举办波斯展，迎面见几个外国男孩，金发碧眼地在小咖啡馆门前摆了架子弹唱。几首大约也听不懂的乡村音乐，迎着将将到来的夕阳和门前如金黄麦田一般的波斯挂毯，好不温暖。赵青山仍在展馆旁坐着，并未向此处望一望。他总是安静作画，透过展馆的落地玻璃窗，很轻易地能看到那个属于他的窗边角落。他和他的画，或也是许多人心中关于这个展馆的风景。收了画的我被赵青山推荐，在展馆里寻一方画框来，以便往后裱起这幅画像来。我向来不是讲道理的人，应他说私心以为如此做法太过老土，不像是当代正能量女青年干得出来的事情。他丧气了些，说道：&ldquo;是我老了，那你有什么新故事吗？&rdquo;&nbsp;顺势同他讲了些刚刚听外国小伙儿们唱歌的感受，以及学校里那些扶不上墙的校园乐队夜半歌声的趣事。他一边把画笔撂下，一边应我：&ldquo;不过都是一样嘛。我们那时候也靠这些个把戏追姑娘。&rdquo;&ldquo;你应该不屑于这些事吧。&rdquo;冰淇淋的最后一口咬下去，我问他。&ldquo;为什么？&rdquo;&ldquo;你不是会画画吗？画幅画像送心爱的姑娘多好。&rdquo;他听了反复打量着什么，末了，他从我手中轻易地抽出已经被卷成筒的画，再次递给我说：&ldquo;像这样？&rdquo;我晓得他总是一副老无赖的样子示人，却从不究其中缘由。人做事情总是有些理由的，只是彼时的我顾不得这些，只觉得这无赖偶尔也有憨态可掬的一面。便开始聊天。会在每天给他讲些学校里的新鲜故事，他发来些最近的画，就好像同步了每日艺术区来往的人给我。&nbsp;我开始利用那些人的长相编故事，偶尔是短小的，大多时间我喜欢把他们放在我一直在写的一部很长很长的小说里。渐渐小说架构走了样，从本来简单的两男三女的故事，变成一个街头艺术区的世间群像。截稿那日，是大学三年级的第二学年年末。那时，我唤赵青山&ldquo;老赵&rdquo;，他仍喜欢叫我本名，他叫得从来温柔生动。他说：&ldquo;还会有新故事吗？向念。&rdquo;&ldquo;你还会再画新的人吗？&rdquo;&ldquo;嗯。&rdquo;&ldquo;那我会写。&rdquo;&ldquo;这样真好，我喜欢你写的故事。&rdquo;&ldquo;我喜欢你画他们。&rdquo;&nbsp;在写完画像故事的第二个系列那天，我跑过那段铁道，走向那个挂着大红灯笼的院子，数着一二三，叩开了他的门。房间不大，漆了墨绿色的墙面，以及一扇窗户，窗外是曲折丛生的树枝桠杈，太阳会从桠杈的缝隙里透过来。浓郁的向日葵一样的黄色的床单被罩，桌台是木头的，原木，只是抛光后刷了些保护油。很多画，桌子上，地上，门上，墙上，床上，赵青山的手里。他穿一套深灰色的家居服，胡子没有刮，头发蓬松却不凌乱，黑色圆框眼镜把他衬得像个知识分子。后来才知道，他曾经是一位以知识分子自居的大学美术老师。我没再问他为什么离开校园，只想着他能多见一些不同的人也好。世界本来就丰富多彩。&nbsp;我们在院子里烧烤，邻居们都会在下班以后加入进来。他对面住着的是一家开宠物摄影工作室的小夫妻，还有周围被儿女接来带孩子的爷爷奶奶，以及他们的猫儿狗儿。衣服都是挂在院子里晾着的，随着旁生的树木花草吸收日月精华。这不过是第一次，我就爱上这个挂着大红灯笼的院子。赵青山只许我小酌，剩下些酒他如数替我挡了去。局散，我们一人一个小马扎，坐在院子里看星星。偶尔会听到些喇叭的声音。他回头，向远处努努嘴说：&ldquo;穿过那条很宽的马路，咱们的隔壁就是这座城市数一数二的别墅区，很多拍电影的人住在那儿。&rdquo;&ldquo;哦。&rdquo;&ldquo;等你下次来，提前跟我说，带你去旁边另一个小艺术区逛逛，里面很多是同我多年相处的朋友，还有些好看的男孩儿。&rdquo;&ldquo;好。&rdquo;&ldquo;我在这住了七八年了，还是很喜欢。&rdquo;&ldquo;嗯。&rdquo;&ldquo;你今天话很少？&rdquo;&ldquo;想静静地坐着看星星。你陪我看会儿星星吧。&rdquo;&nbsp;人们常说，如果你跟这个人坐在一起，什么话也不说却也不觉得尴尬，才是两人关系最恰到好处的时候。赵青山就是这样，很安静地陪我看星星到凌晨。本想替我叫个车，把我送回学校，是我突发奇想，想同他在院子里坐一夜，等早上的晨光。他没拒绝，只转身去屋里去了一双盖毯，大的给了我，他把小的那个，搭在肩膀上。盖毯是纯色的，不像波斯挂毯那般明媚，却有种低调的高级。当日聊了些什么，确切的我已经记不得了。许多年后乍一想起，忽而以为他仍在我身旁似的，以为他还如一个孩子一般，吵嚷着要我给他分享新鲜的故事。我曾问他为什么不自己出去走走转转，他每日的活动范围不过院子和艺术区的展馆，在此住了六七年，却也不晓得艺术区内其他地方都是做什么的。他只说自己老了，多走几步路都会觉得累。我没有强求，那时我刚刚经历失恋，二十几岁却已经知道强扭的瓜不甜了。&nbsp;我没在赵青山面前哭过，就算我当天失恋当天去找他，也从没哭过。有的人是很奇怪的，不管你经历了什么周围事，见到那个人以后，所有一切瞬时烟消云散。当我见到赵青山，总会以为这世上没什么事情是过不去的了。赵青山的书桌抽屉里放着一把口琴，他却很少吹。或许是他真晓得我的难过，那日他破天荒地把口琴拿出来，在院子里面，坐在马扎上吹了很久。说不上技艺多好，无非一些苏联老歌，一如《莫斯科郊外的晚上》那种。&ldquo;向念，你有什么新故事吗？&rdquo;他又这样问我。&ldquo;这次没有了。&rdquo;音乐戛然而止时，悲伤涌了上来，我突然不想开口给他讲故事。&nbsp;三十岁的第一天，我在他鬓角处发现了他生命里的第一根白发。&ldquo;赵青山，从此以后我会承认你老了。&rdquo;我一边用手机给他的白发拍照，一边说着。&ldquo;没什么奇怪，本来就老了。&rdquo;他接过手机的时候，手指触碰到我的手背。那是许多年以来，我们最为亲密的接触。我感受到他手指间的老茧，如同锁上了年少记忆的盒子，硬邦邦的，因为锁头生锈，所以找不到打开的口子。临别前，毫无理由地，我拽住他说：&ldquo;要不我们结婚吧。&rdquo;他没给我回应，只留我笑着，一步一回头地越过那条看起来像废弃了很久的铁轨。有些时候，感情不过一瞬间的事情。我弄不清楚自己为什么想嫁，就像毫不自知什么时候对他生了爱意一般。只是，偶然在一个人的深夜，会常常想着，一个寡言的人，有着执拗和孤傲的性格，却还是选择把一腔温柔倾注在我身上，不过是偶然的相遇，一而再再而三的相遇。这些年，想必他也是对我有爱意的，否则，我想不出那些为我所做的事情，是出于什么因由。&nbsp;我再也没见过赵青山。自他为我挡住来势汹汹的火车以后。胡郁桐和院子里的爷爷奶奶都说他过得很好，但我再也没见过他。夕阳甚好的一天，我去他的住处取画，那是我三十二岁生日的第二天。自我们相知后，他每年会为我画一幅画像作生日礼物。很简单，却年年不同。二十五岁那年，他一边画一边说：&ldquo;向念，你胖了。&rdquo;&ldquo;为什么？&rdquo;&ldquo;脸大了。&rdquo;二十八岁那年，他一边卷画一边说：&ldquo;向念，晚上一起吃烧烤啊。陈阿姨今天也回来了。&rdquo;三十岁那年，他把画交到我手上说：&ldquo;我想了一晚上，总觉得，我们好像不能结婚。你说呢？&rdquo;&ldquo;为什么？&rdquo;&ldquo;我老了。&rdquo;&ldquo;那总有一天，我也会没有新故事讲给你听的啊。&rdquo;&ldquo;那不一样。&rdquo;&ldquo;有什么不一样？&rdquo;&ldquo;你太小了，等长大了就知道了。&rdquo;&nbsp;三十二岁。我们酌了些酒，清淡的米酒。夕阳到来的时候，我拍下他床边夕阳映在窗户上的影子，浓郁的，向日葵的颜色。昏黄而清香，就像帮他把洗好的衣服晾晒在院子里的时候闻到的一样。他护着我走那条我们走了许多遍的轨道。那轨道常年没有火车经过。我曾以为它老了，是时候被废弃了。赵青山喜欢那条轨道，穿过轨道一路向东，没几步就能到艺术区了。穿过铁道后，事事方便。火车来的时候我正挂着耳机听歌，一手拽着他的手腕，一手伸进风里。他赫然倒下的样子，看起来年轻了很多岁。我不知道他疼不疼。我闭上眼睛再睁开，他就这样匆匆消失了。我去过太多次他的房间&mdash;&mdash;城郊的院子里，自艺术区向西穿过一条铁道，转弯后从挂着大红灯笼的门口入，右手边第三个门便是。后来的很多次，我都是一个人穿过铁道，却再也没看到呼啸而来的车。他一直都觉得人人有人人的命数，他说算命的告诉他会死得很安详。那火车碾过身体的痛感太强，他绝不会这样死去。他会死得很安详。我们都是被封建迷信豢养的俗人，当然要相信这些世俗愿望。&nbsp;办完第一本书的签售会后，我把赵青山院子里的房间买了下来。夕阳昏黄，窗影映在床上。墨绿色的墙上，我选了些好看的画框，把那些他画给我的画裱了起来。按着时间顺序，挂到最后一副，我清楚地晓得，在涉世未深之前，我就已经衰老了。把连日流连在挂着大红灯笼门口的猫捡回了屋子。此时它在叫，我不觉吵。打开电脑的文字编辑页，我晓得的，这是我的最后一个新故事了。是的，在星星掉落在晒满衣服的院子里的时候，我确然也是老了。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 人总是老得太快，爱得太慢",
+                        "desc": "文/柒斐 我写完了整个故事，却写不好一个你。",
+                        "link": "http://m.wufazhuce.com/music/3363?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 人总是老得太快，爱得太慢",
+                        "desc": "文/柒斐 我写完了整个故事，却写不好一个你。",
+                        "link": "http://m.wufazhuce.com/music/3363?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 人总是老得太快，爱得太慢》 文/柒斐： 我写完了整个故事，却写不好一个你。 阅读全文：http://m.wufazhuce.com/music/3363?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3363?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "人总是老得太快，爱得太慢",
+                        "desc": "我写完了整个故事，却写不好一个你。",
+                        "link": "http://m.wufazhuce.com/music/3363?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "迷鹿",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "张三弥",
+                "audio_album": "Adieu.",
+                "cover": "http://image.wufazhuce.com/FkO7nTHGrrKs7gO0KdYdI8tOwqp3",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2963",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4513",
+                    "title": "放手也是一种爱"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3038",
+                    "title": "什么样的社交算是有效社交？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3363",
+                    "title": "人总是老得太快，爱得太慢"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

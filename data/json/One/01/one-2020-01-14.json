@@ -1,0 +1,680 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5382",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-14 06:00:00",
+        "content_list": [
+            {
+                "id": "19611",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2695",
+                "title": "摄影",
+                "forward": "未来是一片迷雾，令人胆怯，但不妨走下去，看看命运给我们准备了什么。",
+                "img_url": "http://image.wufazhuce.com/FjbXHixZPnJhLo3B4LNvBoyGVUu8",
+                "like_count": 19462,
+                "post_date": "2020-01-14 06:00:00",
+                "last_update_date": "2020-01-13 11:42:21",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2656",
+                "pic_info": "eberhard grossgasteiger",
+                "words_info": "保拉·麦克莱恩《绕日飞行》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2695",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2695",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2695",
+                    "image": "http://image.wufazhuce.com/FjbXHixZPnJhLo3B4LNvBoyGVUu8",
+                    "title": "VOL.2656",
+                    "content": "未来是一片迷雾，令人胆怯，但不妨走下去，看看命运给我们准备了什么。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2695?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2695?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 未来是一片迷雾，令人胆怯，但不妨走下去，看看命运给我们准备了什么。——保拉·麦克莱恩《绕日飞行》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2695?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2695?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19575",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4150",
+                "title": "此后就是属于我们的故事了",
+                "forward": "你做了选择，我也可以做出选择，并不是被放弃的人就意味着不能得到幸福。",
+                "img_url": "http://image.wufazhuce.com/Fu-crgOSCXtK8azhKzi3sKg3Gn-b",
+                "like_count": 3119,
+                "post_date": "2020-01-14 06:00:00",
+                "last_update_date": "2020-01-14 10:20:49",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4150",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4150",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4150",
+                    "image": "http://image.wufazhuce.com/Fu-crgOSCXtK8azhKzi3sKg3Gn-b",
+                    "title": "此后就是属于我们的故事了 作者/陈雪",
+                    "content": "你做了选择，我也可以做出选择，并不是被放弃的人就意味着不能得到幸福。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 此后就是属于我们的故事了",
+                        "desc": "文/陈雪 你做了选择，我也可以做出选择，并不是被放弃的人就意味着不能得到幸福。",
+                        "link": "http://m.wufazhuce.com/article/4150?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 此后就是属于我们的故事了",
+                        "desc": "文/陈雪 你做了选择，我也可以做出选择，并不是被放弃的人就意味着不能得到幸福。",
+                        "link": "http://m.wufazhuce.com/article/4150?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 此后就是属于我们的故事了》 文/陈雪： 你做了选择，我也可以做出选择，并不是被放弃的人就意味着不能得到幸福。 阅读全文：http://m.wufazhuce.com/article/4150?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4150?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "此后就是属于我们的故事了",
+                        "desc": "你做了选择，我也可以做出选择，并不是被放弃的人就意味着不能得到幸福。",
+                        "link": "http://m.wufazhuce.com/article/4150?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19616",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4158",
+                "title": "「故事大爆炸」最后一批入围作品公示",
+                "forward": "不好意思，久等。",
+                "img_url": "http://image.wufazhuce.com/Fpg4TFGEdffyrg_tW1V4IdKh1gMY",
+                "like_count": 900,
+                "post_date": "2020-01-14 06:00:00",
+                "last_update_date": "2020-01-14 12:36:54",
+                "author": {
+                    "user_id": "5631435",
+                    "user_name": "ONE·一个 ",
+                    "desc": "ONE 是由韩寒监制的文艺生活应用，覆盖摄影、插画、小说、问答、音乐、电影等，精挑细选，每日更新。",
+                    "wb_name": "@一个App工作室",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "ONE·一个 是由韩寒监制的文艺生活应用",
+                    "fans_total": "5566",
+                    "web_url": "http://image.wufazhuce.com/FvSMJiVyijX8G4BFHwhvDprO5yvW"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4158",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4158",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4158",
+                    "image": "http://image.wufazhuce.com/Fpg4TFGEdffyrg_tW1V4IdKh1gMY",
+                    "title": "「故事大爆炸」最后一批入围作品公示 作者/ONE·一个 ",
+                    "content": "不好意思，久等。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "故事大爆炸入围作品 | 「故事大爆炸」最后一批入围作品公示",
+                        "desc": "文/ONE·一个  不好意思，久等。",
+                        "link": "http://m.wufazhuce.com/article/4158?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "故事大爆炸入围作品 | 「故事大爆炸」最后一批入围作品公示",
+                        "desc": "文/ONE·一个  不好意思，久等。",
+                        "link": "http://m.wufazhuce.com/article/4158?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《故事大爆炸入围作品 | 「故事大爆炸」最后一批入围作品公示》 文/ONE·一个 ： 不好意思，久等。 阅读全文：http://m.wufazhuce.com/article/4158?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4158?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "「故事大爆炸」最后一批入围作品公示",
+                        "desc": "不好意思，久等。",
+                        "link": "http://m.wufazhuce.com/article/4158?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "45",
+                        "title": "故事大爆炸入围作品"
+                    }
+                ]
+            },
+            {
+                "id": "19560",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1078",
+                "title": "魔都春梦·第十三章·三角关系",
+                "forward": "“人活着并不是只做对的事情”，这不仅仅是一种开脱。",
+                "img_url": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                "like_count": 884,
+                "post_date": "2020-01-14 06:00:00",
+                "last_update_date": "2020-04-07 16:53:02",
+                "author": {
+                    "user_id": "4813463",
+                    "user_name": "老王子",
+                    "desc": "小说家，诗人。@新老王子",
+                    "wb_name": "@新老王子",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，诗人。@新老王子",
+                    "fans_total": "5145",
+                    "web_url": "http://image.wufazhuce.com/FgegDExkkeP8izCd3fkGKRwoyKiS"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第13章",
+                "number": "13",
+                "serial_id": "78",
+                "serial_list": [
+                    "1055",
+                    "1059",
+                    "1057",
+                    "1058",
+                    "1060",
+                    "1061",
+                    "1062",
+                    "1070",
+                    "1071",
+                    "1072",
+                    "1073",
+                    "1074",
+                    "1078",
+                    "1079",
+                    "1083",
+                    "1084",
+                    "1085",
+                    "1086",
+                    "1087"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1078",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1078",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1078",
+                    "image": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                    "title": "魔都春梦·第十三章：三角关系 作者/老王子",
+                    "content": "“人活着并不是只做对的事情”，这不仅仅是一种开脱。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 魔都春梦·第十三章：三角关系",
+                        "desc": "文/老王子 “人活着并不是只做对的事情”，这不仅仅是一种开脱。",
+                        "link": "http://m.wufazhuce.com/serial/1078?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 魔都春梦·第十三章：三角关系",
+                        "desc": "文/老王子 “人活着并不是只做对的事情”，这不仅仅是一种开脱。",
+                        "link": "http://m.wufazhuce.com/serial/1078?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 魔都春梦·第十三章：三角关系》 文/老王子： “人活着并不是只做对的事情”，这不仅仅是一种开脱。 阅读全文：http://m.wufazhuce.com/serial/1078?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1078?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "魔都春梦·第十三章：三角关系",
+                        "desc": "“人活着并不是只做对的事情”，这不仅仅是一种开脱。",
+                        "link": "http://m.wufazhuce.com/serial/1078?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19612",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2725",
+                "title": "你梦想中“择一城终老”的城市是怎样的？",
+                "forward": "春天时，鸟语花香；夏天时，烈日骄阳；秋天时，硕果累累；冬天时，喜欢人的怀抱。",
+                "img_url": "http://image.wufazhuce.com/FhwE4W3BBv6PYnyBZ2VIgwt6YAbc",
+                "like_count": 2406,
+                "post_date": "2020-01-14 06:00:00",
+                "last_update_date": "2020-01-13 16:32:17",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2725",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2725",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2725",
+                    "image": "http://image.wufazhuce.com/FhwE4W3BBv6PYnyBZ2VIgwt6YAbc",
+                    "title": "你梦想中“择一城终老”的城市是怎样的？",
+                    "content": "你梦想中“择一城终老”的城市是怎样的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你梦想中“择一城终老”的城市是怎样的？",
+                        "desc": "文/网友 安安静静不吵不闹阳光刚好。",
+                        "link": "http://m.wufazhuce.com/question/2725?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你梦想中“择一城终老”的城市是怎样的？",
+                        "desc": "文/网友 安安静静不吵不闹阳光刚好。",
+                        "link": "http://m.wufazhuce.com/question/2725?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你梦想中“择一城终老”的城市是怎样的？》 文/网友： 安安静静不吵不闹阳光刚好。 阅读全文：http://m.wufazhuce.com/question/2725?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2725?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你梦想中“择一城终老”的城市是怎样的？",
+                        "desc": "安安静静不吵不闹阳光刚好。",
+                        "link": "http://m.wufazhuce.com/question/2725?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "19613",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1939",
+                "title": "你还会偷偷关注前任的动态吗？",
+                "forward": "别再把自己，困在前一段恋情里。",
+                "img_url": "http://image.wufazhuce.com/FpBUNuxAa76Hvxr7ZyUD6gwNusks",
+                "like_count": 2210,
+                "post_date": "2020-01-14 06:00:00",
+                "last_update_date": "2020-01-13 21:37:54",
+                "author": {
+                    "user_id": "9066429",
+                    "user_name": "宋睿洋",
+                    "desc": "96年生人。讲故事的人，已将灵魂出卖给靡非斯特的青年作者。\r\n公众号：宋睿洋：ruiyangwriting",
+                    "wb_name": "@宋睿洋zero",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者，纵火男司机。",
+                    "fans_total": "1937",
+                    "web_url": "http://image.wufazhuce.com/FtkKCEYbdyd53aIqlMVebxgT1V96"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "黑暗面",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4922",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1939",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1939",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1939",
+                    "image": "http://image.wufazhuce.com/FpBUNuxAa76Hvxr7ZyUD6gwNusks",
+                    "title": "「一个」电影: 黑暗面",
+                    "content": "01惊悚的当代两性寓言无论是明星，还是才子佳人，再或者是普通人，他们在婚姻和爱情面前其实都搞不太明白，爱而不得和得而不爱这两大让人痛苦的命题，始终折磨着我们。两个人走进了婚姻的殿堂，他们依旧会面临人性考验。&ldquo;毕生所爱&rdquo;这个词听起来很美好，实际上却犹如两性绳索，始终捆绑着人性。欧洲一些电影对这类问题都有着很深刻的剖析，例如意大利的《完美陌生人》，对两性出轨问题的探讨就相当透彻。&nbsp;《黑暗面》今天笔者介绍的这部西班牙片《黑暗面》，仍然是一个脑洞大开的故事，影片探讨的爱情话题宽泛而又深刻，例如背叛、恋人的不可替代、失恋后的自由等等这些概念在影片中都有提及，看后让人毛骨悚然，犹如读了一本惊悚的当代两性寓言。02现任&前任一位年轻有为的指挥家亚德里安在情场失意后，他来到酒吧喝闷酒，对着空酒杯说话，仿佛正对着前女友窃窃私语。在这种地方，他这样的男人总能吸引好奇心旺盛的女孩。餐厅服务员法比安娜被面前这个忧郁的男人吸引，上前搭话，两个人在经过短暂的接触之后很快相恋，亚德里安也从上一段失败的恋情当中走了出来。亚德里安带着新女朋友法比安娜回到了自己郊区老宅生活，他平时还会带着法比安娜自己去的演奏会散心。突然有一天，检察官和检察官助手的来访打乱了他们平静的生活。亚德里安得知自己的前女友失踪后有可能被别人谋害，检察官则锁定了亚德里安可能是凶手之一。一同前来的检察官助手还是法比安娜的前男友，他发现法比安娜成了亚德里安的女朋友，心里很不是滋味。伴随着前女友的失踪，法比安娜发现自己生活的这个别墅有问题，尤其她进洗手间的时候，总能听见一些怪响，这让她总产生一种幻觉，她甚至觉得这一切都是前女友的鬼魂在作祟。直到有一天她发现了一把钥匙，一个阴谋才慢慢浮出水面。这条故事线暂时告一段落。这部影片在这个时候采用了双线叙事的模式，又穿插了一条过去时空故事线，讲的是男主亚德里安与前女友的故事。故事里男主还未成为首屈一指的指挥家。在他第一次拿到乐队指挥权的时候，他的前女友决定一起跟他离开家乡，来到异乡。随着生活慢慢变好，前女友跟他一起搬进了郊区别墅，他们在一起十分恩爱，仿佛要将自己的全部都献给对方。而男主亚德里安之前做的这一切也都和现任女友法比安娜都做过一遍。&nbsp;亚德里安和前女友对于亚德里安而言，相恋的对象是谁并不重要，只要他进入了恋爱状态，那么每一次都会有相似的恋爱流程出现。对他来说，这些恋爱套路已经成为一种让自己足够愉悦的即兴行为了。影片中有很多恩爱的细节，在对比过两条时间线之后发现，原来现任和前任其实都毫无差距，人似乎只要进入恋爱状态那便都是最爱的，这样的概念本质上也是一种自我麻醉。03被锁在墙里的爱情直到前女友发现了亚德里安和乐团里的小提琴手暧昧，她开始质疑自己这份感情到底是不是独一无二唯一的存在，于是听从了别墅老主人的一个意见，她准备尝试藏在别墅的墙内，然后透过玻璃观察墙外亚德里安的一切。毕竟，真爱应当是唯一的。前女友想看一看当自己消失之后，亚德里安会有什么反应。可万万没想到意外却发生了，当前女友进入墙壁空间的时候把钥匙忘在了墙外，她出不去了。而那扇可以看到墙外的玻璃，从外面看只是一面简单的镜子。没有人知道前女友的去向，她每天除了吃墙壁内发霉的罐头和被污染的自来水，也只能不断用叫喊的原始方式求救。墙外的亚德里安看到前女友离开的分手信，也只有前几天很难过，过了一段时间过后，他便带回了新女友法比安娜，他们在卧室里交欢的画面和发出的声音，全都被前女友看在眼里。这个部分很有意思，看似是剧情安排的需要。实则更像一种暗示，犹如一个寓言。倘若放在现实社会，一对恋人已经分手，你仍然留有对方的联系方式，可以看到对方的全部动态：当前任有了新恋人的时候，你也只能眼睁睁地看着他们在一起，又不能说什么。那些没有从过去走出去的人看着这一切，何尝不是呆在过去恋情的墙壁之中呢？前女友始终在墙壁之中观察着一切，她时不时地发出噪音给法比安娜捣乱，让其以为这个屋子里有着鬼魂，另一方面她也想向外界求救。最终法比安娜发现了这个屋子的端倪，并意识到前女友可能被困在了墙壁之中，她之前意外捡到的钥匙，恰好能够打开墙壁的密室。不过，法比安娜在最后一刻没有打开那扇门，因为恋爱的占有和排他性，她装作什么都不知道，她想让前女友就此消失。也恰巧在这个时候，法比安娜的前男友送给了她几张亚德里安出轨小提琴手的照片，上面的亚德里安的举动十分亲密，私下里也和小提琴手表白了。历史惊人相似，前女友经历过的一切，如出一辙地也在法比安娜身上应验了。她在伤心之余，给亚德里安留下了钥匙和前女友照片，将前女友从门内放出去，而自己却彻底消失了。在影片的最后这个镜头特别耐人寻味，前女友在奄奄一息之时得到了抢救，她走出了恋爱囚笼，面对着大海感受着自由，预示着她跟过去的一切挥手作别，开启了新的人生。看到法比安娜留下的钥匙和照片的亚德里安却没有什么反应，他并不知道这其中的寓意是什么。其实亚德里安这个角色的塑造更加真实，他对每一任女友都有感情，对谁都觉得是唯一不变的存在，但每次都在不自知中出轨。这样糟糕的感情，其实每时每刻都在生活中上演。法比安娜最后被前女友关进了墙壁，这作为人物的一种行为动机，本质上是前女友的报复。可从影片的隐喻上来讲，&ldquo;墙内&rdquo;犹如一座&ldquo;心灵牢笼&rdquo;，一个人无法接受曾经失败的感情，在对前任的默默观望中痛苦、徘徊、拒绝接受任何新的感情。或者说在过去的感情伤害里更加患得患失，心灵之外最终形成了新的屏障，否定了自己未来的意义。这其实是&ldquo;壁中人&rdquo;的真正隐喻，影片结尾闪过了一个法比安娜窥视墙外的镜头，然后整部影片戛然而止。这仿佛也暗示着，亚德里安的恋爱出轨模式将会一直持续下去，仿佛一个诅咒，很多时候只是对象变了，可身份和立场始终没有任何变化。而对于亚德里安的前女友和法比安娜来说，反复陷入恋爱的壁垒，是她们真实的困境。04走出恋爱的壁垒其实当代社会，相恋的成本越来越低，满足快乐的方式越来越多，一旦快感变得廉价，必然会带来情感的异化。这也是当代年轻人普遍面临的恋爱困境：双方同时处在糟糕的恋爱里却浑然不知。与现实相比，影片中的故事或许过于极端。也有观众会说，只要老房东出现便能成功救出前女友，可这其实都是导演有意为之，通过制造巨大的剧情冲突，来让影片中的恋爱困境变得更加明显。我们从影片中或多或少都会找到自己的影子。深夜时分，倘若你还保留着前任的微信微博，是否还会偷偷关注对方的动态呢？时间也许是化解一切的良药，但这并不代表一个人能从过去的感情中彻底解脱出来。默默的关注并不是错，但为此而感到痛苦挣扎，则与影片中的&ldquo;壁中人&rdquo;并无差别。说到底，恋爱和婚姻最珍贵的，就在于彼此都是对方唯一的存在，一旦破坏了这个前提，爱情也丧失了本来的意义。对于糟糕的恋情，及时向前走，是打开所有&ldquo;恋爱壁垒&rdquo;的钥匙。不断解剖自己的过去，勇于认清他人与自我的本质，唯有如此，我们才能有机会从恶性循环的恋爱中解脱出来，从而获得真正意义上的幸福与温度。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 你还会偷偷关注前任的动态吗？",
+                        "desc": "文/宋睿洋 别再把自己，困在前一段恋情里。",
+                        "link": "http://m.wufazhuce.com/movie/1939?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 你还会偷偷关注前任的动态吗？",
+                        "desc": "文/宋睿洋 别再把自己，困在前一段恋情里。",
+                        "link": "http://m.wufazhuce.com/movie/1939?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 你还会偷偷关注前任的动态吗？》 文/宋睿洋： 别再把自己，困在前一段恋情里。 阅读全文：http://m.wufazhuce.com/movie/1939?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1939?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你还会偷偷关注前任的动态吗？",
+                        "desc": "别再把自己，困在前一段恋情里。",
+                        "link": "http://m.wufazhuce.com/movie/1939?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19561",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3028",
+                "title": "用了一夜的勇气，才敢说一句\"在吗\"",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FkgZdIrTjznPkix-Ftt2NOVGiDBf?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1493,
+                "post_date": "2020-01-14 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3028",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3028",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 用了一夜的勇气，才敢说一句\"在吗\"",
+                        "desc": "\"在吗？\"比\"我爱你\"更难说出口",
+                        "link": "http://m.wufazhuce.com/radio/3028?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lk1kDnTI3qkwE3pxhLvPkMa6_u4t"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 用了一夜的勇气，才敢说一句\"在吗\"",
+                        "desc": "\"在吗？\"比\"我爱你\"更难说出口",
+                        "link": "http://m.wufazhuce.com/radio/3028?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lk1kDnTI3qkwE3pxhLvPkMa6_u4t"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 用了一夜的勇气，才敢说一句\"在吗\"》 主播/马晓橙： \"在吗？\"比\"我爱你\"更难说出口 阅读全文：http://m.wufazhuce.com/radio/3028?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3028?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lk1kDnTI3qkwE3pxhLvPkMa6_u4t"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "用了一夜的勇气，才敢说一句\"在吗\"",
+                        "link": "http://m.wufazhuce.com/radio/3028?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lk1kDnTI3qkwE3pxhLvPkMa6_u4t"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 760 期",
+                "audio_url": "http://music.wufazhuce.com/lk1kDnTI3qkwE3pxhLvPkMa6_u4t"
+            }
+        ],
+        "menu": {
+            "vol": "2656",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4150",
+                    "title": "此后就是属于我们的故事了"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4158",
+                    "title": "「故事大爆炸」最后一批入围作品公示",
+                    "tag": {
+                        "id": "45",
+                        "title": "故事大爆炸入围作品"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1078",
+                    "serial_list": [
+                        "1055",
+                        "1059",
+                        "1057",
+                        "1058",
+                        "1060",
+                        "1061",
+                        "1062",
+                        "1070",
+                        "1071",
+                        "1072",
+                        "1073",
+                        "1074",
+                        "1078",
+                        "1079",
+                        "1083",
+                        "1084",
+                        "1085",
+                        "1086",
+                        "1087"
+                    ],
+                    "title": "魔都春梦·第十三章·三角关系"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2725",
+                    "title": "你梦想中“择一城终老”的城市是怎样的？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1939",
+                    "title": "你还会偷偷关注前任的动态吗？"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3028",
+                    "title": "用了一夜的勇气，才敢说一句\"在吗\""
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,583 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5631",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-06 06:00:00",
+        "content_list": [
+            {
+                "id": "21221",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2964",
+                "title": "摄影",
+                "forward": "寄给你，这片小小的银杏叶\n它什么也不暗示，因为是秋天了",
+                "img_url": "http://image.wufazhuce.com/FpAAJ1s7jHkilwemj5wf7fB02EJk",
+                "like_count": 16200,
+                "post_date": "2020-10-06 06:00:00",
+                "last_update_date": "2020-09-30 12:40:18",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2922",
+                "pic_info": "Jerry Wang",
+                "words_info": "海桑《因为是秋天了》 ​",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2964",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2964",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2964",
+                    "image": "http://image.wufazhuce.com/FpAAJ1s7jHkilwemj5wf7fB02EJk",
+                    "title": "VOL.2922",
+                    "content": "寄给你，这片小小的银杏叶\n它什么也不暗示，因为是秋天了"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2964?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2964?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 寄给你，这片小小的银杏叶\n它什么也不暗示，因为是秋天了——海桑《因为是秋天了》 ​ 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2964?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2964?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21211",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4470",
+                "title": "夜晚的潜水艇",
+                "forward": "“我反复画过一张画。深蓝色的背景中央，有一片更深的蓝。有人说像叶子，有人说像眼睛，像海里的鲸鱼。人们猜想其中的隐喻。其实没有任何含义，那是一艘潜水艇。我的潜水艇。它行驶在永恒的夜晚。它将永远，永远地悬停在我深蓝色的梦中。”",
+                "img_url": "http://image.wufazhuce.com/FrnDHR_VtpFuSpE2Adx3GUDqVTRb",
+                "like_count": 2246,
+                "post_date": "2020-10-06 06:00:00",
+                "last_update_date": "2020-09-29 15:54:41",
+                "author": {
+                    "user_id": "11617572",
+                    "user_name": "陈春成",
+                    "desc": "青年作家，新书《夜晚的潜水艇》现已上市。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，新书《夜晚的潜水艇》现已上市。",
+                    "fans_total": "255",
+                    "web_url": "http://image.wufazhuce.com/FhTHwkdGZVl7Z_ao1nBaAwgaCxBo"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4470",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4470",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4470",
+                    "image": "http://image.wufazhuce.com/FrnDHR_VtpFuSpE2Adx3GUDqVTRb",
+                    "title": "夜晚的潜水艇 作者/陈春成",
+                    "content": "Captain Chan，准备出发吧。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 夜晚的潜水艇",
+                        "desc": "文/陈春成 Captain Chan，准备出发吧。",
+                        "link": "http://m.wufazhuce.com/article/4470?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 夜晚的潜水艇",
+                        "desc": "文/陈春成 Captain Chan，准备出发吧。",
+                        "link": "http://m.wufazhuce.com/article/4470?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 夜晚的潜水艇》 文/陈春成： Captain Chan，准备出发吧。 阅读全文：http://m.wufazhuce.com/article/4470?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4470?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "夜晚的潜水艇",
+                        "desc": "Captain Chan，准备出发吧。",
+                        "link": "http://m.wufazhuce.com/article/4470?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21044",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1288",
+                "title": "我的么啊·第十九章：远方来客",
+                "forward": "“乙方应不定时陪同甲方外出活动中，还有一项短途旅游没履行。”詹君兰昂着头兀自在镜前整理休闲裙的领子，“程序完整，好合好散。”",
+                "img_url": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                "like_count": 696,
+                "post_date": "2020-10-06 06:00:00",
+                "last_update_date": "2020-09-04 13:29:59",
+                "author": {
+                    "user_id": "4814954",
+                    "user_name": "陈麒凌",
+                    "desc": "陈麒凌，也教书，也写小说。曾获得联合报文学奖首奖、全球华文文学星云奖、林语堂文学奖。",
+                    "wb_name": "@陈麒凌",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "也教书，也写小说。",
+                    "fans_total": "2296",
+                    "web_url": "http://image.wufazhuce.com/Fggt2Ut1kJ7uTNjxGSG4w-LGRL6S"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第19章",
+                "number": "19",
+                "serial_id": "87",
+                "serial_list": [
+                    "1270",
+                    "1271",
+                    "1272",
+                    "1273",
+                    "1274",
+                    "1275",
+                    "1276",
+                    "1277",
+                    "1278",
+                    "1279",
+                    "1280",
+                    "1281",
+                    "1282",
+                    "1283",
+                    "1284",
+                    "1285",
+                    "1286",
+                    "1287",
+                    "1288",
+                    "1289"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1288",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1288",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1288",
+                    "image": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                    "title": "我的么啊·第十九章：远方来客 作者/陈麒凌",
+                    "content": "乙方应不定时陪同甲方外出活动中，还有一项短途旅游没履行。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 我的么啊·第十九章：远方来客",
+                        "desc": "文/陈麒凌 乙方应不定时陪同甲方外出活动中，还有一项短途旅游没履行。",
+                        "link": "http://m.wufazhuce.com/serial/1288?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 我的么啊·第十九章：远方来客",
+                        "desc": "文/陈麒凌 乙方应不定时陪同甲方外出活动中，还有一项短途旅游没履行。",
+                        "link": "http://m.wufazhuce.com/serial/1288?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 我的么啊·第十九章：远方来客》 文/陈麒凌： 乙方应不定时陪同甲方外出活动中，还有一项短途旅游没履行。 阅读全文：http://m.wufazhuce.com/serial/1288?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1288?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我的么啊·第十九章：远方来客",
+                        "desc": "乙方应不定时陪同甲方外出活动中，还有一项短途旅游没履行。",
+                        "link": "http://m.wufazhuce.com/serial/1288?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21193",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2994",
+                "title": "和心仪的异性约会需要注意什么？",
+                "forward": "因为两颗心之所以能贴近，都是因为彼此之间感受到了“我愿意为你”的用心。",
+                "img_url": "http://image.wufazhuce.com/FoQcVV9nzgHSOVn2VCL_7cB33K9G",
+                "like_count": 2034,
+                "post_date": "2020-10-06 06:00:00",
+                "last_update_date": "2020-10-05 09:36:34",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "准备养狗的前夜",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2994",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2994",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2994",
+                    "image": "http://image.wufazhuce.com/FoQcVV9nzgHSOVn2VCL_7cB33K9G",
+                    "title": "和心仪的异性约会需要注意什么？",
+                    "content": "和心仪的异性约会需要注意什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 和心仪的异性约会需要注意什么？",
+                        "desc": "文/久十二 不必过分拘谨，不要随意亲昵。",
+                        "link": "http://m.wufazhuce.com/question/2994?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 和心仪的异性约会需要注意什么？",
+                        "desc": "文/久十二 不必过分拘谨，不要随意亲昵。",
+                        "link": "http://m.wufazhuce.com/question/2994?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 和心仪的异性约会需要注意什么？》 文/久十二： 不必过分拘谨，不要随意亲昵。 阅读全文：http://m.wufazhuce.com/question/2994?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2994?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "和心仪的异性约会需要注意什么？",
+                        "desc": "不必过分拘谨，不要随意亲昵。",
+                        "link": "http://m.wufazhuce.com/question/2994?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11616182",
+                    "user_name": "久十二",
+                    "desc": "· 知乎情感博主：久十二\r\n·毕业于University of Minnesota Twin Cities，主攻“沟通研究”与“亲密关系研究”。在校期间曾担任“intimate relationships（亲密关系研究）”课程项目助教。\r\n· 曾任国内知名婚恋机构情感咨询师培训项目主管。\r\n· 创办Mission cupid情感咨询团队，自创“六型人格”情感理论体系，乐于帮助人们解决各类情感问题，挽回幸福爱情。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "知乎博主久十二，一个不爱睡觉的情感博主。",
+                    "fans_total": "403",
+                    "web_url": "http://image.wufazhuce.com/FrTkU0QjTx3Z_sDNAZMykTAp4ooQ"
+                }
+            },
+            {
+                "id": "21230",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2060",
+                "title": "今天，我想对我的人生说谢谢",
+                "forward": "我爱你面容俊朗，也爱你笑容温暖，爱你眼光多情，也爱你堂堂正正。",
+                "img_url": "http://image.wufazhuce.com/FmG9O5mHpGoi2lWkYkqHTpmsojTv",
+                "like_count": 2087,
+                "post_date": "2020-10-06 06:00:00",
+                "last_update_date": "2020-10-05 19:08:24",
+                "author": {
+                    "user_id": "11185651",
+                    "user_name": "颗馨",
+                    "desc": "既然不再假装自己不是多愁善感的诗人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "做最积极的悲观主义者。",
+                    "fans_total": "885",
+                    "web_url": "http://image.wufazhuce.com/Fj65EDdIoR9aUxJnUlYaqjaKWF55"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "青春纪录",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5043",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2060",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2060",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2060",
+                    "image": "http://image.wufazhuce.com/FmG9O5mHpGoi2lWkYkqHTpmsojTv",
+                    "title": "「一个」电影: 青春纪录",
+                    "content": "人生在世，没有一个人是不累的。我们都是从出生开始就在受累，外面复杂的世界，数不清的他者，一切的一切都要适应，我们把这一切化名为成长，把已经习惯受累的人称作大人，把无数不能适应和理解这个世界的时刻总和叫做青春。有趣的是，别人不会免费让你享受的。所以，我们要试着去创造自己的世道，要在迷茫的青春里找到那些能让这艰难的世道变得有趣的东西。找到至少一道光，来指引你向前继续走下去。《青春纪录》就是这样一个关于怎样创造自己世道的电视剧。主人公安静和，二十六岁，才开始做化妆师，准确的说，现在还是化妆助理，只能帮前辈洗洗刷子，做做准备工作，是没有资格帮别人化妆的。二十六岁，才开始追梦，她想创立自己的美妆品牌。二十六岁，她刚刚准备好追梦的基本，给自己安全感&mdash;&mdash;一间小公寓。在此之前，她一直在大企业勤勤恳恳的看眼色工作，她基本不在外面吃饭，那些生活窒息无趣，没有颜色，只有低着头向前走，所有的时间都用来挣钱攒钱，她深知所有的梦想都需要有坚实的物质。&nbsp;她的人生里，一直没有容易这回事，努力是必须的，不努力的话，人生哪来安全感。白天，前辈怕她抢客人没少给她脸色，晚上，从美容院下班，还要在街头做美妆直播，帮有各种化妆困惑的路人解答问题，每天回家又孤身一人，面对着黑漆漆的房子。一直奔跑一直奔跑，累的时候也不敢停下，停下来的时候，连个说话的人都没有，那些疲惫和委屈只能自己在夜里发酵，可明天太阳还要升起，我们还要继续向前跑。真的好累啊，生活真的有太多辛苦，那一点甜，要从哪找？追星，酒疯，同时拥有这两样东西，你知道意味着什么吗？意味着很难恋爱。这两样东西，安静和刚好都有。追星，是她不能割舍的，人生的那道光。她喜欢的艺人叫史惠俊。一个韩国模特，二十六岁，正在转型成为演员，在遍地明星的韩国，实在是个小的不能再小的咖，或者说，是个随时可能消失在娱乐圈的人。为什么喜欢他呢？这不仅是安静和同事的困惑，也是无数不懂追星这回事的旁观者都会产生的疑问。没追过星的人也许不会明白，那种虽然相隔千里却可以随时陪伴的精神力量，那种看到世界上有这么一个人他有我想追求的东西，有我非常向往的能量。我就是喜欢他，喜欢他现在的样子，也因为喜欢他，我可以在密不透风的生活里有一丝丝甜，我都眼光可以从黑暗和孤单的现实里看到远方的那一抹光亮。更重要的是，我可以更喜欢我自己。所以，为什么是史惠俊呢？同样的二十六岁，同样在瓶颈期的人生，同样坚韧地生活，同样愿意善良，愿意温暖，愿意理解他人，同样的在努力地追梦，努力地生活。现在的演艺圈，除了完美的面孔，其它方面也越来越要求完美，似乎每个艺人都要有殷实的家境，要么名校毕业，要么是天才，越不凡越好，越传奇越好。史惠俊不一样，他住在韩国的富人区，可家里并不是什么有钱人，一家五口人挤在一间小房子里，爸爸是工人，一身伤病，妈妈是保姆，在自己最好的朋友家里打工。他从小就没有自己的房间，一直和爷爷住在一起。早早辍学，因为家里只能供一个孩子上大学，做模特挣钱，成为了韩国顶级模特，可现在年纪大了，也没有资本去世界舞台走秀，眼看到了不得不服兵役的年龄，能接的活越来越少，更多时候，没有行程还要去烤肉店，快餐店打好几份零工。家里人都反对他成为艺人，多数时候是打击，是挖苦，真的做的好的时候，也只是默不作声。一同出道的好友是富家子弟，两人一起转型做演员，参加相同的试镜，朋友总是顺利通过，惠俊次次落选。每一件事都能让人自卑，让人丧气，让人想要放弃，可是史惠俊没有。他有足够的自信，也有野心，是现实主义者，也是实用主义者。面对采访，从不隐瞒自己的家境，诚恳地说父母的职业，在妈妈问，去朋友家做保姆会不会让他觉得丢脸的时候，他鼓励妈妈做自己喜欢的工作。打工时面对喜欢他的粉丝也都温和平静的像对待普通客人一样，认真推荐，仔细做事。试镜落选虽然难过，也祝贺朋友，在一个人的时候在暗自神伤。他能理解所有人，却不强求所有人理解他。永远相信人与人之间是平等的，永远坚定自己，永远踏踏实实。那份善良是被黑暗苦痛磨砺过的，那份自信是被不公被失落洗刷过的，是草根的力量，是真正的耀眼。&ldquo;我眼光太好了，在万千的演艺人中选中了你。&rdquo;这是安静和后来在工作中与史惠俊相遇的时候说的话。这么好的一个人，可是我喜欢的人啊。那些黑夜，缩在房间里说句话都没人回应的孤单时刻，点亮屏幕就能看见一个那么昂扬的人，他自信的目视前方，一步一步走向舞台，亮相的时候气定神闲。世界上有这么美好的人和事，没必要那么丧气。远远地看着，也很好，就好像有个人在陪你，二十六岁追梦，没关系，我也还在路上，可我没气馁啊，就让我们一起努力吧。安静和追星的过程是克制的，她不执迷为偶像立人设，对偶像的喜欢也不卑微，那种喜欢不是仰视你，而是凝视你。她想要用专业的姿态出现在史惠俊面前，不是因为喜欢史惠俊才能去给大秀模特化妆，而是因为化妆好才可以去大秀化妆见到史惠俊。就是这么巧合，她去参加了大秀的后台化妆，而坐在她面前的模特刚好是史惠俊。是有那么一点紧张，是有那么一瞬间的不知所措，史惠俊问&ldquo;你是我的粉丝吗？&rdquo;她很快否认了，马上回到专业状态，细致体贴的完成妆容。粉丝和偶像间也要保持距离。在工作场合相遇，就要展现出最专业的一面。我喜欢你，这是我的事，是可以与你无关的，我可以控制对你的爱，这才是追星最正确的打开方式。在史惠俊选角成功的时候，安静和会比自己升为设计师还开心，这像是一种代理满足，被我选中的明星也被他人选中，那些被我发现的好，终于也有人识货了。而选择了你的我，一定也不差，有那么一天，我也会被我的梦想选中吧。 在史惠俊被父亲大骂不切实际，要去服兵役的时候，安静和也看到他有点落寞地看着行程满满的好友意气风发的样子。在你难过，你失落的时候，换我来理解你，就像理解被前辈排挤，还看不到出头之日的我自己，我们都没那么完美，我们都可以有叹口气的机会。这个世界要多难有多难，万事如意是心愿，一帆风顺是祝福，跌跌撞撞是常态，起起落落是生活。可我们还是想做我们愿意做的事，哪怕苦一点，累一点，可那条路是属于我的，是我的世道。当我看到有人和我一样，在做自己喜欢的事，在发光的路上，我多少欣慰，我不是一个人，有人和我一样在努力的生活。我相信你会成为大明星，你也会愿意相信我可以成为我想成为的人吧。或许爱你，是我做过最好的事。或许爱你，更像是爱我自己。在追星的过程中，是我选择了你，选择了同样值得被爱的你，也不辜负爱的你。我爱你面容俊朗，也爱你笑容温暖，爱你眼光多情，也爱你堂堂正正。我爱你的好，那些好是你展现出来，又被我发现的，所以喜欢你，更是肯定我，肯定我自己的好眼光，肯定我自己欣赏一切美的能力。所以我追星，我并不卑微，也并不被动，是我选择了你和我一起成长，我发现了你的特别，也欣赏你的特别。我觉得你这样很好，正好这也是我想要成为的样子。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 今天，我想对我的人生说谢谢",
+                        "desc": "文/颗馨 在这世界上，你才不是孤身一人 。",
+                        "link": "http://m.wufazhuce.com/movie/2060?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 今天，我想对我的人生说谢谢",
+                        "desc": "文/颗馨 在这世界上，你才不是孤身一人 。",
+                        "link": "http://m.wufazhuce.com/movie/2060?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 今天，我想对我的人生说谢谢》 文/颗馨： 在这世界上，你才不是孤身一人 。 阅读全文：http://m.wufazhuce.com/movie/2060?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2060?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "今天，我想对我的人生说谢谢",
+                        "desc": "在这世界上，你才不是孤身一人 。",
+                        "link": "http://m.wufazhuce.com/movie/2060?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21045",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3277",
+                "title": "活得\"假\"一点，或许好一点",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FsJgZYgHjJNUnIcPvxh0MVPecZkC?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1299,
+                "post_date": "2020-10-06 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3277",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3277",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 活得\"假\"一点，或许好一点",
+                        "desc": "生活真的很真，活着真的要假",
+                        "link": "http://m.wufazhuce.com/radio/3277?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnB0BsJ_O9DwFAuNLc-XnacVAjcZ"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 活得\"假\"一点，或许好一点",
+                        "desc": "生活真的很真，活着真的要假",
+                        "link": "http://m.wufazhuce.com/radio/3277?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnB0BsJ_O9DwFAuNLc-XnacVAjcZ"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 活得\"假\"一点，或许好一点》 主播/马晓橙： 生活真的很真，活着真的要假 阅读全文：http://m.wufazhuce.com/radio/3277?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3277?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lnB0BsJ_O9DwFAuNLc-XnacVAjcZ"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "活得\"假\"一点，或许好一点",
+                        "link": "http://m.wufazhuce.com/radio/3277?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnB0BsJ_O9DwFAuNLc-XnacVAjcZ"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 896 期",
+                "audio_url": "http://music.wufazhuce.com/lnB0BsJ_O9DwFAuNLc-XnacVAjcZ"
+            }
+        ],
+        "menu": {
+            "vol": "2922",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4470",
+                    "title": "夜晚的潜水艇"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1288",
+                    "serial_list": [
+                        "1270",
+                        "1271",
+                        "1272",
+                        "1273",
+                        "1274",
+                        "1275",
+                        "1276",
+                        "1277",
+                        "1278",
+                        "1279",
+                        "1280",
+                        "1281",
+                        "1282",
+                        "1283",
+                        "1284",
+                        "1285",
+                        "1286",
+                        "1287",
+                        "1288",
+                        "1289"
+                    ],
+                    "title": "我的么啊·第十九章：远方来客"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2994",
+                    "title": "和心仪的异性约会需要注意什么？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2060",
+                    "title": "今天，我想对我的人生说谢谢"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3277",
+                    "title": "活得\"假\"一点，或许好一点"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

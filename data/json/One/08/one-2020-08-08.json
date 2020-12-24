@@ -1,0 +1,538 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5581",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-08-08 06:00:00",
+        "content_list": [
+            {
+                "id": "20869",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2904",
+                "title": "摄影",
+                "forward": "人只要没有失去记忆，就能够在梦中与故人相见。 ​​​​",
+                "img_url": "http://image.wufazhuce.com/Fm4tlRpAT6acCsuvzitFHIYhWpF4",
+                "like_count": 16908,
+                "post_date": "2020-08-08 06:00:00",
+                "last_update_date": "2020-08-03 10:38:30",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2863",
+                "pic_info": "Jeremy Bishop",
+                "words_info": "谷崎润一郎",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2904",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2904",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2904",
+                    "image": "http://image.wufazhuce.com/Fm4tlRpAT6acCsuvzitFHIYhWpF4",
+                    "title": "VOL.2863",
+                    "content": "人只要没有失去记忆，就能够在梦中与故人相见。 ​​​​"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2904?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2904?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人只要没有失去记忆，就能够在梦中与故人相见。 ​​​​——谷崎润一郎 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2904?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2904?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20861",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4404",
+                "title": "湖边行走",
+                "forward": "张扬说，因为这样可以让我爸妈感觉到，我的生活永远以他们为中心。",
+                "img_url": "http://image.wufazhuce.com/FtFQgMO_0YDirf_HERXoj9Sj5o8G",
+                "like_count": 1681,
+                "post_date": "2020-08-08 06:00:00",
+                "last_update_date": "2020-08-07 19:05:00",
+                "author": {
+                    "user_id": "10842628",
+                    "user_name": "赵耐凡",
+                    "desc": "短篇《十一月北方下雪》作者",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "耐凡不耐烦",
+                    "fans_total": "798",
+                    "web_url": "http://image.wufazhuce.com/Fj1H6EI3JIZh-fdDJmXfRj1YJOJl"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4404",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4404",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4404",
+                    "image": "http://image.wufazhuce.com/FtFQgMO_0YDirf_HERXoj9Sj5o8G",
+                    "title": "湖边行走 作者/赵耐凡",
+                    "content": "“我们都是为了你好！”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 湖边行走",
+                        "desc": "文/赵耐凡 “我们都是为了你好！”",
+                        "link": "http://m.wufazhuce.com/article/4404?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 湖边行走",
+                        "desc": "文/赵耐凡 “我们都是为了你好！”",
+                        "link": "http://m.wufazhuce.com/article/4404?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 湖边行走》 文/赵耐凡： “我们都是为了你好！” 阅读全文：http://m.wufazhuce.com/article/4404?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4404?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "湖边行走",
+                        "desc": "“我们都是为了你好！”",
+                        "link": "http://m.wufazhuce.com/article/4404?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20764",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1253",
+                "title": "打雪仗·第二十四章：野兽的爱",
+                "forward": "酒是个好东西，它是最贤淑的老婆，是最孝顺的儿子，是谁也夺不走的猎枪。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 757,
+                "post_date": "2020-08-08 06:00:00",
+                "last_update_date": "2020-08-03 17:44:23",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第24章",
+                "number": "24",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1253",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1253",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1253",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第二十四章：野兽的爱 作者/肖睿",
+                    "content": "酒是个好东西，它是最贤淑的老婆，是最孝顺的儿子，是谁也夺不走的猎枪。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第二十四章：野兽的爱",
+                        "desc": "文/肖睿 酒是个好东西，它是最贤淑的老婆，是最孝顺的儿子，是谁也夺不走的猎枪。",
+                        "link": "http://m.wufazhuce.com/serial/1253?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第二十四章：野兽的爱",
+                        "desc": "文/肖睿 酒是个好东西，它是最贤淑的老婆，是最孝顺的儿子，是谁也夺不走的猎枪。",
+                        "link": "http://m.wufazhuce.com/serial/1253?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第二十四章：野兽的爱》 文/肖睿： 酒是个好东西，它是最贤淑的老婆，是最孝顺的儿子，是谁也夺不走的猎枪。 阅读全文：http://m.wufazhuce.com/serial/1253?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1253?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第二十四章：野兽的爱",
+                        "desc": "酒是个好东西，它是最贤淑的老婆，是最孝顺的儿子，是谁也夺不走的猎枪。",
+                        "link": "http://m.wufazhuce.com/serial/1253?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20882",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2937",
+                "title": "如何度过情感空窗期？",
+                "forward": "不要害怕枯燥的空窗期，它才最像真实的人生。",
+                "img_url": "http://image.wufazhuce.com/FrS_kY6LjxBGSZzyalyzf9CXniN7",
+                "like_count": 2753,
+                "post_date": "2020-08-08 06:00:00",
+                "last_update_date": "2020-08-07 16:50:04",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "阿罗洛",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2937",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2937",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2937",
+                    "image": "http://image.wufazhuce.com/FrS_kY6LjxBGSZzyalyzf9CXniN7",
+                    "title": "如何度过情感空窗期？",
+                    "content": "如何度过情感空窗期？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何度过情感空窗期？",
+                        "desc": "文/陈大力 空窗期，人生里彻底没爱的时期。",
+                        "link": "http://m.wufazhuce.com/question/2937?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何度过情感空窗期？",
+                        "desc": "文/陈大力 空窗期，人生里彻底没爱的时期。",
+                        "link": "http://m.wufazhuce.com/question/2937?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何度过情感空窗期？》 文/陈大力： 空窗期，人生里彻底没爱的时期。 阅读全文：http://m.wufazhuce.com/question/2937?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2937?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何度过情感空窗期？",
+                        "desc": "空窗期，人生里彻底没爱的时期。",
+                        "link": "http://m.wufazhuce.com/question/2937?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "7989297",
+                    "user_name": "陈大力",
+                    "desc": "陈大力，95后新锐作者，无敌大长腿，钻石少女心。公众号：陈大力（ID:chendali1995）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "95后新锐作者，无敌大长腿，钻石少女心。",
+                    "fans_total": "9855",
+                    "web_url": "http://image.wufazhuce.com/Fm7qZ68h0XjMceY1WWp7-ykCX29R"
+                }
+            },
+            {
+                "id": "20886",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2032",
+                "title": "又是那捧紫色郁金香",
+                "forward": "两世情动三生缘。",
+                "img_url": "http://image.wufazhuce.com/FtowXoQxhRcbtYSKeYE2eFDKvi11",
+                "like_count": 1534,
+                "post_date": "2020-08-08 06:00:00",
+                "last_update_date": "2020-08-07 16:03:20",
+                "author": {
+                    "user_id": "11199306",
+                    "user_name": "kimi",
+                    "desc": "自由撰稿人，业余影剧评写手。每一部影视作品里都有你未曾经历的人生，等待着被发现与倾听。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "聊聊电影和人生",
+                    "fans_total": "502",
+                    "web_url": "http://image.wufazhuce.com/Fmfan7neHDOkYfyH8A7_jgA5G0fH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "重生",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5015",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2032",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2032",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2032",
+                    "image": "http://image.wufazhuce.com/FtowXoQxhRcbtYSKeYE2eFDKvi11",
+                    "title": "「一个」电影: 重生",
+                    "content": "初读《呼啸山庄》的人，很难不斥责男主角希斯克利夫的行径。他为爱所伤，为爱出走，穷尽半生为了他得不到的爱而复仇。他把人生活成了一出悲剧，把自己变成了周围人眼中的恶魔。直到他生命的终点，灵魂终得释然，人们才想起：原来，希斯克利夫也曾爱过。相似的故事架构移植到韩剧里，于是就有了这部从剧名就开始剧透的《Born Again》。重生，从前世到今生。如果有来世，你还会爱着那个曾经爱着的人么？&nbsp;01&ldquo;希斯克利夫没有对恩人不善，只是被爱也感觉不到而已。&rdquo;假如感情可以先来后到的顺序发展，那么孔地哲一定是忠实的拥趸。自从4年前在工地搬砖时，第一次透过教堂的窗户见到了那个叫郑夏恩的女人，他就觉得自己暗无天日的人生里终于拥有了一缕阳光，像泥泞中开出一朵美丽的花。他鼓起勇气走进了教堂，坐在角落里用粗鄙的手在本子上记下夏恩念的故事。他不敢走上前跟夏恩说话，甚至不敢对视。直到夏恩走到他面前，对他说：正视自己的伤痛，因为那不是你的错，有错的是那个让你痛的人。如果有下辈子，请出生在不让你受折磨的家庭吧。被亲生母亲遗弃，被继母虐待并刺伤。从出生那一刻起，孔地哲的人生注定活在阴影中，像刘海下那道羞于见人的伤疤，丑陋而肮脏。至于那位可以称为&ldquo;父亲&rdquo;的人，更是一个自诩为天才和道德的审判者的变态杀人魔。他将犯错的女人用残忍的方式杀害，然后用沾满被害人鲜血的手，画下她们的死状。他说，那是为了获得艺术灵感和替天行道。废弃的学校走廊里，挂满了他引以为豪的作品，而那些并非全部。父亲告诉孔地哲，他的身体里同样住着魔鬼，有一天他也会变成一个杀人者，并且一旦开始就停不下来。父亲的话，成了孔地哲心中挥之不去的魔咒。他不敢告诉警察，父亲就是他们正在追捕的连环杀人犯，他只能带着负罪感在父亲杀人后留在现场清理尸体。他像拼命克制嗜血本性的吸血鬼，在恐慌中挣扎。如果说还有什么活着的意义，那么只能是郑夏恩。为了保护夏恩，他偷偷跟踪夏恩，怕她在路上遭遇不测，也怕有心脏病的夏恩突然发病没人救助。在夏恩经营的旧书店里，他悄悄模仿夏恩男友的做法，在陈旧的书页上写下一句&ldquo;嫁给我吧&rdquo;。他爱夏恩，人生第一次，也是唯一一次，他陷入了无可救药的爱里。像希斯克利夫爱着凯瑟琳，在这场爱里他放弃自救。下着雪的夜晚，他躲在夜色中看着夏恩与男友车亨彬的真情告白。昏黄的灯光下，他和他的影子一样卑微。这是四年来，夏恩第N次拒绝警察男友的求婚，依旧以心脏病为借口。带着一颗羸弱心脏生活的郑夏恩，急需一颗健康的心脏。孔地哲想，或许他可以帮忙。如果杀人犯的基因决定了他的命运，那么他愿意为了夏恩变成一个恶魔。他杀了那个虐待继子的理发店女老板，因为听说她和夏恩的血型相同。也许，父亲是对的，杀一个有罪的人，去救一个好人，这不算错吧。他不需要饶恕，他只想那个他唯一爱着的人好好活着。可惜，事与愿违，那颗心脏没能帮到夏恩，反倒让孔地哲被车亨彬逮捕。他成了父亲的替罪羊，世人眼中十恶不赦的连环杀人犯。他无力辩驳，唯一难过的是夏恩看向他时眼中的失望与厌恶。在狱中，孔地哲得知自己和夏恩的血型相同，他决定将自己的心脏给夏恩。下着雪的江原道，越狱的孔地哲找到了夏恩，他想要向夏恩说明来意和真相。然而，随后赶到的亨彬没有给他这样的机会。争执中，孔地哲杀死了亨彬，目睹这一切的夏恩也因为心脏病而受到惊吓倒在了雪地中，昏迷前她说：&ldquo;孔地哲，你绝对无法复活。&rdquo;那一刻，孔地哲绝望了，他举起亨彬的枪对准了自己。枪响，倒地。前世的纠葛就此终结。02&ldquo;恋人是绝对不会分开的，虽然不知在何时何地还会重逢，也许是下辈子，也许是下下辈子。&rdquo;时间回到现代，书店里，郑莎彬遇见了千宗范。初次见面的印象算不上美好，小小的争执为之后的相遇埋下伏笔。身为医学生的千宗范，成为了考古学讲师郑莎彬的学生。这一世的他，没有左眼的伤疤，没有抛弃他的母亲，他有弟弟，还有当检察长的父亲。在令人艳羡的显赫家庭里，他不再受到肉体的折磨。或许，他该感激，前世教堂里郑夏恩的祝福终得应验？可惜，命运只是换了一种诅咒的方式。同母异父的弟弟会往他喝的补药中掺洗涤剂；没有血缘关系的父亲对他冷漠相待。当周围人在怀疑宗范是坏孩子、杀人犯时，父亲只希望自己的仕途不要因此受到影响。至于口口声声说着很爱他的母亲，也不过是需要一个能延续她优秀基因的人罢了。一旦宗范变得不完美，她便可能随时抛弃他。于是，在别人眼中，千宗范长成了一个怪孩子：未成年杀人，反社会人格。有没有证据不重要，传言足以让所有人都与他保持疏离。千宗范的人生是一座围城，别人进不去，自己出不来。在自己的世界里，他在等待被救赎。然后，郑莎彬出现了；然后，他又一次不可救药地爱上了她。那是他第一次对一个人产生感情。命运让他捡到了莎彬的日记本，像躲在书店角落里窥探夏恩的孔地哲一样，宗范走进了莎彬的生活，也走出了自己的世界。她喜欢的场所，她喜欢吃的老式饼干，她无法实现的愿望，还有&hellip;&hellip;她喜欢的人的样子。宗范总是很&ldquo;巧合&rdquo;地出现在莎彬周围，像前世那样在一次次危急时刻救下她。他不理会别人对他的猜测，继续用自己的方式爱着莎彬。但是，爱情从来不是按先来后到而发展的。和前世一样，千宗范先开始的爱，郑莎彬却将爱回应给了另一个人：前世的车亨彬，今生的金秀赫。在那家叫&ldquo;陈旧的未来&rdquo;的旧书店门口，宗范见证了莎彬对秀赫的爱。前世今生，如出一辙，仿佛应验了夏恩倒下前的&ldquo;诅咒&rdquo;。&nbsp;03&ldquo;两次人生，我都只爱着一个女人，我体内的每个细胞都认得你。&rdquo;孔地哲成了千宗范，车亨彬成了金秀赫，郑夏恩成了郑莎彬。上帝给了他们重生的机会，命运却让他们再次牵绊。前一世的车亨彬，总是记错《呼啸山庄》里那句名言的页码，可是并不妨碍他在书页上写下对夏恩的告白。即使夏恩因为心脏病一次次拒绝他的求婚，他仍然会告诉她：能以你丈夫的名义活着，是我最大的幸福。他没来得及做成夏恩的丈夫，但他拥有了夏恩全部的爱，直至死亡。于是，当他以检察官金秀赫的身份重生时，前世的记忆，变成了今生的本能。那个叫郑莎彬的女人，是这一世他想要守护的人，像前世未完成的使命。可惜，这一次秀赫不再理所应当拥有莎彬全部的爱，莎彬的感情出现了摇摆。像爱情故事的续集里，主人公有了新的爱人，前世&ldquo;呼啸山庄&rdquo;式的感情中，有了变数。或许，这一次，希斯克利夫的结局会有所不同。在希斯克利夫悲剧的人生中，最大的残忍不是被抛弃、被误解、被人咬牙切齿地咒骂，而是命运让他得不到被爱的温暖，却也放不下对爱的渴望。这让他只能用近乎自残的方式去复仇，用破坏去占有爱。最终历经不幸，在孤独中死去，就像前世的孔地哲，可悲而可怜。所幸，这一世同样悲惨的千宗范，不再甘心被命运安排。他没有选择以恶制恶，用爱的名义去毁灭爱。命运又给了他一次机会，他想要活成她爱的样子：堂堂正正，不再躲避。他要在阳光普照的地方，大声告诉她：&ldquo;我爱你！&rdquo;也许，孔地哲可以重生为千宗范，是因为上帝听见了他的告白，而让千宗范不再重蹈孔地哲悲剧的，却是千宗范自己。他放下了前世错误的执念，从而让灵魂得到了救赎。当两世的误会被解开，真相得以大白。因此，雪地里郑夏恩对孔地哲的诅咒便不复存在。命运没有放弃他，就像希斯克利夫没有放弃爱。原来，希斯克利夫不是恶魔，只是陷入了爱情。我死了，我复活了，然后我的灵魂告诉我，它依然爱你。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 又是那捧紫色郁金香",
+                        "desc": "文/kimi 韩剧版《呼啸山庄》上新。",
+                        "link": "http://m.wufazhuce.com/movie/2032?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 又是那捧紫色郁金香",
+                        "desc": "文/kimi 韩剧版《呼啸山庄》上新。",
+                        "link": "http://m.wufazhuce.com/movie/2032?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 又是那捧紫色郁金香》 文/kimi： 韩剧版《呼啸山庄》上新。 阅读全文：http://m.wufazhuce.com/movie/2032?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2032?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "又是那捧紫色郁金香",
+                        "desc": "韩剧版《呼啸山庄》上新。",
+                        "link": "http://m.wufazhuce.com/movie/2032?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2863",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4404",
+                    "title": "湖边行走"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1253",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第二十四章：野兽的爱"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2937",
+                    "title": "如何度过情感空窗期？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2032",
+                    "title": "又是那捧紫色郁金香"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

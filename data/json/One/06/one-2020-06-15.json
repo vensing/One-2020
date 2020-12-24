@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5537",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-15 06:00:00",
+        "content_list": [
+            {
+                "id": "20540",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2850",
+                "title": "摄影",
+                "forward": "过去其实并没有真正的过去，过去就活在今天。",
+                "img_url": "http://image.wufazhuce.com/Fgb78iIjlvc1l9g6I7NPQZDjH3Ex",
+                "like_count": 15260,
+                "post_date": "2020-06-15 06:00:00",
+                "last_update_date": "2020-06-12 17:09:32",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2809",
+                "pic_info": "张拉灯",
+                "words_info": "威廉·福克纳《修女安魂曲》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2850",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2850",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2850",
+                    "image": "http://image.wufazhuce.com/Fgb78iIjlvc1l9g6I7NPQZDjH3Ex",
+                    "title": "VOL.2809",
+                    "content": "过去其实并没有真正的过去，过去就活在今天。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2850?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2850?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 过去其实并没有真正的过去，过去就活在今天。——威廉·福克纳《修女安魂曲》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2850?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2850?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20529",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4351",
+                "title": "是爱还是伤害",
+                "forward": "太爱一个人，有什么错？",
+                "img_url": "http://image.wufazhuce.com/FqxCdTttUXvpSSr8HHooDJCS50uV",
+                "like_count": 1938,
+                "post_date": "2020-06-15 06:00:00",
+                "last_update_date": "2020-06-15 23:24:01",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4351",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4351",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4351",
+                    "image": "http://image.wufazhuce.com/FqxCdTttUXvpSSr8HHooDJCS50uV",
+                    "title": "是爱还是伤害 作者/陈雪",
+                    "content": "爱你的人不会伤害你，而是把你捧在手心里。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 是爱还是伤害",
+                        "desc": "文/陈雪 爱你的人不会伤害你，而是把你捧在手心里。",
+                        "link": "http://m.wufazhuce.com/article/4351?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 是爱还是伤害",
+                        "desc": "文/陈雪 爱你的人不会伤害你，而是把你捧在手心里。",
+                        "link": "http://m.wufazhuce.com/article/4351?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 是爱还是伤害》 文/陈雪： 爱你的人不会伤害你，而是把你捧在手心里。 阅读全文：http://m.wufazhuce.com/article/4351?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4351?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "是爱还是伤害",
+                        "desc": "爱你的人不会伤害你，而是把你捧在手心里。",
+                        "link": "http://m.wufazhuce.com/article/4351?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20545",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1214",
+                "title": "最后的审判（二）第二十六章：黑底白事",
+                "forward": "人只能有一种命，现在这就是我的命，我必须喜欢它。",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 745,
+                "post_date": "2020-06-15 06:00:00",
+                "last_update_date": "2020-06-15 10:16:50",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第26章",
+                "number": "26",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1214",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1214",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1214",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第二十六章：黑底白事 作者/红拂夜奔不复还",
+                    "content": "她害怕老，不是害怕不美，是她还有太多事情没有做，她怕时间不够用。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第二十六章：黑底白事",
+                        "desc": "文/红拂夜奔不复还 她害怕老，不是害怕不美，是她还有太多事情没有做，她怕时间不够用。",
+                        "link": "http://m.wufazhuce.com/serial/1214?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第二十六章：黑底白事",
+                        "desc": "文/红拂夜奔不复还 她害怕老，不是害怕不美，是她还有太多事情没有做，她怕时间不够用。",
+                        "link": "http://m.wufazhuce.com/serial/1214?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第二十六章：黑底白事》 文/红拂夜奔不复还： 她害怕老，不是害怕不美，是她还有太多事情没有做，她怕时间不够用。 阅读全文：http://m.wufazhuce.com/serial/1214?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1214?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第二十六章：黑底白事",
+                        "desc": "她害怕老，不是害怕不美，是她还有太多事情没有做，她怕时间不够用。",
+                        "link": "http://m.wufazhuce.com/serial/1214?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20538",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2877",
+                "title": "“废人”是怎样的一种状态？",
+                "forward": "人这一辈子，各有各的活法。",
+                "img_url": "http://image.wufazhuce.com/Fn3mVJxiJbz3PfDI-LA2S9kHXcOk",
+                "like_count": 2872,
+                "post_date": "2020-06-15 06:00:00",
+                "last_update_date": "2020-06-12 15:26:11",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "闭眼焦糖",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2877",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2877",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2877",
+                    "image": "http://image.wufazhuce.com/Fn3mVJxiJbz3PfDI-LA2S9kHXcOk",
+                    "title": "“废人”是怎样的一种状态？",
+                    "content": "“废人”是怎样的一种状态？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | “废人”是怎样的一种状态？",
+                        "desc": "文/刘酿苦 废人修炼指南。",
+                        "link": "http://m.wufazhuce.com/question/2877?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | “废人”是怎样的一种状态？",
+                        "desc": "文/刘酿苦 废人修炼指南。",
+                        "link": "http://m.wufazhuce.com/question/2877?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | “废人”是怎样的一种状态？》 文/刘酿苦： 废人修炼指南。 阅读全文：http://m.wufazhuce.com/question/2877?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2877?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "“废人”是怎样的一种状态？",
+                        "desc": "废人修炼指南。",
+                        "link": "http://m.wufazhuce.com/question/2877?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "8795394",
+                    "user_name": "刘酿苦",
+                    "desc": "你想当我第51个粉丝吗？ 公众号：刘酿苦。",
+                    "wb_name": "@刘酿苦",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "其实我很甜。",
+                    "fans_total": "5690",
+                    "web_url": "http://image.wufazhuce.com/FnaSk0TmlreBXvKXCFxxvN2nBMHy"
+                }
+            },
+            {
+                "id": "20544",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3276",
+                "title": "如果没有来到这个城市，如果没有遇见你",
+                "forward": "写给每个柔软的你，愿你的柔软会被温暖以待。",
+                "img_url": "http://image.wufazhuce.com/FmKOzqss3FFbCcx3Te_6RYoo_aa3",
+                "like_count": 1658,
+                "post_date": "2020-06-15 06:00:00",
+                "last_update_date": "2020-06-15 10:01:30",
+                "author": {
+                    "user_id": "11415717",
+                    "user_name": "zc木蘭",
+                    "desc": "在冷峻月光下传递人心的温暖，Urban的律动是她心跳的频率。都市生活中的悲欢离合，内心深处的喜怒哀乐，都被放在音乐世界中，那个平行于钢筋水泥的梦幻城。",
+                    "wb_name": "@ZCRIGHTHERE",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "原创音乐人/月光女孩",
+                    "fans_total": "37",
+                    "web_url": "http://image.wufazhuce.com/Fj_SJvnXv1C5EaFqt0BvsvXXn4Bf"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lgbAO62wDxjiafuYszK_86cx58dU",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "柔软的歌",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3276",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3276",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3276",
+                    "image": "http://image.wufazhuce.com/FmKOzqss3FFbCcx3Te_6RYoo_aa3",
+                    "title": "「一个」音乐: zc木蘭 柔软的歌",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  一 &ldquo;我们曾在哪个星球上拥抱&rdquo;刚吃完午饭，就看到栩子发来的微信：&ldquo;哎嘿，我收到上海那边的工作offer了！以后常来上海玩儿，我来安排！&rdquo;栩子是我的高中闺蜜。我们的家乡是一个很小的三线城市，没有诗和远方，却有的是雾霾和工厂。我习惯随遇而安，大学毕业之后选择留在家乡的省会，拿着不多不少的薪水，过着平淡却自在的生活；而栩子执意去更广阔的天地，从大二开始就不停地实习和考证，终于去了上海的一家传媒公司，看上去未来可期。&ldquo;恭喜你，一个人要照顾好自己啊。&rdquo;我发自内心地祝福。还记得在上半年疫情期间的一则新闻中，&ldquo;北漂&rdquo;、&ldquo;咸鱼&rdquo;、&ldquo;裁员&rdquo;这些关键词仿佛构成了一片阴霾，笼罩无数个在一线城市打拼的年轻人身上，许多年轻人也选择在这个时候，与看起来和他们没有任何牵挂的大城市，说了再见。孕育着无限可能的大城市，一旦被现实撕开裂缝，就会变得很残酷。&ldquo;好嘞好嘞，&rdquo;栩子答应着，随后又打出一行字，&ldquo;不过，真的好希望不是一个人啊。&rdquo;她的意思我是明白的。栩子是个要强和独立的女生，一直单身，觉得一个人的生活倒也算惬意，没有那么多两个人之间的烦恼。事情出现转机，是在栩子去年到杭州实习，遇到了一个挺特别的男生&mdash;&mdash;X之后。X是一个程序员，经常会帮助栩子解决一些技术上的难题。那时两人只当萍水相逢，没有进一步交往。巧合的是，一年过去了，X现在的公司就在栩子的隔壁。栩子想，会不会再见到他呢？二 &nbsp; &nbsp;&ldquo;不知该如何靠近&rdquo;&ldquo;跟你说哦，X昨晚约我去吃了火锅。&rdquo;&ldquo;看来你们的进展不错啊，哈哈。&rdquo;&ldquo;也没什么啦，就吃个饭而已。你可别想多，因为公司这边没有什么熟悉的人，所以就想和他互相关照一下。上海这个城市，怎么说呢，优点和缺点也许都是举目无亲吧，每一个刚来这里的社畜都深有体会。对了，你最近过得怎么样？&rdquo;&ldquo;过得也就普普通通，每天都是两点一线的。好在单位离住处还是挺近的，骑着小电驴，十来分钟就能到了。我感觉现在就能一眼看到十年后的生活，一点都不酷，谁让自己当初选择安逸呢。话说回来，这种生活虽然没有什么刺激，但也算不上厌倦。&rdquo;&ldquo;我反而有些羡慕你，真的。我这边的人们，每天都在忙着自己的事情。我晚上加班完回家，什么事情都不想做，就想直接躺在床上，实在是太累了。虽然偶尔可以去蹦个迪、喝喝小酒，但多去几次就没什么意思了，&rdquo;栩子颓颓地说，&ldquo;X的状态和我也差不多，不过他可优秀太多了。&rdquo;&ldquo;赶紧下手吧，这么好的男生，还等什么？&rdquo;电话这头的我开着玩笑。&ldquo;顺其自然吧，X有一点遥不可及的感觉，再说，还不知道人家对我是什么感觉呢。之前他帮了我很多忙，我刚来这边就请我吃火锅，不管怎样，下次我一定要请他一顿。&rdquo;三 &nbsp; &nbsp;&ldquo;接受我的仓促&rdquo;&ldquo;在一起了！&rdquo;&ldquo;什么？&rdquo;我有些诧异。&ldquo;我和X在一起啦，哈哈。&rdquo;栩子又重复了一遍。&ldquo;这也太快了吧。&rdquo;我感到不可思议。&ldquo;我和他后来又吃了几次饭，看了几次电影。今晚他陪我去湖边遛弯儿的时候，牵了手，然后就稀里糊涂地在一起了。是不是特别没有创意。&rdquo;&ldquo;可真行，祝福。&rdquo;&ldquo;他和我说，去年实习的时候就已经在意我了。当时只是觉得有一点点缘分而已，谁能想到现在这么巧的，公司这么近。偶尔几次还在早晚高峰的地铁上遇到他，这个家伙，原来都不怎么爱说话，现在却开始慢慢找我聊天了。&rdquo;&ldquo;这就是双向的奔赴吗？&rdquo;&ldquo;还真是。他很懂我，每次我说完上句，就能猜到我下一句。可能因为我们有很多地方是一样的吧，所以有很多共鸣。一样是刚出大学校门来工作的小年轻，一样在早晚地铁上看来去匆匆的过客，一样在这个陌生的城市里感到孤独。&rdquo;&ldquo;现在你们一定不孤独了。&rdquo;&ldquo;嗯呐，我还是相信日久见人心。不过他有一点不好，就是有时候不回微信，或者半天才想起来，有时候让我挺气的。&rdquo;&ldquo;人都是渐渐成熟的，给人家一点时间嘛。&rdquo;&ldquo;也是也是，过两天小长假，准备和他一起去杭州玩儿，重温一下第一次见面的感觉，嘻嘻。&rdquo;&ldquo;挺好的啊，好好玩儿。&rdquo;四 &nbsp; &nbsp;&ldquo;不期而遇，那些美好都不关于你&rdquo;&ldquo;我想去你那儿找你。&rdquo;&ldquo;不对啊，你现在不应该在杭州吗？怎么想上我这儿来了？&rdquo;&ldquo;我和X完了，分手了。&rdquo;&ldquo;啊？发生了什么？你说。&rdquo;&ldquo;今天中午，我和X说，想看一下他是怎么给我备注的，结果他支支吾吾的。我感觉不对劲，就把他手机抢过来了。你猜他备注的是什么？&rdquo;&ldquo;备注了什么？&rdquo;&ldquo;栩子，95年天蝎座，新媒体运营。&rdquo;&ldquo;听起来好像没有什么不对的？&rdquo;&ldquo;呵呵，再往下翻，全都是这么备注的女生，什么样儿的都有。&rdquo;&ldquo;我懂了，渣男该死。&rdquo;&ldquo;我被当成什么了，&rdquo;栩子苦笑了几声，&ldquo;没想到他是这种人，一直在套路我。&rdquo;&ldquo;我也没想到，以前听你说的，还以为这个男生挺老实的。真是知人知面不知心，他一定是利用了你一个人在这边什么都不熟悉，从而接近你。&rdquo;&ldquo;其实我也不想要什么，就想有个人陪着，都不行吗？&rdquo;电话那头，栩子的声音带着哭腔，&ldquo;我现在真的好想逃。&rdquo;&ldquo;别难过，我陪你。你几点到，我去接你。&rdquo;五 &nbsp; 给自己一首 &ldquo;柔软的歌&rdquo;我接到栩子了吗？当然没有。我想我也不能再伪装下去了&mdash;&mdash;栩子其实就是我。大学毕业后，已经来上海工作三年了。我无数次想要逃离，无数次给自己做无用的假设：如果我没有来到这个城市，如果没有遇见X，现在的我会不会好一点。X和这个城市一样，的确都满足了我的最初理想，但现在发现，那只是我的想象罢了。人海茫茫，能找到一个与自己频率共振的人实在太难得，但对于无数个为了生计而奔波的城市&ldquo;孤独患者&rdquo;来说，亲密关系简直可以当作一种赠予。可能有很多可以聊天排遣寂寞的出口，但没有一个能够给自己带来精神上的慰藉&mdash;&mdash;生活的高成本和快节奏让人根本没有心情顾及爱情。现实总是无奈如此，尽管我们可以从中抽离出来而获得暂时的慰藉，却也难以预料，那份最初的想象带来的究竟是美好，还是深渊。&ldquo;生命有太多的际遇，太多的期许，会不知所措。有太多的回忆太多的点滴，把时空蹉跎，会恐惧。&rdquo;我们漂泊世间，如同浮草之于水面，不停地随波逐流，但我终于明白，关于这些城市，关于这些人的一切过往，都是生命里不可或缺的际遇。&ldquo;嘿，别想太多！你属于自己。&rdquo;奔波在城市中的你，不需要伪装，也不需要逃离。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 如果没有来到这个城市，如果没有遇见你",
+                        "desc": "文/zc木蘭 写给每个柔软的你，愿你的柔软会被温暖以待。",
+                        "link": "http://m.wufazhuce.com/music/3276?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 如果没有来到这个城市，如果没有遇见你",
+                        "desc": "文/zc木蘭 写给每个柔软的你，愿你的柔软会被温暖以待。",
+                        "link": "http://m.wufazhuce.com/music/3276?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 如果没有来到这个城市，如果没有遇见你》 文/zc木蘭： 写给每个柔软的你，愿你的柔软会被温暖以待。 阅读全文：http://m.wufazhuce.com/music/3276?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3276?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如果没有来到这个城市，如果没有遇见你",
+                        "desc": "写给每个柔软的你，愿你的柔软会被温暖以待。",
+                        "link": "http://m.wufazhuce.com/music/3276?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "柔软的歌",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "zc木蘭",
+                "audio_album": "柔软的歌",
+                "cover": "http://image.wufazhuce.com/FqZLmn-npdc1MYGClDgtSqlyOUvW",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2809",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4351",
+                    "title": "是爱还是伤害"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1214",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第二十六章：黑底白事"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2877",
+                    "title": "“废人”是怎样的一种状态？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3276",
+                    "title": "如果没有来到这个城市，如果没有遇见你"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

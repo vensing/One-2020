@@ -1,0 +1,628 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5425",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-04 06:00:00",
+        "content_list": [
+            {
+                "id": "19908",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2746",
+                "title": "摄影",
+                "forward": "浅水是喧哗的，深水是沉默的。",
+                "img_url": "http://image.wufazhuce.com/FjTRzdyGNmnLUiyTJBlbj7UnWnDS",
+                "like_count": 23790,
+                "post_date": "2020-03-04 06:00:00",
+                "last_update_date": "2020-03-01 12:40:50",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2706",
+                "pic_info": "Touann",
+                "words_info": "雪莱",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2746",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2746",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2746",
+                    "image": "http://image.wufazhuce.com/FjTRzdyGNmnLUiyTJBlbj7UnWnDS",
+                    "title": "VOL.2706",
+                    "content": "浅水是喧哗的，深水是沉默的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2746?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2746?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 浅水是喧哗的，深水是沉默的。——雪莱 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2746?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2746?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19918",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4224",
+                "title": "告白",
+                "forward": "我们会在一起吗？",
+                "img_url": "http://image.wufazhuce.com/FovHbLtTWI-rH7GO4EsqHnFjdS2G",
+                "like_count": 3327,
+                "post_date": "2020-03-04 06:00:00",
+                "last_update_date": "2020-03-03 20:05:46",
+                "author": {
+                    "user_id": "4813833",
+                    "user_name": "路明",
+                    "desc": "大学教师，「一个」App常驻作者。",
+                    "wb_name": "@后排的路明",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "大学教师，「一个」App常驻作者。",
+                    "fans_total": "6704",
+                    "web_url": "http://image.wufazhuce.com/Ft6Cws9-y_cHQUxUrKmBFHTMuopo"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4224",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4224",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4224",
+                    "image": "http://image.wufazhuce.com/FovHbLtTWI-rH7GO4EsqHnFjdS2G",
+                    "title": "告白 作者/路明",
+                    "content": "我喜欢你。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 告白",
+                        "desc": "文/路明 我喜欢你。",
+                        "link": "http://m.wufazhuce.com/article/4224?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 告白",
+                        "desc": "文/路明 我喜欢你。",
+                        "link": "http://m.wufazhuce.com/article/4224?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 告白》 文/路明： 我喜欢你。 阅读全文：http://m.wufazhuce.com/article/4224?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4224?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "告白",
+                        "desc": "我喜欢你。",
+                        "link": "http://m.wufazhuce.com/article/4224?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19921",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4227",
+                "title": "那些为疫情奔走的普通人",
+                "forward": "我们相约，疫情过后，我来找你，给你一个大大的拥抱，跟你说，真的辛苦了。",
+                "img_url": "http://image.wufazhuce.com/FvMoVfyOWqYVcwK1O0RYSR8Q1LIP",
+                "like_count": 2282,
+                "post_date": "2020-03-04 06:00:00",
+                "last_update_date": "2020-03-03 18:30:35",
+                "author": {
+                    "user_id": "4814676",
+                    "user_name": "刘文",
+                    "desc": "审计师，青年写作者。@刘文tracy",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "审计师，青年写作者。@刘文tracy",
+                    "fans_total": "9253",
+                    "web_url": "http://image.wufazhuce.com/Fgs5kZ36FmPNRo7BqSBisRvcSodM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4227",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4227",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4227",
+                    "image": "http://image.wufazhuce.com/FvMoVfyOWqYVcwK1O0RYSR8Q1LIP",
+                    "title": "那些为疫情奔走的普通人 作者/刘文",
+                    "content": "疫情过后，我想来武汉，见你一面。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 那些为疫情奔走的普通人",
+                        "desc": "文/刘文 疫情过后，我想来武汉，见你一面。",
+                        "link": "http://m.wufazhuce.com/article/4227?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 那些为疫情奔走的普通人",
+                        "desc": "文/刘文 疫情过后，我想来武汉，见你一面。",
+                        "link": "http://m.wufazhuce.com/article/4227?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 那些为疫情奔走的普通人》 文/刘文： 疫情过后，我想来武汉，见你一面。 阅读全文：http://m.wufazhuce.com/article/4227?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4227?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "那些为疫情奔走的普通人",
+                        "desc": "疫情过后，我想来武汉，见你一面。",
+                        "link": "http://m.wufazhuce.com/article/4227?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19902",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1121",
+                "title": "两次破碎·第十八章：死灰复燃",
+                "forward": "屋里一股很苦的味道，极刺激，像铁签子直往人肺里扎。两面墙被熏黑，黑印子长驱直入，一路蹿上天花板，还是能想象得出，当时火舌横行，四处乱舔。地上、墙上都是水，一切都被淋得褪了颜色。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 743,
+                "post_date": "2020-03-04 06:00:00",
+                "last_update_date": "2020-04-07 16:26:52",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第18章",
+                "number": "18",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1121",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1121",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1121",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第十八章：死灰复燃 作者/连筑",
+                    "content": "行凶者竟另有其人！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第十八章：死灰复燃",
+                        "desc": "文/连筑 行凶者竟另有其人！",
+                        "link": "http://m.wufazhuce.com/serial/1121?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第十八章：死灰复燃",
+                        "desc": "文/连筑 行凶者竟另有其人！",
+                        "link": "http://m.wufazhuce.com/serial/1121?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第十八章：死灰复燃》 文/连筑： 行凶者竟另有其人！ 阅读全文：http://m.wufazhuce.com/serial/1121?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1121?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第十八章：死灰复燃",
+                        "desc": "行凶者竟另有其人！",
+                        "link": "http://m.wufazhuce.com/serial/1121?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19917",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2775",
+                "title": "为什么生活越是糟糕就越难改变？",
+                "forward": "这个世界上，没有人真正可以对另一个人的伤痛感同身受。",
+                "img_url": "http://image.wufazhuce.com/FtSIH9sEdOLFtYcr25OifAf8lQn2",
+                "like_count": 3334,
+                "post_date": "2020-03-04 06:00:00",
+                "last_update_date": "2020-03-03 11:43:45",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "独臂门将",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2775",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2775",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2775",
+                    "image": "http://image.wufazhuce.com/FtSIH9sEdOLFtYcr25OifAf8lQn2",
+                    "title": "为什么生活越是糟糕就越难改变？",
+                    "content": "为什么生活越是糟糕就越难改变？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 为什么生活越是糟糕就越难改变？",
+                        "desc": "文/京师心理大学堂 大千 为了成为一个“好”人，忽略了自己的痛苦。",
+                        "link": "http://m.wufazhuce.com/question/2775?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 为什么生活越是糟糕就越难改变？",
+                        "desc": "文/京师心理大学堂 大千 为了成为一个“好”人，忽略了自己的痛苦。",
+                        "link": "http://m.wufazhuce.com/question/2775?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 为什么生活越是糟糕就越难改变？》 文/京师心理大学堂 大千： 为了成为一个“好”人，忽略了自己的痛苦。 阅读全文：http://m.wufazhuce.com/question/2775?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2775?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "为什么生活越是糟糕就越难改变？",
+                        "desc": "为了成为一个“好”人，忽略了自己的痛苦。",
+                        "link": "http://m.wufazhuce.com/question/2775?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "京师心理大学堂 大千",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "19841",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3214",
+                "title": "在人海里爱你，是最好的距离",
+                "forward": "人是没有办法控制感情的，也没有办法控制自己。再见之后，你要记得我的好，或者记得我就好。",
+                "img_url": "http://image.wufazhuce.com/Fl8nVe9R-EX71jvk-LvtuCZgRKTM",
+                "like_count": 2423,
+                "post_date": "2020-03-04 06:00:00",
+                "last_update_date": "2020-03-04 00:36:52",
+                "author": {
+                    "user_id": "8998039",
+                    "user_name": "谢绾",
+                    "desc": "百日空想美食家",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "百日空想美食家",
+                    "fans_total": "5264",
+                    "web_url": "http://image.wufazhuce.com/FnSa7uhw1EZg8RGH9eo0FLIcSSt9"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lgdOEzzQxp2guBL4LvLeNymquezw",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "无名女子",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3214",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3214",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3214",
+                    "image": "http://image.wufazhuce.com/Fl8nVe9R-EX71jvk-LvtuCZgRKTM",
+                    "title": "「一个」音乐: 谢绾 无名女子",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.你大概是我第一个喜欢过的金牛座。此前始终和天蝎座相爱相杀，遇到土象星座居然不知所措。其实也不能怪我提前将这些感情归咎于星座，毕竟除了玄学可以求助，谁都不能在感情飘摇不定的时候，让我心安理得。到达舍夫沙万时，已然天晚，因为在故土与大不列颠海岸都尚且未见过的雪，悍然封住北非的路途。素有蓝色小镇之名的网红景点落了场大雨，我没有任何雨具，密集的靛蓝与浅碧夹杂着，失去方向。你把长柄伞向我倾斜，盛大的烟雨将你半边肩膀笼罩在里头，连语调都融合在其中，&ldquo;小心跟紧我，不要再迷路了。&rdquo;冬天是摩洛哥的雨季，水汽氤氲着，而我只能看见你的侧脸。我总是丢失掉方向，被错综复杂的巷道夺去目光。你会让地陪走在最前头领队，自己走在最后，总是掉队的、愚钝的我身边。可是我并不擅长一见钟情，只好笨拙地等到了奶茶店，才替你勉强擦一擦湿透的外套。突然来摩洛哥实则是逃避，这样漫无目的的跟团旅行，一开始并未如期遇到惊喜。虽然从马拉喀什一路到菲斯，这近乎半封建的堡垒确实没有值得动容的地方。可我一直未能料想，这突如其来的心悸，是你。我试图理顺思绪，按图索骥，却始终没能想明白，自己什么时候开始，长久地，将目光倾注于你。或许是你出现在哪里的时候，找寻到狼狈不堪的、精疲力尽的我。我点了热抹茶红豆，你喝啤酒，叫做卡萨布兰卡，是那座城市的名字。&nbsp;2.我是一个伪装文青的孤僻患者，千里迢迢放逐自己到撒哈拉。沙漠里的风沙很快遮蔽了骆驼新踏的足迹，新绿与砾石勾勒出旧日水泽的痕迹，可是这些都不重要。夜幕降下来之后，我们仰头坐在篝火边，烤全羊和孜然的香味不可抑制地飘出来。包裹着巨大头巾的摩洛哥人，拍击着手鼓，唱出沙漠中流传前年的曲调。在沙漠入口柏柏尔人的营帐里买了一条裙子，鲜红色，坠满金珠，在这里竟格外映衬了氛围。我戴了一顶毛绒绒的白色帽子，同行的姑娘笑言，我像个蒙古公主。你问我在想什么，我实在说不上来。只好假装片刻失神，回到那些载歌载舞的欢娱中。你切了新烤的羊羔肉，洒好孜然，又沾上黄芥末酱，细心地叠在盘子里。其实我在想，除了导游之外，我想对你有更亲密称呼，譬如x哥。可这些话都梗在喉咙里说不出口，毕竟我们认识的时间那样短，不过十几天而已，哪里敢自私地、轻而易举地上升到喜欢。&ldquo;有流星！快许个愿吧！&rdquo;我仰头望过去，却只看见转瞬即逝的彗尾。你漫不经心地向击鼓的小哥说起法语，婉转的音节像是诉说起别的故事。你说天气不好，没能看到更为辽阔的夜空与星。多遗憾啊。我们所能窥见的，只是数万年，数十万年，残存的某个瞬间，某个天神所吝惜的，只肯分享片刻的那个节点。可我们又何其幸运。那些灿烂的、浩瀚的、曾被人类文明侵蚀掉光亮的星海，俯视着，于此时、于此刻。共我。而此时而此刻，我同你一道，坐在着漫天星斗之下，被未曾觉察的光辉映亮脸庞。你给我抓拍了一张侧脸，我嬉笑说是大头照，明晃晃的火光在身后跃动着，那些磅礴的、盛大的生命力。这里是三毛的撒哈拉，却在这时候，也突然属于了我们。&nbsp;3.其实说真的，我不大擅长表露感情。所以看见你的时候，只能用笑意来掩饰悸动的心情。像我这样无聊的人，对什么都提不起兴趣，除了你的一举一动。所以我坐在最前头，极其专注地听你说起各个景点的曾经存在故事。你说起摩洛哥现任国王与王妃，说起他们起承转合，也没能善始善终的爱情。多么惋惜。我问你为什么冲破世俗偏见的爱情，最终也只是成为童话的开头，结局只能被现实击垮。毕竟谁又会真的溺爱悲剧呢？你很认真盯着我的眼睛说，毕竟现实永远比梦境更残酷。那些看似美好的格林童话，从另一方面讲，是比我们所处在的世界，更为残忍恶心的故事。毕竟世事难料才是永恒的旋律。感情这种东西，总是来势汹汹，悍然又不容拒绝地将人吞并。你无法拒绝，我无法拒绝，谁都没有办法。我同你互动，那些希望你懂，又畏惧你懂的心事啊。像是我们在不冷的时候，在海风里穿起薄金衫，隔着大西洋遥望。像是从街边树上摘下来的一枚橘子，一剥开，连汁水都酸到心底。你从免签开放时候，就来到陌生国度，这样久的岁月。于你而言，或许我只是急匆匆的，来而复去的过客。&ldquo;我想要用足迹丈量人间山河，却又无可避免地，在某些时刻，渴望着停泊靠岸。&rdquo;所以我什么也不敢说，什么也不能说。可是你要知道，我曾那样短暂地，深刻地，仰慕过你。&nbsp;4.其实我们的时间很短暂，哪怕交错于这一刹那，最终都会复位。我喜欢过菲斯菜市的烟火气，喜欢过舍夫沙万顺着靛蓝墙体垂落的雨。可这些短暂的记忆，如果没有你在身边，就会显得分外寡淡无趣。所以离境之前，我问你，能否接一单私人订制VIP自由行，只带我一个人的那种。你含笑同意。其实还想仰头私心问你，往后余生，那些旅途，行遍的万水千山，可不可以带我一起走。带我走。我们进行一场属于我们两个人的旅行，在这短暂的相遇时期，有着些许美好记忆，等我离开这个地方，再想起时，会想到美景，还会想到你。人是没有办法控制感情的，也没有办法控制自己。再见之后，你要记得我的好，或者记得我就好。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 在人海里爱你，是最好的距离",
+                        "desc": "文/谢绾 永远在你身后。",
+                        "link": "http://m.wufazhuce.com/music/3214?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 在人海里爱你，是最好的距离",
+                        "desc": "文/谢绾 永远在你身后。",
+                        "link": "http://m.wufazhuce.com/music/3214?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 在人海里爱你，是最好的距离》 文/谢绾： 永远在你身后。 阅读全文：http://m.wufazhuce.com/music/3214?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3214?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "在人海里爱你，是最好的距离",
+                        "desc": "永远在你身后。",
+                        "link": "http://m.wufazhuce.com/music/3214?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "无名女子",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "CHERELLE 宣清",
+                "audio_album": "无名女子",
+                "cover": "http://image.wufazhuce.com/FpXrKb1k8210xisj2XoUJD7u5yRf",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2706",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4224",
+                    "title": "告白"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4227",
+                    "title": "那些为疫情奔走的普通人",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1121",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第十八章：死灰复燃"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2775",
+                    "title": "为什么生活越是糟糕就越难改变？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3214",
+                    "title": "在人海里爱你，是最好的距离"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

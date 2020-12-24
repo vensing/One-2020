@@ -1,0 +1,575 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5669",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-29 06:00:00",
+        "content_list": [
+            {
+                "id": "21346",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2987",
+                "title": "摄影",
+                "forward": "与其期盼着你的下一个假期什么时候来临，不如开始一种你不需要逃避的生活。",
+                "img_url": "http://image.wufazhuce.com/FlxX0VaILSjHa_JB7tY9syTyNFaR",
+                "like_count": 17743,
+                "post_date": "2020-10-29 06:00:00",
+                "last_update_date": "2020-10-26 13:48:27",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2945",
+                "pic_info": "Jung Ho Park",
+                "words_info": "塞思·戈丁",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2987",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2987",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2987",
+                    "image": "http://image.wufazhuce.com/FlxX0VaILSjHa_JB7tY9syTyNFaR",
+                    "title": "VOL.2945",
+                    "content": "与其期盼着你的下一个假期什么时候来临，不如开始一种你不需要逃避的生活。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2987?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2987?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 与其期盼着你的下一个假期什么时候来临，不如开始一种你不需要逃避的生活。——塞思·戈丁 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2987?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2987?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21354",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4493",
+                "title": "东八区夜巡",
+                "forward": "那时我们有梦,关于文学,关于爱情,关于穿越世界的旅行。如今我们深夜饮酒,杯子碰到一起,都是梦破碎的声音。",
+                "img_url": "http://image.wufazhuce.com/Fkw1TwMxFpSe0YfkuTOXifM3UxLB",
+                "like_count": 2014,
+                "post_date": "2020-10-29 06:00:00",
+                "last_update_date": "2020-10-28 18:11:07",
+                "author": {
+                    "user_id": "11664203",
+                    "user_name": "文先生",
+                    "desc": "先后毕业于中文系和法学院，现于北京从事国际法相关工作。业余写小说、剧本及散文，曾获电影局“青年剧本扶持计划”剧本奖，并在《萌芽》、《山东文学》、《特区文学》、《小说月报》、豆瓣阅读等平台发表小说若干。",
+                    "wb_name": "@wangwen_1993弹子球",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作者 做梦家",
+                    "fans_total": "62",
+                    "web_url": "http://image.wufazhuce.com/Fmmmi59wyfBZQTmo-xlWe3i851-J"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4493",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4493",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4493",
+                    "image": "http://image.wufazhuce.com/Fkw1TwMxFpSe0YfkuTOXifM3UxLB",
+                    "title": "东八区夜巡 作者/文先生",
+                    "content": "我真想把他一巴掌拍死，但我不敢。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 东八区夜巡",
+                        "desc": "文/文先生 我真想把他一巴掌拍死，但我不敢。",
+                        "link": "http://m.wufazhuce.com/article/4493?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 东八区夜巡",
+                        "desc": "文/文先生 我真想把他一巴掌拍死，但我不敢。",
+                        "link": "http://m.wufazhuce.com/article/4493?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 东八区夜巡》 文/文先生： 我真想把他一巴掌拍死，但我不敢。 阅读全文：http://m.wufazhuce.com/article/4493?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4493?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "东八区夜巡",
+                        "desc": "我真想把他一巴掌拍死，但我不敢。",
+                        "link": "http://m.wufazhuce.com/article/4493?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21297",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1322",
+                "title": "制作人们·第九章：别墅策划会",
+                "forward": "我要这一百万，我只想跟我女朋友证明，我这种苦逼编剧也可以凭实力赚钱。",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 637,
+                "post_date": "2020-10-29 06:00:00",
+                "last_update_date": "2020-10-16 14:48:19",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第9章",
+                "number": "9",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1322",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1322",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1322",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第九章：别墅策划会 作者/鳄鱼姐",
+                    "content": "我要这一百万，我只想跟我女朋友证明，我这种苦逼编剧也可以凭实力赚钱。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第九章：别墅策划会",
+                        "desc": "文/鳄鱼姐 我要这一百万，我只想跟我女朋友证明，我这种苦逼编剧也可以凭实力赚钱。",
+                        "link": "http://m.wufazhuce.com/serial/1322?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第九章：别墅策划会",
+                        "desc": "文/鳄鱼姐 我要这一百万，我只想跟我女朋友证明，我这种苦逼编剧也可以凭实力赚钱。",
+                        "link": "http://m.wufazhuce.com/serial/1322?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第九章：别墅策划会》 文/鳄鱼姐： 我要这一百万，我只想跟我女朋友证明，我这种苦逼编剧也可以凭实力赚钱。 阅读全文：http://m.wufazhuce.com/serial/1322?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1322?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第九章：别墅策划会",
+                        "desc": "我要这一百万，我只想跟我女朋友证明，我这种苦逼编剧也可以凭实力赚钱。",
+                        "link": "http://m.wufazhuce.com/serial/1322?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21355",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3020",
+                "title": "对于年轻人来说，稳定是好事吗？",
+                "forward": "我们是既没有意志向不凡进军，又无法自洽于庸俗和平淡的人。",
+                "img_url": "http://image.wufazhuce.com/FiB93C_uut-Qr7Od3XoP_IkuvGJ0",
+                "like_count": 2627,
+                "post_date": "2020-10-29 06:00:00",
+                "last_update_date": "2020-10-29 14:11:41",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "洪荒少女~ ",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3020",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3020",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3020",
+                    "image": "http://image.wufazhuce.com/FiB93C_uut-Qr7Od3XoP_IkuvGJ0",
+                    "title": "对于年轻人来说，稳定是好事吗？",
+                    "content": "对于年轻人来说，稳定是好事吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 对于年轻人来说，稳定是好事吗？",
+                        "desc": "文/孙振宇 只要你自己愿意，一切都是酣畅淋漓的人生。",
+                        "link": "http://m.wufazhuce.com/question/3020?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 对于年轻人来说，稳定是好事吗？",
+                        "desc": "文/孙振宇 只要你自己愿意，一切都是酣畅淋漓的人生。",
+                        "link": "http://m.wufazhuce.com/question/3020?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 对于年轻人来说，稳定是好事吗？》 文/孙振宇： 只要你自己愿意，一切都是酣畅淋漓的人生。 阅读全文：http://m.wufazhuce.com/question/3020?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3020?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "对于年轻人来说，稳定是好事吗？",
+                        "desc": "只要你自己愿意，一切都是酣畅淋漓的人生。",
+                        "link": "http://m.wufazhuce.com/question/3020?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11489482",
+                    "user_name": "孙振宇",
+                    "desc": "青年写作者，贵州凯里人，擅长搞笑，喜欢折耳根、今敏和一个人听歌。愿望是走向糖霜共和，抵达银河主义。",
+                    "wb_name": "@孙大棒goku",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者，公众号：宇宙酒",
+                    "fans_total": "615",
+                    "web_url": "http://image.wufazhuce.com/Fnwii_4IlSfce2Qi14hlr51nQmoe"
+                }
+            },
+            {
+                "id": "21359",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2070",
+                "title": "若有诗韵藏于心，岁月从不败美人",
+                "forward": "你多久没感受过诗意？",
+                "img_url": "http://image.wufazhuce.com/FhIdEV43nRYT_GCQwA6hiRXxgRn4",
+                "like_count": 2025,
+                "post_date": "2020-10-29 06:00:00",
+                "last_update_date": "2020-10-28 18:24:03",
+                "author": {
+                    "user_id": "10639474",
+                    "user_name": "绿衣种子  ",
+                    "desc": "心若没有归宿的地方，走到哪里都是流浪",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "心若没有归宿的地方，走到哪里都是流浪",
+                    "fans_total": "532",
+                    "web_url": "http://image.wufazhuce.com/FuWxQsFAstQPKM-ByxkvFS0lmpE4"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "掬水月在手",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5053",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2070",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2070",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2070",
+                    "image": "http://image.wufazhuce.com/FhIdEV43nRYT_GCQwA6hiRXxgRn4",
+                    "title": "「一个」电影: 掬水月在手",
+                    "content": "作家邓云乡曾这样描写她的旧宅&ldquo;一位和善的老人，坐在书岸边，映着洁无纤尘的明亮玻璃窗和窗外的日影，静静的院落&hellip;&hellip;这本身就是一幅弥漫着词的意境的画。&rdquo;由陈传兴执导的诗词三部曲的最终章《掬水月在手》上映，诗词大家叶嘉莹先生的传奇一生在光影中重现。导演选用了叶先生成长的四合院进行拍摄。透过银幕，这位形容优雅端庄，白发苍苍的老人，带着沉淀近一个世纪的诗香，缓缓走来。叶嘉莹的生命就像一幅俊秀隽永的诗篇，发于诗词，成于诗词。以弱柳之姿，言行却让人联想到&ldquo;谦谦君子&rdquo;，在苦难中育希望，饱经沧桑仍怀有大爱，她被誉为&ldquo;中国最后一位女先生&rdquo;。01 &nbsp;一世多艰，寸心如水叶先生的朋友们形容她是&ldquo;意暖神寒&rdquo;，真是再恰当不过。先生姓叶，为满清贵族叶赫那拉氏一族，有个朋友打趣她&ldquo;你站在那里，什么都不要做，都能让人感觉到你是贵族，你的样子，就是末代贵族的模样&rdquo;。纪录片里有许多珍贵的照片资料，年轻时的叶嘉莹，身材纤瘦笔直，相貌清雅美丽。这样出生在书香世家的女子，命运却坎坷多舛。生于乱世，幼时与父亲失散，早年丧母，青年流落国外，遭遇暴虐无常的丈夫，中年难得安定，又痛失爱女。王国维曾说&ldquo;天以百凶成就一词人。&rdquo;先生将心中血泪付诸笔端，成于诗词，而又能从诗词中找到慰藉，以此力面对现实。先生说，在最困难的时候，&ldquo;我必须把自己一部分精神感情完全杀死，这是使我仍能承受一切折磨而可以勉强活下去的唯一方法。&rdquo;最终拯救她的，是王安石的一句诗&ldquo;众生造众业，各有一机抽。&rdquo;使她如同&ldquo;当头棒喝&rdquo;，重新面对生活。深陷痛苦，内心困苦，是人类的共有情感，中国诗歌几千年流传下来的精粹，或许就是那苦痛之后的乐观豁达与坚强，是一份读懂方后领悟的生命力。&ldquo;沉舟侧畔千帆过，病树前头万木春&rdquo;就饱含衰颓与希望的对立&mdash;&mdash;不只有一时的痛苦，还要打起精神，迎接无穷的希望。叶先生面对折磨，除了以诗词来排遣痛苦，还有着珍贵的&ldquo;弱德之美&rdquo;。弱并非指柔弱，不是示弱，而是如风中芦苇，经受了再大的风雨还能存在，是雨后彩虹般的美。先生自己总结弱德&ldquo;你承受，你坚持，你还要有自己的一种操守，你要完成你自己，这种品格才是弱德。&rdquo;94岁（拍摄时）的叶嘉莹先生，仍以精致优雅的形象出现在镜头前，历经沧桑，但她&ldquo;女子无自怜，才会更磊落&rdquo;。90多岁的高龄，仍端正地站立在讲台上，讲授中华传统诗歌，甚至将自己的毕生积蓄捐给南开大学，支持中华传统文化研究。振振君子，纤纤女子，在这个近百岁的老人身上完美融合，她站在那里，就是一篇古典隽永的歌诗。02 &nbsp;诗有平仄，要吟唱才好听《诗经》在最初作为乐曲，与《乐经》相配合而演唱。历经秦火，《乐经》失传，唯有口口相传的诗歌与两字一停的节奏，久久地流传下来。音，诗，文与古人的生命紧紧联系在一起。吟唱，在千年的土地上生生不息，至今日却渐渐湮没。诗歌的吟唱，每个字都脱离了平常的读音，初次聆听，会觉得有些奇怪甚至单调，但古朴的尾调与抑扬顿挫的声音，才将诗人隐藏在诗歌中的感情与生命，慢慢呈现出来。叶先生吟唱《蒹葭》，&ldquo;蒹葭苍苍，白露为霜。所谓伊人，在水一方。&rdquo;两字一停顿&mdash;&mdash;试想象一片芦苇荡摇曳，露水未散，男子隔水遥唱对心仪姑娘的思念。还有《越人歌》美丽的女子坐在船上，看着碧波的湖水，轻轻以诗吟唱出对他之心意&ldquo;山有木兮木有枝，心悦君兮君不知。&rdquo;古人的浪漫，透过诗的吟唱声，飘荡千年。今日我们看到的是诗词，若以乐曲吟唱出来，又该有多么神思荡漾呢？吟诵不仅有欢乐的情感，还有悲伤的调子。叶先生小时候，罹逢战乱，七七事变，山河破碎，峰烟四起。先生自己形容那段岁月&ldquo;一年到头吃不到白米面，出门拐角就能看到冻死饿死的人。&rdquo;正是这段时期，她与父亲失散，而母亲又去世，乱世里，交通不便，几年后才收到父亲寄来的信，竟然署的还是她母亲的名字，并祝她们都身体安康&hellip;&hellip;&ldquo;感时花溅泪，恨别鸟惊心。烽火连三月，家书抵万金。&rdquo;正因为亲身经历，知道山河飘摇的绝望，家书难达的心碎，吟唱的悲凉声调里，也有了杜甫的诗魂，或者说，杜甫的诗魂在先生千年后的吟唱声里重生。古诗的韵味，还在于留白。纪录片大量运用空镜，从拍摄开始到结束，历经了三年的时间，到几十个地方取景，寺庙，壁画，浮雕，山川四季。印象最深刻的是先生客居海外，想要回国教书，回家的路上经过落日的树林，而作的&ldquo;向晚幽林独自寻，枝头落日隐余金。渐看飞鸟归巢尽，谁与安排去住心？&rdquo;，若不明白这首诗，很难看懂长镜头中落日下的树林，而看懂了树林，也就能体会到思乡盼归国的心情。景与人，在这个记录片中或多或少有些象征的意味，诗意，不便言明，而叶嘉莹先生本人，也无需用夸张的言辞和浓墨重彩的故事去刻画，只需从好友真挚的评价和她淡然又坚强的气质，就能体会到意蕴的美好。去听一听叶先生吟唱的声音，去寻找沉睡在诗中的生命。03 &nbsp;为什么需要诗歌？古诗作为我们这一代人小时候&ldquo;痛苦&rdquo;的回忆，几乎与&ldquo;默写并全文背诵&rdquo;、&ldquo;深奥&rdquo;联系在一起，在越来越快节奏的时代，诗歌，除语文课本外，似乎难有立足之地。两小时的纪录片，既是对叶先生的回顾，也是对&ldquo;诗&rdquo;与&ldquo;存在&rdquo;的追寻。朱光潜说：&ldquo;读小说只见到故事而没有见到它的诗，就像看到花架而忘记架上的花。&rdquo;故事中未必有诗，但诗中一定有故事。最喜欢听先生讲解和吟诵《秦楼月》。&ldquo;萧声咽，秦娥梦断秦楼月。&rdquo;为什么是秦娥和秦楼呢？这是有出处的，古府乐诗&ldquo;日出东南隅，照我秦氏楼&rdquo;，太阳从东南角升起来，照在一个姓秦的人家的楼上，&ldquo;秦氏有好女，自名为罗敷。&rdquo;因此秦楼上的女子秦娥就代表美丽的女子。中国古典文献有很多有意思的地方。叶先生说&ldquo;一看到古典，一看到&lsquo;赋比兴&rsquo;，就觉得真是既艰难又遥远，其实，一点也不遥远。所谓古典者，就是古代的故事，古代的典故，所以我给小朋友上课，给他们讲古典的诗，一个一个古代的故事，小朋友听的非常有趣。&rdquo;无论时间流逝，表达都是人们共同的情感需求好。科技发达的今天，表达情感的方式更加浅显也更加多种多样，我们，还会潜心欣赏一首诗歌吗？&ldquo;桃之夭夭，灼灼其华。之子于归，宜其室家。&rdquo;这是《诗经》中的一句诗，之子于归指女子出嫁。时隔千年，依然能想象到如火如荼的嫁衣与盛开的桃花相得益彰的，前来祝酒的宾客带着美好祝愿，表达了对新娘的称赞&mdash;&mdash;宜其室家。嫁娶的礼俗不同，可心情却未变换。从古至今，社会不断变化，可人类的感情，是一脉相承的。&ldquo;读诗的用处，也就在于随着诗人所指点的方向，见出我们所不能见，也就是说，觉得我们所素认为平凡的实在新鲜有趣。&rdquo;我们本不觉得乡村生活中有诗，读过陶渊明的诗后，便觉得它有诗。诗歌美好的形式蕴含着生活的喜怒哀乐。诗人把自己的感情写出来，千百年后的人们再读其诗作，依然能感受到同样的感动。在一个瞬间，看到某个场景，背过的诗歌会自然浮出心头，或许，经历困境时，在一首诗中找到了坚持的勇气。这些，都是我们仍然需要诗歌的原因。叶先生说：&ldquo;欣赏阅读诗词，是人生非常快乐的事情，而且是每个人都应该有的心灵上的享受。&rdquo;现代生活，需要要静静地去体会篇章中动人的故事和深远的意境，让诗词的浓厚慢慢沉淀。诗歌&ldquo;在心为志，发言为诗&rdquo;，作为表达情感的一种美的形式，需要静静体会，放下快时代的忙碌，轻轻翻开吟诵一首诗，给自己的心灵放个假。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 若有诗韵藏于心，岁月从不败美人",
+                        "desc": "文/绿衣种子   你多久没感受过诗意？",
+                        "link": "http://m.wufazhuce.com/movie/2070?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 若有诗韵藏于心，岁月从不败美人",
+                        "desc": "文/绿衣种子   你多久没感受过诗意？",
+                        "link": "http://m.wufazhuce.com/movie/2070?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 若有诗韵藏于心，岁月从不败美人》 文/绿衣种子  ： 你多久没感受过诗意？ 阅读全文：http://m.wufazhuce.com/movie/2070?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2070?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "若有诗韵藏于心，岁月从不败美人",
+                        "desc": "你多久没感受过诗意？",
+                        "link": "http://m.wufazhuce.com/movie/2070?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21298",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3315",
+                "title": "我永远选择主动的那一边",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fjb8dp9hejB7iMZeC5JU1qDjfXyg?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1479,
+                "post_date": "2020-10-29 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3315",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3315",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 我永远选择主动的那一边",
+                        "desc": "主动多一点，错过就少一点",
+                        "link": "http://m.wufazhuce.com/radio/3315?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lie__jzKDB9roElLkSeB-D6wcT3f"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 我永远选择主动的那一边",
+                        "desc": "主动多一点，错过就少一点",
+                        "link": "http://m.wufazhuce.com/radio/3315?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lie__jzKDB9roElLkSeB-D6wcT3f"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 我永远选择主动的那一边》 主播/李荟莹： 主动多一点，错过就少一点 阅读全文：http://m.wufazhuce.com/radio/3315?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3315?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lie__jzKDB9roElLkSeB-D6wcT3f"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "我永远选择主动的那一边",
+                        "link": "http://m.wufazhuce.com/radio/3315?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lie__jzKDB9roElLkSeB-D6wcT3f"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 906 期",
+                "audio_url": "http://music.wufazhuce.com/lie__jzKDB9roElLkSeB-D6wcT3f"
+            }
+        ],
+        "menu": {
+            "vol": "2945",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4493",
+                    "title": "东八区夜巡"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1322",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第九章：别墅策划会"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3020",
+                    "title": "对于年轻人来说，稳定是好事吗？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2070",
+                    "title": "若有诗韵藏于心，岁月从不败美人"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3315",
+                    "title": "我永远选择主动的那一边"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

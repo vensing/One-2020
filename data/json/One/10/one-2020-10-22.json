@@ -1,0 +1,575 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5666",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-22 06:00:00",
+        "content_list": [
+            {
+                "id": "21320",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2980",
+                "title": "摄影",
+                "forward": "生活就像自来水，里面沉积漂浮了太多杂质，但依稀看去，清澈，透明，平淡无奇。",
+                "img_url": "http://image.wufazhuce.com/FsdeNQUmsosTuIXAmt1Cy8Cy7snI",
+                "like_count": 13311,
+                "post_date": "2020-10-22 06:00:00",
+                "last_update_date": "2020-10-20 15:27:03",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2938",
+                "pic_info": "Andreas Kruck",
+                "words_info": "阿乙",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2980",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2980",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2980",
+                    "image": "http://image.wufazhuce.com/FsdeNQUmsosTuIXAmt1Cy8Cy7snI",
+                    "title": "VOL.2938",
+                    "content": "生活就像自来水，里面沉积漂浮了太多杂质，但依稀看去，清澈，透明，平淡无奇。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2980?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2980?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 生活就像自来水，里面沉积漂浮了太多杂质，但依稀看去，清澈，透明，平淡无奇。——阿乙 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2980?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2980?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21317",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4486",
+                "title": "春天结束之前夏天就来了",
+                "forward": "我在修东西时经常遇到一种情况，每一个零件都完好无损，每一处连接都经得起考验，可是这个东西就是无法正常工作。",
+                "img_url": "http://image.wufazhuce.com/FqWBIU5NWFPesPom_D0rYlkRGMKD",
+                "like_count": 2278,
+                "post_date": "2020-10-22 06:00:00",
+                "last_update_date": "2020-10-22 11:17:13",
+                "author": {
+                    "user_id": "11651965",
+                    "user_name": "米升",
+                    "desc": "经常胡言乱语，偶尔又太一本正经",
+                    "wb_name": "@米升或者毫升",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "自由人。",
+                    "fans_total": "136",
+                    "web_url": "http://image.wufazhuce.com/Fk-wNSlxgL14BAn5GLNrvh13nIGo"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4486",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4486",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4486",
+                    "image": "http://image.wufazhuce.com/FqWBIU5NWFPesPom_D0rYlkRGMKD",
+                    "title": "春天结束之前夏天就来了 作者/米升",
+                    "content": "我的伞很普通，你到底能不能修？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 春天结束之前夏天就来了",
+                        "desc": "文/米升 我的伞很普通，你到底能不能修？",
+                        "link": "http://m.wufazhuce.com/article/4486?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 春天结束之前夏天就来了",
+                        "desc": "文/米升 我的伞很普通，你到底能不能修？",
+                        "link": "http://m.wufazhuce.com/article/4486?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 春天结束之前夏天就来了》 文/米升： 我的伞很普通，你到底能不能修？ 阅读全文：http://m.wufazhuce.com/article/4486?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4486?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "春天结束之前夏天就来了",
+                        "desc": "我的伞很普通，你到底能不能修？",
+                        "link": "http://m.wufazhuce.com/article/4486?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21274",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1319",
+                "title": "制作人们·第六章：追债的方式",
+                "forward": "“咦，进化了。现在喝多了会亲好看男孩子了，可以可以。”",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 696,
+                "post_date": "2020-10-22 06:00:00",
+                "last_update_date": "2020-10-12 13:44:58",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第6章",
+                "number": "6",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1319",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1319",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1319",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第六章：追债的方式 作者/鳄鱼姐",
+                    "content": "“咦，进化了。现在喝多了会亲好看男孩子了，可以可以。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第六章：追债的方式",
+                        "desc": "文/鳄鱼姐 “咦，进化了。现在喝多了会亲好看男孩子了，可以可以。”",
+                        "link": "http://m.wufazhuce.com/serial/1319?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第六章：追债的方式",
+                        "desc": "文/鳄鱼姐 “咦，进化了。现在喝多了会亲好看男孩子了，可以可以。”",
+                        "link": "http://m.wufazhuce.com/serial/1319?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第六章：追债的方式》 文/鳄鱼姐： “咦，进化了。现在喝多了会亲好看男孩子了，可以可以。” 阅读全文：http://m.wufazhuce.com/serial/1319?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1319?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第六章：追债的方式",
+                        "desc": "“咦，进化了。现在喝多了会亲好看男孩子了，可以可以。”",
+                        "link": "http://m.wufazhuce.com/serial/1319?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21326",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3013",
+                "title": "怎么样才算照顾好自己？",
+                "forward": "请允许自己虚度时光。",
+                "img_url": "http://image.wufazhuce.com/Fn0CA_4ShPMnIpPSS86CPc4K5xeT",
+                "like_count": 3190,
+                "post_date": "2020-10-22 06:00:00",
+                "last_update_date": "2020-11-04 13:32:44",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ailian",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3013",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3013",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3013",
+                    "image": "http://image.wufazhuce.com/Fn0CA_4ShPMnIpPSS86CPc4K5xeT",
+                    "title": "怎么样才算照顾好自己？",
+                    "content": "怎么样才算照顾好自己？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎么样才算照顾好自己？",
+                        "desc": "文/晔卡 肉身康健，灵魂丰满。",
+                        "link": "http://m.wufazhuce.com/question/3013?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎么样才算照顾好自己？",
+                        "desc": "文/晔卡 肉身康健，灵魂丰满。",
+                        "link": "http://m.wufazhuce.com/question/3013?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎么样才算照顾好自己？》 文/晔卡： 肉身康健，灵魂丰满。 阅读全文：http://m.wufazhuce.com/question/3013?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3013?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎么样才算照顾好自己？",
+                        "desc": "肉身康健，灵魂丰满。",
+                        "link": "http://m.wufazhuce.com/question/3013?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11135970",
+                    "user_name": "晔卡",
+                    "desc": "俄语初学者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "俄语初学者。",
+                    "fans_total": "1836",
+                    "web_url": "http://image.wufazhuce.com/FroXp7tN-9n3HDUdm1xBeAdwf091"
+                }
+            },
+            {
+                "id": "21328",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2067",
+                "title": "去爱吧，像从没受过伤一样",
+                "forward": "我们都是世间的旅人，来了又去，去了又来。",
+                "img_url": "http://image.wufazhuce.com/FnYfXOAVZ0mlo_MItrOXJUBhbiVe",
+                "like_count": 1995,
+                "post_date": "2020-10-22 06:00:00",
+                "last_update_date": "2020-10-21 16:41:40",
+                "author": {
+                    "user_id": "9285941",
+                    "user_name": "笙笙不兮",
+                    "desc": "随遇而安，品人世百味。\r\n执笔从容，叹心中悲欢。 \r\n微信公众号：笙笙不兮（ssbx-alwaysgirl）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "伪文艺媒体小白",
+                    "fans_total": "2264",
+                    "web_url": "http://image.wufazhuce.com/Fp6hXFroWZB0JmsH5cVsoIbhKosu"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "七号房的礼物",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5050",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2067",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2067",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2067",
+                    "image": "http://image.wufazhuce.com/FnYfXOAVZ0mlo_MItrOXJUBhbiVe",
+                    "title": "「一个」电影: 七号房的礼物",
+                    "content": "2013年，韩国电影《七号房的礼物》横空出世，成为感动1200万人的催泪炸弹，无数人被那位智障父亲对女儿的爱打动，在影院哭到不能自已。2019年，土耳其改编版电影上映，票房成绩超过《复联4》等一众好莱坞大片，直接成为2019年度土耳其本土票房冠军、冲入土耳其影史总票房第八。与韩版较为轻松的画风不同，土耳其版融入了本土化的文化特色和宗教色彩，具有更为深刻的现实意义，哪怕有原版珠玉在前，它对人心的触动依然如同平地起惊雷。看完你会感慨，哪怕在最恶贯满盈的地方，能够唤醒善良的，依旧是爱，也只能是爱。01他只有6岁的心智却努力做一个好爸爸故事发生在1983年，关于土耳其废除死刑法前的最后一桩死刑案。对小女孩奥娃来说，爸爸梅莫是特殊的。他不像别人的爸爸那么成熟稳重，每天快乐得像个孩子&mdash;&mdash;或者说，心智水平只相当于6岁的梅莫，实际上就是个和自己一样的&ldquo;孩子&rdquo;。他会给家里的每一只羊取名字，走着走着忽然跑去追小鸟，还和奥娃一样，喜欢海蒂的故事。尽管梅莫的心智只有6岁，可是对奥娃，他却拥有与生俱来的父爱。他会关注她的一举一动，观察她的神态表情，喜怒哀乐都被她牵系。多神奇，从没有人教过梅莫如何去做一名父亲，可是他却做得比一般人都好。第一次在橱窗外看到那只红色的海蒂书包，奥娃的眼神亮了，完全移不开眼。传统的父亲形象，都是深沉而严肃的，哪怕背负着生活的重压，他们也会把苦痛独自咽下，很难从他们隐忍的脸上找到脆弱的痕迹，可是梅莫不同。当得知书包的售价，他失落又迷茫地望了望天空：太贵了，完全买不起。然而，正是这冒着傻气的不知所措，让人对梅莫生出一种难以言说的心疼，悲剧的种子也从此埋下。为了早日买到海蒂书包，梅莫每天满怀希望地努力卖苹果，好不容易攒够了钱，却眼睁睁看着它被一位军官买走。梅莫试图求军官把唯一的书包让给女儿，却被他一脸厌恶地一拳打倒，痛苦地蜷起身子。唏嘘的是，梅莫当街被打，却无一人为他出头，阶级与权势的差距，在这一刻体现得淋漓尽致。再次看到军官女儿背上的海蒂书包，梅莫开心得直拍手。和其他人一样，女孩逗傻子一样地引诱他一路跟随，却不小心失足跌落水中。目睹全过程的梅莫毫不犹豫跳入水中，却还是无法挽回女孩的生命。那天来了许多人，却没有一个人愿意相信，梅莫是在努力救她，而非因为一个书包要她的命。他被草草审判，关进监狱7号牢房，军官首领咬牙切齿地吩咐下级，一定要给他&ldquo;特别关照&rdquo;。梅莫的人生，从此改变。他被强迫在认罪书上按下手印：被狱卒打：被典狱长威胁：甚至连狱友听说了他的&ldquo;罪行&rdquo;，都合起伙来鄙视他，欺负他：刚入狱那几天，梅莫几乎体无完肤。他破了相，被狱友打断三根肋骨，不允许任何家人前来探视。在牢房里，梅莫害怕极了，却仍然会对打他的人小心翼翼地伸出手掌，希望可以跟他们交个朋友。无论遇到怎样的不公平，他都永远笑得出来，却因为思念女儿奥娃，握着冰冷的铁窗伤心哭泣。梅莫真的很傻，他不懂得那些龃龉的阴暗人性，不明白事情为何会一步步发展到这个地步，他所有的心愿只有两个：和奥娃永远在一起，让奥娃永远开心，就像他第一次在街头挨打，回家后却忐忑不安地问奶奶：&ldquo;我没有买到海蒂书包，奥娃还会开心起来吗？&rdquo;褪去层层伪装，梅莫的傻气与真心，显得如此动人，却又如此揪心。&nbsp;02他们恶贯满盈却没有丢掉人性的柔软七号房，一个普普通通的多人牢房，杀人犯、诈骗分子、小偷、劫匪&hellip;&hellip;每个人身上，都背负着沉重的罪行。梅莫的出现，让他们找到了发泄的&ldquo;正当&rdquo;理由：杀害未成年少女，这在几乎人人都是伊斯兰教徒的土耳其，简直十恶不赦。他们殴打他，欺辱他，用暴力的方式&ldquo;惩戒&rdquo;他，可梅莫仿佛没心没肺，养好了伤，依旧每天乐呵呵地跟狱友相处，心甘情愿地被欺负，还把他们都当成自己的好朋友。他在给奥娃的信中写道：&ldquo;爸爸很好，这个地方很好，爸爸交了很多朋友，他们都对我很好。&rdquo;与此同时，与文字匹配的画面是，梅莫在挨打，在受冷眼，在替所有人刷马桶、洗盘子&hellip;&hellip;这像不像孤身在外受了委屈，也要忍住眼泪对家人报喜不报忧的自己？也许你也会在泪眼婆娑中恍然，让人变得坚强又懂事的原因，不是因为身处逆境，而是源自那份刻在骨子里的爱。日子一天天过去，梅莫的种种举动，都让人难以相信他是一个&ldquo;正常&rdquo;人。他会和监狱饲养的和平鸽说话，在狱友体能训练时猛地冲过去大叫&ldquo;我也一起！&rdquo;，被人欺负还开心地以为自己交到了朋友&hellip;&hellip;神奇的是，自从梅莫到来后，这个曾经满是晦暗的七号牢房，开始有了欢笑、色彩与阳光。梅莫纯真的笑容，感染着房中的每一个人。看着梅莫单纯无害的笑脸，狱友们渐渐嗅出权力与阴谋的味道。而那时，来自军官的命令已经传入监狱：无需审判即可定罪，甚至为他单独开特例，动用许久没有实施过的绞刑。为了帮助梅莫，那个原本无情、冷血的黑社会老大，决定一边洗刷他的冤情，一边派人把奥娃偷偷送进牢房，让他们得以父女团聚。&nbsp;03「来自」七号房的礼物还是「送给」七号房的礼物如果说，梅莫的加入，给七号房注入了久违的欢笑，那么奥娃的到来，就完成了对这群&ldquo;无情铁汉&rdquo;灵魂的净化。她像个单纯可爱的小精灵，听说爸爸待的地方是个医院，就眨着无辜的眼睛，挨个问过去：你得了什么病呀？影片在这个段落简直温柔得不像话。犯人们纷纷放下戒备，用善意又搞笑的回答对奥娃诉说自己的病情：没有人能抗拒奥娃清澈的眼神。在她的注视下，那个曾经偷过不少钱的小偷，吞吞吐吐地坦白&ldquo;我曾经拿过别人的钱。&rdquo;而奥娃听后，毫不犹豫地把身上所有的钱都拿出来递给他：&ldquo;你一定很需要钱吧，给你，我以后就不买东西了。&rdquo;那之后，小偷大概说出了这辈子最善意的谎言：那一刻，牢房里充满温暖的沉默。没有人嘲笑他的矫情与虚伪，所有人都心照不宣地理解他的回答，读懂了他脸上的笑容。监狱里长久以来无形的压抑与黑暗，因为奥娃的到来，第一次变得阳光且柔软，给人带来久违的温暖与希望。那个一直沉默寡言的郁郁老者，终日望着牢房墙壁上的一处污点，从没人能撬开他的嘴巴，直到奥娃脆生生地问他：&ldquo;你是在看这棵树吗？&rdquo;老者震惊地抬起头，看着她久久说不出话。他从没对任何人说过，那处斑驳的污点，酷似他埋掉女儿的那棵树，而它的存在，如同时刻都在提醒自己，曾经犯下多么不可饶恕的罪孽。他曾以为自己永无赎罪之日，直到遇到奥娃&mdash;&mdash;他决定代替梅莫赴死，拯救一对无辜的父女，以此来赎自己的罪。这个情节，是一场非常&ldquo;土耳其式&rdquo;的顶替。那时，土耳其的通讯、监控都不发达，在典狱长和全体狱友的共同协助下，完成以命换命的拯救。赴刑场前，老者的脸上决绝又欣慰，不见悲壮，唯有解脱。&nbsp;04身处黑暗的人最容易被暖阳融化一直觉得《七号房的礼物》这个片名很赞，高度概括了梅莫父女与七号房狱友双向救赎的情感走向。很难说他们究竟谁是献出礼物的人，谁又是接受馈赠的人。监狱本就是个容易催生戏剧化情节的地方，在这里，人性的善恶美丑都被放大，伪善成为最无用的面具，所有人都赤裸裸地面对真实的自我，围墙外无论怎样迷失，在这里反倒都能变得通透清醒。为什么决定帮助梅莫和奥娃？因为他们父女两人的爱与善良，让这些曾经以为自己被全世界放弃的囚犯，重拾对于美好生活的向往。他们为曾经犯下的罪孽感到羞愧，从看一个傻子到看一个精灵，不知不觉完成了灵魂的救赎。许多人说，看完电影，被土耳其宛如童话的美景迷住了，恨不得立即飞去旅行。瞧，这才是土耳其改编版本的力量所在。直面人性的丑陋与阴暗，用沉重的现实，反衬梅莫父女的纯真与美好。哪怕过程再多龃龉，结局依旧充满力量与希望。被诬陷，被误解，被殴打，被强权碾压都不可怕，可怕的是从此丢掉人性的碎片，用恶行抵御恶行，冤冤相报，陷入无法解脱的深渊。还记得开头那句话么？哪怕在最恶贯满盈的地方，能够唤醒善良的，依旧是爱，也只能是爱。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 去爱吧，像从没受过伤一样",
+                        "desc": "文/笙笙不兮 我们都是世间的旅人，来了又去，去了又来。",
+                        "link": "http://m.wufazhuce.com/movie/2067?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 去爱吧，像从没受过伤一样",
+                        "desc": "文/笙笙不兮 我们都是世间的旅人，来了又去，去了又来。",
+                        "link": "http://m.wufazhuce.com/movie/2067?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 去爱吧，像从没受过伤一样》 文/笙笙不兮： 我们都是世间的旅人，来了又去，去了又来。 阅读全文：http://m.wufazhuce.com/movie/2067?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2067?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "去爱吧，像从没受过伤一样",
+                        "desc": "我们都是世间的旅人，来了又去，去了又来。",
+                        "link": "http://m.wufazhuce.com/movie/2067?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21275",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3312",
+                "title": "永远相信，美好的事物即将拥有",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FsX-yzWqJk_NLWLn5Z3kk-dIHykg?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1343,
+                "post_date": "2020-10-22 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3312",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3312",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 永远相信，美好的事物即将拥有",
+                        "desc": "只有先相信，才可能拥有",
+                        "link": "http://m.wufazhuce.com/radio/3312?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lr-ZhT2H0jmBPoCXNc3KYxscD1nV"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 永远相信，美好的事物即将拥有",
+                        "desc": "只有先相信，才可能拥有",
+                        "link": "http://m.wufazhuce.com/radio/3312?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lr-ZhT2H0jmBPoCXNc3KYxscD1nV"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 永远相信，美好的事物即将拥有》 主播/李荟莹： 只有先相信，才可能拥有 阅读全文：http://m.wufazhuce.com/radio/3312?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3312?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lr-ZhT2H0jmBPoCXNc3KYxscD1nV"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "永远相信，美好的事物即将拥有",
+                        "link": "http://m.wufazhuce.com/radio/3312?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lr-ZhT2H0jmBPoCXNc3KYxscD1nV"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 903 期",
+                "audio_url": "http://music.wufazhuce.com/lr-ZhT2H0jmBPoCXNc3KYxscD1nV"
+            }
+        ],
+        "menu": {
+            "vol": "2938",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4486",
+                    "title": "春天结束之前夏天就来了"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1319",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第六章：追债的方式"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3013",
+                    "title": "怎么样才算照顾好自己？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2067",
+                    "title": "去爱吧，像从没受过伤一样"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3312",
+                    "title": "永远相信，美好的事物即将拥有"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

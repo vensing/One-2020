@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5570",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-14 06:00:00",
+        "content_list": [
+            {
+                "id": "20714",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2878",
+                "title": "摄影",
+                "forward": "我忽然想到，很多人的一生，最后都在这里度过，躯体化作灰尘与烟，跟汽车排出的尾气、植物吐出的氧气、所有的雾和霜，彼此交融，肆意流淌，沉积在旷野上。世上没有死者，但它却是由死者一点一点构成的。",
+                "img_url": "http://image.wufazhuce.com/FhahOBwMDL5c5j72yNVzpVEgwb3H",
+                "like_count": 11680,
+                "post_date": "2020-07-14 06:00:00",
+                "last_update_date": "2020-07-14 07:15:25",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2838",
+                "pic_info": "Dimitry Anikin",
+                "words_info": "班宇《逍遥游》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2878",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2878",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2878",
+                    "image": "http://image.wufazhuce.com/FhahOBwMDL5c5j72yNVzpVEgwb3H",
+                    "title": "VOL.2838",
+                    "content": "我忽然想到，很多人的一生，最后都在这里度过，躯体化作灰尘与烟，跟汽车排出的尾气、植物吐出的氧气、所有的雾和霜，彼此交融，肆意流淌，沉积在旷野上。世上没有死者，但它却是由死者一点一点构成的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2878?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2878?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我忽然想到，很多人的一生，最后都在这里度过，躯体化作灰尘与烟，跟汽车排出的尾气、植物吐出的氧气、所有的雾和霜，彼此交融，肆意流淌，沉积在旷野上。世上没有死者，但它却是由死者一点一点构成…——班宇《逍遥游》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2878?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2878?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20725",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4382",
+                "title": "春日长",
+                "forward": "来人世一趟，本来就是要将自己糅进尘埃里哭的，这样才能化作沉甸甸的泥土拥抱一切嘛。",
+                "img_url": "http://image.wufazhuce.com/FgOe22hXgCXoFZRt8gIGrDb8L3tl",
+                "like_count": 2169,
+                "post_date": "2020-07-14 06:00:00",
+                "last_update_date": "2020-07-17 10:40:41",
+                "author": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4382",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4382",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4382",
+                    "image": "http://image.wufazhuce.com/FgOe22hXgCXoFZRt8gIGrDb8L3tl",
+                    "title": "春日长 作者/林庭",
+                    "content": "我觉得我差劲极了，是你的善意将我从玻璃碎片里拾起来的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 春日长",
+                        "desc": "文/林庭 我觉得我差劲极了，是你的善意将我从玻璃碎片里拾起来的。",
+                        "link": "http://m.wufazhuce.com/article/4382?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 春日长",
+                        "desc": "文/林庭 我觉得我差劲极了，是你的善意将我从玻璃碎片里拾起来的。",
+                        "link": "http://m.wufazhuce.com/article/4382?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 春日长》 文/林庭： 我觉得我差劲极了，是你的善意将我从玻璃碎片里拾起来的。 阅读全文：http://m.wufazhuce.com/article/4382?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4382?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "春日长",
+                        "desc": "我觉得我差劲极了，是你的善意将我从玻璃碎片里拾起来的。",
+                        "link": "http://m.wufazhuce.com/article/4382?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20700",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1244",
+                "title": "打雪仗·第十三章：地狱围捕",
+                "forward": "这个世界真是荒谬，罪犯在犯案，警察在破案，它却在喝酒，还喝到把腿摔断了。它就是一块冰凉的石头，不会为任何人的命运改变。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 692,
+                "post_date": "2020-07-14 06:00:00",
+                "last_update_date": "2020-07-14 11:46:33",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第13章",
+                "number": "13",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1244",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1244",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1244",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第十三章：地狱围捕 作者/肖睿",
+                    "content": "这个世界真是荒谬，罪犯在犯案，警察在破案，它却在喝酒。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第十三章：地狱围捕",
+                        "desc": "文/肖睿 这个世界真是荒谬，罪犯在犯案，警察在破案，它却在喝酒。",
+                        "link": "http://m.wufazhuce.com/serial/1244?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第十三章：地狱围捕",
+                        "desc": "文/肖睿 这个世界真是荒谬，罪犯在犯案，警察在破案，它却在喝酒。",
+                        "link": "http://m.wufazhuce.com/serial/1244?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第十三章：地狱围捕》 文/肖睿： 这个世界真是荒谬，罪犯在犯案，警察在破案，它却在喝酒。 阅读全文：http://m.wufazhuce.com/serial/1244?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1244?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第十三章：地狱围捕",
+                        "desc": "这个世界真是荒谬，罪犯在犯案，警察在破案，它却在喝酒。",
+                        "link": "http://m.wufazhuce.com/serial/1244?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20724",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2910",
+                "title": "是什么让你感受到生活的荒谬？",
+                "forward": "道理知道得越多，越过不好生活。因为生活，毫无道理而言，这就是生活的荒谬。",
+                "img_url": "http://image.wufazhuce.com/Fkd1Z0gIPI7-LucZ9pKEVFhivvME",
+                "like_count": 2735,
+                "post_date": "2020-07-14 06:00:00",
+                "last_update_date": "2020-07-13 18:22:21",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "冒牌人生",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2910",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2910",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2910",
+                    "image": "http://image.wufazhuce.com/Fkd1Z0gIPI7-LucZ9pKEVFhivvME",
+                    "title": "是什么让你感受到生活的荒谬？",
+                    "content": "是什么让你感受到生活的荒谬？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 是什么让你感受到生活的荒谬？",
+                        "desc": "文/不辣 道理知道得越多，越过不好生活。因为生活，毫无道理而言，这就是生活的荒谬。",
+                        "link": "http://m.wufazhuce.com/question/2910?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 是什么让你感受到生活的荒谬？",
+                        "desc": "文/不辣 道理知道得越多，越过不好生活。因为生活，毫无道理而言，这就是生活的荒谬。",
+                        "link": "http://m.wufazhuce.com/question/2910?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 是什么让你感受到生活的荒谬？》 文/不辣： 道理知道得越多，越过不好生活。因为生活，毫无道理而言，这就是生活的荒谬。 阅读全文：http://m.wufazhuce.com/question/2910?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2910?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "是什么让你感受到生活的荒谬？",
+                        "desc": "道理知道得越多，越过不好生活。因为生活，毫无道理而言，这就是生活的荒谬。",
+                        "link": "http://m.wufazhuce.com/question/2910?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                }
+            },
+            {
+                "id": "20726",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2021",
+                "title": "我真想把你偷走，把你占为己有",
+                "forward": "夜晚牵手走在路上，真绪提议私奔。十年前错过彼此，十年后好不容易重逢，理应不再分开。",
+                "img_url": "http://image.wufazhuce.com/Fp-atM5RSvHphoM-FK8nYsHL9a29",
+                "like_count": 1876,
+                "post_date": "2020-07-14 06:00:00",
+                "last_update_date": "2020-07-14 11:06:05",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "向阳处的她",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5004",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2021",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2021",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2021",
+                    "image": "http://image.wufazhuce.com/Fp-atM5RSvHphoM-FK8nYsHL9a29",
+                    "title": "「一个」电影: 向阳处的她",
+                    "content": "重逢，相恋，私奔，结婚，关于这些美好的字眼，你终于有机会和喜欢的人都做了一遍，可就在这个时候，你不得不离开，那些你存在过的证据，与你有关的记忆统统都会消失，那将会是怎样一个故事。我常听到一句话说，&ldquo;关于你存在的证据，藏在爱你的人的记忆里&rdquo;。这个世界上，只要还有那么一个人，珍藏着与你有关的回忆，那你的存在就是有价值的，所以我们才会释然地说出&ldquo;爱过便已值得&rdquo;这种话。可有时候，忘却好像也是一种不错的选择。由日本作家越谷治同名小说改编的电影《向阳处的她》，便将这相爱与相忘的场景尽数融合，以一种童话视角，告诉你关于青春里那个向阳处的她，你该如何安放。&nbsp;1.不是所有重逢都是偶然供职于某广告公司的奥田浩介，与我们大部分人相同，每日的生活不过是面对无聊的工作，喜欢聊八卦的同事，阴晴不定的上司和总爱挑毛病的甲方。我们的生活一成不变，心也顺势麻木起来。但在一个稀松平常的上午，弟弟一早来浩介这补眠，他也如往常匆匆去上班，之后跟着前辈拜访客户，却不曾想在对方公司里重逢了青春时代的初恋女友渡来真绪。只是低头递送名片的那一瞥，只是一个匆匆而过的身影，便吸引了他的视线。那个逆着光走来的女孩，跟学生时代初见时一样，毛茸茸的短发，纯真可爱。他接过她的名片，如他所料，上面印着的正是心里所想的那个名字。两人对视，低头，再对视，试探着询问。相较于浩介的惊讶，女孩则平静多了，在众人的询问下，女孩淡然介绍着两人的关系，曾是同学，后来因为浩介转学才分开。她轻松抹去了两人曾经暧昧的成分，只留下最乏味普通的男女关系来满足外人的好奇心。但这次相遇，却勾起了浩介的回忆。那个时候，刚刚转到班上的真绪经常被人欺负。但这个看起来脑袋不太灵光的女孩，眼神却那样清澈干净，第一次见面，她就来到浩介面前，用这样的眼神盯着他看，仿佛他们上辈子已然相识。后来有一次，在真绪被欺负的时候，浩介出手相助，此后，两人开始一起学习，彼此相伴。时光变慢，青春的悸动悄然而至，在湘南之畔，他们聊天，荡秋千，接吻，青涩懵懂，小心试探，爱意在阳光下悄然绽放。而这一切，随着浩介的搬家离开，戛然而止。青春时代，这些关于她的记忆，无论如何，都与如今在广告会议上侃侃而谈的她，与听着唱片肆意摇摆的她，有所不同。但没关系，是她就好。在真绪的帮助下，浩介顺利完成了此次广告项目。他迫不及待约真绪见面，将这一消息与之分享。浩介感慨对于此次重逢的喜悦，但他刻意强调了其偶然性，这让真绪的目光黯淡了几分。眼见他要离开，真心话才得以说出口：才不是偶然。这次，真绪主动吻了浩介。像十年前一样，即使不说话，爱你这件事，眼神也早已出卖了我。为了与你重逢，我已等待许久。&nbsp;2.再没有比沿着海岸与你谈一场恋爱更浪漫的事很快坠入热恋的他们，一起去江之岛看海，挂同心锁，去山上看猫，然后去见真绪的家长。在一切顺利进行着的时候，这段感情却遭到了反对。而真绪父亲反对的理由，却并没有浩介想象中那样简单。真绪的父亲告诉浩介，真绪患有健忘症，丧失了十三岁之前的记忆，而未来，关于你的记忆，也可能会在某刻随风消散。这意料之外的状况对于热恋中的浩介来说，无疑是巨大打击。但当他再次面对真绪的时候，这些问题好像也都无需再纠结。让他下定决心依旧陪在真绪身边的，或许是爱情本身，或许是真绪的洒脱乐观，或许是他人的讥讽。但不管怎样，真绪成为他生活中最重要的人这件事，谁都无法改变了。夜晚牵手走在路上，真绪提议私奔。她讲，把没见面的那些日子都补回来吧。十年前，错过彼此，十年后好不容易重逢，理当不应再分开。于是他们搬去新的地方，认识新的邻居，开始了甜蜜的新婚生活。早上一起刷牙时抢镜子照，午后彼此依偎享受阳光，这世上，再没有比与你谈一场恋爱更浪漫的事了。可幸福并非一直照顾这对新人。真绪的身体突然迅速衰弱，这让故事不得不朝着另一个方向发展下去。&nbsp;3.我的存在只是为来到你身边关于真绪的身世以及模糊不定的过去，影片中一位神秘婆婆的出场才彻底将这一切揭晓。她告诉真绪，对于从一只猫变成人类的她而言，此刻面临的已是生命的末尾。这个关于真绪的秘密或许来得太过突然与荒唐，这不禁让人联想到影片开头那段男孩与猫相遇的画面。原来缘分在那时便已悄然而至。可惜直到如今，走到了故事终端，才懂珍惜的意义。此刻，一无所知的浩介依旧期望着与真绪的国外之旅，甚至设想好与真绪生儿育女，度过下半生的场景。可他的期望越大，我们能预估到的失望就越大。终于，浩介还是发现了异常。在记忆中，他幼时搭救过的小猫，曾带走了他的护身符。可如今这个护身符，出现在了真绪身边。&nbsp;无论巧合还是意外，都再难抚平浩介心中的怀疑。但他的爱，让他无法直接开口质问，只能小心试探，在真绪的一字一句中寻觅答案。终于，浩介亲眼所见，真绪为了搭救邻居家的小孩，从高空坠下而毫发无伤。她抬头看他，四目相对，彼此心照不宣。真绪，果真就是影片开头男孩救下的那只猫，而她的归来，只是因为，想见他。随着答案的揭晓，真绪离开的日子也来临。在一个普通的早晨，准备好早餐的真绪若无其事走出房门，便再也没有回来。咬了一口三明治的浩介才突然回过神来，他追出去，早以不见真绪的身影，而其他人关于真绪的记忆，也早已被抹去。这个世界，将再也没有她来过的痕迹。&nbsp;他追到江之岛，见到婆婆，请求再见真绪一面。而婆婆笑着告诉她，都会消失的。等太阳落山，你就不会再记得她，回到那个没有她的往常日子。但电影最终还是给这份爱多了一些宽容，让浩介得以见真绪最后一面。面对茫茫大海，两人很平静，他们的撕心裂肺是藏在心底默不作声的。真绪作为人的形象，最后一次向浩介表达炽热的爱意，浩介也最后一次满足真绪的心愿，带她骑单车沿着海岸飞驰。十年前，是想要再见一面的决心，让真绪向着神明虔诚祈祷，换来十年后的相遇。如今，也是想要再见一面的决心，让浩介跨越山海，追随爱人脚步，只为与你好好道别。最后，在秋千架旁，最后一次接吻。此生轮回，就此结束。4.如若重新相爱，这次请长久一点如大梦一场，醒来，一切如昨。熟悉的闹钟铃声响起，熟悉的上司，熟悉的对话，同样的工作，同样的生活。曾经见过的人，再一次递去了名片，见惯的广告牌，此刻又附上新的篇章。爱人离开后，浩介再次成为了我们万千平凡人中的一个。一切仿佛都没有变过，只是，在独自一人走过熟悉的街道的时候，在听到熟悉的歌曲时忍不住跟着打节拍，然后泪流满面的时候，看着手上的伤痕还在，心里却不知为何空了一块。整部影片都在柔光中进行，将一个温柔又悲伤，脆弱又善良的故事架构于现实世界之上，温暖的色调，干净的眼神，它赋予了爱情别致的美好，也给了其一个沉重艰辛的命题。那些青春时代的一见钟情，那些我们不停相遇又错过的爱情，那些我们记忆模糊的过去，并非暂且存在于普通生活中的琐事，而是长久存在于我们生命中的星辰。那些爱与悲伤，像你一样令我上瘾，我借此为生，顺便等待着你。这无疑是个充满悲伤的故事，当一只猫与少年一见钟情，悲剧从一开始便注定了。但影片给了它一个温暖的结局。浩介与真绪重新相遇，她带着曾经的爱情信物归来，他结束一个人漫长的等待，开始一段新的轮回，此刻，他们都是对方人生中的光，共同站在向阳的地方。令人惊喜的是，影片结尾处还存在一个似梦如幻的平行世界，在那里，浩介忘记了关于真绪的一切，一个人生活。我很喜欢这个设定，它打破了我们惯有的思维，认为只有留下的那个人，要一直带着两个人共同的记忆好好生活下去，一段爱情故事才算圆满，可这对于留下的人来说是否太过残忍。而当我们选择另外一种方式，放下回忆，忘却对方，一个人回归生活，于你于我，也是一种成全。随着女主人公逆光而来，从银幕中传来的幸福感与珍视感包裹人心。在江之岛这个如梦如幻的地方，我们似乎得以窥见另外一种人生，就像影片中讲的，让我们彼此在世界某个角落好好活下去，然后某一天创造一个新的轮回。或许我们终将分离，或许我终会遗忘了你，但请相信神明会知晓你的心意，愿意给你一次又一次的机会，让你们重新相遇，重新相爱。等新的轮回到来，等我们重新相爱，这次我想长久一点。但在此之前，请一个人好好生活。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 我真想把你偷走，把你占为己有",
+                        "desc": "文/鹿西兮 想见你，只想见你，未来过去，我只想见你。",
+                        "link": "http://m.wufazhuce.com/movie/2021?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 我真想把你偷走，把你占为己有",
+                        "desc": "文/鹿西兮 想见你，只想见你，未来过去，我只想见你。",
+                        "link": "http://m.wufazhuce.com/movie/2021?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 我真想把你偷走，把你占为己有》 文/鹿西兮： 想见你，只想见你，未来过去，我只想见你。 阅读全文：http://m.wufazhuce.com/movie/2021?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2021?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我真想把你偷走，把你占为己有",
+                        "desc": "想见你，只想见你，未来过去，我只想见你。",
+                        "link": "http://m.wufazhuce.com/movie/2021?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20701",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3216",
+                "title": "越长越大了，越来越怂了...",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FsRWov78DSSAIza7qt7MgrUMpnmj?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1440,
+                "post_date": "2020-07-14 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3216",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3216",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 越长越大了，越来越怂了...",
+                        "desc": "面对生活，我们已经放弃了挥拳",
+                        "link": "http://m.wufazhuce.com/radio/3216?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lhzCF2zIg7JC-AB0WwHqYOwOo9gD"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 越长越大了，越来越怂了...",
+                        "desc": "面对生活，我们已经放弃了挥拳",
+                        "link": "http://m.wufazhuce.com/radio/3216?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lhzCF2zIg7JC-AB0WwHqYOwOo9gD"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 越长越大了，越来越怂了...》 主播/马晓橙： 面对生活，我们已经放弃了挥拳 阅读全文：http://m.wufazhuce.com/radio/3216?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3216?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lhzCF2zIg7JC-AB0WwHqYOwOo9gD"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "越长越大了，越来越怂了...",
+                        "link": "http://m.wufazhuce.com/radio/3216?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lhzCF2zIg7JC-AB0WwHqYOwOo9gD"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 850 期",
+                "audio_url": "http://music.wufazhuce.com/lhzCF2zIg7JC-AB0WwHqYOwOo9gD"
+            }
+        ],
+        "menu": {
+            "vol": "2838",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4382",
+                    "title": "春日长"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1244",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第十三章：地狱围捕"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2910",
+                    "title": "是什么让你感受到生活的荒谬？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2021",
+                    "title": "我真想把你偷走，把你占为己有"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3216",
+                    "title": "越长越大了，越来越怂了..."
+                }
+            ]
+        },
+        "ad": []
+    }
+}

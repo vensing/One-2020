@@ -1,0 +1,522 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5442",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-14 06:00:00",
+        "content_list": [
+            {
+                "id": "19950",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2756",
+                "title": "摄影",
+                "forward": "获得真正自由的方法是要学会自我控制。如果情绪总是处于失控状态，就会被感情牵着鼻子走，丧失自由。所以那些精神自由，保持独立思考的人也正是擅长于控制自己情绪的人。",
+                "img_url": "http://image.wufazhuce.com/FhClgNUut7bOQAD0gkYeDYHGYm9a",
+                "like_count": 22930,
+                "post_date": "2020-03-14 06:00:00",
+                "last_update_date": "2020-03-11 19:13:40",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2716",
+                "pic_info": "@一万兄",
+                "words_info": "尼采",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2756",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2756",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2756",
+                    "image": "http://image.wufazhuce.com/FhClgNUut7bOQAD0gkYeDYHGYm9a",
+                    "title": "VOL.2716",
+                    "content": "获得真正自由的方法是要学会自我控制。如果情绪总是处于失控状态，就会被感情牵着鼻子走，丧失自由。所以那些精神自由，保持独立思考的人也正是擅长于控制自己情绪的人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2756?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2756?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 获得真正自由的方法是要学会自我控制。如果情绪总是处于失控状态，就会被感情牵着鼻子走，丧失自由。所以那些精神自由，保持独立思考的人也正是擅长于控制自己情绪的人。——尼采 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2756?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2756?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19971",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4237",
+                "title": "一起到天涯海角",
+                "forward": "我们相遇，因为发现在一起可以看见内心潜藏的自己，所以觉得快乐。",
+                "img_url": "http://image.wufazhuce.com/FpAenwVyRubH3oUwiD3vn40myvjY",
+                "like_count": 2581,
+                "post_date": "2020-03-14 06:00:00",
+                "last_update_date": "2020-03-13 14:40:58",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4237",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4237",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4237",
+                    "image": "http://image.wufazhuce.com/FpAenwVyRubH3oUwiD3vn40myvjY",
+                    "title": "一起到天涯海角 作者/陈雪",
+                    "content": "爱就像云朵，轻盈，却日日堆积，越过远山大海。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 一起到天涯海角",
+                        "desc": "文/陈雪 爱就像云朵，轻盈，却日日堆积，越过远山大海。",
+                        "link": "http://m.wufazhuce.com/article/4237?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 一起到天涯海角",
+                        "desc": "文/陈雪 爱就像云朵，轻盈，却日日堆积，越过远山大海。",
+                        "link": "http://m.wufazhuce.com/article/4237?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 一起到天涯海角》 文/陈雪： 爱就像云朵，轻盈，却日日堆积，越过远山大海。 阅读全文：http://m.wufazhuce.com/article/4237?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4237?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一起到天涯海角",
+                        "desc": "爱就像云朵，轻盈，却日日堆积，越过远山大海。",
+                        "link": "http://m.wufazhuce.com/article/4237?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19961",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1130",
+                "title": "世界得了健忘症·第二十章：分享",
+                "forward": "成长是一场凶杀案，不存在任何一个“幸存者”。想活下去，就要忘掉一切。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 1170,
+                "post_date": "2020-03-14 06:00:00",
+                "last_update_date": "2020-03-14 09:48:56",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第20章",
+                "number": "20",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1130",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1130",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1130",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第二十章：分享 作者/昔央",
+                    "content": "成长是一场凶杀案，不存在任何一个“幸存者”。想活下去，就要忘掉一切。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第二十章：分享",
+                        "desc": "文/昔央 成长是一场凶杀案，不存在任何一个“幸存者”。想活下去，就要忘掉一切。",
+                        "link": "http://m.wufazhuce.com/serial/1130?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第二十章：分享",
+                        "desc": "文/昔央 成长是一场凶杀案，不存在任何一个“幸存者”。想活下去，就要忘掉一切。",
+                        "link": "http://m.wufazhuce.com/serial/1130?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第二十章：分享》 文/昔央： 成长是一场凶杀案，不存在任何一个“幸存者”。想活下去，就要忘掉一切。 阅读全文：http://m.wufazhuce.com/serial/1130?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1130?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第二十章：分享",
+                        "desc": "成长是一场凶杀案，不存在任何一个“幸存者”。想活下去，就要忘掉一切。",
+                        "link": "http://m.wufazhuce.com/serial/1130?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19966",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2785",
+                "title": "该怎么开拓自己的眼界？",
+                "forward": "一个人如果一直局限在自己原本的生活中，那么他永远也不会真正懂得别人口中的美好究竟是什么样子。",
+                "img_url": "http://image.wufazhuce.com/Fjc0ewazfYSgXxZyVKp01qIj0QkL",
+                "like_count": 3605,
+                "post_date": "2020-03-14 06:00:00",
+                "last_update_date": "2020-03-13 17:24:13",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "奇迹卡",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2785",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2785",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2785",
+                    "image": "http://image.wufazhuce.com/Fjc0ewazfYSgXxZyVKp01qIj0QkL",
+                    "title": "该怎么开拓自己的眼界？",
+                    "content": "该怎么开拓自己的眼界？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 该怎么开拓自己的眼界？",
+                        "desc": "文/黄子京 代沟就是这么来的。",
+                        "link": "http://m.wufazhuce.com/question/2785?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 该怎么开拓自己的眼界？",
+                        "desc": "文/黄子京 代沟就是这么来的。",
+                        "link": "http://m.wufazhuce.com/question/2785?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 该怎么开拓自己的眼界？》 文/黄子京： 代沟就是这么来的。 阅读全文：http://m.wufazhuce.com/question/2785?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2785?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "该怎么开拓自己的眼界？",
+                        "desc": "代沟就是这么来的。",
+                        "link": "http://m.wufazhuce.com/question/2785?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9606198",
+                    "user_name": "黄子京",
+                    "desc": "作者、诗人。微信公众号：黄子京。",
+                    "wb_name": "@黄子京hzj",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者、诗人。微信公众号：黄子京。",
+                    "fans_total": "5327",
+                    "web_url": "http://image.wufazhuce.com/FgqaxpmefULlWSexRwIEJ9NcoaMf"
+                }
+            },
+            {
+                "id": "19978",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1966",
+                "title": "关于万物之始，我们总是心存浪漫",
+                "forward": "“在见到你之前，我已经开始爱你了。”",
+                "img_url": "http://image.wufazhuce.com/FhUT4Nh3WFU7oDf31FzTEdkc-n8v",
+                "like_count": 2966,
+                "post_date": "2020-03-14 06:00:00",
+                "last_update_date": "2020-03-12 18:47:28",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE文艺生活",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "人生第一次",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4949",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1966",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1966",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1966",
+                    "image": "http://image.wufazhuce.com/FhUT4Nh3WFU7oDf31FzTEdkc-n8v",
+                    "title": "「一个」电影: 人生第一次",
+                    "content": "今天，我想跟你聊点不一样的东西。比如：每个人，人生中的第一次。但是你放心，今天这些故事虽然都足够紧张、生动、与众不同。但是我绝不开车，绝不超速。这些「第一次」，都是人生中那些真正值得被记录的第一次。第一个要讲的第一次，关于出生。说起生小孩，很多人的第一反应就是&mdash;&mdash;疼。用片子里的话来形容：&ldquo;这种疼痛，据说就像从鼻孔挤出一个西瓜&rdquo;。听着就让人汗毛竖起，但准妈妈向爽的故事，远远不止疼。27岁这年，她怀了双胞胎。头一次当妈妈的她有点激动，日思夜想，甚至在梦里给两个孩子给定好了名字：春和与景明。名字取自范仲淹《岳阳楼记》&mdash;&mdash;&ldquo;春和景明、波澜不惊&rdquo;，寓意孩子的成长安稳顺利，人生就像和煦的春天，不用经受大风大浪...但孩子出生头一遭，没那么顺利。向爽，在怀上小孩后，被查出患有先天性心脏主动脉瓣畸形。这就意味着，如果像普通妈妈一样生产，她和孩子的生命，都会受到威胁。面临这样的高危情况，向爽老家没有任何一家医院，敢接她生产。直到最后，终于找到了一家医院，医生给出的方案，是执行两次手术&mdash;&mdash;一次心脏手术，一次生产手术。但手术就意味着风险，孩子的死亡率，将高达30%。你我都知道，生孩子面临风险时，往往是最考验人性的。尤其是在&ldquo;保大人？保小孩？&rdquo;这个问题上。兴许是看过太多&ldquo;保小孩&rdquo;的回答，所以当向爽的老公和所有家人&mdash;&mdash;毫不犹豫、一致坚定地选择保护大人时，我觉得有些感动。幸而最终的结果，不需要做选择。向爽熬过了两次手术，大人保住的同时，所有医生和他们一起迎来了&ldquo;春和景明&rdquo;。出生的那一刻，孩子哭了，爸妈笑了。这其中，有一个我印象很深的细节：当医生告诉向爽老公，两个孩子都还好时。这个男人最先关心的是：我媳妇还好吧？有妈妈这样说：&ldquo;没有生过人，还谈什么人生&rdquo;虽然言语有点极端，但从选择要孩子起，无论是男人还是女人都要学会承担起更大的责任。就像向爽的老公王翔，得知母子平安后所说&mdash;&mdash;&ldquo;我下辈子不干别的了，就守着他们三个人过&rdquo;那一刻，我觉得他已经开始像个爸爸。生孩子，算不上罕见的经历 &mdash;&mdash;中国有2600家助产机构，21万产科医师和18万助产护士们，平均每天接生5万个新生儿。但是每个经历过生孩子的母亲，各有各的独特经历，疼痛仅仅是最普遍的感受。孩子第一次见世界。相爱的男女第一次，成为了父母。不知道你有没有听过一句话：&ldquo;会写诗的孩子，不会砸玻璃。&rdquo;这是一个大山里的中学校长，说出的话。第二个&ldquo;第一次&rdquo;，想和你们聊聊山里的孩子和诗歌的故事。云南漭水中学，12岁的施应锁升入初中一年级&mdash;&mdash;他迎来了人生第一节诗歌课。写诗？似乎有点过于理想和浪漫。应试成绩决定升学机会的环境里，学诗歌既不是考试加分项，甚至还有&ldquo;体裁不限，诗歌除外&rdquo;的门槛。学习诗歌，看起来没什么意义。而且，写诗，似乎离施应锁有点遥远。他的家住在大山深处，家庭并不富裕，家中最值钱的东西除了房子，就只剩一头小黄牛&hellip;生活的拮据，似乎比诗歌的浪漫更现实。然而，当老师带着孩子们走出教室，来到他们每天都在面对着的大山、农田、野草、野花&hellip;年少的想象力，自由了。12岁的他，写了一首诗歌，记录了春耕秋收、夏耘冬藏：&nbsp;闭上眼睛的时候我看到了绿色的风它拂绿了山林树木烫金了我的小牛亲吻了家里的白墙染黄了阿爹的苞谷还写出了一些隐藏的，从没开口说过的情感：&nbsp;种子被埋在大雪下安静发芽老枯树在夜里长出一根新枝丫而我在爸爸妈妈看不到的地方偷偷长大诗里最后一句&ldquo;我在爸妈看不到的地方，偷偷长大&rdquo;，看得我心里很难受。漭水中学的孩子大多是留守儿童。哪怕面对父母离开，他们也从不哭闹，早就习惯了沉默。和施应锁同班的穆庆云，也是一样。她和姐姐生活在一起，母亲为了供他们俩读书而外出打工，一家人视频，总是相顾无言。想说，却又不敢说。后来，她写了第一首诗，隔着手机屏幕念给母亲&mdash;&mdash;&nbsp;小鸟是大鸟的孩子白云是蓝天的孩子路灯是黑夜的孩子我把我的鞋放在母亲鞋的旁边因为我是母亲的孩子念完之后，两个不善言辞的人都落泪了，哭完以后又笑了。那一刻，我想到这段故事开头那句关于砸玻璃的话。那是当有人在问校长，为什么开设诗歌课时，他给出的的回答&mdash;&mdash;&ldquo;考大学，不考诗歌。但是学了诗歌的孩子，不会砸玻璃。&rdquo;我常常在想，这些大山里的孩子，或许不是每一个都有机会去山外的世界。但留下来的他们，也不该就被困在沉默之中，无人问津。他们依然可以去体会写诗的浪漫，而诗歌，最终也成为了他们情感表达的方法。在这些情感充沛的诗句里，孩子们的成长，不再只是年龄的累计。经历完出生、长大，人生，到了该立业的时候。下面的第一次，和&ldquo;立业&rdquo;有关，但很特殊。王绍军，河南省中牟县残友培训基地负责人。年轻时的他曾经是足球队的主力，但因为下肢肌肉萎缩，最终不得不离开了绿茵场。残疾的他，逐渐需要别人照顾。但是，他对待人生，就像对待球赛那样硬核。于是他创办了残友培训基地，初衷很简单 &mdash;&mdash;像我这样的残疾人有很多，难道都在家坐着等死么？但王绍军的培训基地，和我想的有些不一样。这里，没有一滴鸡汤。来基地的，很多全国各地的年轻人，他们因为身体的缺憾，甚至不被父母看好。也因此，自食其力、有份工作，成了奢望。而到了基地后，他们获得的并不是鸡汤式的安慰，与之相反，是无数不讲情面的挑战：学习使用电脑，即便你没有双手&hellip;十分钟要打字420个，即便你从没没有经验&hellip;还要大胆谈话，不畏惧交流。毕竟，只有经过反复练习，才能成为合格的网络客服。而这也是他们大多数人&mdash;&mdash;人生第一份工作。第一次用残缺的双手：甚至仅剩的双脚：感受和常人一样，自食其力的滋味。印象最深的，是这段双11的故事。2019年11月11日零点，双11购物节。救助中心的姑娘小伙备战双11，亿万网友抢购的时候，屏幕背后的残疾人客服也准时上线。有的客人吐槽，有的客人蛮横&hellip;而他们，和所有忙碌的人一样，放肆的喜怒哀乐！片子里说，面对顾客刁难，这些男孩女孩，竟然有一些享受。因为在那一刻，世界真的把他们当做了正常人。这比那种异样眼光下的廉价同情，高贵的多。上面的这些故事，是我看纪录片《人生第一次》里，最感动的故事。其实，人的这辈子中，有太多滋味丰富的第一次。第一次去幼儿园的孩子，哭啊、叫啊、闹啊！爸妈说，当年入学的我也是这样。但现在看来，那时候我们哭得最多，烦恼却最少。参军的青年空降兵，第一次跳伞&hellip;看着别人完美落地，而他却不小心挂在了树上。谁说失败不算成长呢？还有爱情，当长跑第一次冲到终点的时刻&hellip;人生大喜的瞬间汇聚了太多眼泪和欢笑。而往往，只有在我们经历完这些事情后，才会恍然发现&mdash;&mdash;很多第一次，都是一次性的。经历过了，就在人生道路上发足狂奔，再也找不回当时的心境。汪曾祺对于&ldquo;第一次&rdquo;有过这样的注释 &mdash;&mdash;&nbsp;第一次往往需要勇气但是第一次也往往会有意想不到的收获因为它是探索、是挑战、是机遇人生越多的第一次便越精彩我们生活里的那些第一次，或许并不都那么惊天动地。但这些第一次聚沙成塔&hellip;一寸一尺，拓宽了原本局促的人生。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 关于万物之始，我们总是心存浪漫",
+                        "desc": "文/ONE文艺生活 “在见到你之前，我已经开始爱你了。”",
+                        "link": "http://m.wufazhuce.com/movie/1966?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 关于万物之始，我们总是心存浪漫",
+                        "desc": "文/ONE文艺生活 “在见到你之前，我已经开始爱你了。”",
+                        "link": "http://m.wufazhuce.com/movie/1966?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 关于万物之始，我们总是心存浪漫》 文/ONE文艺生活： “在见到你之前，我已经开始爱你了。” 阅读全文：http://m.wufazhuce.com/movie/1966?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1966?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "关于万物之始，我们总是心存浪漫",
+                        "desc": "“在见到你之前，我已经开始爱你了。”",
+                        "link": "http://m.wufazhuce.com/movie/1966?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2716",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4237",
+                    "title": "一起到天涯海角"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1130",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第二十章：分享"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2785",
+                    "title": "该怎么开拓自己的眼界？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1966",
+                    "title": "关于万物之始，我们总是心存浪漫"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

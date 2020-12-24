@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5399",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-30 06:00:00",
+        "content_list": [
+            {
+                "id": "19659",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2712",
+                "title": "摄影",
+                "forward": "不管怎样，我始终相信这个世界是美好的。",
+                "img_url": "http://image.wufazhuce.com/FmymvbOhvGN_KqFckzBiEPDlNGFB",
+                "like_count": 18150,
+                "post_date": "2020-01-30 06:00:00",
+                "last_update_date": "2020-01-17 16:41:54",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2672",
+                "pic_info": "Skitterphoto",
+                "words_info": "安妮·弗兰克",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2712",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2712",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2712",
+                    "image": "http://image.wufazhuce.com/FmymvbOhvGN_KqFckzBiEPDlNGFB",
+                    "title": "VOL.2672",
+                    "content": "不管怎样，我始终相信这个世界是美好的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2712?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2712?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 不管怎样，我始终相信这个世界是美好的。——安妮·弗兰克 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2712?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2712?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19665",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4165",
+                "title": "当我们走向自由",
+                "forward": "在任何时候，都照顾好自己的身体和情绪，是我们要学会的第一步。",
+                "img_url": "http://image.wufazhuce.com/FpmqliuD398IMut-Kxu_PD3yviyq",
+                "like_count": 3338,
+                "post_date": "2020-01-30 06:00:00",
+                "last_update_date": "2020-01-30 01:20:25",
+                "author": {
+                    "user_id": "4813757",
+                    "user_name": "苏更生",
+                    "desc": "「一个」App常驻作家，微信公众号：ishikuaiqian",
+                    "wb_name": "@假苏更生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "「一个」App常驻作家。",
+                    "fans_total": "97549",
+                    "web_url": "http://image.wufazhuce.com/Fg_e6teZsb3lZ1QStYtdnAkh6bO8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4165",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4165",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4165",
+                    "image": "http://image.wufazhuce.com/FpmqliuD398IMut-Kxu_PD3yviyq",
+                    "title": "当我们走向自由 作者/苏更生",
+                    "content": "没有人可以留在过去。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 当我们走向自由",
+                        "desc": "文/苏更生 没有人可以留在过去。",
+                        "link": "http://m.wufazhuce.com/article/4165?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 当我们走向自由",
+                        "desc": "文/苏更生 没有人可以留在过去。",
+                        "link": "http://m.wufazhuce.com/article/4165?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 当我们走向自由》 文/苏更生： 没有人可以留在过去。 阅读全文：http://m.wufazhuce.com/article/4165?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4165?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "当我们走向自由",
+                        "desc": "没有人可以留在过去。",
+                        "link": "http://m.wufazhuce.com/article/4165?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19675",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1091",
+                "title": "世界得了健忘症·第一章：强塞",
+                "forward": "命运附加给我们的东西太多太沉重，我们必须在彼此身上宣泄和释放。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 2511,
+                "post_date": "2020-01-30 06:00:00",
+                "last_update_date": "2020-01-31 11:40:04",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第1章",
+                "number": "1",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1091",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1091",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1091",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第一章：强塞 作者/昔央",
+                    "content": "他总是这样，喜欢把恐吓当作幽默。真不知是幽默本该如此，还是他误读了幽默。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第一章：强塞",
+                        "desc": "文/昔央 他总是这样，喜欢把恐吓当作幽默。真不知是幽默本该如此，还是他误读了幽默。",
+                        "link": "http://m.wufazhuce.com/serial/1091?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第一章：强塞",
+                        "desc": "文/昔央 他总是这样，喜欢把恐吓当作幽默。真不知是幽默本该如此，还是他误读了幽默。",
+                        "link": "http://m.wufazhuce.com/serial/1091?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第一章：强塞》 文/昔央： 他总是这样，喜欢把恐吓当作幽默。真不知是幽默本该如此，还是他误读了幽默。 阅读全文：http://m.wufazhuce.com/serial/1091?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1091?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第一章：强塞",
+                        "desc": "他总是这样，喜欢把恐吓当作幽默。真不知是幽默本该如此，还是他误读了幽默。",
+                        "link": "http://m.wufazhuce.com/serial/1091?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19700",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2741",
+                "title": "哪一刻你会感觉自己“老了”？ ​​​​",
+                "forward": "当我真正明白“能平安地度过一生亦是一种成就”的瞬间。",
+                "img_url": "http://image.wufazhuce.com/Fnwjc_MA0ZL5mN5yduLNcO8NSOBI",
+                "like_count": 2351,
+                "post_date": "2020-01-30 06:00:00",
+                "last_update_date": "2020-01-29 09:22:01",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2741",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2741",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2741",
+                    "image": "http://image.wufazhuce.com/Fnwjc_MA0ZL5mN5yduLNcO8NSOBI",
+                    "title": "哪一刻你会感觉自己“老了”？ ​​​​",
+                    "content": "哪一刻你会感觉自己“老了”？ ​​​​"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 哪一刻你会感觉自己“老了”？ ​​​​",
+                        "desc": "文/网友 我应该先变胖还是先变秃？",
+                        "link": "http://m.wufazhuce.com/question/2741?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 哪一刻你会感觉自己“老了”？ ​​​​",
+                        "desc": "文/网友 我应该先变胖还是先变秃？",
+                        "link": "http://m.wufazhuce.com/question/2741?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 哪一刻你会感觉自己“老了”？ ​​​​》 文/网友： 我应该先变胖还是先变秃？ 阅读全文：http://m.wufazhuce.com/question/2741?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2741?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "哪一刻你会感觉自己“老了”？ ​​​​",
+                        "desc": "我应该先变胖还是先变秃？",
+                        "link": "http://m.wufazhuce.com/question/2741?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "19702",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1946",
+                "title": "《囧妈》| 从戏里“囧”到戏外",
+                "forward": "爱不是控制和索取，爱是接纳和尊重。",
+                "img_url": "http://image.wufazhuce.com/Fro9R3q1tKTyMZag7p-7rPsR8kg9",
+                "like_count": 2290,
+                "post_date": "2020-01-30 06:00:00",
+                "last_update_date": "2020-01-29 15:45:48",
+                "author": {
+                    "user_id": "9970997",
+                    "user_name": "耶律律",
+                    "desc": "公号：耶律律。",
+                    "wb_name": "@Author耶律律",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说作者，自由撰稿人 公众号：耶律律",
+                    "fans_total": "1144",
+                    "web_url": "http://image.wufazhuce.com/Fg9pajYrz3XN5pjCZh0ubhvv_yUa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "囧妈",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4929",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1946",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1946",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1946",
+                    "image": "http://image.wufazhuce.com/Fro9R3q1tKTyMZag7p-7rPsR8kg9",
+                    "title": "「一个」电影: 囧妈",
+                    "content": "1免费看电影对一部免费请全国人民看的电影，我无法说服自己，用任何一种态度评价。刻薄、客观、客气，都不妥。首先，一提到全国人民，就让人联想到&ldquo;宏大叙事&rdquo;，而宏大叙事下，个人意见不值一提。其次，我们全家六口都免费看了，买卖不成交情在，吃东家饭砸东家锅的事，我干不出来。可我本着对电影创作者的尊重，还是多嘴问了家人感受：两位说有趣，两位说一般，一位中途出门痛失发言权。你看，无论免费与否，对电影的评价总是这样，远瞧忽忽悠悠，近瞧飘飘摇摇，有人说是葫芦，有人说是瓢。而我并没有参与到家人的争论当中，因为影片台词说&ldquo;爱不是控制和索取，爱是接纳和尊重&rdquo;。事实证明，作为春节档合家欢类型，《囧妈》已经完成任务，为许多家庭提供表达爱的出口与素材。如果再深究下去，《囧妈》戏里戏外都是话题，不妨就从里到外，说道说道。2情感投射精准徐峥自导自演徐伊万，事业有成、无儿无女，依旧遭遇婚变。争吵时，妻子告诉她，要给妈妈一个拥抱。接下来，他鬼使神差般，同老妈卢小花踏上K3跨境火车，开始为期六天的&ldquo;互虐&rdquo;旅程。故事主线，老妈自费去莫斯科演出，徐伊万从漠不关心到共赴征途，依靠对母亲的爱完成转变；副线则借着电话短信，交代他与妻子从对立到和解的过程。主线上，老妈一系列&ldquo;投喂式&rdquo;溺爱，使得徐伊万产生先天性逆反，如此这般几回合下来，母子二人到达崩溃边缘。老妈接二连三喂小番茄，徐伊万把番茄一个个投向窗外，是这个过程里最具代表性的桥段，更是对母子日常的典型展现。副线轻巧与沉重并存。徐伊万夫妇因争夺&ldquo;暖霸&rdquo;专利产生隔阂，但他对袁泉饰演的妻子仍心存不舍。火车上徐伊万邂逅异域美妞，二人约定扔掉婚戒，正当他举手抛出一刻，眼角细纹忽然渗出留恋，因为这一扔等于扔掉相爱的证据。从情感投射设计上看，导演徐峥具有超强创作力。在看似鸡飞蛋打的情景里，瞬间击中并释放观众情绪。但这种段落过多，也会造成情节松散跳脱，导致影片像提纲一样丧失细腻的承接关系。换种方式说，精巧设计和真实生活相去甚远。回望我们自身就会发现，家人其实很少正面聊什么走心话题，这才形成我们所说的代际问题。3聚焦代际关系影片《囧妈》本质上还是公路片，和徐峥前两部&ldquo;囧&rdquo;系列作品一脉相承。但本片除了老生常谈的中年危机、夫妻婚变之外，核心探讨对准代际关系，算是对当下社会精准洞悉。老妈微信聊天发60秒语音方阵、看各大公号养生文、催生等等，都是当下热点话题。代际关系，并不是有代沟那么简单。城市化造成迁徙潮，互联网重新定义邻里结构，两代人事实上生活在两个世界。分享同一时间同一空间的平行世界。如果拆开分析，60秒语音让人无法接受，原因是两代人对时间的感受力不同。年轻人在电子产品规训下，不断追求即时满足感，老年人还保留着延迟满足习惯。如此一来便不难理解，为什么年轻人乐意花时间给互联网，也不愿耐心听完语音方阵。养生公号文，我们都很熟悉，可谁也没认真看过。前些天病毒危机伊始，中老年人不戴口罩，于是有人模仿养生公号文，写下：口罩一戴，福气常在；回家洗手，钱财就有。看似机智的妙招背后，是两代人知识体系和接受方式的差异。本片主人公徐伊万的名字，致敬了塔可夫斯基《伊万的童年》。而老妈所代表的那一代老年人，在苏联专家没撤退的年月，还曾学过俄语。但这些过往，于年轻后生来说，只存于历史书的角落。或许我们读书比父母多，却很少在乎他们也有必修课：学习催分、恋爱催婚、婚后催生。父母试图把子女每一段人生都安排妥当，却忘记为自己好好活一次。关于暂缓生育问题，我问过很多同龄人，除了经济原因之外，多是说&ldquo;我们自己还是孩子，所以不生孩子&rdquo;。长达三十余年都说&ldquo;只生一个好&rdquo;，导致几代人对生育有着某种原始渴望。在催生面前，全民都是局内人，谁也说不出可行的观点。4敬仰和期许代际关系讨论里，很难取舍表象和深层逻辑，而这正是作者性与商业性的不同体现。经过以上种种分析，看得出徐峥在两者之间有过挣扎。&ldquo;囧&rdquo;系列在徐峥手中，开篇便有不俗票房，并形成了一套离成功最近的模式。虽然续作口碑下降，但这种模式一直延续至今。《囧妈》承袭&ldquo;囧&rdquo;系列的商业性。油霸改做暖霸，让故事顺利划入轨道；笑料统统交给功能角色，之前王宝强，这次是贾冰、郭京飞。目的地都在异域，无论从泰国到香港，还是本片经外蒙抵达俄罗斯，都只为满足影迷的视觉期许。遵循商业性无可厚非，如果足够优秀，还能在续作里打情怀牌。人们早已习惯了，在囧系列瞧一瞧风土人情，品一品珍馐美味。可坏就坏在不想打破商业性，又想加入作者性，左拉右拽破坏了影片氛围。影片前半段稳扎稳打，场景确切冲突写实；到了后半段，扒火车、熊出没、热气球，一些列超现实情节，场景虚幻冲突疲软。前后割裂的处理方式，只能解释为作者性和商业性冲突下的产物。徐伊万夫妇选择离婚，给对方自由，当属作者性最佳展现。但这又是合家欢电影大忌，最起码屏幕前许多母亲无法接受。全片观看下来，笑声不够酣畅淋漓，感悟没能直击灵魂。但不管怎样，徐峥敢于跨出这一步，足以证明他想做个有勇气的创作者。小时候学《春光灿烂猪八戒》里的口音，后来废寝忘食狂刷《李卫当官》，去年因为《我不是药神》，再次被徐峥的表演征服。话剧舞台成长，影视剧功成名就，在执导囧系列之后，徐峥成为演而优则导的典范。精于专业知识，熟知商业逻辑，就像《无人区》里的律师，徐峥一直以精英形象示人，驾驭名利近乎完美。可他在《十三邀》里坦言，害怕失去安全感，不敢做极限挑战者。看过《囧妈》之后，我完全能理解这种拧巴。而我对他的喜爱，正如他对创作的反思，总是抱有七分敬仰三分期许。5从戏里&ldquo;囧&rdquo;到戏外迎合市场还是迎合自己，每位创作者都有此困惑。单说创作，话题还值得深究，可电影毕竟是商品，迎合市场是必然选择。《囧妈》原定春节档大年初一上映，临近年关带头提档至除夕，又因为病毒蔓延宣布撤档，择期上映。以上种种，虽不合情却也合理，毕竟提档、撤档、技术故障，都不是新鲜事。影迷除了接受，能做的只有买票退票。最让人&ldquo;惊喜&rdquo;的是，片方以6.3亿将版权卖给了字节跳动，并宣布&ldquo;免费请全国人民看电影&rdquo;。紧接着舆论掀起争端。同行指责《囧妈》片方，破坏行业规则，并声称一旦上映必会抵制；不知详情的观众赞扬徐峥，识大体顾大局，开创流媒体公映之先河，说这才是真正的名利双收。&ldquo;免费看&rdquo;是一次称得上&ldquo;完美&rdquo;的资本运作，既迎合观众需求，生意上也不吃亏。可见徐峥不仅想做个勇敢的导演，还是一位智慧的商人。两个身份并不冲突，资本也不是一个人说了算，至于如何评价此事，也许时间会给一个答案。说到时间，今年春节比以往都漫长，仿佛回到遥远童年。在家与父母朝夕相处，像极了K3火车上的母子，每时每刻都在经历观念碰撞。因思念而相聚，因厌烦而逃离，争吵后于心不忍，道歉时自觉做作。亲情就是这般细小，只存在于难以形容的瞬间。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 《囧妈》| 从戏里“囧”到戏外",
+                        "desc": "文/耶律律 爱不是控制和索取，爱是接纳和尊重。",
+                        "link": "http://m.wufazhuce.com/movie/1946?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 《囧妈》| 从戏里“囧”到戏外",
+                        "desc": "文/耶律律 爱不是控制和索取，爱是接纳和尊重。",
+                        "link": "http://m.wufazhuce.com/movie/1946?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 《囧妈》| 从戏里“囧”到戏外》 文/耶律律： 爱不是控制和索取，爱是接纳和尊重。 阅读全文：http://m.wufazhuce.com/movie/1946?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1946?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "《囧妈》| 从戏里“囧”到戏外",
+                        "desc": "爱不是控制和索取，爱是接纳和尊重。",
+                        "link": "http://m.wufazhuce.com/movie/1946?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19652",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3045",
+                "title": "人生难免无聊，人生难得无聊",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fqhd2UdUtzjkXbDWbyir7FbjMuzD?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1737,
+                "post_date": "2020-01-30 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3045",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3045",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 人生难免无聊，人生难得无聊",
+                        "desc": "无聊是意义的空白",
+                        "link": "http://m.wufazhuce.com/radio/3045?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loKqaru9pF9MUrpLWzlmLPPUu7pR"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 人生难免无聊，人生难得无聊",
+                        "desc": "无聊是意义的空白",
+                        "link": "http://m.wufazhuce.com/radio/3045?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loKqaru9pF9MUrpLWzlmLPPUu7pR"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 人生难免无聊，人生难得无聊》 主播/李荟莹： 无聊是意义的空白 阅读全文：http://m.wufazhuce.com/radio/3045?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3045?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/loKqaru9pF9MUrpLWzlmLPPUu7pR"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "人生难免无聊，人生难得无聊",
+                        "link": "http://m.wufazhuce.com/radio/3045?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loKqaru9pF9MUrpLWzlmLPPUu7pR"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 767 期",
+                "audio_url": "http://music.wufazhuce.com/loKqaru9pF9MUrpLWzlmLPPUu7pR"
+            }
+        ],
+        "menu": {
+            "vol": "2672",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4165",
+                    "title": "当我们走向自由"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1091",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第一章：强塞"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2741",
+                    "title": "哪一刻你会感觉自己“老了”？ ​​​​"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1946",
+                    "title": "《囧妈》| 从戏里“囧”到戏外"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3045",
+                    "title": "人生难免无聊，人生难得无聊"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

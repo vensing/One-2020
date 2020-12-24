@@ -1,0 +1,621 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5419",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-15 06:00:00",
+        "content_list": [
+            {
+                "id": "19786",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2728",
+                "title": "摄影",
+                "forward": "有时起初的隐忍可以避免一路的疼痛。",
+                "img_url": "http://image.wufazhuce.com/FkUIu73x8YMI9gYItgBpWpy2tC6a",
+                "like_count": 19505,
+                "post_date": "2020-02-15 06:00:00",
+                "last_update_date": "2020-02-10 16:22:01",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2688",
+                "pic_info": "Tony Wang",
+                "words_info": "《怦然心动》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2728",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2728",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2728",
+                    "image": "http://image.wufazhuce.com/FkUIu73x8YMI9gYItgBpWpy2tC6a",
+                    "title": "VOL.2688",
+                    "content": "有时起初的隐忍可以避免一路的疼痛。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2728?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2728?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 有时起初的隐忍可以避免一路的疼痛。——《怦然心动》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2728?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2728?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19790",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4195",
+                "title": "她的自白书",
+                "forward": "人人都喜欢分享快乐，痛苦都是独自下咽，无人能够感知。",
+                "img_url": "http://image.wufazhuce.com/FopJjdNCwRMkwUlOjKFDW9d1vq6X",
+                "like_count": 4339,
+                "post_date": "2020-02-15 06:00:00",
+                "last_update_date": "2020-02-15 02:10:10",
+                "author": {
+                    "user_id": "11047612",
+                    "user_name": "卡麟",
+                    "desc": "偏爱小说，热爱观察，幻想丰富，但也乐于面对现实。灵感很多，然而行动缓慢。经验不足，时间有余。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作者。",
+                    "fans_total": "224",
+                    "web_url": "http://image.wufazhuce.com/Fo7qBx3boaTOF0lRmjRiMVUDe4YB"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4195",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4195",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4195",
+                    "image": "http://image.wufazhuce.com/FopJjdNCwRMkwUlOjKFDW9d1vq6X",
+                    "title": "她的自白书 作者/卡麟",
+                    "content": "人活着是为了什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 她的自白书",
+                        "desc": "文/卡麟 人活着是为了什么？",
+                        "link": "http://m.wufazhuce.com/article/4195?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 她的自白书",
+                        "desc": "文/卡麟 人活着是为了什么？",
+                        "link": "http://m.wufazhuce.com/article/4195?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 她的自白书》 文/卡麟： 人活着是为了什么？ 阅读全文：http://m.wufazhuce.com/article/4195?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4195?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "她的自白书",
+                        "desc": "人活着是为了什么？",
+                        "link": "http://m.wufazhuce.com/article/4195?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19802",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4201",
+                "title": "「故事大爆炸」最受读者喜爱短篇作品票选活动",
+                "forward": "22个短篇作品此刻正期待着你的欣赏与鼓励，速来为你喜爱的作品点赞吧。",
+                "img_url": "http://image.wufazhuce.com/FsTXxBC-jeLfzsGa8OkAABwBTxD2",
+                "like_count": 768,
+                "post_date": "2020-02-15 06:00:00",
+                "last_update_date": "2020-02-15 10:21:11",
+                "author": {
+                    "user_id": "5631435",
+                    "user_name": "ONE·一个 ",
+                    "desc": "ONE 是由韩寒监制的文艺生活应用，覆盖摄影、插画、小说、问答、音乐、电影等，精挑细选，每日更新。",
+                    "wb_name": "@一个App工作室",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "ONE·一个 是由韩寒监制的文艺生活应用",
+                    "fans_total": "5566",
+                    "web_url": "http://image.wufazhuce.com/FvSMJiVyijX8G4BFHwhvDprO5yvW"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4201",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4201",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4201",
+                    "image": "http://image.wufazhuce.com/FsTXxBC-jeLfzsGa8OkAABwBTxD2",
+                    "title": "「故事大爆炸」最受读者喜爱短篇作品票选活动 作者/ONE·一个 ",
+                    "content": "速来为你喜爱的作品点赞吧。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "故事大爆炸入围作品 | 「故事大爆炸」最受读者喜爱短篇作品票选活动",
+                        "desc": "文/ONE·一个  速来为你喜爱的作品点赞吧。",
+                        "link": "http://m.wufazhuce.com/article/4201?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "故事大爆炸入围作品 | 「故事大爆炸」最受读者喜爱短篇作品票选活动",
+                        "desc": "文/ONE·一个  速来为你喜爱的作品点赞吧。",
+                        "link": "http://m.wufazhuce.com/article/4201?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《故事大爆炸入围作品 | 「故事大爆炸」最受读者喜爱短篇作品票选活动》 文/ONE·一个 ： 速来为你喜爱的作品点赞吧。 阅读全文：http://m.wufazhuce.com/article/4201?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4201?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "「故事大爆炸」最受读者喜爱短篇作品票选活动",
+                        "desc": "速来为你喜爱的作品点赞吧。",
+                        "link": "http://m.wufazhuce.com/article/4201?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "45",
+                        "title": "故事大爆炸入围作品"
+                    }
+                ]
+            },
+            {
+                "id": "19791",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1104",
+                "title": "世界得了健忘症·第八章：暴力",
+                "forward": "母亲的呼号是沉默的暗示——不要等待什么。不要期待。不要期待任何人、任何民族、任何国家、任何主。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 911,
+                "post_date": "2020-02-15 06:00:00",
+                "last_update_date": "2020-02-14 18:31:51",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第8章",
+                "number": "8",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1104",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1104",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1104",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第八章：暴力 作者/昔央",
+                    "content": "不要期待。不要期待任何人、任何民族、任何国家、任何主。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第八章：暴力",
+                        "desc": "文/昔央 不要期待。不要期待任何人、任何民族、任何国家、任何主。",
+                        "link": "http://m.wufazhuce.com/serial/1104?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第八章：暴力",
+                        "desc": "文/昔央 不要期待。不要期待任何人、任何民族、任何国家、任何主。",
+                        "link": "http://m.wufazhuce.com/serial/1104?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第八章：暴力》 文/昔央： 不要期待。不要期待任何人、任何民族、任何国家、任何主。 阅读全文：http://m.wufazhuce.com/serial/1104?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1104?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第八章：暴力",
+                        "desc": "不要期待。不要期待任何人、任何民族、任何国家、任何主。",
+                        "link": "http://m.wufazhuce.com/serial/1104?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19804",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2757",
+                "title": "年轻人就该多吃苦吗？",
+                "forward": "“吃苦”无法让生活的底色变成彩色，但一定能让人拥有不畏惧艰辛生活的底气。",
+                "img_url": "http://image.wufazhuce.com/FkTYWiQtMkmQY14v-Nm6jqbLm3qi",
+                "like_count": 2891,
+                "post_date": "2020-02-15 06:00:00",
+                "last_update_date": "2020-02-14 13:06:57",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "花呗继承人",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2757",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2757",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2757",
+                    "image": "http://image.wufazhuce.com/FkTYWiQtMkmQY14v-Nm6jqbLm3qi",
+                    "title": "年轻人就该多吃苦吗？",
+                    "content": "年轻人就该多吃苦吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 年轻人就该多吃苦吗？",
+                        "desc": "文/不辣 年轻人能“耐住寂寞”，就是学会了自己和自己相处。",
+                        "link": "http://m.wufazhuce.com/question/2757?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 年轻人就该多吃苦吗？",
+                        "desc": "文/不辣 年轻人能“耐住寂寞”，就是学会了自己和自己相处。",
+                        "link": "http://m.wufazhuce.com/question/2757?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 年轻人就该多吃苦吗？》 文/不辣： 年轻人能“耐住寂寞”，就是学会了自己和自己相处。 阅读全文：http://m.wufazhuce.com/question/2757?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2757?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "年轻人就该多吃苦吗？",
+                        "desc": "年轻人能“耐住寂寞”，就是学会了自己和自己相处。",
+                        "link": "http://m.wufazhuce.com/question/2757?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10219",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                }
+            },
+            {
+                "id": "19805",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1953",
+                "title": "永远活在过去的男女",
+                "forward": "白日焰火，更像一段短暂而苍凉的青春岁月。",
+                "img_url": "http://image.wufazhuce.com/FjrFd88M-_VGFs9mUALuHOqIieBX",
+                "like_count": 1798,
+                "post_date": "2020-02-15 06:00:00",
+                "last_update_date": "2020-02-14 18:13:46",
+                "author": {
+                    "user_id": "10561604",
+                    "user_name": "蒋霖",
+                    "desc": "我也开始写小说啦。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "我也开始写小说啦。",
+                    "fans_total": "1071",
+                    "web_url": "http://image.wufazhuce.com/Ft9oSplyQ910WnaylG6p_SbJAjud"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "白日焰火",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4936",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1953",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1953",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1953",
+                    "image": "http://image.wufazhuce.com/FjrFd88M-_VGFs9mUALuHOqIieBX",
+                    "title": "「一个」电影: 白日焰火",
+                    "content": "只有在夜晚绽放，焰火才会释放出昙花一现般短暂的璀璨绚丽，白天燃放的焰火是苍白的，苍白的焰火划过天空，留下的更多是落寞和凄凉。而这样的焰火，像极了电影里吴志贞短暂而苍凉的青春岁月。吴志贞南方佳人的姣好容貌与她生活的匮乏贫瘠的东北城市是如此的格格不入。她出身寒微、可能也没有受过太好的教育，因此只能在一家干洗店做些简单无聊的工作。但，她一定也风光无限过，在结婚之前，她大概也众星捧月般享受着身边一众小伙儿甜蜜到烦恼的爱慕吧。最后，她被一名浓眉大眼身材魁梧的青年强劲持久的追求所打动，他叫梁志军，是一名普通的过磅员。他深深爱着她，这一点，她深信不疑。平静的夫妻生活因为一件被洗坏的皮草而被彻底打破。皮草主人开口索赔两万八，那是1999年，两万八是个不小的数目。吴志贞清楚地知道，这笔赔偿足以让自己的小家&ldquo;倾家荡产&rdquo;。她没有告诉丈夫梁志军，因为她知道一个过磅员在这件事上同样无能为力，大概她也不想给丈夫添麻烦。她决定用自己的方式解决这件事，她知道皮草主人到底想要什么。本以为皮草主人得到了自己就会善罢甘休，没想到这个无赖认准了吴志贞是软柿子，捏一下啃一口还不满足，还想来第二口第三口。吴志贞看似外表柔弱，却绝不任人欺辱，其实单听到这个名字就能感到三分硬气&mdash;&mdash;她一怒之下杀掉了皮草主人。这是影片故事的前奏，其实也是这部电影最后揭露的悬念。闯了祸之后，吴志贞生命中的三个男人陆续登场。丈夫梁志军想出了掉包计，既然只是一具尸体，谁知道死去的是谁呢，如果肢解后无法辨认的尸体上有自己的身份证明，那谁还会怀疑自己的妻子呢？梁志军就此成了一个&ldquo;活死人&rdquo;，他悄悄守护在&ldquo;守寡&rdquo;的妻子身边，除了在经济上帮扶妻子，还将追求吴志贞的男人一一杀掉。此时梁志军对妻子的爱已然变质为病态的占有欲，他没有在妻子最需要自己的时候出现（皮草主人敲诈吴志贞时），却从此成了吴志贞生活里阴魂不散的幽灵。洗衣店老板显然也喜欢吴志贞，在&ldquo;皮草索赔&rdquo;&ldquo;丈夫失踪&rdquo;的灾难陆续降临到吴志贞头上时，他没有抛弃店里这个笨手笨脚的漂亮打工妹。除了心生怜悯的良知，老板自然也想在这个女人身上占点&ldquo;便宜&rdquo;。而他之所以没有被梁志军铲除，影片中有暗示，这是一个身心不健全的男人，对于女人，他不具备真正的&ldquo;攻击性&rdquo;。第三个男人是张自力。廖凡饰演的张自力从一出场就散发着浓烈的荷尔蒙气息，这从与前妻分手前&ldquo;企图再来一次&rdquo;的蛮横中就暴露无遗。遇到吴志贞之前，张自力正遭遇着人生中婚姻和事业的双重失败，离婚，然后因为办案失利负伤，警察的身份也没了，只能在工厂保卫科&ldquo;吃闲饭&rdquo;。他接近吴志贞，原因并非一见钟情，而是为了引出梁志军，侦破围绕这个女人的连环杀人案，通过&ldquo;做点事&rdquo;为自己颓败的人生&ldquo;扳回一城&rdquo;。因为张自力对吴志贞的追逐，幽灵般守护妻子的梁志军很快就暴露了。吴志贞为了自保，不仅配合警察抓捕丈夫，而且将皮草主人的死也算在了丈夫头上。吴志贞背叛了守护自己的梁志军，看似无情，其实也有着深深的无奈。梁志军对自己的监视、以及身背一条人命的忧惧，就像两条锁链，把吴志贞缠绕得近乎窒息，这个绝望的女人，她试图来一次绝地反击。梁志军拒捕被击毙，连环杀人案就此告破，吴志贞似乎终于解脱了。而此时的张自力这才发现自己早已&ldquo;假戏真做&rdquo;被吴志贞深深迷住，但同时，皮草主人之死的疑点又让他欲罢不能将这件案子一查到底。五年来，这大概是吴志贞最轻松的一段时光，她终于可以心无挂碍地跟一个自己喜欢的男人约会了。她知道张自力知晓了真相，但她也相信张自力心里是有自己的，她主动投入了张自力的怀抱，希望以此来换取张自力为自己守口如瓶。一夜之欢后，两人一起在早餐店吃小笼包、喝小米粥，升腾的热气飘散在冬天早晨的阳光里，这是影片里最温馨的一幕，却不过是一对普通恋人的生活日常。吴志贞甚至涂上了口红，五年来，这个苍白柔弱的漂亮女孩终于流露出她妩媚动人的另一面。娇艳的红唇是对之前绝望岁月的一次告别，也是开启崭新生活的标志。她对张自力的暗示再明显不过，只要你肯为我保守秘密，我们就从此现世安稳地过日子。可是作为一个男人，尤其是张自力这样一个曾经做过警察的男人，尽管他也深深爱着吴志贞，但在感性与理性之间，在一个女人和自己的事业面前，他毫不犹豫选择了后者。从感情上讲，张自力背叛了吴志贞，从道义上讲，张自力做得毫无瑕疵。感情不分对错，爱一个人可以不在乎她的过去，但道义却不允许。&ldquo;出卖&rdquo;了吴志贞的张自力终于为自己的人生画上了浓墨重彩的一笔，庆功宴的全场恭维让他感到心虚。表面上，他协助警队破获大案，灰暗的人生似乎马上就要拨云见日。但内心里，他始终无法原谅自己的背叛。舞厅的排练场，张自力独自一人着了魔一般恣意狂舞。酒不醉人人自醉，从前的张自力喝大酒，是为了麻痹自己失败的人生，而如今，张自力恣意狂舞，则是为了宣泄内心的纠结。影片中有两个意味深长的意象，一个是居委会里被拾荒人撂下的一匹马，另一个就是最后张自力为吴志贞献上的那场白日焰火。马不该出现在城市里，它应该驰骋在辽阔的草原，所以我们才会说&ldquo;以梦为马&rdquo;，一匹马不幸被丢弃在城市里，那么除了被圈禁在动物园，似乎就只剩下刀俎鱼肉的厄运。电影中的几个主要人物，吴志贞、张自力、梁志军其实都是这样一匹深陷困境的马，东北大地虽然辽阔，但他们却无一不被圈禁在个体欲望和现实困境的逼仄空间里苦苦挣扎。可能从前他们都曾是野马，但人生中已没有任他们而驰骋的草原。影片结尾，张自力为重回故地配合警方取证的吴志贞献上了他承诺过的游乐场&ldquo;表演&rdquo;，一场白天燃放的焰火，苍凉的焰火，在张自力看来，是为即将入狱的吴志贞献上自己苍白无力的告白。我更愿意将此举理解为一个男人在为自己背叛感情的所作所为而&ldquo;赎罪&rdquo;，尽管这&ldquo;赎罪&rdquo;多少有些微不足道，但警车里的吴志贞还是双目泛潮有些感动，或许对一个即将失去自由的女人而言，男人的这点&ldquo;补偿&rdquo;虽然多少有些可笑，但还是聊胜于无吧。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 永远活在过去的男女",
+                        "desc": "文/蒋霖 爱你苍白，爱你软弱。",
+                        "link": "http://m.wufazhuce.com/movie/1953?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 永远活在过去的男女",
+                        "desc": "文/蒋霖 爱你苍白，爱你软弱。",
+                        "link": "http://m.wufazhuce.com/movie/1953?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 永远活在过去的男女》 文/蒋霖： 爱你苍白，爱你软弱。 阅读全文：http://m.wufazhuce.com/movie/1953?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1953?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "永远活在过去的男女",
+                        "desc": "爱你苍白，爱你软弱。",
+                        "link": "http://m.wufazhuce.com/movie/1953?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2688",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4195",
+                    "title": "她的自白书"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4201",
+                    "title": "「故事大爆炸」最受读者喜爱短篇作品票选活动",
+                    "tag": {
+                        "id": "45",
+                        "title": "故事大爆炸入围作品"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1104",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第八章：暴力"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2757",
+                    "title": "年轻人就该多吃苦吗？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1953",
+                    "title": "永远活在过去的男女"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

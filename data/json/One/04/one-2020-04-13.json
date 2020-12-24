@@ -1,0 +1,513 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5473",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-04-13 06:00:00",
+        "content_list": [
+            {
+                "id": "20166",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2787",
+                "title": "摄影",
+                "forward": "日出东海落西山，愁也一天，喜也一天。遇事不钻牛角尖，人也舒坦，心也舒坦。",
+                "img_url": "http://image.wufazhuce.com/FsOYG9e_lbkNGbklD4FpGcbprHPN",
+                "like_count": 24310,
+                "post_date": "2020-04-13 06:00:00",
+                "last_update_date": "2020-04-11 10:30:20",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2746",
+                "pic_info": "Nick Scheerbart",
+                "words_info": "赵朴初《宽心谣》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2787",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2787",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2787",
+                    "image": "http://image.wufazhuce.com/FsOYG9e_lbkNGbklD4FpGcbprHPN",
+                    "title": "VOL.2746",
+                    "content": "日出东海落西山，愁也一天，喜也一天。遇事不钻牛角尖，人也舒坦，心也舒坦。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2787?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2787?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 日出东海落西山，愁也一天，喜也一天。遇事不钻牛角尖，人也舒坦，心也舒坦。——赵朴初《宽心谣》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2787?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2787?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20164",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4275",
+                "title": "不要关灯",
+                "forward": "要是你让我开灯就好了。",
+                "img_url": "http://image.wufazhuce.com/FmX1KRLo4d3jyz3jZplfkk_Yd73I",
+                "like_count": 2384,
+                "post_date": "2020-04-13 06:00:00",
+                "last_update_date": "2020-04-12 19:57:13",
+                "author": {
+                    "user_id": "11270092",
+                    "user_name": "二树子",
+                    "desc": "业余写手，码字极慢，谢谢你愿意花时间看。",
+                    "wb_name": "@二树砸",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一事无成，擅长出卖自由。",
+                    "fans_total": "125",
+                    "web_url": "http://image.wufazhuce.com/FgBSMadoGOJFPWdLyG_8mG8tn3yC"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4275",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4275",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4275",
+                    "image": "http://image.wufazhuce.com/FmX1KRLo4d3jyz3jZplfkk_Yd73I",
+                    "title": "不要关灯 作者/二树子",
+                    "content": "她早就做好了准备，要一个人死守那个秘密。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 不要关灯",
+                        "desc": "文/二树子 她早就做好了准备，要一个人死守那个秘密。",
+                        "link": "http://m.wufazhuce.com/article/4275?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 不要关灯",
+                        "desc": "文/二树子 她早就做好了准备，要一个人死守那个秘密。",
+                        "link": "http://m.wufazhuce.com/article/4275?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 不要关灯》 文/二树子： 她早就做好了准备，要一个人死守那个秘密。 阅读全文：http://m.wufazhuce.com/article/4275?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4275?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "不要关灯",
+                        "desc": "她早就做好了准备，要一个人死守那个秘密。",
+                        "link": "http://m.wufazhuce.com/article/4275?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20134",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1156",
+                "title": "恶女阿尤·第十三章：大雪无痕",
+                "forward": "希望这个东西，说来也是奇怪，好像有时候越是渺小，反而越坚定。",
+                "img_url": "http://image.wufazhuce.com/FuWm2aUojqqcxK6Eb_y5JNUmFVp-",
+                "like_count": 884,
+                "post_date": "2020-04-13 06:00:00",
+                "last_update_date": "2020-04-07 16:49:40",
+                "author": {
+                    "user_id": "11135365",
+                    "user_name": "咸良",
+                    "desc": "91年生，看片多，读书少，热爱电影和足球，不打游戏不喝酒。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说新人，正尝试电影剧本创作。",
+                    "fans_total": "588",
+                    "web_url": "http://image.wufazhuce.com/FofYp0HTuyFcGlfuBP_qS85X81GI"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第13章",
+                "number": "13",
+                "serial_id": "81",
+                "serial_list": [
+                    "1131",
+                    "1133",
+                    "1135",
+                    "1138",
+                    "1139",
+                    "1142",
+                    "1144",
+                    "1146",
+                    "1148",
+                    "1150",
+                    "1151",
+                    "1154",
+                    "1156",
+                    "1158"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1156",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1156",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1156",
+                    "image": "http://image.wufazhuce.com/FuWm2aUojqqcxK6Eb_y5JNUmFVp-",
+                    "title": "恶女阿尤·第十三章：大雪无痕 作者/咸良",
+                    "content": "希望这个东西，说来也是奇怪，好像有时候越是渺小，反而越坚定。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 恶女阿尤·第十三章：大雪无痕",
+                        "desc": "文/咸良 希望这个东西，说来也是奇怪，好像有时候越是渺小，反而越坚定。",
+                        "link": "http://m.wufazhuce.com/serial/1156?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 恶女阿尤·第十三章：大雪无痕",
+                        "desc": "文/咸良 希望这个东西，说来也是奇怪，好像有时候越是渺小，反而越坚定。",
+                        "link": "http://m.wufazhuce.com/serial/1156?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 恶女阿尤·第十三章：大雪无痕》 文/咸良： 希望这个东西，说来也是奇怪，好像有时候越是渺小，反而越坚定。 阅读全文：http://m.wufazhuce.com/serial/1156?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1156?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "恶女阿尤·第十三章：大雪无痕",
+                        "desc": "希望这个东西，说来也是奇怪，好像有时候越是渺小，反而越坚定。",
+                        "link": "http://m.wufazhuce.com/serial/1156?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20162",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2816",
+                "title": "如何克制自己的攀比心理？",
+                "forward": "能决定你人生的，永远都不是别人的看法，而是你自己的。",
+                "img_url": "http://image.wufazhuce.com/Fp3DI2nEGNxLo779hEv-TW4vJPMz",
+                "like_count": 3331,
+                "post_date": "2020-04-13 06:00:00",
+                "last_update_date": "2020-04-12 19:47:37",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "只求胡把十三幺",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2816",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2816",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2816",
+                    "image": "http://image.wufazhuce.com/Fp3DI2nEGNxLo779hEv-TW4vJPMz",
+                    "title": "如何克制自己的攀比心理？",
+                    "content": "如何克制自己的攀比心理？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何克制自己的攀比心理？",
+                        "desc": "文/晔卡 这是一个容易传染的习惯。",
+                        "link": "http://m.wufazhuce.com/question/2816?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何克制自己的攀比心理？",
+                        "desc": "文/晔卡 这是一个容易传染的习惯。",
+                        "link": "http://m.wufazhuce.com/question/2816?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何克制自己的攀比心理？》 文/晔卡： 这是一个容易传染的习惯。 阅读全文：http://m.wufazhuce.com/question/2816?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2816?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何克制自己的攀比心理？",
+                        "desc": "这是一个容易传染的习惯。",
+                        "link": "http://m.wufazhuce.com/question/2816?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11135970",
+                    "user_name": "晔卡",
+                    "desc": "俄语初学者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "俄语初学者。",
+                    "fans_total": "1836",
+                    "web_url": "http://image.wufazhuce.com/FroXp7tN-9n3HDUdm1xBeAdwf091"
+                }
+            },
+            {
+                "id": "20160",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3239",
+                "title": "我最终选择放过自己，不再去找你",
+                "forward": "不是每样丢失的东西都需要找回，也不是每个弄丢的人都要挽留，有时候适当舍弃，也是一种幸福。",
+                "img_url": "http://image.wufazhuce.com/FullLYJ8U34fQmmT1Jm_-yqEF5Yc",
+                "like_count": 2783,
+                "post_date": "2020-04-13 06:00:00",
+                "last_update_date": "2020-04-13 10:28:18",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lkHOQ3gmm7AfD9ySn2kTVgcGVDXo",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "不找了",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3239",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3239",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3239",
+                    "image": "http://image.wufazhuce.com/FullLYJ8U34fQmmT1Jm_-yqEF5Yc",
+                    "title": "「一个」音乐: 姜乐辛 不找了",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.宋欣约我在&ldquo;橙佳&rdquo;见面，她说她在上海待不住了，想要回南京，陪在家人身边。我是在大学认识的宋欣，她是我当时在南京唯一的依靠。毕业后，我们先后来到上海闯荡，那时天真地以为我们能够在这座城市扎根，在这里拥有我们的一片天地。可日复一日烦躁的生活，使我们愈发想要逃离这。&ldquo;姜琳，这都过去三年了，你也是时候放下他，人总不能一味地生活在过去吧。&rdquo;宋欣口中的他，是陆童，是我曾经拼命爱过的人。我们相爱两年，原以为第三年的春节会见双方家长订婚，结果他在年前跟我提分手，说太累了，我们的差距太大，无论是交流还是三观和家庭都是如此。那时我太过于爱他，半分抱怨都没有，直接答应分手。他带给我的伤害，我在宋欣面前一展无遗，那段日子，要是没有宋欣，我大概也没法挺过来。过去的这些年，宋欣一直陪在我身边，最了解的人，也就只有她。&ldquo;你有没有想过，你在这为他守着，或许人家早就跟新欢有未来了。&rdquo;其实我早就没再对他有任何期待，我只是习惯一个人，习惯他还留在我心里。当你真正爱一个人时，你们之间拥有的那些美好回忆是会伴随你一生的，因为那都已经刻在脑海中，无法忘却。&nbsp;2.在认识陆童之前，我始终以为我是个坚强的女生，遇到任何事都能解决。但我似乎忘了，这世上最难解决的事就是感情，没有人可以处理好感情中的一切问题，如果有，那他一定被伤透了。送走宋欣后，我一个人去&ldquo;橙佳&rdquo;，这家承载着我所有回忆的餐厅，简单而又不失格调，加上老板的自来熟性格，这家生意向来很好。由于我们常到这，跟老板也熟络起来，经常碰一起聊聊天。那天我走进去点了份意面，习惯性坐在角落靠窗的位置，我想起以前，陆童经常带我来这。刚来上海的时候，我们因为合作项目相识，得知我也是实习生时，他提出交换联系方式，方便后期能够互相帮忙。陆童是个心思细腻的人，他在我的社交软件上了解到我爱吃意面，就特意带我来这家。他说这是他的宝藏店铺，价格不贵，味道还很好。实习期间，我们的工资都不高，但他每个月都会带我来一次这里，为了不让我买单，他总用自己吃饭太孤独为由，让我无法拒绝他。所以后来，我们形成一个默契的约定，他请我吃意面，我请他喝咖啡。这里更多时候像我们的秘密基地。后来我跟陆童闹再大的矛盾，我都会在这里待着，点份意面，坐在老位置上，看着外面的高楼。这个座位对我这种从小就缺乏安全感的人来说，再合适不过。我们将这称为我们的专属宝座，每次来都会坐这，若是有人，我们也会等。不知是吃意面吃出感情，还是我们原本就为了有感情而吃意面。相识半年多，正好碰上我生日，陆童一早就给我发信息，约我下班在&ldquo;橙佳&rdquo;见面。我没想到他竟然知道我生日，我走到位置上，看见周边摆满气球，桌上甚至放着我喜欢的满天星，各种颜色都有。他说他想和我同在这座城市打拼，争取有个属于我们的小家。我向来喜欢有上进心又温柔的男生，他正是如此。所以在面对他张开怀抱时，我别无拒绝的可能，我也想有个人可以爱，能够被人爱，被珍惜。谢谢你来到我身边，在我最需要你的时候。&nbsp;3.最初进入恋爱状态的我们，确确实实让身边好友都羡慕，没有争吵没有管束。他可以做任何他想做的事，我不会过多参与到他的生活中。对我来说，不一定时时刻刻都待在彼此身边才算真的爱。有些时候，适当地保持距离，反而会有种距离美，更珍惜对方。确定关系的我们，依旧各自住在原先的地方，谁都没提出同居。每天下班他会顺路送我到我家楼下，给我留有一个晚安吻，有时我们还会约着对方下楼去烧烤店吃烧烤，我喜欢烤馒头片，脆脆的口感，让我觉得满足。偶尔影院有新上映的电影，我们也会约着会看，手牵手走在上海路的街头，经常我看着他的侧影，有种这辈子就是他的错觉。我们是同行，很多时候工作和生活都是密不可分的，我们的聊天记录中，百分之八十都是聊工作，我不是很喜欢这点，哪怕我的工作也是我的爱好。在面对我跟陆童的这段感情，我其实更想理智一点，工作就是工作，生活就是生活。我希望在工作之余，作为恋人的我们能够好好相处，过好我们的二人世界。这点陆童似乎越来越难满足我，我说不出来是少了点什么，可我能感觉到，他的生活越发忙碌，我也是。只不过唯一不同的是，他的生活未曾考虑过我，但我未来的蓝图中，是有他的。这段平淡无奇的感情悄无声息地走过两年，他最终在我这耗尽所有的新鲜感，我对他来说已经是没有汁的水果，随时可以丢弃。两年的时间，他在我心中的份量比从前重很多，我拿他当结婚对象看，而他却没有，我甚至说不出来，我在他生命中究竟扮演着怎样的角色。我不敢想，也不愿意去想。如今我再坐在这，没有宋欣，也没有陆童。我想，此时的他们应该都在各自温暖的家中吧，我坐在这看着外面的霓虹闪烁，想起那些年的我们，其实也有过美好，只是后来，我们把对方弄丢了。那时候的我们多傲娇，总以为一切都不会变，谁都不会离开谁。彼此将爱情当作这个世界上最不珍贵的东西，所有坏脾气都留给对方，好脾气留给外人。他把他身上所有爱意都给我，我也将我所有温柔都给予他，我们爱得深沉，恨不得有两颗心，给他双份爱。关于他的一切都还刻在我脑海中，回忆像电影般，在我脑中一幕幕地过着。我心里会不自觉想着我们昨天还在一起，今天怎么就要分开，隐隐约约总有种怅然若失的感觉。但其实我们已经分开三年了，我们三年没见过面，没跟对方说过一句话，成为彼此生命中的路人。我无数次想要从朋友那打听他的消息，但都被拒绝，大家都刻意地想要我忘记他，可我爱了他那么久，哪有那么容易忘记。只是渐渐地，我将对他的爱放在心里，不提也不忘记。&nbsp;4.从前不喜欢参加朋友聚会的我，现在开始参加，朋友给我介绍男生，我也开始愿意去聊，去接触，试着了解。宋欣发小来上海时，她带着我一起去见。后来我们互相加了微信，他时常找我聊天，日常问候也都不会少。我试着打开自己，开始一段新的感情，找找新的人，所以面对他，我会刻意靠近，想让自己看起来不那么丧，给对方多点好感。正好他有段时间来上海出差，我们每晚都约在一起吃饭，饭局上聊着彼此的生活，在他离开上海的前两天，我们去迪士尼逛了一圈，拍不同照片。过去我一直封闭自己，那两天的我，脸上满是笑容。他临走给我发了条微信：琳琳，你一直隐藏自己，将自己包裹起来，这样你会很累的。这些天你不排斥和我相处，我也很开心，如果你愿意和我继续，那我也愿意，我没什么要求，只希望你能遵循你内心最真实的想法。我看着那几句话，想着我这些年的所有经历。我知道这个城市还是一如既往的寂寞，而我也知道，我的世界已经没有陆童了，我该试着往前走走，而不是一味留在原地。我开始出去旅游，去其他城市，其他国家，接触新的环境，看不同风景。最终我还是没接受宋欣的发小，或许等我彻底放下的那一天，我们还会相遇。若是不能相遇，那我们一定也都会再遇见彼此对的人。&nbsp;5.我对什么都不再满怀期待，只想顺着自己的心活在这个世界上，面对每段感情，每件事情。找不到的东西就不再继续找，而那属于我的爱情，我相信也终究会来到我身边。在此之前，我依旧向往恋爱。念旧的人不会快乐，而我想让自己快乐。不是每样丢失的东西都需要找回，也不是每个弄丢的人都要挽留，有时候适当舍弃，也是一种幸福。在没有任何圆满的生活中，你唯一能做的就是别丢了自己。别去找不快乐，你的快乐会回来的，慢慢等。你值得拥有最好的一切。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我最终选择放过自己，不再去找你",
+                        "desc": "文/姜乐辛 你大概也忘了，是你先说爱我的。",
+                        "link": "http://m.wufazhuce.com/music/3239?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我最终选择放过自己，不再去找你",
+                        "desc": "文/姜乐辛 你大概也忘了，是你先说爱我的。",
+                        "link": "http://m.wufazhuce.com/music/3239?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我最终选择放过自己，不再去找你》 文/姜乐辛： 你大概也忘了，是你先说爱我的。 阅读全文：http://m.wufazhuce.com/music/3239?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3239?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我最终选择放过自己，不再去找你",
+                        "desc": "你大概也忘了，是你先说爱我的。",
+                        "link": "http://m.wufazhuce.com/music/3239?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "不找了",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "郭旭",
+                "audio_album": "不找了",
+                "cover": "http://image.wufazhuce.com/Fnmxo52sQTiao1wa3y-xca6OXyMo",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2746",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4275",
+                    "title": "不要关灯"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1156",
+                    "serial_list": [
+                        "1131",
+                        "1133",
+                        "1135",
+                        "1138",
+                        "1139",
+                        "1142",
+                        "1144",
+                        "1146",
+                        "1148",
+                        "1150",
+                        "1151",
+                        "1154",
+                        "1156",
+                        "1158"
+                    ],
+                    "title": "恶女阿尤·第十三章：大雪无痕"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2816",
+                    "title": "如何克制自己的攀比心理？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3239",
+                    "title": "我最终选择放过自己，不再去找你"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,533 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5384",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-17 06:00:00",
+        "content_list": [
+            {
+                "id": "19637",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2698",
+                "title": "摄影",
+                "forward": "当我们正在为生活疲于奔命的时候，生活已经离我们远去。",
+                "img_url": "http://image.wufazhuce.com/FrQ4jbXIQTORgjCVnPqw_-ueEPDT",
+                "like_count": 15711,
+                "post_date": "2020-01-17 06:00:00",
+                "last_update_date": "2020-01-15 17:42:35",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2659",
+                "pic_info": "HASAN ZAHRA",
+                "words_info": "约翰·列侬",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2698",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2698",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2698",
+                    "image": "http://image.wufazhuce.com/FrQ4jbXIQTORgjCVnPqw_-ueEPDT",
+                    "title": "VOL.2659",
+                    "content": "当我们正在为生活疲于奔命的时候，生活已经离我们远去。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2698?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2698?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 当我们正在为生活疲于奔命的时候，生活已经离我们远去。——约翰·列侬 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2698?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2698?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19642",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4163",
+                "title": "诈欺师",
+                "forward": "你热爱的是你自己的艺术，还是艺术中的你自己？",
+                "img_url": "http://image.wufazhuce.com/Fha_xX6sRSvp8JgzSPjHNLxHT28m",
+                "like_count": 2936,
+                "post_date": "2020-01-17 06:00:00",
+                "last_update_date": "2020-01-17 11:58:09",
+                "author": {
+                    "user_id": "10962513",
+                    "user_name": "钱糖浆",
+                    "desc": "微信公众号：钱糖浆（ID：moneysyrup）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "北京大学创意写作硕士。",
+                    "fans_total": "148",
+                    "web_url": "http://image.wufazhuce.com/Fgxe6RaWVOLFszr71ox1hBa6C8rg"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4163",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4163",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4163",
+                    "image": "http://image.wufazhuce.com/Fha_xX6sRSvp8JgzSPjHNLxHT28m",
+                    "title": "诈欺师 作者/钱糖浆",
+                    "content": "你热爱的是你自己的艺术，还是艺术中的你自己？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 诈欺师",
+                        "desc": "文/钱糖浆 你热爱的是你自己的艺术，还是艺术中的你自己？",
+                        "link": "http://m.wufazhuce.com/article/4163?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 诈欺师",
+                        "desc": "文/钱糖浆 你热爱的是你自己的艺术，还是艺术中的你自己？",
+                        "link": "http://m.wufazhuce.com/article/4163?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 诈欺师》 文/钱糖浆： 你热爱的是你自己的艺术，还是艺术中的你自己？ 阅读全文：http://m.wufazhuce.com/article/4163?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4163?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "诈欺师",
+                        "desc": "你热爱的是你自己的艺术，还是艺术中的你自己？",
+                        "link": "http://m.wufazhuce.com/article/4163?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19566",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1080",
+                "title": "铃兰·第二十二章·如期而至的约定",
+                "forward": "约定如期而至，可一切似乎才刚刚开始。",
+                "img_url": "http://image.wufazhuce.com/FhUzMx5BP5ekE8TrnAPQ-NpRQ1Pf",
+                "like_count": 778,
+                "post_date": "2020-01-17 06:00:00",
+                "last_update_date": "2020-01-09 10:19:31",
+                "author": {
+                    "user_id": "10866249",
+                    "user_name": "夏阳",
+                    "desc": "小说作家，摇滚青年，久居北京，夜行动物。",
+                    "wb_name": "@ 夏阳Joker",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写小说的。",
+                    "fans_total": "1406",
+                    "web_url": "http://image.wufazhuce.com/FqaYtfVfdxDmpEumJZKSLQsaAdzB"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第22章",
+                "number": "22",
+                "serial_id": "77",
+                "serial_list": [
+                    "1038",
+                    "1040",
+                    "1041",
+                    "1044",
+                    "1045",
+                    "1046",
+                    "1049",
+                    "1052",
+                    "1053",
+                    "1054",
+                    "1056",
+                    "1063",
+                    "1064",
+                    "1065",
+                    "1066",
+                    "1067",
+                    "1068",
+                    "1069",
+                    "1075",
+                    "1076",
+                    "1077",
+                    "1080",
+                    "1081",
+                    "1082"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1080",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1080",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1080",
+                    "image": "http://image.wufazhuce.com/FhUzMx5BP5ekE8TrnAPQ-NpRQ1Pf",
+                    "title": "铃兰·第二十二章·如期而至的约定 作者/夏阳",
+                    "content": "约定如期而至，可一切似乎才刚刚开始。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 铃兰·第二十二章·如期而至的约定",
+                        "desc": "文/夏阳 约定如期而至，可一切似乎才刚刚开始。",
+                        "link": "http://m.wufazhuce.com/serial/1080?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 铃兰·第二十二章·如期而至的约定",
+                        "desc": "文/夏阳 约定如期而至，可一切似乎才刚刚开始。",
+                        "link": "http://m.wufazhuce.com/serial/1080?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 铃兰·第二十二章·如期而至的约定》 文/夏阳： 约定如期而至，可一切似乎才刚刚开始。 阅读全文：http://m.wufazhuce.com/serial/1080?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1080?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "铃兰·第二十二章·如期而至的约定",
+                        "desc": "约定如期而至，可一切似乎才刚刚开始。",
+                        "link": "http://m.wufazhuce.com/serial/1080?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19620",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2728",
+                "title": "人际交往有哪些雷区？ ",
+                "forward": "不让彼此感到尴尬，也是聊天中必备的一种素质。",
+                "img_url": "http://image.wufazhuce.com/Fp2LShMIPsiKBlTmaBjS_BkCvtwc",
+                "like_count": 3220,
+                "post_date": "2020-01-17 06:00:00",
+                "last_update_date": "2020-01-16 19:40:09",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "阳光森林",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2728",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2728",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2728",
+                    "image": "http://image.wufazhuce.com/Fp2LShMIPsiKBlTmaBjS_BkCvtwc",
+                    "title": "人际交往有哪些雷区？ ",
+                    "content": "人际交往有哪些雷区？ "
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 人际交往有哪些雷区？ ",
+                        "desc": "文/黄子京 当面一套，背后一套。",
+                        "link": "http://m.wufazhuce.com/question/2728?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 人际交往有哪些雷区？ ",
+                        "desc": "文/黄子京 当面一套，背后一套。",
+                        "link": "http://m.wufazhuce.com/question/2728?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 人际交往有哪些雷区？ 》 文/黄子京： 当面一套，背后一套。 阅读全文：http://m.wufazhuce.com/question/2728?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2728?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "人际交往有哪些雷区？ ",
+                        "desc": "当面一套，背后一套。",
+                        "link": "http://m.wufazhuce.com/question/2728?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9606198",
+                    "user_name": "黄子京",
+                    "desc": "作者、诗人。微信公众号：黄子京。",
+                    "wb_name": "@黄子京hzj",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者、诗人。微信公众号：黄子京。",
+                    "fans_total": "5327",
+                    "web_url": "http://image.wufazhuce.com/FgqaxpmefULlWSexRwIEJ9NcoaMf"
+                }
+            },
+            {
+                "id": "19593",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3186",
+                "title": "不怕路途煎熬，最后是你就好",
+                "forward": "后来我才明白，原来真正可以走到一起的人，哪怕经历再多，也会回到最初的地方，最初的我们身边。这世上不是所有的爱都会错过，有些爱，他经得起等待。",
+                "img_url": "http://image.wufazhuce.com/Fkhcoufi5Inv_NceHntBOWmDD6Fn",
+                "like_count": 3000,
+                "post_date": "2020-01-17 06:00:00",
+                "last_update_date": "2020-07-13 10:19:34",
+                "author": {
+                    "user_id": "11453488",
+                    "user_name": "余怀",
+                    "desc": "如若无光，就做自己的小太阳。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "如若无光，就做自己的小太阳。",
+                    "fans_total": "200",
+                    "web_url": "http://image.wufazhuce.com/FmnLXo6lCmc8eKmCLEC2mW7eEsGc"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/liCfYU1HFTXoofldTphe_PvP6WgT",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "Make It Right",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3186",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3186",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3186",
+                    "image": "http://image.wufazhuce.com/Fkhcoufi5Inv_NceHntBOWmDD6Fn",
+                    "title": "「一个」音乐: 余怀 Make It Right",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.上次见林凡还是在潇潇的婚礼上。大学毕业刚一年，潇潇跟她男朋友修成正果。作为潇潇的好友，我人生第一次穿上伴娘礼服，见证她的幸福。那天林凡来得很晚，我远远地就看见他的身影。一身休闲西装，棱角分明的脸庞，加上他一米八的身高，无论走到哪都格外引人注目。我跟林凡已经分手三年，这三年来，我们彼此都没再联系过。他的眼神朝我看来，我急忙躲闪。三年了，我承认，我仍然没法忘掉他。我以为时间会淡忘一切的，哪怕曾刻骨铭心。我想，可能是时间还不够长吧。&nbsp;2.&ldquo;实在不好意思，路上有点堵车。我的祝福虽然迟了点，但你们的幸福却是刚刚好。祝你们百年好合，早生贵子。&rdquo;林凡对着潇潇和她先生说。我曾幻想和林凡再次遇见的场景。是茫茫人海的大街，是转角的路口，或是街角的咖啡店，我甚至还憧憬过我们的婚礼。&ldquo;林凡来了，不打个招呼么？&rdquo;潇潇一脸坏笑。&ldquo;今天是你的大喜日子，怎么老操别人的心，这会就别想着八卦了。&rdquo;我笑了笑。&ldquo;这哪是八卦，婚姻大事呢，你可得想清楚。&rdquo;宴席我跟林凡坐到了同一桌，他刚好在我对面，同桌也都是高中的旧识。大家相谈甚欢却绝口不提我跟林凡。匆匆吃完饭，我跟潇潇告别，好不容易回来一趟，我得回家看看。&ldquo;你家不好打车，我送你吧。&rdquo;不知何时，林凡出现在我的身后。我心跳加速，&ldquo;好久不见&rdquo;没说出去，只说了句：&ldquo;好啊。&rdquo;曾经林凡说他要骑车带着我去远方，去哪不重要，重要的是我们在一起。我还是第一次坐上林凡的摩托车，没有双手环抱他腰间和依偎在他坚实后背的浪漫，我跟他保持了一段距离。&ldquo;坐好了。&rdquo;林凡轰了轰油门速度平稳地向前行驶着。一路上林凡好像有说不完的话，我们看起来很开心地聊着。为了表示感谢，我说：&ldquo;要不去我家喝口水再走吧。&rdquo;不知道为什么，我希望他会答应，哪怕只是再多说几句话。&ldquo;这样好么?&rdquo;林凡挠了挠头。&ldquo;放心吧，我爸妈有事不在家。&rdquo;说出这句话我脸刷一下就红了起来，哪怕我知道林凡懂我的意思。我打开电视给林凡倒了杯水，打开冰箱，我爸果然塞满了我喜欢吃的水果和零食。&ldquo;听说你考上研了，还没来得及恭喜你呢，祝贺啊，为你高兴。&rdquo;林凡喝了口水说。&ldquo;谢谢，你呢？现在做什么？&rdquo;&ldquo;在一家公司做运营。&rdquo;&ldquo;听说你跟何玲在一起了？&rdquo;&ldquo;你怎么知道？我们是在一起一段时间，不过我们已经分了。&rdquo;&ldquo;分了？&rdquo;何玲跟我们上同一所高中，长得好看，成绩也好。我和她是两种不同类型的女生，但我们都喜欢林凡。&ldquo;她觉得我们不合适，又不常在一起，所以就和平分手了。&rdquo;林凡表情淡定，像是叙述一件与他无关的事。或许得不到的永远是最好的，一旦得到，人们往往学不会珍惜，失去之后又开始后悔，世间之事莫不过如此循环往复。我之前听说他们在一起的消息后没有惊讶，只是觉得有一点失落。现在听到林凡说他们已经分手，心里不知为何还有点高兴。&ldquo;我也有了男朋友，是我读研的师哥。&rdquo;我故意说了我有男朋友的事想看看林凡什么反应，林凡很自然的表情中眼里闪过一丝忧伤。他也有一米八，温柔体贴，善解人意，像极了我刚认识的林凡。但这些林凡都不知道。林凡临走时说：&ldquo;我的号码没变，如果你有什么需要的话随时联系我。&rdquo;&ldquo;我都有男朋友了，以后还是别联系为好吧。&rdquo;我摇了摇头。我不知道下次再见林凡是什么时候，什么场景。也许很快就能见到，也许再也见不到吧。&nbsp;3.他知道我喜欢薰衣草，他说法国太远了，先陪我去伊犁。那年的情人节，我收到林凡的一朵红玫瑰。上书：&ldquo;玫瑰一朵，此心一颗,皆属于你。&rdquo;林凡不善言辞，更不会说什么情话，他更擅长用文字表达。他细心、体贴，正派却又不乏浪漫，满足了我对爱情的所有幻想。他给我写过一封长达一万字的情书，絮絮叨叨的文字里满是柔情。我们相隔异地，很久才能见一面。我开始向他抱怨，为什么别的女生有男朋友陪着一起吃饭，一起看电影，一起出去玩。而我，只能眼睁睁地看着她们长吁短叹。后来，他花费大量时间做兼职，时常很久才回我信息和电话。我问他，挣钱重要还是我重要。他在电话那头沉默了一会说：&ldquo;当然是你重要。&rdquo;大一那年暑假，林凡兴冲冲地来找我，说要带我去伊犁，我兴奋得紧紧抱住了林凡，喜极而泣，所有的委屈和心酸都消散不见。我那时才知道，原来他赚钱是为了带我去看薰衣草。我们坐了一天一夜的火车，匆匆一瞥车窗外的秀美河山，依偎在所爱之人的肩上。幸福，莫过于此。置身于广阔的薰衣草之间，微风拂面，宛如紫色的波浪层叠起伏，浓郁的香味扑鼻而来，那一刻，我感觉拥有了全世界。&ldquo;林凡，谢谢你，我很喜欢这。&rdquo;我认真的看着他。&ldquo;你喜欢的不是我吗？&rdquo;&ldquo;没见过还跟花吃醋的人，你放心，世界之大，我就偏爱你一人，这总行了吧。&rdquo;&ldquo;那还行，我不贪心，有你就够了。&rdquo;好景不长，从新疆回来后我们仍然没法解决异地恋所面临的种种问题，矛盾堆积，愈演愈烈。我们终究也还是没逃过异地恋的魔咒，大二就分手。我删除了林凡所有的联系方式，再没联系过，也没见过，直到三年后潇潇的婚礼。我想做一个敢爱敢恨的女子，可对于林凡，我根本找不到理由恨他。爱而不得，即不能恨，又没法忘掉，这样的人，前世一定是冤家。&nbsp;4.所以此次再见到林凡，我心中五味杂陈，但更多的还是久别重逢的欣喜。我研究生毕业后留在了上海，在一家上市公司任职，摸爬滚打事业渐有起色。此次上司安排我跟对方公司项目负责人对接，我暗下决心一定要圆满完成任务。我提前到机场准备迎接。航班到达后，乘客陆续出站。我拨通了对方的号码，看着手机屏幕，总觉得这个号码有些熟悉。&ldquo;喂，您好。&rdquo;&ldquo;您好，林总。我是来接您的小苏，我在出站口等您，您出站就能看见我。&rdquo;我抬起头，看见林凡嘴角上扬的弧度：&ldquo;叫我林凡吧。&rdquo;我差点惊掉了下巴。在那一刻，我开始相信。缘分，妙不可言。西装革履的林凡风度翩翩地走到我的面前：&ldquo;没想到贵公司竟然派你这位高材生来接机，人生真是处处有惊喜。&rdquo;&ldquo;怎么会是你？&rdquo;&ldquo;为什么不能是我呢？&rdquo;&ldquo;我来提行李箱吧。&rdquo;&ldquo;我什么时侯有让你替我拿过很重的东西么？&rdquo;我想了想，还真没有，从来都是林凡给我拿东西，大到行李箱，小到我的皮包。&ldquo;林总，酒店已经安排好了。我们直接去酒店吧，您这一路也辛苦了，今天好好休息，明天我再和您详谈此次项目的细节。&rdquo;&ldquo;没外人，就叫我林凡吧，你叫我林总，听着很别扭。&rdquo;&ldquo;好的，林总，林&hellip;&hellip;林凡。&rdquo;&ldquo;等会我们一起吃个晚餐吧，简单聊聊这次合作。&rdquo;&ldquo;好。&rdquo;林凡选了一家西餐厅，点完餐后，我们相视一笑。&ldquo;好久不见。&rdquo;&ldquo;好久不见，久到我都快把你给忘了。&rdquo;&ldquo;那我的记性可比你好，我没忘。&rdquo;&ldquo;你的电话号码一直没换吗？我刚才看着很眼熟。&rdquo;&ldquo;是一直没换，我怕某个人突然有事找不到我。只是这么些年她好像也没找过我，我耐不住了，只好主动过来找她。&rdquo;我愣了愣神，原来他这次是有备而来。他的脸比起之前多了些成熟和坚毅。我们多年没见，还是能感觉到那种亲切。他眼神里，仍然有着那份执着与真诚。&ldquo;谁有这么大魅力啊，能让你如此深情，真是令人羡慕。&rdquo;我笑了笑。&ldquo;海底月是天上月，眼前人是心上人。&rdquo;&nbsp;5.跟林凡上次分手后，我时常在夜深人静时躲在被窝里以泪洗面，很久才缓过来。我想，如果他主动联系我复合的话，我一定会答应的，但我始终没等到他的消息。林凡说，他只有两条路可以选，要么给我幸福，要么祝我幸福。可在无能为力的年纪，拿什么去给自己爱的人幸福呢？我们分手后，虽然不再联系，但他有一直在关注我的消息。这些年他很努力，从基层做到项目经理，他知道我在这家公司任职，所以主动争取了这个合作项目，想借机与我再次重逢。只是他没想到，公司会安排我对接这个项目。也许冥冥之中自有天意，但我也明白，所谓的巧合也不过是林凡的刻意选择。他没有放弃我，我终于知道，真正爱你的人，他会在再与你相逢的路上拼命奔跑，以最好的状态，出现在你面前。而我也是，我一直在等我的意中人，他不是盖世英雄，也不会踏着七彩祥云。我庆幸，我猜中了开头，也猜中了结局。有些人，生来就是命中注定。如果你足够坚持和勇敢，偏爱你的人一定不会轻易离开。所以这一次，我们不会再错过了。项目的细节很快就敲定，双方对此都很满意，总经理因此特批我一周的假。&ldquo;我们下周去一趟普罗旺斯吧，还真凑巧，正是薰衣草盛开的时节。&rdquo;林凡眉开眼笑，如初见他时那般灿烂温暖。&ldquo;好，我等这天很久了。&rdquo;&nbsp;我看着窗外灯火通明的大楼，第一次感觉有了温度。&nbsp;6.幸好最后，我们还是我们。也是后来，我才明白，原来真正可以走到一起的人，哪怕经历再多，也会回到最初的地方，最初的我们身边。这世上不是所有的爱都会错过，有些爱，他经得起等待。而你等来的，或许是你期待已久的。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 不怕路途煎熬，最后是你就好",
+                        "desc": "文/余怀 庆幸你还在，我也没离开。",
+                        "link": "http://m.wufazhuce.com/music/3186?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 不怕路途煎熬，最后是你就好",
+                        "desc": "文/余怀 庆幸你还在，我也没离开。",
+                        "link": "http://m.wufazhuce.com/music/3186?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 不怕路途煎熬，最后是你就好》 文/余怀： 庆幸你还在，我也没离开。 阅读全文：http://m.wufazhuce.com/music/3186?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3186?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "不怕路途煎熬，最后是你就好",
+                        "desc": "庆幸你还在，我也没离开。",
+                        "link": "http://m.wufazhuce.com/music/3186?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "Make It Right",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "Pearly Whites Music Machine",
+                "audio_album": "The Tribute Factory (Vol 39)",
+                "cover": "http://image.wufazhuce.com/FhYNWdJmqFGirHpk5FBsjrCpN6_Q",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2659",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4163",
+                    "title": "诈欺师"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1080",
+                    "serial_list": [
+                        "1038",
+                        "1040",
+                        "1041",
+                        "1044",
+                        "1045",
+                        "1046",
+                        "1049",
+                        "1052",
+                        "1053",
+                        "1054",
+                        "1056",
+                        "1063",
+                        "1064",
+                        "1065",
+                        "1066",
+                        "1067",
+                        "1068",
+                        "1069",
+                        "1075",
+                        "1076",
+                        "1077",
+                        "1080",
+                        "1081",
+                        "1082"
+                    ],
+                    "title": "铃兰·第二十二章·如期而至的约定"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2728",
+                    "title": "人际交往有哪些雷区？ "
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3186",
+                    "title": "不怕路途煎熬，最后是你就好"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

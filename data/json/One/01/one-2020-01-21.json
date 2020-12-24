@@ -1,0 +1,581 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5388",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-21 06:00:00",
+        "content_list": [
+            {
+                "id": "19658",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2711",
+                "title": "摄影",
+                "forward": "正因是不经意间说出的话，才带有真实的味道。",
+                "img_url": "http://image.wufazhuce.com/FoTB-jKwVaEToJnYB-69X0qwJ9jz",
+                "like_count": 19420,
+                "post_date": "2020-01-21 06:00:00",
+                "last_update_date": "2020-01-17 19:05:41",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2663",
+                "pic_info": "Alisa Anton",
+                "words_info": "太宰治",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2711",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2711",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2711",
+                    "image": "http://image.wufazhuce.com/FoTB-jKwVaEToJnYB-69X0qwJ9jz",
+                    "title": "VOL.2663",
+                    "content": "正因是不经意间说出的话，才带有真实的味道。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2711?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2711?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 正因是不经意间说出的话，才带有真实的味道。——太宰治 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2711?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2711?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19669",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4166",
+                "title": "一头羊对世界的观察",
+                "forward": "人一生说多少话，总有个限度，正如手机里的话费，说太多，就得欠费停机。",
+                "img_url": "http://image.wufazhuce.com/FkyaYpeeJDjBgcjgyqBAHxSPTZ6w",
+                "like_count": 2536,
+                "post_date": "2020-01-21 06:00:00",
+                "last_update_date": "2020-01-21 09:27:39",
+                "author": {
+                    "user_id": "10945099",
+                    "user_name": "周文正",
+                    "desc": "青年作者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者。",
+                    "fans_total": "131",
+                    "web_url": "http://image.wufazhuce.com/FszSBw5ijaT2fMYsPm0FMNiP2qoy"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4166",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4166",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4166",
+                    "image": "http://image.wufazhuce.com/FkyaYpeeJDjBgcjgyqBAHxSPTZ6w",
+                    "title": "一头羊对世界的观察 作者/周文正",
+                    "content": "三天不打，上房揭瓦，该收拾。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 一头羊对世界的观察",
+                        "desc": "文/周文正 三天不打，上房揭瓦，该收拾。",
+                        "link": "http://m.wufazhuce.com/article/4166?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 一头羊对世界的观察",
+                        "desc": "文/周文正 三天不打，上房揭瓦，该收拾。",
+                        "link": "http://m.wufazhuce.com/article/4166?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 一头羊对世界的观察》 文/周文正： 三天不打，上房揭瓦，该收拾。 阅读全文：http://m.wufazhuce.com/article/4166?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4166?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一头羊对世界的观察",
+                        "desc": "三天不打，上房揭瓦，该收拾。",
+                        "link": "http://m.wufazhuce.com/article/4166?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19584",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1084",
+                "title": "魔都春梦·第十六章：魔鬼你好",
+                "forward": "人不应与魔鬼对立，或世间根本就没有魔鬼，只有你自己，需要被耳光抽醒。",
+                "img_url": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                "like_count": 882,
+                "post_date": "2020-01-21 06:00:00",
+                "last_update_date": "2020-04-07 16:52:24",
+                "author": {
+                    "user_id": "4813463",
+                    "user_name": "老王子",
+                    "desc": "小说家，诗人。@新老王子",
+                    "wb_name": "@新老王子",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，诗人。@新老王子",
+                    "fans_total": "5145",
+                    "web_url": "http://image.wufazhuce.com/FgegDExkkeP8izCd3fkGKRwoyKiS"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第16章",
+                "number": "16",
+                "serial_id": "78",
+                "serial_list": [
+                    "1055",
+                    "1059",
+                    "1057",
+                    "1058",
+                    "1060",
+                    "1061",
+                    "1062",
+                    "1070",
+                    "1071",
+                    "1072",
+                    "1073",
+                    "1074",
+                    "1078",
+                    "1079",
+                    "1083",
+                    "1084",
+                    "1085",
+                    "1086",
+                    "1087"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1084",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1084",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1084",
+                    "image": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                    "title": "魔都春梦·第十六章：魔鬼你好 作者/老王子",
+                    "content": "人不应与魔鬼对立，或世间根本就没有魔鬼，只有你自己，需要被耳光抽醒。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 魔都春梦·第十六章：魔鬼你好",
+                        "desc": "文/老王子 人不应与魔鬼对立，或世间根本就没有魔鬼，只有你自己，需要被耳光抽醒。",
+                        "link": "http://m.wufazhuce.com/serial/1084?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 魔都春梦·第十六章：魔鬼你好",
+                        "desc": "文/老王子 人不应与魔鬼对立，或世间根本就没有魔鬼，只有你自己，需要被耳光抽醒。",
+                        "link": "http://m.wufazhuce.com/serial/1084?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 魔都春梦·第十六章：魔鬼你好》 文/老王子： 人不应与魔鬼对立，或世间根本就没有魔鬼，只有你自己，需要被耳光抽醒。 阅读全文：http://m.wufazhuce.com/serial/1084?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1084?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "魔都春梦·第十六章：魔鬼你好",
+                        "desc": "人不应与魔鬼对立，或世间根本就没有魔鬼，只有你自己，需要被耳光抽醒。",
+                        "link": "http://m.wufazhuce.com/serial/1084?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19670",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2732",
+                "title": "怎样成为一个有主见的人？",
+                "forward": "成为一个有主见的人，并不是为了去争论，辩驳，也不是为了凌驾于他人之上，而是为了给自己立一个思想标杆，成为更完整的自己。",
+                "img_url": "http://image.wufazhuce.com/Fsc5pezoXG0K5_keR2TVq5ya7Mcc",
+                "like_count": 3334,
+                "post_date": "2020-01-21 06:00:00",
+                "last_update_date": "2020-01-20 15:21:59",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "约瑟的外衣",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2732",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2732",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2732",
+                    "image": "http://image.wufazhuce.com/Fsc5pezoXG0K5_keR2TVq5ya7Mcc",
+                    "title": "怎样成为一个有主见的人？",
+                    "content": "怎样成为一个有主见的人？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎样成为一个有主见的人？",
+                        "desc": "文/林庭 每一次表达都是一次自我拯救。 ",
+                        "link": "http://m.wufazhuce.com/question/2732?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎样成为一个有主见的人？",
+                        "desc": "文/林庭 每一次表达都是一次自我拯救。 ",
+                        "link": "http://m.wufazhuce.com/question/2732?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎样成为一个有主见的人？》 文/林庭： 每一次表达都是一次自我拯救。  阅读全文：http://m.wufazhuce.com/question/2732?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2732?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎样成为一个有主见的人？",
+                        "desc": "每一次表达都是一次自我拯救。 ",
+                        "link": "http://m.wufazhuce.com/question/2732?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "19668",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1942",
+                "title": "人生难免迷茫，所幸偶有微光",
+                "forward": "那些义无反顾，铺就了成长的路。",
+                "img_url": "http://image.wufazhuce.com/Fvwcc4lvnJ0n1WdoQCfqnN_VV2t4",
+                "like_count": 2524,
+                "post_date": "2020-01-21 06:00:00",
+                "last_update_date": "2020-01-20 17:43:08",
+                "author": {
+                    "user_id": "10732636",
+                    "user_name": "鸭先知",
+                    "desc": "摄影/影评",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "鸭先知",
+                    "fans_total": "454",
+                    "web_url": "http://image.wufazhuce.com/Fgmcu9RVWm-i4Z0yeojkCsHfrYv5"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "蜂鸟",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4925",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1942",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1942",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1942",
+                    "image": "http://image.wufazhuce.com/Fvwcc4lvnJ0n1WdoQCfqnN_VV2t4",
+                    "title": "「一个」电影: 蜂鸟",
+                    "content": "今年青龙奖上，奉俊昊的《寄生虫》成为最大赢家，但不少人的目光都被另一部青春片所吸引，不仅抢走了最佳剧本大奖，而且被很多人称为青春版《杀人回忆》，这部电影，就是《蜂鸟》。值得一提的是，《蜂鸟》出自年仅28岁的新人女导演金宝拉之手，这也是她的首部长篇电影，实属韩影中罕见的女性视角。它讲述了一个青春期少女的故事，但又不完全是少女的故事。青春期的迷茫感，被片中的每一段人物关系、每一件事情折射了出来，也隐隐为我们揭示了一个共性：因为懵懂迷茫，似乎每个人的青春都夹杂着一种潮湿晦涩的气味。&nbsp;01飘忽又执拗的少年时代电影第一场戏可以说是建立了摄影机与恩熙之间的亲密的关系：恩熙在家门口按门铃，久久没人应答，她突然急躁地拽动门把手，嘴里大喊着让妈妈开门，喊了半天，屋子里仍然没有动静。就在她快要哭出来的时候，镜头上移，给到了门牌号&mdash;&mdash;902。接着恩熙低着头上楼走到了1002的门口按下了门铃，妈妈出来把她迎进了家门。可什么情况下一个人会全然不知地走错楼层按错门铃呢？按着按着自己还急眼了，差点跟门把手干起来，这一切都暗示了恩熙的心不在焉。而妈妈不开门，她的情绪反应如此之大，也从某种程度反映了恩熙家庭安全感的缺失&mdash;&mdash;她和家里人的关系其实并不亲近，至少在她心里并不亲近。随后镜头的拉升也营造了一种疏离感。这是一个情绪很足的片段，也是这部电影的一大特色&mdash;&mdash;整部电影都弥漫着一种疏离、克制、感伤的情绪。就摄影机运动和景别而言，导演和摄影师跟拍恩熙的脸、情绪和身体运动，他们试图用这样一种诚实的语言建构摄影机在这个影像世界里的存在方式。金宝拉说：&nbsp;恩熙看待生活的方式是我们的意图，因为这是一部写实的电影，所以我们在镜头语言上尽己所能地诚实，我们不想为了时髦而拉近或推进摄影机。我们想聚焦在情绪上。我们必须就摄影机移动与否做好决定，每个决定都是慎重的，我们的直觉告诉我们何时该移动。我很高兴我和我的摄影指导都有很好的直觉。整个故事就在这冰凉的距离感中开始了。恩熙是一个平凡的初二女生，和爸爸、妈妈、哥哥、姐姐一同生活。对她来说，学习是无聊的事情，她最爱的事情是画漫画。在学校，同学在背后偷偷议论她，嘲笑她成绩差，老师也因为成绩问题不喜欢她。上学唯一的开心事，就是可以放学和喜欢的男孩一起牵手回家。学校生活不怎么样，而回到家更是比在学校还压抑。在家里，重男轻女的父母不把她看在眼里。就连她被哥哥揍，妈妈说的也是：&ldquo;今后你们不要再打架了。&rdquo;生生地把其实是哥哥一个人的过错归结为两个人。在后来恩熙和朋友的话语里我们得知，在那个年代的韩国，经常会有女孩遭到殴打的情况发生，重男轻女思想非常普遍。在这样一个压抑的家庭和学校中成长生活，又怎么可能快乐呢？恩熙的选角花了三年的时间，金宝拉一度担心找不到合适的演员，在开拍那年，金宝拉遇见了这个女孩&mdash;&mdash;恩熙的扮演者智厚，来自一个普通的小城市，在当时她甚至没有经纪人。所幸没有让人失望，智厚悟性极高，金宝拉称她们的合作是一次极其幸福的相遇。&nbsp;02理想世界的下坠和堕落人是在瞬间成长的，那些个成长的瞬间或许就是我们的理想世界下坠的瞬间，是心里的光灭了的那一瞬间。恩熙的光是什么时候灭的呢？或许是见到男友追着另一个女孩嬉戏打闹的瞬间。或许是一学期之后，曾经对自己掏心掏肺的学妹扭头不见，告诉自己：&ldquo;喜欢你是上个学期的事情了。&rdquo;或许是和闺蜜在超市偷东西被抓住后，好友转头就出卖自己时刻。又或是在店主打电话给父亲时，父亲让店主直接把自己送去警察局。甚至在恩熙告诉母亲，耳下长了肿块时，母亲的回答也是没空陪她，让她一个人去医院看病。后来她因为肿块动手术住院，说觉得医院比家里舒服，因为当她生病了，她才能感受到父母对她的爱。即便是以病痛换来的爱，对恩熙来说也是恩赐。种种都让恩熙不明白，她不明白男朋友为什么会不断地喜欢别人，不明白说喜欢自己的学妹为什么转头就抛弃自己，不明白闺蜜为什么会出卖自己，不明白父母为何不惩罚殴打自己的哥哥。她的世界不断倒塌又重建。电影淡淡地叙述这些彷徨、不安、迷茫、愤怒、悲伤，叙述着那些我们内心兵荒马乱的时刻，诉说着那些成长的阵痛。当这些情绪涌来的时候，世界好像也没有什么不同。当你平静接受这一点时，你就长大了。&nbsp;03要怎么活着才是正确的呢在恩熙最无助的时候，新来的补习班老师金英智带给了她一线光明。谈到英智这一角色的时候，金宝拉坦言是受到黑塞小说的启发。英智和黑塞的小说《漂泊的灵魂》中主角克努尔普十分相像。某种意义上说，他们都是不遵循社会规则和标准的人。他们不遵守社会规则，但同时又不会批评那些循规蹈矩的人。某天在补习班二楼拐角处，恩熙看到了站在窗口抽烟的英智，那时候她还不知道这是新来的中文老师，但已经对她产生好奇感了。之后两人之间的关系更是十分微妙，恩淑把英智当成自己精神导师，而英智也在恩淑身上看到了曾经的自己。每当恩熙受了委屈，英智总会陪在她身边，看她哭泣，听她倾诉，教给她许多人生道理。是英智告诉恩熙，世界上认识的人很多，但可与言者无二三。孤独是人生的常态。是英智告诉恩熙，不能屈服于哥哥的暴力，要学会反抗。也是英智让恩熙开始相信，即使对人生再无能为力的时刻，也要相信希望，难过的时候就看看手指，只要手指还能动弹，人生就有回转的余地。可恩熙没想到，有一天她最敬爱的老师也离她而去了。在大桥坍塌的事件中，英智不幸身亡，从今往后的路，她要一个人走了。末尾英智在给恩熙的信里写道：&nbsp;要怎么活着才是正确的呢？就算有一天知道了，也可能还是无法确信，但是就算坏事降临，快乐的事情也会一起到来，我们总是会遇见一些人，分享一些事，世界真是神奇又美丽。老师的离去似乎也在提醒着我们：人生的路终究是独行，能够陪伴一程已是幸运。在电影极淡的表象之下，我们可以感受到生活的本质之痛。青春的表象给它蒙上了一层柔和的薄纱，却难掩人生普遍的痛和迷茫。青春少女的视角，将这种疼痛放大，我们误以为某个人某件事可以填补生命的这道伤口，而正是在这样的误解里，正常生活才得以维系。但其实没有解药，即使生活平静如常，它依然是千疮百孔的。但所幸的是偶有微光，那些光芒一点点汇聚、变大，最终越来越闪耀，成为我们的动力和勇气。就像英智之于恩熙，虽短暂相遇，却给恩熙带来真正的爱和认同。周国平先生说：&nbsp;一切终将黯淡，惟有被爱的目光镀过金的日子在岁月的深谷里永远闪着光芒。那些日子会永远闪着光，并且越来越亮。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 人生难免迷茫，所幸偶有微光",
+                        "desc": "文/鸭先知 那些义无反顾，铺就了成长的路。",
+                        "link": "http://m.wufazhuce.com/movie/1942?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 人生难免迷茫，所幸偶有微光",
+                        "desc": "文/鸭先知 那些义无反顾，铺就了成长的路。",
+                        "link": "http://m.wufazhuce.com/movie/1942?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 人生难免迷茫，所幸偶有微光》 文/鸭先知： 那些义无反顾，铺就了成长的路。 阅读全文：http://m.wufazhuce.com/movie/1942?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1942?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "人生难免迷茫，所幸偶有微光",
+                        "desc": "那些义无反顾，铺就了成长的路。",
+                        "link": "http://m.wufazhuce.com/movie/1942?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19585",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3034",
+                "title": "水瓶座，如果你喜欢怪人其实我很美",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FvigmQLx7uZVwx628a-ujwfhFoy2?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1650,
+                "post_date": "2020-01-21 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹、吴梦婉",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3034",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3034",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 水瓶座，如果你喜欢怪人其实我很美",
+                        "desc": "水瓶座的书影音清单，请查收",
+                        "link": "http://m.wufazhuce.com/radio/3034?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ljdkFjqWHlW3E5MIGUDzG3-qEZi9"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 水瓶座，如果你喜欢怪人其实我很美",
+                        "desc": "水瓶座的书影音清单，请查收",
+                        "link": "http://m.wufazhuce.com/radio/3034?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ljdkFjqWHlW3E5MIGUDzG3-qEZi9"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 水瓶座，如果你喜欢怪人其实我很美》 主播/李荟莹等二位： 水瓶座的书影音清单，请查收 阅读全文：http://m.wufazhuce.com/radio/3034?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3034?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/ljdkFjqWHlW3E5MIGUDzG3-qEZi9"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "水瓶座，如果你喜欢怪人其实我很美",
+                        "link": "http://m.wufazhuce.com/radio/3034?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ljdkFjqWHlW3E5MIGUDzG3-qEZi9"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 763 期",
+                "audio_url": "http://music.wufazhuce.com/ljdkFjqWHlW3E5MIGUDzG3-qEZi9"
+            }
+        ],
+        "menu": {
+            "vol": "2663",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4166",
+                    "title": "一头羊对世界的观察"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1084",
+                    "serial_list": [
+                        "1055",
+                        "1059",
+                        "1057",
+                        "1058",
+                        "1060",
+                        "1061",
+                        "1062",
+                        "1070",
+                        "1071",
+                        "1072",
+                        "1073",
+                        "1074",
+                        "1078",
+                        "1079",
+                        "1083",
+                        "1084",
+                        "1085",
+                        "1086",
+                        "1087"
+                    ],
+                    "title": "魔都春梦·第十六章：魔鬼你好"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2732",
+                    "title": "怎样成为一个有主见的人？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1942",
+                    "title": "人生难免迷茫，所幸偶有微光"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3034",
+                    "title": "水瓶座，如果你喜欢怪人其实我很美"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

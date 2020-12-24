@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5501",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-05-14 06:00:00",
+        "content_list": [
+            {
+                "id": "20335",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2818",
+                "title": "摄影",
+                "forward": "人的一生，除了要面对无常带来的跌宕，还有贯穿在其中的平淡和琐碎。",
+                "img_url": "http://image.wufazhuce.com/FoP1DPIPXGStLFj88Vw76kNW1RaQ",
+                "like_count": 16522,
+                "post_date": "2020-05-14 06:00:00",
+                "last_update_date": "2020-05-11 10:29:24",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2777",
+                "pic_info": "Aron Visuals",
+                "words_info": "《海街日记》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2818",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2818",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2818",
+                    "image": "http://image.wufazhuce.com/FoP1DPIPXGStLFj88Vw76kNW1RaQ",
+                    "title": "VOL.2777",
+                    "content": "人的一生，除了要面对无常带来的跌宕，还有贯穿在其中的平淡和琐碎。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2818?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2818?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人的一生，除了要面对无常带来的跌宕，还有贯穿在其中的平淡和琐碎。——《海街日记》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2818?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2818?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20346",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4314",
+                "title": "我真的了解你吗？",
+                "forward": "不被了解导致爱情淤塞，无法沟通，甚至感觉这份爱都好像不是真正在爱我，或者你爱的不是真正的我，你也没有真的爱到我。",
+                "img_url": "http://image.wufazhuce.com/FkyC_bjaDD4ZO_Iu6rj6woIW-Ge9",
+                "like_count": 2546,
+                "post_date": "2020-05-14 06:00:00",
+                "last_update_date": "2020-05-13 17:28:42",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4314",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4314",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4314",
+                    "image": "http://image.wufazhuce.com/FkyC_bjaDD4ZO_Iu6rj6woIW-Ge9",
+                    "title": "我真的了解你吗？ 作者/陈雪",
+                    "content": "你是我要用一生来读懂的书。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 我真的了解你吗？",
+                        "desc": "文/陈雪 你是我要用一生来读懂的书。",
+                        "link": "http://m.wufazhuce.com/article/4314?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 我真的了解你吗？",
+                        "desc": "文/陈雪 你是我要用一生来读懂的书。",
+                        "link": "http://m.wufazhuce.com/article/4314?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 我真的了解你吗？》 文/陈雪： 你是我要用一生来读懂的书。 阅读全文：http://m.wufazhuce.com/article/4314?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4314?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我真的了解你吗？",
+                        "desc": "你是我要用一生来读懂的书。",
+                        "link": "http://m.wufazhuce.com/article/4314?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20349",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1181",
+                "title": "分手遗迹清理员：伞是雨中的晴天·第五章",
+                "forward": "分手就是分手，我们只是68%的一分子而已。爱情通常费效比最差，但婚姻可以变成回报率极高的投资。这就是双赢。",
+                "img_url": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                "like_count": 746,
+                "post_date": "2020-05-14 06:00:00",
+                "last_update_date": "2020-05-11 16:51:46",
+                "author": {
+                    "user_id": "10730599",
+                    "user_name": "城迟",
+                    "desc": "人生前半场周转于互联网公司，凡客T恤事业部总监，乐视影业IP衍生部负责人。36岁出版代表作《我和这个世界不熟》，上市三天，冲进当当畅销榜前十。被阿耐、路内等著名作家推荐。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，代表作《我和这个世界不熟》。",
+                    "fans_total": "1326",
+                    "web_url": "http://image.wufazhuce.com/FiR3WpirjtIX3_RL6eZGxew_la3R"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第9章",
+                "number": "9",
+                "serial_id": "84",
+                "serial_list": [
+                    "1164",
+                    "1165",
+                    "1166",
+                    "1168",
+                    "1171",
+                    "1172",
+                    "1178",
+                    "1179",
+                    "1181",
+                    "1183",
+                    "1184",
+                    "1187",
+                    "1189",
+                    "1190",
+                    "1194",
+                    "1196",
+                    "1199",
+                    "1201",
+                    "1203",
+                    "1206",
+                    "1207",
+                    "1209"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1181",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1181",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1181",
+                    "image": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                    "title": "分手遗迹清理员：伞是雨中的晴天·第五章 作者/城迟",
+                    "content": "在黑暗中待了太久，希望哪怕再小，也是曙光。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 分手遗迹清理员：伞是雨中的晴天·第五章",
+                        "desc": "文/城迟 在黑暗中待了太久，希望哪怕再小，也是曙光。",
+                        "link": "http://m.wufazhuce.com/serial/1181?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 分手遗迹清理员：伞是雨中的晴天·第五章",
+                        "desc": "文/城迟 在黑暗中待了太久，希望哪怕再小，也是曙光。",
+                        "link": "http://m.wufazhuce.com/serial/1181?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 分手遗迹清理员：伞是雨中的晴天·第五章》 文/城迟： 在黑暗中待了太久，希望哪怕再小，也是曙光。 阅读全文：http://m.wufazhuce.com/serial/1181?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1181?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "分手遗迹清理员：伞是雨中的晴天·第五章",
+                        "desc": "在黑暗中待了太久，希望哪怕再小，也是曙光。",
+                        "link": "http://m.wufazhuce.com/serial/1181?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20359",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2847",
+                "title": "你心目中完美的周末是怎样的？",
+                "forward": "躺一天，吃一天。",
+                "img_url": "http://image.wufazhuce.com/Fuu6AAeK2wOVOTn3FWmyeFBBs4Gp",
+                "like_count": 2159,
+                "post_date": "2020-05-14 06:00:00",
+                "last_update_date": "2020-05-13 17:46:33",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2847",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2847",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2847",
+                    "image": "http://image.wufazhuce.com/Fuu6AAeK2wOVOTn3FWmyeFBBs4Gp",
+                    "title": "你心目中完美的周末是怎样的？",
+                    "content": "你心目中完美的周末是怎样的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你心目中完美的周末是怎样的？",
+                        "desc": "文/网友 躺一天，吃一天。",
+                        "link": "http://m.wufazhuce.com/question/2847?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你心目中完美的周末是怎样的？",
+                        "desc": "文/网友 躺一天，吃一天。",
+                        "link": "http://m.wufazhuce.com/question/2847?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你心目中完美的周末是怎样的？》 文/网友： 躺一天，吃一天。 阅读全文：http://m.wufazhuce.com/question/2847?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2847?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你心目中完美的周末是怎样的？",
+                        "desc": "躺一天，吃一天。",
+                        "link": "http://m.wufazhuce.com/question/2847?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20326",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1994",
+                "title": "我多想，在平日里随时拥抱你",
+                "forward": "用力去爱，去牵手，去拥抱，去亲吻，去见想见的人。岁月易流逝，别再轻易错过。",
+                "img_url": "http://image.wufazhuce.com/Fucri_JTQPTIIOYcwUpOQ86NQUeL",
+                "like_count": 3360,
+                "post_date": "2020-05-14 06:00:00",
+                "last_update_date": "2020-05-13 17:27:25",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "五尺天涯",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4977",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1994",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1994",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1994",
+                    "image": "http://image.wufazhuce.com/Fucri_JTQPTIIOYcwUpOQ86NQUeL",
+                    "title": "「一个」电影: 五尺天涯",
+                    "content": "昨夜暴雨，窗外两棵树不停摇晃，触碰，又分开，落叶不停。最后雨停，它们回归了正常距离，看起来大约有六尺远。六尺的距离有多远？换算成熟悉的计量单位，大约是两米的距离。&nbsp;两米的距离有多远呢？大约，是两三步之遥，是你与陌生人的安全距离，是你与爱人相处时稍显疏离的距离。但对于一部分人来说，这就是与朋友和爱人最亲密的距离了。由美国知名女博主克莱尔为原型改编的电影《五尺天涯》，讲述的就是一个因双方患有基因疾病，不得不在六尺距离规则下进行的爱情故事。女孩不过十七岁，但整个人生却已经被一种囊性纤维化疾病困扰很久了。在治疗的过程中，她爱上了另一个同样患此疾病的男孩。他们互相爱慕，却为了避免交叉感染，必须保持六尺的距离。这种距离永远无法消弭，就像那雨夜短暂碰触过的两棵树。距离止步于此，但爱情未曾就此止步。所以，这注定了是一个充满遗憾与悲伤的青春爱情故事。&nbsp;1电影在三个女孩试穿衣服中开始，好朋友要去旅行，主人公斯黛拉因为疾病的原因无法同往。但整个气氛并没有充满压抑，她们开玩笑，很快拥抱，道别，你甚至无法看出斯黛拉是一位身患绝症的女孩。但在朋友离开后，她的笑容还是瞬间垮掉，深吸一口气，仿佛终于卸掉面具，重新回到自己的世界。但斯黛拉不是一个悲观的女孩子，她常常直播，跟大家讲述囊肿性纤维化疾病患者的日常，讲述那些食物与药品怎样通过胃管进入身体，她与护士亲密互动，就算面对满满药物也未曾表现出厌恶。她让人觉得，一切都是理所应当。她会问护士&ldquo;没有你我要怎么办&rdquo;，护士笑着回她&ldquo;你会死&rdquo;。两人哈哈大笑的同时，还是难免掺杂着些许生命的悲哀。这就是现实。电影的开篇无疑颠覆了人们对于绝症患者的认知，她们与死神无比接近，却更知道怎样享受生活。不仅如此，斯黛拉还有些强迫症，她喜欢写任务清单，喜欢把所有药品摆放整齐。她学编程，学法语，对待治疗一丝不苟。她总会路过好朋友波的房间去楼上看新生儿，也就是那次，威尔跟了上去。威尔同样是个囊性纤维化患者，正在参加临床药物试验，只是他所感染的病菌更具传染性。他们的第一次交谈，能明显感觉到两人观点的碰撞，但威尔却给斯黛拉留下了深刻印象。回到病房后的威尔开始搜索斯黛拉的视频，他深深被这个乐观的女孩所吸引，但他自己却是一个悲观主义者。他不配合治疗，会夜晚爬上天台看风景，而这一幕刚巧被斯黛拉看到。她去找他，威尔却一副真的要跳下去的样子，斯黛拉慌乱中的样子逗笑了这个冷漠阴郁的男孩。斯黛拉发现被骗后生气地离开，却无意关上了天台的门。当威尔发现被关后绝望的表情，也是影片中为数不多的轻松时刻。&nbsp;2然而，威尔对于治疗的无所谓态度彻底扰乱了斯黛拉的心。她请求威尔一定严格遵守治疗方案，威尔却说，&ldquo;没有什么能拯救我们，我们的每一口气都是借来的，好好享受吧。&rdquo;威尔与斯黛拉，可以说代表了人们面对死亡时候的两种态度。我们无法判别哪种更好，享受当下，还是拼命活着，这或许永远是个问题。最后，斯黛拉妥协，同意了作为威尔的画像模特，以此换取他认真治疗的承诺。他们想要握手以示达成合作，却不得不在六尺规则下退回脚步。在这之后，斯黛拉会偷偷跑进威尔的房间，帮他整理药品车，按时监督他治疗，并一起锻炼。终于，威尔换得了画斯黛拉的机会。那天，女孩坐在窗边，男孩在不远处盯着她的侧脸，画笔不停，阳光柔和，谈着人生理想，青春就此驻足，在他们刻板压抑的生活中撷取片刻美好。在斯黛拉的影响下，威尔对未来的看法稍有改变。他会想，或许未来会好，也仍旧怀疑，这些没有用怎么办。他干净的眼神总是掺杂着生死的纠缠，让人心疼。但他们的交往并非一直甜蜜，也有争吵。威尔因为触碰了斯黛拉的心结，而看到了她的另一面。这个看似永远充满力量的女孩，背后也背负了太多心酸。姐姐离世，父母离婚，对于亲人的眷恋让她不得不努力活下去。而在这期间，斯黛拉的胃管却感染加剧，医生怀疑会有更糟糕的情况发生。&nbsp;3在斯黛拉等待进行手术的时候，威尔穿着隔离服悄悄来见她。六尺距离下，给她唱那首姐姐生前唱给斯黛拉的老歌。两人眼神交汇，温柔深情，彼此的心也渐渐消融，幻化成勇敢。不管是威尔的陪伴，还是姐姐留下的画，都陪着斯黛拉一次次冲破绝望。她没有活在侥幸之中，而是活在真切的感受里。但护士芭布告诉威尔，也曾有患者彼此相爱，却因互相感染离世。这件事让威尔不得不重新审视与斯黛拉的关系。这个男孩，仿佛只被爱照亮了一刻，下一秒，便又回到自己的世界，不同的是，这次逃避不是绝望，是为了爱人。而斯黛拉，仿佛就是上帝刻意送给这个可怜男孩的一朵玫瑰花。她总结出一套与伯克霍尔德菌患者的接触规则，拿着五尺长的台球杆去找他。爱情，让它们在死神面前偷走一尺。就算暴雨将至，就算山崩海啸，就算蔚蓝星球即将毁灭，也要想办法与你在一起。他们精心打扮，握着球杆的两端约会，就像握住彼此的手。他们在泳池旁坦诚相见，谈论死亡。用球杆代替你的手，触碰我的身体，就像你在抚摸我。脱掉衣服面对面站着，两具布满伤疤的身体，没有眼泪，只有心疼。如果此刻，没有疾病，没有距离，我会紧紧拥抱你。但现实就是，只是那偷走的一英尺，就已心满意足。斯黛拉为威尔偷偷准备了生日派对，片刻的欢愉后还是被芭布打断。也就是那晚，好朋友波突然离世。波是陪伴斯黛拉最长时间的病友，是彼此最好的朋友，但他们从未拥抱过。波的离开让斯黛拉无法接受，在她悲伤的时刻，威尔情不自禁触碰了她的肩膀，却被赶走。所有的爱与痛苦，加上克制的现实，只剩心碎。&nbsp;4&ldquo;一直以来我都是为了治疗而活，而不是治疗为了接受更好的生活，我想要生活。&rdquo;伤心欲绝的斯黛拉成为了威尔最初的样子，只想活在当下。天空飘起雪花，她主动牵起威尔的手，一起散步，要走很远去看灯火。他们在结冰的湖面上旋转，大喊，拥抱，尽情释放欢乐，此生仅此一次的放纵。我爱你，斯黛拉。我也爱你，威尔。为了你，我甚至愿意放弃换新肺的机会。但威尔不愿她放弃。两人争执中，斯黛拉不慎跌入湖中。威尔为了救斯黛拉，给她做人工呼吸。这是两人等待太久的第一次亲密接触，却以这样悲伤的方式进行着。庆幸的是，斯黛拉的换肺手术非常成功，也未感染上威尔的病菌。但威尔的临床药物实验却不曾见效。最终，威尔为了避免斯黛拉被感染，决定离开。术后醒来的斯黛拉，看到威尔从一片灯火中走来。我爱你，为了你的安全，我必须放手。所以请求你闭上眼睛，这样我才能狠心离开。他于一片灯火中消失，仿佛一场梦，未曾来过她的世界。斯黛拉打开威尔留下的漫画，封面是他们的合影，斯黛拉没有戴着氧气管，大家可以挨得好近。其中有一张，是威尔的人生清单，长长的纸张上只写了一件事：爱上斯黛拉。今生今世，厮守到老。这大多数人的美好期待，在他们身上却是此生最奢侈的梦境。&nbsp;5&nbsp;相互触碰，是我们的第一种交流方式，安全，安心，安慰，尽在那一指的轻柔爱抚中，或是脸颊上的轻轻一吻，让我们在快乐时彼此相连，胆怯时鼓舞我们前行。热情之时，还有感受爱意之时，让我们兴奋不已，我们对所爱之人抚摸的渴求，不亚于对空气的需要。但我从未理解触摸的重要性。他的触摸，直到我再也无法感受到。这段在影片中出现过两次的台词，以一段凄美的爱情故事为背景，向我们解释了触碰这个词最深的含义。在太多的遗憾与无奈下，导演以少年少女的视角，刻画了疾病状态下的爱恋，它凄美动人，它与我们那样接近，又那样遥远。或许正是因为他们年少，因为他们失去太多，又爱得太难，才更能让我们懂得何以依恋岁月，珍惜眼前人。电影结尾遗憾与美满混杂，而现实中的女孩并非如此幸运。故事原型克莱尔作为电影的制作顾问，为影片提供了许多疾病相关知识，而她本人却未等待电影上映，在换肺手术后因中风去世。我想这就是导演不愿给影片一个戏剧性的圆满结局的原因。克莱尔离开了，威尔也离开了，或许斯黛拉五年后新肺无效也将离开。但正是他们人生中的这些缺憾，才得以让他们的灵魂冲破时间概念，伴随影片一路流转。电影除了歌颂年少纯粹的爱情，以疾病做隔阂，还用朴实的语言讲述了一个简单的道理：学会触碰爱人吧。就像电影最后斯黛拉说的：如果你在看这个视频。而你，可以触碰到那个他，或是那个她。生命苦短，切勿浪费。他们做不到，所以含着泪告诉你，要勇敢去做。无论我们健康与否，无论是否有严谨的时间限制，无论距离是否遥远，那些心动，喜欢，牵手，拥抱，亲吻，所有的一切，就都让它在第一时间得以发生，表达，用力去爱吧。想见的人，立刻去见。喜欢的人，别轻易错过。那都是我爱你的证据，会在无数个黑夜闪光。你就是那唯一的光。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 我多想，在平日里随时拥抱你",
+                        "desc": "文/鹿西兮 求你闭上眼睛，这样我才能狠心离开。",
+                        "link": "http://m.wufazhuce.com/movie/1994?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 我多想，在平日里随时拥抱你",
+                        "desc": "文/鹿西兮 求你闭上眼睛，这样我才能狠心离开。",
+                        "link": "http://m.wufazhuce.com/movie/1994?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 我多想，在平日里随时拥抱你》 文/鹿西兮： 求你闭上眼睛，这样我才能狠心离开。 阅读全文：http://m.wufazhuce.com/movie/1994?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1994?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我多想，在平日里随时拥抱你",
+                        "desc": "求你闭上眼睛，这样我才能狠心离开。",
+                        "link": "http://m.wufazhuce.com/movie/1994?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20327",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3147",
+                "title": "愿心里最后一片雪花永不落下",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FoYsQHFLSc0SjQ9rf6cS6yDyX_Ml?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1471,
+                "post_date": "2020-05-14 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3147",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3147",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 愿心里最后一片雪花永不落下",
+                        "desc": "不要让自己的心理雪崩",
+                        "link": "http://m.wufazhuce.com/radio/3147?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnpwOrU_dd-l5fRpKiAohCAGhuCf"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 愿心里最后一片雪花永不落下",
+                        "desc": "不要让自己的心理雪崩",
+                        "link": "http://m.wufazhuce.com/radio/3147?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnpwOrU_dd-l5fRpKiAohCAGhuCf"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 愿心里最后一片雪花永不落下》 主播/马晓橙： 不要让自己的心理雪崩 阅读全文：http://m.wufazhuce.com/radio/3147?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3147?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lnpwOrU_dd-l5fRpKiAohCAGhuCf"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "愿心里最后一片雪花永不落下",
+                        "link": "http://m.wufazhuce.com/radio/3147?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnpwOrU_dd-l5fRpKiAohCAGhuCf"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 818 期",
+                "audio_url": "http://music.wufazhuce.com/lnpwOrU_dd-l5fRpKiAohCAGhuCf"
+            }
+        ],
+        "menu": {
+            "vol": "2777",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4314",
+                    "title": "我真的了解你吗？"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1181",
+                    "serial_list": [
+                        "1164",
+                        "1165",
+                        "1166",
+                        "1168",
+                        "1171",
+                        "1172",
+                        "1178",
+                        "1179",
+                        "1181",
+                        "1183",
+                        "1184",
+                        "1187",
+                        "1189",
+                        "1190",
+                        "1194",
+                        "1196",
+                        "1199",
+                        "1201",
+                        "1203",
+                        "1206",
+                        "1207",
+                        "1209"
+                    ],
+                    "title": "分手遗迹清理员：伞是雨中的晴天·第五章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2847",
+                    "title": "你心目中完美的周末是怎样的？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1994",
+                    "title": "我多想，在平日里随时拥抱你"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3147",
+                    "title": "愿心里最后一片雪花永不落下"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

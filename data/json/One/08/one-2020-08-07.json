@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5594",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-08-07 06:00:00",
+        "content_list": [
+            {
+                "id": "20868",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2903",
+                "title": "摄影",
+                "forward": "我把心理健康定义为：不惜任何代价不间断地致力于面对真实。",
+                "img_url": "http://image.wufazhuce.com/FhuEamX1zYnY47n8R4cJjlQLaSBa",
+                "like_count": 15808,
+                "post_date": "2020-08-07 06:00:00",
+                "last_update_date": "2020-08-03 10:37:04",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2862",
+                "pic_info": "Diogo Sousa",
+                "words_info": "M·斯科特·派克",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2903",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2903",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2903",
+                    "image": "http://image.wufazhuce.com/FhuEamX1zYnY47n8R4cJjlQLaSBa",
+                    "title": "VOL.2862",
+                    "content": "我把心理健康定义为：不惜任何代价不间断地致力于面对真实。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2903?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2903?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我把心理健康定义为：不惜任何代价不间断地致力于面对真实。——M·斯科特·派克 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2903?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2903?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20878",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4408",
+                "title": "遥远的琴声",
+                "forward": "我想起母亲不在家的日子里，每周去到钢琴老师的家，想起她为我剪指甲，吹头发，想起我每次带着弟妹那个洋楼里，在院子就听见的，钢琴的声音，那才是我拥有的最美好的东西。",
+                "img_url": "http://image.wufazhuce.com/Fv3OO9IVEAjVq5UuCiCz4ip9DZRZ",
+                "like_count": 1791,
+                "post_date": "2020-08-07 06:00:00",
+                "last_update_date": "2020-08-06 22:23:47",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4408",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4408",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4408",
+                    "image": "http://image.wufazhuce.com/Fv3OO9IVEAjVq5UuCiCz4ip9DZRZ",
+                    "title": "遥远的琴声 作者/陈雪",
+                    "content": "“光亮的小星星，好像是，我妈妈慈爱的眼睛。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 遥远的琴声",
+                        "desc": "文/陈雪 “光亮的小星星，好像是，我妈妈慈爱的眼睛。”",
+                        "link": "http://m.wufazhuce.com/article/4408?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 遥远的琴声",
+                        "desc": "文/陈雪 “光亮的小星星，好像是，我妈妈慈爱的眼睛。”",
+                        "link": "http://m.wufazhuce.com/article/4408?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 遥远的琴声》 文/陈雪： “光亮的小星星，好像是，我妈妈慈爱的眼睛。” 阅读全文：http://m.wufazhuce.com/article/4408?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4408?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "遥远的琴声",
+                        "desc": "“光亮的小星星，好像是，我妈妈慈爱的眼睛。”",
+                        "link": "http://m.wufazhuce.com/article/4408?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20821",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1264",
+                "title": "维多利亚的派对·第二十二章：异乡的人",
+                "forward": "他很内疚，做了半辈子观赏鱼，他以为她也一样，累了，想逃出鱼缸回到大海，但也许，她根本不属于大海。",
+                "img_url": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                "like_count": 709,
+                "post_date": "2020-08-07 06:00:00",
+                "last_update_date": "2020-08-03 17:48:43",
+                "author": {
+                    "user_id": "9618188",
+                    "user_name": "吴沚默",
+                    "desc": "编剧，TVB演员。",
+                    "wb_name": "@吳沚默momo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，TVB演员。",
+                    "fans_total": "4493",
+                    "web_url": "http://image.wufazhuce.com/Fo5OsUHwTVzmosA0MtZMBJV9tOWs"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第22章",
+                "number": "22",
+                "serial_id": "86",
+                "serial_list": [
+                    "1215",
+                    "1217",
+                    "1218",
+                    "1219",
+                    "1220",
+                    "1225",
+                    "1226",
+                    "1227",
+                    "1228",
+                    "1232",
+                    "1233",
+                    "1234",
+                    "1235",
+                    "1236",
+                    "1237",
+                    "1238",
+                    "1239",
+                    "1260",
+                    "1261",
+                    "1262",
+                    "1263",
+                    "1264",
+                    "1265",
+                    "1266",
+                    "1267",
+                    "1268",
+                    "1269"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1264",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1264",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1264",
+                    "image": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                    "title": "维多利亚的派对·第二十二章：异乡的人 作者/吴沚默",
+                    "content": "他很内疚，做了半辈子观赏鱼，他以为她也一样，累了，想逃出鱼缸回到大海。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 维多利亚的派对·第二十二章：异乡的人",
+                        "desc": "文/吴沚默 他很内疚，做了半辈子观赏鱼，他以为她也一样，累了，想逃出鱼缸回到大海。",
+                        "link": "http://m.wufazhuce.com/serial/1264?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 维多利亚的派对·第二十二章：异乡的人",
+                        "desc": "文/吴沚默 他很内疚，做了半辈子观赏鱼，他以为她也一样，累了，想逃出鱼缸回到大海。",
+                        "link": "http://m.wufazhuce.com/serial/1264?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 维多利亚的派对·第二十二章：异乡的人》 文/吴沚默： 他很内疚，做了半辈子观赏鱼，他以为她也一样，累了，想逃出鱼缸回到大海。 阅读全文：http://m.wufazhuce.com/serial/1264?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1264?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "维多利亚的派对·第二十二章：异乡的人",
+                        "desc": "他很内疚，做了半辈子观赏鱼，他以为她也一样，累了，想逃出鱼缸回到大海。",
+                        "link": "http://m.wufazhuce.com/serial/1264?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20880",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2936",
+                "title": "过度理性会让生活丧失美感吗？",
+                "forward": "每个人都在追逐快乐。",
+                "img_url": "http://image.wufazhuce.com/FjhFwtmHk19eC-qy6VXoCdgwoAaq",
+                "like_count": 2187,
+                "post_date": "2020-08-07 06:00:00",
+                "last_update_date": "2020-08-06 19:33:59",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "lirina",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2936",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2936",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2936",
+                    "image": "http://image.wufazhuce.com/FjhFwtmHk19eC-qy6VXoCdgwoAaq",
+                    "title": "过度理性会让生活丧失美感吗？",
+                    "content": "过度理性会让生活丧失美感吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 过度理性会让生活丧失美感吗？",
+                        "desc": "文/白海 生活是一颗裹着火苗的冰块。",
+                        "link": "http://m.wufazhuce.com/question/2936?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 过度理性会让生活丧失美感吗？",
+                        "desc": "文/白海 生活是一颗裹着火苗的冰块。",
+                        "link": "http://m.wufazhuce.com/question/2936?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 过度理性会让生活丧失美感吗？》 文/白海： 生活是一颗裹着火苗的冰块。 阅读全文：http://m.wufazhuce.com/question/2936?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2936?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "过度理性会让生活丧失美感吗？",
+                        "desc": "生活是一颗裹着火苗的冰块。",
+                        "link": "http://m.wufazhuce.com/question/2936?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11123494",
+                    "user_name": "白海",
+                    "desc": "喜欢电影，喜欢夏天，喜欢南方。敬没有绝对正确的真理，敬有绝对自由的选择。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "看见生活，自由写作。",
+                    "fans_total": "384",
+                    "web_url": "http://image.wufazhuce.com/Fpv-OIo4GxG05KM-I92bPuKgrY_m"
+                }
+            },
+            {
+                "id": "20859",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3305",
+                "title": "这次我们只分不合",
+                "forward": "或许那一刻，我俩都在心里如释重负地舒了一口气。",
+                "img_url": "http://image.wufazhuce.com/FhundR62XUVbcprw3ZoJViWHPaxn",
+                "like_count": 1783,
+                "post_date": "2020-08-07 06:00:00",
+                "last_update_date": "2020-08-06 14:24:30",
+                "author": {
+                    "user_id": "9803131",
+                    "user_name": "Just芝士",
+                    "desc": "一个沉迷于做梦，醒来就是天马行空发呆的作者",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "沉迷于做梦，醒来就是天马行空发呆",
+                    "fans_total": "1773",
+                    "web_url": "http://image.wufazhuce.com/FmL9BZIUsU8BH3MAmASyRxY3qOUq"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lmWkk83_tUO12FXeJs6Cu91dmm9u",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "没什么不同",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3305",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3305",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3305",
+                    "image": "http://image.wufazhuce.com/FhundR62XUVbcprw3ZoJViWHPaxn",
+                    "title": "「一个」音乐: Just芝士 没什么不同",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.昨天，沉寂了大半年的一位微信好友突然发了一条朋友圈，是一组结婚证的照片。照片中郎才女貌，两人皆是笑容可亲，只是这位新娘子，好像不是当年那位被他捧在手心的女生，我有些惊讶。我在他朋友圈下留言道：&ldquo;恭喜啊！&rdquo;片刻后他发来微信消息，&ldquo;近来可好啊？&rdquo;他像是一位老朋友熟稔的寒暄。我不禁想起刚认识他的那个时候，那是多年前的一个夏天，我们都只是十几或二十岁的年纪，也还在各自初尝恋爱青涩的果实。那个时候，我与男友刘延相邀一起去了江西的武功山，在山脚下买布鞋的我们遇到了同样来买布鞋的他们。他女朋友个子小小的，穿着一双矮跟凉鞋，我们在那挑挑选选，自然而然的就搭上了话。&ldquo;你们从哪来啊？&rdquo;我们听着他们说的乡音耳熟，忍不住问了一嘴。&ldquo;从湖南过来的。&rdquo;他们的答案果然没让我们失望。&ldquo;我们也是啊！都来了江西老表这，哈哈。&rdquo;交流间我们关系开始变得热络。&nbsp;2.道别后我们各自去乘坐缆车上山，因为这个景区还未被开发完善，缆车只能坐上山路程的三分之一，余下的三分之二要靠步行。别看我们年轻，体力却不如经常锻炼的中老年人，还没爬一会儿，我们就开始大喘气，渐渐落在了队伍最后头。未曾想在这里我们又遇到了山脚下那一对小情侣，男方一直在照顾弱小的女方，时不时问她需不需要靠他背。看到这一幕我嗔怪剜了刘延一眼，他一路总在嫌弃我慢慢吞吞，看他那架势，恨不得独自赶上大部队，弃我而去。就这样阴差阳错，同为&ldquo;落后分子&rdquo;的四人又走到了一起，登山途中无法使用手机，聊天成为解闷消遣的方式，这次天南海北，聊天的宽度就更广了。一路上四人互相打气，竟也成功登了顶，我们几人激动的互相拍照留恋，纪念人生中第一次登顶，那天雾气腾腾，山顶犹如人间仙境，而因为雾重，山间的景物也看不真切。下山比上山显得要吃力一些，有些抬着轿子的挑夫一路跟着我们四人，他们眼光毒辣，一眼看出我们战力指数低，是他们的潜在客户。我与那女孩一直咬牙坚持着，并相邀绝对不坐轿子，两位男友也一直尽职尽责在一旁给我们加油打气。那天下山的路有多艰辛，我已经记不真切了，最后却独独记得武功山下的那碗炒米粉。&nbsp;3.江西的炒米粉够入味，辣、香、劲道，我与刘延争先恐后的吃一碗，唯恐对方多吃。在抢食间隙一抬头，我瞥见对面那男生细心的剔去辣椒和葱，又在嘴边吹凉后才送进他女友的嘴里，反观正在一旁吃得满嘴流油的刘延，我无奈地叹了一口气。这么多年过去了，我还能时不时地想起江西武功山之旅，那位年轻的少年对他女朋友无微不至的照顾，他们分享一瓶矿泉水，以及那一碗泛着油光的辣椒炒米粉。大抵是回忆太过美好，在寒暄过后，我终是忍不住问了一嘴，&ldquo;你和你当时的女朋友，何时分开的？&rdquo;他沉默了片刻才回答：&ldquo;大学毕业后，两人又拉扯了两年，最后还是分开了，条件不合适。&rdquo;我知道再多的唏嘘在此刻都显得不合时宜，于是我将遗憾之情深深的埋在心底。当年跟在他们身后爬山的时候，我仿佛能一眼看到他们俩老来相依为伴的日子，两位老人颤颤巍巍的相互搀扶着，一起迈向人生的后半程。年少的时候，总以为爱情可以弥补人生的缺憾，可往往制造更多缺憾的，就是爱情本身。他们的感情没有善终，这不禁让人感慨，他们和我们都不约而同地走向了同一个结局。&nbsp;4.我与刘延的结局就更像是一开始就写好结局的剧本，丝丝绕绕都写着分开。爱情的盲目会使人短暂地蒙蔽双眼，会使我看不到他眼里的冷淡：他情人节的毫无表示、我生病时他轻飘飘的多喝热水、讲任何事时他漠不关心的模样。女人总是擅长一边犹疑，一边不断自我催眠:他没有因为爱情而变得细腻，是因为他太直男；他不说爱是因为将爱都放在心里。我与刘延彻底分开那天，本是一个平平无奇的早晨，我们赶第一班飞机去青岛，女生的物品多而繁杂，刘延叉着腰跟在我屁股后面大喊大叫。我停下手中的活，冷静地望着他道：&ldquo;你指责我的功夫，帮我收两件衣服就好了。&rdquo;不料他更加暴跳如雷。&ldquo;我凭什么帮你收拾，你自己没有一点儿时间观念。&rdquo;说罢，他气呼呼地跑去坐着玩手机。一路上刘延始终不离手机，不看我，也拒绝与我沟通，问他话时，他会从游离的状态中缓缓回过神，并漫不经心地说句:&ldquo;啊？&rdquo;《十一种孤独》里有写:&ldquo;所谓的孤独，就是你面对的那个人，他的情绪和你的情绪，不在同一个频率。&rdquo;我与刘延虽然坐在一起，两个人的思绪却好似两条永不相交的平行线，永远通往未知的两端。&nbsp;5.刘延最不喜订餐厅，我翻遍点评网站，选了一家靠海的餐厅，晚上吃饭的时候，刘延自顾自地点了一大瓶冰可乐。在他举着瓶子，往我杯子里倒的时候，我瞬间拉长了脸:&ldquo;刘延，我说过几百遍了，我喝不了冰的。&rdquo;&ldquo;哦，那你要喝什么？&rdquo;他拿起杯子喝了一口可乐，我盯着杯子里快速消退的气泡，不懂自己这么久的坚持是为了什么。饭后刘延想赶紧回酒店玩游戏，我却坚持让他陪我在海边走走，看着潮水循环往复的涌起退去，我说:&ldquo;刘延，我们分手吧。&rdquo;&ldquo;好。&rdquo;他不假思索道，生怕我反悔似的，或许那一刻，我俩都在心里如释重负地舒了一口气。我与刘延那始终摇摇欲坠的感情，随着时间推移，最后一丝温情如抽丝剥茧般离开。而他们曾经那万般笃定的爱情，也没能敌过时过境迁，而变得物是人非。被宠着的她，被迁就的他，最后我们都不可避免的成为了对方生活中的陌路人。年少的爱情，青涩、冲动而又脆弱，那不计得失后果的爱，哪怕最后将迎来感情的破灭，回望当时，或许依然义无反顾地跳入爱情里。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 这次我们只分不合",
+                        "desc": "文/Just芝士 之前是我瞎，现在我复明了。",
+                        "link": "http://m.wufazhuce.com/music/3305?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 这次我们只分不合",
+                        "desc": "文/Just芝士 之前是我瞎，现在我复明了。",
+                        "link": "http://m.wufazhuce.com/music/3305?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 这次我们只分不合》 文/Just芝士： 之前是我瞎，现在我复明了。 阅读全文：http://m.wufazhuce.com/music/3305?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3305?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "这次我们只分不合",
+                        "desc": "之前是我瞎，现在我复明了。",
+                        "link": "http://m.wufazhuce.com/music/3305?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "没什么不同",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "袁熙曼",
+                "audio_album": "没什么不同",
+                "cover": "http://image.wufazhuce.com/FmiDMmN3SBuK2F-GB6-lQVLDjTQ0",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2862",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4408",
+                    "title": "遥远的琴声"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1264",
+                    "serial_list": [
+                        "1215",
+                        "1217",
+                        "1218",
+                        "1219",
+                        "1220",
+                        "1225",
+                        "1226",
+                        "1227",
+                        "1228",
+                        "1232",
+                        "1233",
+                        "1234",
+                        "1235",
+                        "1236",
+                        "1237",
+                        "1238",
+                        "1239",
+                        "1260",
+                        "1261",
+                        "1262",
+                        "1263",
+                        "1264",
+                        "1265",
+                        "1266",
+                        "1267",
+                        "1268",
+                        "1269"
+                    ],
+                    "title": "维多利亚的派对·第二十二章：异乡的人"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2936",
+                    "title": "过度理性会让生活丧失美感吗？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3305",
+                    "title": "这次我们只分不合"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

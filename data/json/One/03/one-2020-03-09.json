@@ -1,0 +1,529 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5431",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-09 06:00:00",
+        "content_list": [
+            {
+                "id": "19945",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2751",
+                "title": "摄影",
+                "forward": "人生，与其说像跳舞，不如说像摔跤，因为它要求我们立定脚跟，准备好迎接任何不期而遇的打击。",
+                "img_url": "http://image.wufazhuce.com/Fu3neP5fitv8cYLulwrjQ9zaXMB5",
+                "like_count": 16103,
+                "post_date": "2020-03-09 06:00:00",
+                "last_update_date": "2020-03-07 17:15:25",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2711",
+                "pic_info": "Gritt Zheng",
+                "words_info": "奥勒留 ​​​​",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2751",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2751",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2751",
+                    "image": "http://image.wufazhuce.com/Fu3neP5fitv8cYLulwrjQ9zaXMB5",
+                    "title": "VOL.2711",
+                    "content": "人生，与其说像跳舞，不如说像摔跤，因为它要求我们立定脚跟，准备好迎接任何不期而遇的打击。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2751?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2751?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人生，与其说像跳舞，不如说像摔跤，因为它要求我们立定脚跟，准备好迎接任何不期而遇的打击。——奥勒留 ​​​​ 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2751?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2751?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19940",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4231",
+                "title": "陈晚的私事",
+                "forward": "我们吵架大多是这样，带着开玩笑的意味，但是心痛的感觉却无比真实。",
+                "img_url": "http://image.wufazhuce.com/FjZ_ldmp7Lvks9bama-07f0i5S6t",
+                "like_count": 3278,
+                "post_date": "2020-03-09 06:00:00",
+                "last_update_date": "2020-03-09 10:12:57",
+                "author": {
+                    "user_id": "10244046",
+                    "user_name": "无支祁",
+                    "desc": "一个苏北人。",
+                    "wb_name": "@Hs无支祁",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个苏北人。",
+                    "fans_total": "4027",
+                    "web_url": "http://image.wufazhuce.com/Fj-LWuxxisWaGG3WCVC_kmIpmyVE"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4231",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4231",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4231",
+                    "image": "http://image.wufazhuce.com/FjZ_ldmp7Lvks9bama-07f0i5S6t",
+                    "title": "陈晚的私事 作者/无支祁",
+                    "content": "我害怕失去爱情。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 陈晚的私事",
+                        "desc": "文/无支祁 我害怕失去爱情。",
+                        "link": "http://m.wufazhuce.com/article/4231?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 陈晚的私事",
+                        "desc": "文/无支祁 我害怕失去爱情。",
+                        "link": "http://m.wufazhuce.com/article/4231?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 陈晚的私事》 文/无支祁： 我害怕失去爱情。 阅读全文：http://m.wufazhuce.com/article/4231?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4231?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "陈晚的私事",
+                        "desc": "我害怕失去爱情。",
+                        "link": "http://m.wufazhuce.com/article/4231?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19930",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1126",
+                "title": "两次破碎·第二十章：收网时刻",
+                "forward": "周围杂草丛生，墓边的草却拔得很干净，前头都摆着腐烂的馒头和苹果，插着一排放过的电光烟花。还有两本封面花哨的笑话书，晒得卷起边儿，用石头压着。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 764,
+                "post_date": "2020-03-09 06:00:00",
+                "last_update_date": "2020-04-07 16:27:20",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第20章",
+                "number": "20",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1126",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1126",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1126",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第二十章：收网时刻 作者/连筑",
+                    "content": "很小的两个土包儿，并肩挨着，插着板儿，上头写着：小祖，大海。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第二十章：收网时刻",
+                        "desc": "文/连筑 很小的两个土包儿，并肩挨着，插着板儿，上头写着：小祖，大海。",
+                        "link": "http://m.wufazhuce.com/serial/1126?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第二十章：收网时刻",
+                        "desc": "文/连筑 很小的两个土包儿，并肩挨着，插着板儿，上头写着：小祖，大海。",
+                        "link": "http://m.wufazhuce.com/serial/1126?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第二十章：收网时刻》 文/连筑： 很小的两个土包儿，并肩挨着，插着板儿，上头写着：小祖，大海。 阅读全文：http://m.wufazhuce.com/serial/1126?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1126?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第二十章：收网时刻",
+                        "desc": "很小的两个土包儿，并肩挨着，插着板儿，上头写着：小祖，大海。",
+                        "link": "http://m.wufazhuce.com/serial/1126?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19952",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2782",
+                "title": "怎样在恋爱中有效沟通？",
+                "forward": "有些事，你不说出口，不说清楚，不太可能指望别人能够理解，并给你积极的反馈。",
+                "img_url": "http://image.wufazhuce.com/FiLIxwIzkGXCUCm10SwuJHM1DiOy",
+                "like_count": 3060,
+                "post_date": "2020-03-09 06:00:00",
+                "last_update_date": "2020-03-08 12:00:50",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "天角海崖",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2782",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2782",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2782",
+                    "image": "http://image.wufazhuce.com/FiLIxwIzkGXCUCm10SwuJHM1DiOy",
+                    "title": "怎样在恋爱中有效沟通？",
+                    "content": "怎样在恋爱中有效沟通？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎样在恋爱中有效沟通？",
+                        "desc": "文/陈谌 我是不是说错做错什么了。",
+                        "link": "http://m.wufazhuce.com/question/2782?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎样在恋爱中有效沟通？",
+                        "desc": "文/陈谌 我是不是说错做错什么了。",
+                        "link": "http://m.wufazhuce.com/question/2782?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎样在恋爱中有效沟通？》 文/陈谌： 我是不是说错做错什么了。 阅读全文：http://m.wufazhuce.com/question/2782?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2782?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎样在恋爱中有效沟通？",
+                        "desc": "我是不是说错做错什么了。",
+                        "link": "http://m.wufazhuce.com/question/2782?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "4813543",
+                    "user_name": "陈谌",
+                    "desc": "90后作者、吉他手。「一个」常驻作者。@陈谌CC",
+                    "wb_name": "@陈谌CC",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "90后作者、吉他手。「一个」常驻作者。@陈谌CC",
+                    "fans_total": "12777",
+                    "web_url": "http://image.wufazhuce.com/FuIlOQycjz4QtaQSTP-UfPXwb1FF"
+                }
+            },
+            {
+                "id": "19883",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3217",
+                "title": "她曾经也很真诚，很天真地爱过我",
+                "forward": "最后不打扰，是我唯一能给你的温柔。",
+                "img_url": "http://image.wufazhuce.com/FgU9vJiZ7I7W-5_04kLmQDELw1u7",
+                "like_count": 2047,
+                "post_date": "2020-03-09 06:00:00",
+                "last_update_date": "2020-03-09 10:35:22",
+                "author": {
+                    "user_id": "9294032",
+                    "user_name": "申申",
+                    "desc": "戴着镣铐也要跳舞的人",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "戴着镣铐也要跳舞的人",
+                    "fans_total": "1540",
+                    "web_url": "http://image.wufazhuce.com/FuLa2p5fyBrgcr95MM0yDkcnTQjf"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/ljrNh3U9i4eMG8IlMC9R-PMMDhaR",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "选择离开",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3217",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3217",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3217",
+                    "image": "http://image.wufazhuce.com/FgU9vJiZ7I7W-5_04kLmQDELw1u7",
+                    "title": "「一个」音乐: 申申 选择离开",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.大家在看到&ldquo;一起摇摆&rdquo;微信群的人数从8变成7时，都大吃一惊。&ldquo;一起摇摆&rdquo;这个微信群主要用于他们这些朋友约吃火锅，一般见面地点在陈雨轩和路小河的家里。路小河爱热闹，陈雨轩性格温柔，聚餐气氛总让人容易放轻松。看到陈雨轩的头像不见时，他们猜想这许是出了什么事。确定俩人分手后，大家出现连带着的&ldquo;失恋症状&rdquo;。频频看手机有没有火锅组局的消息，到了周末，脚步甚至会不自觉来到五洲家园。那时他们还调侃，五洲家园该改为&ldquo;五湖家园&rdquo;，来自五湖四海的朋友都聚集到了他们家。而这样的玩笑话，大家在看到小区名时都会不自觉被刺痛。更何况当事人？回忆是狡猾的捕手，布下天罗地网，使沉迷过往的人无处遁形。2.路小河一副没心没肺的样子，应该可以逃过回忆。但陈雨轩那样一个温柔的女孩，不知藏了多少心事。他们极为默契地再也没有出现在同一个场合，也从未讲过对方的坏话。体面的分手，如若不是两人素养极好，那便是其中一人心如刀割。这场分手的后遗症有多严重呢？严重到所有人都已开始遗忘。一年后的跨年夜，路小河喊上了朋友们来&ldquo;火锅趴&rdquo;。那熟悉的味道回到舌尖的刹那，那熟悉的声音回到耳边的瞬间，似乎一切又回来了，就是只差个她。路小河和朋友们笑着、闹着，一瓶瓶酒喝下去都化为了泪。席间，有朋友劝他再把陈雨轩追回来。他摇摇头，将泪与酒一并吞进去。那段感情他开始的太顺遂，就是习惯性讨厌寂寞，而陈雨轩撞上了自己的寂寞。其实要怪就怪自己，说什么女性主义，说什么卡丁车，说什么摄影，又说什么日剧，他明明发现谈到这些时陈雨轩的眼睛里有多少光芒，他看得清她对爱情的那些向往。陈雨轩曾将那次&ldquo;年会相遇&rdquo;称为命中注定的缘分，和路小河聊天特有趣，她抛出的每个话题，他都能接住。你知道和聊得来的人讨论兴趣爱好有多开心吗？就是不知疲倦为何物，视他人为空气。同频率的交流太容易让人陷进去了。陷进去就会忘记，他可以和你同频率，也代表着他可以调到别的频率。但喜欢就是，大脑来不及思考清楚，身体却已经在行动了。在她的世界中，她早已见过路小河多次，也试探过无数回，他们之间有过大大小小的暧昧时刻。每一次，她都觉得无比幸福。或许从最开始，她就已经沉浸在对方的爱中。路小河是个温柔的人，什么事都顾着陈雨轩的情绪，而陈雨轩需要什么样的照顾他也清清楚楚。但他从未主动表达过爱意，也从未拒绝过陈雨轩的示好，他让她误以为他就是这样被动的一个人。可真正的温柔并不是这样啊。3.他们在一起时，路小河是浅浅的笑，笑在嘴角却没有爬到眼角。接吻的时候，她闭上了眼睛，他却没有深吻，只是他口中的薄荷香充满了她的大脑。十指相扣她感觉到头皮发麻，而他是一脸木木的表情。每天清晨起来，他睁开眼后的表情异常陌生。陌生到陈雨轩以为自己是这间房子里的另个租客。她以为，他是对什么都不太上心的人。路小河周末会喊很多朋友来家里聚餐，每到这时，他又像是什么都上心。边吃边聊天的他，不同于日常与自己交流时的状态，在朋友面前，他有着说不完的话和聊不完的段子。每次透过火锅上蹿的白茫茫的热气，他看自己的眼神都是柔情，沁出来的那份甜蜜还会引起周围朋友起哄。每到那样的时刻，她都觉得自己心里是有安全感的，而他眼中也是有自己的。她像是个时刻紧张的检察官，想要收集一切他爱她的证据。刚在一起的那几个月，她想着路小河可能是个慢热型的人，所以她迫不及待想要做些什么来让这段感情升温。她开始每个星期都花费心思做功课，带给路小河些许不同体验。他们去登山露营、看画展、逛动物园、去VR体验馆、共同做陶艺，还有去看开心麻花的话剧等等。路小河对这一切是惊讶的，惊讶于她的用心。但惊讶与开心是有区别的，起初还会情绪饱满地面对约会，可到后来的情绪是种说不上来的感觉。直到那次路小河在话剧剧院的椅子上睡着了，她才开始反思自己，这段时间是不是太一味照着自己的喜好了。后来，她常常问路小河的意见，但他总是含糊其辞说怎样都可以，而表情是暧昧不明的琢磨不透。再火热的心，也会因为没有回音而冷掉。他们终究没有什么你来我往的甜蜜，变成了人群中面目模糊的一对。陈雨轩太想知道什么事会让对方开心或者多分一点注意力过来，她思来想去，做过冷处理或是使过小性子，可惜最后都以路小河的一个拥抱而失败告终。被偏爱的人有恃无恐，吃定你舍不得让他伤心。久而久之，她也放弃了揣测，心想：他对自己也很好，只不过话少一些，表情少一些。如果没有那张集点卡，陈雨轩大概还会傻上那么一阵子。4.路小河知道自己不该这样的，不该过分注意唐雅琪的存在。但身体根本不受控制，眼神总是会看向她，甚至鼻尖会捕捉她经过身边的香味，而听到她说话的时候，就是不好笑的事也会乐呵乐呵。知道她习惯在楼下的便利店解决午饭后，路小河甚至不自觉找到理由拒绝同事们的邀饭，与她偶遇。他理性阻止自己不要这样做，但中途买杯咖啡也想要绕道便利店那边。偶然听到唐雅琪提起皮包里总放着奶茶店的集点卡，每次集满去换奖品或奶茶的时候总会有满足感。路小河会心一笑，那天下班后他也忍不住做了一样的事情。那张集点卡经常被揣在路小河的外套口袋里，不知不觉变得皱巴巴，而上面还差两杯就集满一张卡。陈雨轩洗他外套的时候，正好看见。看到的刹那，心慌乱得厉害，因为在一起后陈雨轩从没看到过他喝奶茶，更别提有集点这个习惯。她强压住所有的猜测。等路小河回家问她看到集点卡没有，陈雨轩摇摇头，一直看着路小河。她期待他能说些什么，哪怕是最近喜欢上奶茶这种瞎话，她都会立马相信不再胡思乱想。可路小河却什么也没说，像是笃定她问不出口。如果问出口，那么有些东西会当场破碎，有些局面也会无法挽回。陈雨轩看着桌上那杯路小河泡好的咖啡，心里又涌起暖意。他知道自己爱喝，所以他每天都会给自己泡上一杯。思考许久决定喝完这一杯咖啡，将集点卡的事抛到脑后。只是这件事可以抛到脑后，那么下一件呢？在恋爱里，新问题不会替代旧问题，而是不断叠加，无数交错的时空里，逐渐滚成大的雪球，最后碾碎一切。集点卡过后，陈雨轩在不经意间，看到了他和她从来不听的李志演唱会资讯，她忍住没问。她不喜欢雪，但她看到了日本北海道的攻略，她没有问。她甚至看到了那些让他曾经睡着的话剧门票的界面，她还是没有问。她在问自己，到底自尊心要被踩成什么样子才会面对现实。5.失望与嫉妒交错在一起，她甚至一看到路小河就有冲上去大吵一架的冲动。他依然是那副什么都不上心的样子，但她再也无法自我欺骗了。她在路小河公司网站上看到了那女孩的介绍，忍不住下班后想要看一眼。而这一看便是终结点。她看着路小河与唐雅琪从公司有说有笑地走出来，他手上还挎着一个粉红色的布袋子，他们脚步一致地走向一个方向，最后进到了集点卡上的奶茶店。两个人排着队聊着天，还时不时给对方看手机上的东西，任谁看都是热恋中的一对。他何时有耐心去排长队买一杯奶茶？他何时那么喜欢聊天？他何时那么爱笑？一心两爱对他来说似乎不是难事，甚至可以说乐在其中。陈雨轩不禁呕吐起来，那些抓住的曾以为是爱的证据，无形中证明了他的不爱。那些所谓的&ldquo;温柔&rdquo;，不过是一种技巧。真正的温柔应该是，相爱时专心致志，不爱了坦诚分开。如果不爱却又不结束关系，并不是温柔，而是利用，利用你对他的爱意满足自己的空虚。路小河从没觉得回忆是可怕的捕手，他总是习惯性用新恋情逃走，以为&ldquo;新恋情一定能代替旧恋情&rdquo;。但再也没有一个女朋友能够容忍他每周都叫一帮朋友来家里吃火锅，再也没有人与他过一个精心安排的周末，再也没有一个人看向他的时候眼里有那么多期待。想到此，他觉得寂寞的心更空了，那种空好像不论他叫多少朋友来都填不满，不论他找到多漂亮的女友都没有用。他的情感惯性，终究让他付出了代价。寂寞吞噬了心脏，连如何爱人都不明白。最后不打扰，是我唯一能给你的温柔。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 她曾经也很真诚，很天真地爱过我",
+                        "desc": "文/申申 可我把她弄丢了。",
+                        "link": "http://m.wufazhuce.com/music/3217?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 她曾经也很真诚，很天真地爱过我",
+                        "desc": "文/申申 可我把她弄丢了。",
+                        "link": "http://m.wufazhuce.com/music/3217?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 她曾经也很真诚，很天真地爱过我》 文/申申： 可我把她弄丢了。 阅读全文：http://m.wufazhuce.com/music/3217?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3217?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "她曾经也很真诚，很天真地爱过我",
+                        "desc": "可我把她弄丢了。",
+                        "link": "http://m.wufazhuce.com/music/3217?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "选择离开",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "Code-A",
+                "audio_album": "蜡笔式舞",
+                "cover": "http://image.wufazhuce.com/FmEq1VhmMSCecy2IDdKiaT9855Eq",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2711",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4231",
+                    "title": "陈晚的私事"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1126",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第二十章：收网时刻"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2782",
+                    "title": "怎样在恋爱中有效沟通？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3217",
+                    "title": "她曾经也很真诚，很天真地爱过我"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

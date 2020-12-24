@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5441",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-12 06:00:00",
+        "content_list": [
+            {
+                "id": "19948",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2754",
+                "title": "摄影",
+                "forward": "人生需要准备的，不是昂贵的茶，而是喝茶的心情。 ",
+                "img_url": "http://image.wufazhuce.com/Fr0v-josIaX2-nu7z42409DwMijf",
+                "like_count": 20775,
+                "post_date": "2020-03-12 06:00:00",
+                "last_update_date": "2020-03-07 17:19:30",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2714",
+                "pic_info": "vciky Li",
+                "words_info": "林清玄",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2754",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2754",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2754",
+                    "image": "http://image.wufazhuce.com/Fr0v-josIaX2-nu7z42409DwMijf",
+                    "title": "VOL.2714",
+                    "content": "人生需要准备的，不是昂贵的茶，而是喝茶的心情。 "
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2754?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2754?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人生需要准备的，不是昂贵的茶，而是喝茶的心情。 ——林清玄 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2754?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2754?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19967",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4235",
+                "title": "江城子",
+                "forward": "旧的伤口已经结痂，坚不可摧。新的刀锋闪耀着光芒，破风而来。",
+                "img_url": "http://image.wufazhuce.com/Fou02OC_wEnHvqU7xAu9xpQYoEDd",
+                "like_count": 2936,
+                "post_date": "2020-03-12 06:00:00",
+                "last_update_date": "2020-03-10 18:25:10",
+                "author": {
+                    "user_id": "4813613",
+                    "user_name": "熊德启",
+                    "desc": "电视工作者，ONE人气作者。新书《这一切并没有那么糟》。",
+                    "wb_name": "@熊德启",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "电视工作者，ONE人气作者。",
+                    "fans_total": "19368",
+                    "web_url": "http://image.wufazhuce.com/Fg86WVwOQGnRelh2SF3yz2yYh58L"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4235",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4235",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4235",
+                    "image": "http://image.wufazhuce.com/Fou02OC_wEnHvqU7xAu9xpQYoEDd",
+                    "title": "江城子 作者/熊德启",
+                    "content": "他确实是受了刺激，只是不在今天，不在昨天，也不在前天。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 江城子",
+                        "desc": "文/熊德启 他确实是受了刺激，只是不在今天，不在昨天，也不在前天。",
+                        "link": "http://m.wufazhuce.com/article/4235?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 江城子",
+                        "desc": "文/熊德启 他确实是受了刺激，只是不在今天，不在昨天，也不在前天。",
+                        "link": "http://m.wufazhuce.com/article/4235?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 江城子》 文/熊德启： 他确实是受了刺激，只是不在今天，不在昨天，也不在前天。 阅读全文：http://m.wufazhuce.com/article/4235?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4235?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "江城子",
+                        "desc": "他确实是受了刺激，只是不在今天，不在昨天，也不在前天。",
+                        "link": "http://m.wufazhuce.com/article/4235?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19942",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1128",
+                "title": "世界得了健忘症·第十九章：陷阱",
+                "forward": "公主的复仇固然悲壮，但多半是以失败收场。她栽倒在自己布下的陷阱里。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 819,
+                "post_date": "2020-03-12 06:00:00",
+                "last_update_date": "2020-03-07 10:26:45",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第19章",
+                "number": "19",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1128",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1128",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1128",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第十九章：陷阱 作者/昔央",
+                    "content": "公主的复仇固然悲壮，但多半是以失败收场。她栽倒在自己布下的陷阱里。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第十九章：陷阱",
+                        "desc": "文/昔央 公主的复仇固然悲壮，但多半是以失败收场。她栽倒在自己布下的陷阱里。",
+                        "link": "http://m.wufazhuce.com/serial/1128?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第十九章：陷阱",
+                        "desc": "文/昔央 公主的复仇固然悲壮，但多半是以失败收场。她栽倒在自己布下的陷阱里。",
+                        "link": "http://m.wufazhuce.com/serial/1128?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第十九章：陷阱》 文/昔央： 公主的复仇固然悲壮，但多半是以失败收场。她栽倒在自己布下的陷阱里。 阅读全文：http://m.wufazhuce.com/serial/1128?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1128?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第十九章：陷阱",
+                        "desc": "公主的复仇固然悲壮，但多半是以失败收场。她栽倒在自己布下的陷阱里。",
+                        "link": "http://m.wufazhuce.com/serial/1128?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19969",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2786",
+                "title": "你听过最美的诗词是哪一句？",
+                "forward": "应是天仙狂醉，乱把白云揉碎。",
+                "img_url": "http://image.wufazhuce.com/Fns_ybtzt8x5R-TyMPwl36LUatk7",
+                "like_count": 7992,
+                "post_date": "2020-03-12 06:00:00",
+                "last_update_date": "2020-03-11 11:40:03",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2786",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2786",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2786",
+                    "image": "http://image.wufazhuce.com/Fns_ybtzt8x5R-TyMPwl36LUatk7",
+                    "title": "你听过最美的诗词是哪一句？",
+                    "content": "你听过最美的诗词是哪一句？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你听过最美的诗词是哪一句？",
+                        "desc": "文/网友 应是天仙狂醉，乱把白云揉碎。",
+                        "link": "http://m.wufazhuce.com/question/2786?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你听过最美的诗词是哪一句？",
+                        "desc": "文/网友 应是天仙狂醉，乱把白云揉碎。",
+                        "link": "http://m.wufazhuce.com/question/2786?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你听过最美的诗词是哪一句？》 文/网友： 应是天仙狂醉，乱把白云揉碎。 阅读全文：http://m.wufazhuce.com/question/2786?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2786?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你听过最美的诗词是哪一句？",
+                        "desc": "应是天仙狂醉，乱把白云揉碎。",
+                        "link": "http://m.wufazhuce.com/question/2786?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "19968",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1964",
+                "title": "以父爱之名，对抗这个时代",
+                "forward": "不管面对什么，都要挺起腰杆活着。",
+                "img_url": "http://image.wufazhuce.com/FgUwTEipR-VZHdsBbhQjGJOaMl8K",
+                "like_count": 1649,
+                "post_date": "2020-03-12 06:00:00",
+                "last_update_date": "2020-03-11 11:01:24",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "孝子洞理发师",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4947",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1964",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1964",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1964",
+                    "image": "http://image.wufazhuce.com/FgUwTEipR-VZHdsBbhQjGJOaMl8K",
+                    "title": "「一个」电影: 孝子洞理发师",
+                    "content": "刚刚过去的2019年正值韩国电影百年，《韩民族日报》与CJ文化财团主持评定了一份&ldquo;百年百部韩影&rdquo;榜单，借此回望与总结韩国电影的百年历史。这100部电影，可能并非&ldquo;最优秀&rdquo;的，但却是最能代表韩国电影历史，同时也是最能反映近百年韩国社会发展与时代变迁的作品。这份榜单由导演、制作人、影评人等不同身份的38位韩国电影业内人士共同选定，最老的一部是安重华导演1934年的作品《青春的十字路》、最新的一部则是延相昊导演2016年的作品《釜山行》。除此之外，《老男孩》、《熔炉》、《我的野蛮女友》、《杀人回忆》、《爱，回家》、《阳光姐妹淘》、《下女》等脍炙人口的作品均榜上有名。关于韩影，每个人都有属于自己心目中的&ldquo;百佳&rdquo;。今天想要推荐的这一部，也有很多人认为它是&ldquo;百佳&rdquo;的&ldquo;漏网之鱼&rdquo;&mdash;&mdash;2004年由林赞相执导的《孝子洞理发师》。《孝子洞理发师》的主演为大众十分熟悉的&ldquo;韩影一哥&rdquo;宋康昊，他最近的一部代表作即今年于奥斯卡斩获四项大奖的《寄生虫》。《孝子洞理发师》表面上看是一出温馨的家庭喜剧，实则为一部政治反讽片。该故事发生在朴正熙1961年政变上台到1979年遭暗杀这段时期的韩国。导演用总统府隔壁的一户寻常百姓家庭的命运变化来诠释韩国历史的风云诡谲，将动荡不安、变幻莫测的政治时局安置在一个唯唯诺诺的小人物理发师身上，将严肃的时局背景轻松化，让观众在捧腹大笑的同时，看到体制对一个小家庭的影响，看到被政治裹挟的小人物的生存困境。故事借助一个孩童的视角展开。&ldquo;我&rdquo;作为主人公宋汉默的儿子，回顾了父亲看似平淡无奇实则跌宕起伏的一生。父亲宋汉默没什么学问，也没太大的追求，人送绰号&ldquo;豆腐&rdquo;，专靠替人理发养家糊口，年轻时跟自己的女学徒金敏子情投意合，喜结连理，并在&ldquo;4.19革命&rdquo;那天成功接生了&ldquo;我&rdquo;&mdash;&mdash;儿子乐安。一个和和美美的三口之家诞生了。他们虽然平凡，但也拥有平凡生活里的小确幸。如果一定要说这个三口之家有什么特别的，那就是父亲宋汉默的理发店位于青瓦台总统官邸的附近，因此他也见证了韩国总统更替等诸多历史事件。也正是因为这份&ldquo;特殊的缘分&rdquo;，改变了他们一家三口的命运。在一次&ldquo;抓间谍&rdquo;的偶然机会下，宋汉默结识了韩国中央情报局的领头人张赫洙并受到赏识。经由他的举荐，宋汉默当上了总统先生的理发师。此后12年间，宋汉默开启了战战兢兢的&ldquo;为国服务&rdquo;之旅。他每天早上天不亮就起床，掩人耳目进入总统府，为总统先生剪头、修面。他曾受邀去总统家中参加晚宴，最后甚至还幸运地陪同总统出访美国。在某一段时间内，他成为了青瓦台&ldquo;体面的大人物&rdquo;，受到大家的尊敬与喜爱。然而，事情并非总是一帆风顺。一种名为&ldquo;马库斯热&rdquo;的传染病很快席卷了韩国。人人岌岌可危。总统（国家）认为传播&ldquo;马库斯热&rdquo;病毒的人一定是间谍。为了究查实情，于是下令只要发现拉肚子者，一概抓起来审讯。举报者则大有重赏。为此，同一条街上的邻居相互举报，最后却双双在审讯室相见。宋汉默一家看到这一现状，内心同样也是提心吊胆。不幸的是，儿子乐安偏偏就在这个节骨眼上拉肚子了。乐安拉肚子时，恰逢中央情报局的领头人张赫洙在店里理发。于是，为了自证清白，也出于对总统和国家的信任，宋汉默亲手将儿子带到了警察局，并拜托自己熟识的警官多加照料。回家后的宋汉默苦苦等待，始终不见儿子归家的身影，再度找到警察局，发现儿子已经不知去向。政治不会因为你躲避它、无视它就不存在，它会自动找上门来。宋某一家人，就这样不知不觉被卷入了大时代的洪流。宋汉默与妻子终日茶饭不思，四处奔波、求人，打探儿子的下落。一日，儿子被装入麻袋丢在了家门口。原来，他是被保密局的官员带走了。儿子回家本是一件值得高兴的事，但很快夫妻二人便发现了一个残酷的事实：儿子在保密局，已经被严刑拷打成了一个双腿失去行走能力的残疾人。为了治好儿子的双腿，宋汉默跋山涉水、屡屡碰壁，最终不得不独自背着孩子踏上漫长的寻医问药之路。林赞相导演讲政治，聚焦的是生存在政治体制下小人物的成长与蜕变。向外，这种成长与蜕变有关于政治体制的基本认知；向内，这种成长与蜕变有关于自身的觉醒与思考。这种基本认知与自我觉醒，大概分为五个阶段。①宋汉默原本只是一个平凡、老实、易于满足，甚至有点唯唯诺诺的小人物。他连给儿子起名字都是稳中求胜的风格&mdash;&mdash;希望儿子健健康康、平平安安的长命百岁就好，尤其不要当个短命的富翁。他一开始并不关心政治，甚至不那么在乎总统是谁，就连投票选举这样的大事，也只是听听隔壁邻居的&ldquo;怂恿&rdquo;，草草填下一个名字了事。因为他相信，只要他还能靠理发混口饭吃，一切都不会太糟。而关于他命运的转变，导演其实一早就埋下注脚。这也是他第一次产生了一种基本认知：原来，在宏大的政治体系面前，自己命如蝼蚁。一日，总统先生在家举行晚宴，邀请宋汉默一家三口参加。吃饭间隙，独子乐安遭到取笑，误伤了其中一位高官的孩子，引起府内包括总统在内的一众官员围观。一家人已经低声下气的诚心道歉，可是中央情报局的领头人张赫洙还是将他叫到一旁，私下对他进行拳打脚踢，甚至拿枪指着他，令他尊严丧失殆尽。②儿子被保密局带走后，音讯全无。为了救出儿子，宋汉默送礼给中央情报局张赫洙，希望他可以在总统面前&ldquo;美言&rdquo;几句，将自己的儿子放出来，张收了礼却并不回应。眼看被带进保密局的&ldquo;间谍&rdquo;一个个被行刑或释放，&ldquo;马库斯热&rdquo;事件逐渐平息，儿子乐安却依旧下落不明，宋汉默内心忐忑不安。一日，总统先生心情大好，约情报局负责人张赫洙、保密局负责人朴钟文喝酒，顺带叫上了宋汉默一起。席间，宋汉默沉默不语，并不参与政治上的高谈阔论，杯酒下肚，径自暗自神伤起来。总统询问其原由，他也只是怯懦地表示，&ldquo;儿子出远门了，我很想念他。&rdquo;总统调侃宋汉默，并称&ldquo;我很小就离开父母出远门&rdquo;、&ldquo;男儿志在四方&rdquo;一类。倒是张赫洙率先出口暗示总统，宋汉默的儿子极有可能是还被朴钟文关在保密局里审讯。两位局长为此大打出手。酒局由于两位局长的争执不欢而散，许是张赫洙收了礼动了恻隐之心，许是他出于政治斗争需要必须利用这一点。总之，一声不吭的宋汉默第一次对政治产生了一种旁观者式的无力感。他手足无措。他有些认命了。③宋汉默第一次真正感到愤怒，是在得知儿子乐安双腿残疾之后。不过，他的愤怒看上去有些孱弱无力。心力交瘁的他用头撞破家门，揣起理发的剪子，跑到大马路上。他一边奋力哭喊、奔跑，一边将剪子举至头顶，把自己的头发一撮撮剪了下来。直到将自己剪得头破血流。&ldquo;他们怎么可以这样对待我的儿子？我可是总统的理发师。&rdquo;不论作为总统的理发师，还是作为一个平民百姓，剪子都是他唯一谋生的手段，也是他唯一的武器。他手中的剪子既锋利又弱小。锋利时只能自我伤害，弱小时别人不以为意。最终，他只能无力地瘫倒在疾驰而过的汽车之后。个体无法阻挡历史前进。个体要为历史让路。个体是如此渺小。④在电影中，导演林赞相运用了一系列妙趣横生的政治隐喻，同时加以超现实主义的表现手法。他将&ldquo;龙&rdquo;比喻成韩国总统。于是，就有了主人公宋汉默&ldquo;挖龙眼救子&rdquo;的情节&mdash;&mdash;高人认为，是总统忽略了这一切，才导致了悲剧的发生，才让一个小家庭深陷暗无天日的生活，所以他最终要献出自己的眼睛作为偿还罪孽的代价。片中，宋汉默背着儿子徒步千里，终于在深山之上找到了救治儿子的方法。一位高人指点他，&ldquo;你必须挖出龙的眼睛，加以菊花烹煮，才能治好儿子的眼睛。&rdquo;遵从&ldquo;高人&rdquo;的指引，在总统遭到暗杀后不久，宋汉默便偷偷潜进棺木附近，企图&ldquo;挖&rdquo;下总统的眼睛。挖眼睛时，他小心翼翼、紧张不已。一方面是自责，一方面是有些忌惮总统的&ldquo;权威&rdquo;。好在，他最后还是以父爱的名义，顺利完成了第一次反抗。由于&ldquo;挖眼&rdquo;时突遇镇守棺材的长官，情急之下，宋汉默将&ldquo;龙眼&rdquo;&ldquo;吞下&rdquo;，最后再拉出来，交给妻子，用以救治儿子的腿疾。⑤原总统遭到暗杀后不久，新总统很快继任。日子平淡无奇地继续往前行进，大家都在默默等待一个奇迹发生在乐安身上。新总统是一个光头，正当一家人窃喜不用被委任之际，总统再度召唤了宋汉默。他应邀前往，看看总统的光头，不卑不亢说了一句。&ldquo;总统，等您头发长长了我再来吧。&rdquo;可想而知，结果是被狠揍一顿丢回家。但是，父亲挺起了腰板之后，儿子好似也站直了。这恰恰印证了山上高人的预言。高人说，&ldquo;他的病我可以治好，但他的心，得靠你才能治好。&rdquo;唯唯诺诺的父亲敢于抗争之后，儿子也间接从他身上感受到了力量&mdash;&mdash;乐安最后终于站了起来。历经一番苦痛的煎熬，小人物宋汉默也终于活出了应有的尊严。《孝子洞理发师》是一部平凡人的史诗&mdash;&mdash;市井小人物在一系列机缘巧下接触到高层政治运作，在权力斗争的动荡之后又不得不回归平凡的生活。&ldquo;总统理发师&rdquo;这个特殊的职位表面上为宋汉默带来了无上荣光，实质上只是让他度过了战战兢兢、卑躬屈膝的大半辈子。身处日常生活里的我们，总觉得政治好似离我们很遥远，便事不关己、高高挂起。实际上，政治即民生，民生即我们每一个普通人脚踏实地的真实生活。关心每一个谨小慎微的民众的命运，关心时政民生，就是关心我们自己。因为，当某种&ldquo;厄运&rdquo;真正决定降临到我们头上时，我们无论如何也逃不开它无情的扫荡。历史是任人打扮的小姑娘，希望我们不要仅仅只是成为热心的围观群众。而是学会去了解它，关心它，并且努力参与到其中。如果我们终究无可避免需要被卷入这个盛大的洪流，也希望我们像可爱地宋汉默一家人这样，始终拥有在厄运中找寻欢乐和希望的能力与勇气。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 以父爱之名，对抗这个时代",
+                        "desc": "文/昔央 你要有一颗勇敢的心",
+                        "link": "http://m.wufazhuce.com/movie/1964?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 以父爱之名，对抗这个时代",
+                        "desc": "文/昔央 你要有一颗勇敢的心",
+                        "link": "http://m.wufazhuce.com/movie/1964?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 以父爱之名，对抗这个时代》 文/昔央： 你要有一颗勇敢的心 阅读全文：http://m.wufazhuce.com/movie/1964?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1964?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "以父爱之名，对抗这个时代",
+                        "desc": "你要有一颗勇敢的心",
+                        "link": "http://m.wufazhuce.com/movie/1964?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19943",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3087",
+                "title": "你快乐，所以我快乐",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FofsLL_XXcU5ExfcgCeUEJtpOYTz?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1801,
+                "post_date": "2020-03-12 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3087",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3087",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 你快乐，所以我快乐",
+                        "desc": "你的快乐源泉是什么？",
+                        "link": "http://m.wufazhuce.com/radio/3087?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lhsaQ8YRgyMvN2ZjTvWnUw8fmL4k"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 你快乐，所以我快乐",
+                        "desc": "你的快乐源泉是什么？",
+                        "link": "http://m.wufazhuce.com/radio/3087?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lhsaQ8YRgyMvN2ZjTvWnUw8fmL4k"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 你快乐，所以我快乐》 主播/李荟莹： 你的快乐源泉是什么？ 阅读全文：http://m.wufazhuce.com/radio/3087?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3087?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lhsaQ8YRgyMvN2ZjTvWnUw8fmL4k"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "你快乐，所以我快乐",
+                        "link": "http://m.wufazhuce.com/radio/3087?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lhsaQ8YRgyMvN2ZjTvWnUw8fmL4k"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 787 期",
+                "audio_url": "http://music.wufazhuce.com/lhsaQ8YRgyMvN2ZjTvWnUw8fmL4k"
+            }
+        ],
+        "menu": {
+            "vol": "2714",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4235",
+                    "title": "江城子"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1128",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第十九章：陷阱"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2786",
+                    "title": "你听过最美的诗词是哪一句？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1964",
+                    "title": "以父爱之名，对抗这个时代"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3087",
+                    "title": "你快乐，所以我快乐"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

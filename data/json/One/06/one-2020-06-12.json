@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5533",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-12 06:00:00",
+        "content_list": [
+            {
+                "id": "20516",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2847",
+                "title": "摄影",
+                "forward": "年轻时总以为能遇上许许多多的人，而后你就明白，所谓机缘，其实也不过那么几次。",
+                "img_url": "http://image.wufazhuce.com/Fvmg6tpKLD4D_Ap-iHzG-LCRwnMP",
+                "like_count": 20472,
+                "post_date": "2020-06-12 06:00:00",
+                "last_update_date": "2020-06-10 12:32:53",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2806",
+                "pic_info": "Max Duzij",
+                "words_info": "《爱在日落黄昏时》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2847",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2847",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2847",
+                    "image": "http://image.wufazhuce.com/Fvmg6tpKLD4D_Ap-iHzG-LCRwnMP",
+                    "title": "VOL.2806",
+                    "content": "年轻时总以为能遇上许许多多的人，而后你就明白，所谓机缘，其实也不过那么几次。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2847?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2847?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 年轻时总以为能遇上许许多多的人，而后你就明白，所谓机缘，其实也不过那么几次。——《爱在日落黄昏时》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2847?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2847?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20522",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4349",
+                "title": "离职后的365天",
+                "forward": "是该去找工作了呢。",
+                "img_url": "http://image.wufazhuce.com/Fgug_JV942Ey3SfoWQ7FZlwCO6W9",
+                "like_count": 2405,
+                "post_date": "2020-06-12 06:00:00",
+                "last_update_date": "2020-06-11 19:19:40",
+                "author": {
+                    "user_id": "11408852",
+                    "user_name": "狮心",
+                    "desc": "卑微静谧，狂热炽烈。\r\n热爱阳光普照，雨水丰盛。\r\n大多数时候都觉得写故事是一件很痛苦的事，但写完的瞬间，会在某处体会到看到一颗种子开花般的愉悦。目前热衷于把阅读快感和打动人心相互结合，写出两者兼有的故事。希望写出一种，可以让外星人看了后也不想侵略地球的文体，前提是他们懂简体中文。\r\n总之，是一个在一直探索着的硬核的人。同时也是一个在探索的道路上不断前行，碰巧摔了个狗吃屎后，就拐弯买杯“一点点”，不探索了的人。",
+                    "wb_name": "@写手狮心",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "举世无双大笨蛋",
+                    "fans_total": "649",
+                    "web_url": "http://image.wufazhuce.com/Fv8_ynm8zWQTwp9SkR4KSuSLLmIz"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4349",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4349",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4349",
+                    "image": "http://image.wufazhuce.com/Fgug_JV942Ey3SfoWQ7FZlwCO6W9",
+                    "title": "离职后的365天 作者/狮心",
+                    "content": "如果辞职一年不去工作，会怎么样？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 离职后的365天",
+                        "desc": "文/狮心 如果辞职一年不去工作，会怎么样？",
+                        "link": "http://m.wufazhuce.com/article/4349?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 离职后的365天",
+                        "desc": "文/狮心 如果辞职一年不去工作，会怎么样？",
+                        "link": "http://m.wufazhuce.com/article/4349?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 离职后的365天》 文/狮心： 如果辞职一年不去工作，会怎么样？ 阅读全文：http://m.wufazhuce.com/article/4349?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4349?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "离职后的365天",
+                        "desc": "如果辞职一年不去工作，会怎么样？",
+                        "link": "http://m.wufazhuce.com/article/4349?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20524",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1210",
+                "title": "最后的审判（二）第二十五章：人生恶犬",
+                "forward": "你需要的不是女朋友，你需要的是战友。",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 764,
+                "post_date": "2020-06-12 06:00:00",
+                "last_update_date": "2020-06-12 10:03:03",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第25章",
+                "number": "25",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1210",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1210",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1210",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第二十五章：人生恶犬 作者/红拂夜奔不复还",
+                    "content": "生活从来都不能如你所愿。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第二十五章：人生恶犬",
+                        "desc": "文/红拂夜奔不复还 生活从来都不能如你所愿。",
+                        "link": "http://m.wufazhuce.com/serial/1210?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第二十五章：人生恶犬",
+                        "desc": "文/红拂夜奔不复还 生活从来都不能如你所愿。",
+                        "link": "http://m.wufazhuce.com/serial/1210?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第二十五章：人生恶犬》 文/红拂夜奔不复还： 生活从来都不能如你所愿。 阅读全文：http://m.wufazhuce.com/serial/1210?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1210?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第二十五章：人生恶犬",
+                        "desc": "生活从来都不能如你所愿。",
+                        "link": "http://m.wufazhuce.com/serial/1210?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20523",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2875",
+                "title": "怎么看待“戴着面具相处”？",
+                "forward": "“每个人为不同的理由戴着面具说谎，动机也只有一种名字，那叫做欲望。”",
+                "img_url": "http://image.wufazhuce.com/FqPX98aDlV9aN8HV4X4IkkO09doy",
+                "like_count": 1933,
+                "post_date": "2020-06-12 06:00:00",
+                "last_update_date": "2020-06-12 12:42:52",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "哭会难过",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2875",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2875",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2875",
+                    "image": "http://image.wufazhuce.com/FqPX98aDlV9aN8HV4X4IkkO09doy",
+                    "title": "怎么看待“戴着面具相处”？",
+                    "content": "怎么看待“戴着面具相处”？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎么看待“戴着面具相处”？",
+                        "desc": "文/幺零 道德只是约束着那些善良的人。",
+                        "link": "http://m.wufazhuce.com/question/2875?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎么看待“戴着面具相处”？",
+                        "desc": "文/幺零 道德只是约束着那些善良的人。",
+                        "link": "http://m.wufazhuce.com/question/2875?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎么看待“戴着面具相处”？》 文/幺零： 道德只是约束着那些善良的人。 阅读全文：http://m.wufazhuce.com/question/2875?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2875?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎么看待“戴着面具相处”？",
+                        "desc": "道德只是约束着那些善良的人。",
+                        "link": "http://m.wufazhuce.com/question/2875?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10916327",
+                    "user_name": "幺零",
+                    "desc": "一个徘徊在艺术与世俗间的钟摆，时常见惯人间世，偶尔胡诌万物生。",
+                    "wb_name": "@开光的幺零",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "医生，魔术爱好者，rapper，写作者。",
+                    "fans_total": "312",
+                    "web_url": "http://image.wufazhuce.com/FmaRe_N4u_1c3hEYmImS85aqC3mo"
+                }
+            },
+            {
+                "id": "20518",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3273",
+                "title": "以前你给我的快乐，现在陪着我难过",
+                "forward": "敢于付出的人其实永远都掌握着主动权，爱的时候付出一切，不爱的时候舍弃一切。",
+                "img_url": "http://image.wufazhuce.com/FlvBuG1zI8Hx0wLCUTuKelX3XgHR",
+                "like_count": 2057,
+                "post_date": "2020-06-12 06:00:00",
+                "last_update_date": "2020-06-10 12:53:04",
+                "author": {
+                    "user_id": "9294032",
+                    "user_name": "申申",
+                    "desc": "戴着镣铐也要跳舞的人",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "戴着镣铐也要跳舞的人",
+                    "fans_total": "1540",
+                    "web_url": "http://image.wufazhuce.com/FuLa2p5fyBrgcr95MM0yDkcnTQjf"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lqa1jF1kKpiZn_qt87HRE6bPi5-1",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "上一个最好",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3273",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3273",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3273",
+                    "image": "http://image.wufazhuce.com/FlvBuG1zI8Hx0wLCUTuKelX3XgHR",
+                    "title": "「一个」音乐: 申申 上一个最好",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1、顾兮又被一大群人拉出来喝酒，玩桌游，她明白朋友是想让她赶紧开始谈恋爱。顾兮模样好，性格也随和，还会煮咖啡，烧得一手好菜，喜欢跳舞，照片也拍得不错，追她的人其实很多。但她总觉心里被戳出来的洞，依然没有被缝上。一有人尝试靠近，那些花样百出的追求并不让人欣喜，她明白男孩子就是喜欢你时你什么都好，但时间一长，还不是都一样&mdash;&mdash;一样的不可靠。她总开玩笑说：&ldquo;要找个比陆毅好的才对得起自己。&rdquo;陆毅开始喜欢她的时候，是她最胖的时候。因为过山车般的成绩，顾兮的脸型跟着一变再变。她瘦的时候，大小还算得上个&ldquo;小美女&rdquo;，而胖了之后，连老妈看着她的眼神里都透露着忧心。但陆毅，每天依旧为她带着豆浆、流沙包、虾馅儿烧卖。他也是个小胖子，眼睛被肉挤成了一条缝，常被人取笑像是没睡醒。他是唯一一个看不到顾兮体重变化的人，顾兮把这归功于他们&ldquo;坚固的兄弟情&rdquo;。她曾豪气地对陆毅说：&ldquo;只要我顾兮在297班的一天，你陆毅永远都是我罩的人。&rdquo;陆毅脾气好到像一团棉花，不懂拒绝。大家都欺负他脾气好，总把麻烦事推给他，总是顾兮看不过去，替他解决。他不曾主动拒绝什么，除了那次填高考志愿，他拒绝了所有人的建议，包括父母。2、他高出顾兮80多分，却和顾兮选同一所大学，让所有人大跌眼镜。这是那个年纪最浪漫的事，更好的学校和你，我选你。只有顾兮没感觉到什么，她想不通的是，这厮怎么没被他妈妈给打死？大三那年，顾兮选修了一堂与健康有关的课，里面讲到肥胖与疾病的关系，讲得顾兮寒毛直竖。周末和陆毅出去玩的时候，郑重其事讲起这回事。陆毅还清楚地记得，那天的顾兮身上有某种植物的清香味，她讲得鼻尖上都冒出了汗珠，手指不断地在手机屏幕上滑动，将上课的PPT翻出来。讲到后来，她眼眶红得像只小兔子，说：&ldquo;陆毅，咱俩要是被身上这几块肥肉给害死了，怎么办呀？&rdquo;陆毅也是在那一刻，毫无预警地陷入了痴恋。之前的喜欢终于上升到无法再克制的地步，他决意一定要找机会抱住眼前这个可爱的女孩。她不由分说就把陆毅拉入了减肥的行列。陆毅的妈妈打电话给顾兮，说：&ldquo;谢谢你，要不是你陆毅不会迈出减肥这一步。别看他笑嘻嘻其实很自卑，又很敏感，多亏你，陆毅居然愿意减肥了。&rdquo;顾兮一头雾水，其实她不知道陆毅在这方面有着这么多的想法。顾兮就是这样大大咧咧，陆毅在心理最敏感的时期无比喜欢这样的大大咧咧。他那时在想，这女孩可能戴了一副看不出人体型的眼镜。胖子都有一颗细腻的心。在以瘦为美的时代，他们接受过诸多恶意，所以一旦有善意出现，他们会第一个知道。减肥路上，两人开始了互相监督。顾兮的体重以肉眼可见的速度降下去了。陆毅则是更不容易，一个庞大的胃时时受着折磨，肉滚滚的四肢还要死命地运动。但他一向就是说到做到，就像当年&ldquo;他要和她上一所大学&rdquo;。更何况他决定减肥成功后，跟顾兮告白。3、告白的时候，顾兮以为是减肥这段日子的朝夕相处才两情相悦，而其实陆毅蓄谋已久。刚在一起的时候，陆毅是欣喜若狂的，两人恨不得一天24小时待在一块儿。爱情的新鲜让两个人牵手都可以心跳加速，对方的一个微笑就能让自己觉得开心。陆毅对她极好，在一起的那一年多，顾兮甚至从来没有记过自己的生理期，陆毅会专门记下然后提醒自己。顾兮想到此，不由得露出一个苦笑的表情。如果在恋爱时，她再多用一点心，会不会结果就不一样呢？人就是这样，以为一时被爱就会终身被爱。他们的开头是真的很美好，为了共同的目标一起加油。回想起来，没有比那时更默契的时候了，顾兮能解读出陆毅的眼神究竟在说&ldquo;坚持&rdquo;还是&ldquo;休息一下，喝口水&rdquo;。也许是彼此在对方身上看到了改变的力量，才对这份爱情抱有了更高的期望。只可惜满足期望是一件多难的事情，而让人失望再简单不过。减肥成功这件事让陆毅认识到，自卑、局限都是可以靠努力打破的。他的世界里多了一份勇气和好奇心，每一种未知的旅程都想牵着身边人一起去体验。但顾兮却像是感受不到似的，她的世界里有电视剧综艺和游戏似乎就已足够。她甚至从来没有出口问一句：&ldquo;你在想什么？&rdquo;他们的交往退回到朋友的状态，彼此的生活相关，想法却不复亲密无间。被分手的时候，顾兮只以为陆毅耍小脾气。但男孩子其实从不耍小脾气，而是失望都积攒到头了。她回头抱着他，求他，看他身上还穿着和自己一起买的T恤，她以为他会心软的。没想到陆毅只是等她哭够后，认认真真讲道理，讲他们的不合适。他邀请顾兮一起拍视频，一起学摄影，一起学街舞，一起学滑板&hellip;&hellip;她都拒绝了，其实她也不是没空，只是懒于尝试。他说，他受够了这样的拒绝，她从来没有想走进他的世界。陆毅脸上没有什么表情，他的嘴抿得紧紧的，而那双眼睛却亮得惊人。顾兮怔怔地看着这幅表情，思维却飘到了几年前高考前进考场前的场景。陆毅为自己多备了一套考场文具，递给自己的时候，他说：&ldquo;我想和你上同所大学。&rdquo;说完话，也是这样一副表情&mdash;&mdash;严肃地抿着嘴，眼睛亮得像六月的太阳。这是他内心早已下定决心的表情啊。她曾天真地以为，两个人在一起只要互相喜欢就能走一辈子。但感情是流动的，喜欢不是一成不变的。有一天，她发现她都无法看懂他为何会兴高采烈地转发一个视频，看着别人和他在微博下面讨论得热火朝天，才彻底发现自己与陆毅的距离已经太远了。他妈妈知道他们分手后颇感惋惜，却还是直言劝顾兮不要回头。她说：&ldquo;陆毅这孩子很倔。高二他就说以后一定要和你读一个学校，我反对，他什么也没说我以为他屈服了。但高考那天，我看着他准备了两套考试文具，他说你经常丢三落四。我就知道，这事儿没完&hellip;&hellip;他当时说喜欢你，谁也拦不住，现在说不爱了，也一定是真的。&rdquo;她愣了很久，等到回过神来已哭得上气不接下气。恋爱时，她一直活在陆毅迁就她的舒适区里，她从没认真去了解他的想法，而他的情意有多深，等他离开才明白。他一直在付出，自己却只会接受。为什么非要分开，人才会明白当初有多美好？在陆毅离开的很长一段时间里，顾兮都绝望到窒息。她回家去买高中时爱吃的虾馅儿烧卖发现那条路和陆毅家的方向正好相反，她登录自己的网盘发现那些不好找的日剧资源全是来自陆毅的分享，她甚至才知道宿舍以前从未断过水电的原因是陆毅从大一起就开始帮她交了&hellip;&hellip;生活里的事情，越具体越伤人。敢于付出的人其实永远都掌握着主动权，爱的时候付出一切，不爱的时候舍弃一切。4、朋友每每看到顾兮拒人于千里之外的模样，就恨铁不成钢。她说，你根本就是&ldquo;一朝被蛇咬，十年怕井绳&rdquo;。谁说不是呢？她就是怕，怕自己不懂他人的感受，不会照顾别人，怕又让别人失望。陆毅那么好的人，都对自己失望至极了。在这段失败的感情后，她检讨自己没经营好感情，开始学会经营自己，改变自己。朋友叹了口气说：&ldquo;你变了很多，你知道吗？以前你连我讨厌吃辣都不记得，现在呢，你连我不吃葱姜蒜都记住了。&rdquo;顾兮笑了笑并不回答。每次朋友小聚，她渐渐变成了那个了解所有人喜好的朋友。她学会了尽可能地站在别人的角度去了解别人，朋友都爱和她聊天。而这样会照顾别人、理解别人的顾兮，自然就被人惦记上了。她终于可以鼓起勇气走入下一段感情了。那天男友突然捧起顾兮的脸，他说：&ldquo;你是我遇到的最好的人&mdash;&mdash;最会理解人，又懂得照顾别人的感受。遇上你是我的幸运。&rdquo;顾兮心突然酸成一团，原来自己也成为了他人眼中最好的人啊，是陆毅用离开教会了自己。如果说，认识一个人就像阅读一本书，那么陆毅不是一本传世经典的名著，却是影响顾兮最深的那一本。此后的一切，陆毅已是心中的&ldquo;最好标准&rdquo;，用来衡量后来遇见的每个人。前任并不是最好的人，但他却教会了你最多，所以你念念不忘，总以为他是最好的。感情路上总有人告诉你如何付出，而接受你的好的往往是另一个人。过去的人教会你成长，而眼前人等着你去爱。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 以前你给我的快乐，现在陪着我难过",
+                        "desc": "文/申申 人就是这样，以为一时被爱就会终身被爱。",
+                        "link": "http://m.wufazhuce.com/music/3273?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 以前你给我的快乐，现在陪着我难过",
+                        "desc": "文/申申 人就是这样，以为一时被爱就会终身被爱。",
+                        "link": "http://m.wufazhuce.com/music/3273?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 以前你给我的快乐，现在陪着我难过》 文/申申： 人就是这样，以为一时被爱就会终身被爱。 阅读全文：http://m.wufazhuce.com/music/3273?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3273?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "以前你给我的快乐，现在陪着我难过",
+                        "desc": "人就是这样，以为一时被爱就会终身被爱。",
+                        "link": "http://m.wufazhuce.com/music/3273?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "上一个最好",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "茶茶",
+                "audio_album": "时效性的质量轨迹",
+                "cover": "http://image.wufazhuce.com/FtLiPeD3q8WUf8PRAOq3XoS30w3Z",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2806",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4349",
+                    "title": "离职后的365天"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1210",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第二十五章：人生恶犬"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2875",
+                    "title": "怎么看待“戴着面具相处”？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3273",
+                    "title": "以前你给我的快乐，现在陪着我难过"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

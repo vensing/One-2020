@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5500",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-05-11 06:00:00",
+        "content_list": [
+            {
+                "id": "20332",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2815",
+                "title": "摄影",
+                "forward": "好好忍耐，不要沮丧。你想，如果春天要来，大地就使它一点点地完成。",
+                "img_url": "http://image.wufazhuce.com/Fp3Pl_3CbJsGMIRPPgzvkJxgYdqy",
+                "like_count": 17778,
+                "post_date": "2020-05-11 06:00:00",
+                "last_update_date": "2020-05-10 13:39:30",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2774",
+                "pic_info": "Harshil Gudka",
+                "words_info": "里尔克《给青年诗人的信》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2815",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2815",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2815",
+                    "image": "http://image.wufazhuce.com/Fp3Pl_3CbJsGMIRPPgzvkJxgYdqy",
+                    "title": "VOL.2774",
+                    "content": "好好忍耐，不要沮丧。你想，如果春天要来，大地就使它一点点地完成。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2815?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2815?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 好好忍耐，不要沮丧。你想，如果春天要来，大地就使它一点点地完成。——里尔克《给青年诗人的信》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2815?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2815?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20322",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4311",
+                "title": "今年夏天没来",
+                "forward": "在夏天，认真做一个融化的雪人。",
+                "img_url": "http://image.wufazhuce.com/FjB05i2_GASKZK135vOUs4AKSyY5",
+                "like_count": 2745,
+                "post_date": "2020-05-11 06:00:00",
+                "last_update_date": "2020-05-11 10:01:47",
+                "author": {
+                    "user_id": "10957830",
+                    "user_name": "王萌",
+                    "desc": "诗歌公众号：打铜巷。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者。",
+                    "fans_total": "410",
+                    "web_url": "http://image.wufazhuce.com/Fv11S4Cn4y2rxS0BZsyJMD9YFIYa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4311",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4311",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4311",
+                    "image": "http://image.wufazhuce.com/FjB05i2_GASKZK135vOUs4AKSyY5",
+                    "title": "今年夏天没来 作者/王萌",
+                    "content": "是时候了，不要逃避。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 今年夏天没来",
+                        "desc": "文/王萌 是时候了，不要逃避。",
+                        "link": "http://m.wufazhuce.com/article/4311?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 今年夏天没来",
+                        "desc": "文/王萌 是时候了，不要逃避。",
+                        "link": "http://m.wufazhuce.com/article/4311?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 今年夏天没来》 文/王萌： 是时候了，不要逃避。 阅读全文：http://m.wufazhuce.com/article/4311?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4311?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "今年夏天没来",
+                        "desc": "是时候了，不要逃避。",
+                        "link": "http://m.wufazhuce.com/article/4311?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20325",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1180",
+                "title": "最后的审判（二）第十一章：流血大象",
+                "forward": "这些年里，她从一个物件变成了一个女人，从众多物件中脱颖而出成为一个女人，在被爱和被打中，在被宠幸和被折磨中，她已经不能分辨自己对他的感情。",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 755,
+                "post_date": "2020-05-11 06:00:00",
+                "last_update_date": "2020-05-09 10:10:23",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第11章",
+                "number": "11",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1180",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1180",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1180",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第十一章：流血大象 作者/红拂夜奔不复还",
+                    "content": "夏天的夜晚来得很迟，一旦来临，布满星星，唾手可得。\n\n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第十一章：流血大象",
+                        "desc": "文/红拂夜奔不复还 夏天的夜晚来得很迟，一旦来临，布满星星，唾手可得。\n\n",
+                        "link": "http://m.wufazhuce.com/serial/1180?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第十一章：流血大象",
+                        "desc": "文/红拂夜奔不复还 夏天的夜晚来得很迟，一旦来临，布满星星，唾手可得。\n\n",
+                        "link": "http://m.wufazhuce.com/serial/1180?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第十一章：流血大象》 文/红拂夜奔不复还： 夏天的夜晚来得很迟，一旦来临，布满星星，唾手可得。\n\n 阅读全文：http://m.wufazhuce.com/serial/1180?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1180?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第十一章：流血大象",
+                        "desc": "夏天的夜晚来得很迟，一旦来临，布满星星，唾手可得。\n\n",
+                        "link": "http://m.wufazhuce.com/serial/1180?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20321",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2843",
+                "title": "名人毒舌起来是怎样的？",
+                "forward": "你的脸好大，像平原缅邈，山河浩荡。",
+                "img_url": "http://image.wufazhuce.com/FquQXKOWGwpy3zq0C8X1frMDdEk1",
+                "like_count": 4380,
+                "post_date": "2020-05-11 06:00:00",
+                "last_update_date": "2020-05-10 19:11:36",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "祖安文科状元",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2843",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2843",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2843",
+                    "image": "http://image.wufazhuce.com/FquQXKOWGwpy3zq0C8X1frMDdEk1",
+                    "title": "名人毒舌起来是怎样的？",
+                    "content": "名人毒舌起来是怎样的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 名人毒舌起来是怎样的？",
+                        "desc": "文/ONE文艺生活 你的脸好大，像平原缅邈，山河浩荡。",
+                        "link": "http://m.wufazhuce.com/question/2843?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 名人毒舌起来是怎样的？",
+                        "desc": "文/ONE文艺生活 你的脸好大，像平原缅邈，山河浩荡。",
+                        "link": "http://m.wufazhuce.com/question/2843?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 名人毒舌起来是怎样的？》 文/ONE文艺生活： 你的脸好大，像平原缅邈，山河浩荡。 阅读全文：http://m.wufazhuce.com/question/2843?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2843?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "名人毒舌起来是怎样的？",
+                        "desc": "你的脸好大，像平原缅邈，山河浩荡。",
+                        "link": "http://m.wufazhuce.com/question/2843?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "ONE文艺生活",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20319",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3254",
+                "title": "我要藏起所有温柔，都留给我喜欢的人",
+                "forward": "他说现在他不想再退出了，他要给我快乐。可以让我快乐，是他的快乐。",
+                "img_url": "http://image.wufazhuce.com/FoJtGai9uw4iOjYgMOG6LD1hUk5a",
+                "like_count": 2225,
+                "post_date": "2020-05-11 06:00:00",
+                "last_update_date": "2020-05-11 12:58:45",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lvFc5-fLR178qEMT4iOMm_wBPnKs",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "可乐",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3254",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3254",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3254",
+                    "image": "http://image.wufazhuce.com/FoJtGai9uw4iOjYgMOG6LD1hUk5a",
+                    "title": "「一个」音乐: 姜乐辛 可乐",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.今年夏天要比往年热些，白天基本上可以穿着短袖出门，但我这人生来体寒，天气再热我都容易浑身发凉。傍晚的时候，我给沈遇陈打电话，约着一起去超市，他知道我不爱喝水，家中冰箱里面不能少牛奶，接到我的电话，他立马下楼见我。我们住在同个小区，说来也是缘分。后来我在想，要是当时没有那场雨，我没有被他撞见在路边哭，那我们是不是就不会遇见，也不会有后面的故事。但其实无论怎样，我们都遇见了，这对我来说，大概也是一件美好的事情。&ldquo;沈遇陈你喝什么，今儿我请客，你尽管拿。&rdquo;沈遇陈看了我一眼，摇摇头：陆嘉许，你摸摸你的良心，你每回请客最后都给我换一瓶矿泉水，说是健康，我可不想再落空幻想。听到这话，我坐不住了，他那是因为每次都正好赶上我带的钱不够，但又不乐意花他的钱，所以只能给他换矿泉水，我总不能拿我的牛奶换吧，我舍不得。我出门去超市有个习惯，固定带多少钱，花完了就没了，要是带手机的话，这手总是不受控制，乱七八糟买一堆，百分之八十都是不用的，浪费钱还浪费力气，提回去还挺累。这招真的有用，为我省了不少钱，但凡事都有利有弊，沈遇陈也因此少了很多次白嫖我请客的机会。我们走到牛奶区，做促销活动的阿姨正看着我们笑，我每样都拿了一盒，阿姨给我拿袋子时，手正好碰到我手上，抬头对沈遇陈说：小伙子，女朋友这样凉，你得多照顾着点啊。接下来就是三双眼睛相互瞪着，我摆手跟阿姨解释，这不是我男朋友，我们只是好朋友。阿姨似乎并没有听进去，拉紧我的手，边给我暖手边说，这女生也得自己照顾好自己，身体是自己的，丫头啊，知不知道。这是我第二次被陌生人关心，有种说不出来的幸福感。大概心里缺乏安全感的人，碰到一点温暖就会融化吧。&nbsp;2.沈遇陈提着牛奶送我回家，两个人在路上说说笑笑，到我家后，他很自然地将一半牛奶放进冰箱摆放好，并再次叮嘱我，早上不可以喝凉的，另一半放在桌子上，早上喝常温的。基本上每次买完回来，他都会叨叨这么一些话，我听太多遍了，后来每次他说，我都是敷衍了事，听听就过去了。我们买些菜回来，他知道我晚上没吃，留下来给我做我爱吃的咖喱饭。很多时候我都在想，要是没有沈遇陈，我是不是就只能靠外卖活下去。每回想到这，再看看沈遇陈，我都觉得幸好有沈遇陈在身边，遇见他是我最幸运的事。我一直拿他当好哥们，因为那样我们就会是一辈子的好朋友。我看着他做饭的背影，不禁想起以前也有个人如他一般，为我做饭，感受我所有的喜怒哀乐，可那个人最终还是选择放弃我，跟沈遇陈相识正是我分手那天，吃完最后的午餐回来，下车空中飘着雨，我穿着当初那人送我的衣服，以前怎么都觉得好看，如今再怎么看都觉得有些许膈应。我慢悠悠地走进小区，坐在门口的靠椅上，想着我跟他的种种事情，为什么要跟我分开，我是不是哪做得不好。雨淋到脸上，夹着眼泪一起往下流，顾不上妆容怎样，那瞬间我只知道我很难过。沈遇陈什么时候走到我身边给我撑着伞的我都不知道，等我反应过来时，他说他已经陪我二十分钟了，我硬是被他拉回家。他在客厅坐着督促我洗热水澡，中途他还给我烧了壶热水，方便我洗完澡喝。洗完出来，我有些尴尬地看着他，不知道该说什么，他将热水递到我手上，看着我喝完。&ldquo;年纪轻轻有什么想不开的，坐那淋雨万一把身子淋坏了谁负责，多大人了，也不知道照顾好自己。&rdquo;沈遇陈嫌弃地看着我说。要不是当时他救我一命，就冲他说的那些话，我早就跟他吵起来了。他临走还拿我手机加好友，跟我说日后好还他人情。我就这样迫不得已地加了他微信，他说他叫沈遇陈，因为他爸爸姓沈，遇到了他妈妈，而妈妈姓陈，所以给他取名沈遇陈。我对他这个人转变态度也是因为他的名字，一般名字好听的人，素质都不会差。虽然他欠打，但我能看出来他心细，当真是个好人。&nbsp;3.稀里糊涂跟沈遇陈成为好友后，他三天两头的出现在我面前，我去哪都能碰着他，我曾经一度管这叫玄学，不然怎么就那么巧，哪哪都能碰着呢。我见他人还挺逗，每回碰着都跟我装偶遇，演一出好戏。平时微信消息也是没断过，动不动就问我吃没吃，睡没睡，要不要出去遛狗。他正好闲的养了条萨摩，叫嘉哥。凡是我没回他的消息，他都会发嘉哥的视频或者照片过来，我对这种毛茸茸的宠物实在没有抵抗力，后来我经常带着零食去他家见嘉哥，或者他带着嘉哥来我家。时间久了，我在家都会备着嘉哥爱吃的狗粮跟零食，以便它随时来这陪我。嘉哥很喜欢我，很多次沈遇陈想带嘉哥回家，它都不肯。那段时间，幸好有嘉哥在我身边闹腾，我的注意力始终被分散，想着要怎么照顾好它。沈遇陈对嘉哥说，对女孩子要有耐心，你要多陪陪她，知不知道。嘉哥是个很有灵性的狗狗，它像是能听懂沈遇陈的话，靠近我怀里，不停地蹭我下巴。在这个世界上活了这么多年，我第一次被动物治愈，好似只要有它在，我的生活就会有着多种颜色，不再像从前那样，只有黑色。沈遇陈有天陪我吃饭的时候，突然问道：陆嘉许，你是心里还有人吗？我很少见到他正经地跟我讲话，一时间不知道该怎么回答这个问题，因为我自己也没弄清楚，我心里究竟是不是还有那个人。他看我一直沉默，也没再继续问，我们在后来的相处中，也都很默契地谁都没再提起过关于感情的任何事，那天的那些话似乎不存在于我们之间。我想，这样也挺好，起码我不用感到为难。当时的我并不知道，对沈遇陈来说，他不过是想确定我心里的答案，无论是怎样的回答，他都愿意无条件守在我身边，跟嘉哥一起。&nbsp;4.我在爱情里做过很多傻事，以前恋爱时，什么都发微博，沈遇陈偷偷去看了，所以他都知道，关于我的一切，他都了如指掌。有天他突然约我散步，说想跟我聊聊天，我穿好衣服就下楼去见他。他没有牵嘉哥，只有他自己，见到我的时候，他甚至有些紧张，手脚不知道怎么放，跟平时的他大不相同，而且是很明显的不同。我问他是有什么重要的事吗？他支支吾吾地说，重要也不重要。其实当时我心里也大概有了个底，知道他要说什么。两个人相处久了，多少还是有些默契的。我们走在那条曾经走过无数遍的小路上，我被他带着也有些不知所措。后来我实在憋不住，问他怎么了。他停下来走到我面前：&ldquo;嘉许，我知道你心里可能还有那个人，我也知道那天我遇见你，是因为你们分手，其实我早就注意到你了，只是你从未在意过我。我喜欢你很久了，一直以来我都用嘉哥去靠近你，也只是为了想跟你有更多的话题。&rdquo;很多次，他说他都想要说出这番话，但他不敢，他怕他说出来我们连朋友都没法做。现在他不想再退出了，他说他想给我快乐，可以让我快乐，是他的快乐。人在被伤过一次后，很难再次重新投入新的拥抱，我很感谢沈遇陈的喜欢。在我准备婉拒他的时候，他突然问我，我能抱一抱你吗？我点了点头，他很绅士的给我一个拥抱，对我说，嘉许，你太让自己难过了，你本该是个快乐的姑娘。其实他说得也挺对，大概也是因为他这句话把我看透了，所以我答应他留在我身边，而我当嘉哥的妈妈。&nbsp;5.是的，我跟沈遇陈确定关系了。我很感谢我们认识以来，他对我的每次照顾以及陪伴。我喜欢他对我说的那句，我要你快乐，我也希望我能够给你快乐，我更希望，你的快乐是因为我。谢谢他没有退出，谢谢命运最终让我遇到我的爱人，真的感谢。而我的这份温柔，也将全部独属于他。珍惜每一次相遇，感受每一份情感，爱情会来的，一定会的。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我要藏起所有温柔，都留给我喜欢的人",
+                        "desc": "文/姜乐辛 在所有物是人非的景色里，我最喜欢你。",
+                        "link": "http://m.wufazhuce.com/music/3254?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我要藏起所有温柔，都留给我喜欢的人",
+                        "desc": "文/姜乐辛 在所有物是人非的景色里，我最喜欢你。",
+                        "link": "http://m.wufazhuce.com/music/3254?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我要藏起所有温柔，都留给我喜欢的人》 文/姜乐辛： 在所有物是人非的景色里，我最喜欢你。 阅读全文：http://m.wufazhuce.com/music/3254?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3254?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我要藏起所有温柔，都留给我喜欢的人",
+                        "desc": "在所有物是人非的景色里，我最喜欢你。",
+                        "link": "http://m.wufazhuce.com/music/3254?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "可乐",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "赵紫骅",
+                "audio_album": "可乐",
+                "cover": "http://image.wufazhuce.com/FgtWOR6jlanBx24bAixeoC-p62KD",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2774",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4311",
+                    "title": "今年夏天没来"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1180",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第十一章：流血大象"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2843",
+                    "title": "名人毒舌起来是怎样的？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3254",
+                    "title": "我要藏起所有温柔，都留给我喜欢的人"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

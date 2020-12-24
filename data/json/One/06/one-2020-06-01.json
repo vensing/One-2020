@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5522",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-01 06:00:00",
+        "content_list": [
+            {
+                "id": "20449",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2836",
+                "title": "摄影",
+                "forward": "小时候真傻，居然盼着长大。",
+                "img_url": "http://image.wufazhuce.com/Fqkm33j_wpOTi2aB1rxf6OvMK7Z_",
+                "like_count": 20627,
+                "post_date": "2020-06-01 06:00:00",
+                "last_update_date": "2020-05-28 21:40:47",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2795",
+                "pic_info": "Alexander Dummer",
+                "words_info": "丰子恺",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2836",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2836",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2836",
+                    "image": "http://image.wufazhuce.com/Fqkm33j_wpOTi2aB1rxf6OvMK7Z_",
+                    "title": "VOL.2795",
+                    "content": "小时候真傻，居然盼着长大。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2836?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2836?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 小时候真傻，居然盼着长大。——丰子恺 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2836?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2836?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "1"
+            },
+            {
+                "id": "20458",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4334",
+                "title": "初恋",
+                "forward": "他只把自己当成这座城市的一个过客，他也不会喜欢这座城市的姑娘们。因为，他知道自己总有一天会离开这里的。",
+                "img_url": "http://image.wufazhuce.com/Fio4sFrhkvCXe22lne_BbCwXWLdx",
+                "like_count": 2905,
+                "post_date": "2020-06-01 06:00:00",
+                "last_update_date": "2020-06-01 15:44:54",
+                "author": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4334",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4334",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4334",
+                    "image": "http://image.wufazhuce.com/Fio4sFrhkvCXe22lne_BbCwXWLdx",
+                    "title": "初恋 作者/文长长",
+                    "content": "每个人来到我们生命中，都是带着任务的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 初恋",
+                        "desc": "文/文长长 每个人来到我们生命中，都是带着任务的。",
+                        "link": "http://m.wufazhuce.com/article/4334?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 初恋",
+                        "desc": "文/文长长 每个人来到我们生命中，都是带着任务的。",
+                        "link": "http://m.wufazhuce.com/article/4334?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 初恋》 文/文长长： 每个人来到我们生命中，都是带着任务的。 阅读全文：http://m.wufazhuce.com/article/4334?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4334?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "初恋",
+                        "desc": "每个人来到我们生命中，都是带着任务的。",
+                        "link": "http://m.wufazhuce.com/article/4334?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20466",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1200",
+                "title": "最后的审判（二）第二十章：撞一次钟",
+                "forward": "她不想要被照顾了，她已经恨透了被照顾，她的人生都毁在了贪图照顾上。",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 750,
+                "post_date": "2020-06-01 06:00:00",
+                "last_update_date": "2020-06-01 10:41:28",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第20章",
+                "number": "20",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1200",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1200",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1200",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第二十章：撞一次钟 作者/红拂夜奔不复还",
+                    "content": "她不想要被照顾了，她已经恨透了被照顾，她的人生都毁在了贪图照顾上。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第二十章：撞一次钟",
+                        "desc": "文/红拂夜奔不复还 她不想要被照顾了，她已经恨透了被照顾，她的人生都毁在了贪图照顾上。",
+                        "link": "http://m.wufazhuce.com/serial/1200?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第二十章：撞一次钟",
+                        "desc": "文/红拂夜奔不复还 她不想要被照顾了，她已经恨透了被照顾，她的人生都毁在了贪图照顾上。",
+                        "link": "http://m.wufazhuce.com/serial/1200?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第二十章：撞一次钟》 文/红拂夜奔不复还： 她不想要被照顾了，她已经恨透了被照顾，她的人生都毁在了贪图照顾上。 阅读全文：http://m.wufazhuce.com/serial/1200?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1200?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第二十章：撞一次钟",
+                        "desc": "她不想要被照顾了，她已经恨透了被照顾，她的人生都毁在了贪图照顾上。",
+                        "link": "http://m.wufazhuce.com/serial/1200?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20465",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2864",
+                "title": "你的童年回忆杀是什么？",
+                "forward": "爷爷奶奶家的童年，姥姥姥爷家的暑假。",
+                "img_url": "http://image.wufazhuce.com/Fgb2KP9BwALEUSXOIhgF3GVihp4L",
+                "like_count": 1983,
+                "post_date": "2020-06-01 06:00:00",
+                "last_update_date": "2020-06-02 12:32:42",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2864",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2864",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2864",
+                    "image": "http://image.wufazhuce.com/Fgb2KP9BwALEUSXOIhgF3GVihp4L",
+                    "title": "你的童年回忆杀是什么？",
+                    "content": "“生命中最重要的人”如果是一个命题作文，我想每个人的故事里都有父母、爱人和孩子。母亲：平凡而伟大，女子本弱，为母则刚，母爱是世上最强大的力量；父亲：爱得深沉，爱得隐晦，却总在危难关头给你依靠；爱人：与你的全世界接轨，喜怒哀乐与你相伴；孩子：让你欢喜让你忧，生命的延续与希望，是生活的动力。在他们的节日，放肆流露，尽情表白——给生命中最重要的人之儿童节。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你的童年回忆杀是什么？",
+                        "desc": "文/网友 爷爷奶奶家的童年，姥姥姥爷家的暑假。",
+                        "link": "http://m.wufazhuce.com/question/2864?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你的童年回忆杀是什么？",
+                        "desc": "文/网友 爷爷奶奶家的童年，姥姥姥爷家的暑假。",
+                        "link": "http://m.wufazhuce.com/question/2864?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你的童年回忆杀是什么？》 文/网友： 爷爷奶奶家的童年，姥姥姥爷家的暑假。 阅读全文：http://m.wufazhuce.com/question/2864?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2864?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你的童年回忆杀是什么？",
+                        "desc": "爷爷奶奶家的童年，姥姥姥爷家的暑假。",
+                        "link": "http://m.wufazhuce.com/question/2864?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20445",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3267",
+                "title": "我们不是夏日限定，我们是来日方长",
+                "forward": "人间浪漫，彼此依恋，从不庞大，只在小心思中存在。",
+                "img_url": "http://image.wufazhuce.com/Fihj7ksnwm9UDszR6Nrf9xXOlUA7",
+                "like_count": 2044,
+                "post_date": "2020-06-01 06:00:00",
+                "last_update_date": "2020-11-02 11:51:17",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/FnCqMVJhtOIaLXHQuma-9pBoTcEN",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "那个你",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3267",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3267",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3267",
+                    "image": "http://image.wufazhuce.com/Fihj7ksnwm9UDszR6Nrf9xXOlUA7",
+                    "title": "「一个」音乐: 鹿西兮 那个你",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1我出生的地方，是一个很小的县城。那里没有大型购物广场，不会有早晚高峰的堵车，走在路上很容易就可以遇见熟人，没有高楼，没有游乐场，人们不会谈论爱情，最看不起理想，那里的人只会问&ldquo;结婚了吗，要二胎吗？&rdquo;在我的记忆里，那个小镇除了白叙，一无所有，无可留恋。转眼又到夏天。前几天气温到了三十几度，这让我无所适从，像突然掉进热水中的鱼有些无助。但我还是换上碎花裙子，戴着典典送我的奶油色渔夫帽，走进故宫，在红墙下拍上一组满意的照片。典典的拍照技术很好。他教我摆姿势，教我眼睛往哪个方向看更显少女，他教我在夏天怎样搭配糖果色的T恤。他说这是一种态度，一种尊重夏天的态度，不要怕麻烦。他说，夏天里的你才是最自然的你。典典总会给我讲很多道理，我也喜欢听。他已经北漂多年，据说已经给五百多对新人拍过婚纱照。当然，摄影师只是他的副业，他的大部分人生还是被&ldquo;投资顾问&rdquo;这四个字困着。这样想着，典典接了一个电话，说有工作，问我是否跟他一起回去。我说，我想自己逛逛。他微微一笑，胳膊环抱住我三秒，然后离开。晚上回到家，拉上窗帘，把霓虹灯关在窗外，点一支烛光，打开歌单从那首《那个你》开始播放，留下独居的一点点浪漫。我仔仔细细看着典典刚刚发来的照片，他提高了色彩饱和度，但没有刻意修饰我的容颜。这让我很满意。我看着照片里的自己，年轻中透着苍老，灵动中掺杂迷茫。我仿佛看得见一道道皱纹已经建好地基，准备在我的脸上大展身手，我又看得到那双眼睛里满是疲惫与挣扎。透过飘逸的裙摆，你能看见一颗心吗？一颗小心翼翼满是怀疑的心，不停叩问最深处的房门，不停刺激大脑皮层，一遍遍思索，一次次想要探索到最深处，找到问题的答案。这个问题是，我要怎样才能确定，对的那个人就是典典。&nbsp;2一年前，我跟典典在某个社交软件上相识。刚开始，我们只是偶尔聊个几句，像极了命中注定的过客。那段时间公司裁员，我不知道为什么就成了被淘汰的那批人。自认为这几年也算努力上进，工作也不错。但老板那天拍着我的肩膀告诉我，小莹，你太死板了。我背着&ldquo;死板&rdquo;这个让人绝望的字眼离开了北京几个月，回到了那个出生的小镇。它变了一点点，让我有些惊讶。我以为逃离了大城市，回家的生活会让我领悟到什么。但这种过于保守又平淡的日子很快让我的一切变得一团糟。也就是这其中的某一天，典典突然通过软件发来一张照片。照片中是一对新人。男人穿着军装，对着镜头憨笑，女孩轻挽爱人胳膊，依偎在侧。这姿势很像父母辈结婚时候的样子。但典典告诉我，这叫复古，这叫流行，这叫情结与怀旧。我们就这样通过这种照片聊了起来。他不停讲着关于这对新人的故事，青梅竹马，等待相守，河边戏水，傍晚虫鸣......一字一句，都让我想起那个小县城，还有陪我在那里生活的白叙。十五岁，放学路上突遇暴雨，白叙脱下校服让我顶在头上挡雨。夏季的雨，来的快去的快，我们还未找到避雨地它便停了。他笑着问我要不要去吃冰棍，然后我们回头，一同看见了彩虹。十七岁，分文理科。我跟着白叙选择了理科，这样可以求他帮我补习物理，这样可以多待在他身边几分。十八岁，高考结束。那个夏天，我们每个傍晚都在河边高地上坐着，抬头看天，谈谈学校，聊聊理想。听虫鸣，喝汽水，看夕阳西下，汗水顺着脊背流下，我用整个夏天记住了他的侧脸。二十岁，我们在一起了。我第一次鼓起勇气拥抱了他，夏夜闷热难以入眠，约他出来，然后在无人的街道踮脚轻吻他的脸颊。二十二岁，毕业。我想留在北京，白叙想回老家创业。我们不停争吵，我任性要他陪我留在北京，而他跟我讲我们不可能留在大城市，别费力气。然后我们分道扬镳，我很少回家，白叙也再未找过我。后来听说，他与别人相恋，已经订婚。一个涉世未深的少女，投注所有真诚与期待，渴望爱与被爱。她无法舍弃追求的远方，却在不停选择中失去了爱人。她伫立于白昼与黑夜的交叉路口，才明白思念没有尽头。众里寻不到你，归宿也不会是你。3典典发来一连串消息，询问我对于照片是否满意。我点点头，却忘记了手机屏幕那边的他看不见。我已经熟悉了典典的存在。他永远充满热情，充满力量，像个话痨一样在你耳边说个不停。他知道北京哪里好玩，哪里能够吃到便宜又好吃的食物，哪里能够拍出文艺的照片，哪里能够一个人发泄情绪无人知晓。在我情绪最糟糕的那段日子里，他或许早以察觉，主动提出见面。因为这次见面，我又一次回到北京。我们约在鼓楼那边一家酒馆，地方很难找，在一条小巷深处，典典那日穿一身经典职业西装，蹲在路边看手机。我缓缓走过去，觉得那就是他，他也抬头向我看来，空气凝滞了几秒。你是，小莹？你是，典典？他眼神中闪过一丝羞涩，与这干练的外形不相称，与网上健谈的青年形象也不符。我跟在他身后走，打量他，他似乎有所察觉，默默握紧了衣摆一角。店面很传统，老板是个留着大胡子的中年男人，像三毛的荷西。周围摆满各种颜色的酒瓶和酒杯，正对面挂着一副海豚的油画，店里一块小小的投影仪正放着《菊次郎的夏天》。典典说他经常一个人来这，点一杯白葡萄酒可以坐一天。他笑起来的时候露出两颗虎牙，很可爱。我告诉他我不懂酒，于是他给我点了一款老板自创的气泡水。我们从酒开始聊起，谈论着乱七八糟的东西，想到什么说什么，像多年重逢的老友。那个下午时间过得很快，我也许久未曾这样笑着。我们于傍晚分别，并相约周末去故宫拍照。北京的夏天让人烦躁，这傍晚却突来一阵清风。他逆光站在我旁边，轻轻说：&ldquo;嘿，你的头发有些乱了。&rdquo;还记得村上春树那句话吗？&ldquo;如果我爱你，而你也正巧爱我，你头发乱了的时候，我会笑笑地替你拨一拨，然后手还留恋的在你发上多待几秒。但是，如果我爱你而你不巧的不爱我，你头发乱了，我只会轻轻地告诉你，你头发乱了喔。&rdquo;他是故意还是碰巧，我不知道。但我知道的是，那一刻，多年未曾有过的心动悄然而至。我想着，撞了南墙，现在该放下了，飞蛾扑火，也该重生了。&nbsp;4远处雷声轰鸣，典典马上发来消息说&ldquo;要下雨了&rdquo;，紧接着是一张海边的照片。周末的他正在青岛给朋友拍婚纱照。我给他回，&ldquo;等回来，有要事相告&rdquo;。结果他当天就坐高铁回到北京，冒着大雨，略显疲惫，没了往日的精致，只剩邻家男孩的清爽。他拖着行李箱和所有拍照设备直接来到我家楼下，拨通电话问我有何要事。其实也没什么，就是告诉你一下，我喜欢你。你真的忘了白叙吗？没忘。我们一起走过那么久，怎会忘记，只不过现在我的可以确定，喜欢的是你，关于他也已经放下。典典让我下楼，我看他站在树荫下傻笑。他招手示意我靠近一点，我上前一步，他将我抱住，被汗水打湿的头发蹭到我的脸上，潮湿粘稠，却散发着淡淡橘子汽水的味道，混合着雨后的清新，让人平静。那天，我们不顾路人眼光，抱了许久才分开。我们暂且不谈未来，只为你规整生活，优化自己，收起过去，只希望将一个完美的世界送给你。重回北京的我在典典的帮助下开始找工作，我们还是各自住在租来的房子里，跟很多刚毕业的大学生挤在一起。他依旧在工作之余坚持摄影，也经常带我外出采风。我时常想着，他就像一缕清风吹进我生命中的夏天，但我，又该做他生命中的什么呢？&nbsp;5相遇容易，重逢却难。单恋容易，相爱却难。人们沉溺于追求失而复得的满足，向往海枯石烂的誓言，在世俗的教条下徘徊不定，最终又有几人一身戎装成功卫冕。所以才有那么多遗憾的故事，那么多伤感的情话。只因为，于谁而言，生命中都有个人，是注定失去了的。但你要相信，未来很长，总会遇见对的人。那个人，从不让你掏空心绪卑微求全，而是不管你是什么样子，他都觉得你是世上最可爱的人。立夏那天，典典在深圳出差，寄给我一个盒子。我打开，看到里面放着一支染色的纸玫瑰。我问他，为什么是染色的，做工还那样粗糙。他许久才回消息说，我就是这纸玫瑰，染着鲜艳的色彩，其实经不起任何风吹雨打。我想，他的潜台词是，我经不起风雨，所以你要一直陪着我。人间浪漫，彼此依恋，从不庞大，只在小心思中存在。我一直坚信情感需要表达。对于一个不爱你的人，你的关心和爱意要表达的适可而止。而处于一段双向喜欢的感情中，你要学会的，是毫不吝啬的爱。今夜的喜欢，就不要留到明日再回味了。我不能确定，到底是从什么时候开始放下了旧爱，喜欢上典典。但我后来回想，从那个傍晚，他说&ldquo;你头发乱了&rdquo;之后，我再也没有想起过白叙。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我们不是夏日限定，我们是来日方长",
+                        "desc": "文/鹿西兮 能遇见你，是银河慷慨，赠我一生心动。",
+                        "link": "http://m.wufazhuce.com/music/3267?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我们不是夏日限定，我们是来日方长",
+                        "desc": "文/鹿西兮 能遇见你，是银河慷慨，赠我一生心动。",
+                        "link": "http://m.wufazhuce.com/music/3267?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我们不是夏日限定，我们是来日方长》 文/鹿西兮： 能遇见你，是银河慷慨，赠我一生心动。 阅读全文：http://m.wufazhuce.com/music/3267?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3267?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我们不是夏日限定，我们是来日方长",
+                        "desc": "能遇见你，是银河慷慨，赠我一生心动。",
+                        "link": "http://m.wufazhuce.com/music/3267?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "那个你",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "曾雪雅",
+                "audio_album": "17",
+                "cover": "http://image.wufazhuce.com/Fi-ceyGi4Cph9fta_LShvi4iJybi",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2795",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4334",
+                    "title": "初恋"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1200",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第二十章：撞一次钟"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2864",
+                    "title": "你的童年回忆杀是什么？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3267",
+                    "title": "我们不是夏日限定，我们是来日方长"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

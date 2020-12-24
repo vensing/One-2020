@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5546",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-23 06:00:00",
+        "content_list": [
+            {
+                "id": "20592",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2858",
+                "title": "摄影",
+                "forward": "夏日凉风拂书案，白纸皆飞散。",
+                "img_url": "http://image.wufazhuce.com/Fk_RrW7W73P4HtBIMI6Is3t31S-7",
+                "like_count": 18111,
+                "post_date": "2020-06-23 06:00:00",
+                "last_update_date": "2020-06-22 11:31:26",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2817",
+                "pic_info": "Content Pixie",
+                "words_info": "正冈子规",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2858",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2858",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2858",
+                    "image": "http://image.wufazhuce.com/Fk_RrW7W73P4HtBIMI6Is3t31S-7",
+                    "title": "VOL.2817",
+                    "content": "夏日凉风拂书案，白纸皆飞散。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2858?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2858?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 夏日凉风拂书案，白纸皆飞散。——正冈子规 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2858?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2858?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20587",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4360",
+                "title": "还是太年轻",
+                "forward": "一分钟一块钱，一辈子可咋算？",
+                "img_url": "http://image.wufazhuce.com/FriPhD8N0HM-Kt-iRdBvSA2VYUwP",
+                "like_count": 2087,
+                "post_date": "2020-06-23 06:00:00",
+                "last_update_date": "2020-06-22 19:47:31",
+                "author": {
+                    "user_id": "11422819",
+                    "user_name": "光泽",
+                    "desc": "不是人人都愿意把自己的故事掏出来跟别人讲，我偶尔算一个。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "业余写作者，梦想不业余。",
+                    "fans_total": "98",
+                    "web_url": "http://image.wufazhuce.com/FuOg8ey3RRYCInN2EPnhnvqSh-Zl"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4360",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4360",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4360",
+                    "image": "http://image.wufazhuce.com/FriPhD8N0HM-Kt-iRdBvSA2VYUwP",
+                    "title": "还是太年轻 作者/光泽",
+                    "content": "爱情总以失败告终？那是因为你太年轻了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 还是太年轻",
+                        "desc": "文/光泽 爱情总以失败告终？那是因为你太年轻了。",
+                        "link": "http://m.wufazhuce.com/article/4360?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 还是太年轻",
+                        "desc": "文/光泽 爱情总以失败告终？那是因为你太年轻了。",
+                        "link": "http://m.wufazhuce.com/article/4360?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 还是太年轻》 文/光泽： 爱情总以失败告终？那是因为你太年轻了。 阅读全文：http://m.wufazhuce.com/article/4360?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4360?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "还是太年轻",
+                        "desc": "爱情总以失败告终？那是因为你太年轻了。",
+                        "link": "http://m.wufazhuce.com/article/4360?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20600",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1221",
+                "title": "打雪仗·第四章：生存魔术",
+                "forward": "无论是刀山，大炮还是深海，没有真正的绝境，都是障眼法。每个魔术师总有一条你永远看不到的暗道朝向希望。可我没有想到我重新变戏法的这一刻来得如此之快，人生啊，真是像一个兜兜转转终归会破碎的大梦。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 752,
+                "post_date": "2020-06-23 06:00:00",
+                "last_update_date": "2020-06-22 12:22:35",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第4章",
+                "number": "4",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1221",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1221",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1221",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第四章：生存魔术 作者/肖睿",
+                    "content": "无论是刀山，大炮还是深海，没有真正的绝境，都是障眼法。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第四章：生存魔术",
+                        "desc": "文/肖睿 无论是刀山，大炮还是深海，没有真正的绝境，都是障眼法。",
+                        "link": "http://m.wufazhuce.com/serial/1221?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第四章：生存魔术",
+                        "desc": "文/肖睿 无论是刀山，大炮还是深海，没有真正的绝境，都是障眼法。",
+                        "link": "http://m.wufazhuce.com/serial/1221?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第四章：生存魔术》 文/肖睿： 无论是刀山，大炮还是深海，没有真正的绝境，都是障眼法。 阅读全文：http://m.wufazhuce.com/serial/1221?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1221?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第四章：生存魔术",
+                        "desc": "无论是刀山，大炮还是深海，没有真正的绝境，都是障眼法。",
+                        "link": "http://m.wufazhuce.com/serial/1221?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20591",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2888",
+                "title": "哪个时刻，你会怀疑世界的真实性？",
+                "forward": "你如何确定地知道你所知道的是确定的？",
+                "img_url": "http://image.wufazhuce.com/FvF1f7BCmf65XOh3MPWE3iGgPNCS",
+                "like_count": 2326,
+                "post_date": "2020-06-23 06:00:00",
+                "last_update_date": "2020-11-13 16:35:00",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "hanbis",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2888",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2888",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2888",
+                    "image": "http://image.wufazhuce.com/FvF1f7BCmf65XOh3MPWE3iGgPNCS",
+                    "title": "哪个时刻，你会怀疑世界的真实性？",
+                    "content": "哪个时刻，你会怀疑世界的真实性？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 哪个时刻，你会怀疑世界的真实性？",
+                        "desc": "文/冗谈 无论住在哪，都不时听到楼上弹珠落地的声音。",
+                        "link": "http://m.wufazhuce.com/question/2888?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 哪个时刻，你会怀疑世界的真实性？",
+                        "desc": "文/冗谈 无论住在哪，都不时听到楼上弹珠落地的声音。",
+                        "link": "http://m.wufazhuce.com/question/2888?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 哪个时刻，你会怀疑世界的真实性？》 文/冗谈： 无论住在哪，都不时听到楼上弹珠落地的声音。 阅读全文：http://m.wufazhuce.com/question/2888?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2888?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "哪个时刻，你会怀疑世界的真实性？",
+                        "desc": "无论住在哪，都不时听到楼上弹珠落地的声音。",
+                        "link": "http://m.wufazhuce.com/question/2888?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11694271",
+                    "user_name": "冗谈",
+                    "desc": "Editor/Writer/Godfucker",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "开玩笑呢",
+                    "fans_total": "1",
+                    "web_url": "http://image.wufazhuce.com/FkIdzNh0lIck0b1H5zQUiyhux1t4"
+                }
+            },
+            {
+                "id": "20606",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2013",
+                "title": "很多钱和很多爱，面对它们我进退两难",
+                "forward": "面对家人的阻拦，他忍住泪水，强行开走了送货车，直到驶上街区，才痛苦流涕起来。",
+                "img_url": "http://image.wufazhuce.com/FqFTEa5El0EIExOucaW4-AysvbiI",
+                "like_count": 1623,
+                "post_date": "2020-06-23 06:00:00",
+                "last_update_date": "2020-06-22 19:51:32",
+                "author": {
+                    "user_id": "10471645",
+                    "user_name": "陈凯琳",
+                    "desc": "青年作者，图书管理员。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者，图书管理员。",
+                    "fans_total": "71",
+                    "web_url": "http://image.wufazhuce.com/Fp55nXyiZR7FtEPauTizgqTwBsgz"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "对不起，我们错过了你",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4996",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2013",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2013",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2013",
+                    "image": "http://image.wufazhuce.com/FqFTEa5El0EIExOucaW4-AysvbiI",
+                    "title": "「一个」电影: 对不起，我们错过了你",
+                    "content": "灯红酒绿的城市角落，偶见社畜借酒浇愁，成年人的悲伤通常很压抑，崩溃时静谧无声，在不为人知的地方独自消化。那天深夜，在离家不远的施工地见到一个农民工蹲坐在路边失声痛哭，像是要把深埋多年的痛苦和思念一泄而尽。被生活重担压弯脊椎的成年人，终是选择在一个静寂的夜里，悄悄把生活给予的所有辛酸，通过泪水排空流干。&nbsp;01平衡工作与生活，在底层人民的世界里，似乎是个悖论。把精力献给工作，意味着牺牲陪伴家人的时间，把时间留给家人，则难以维持生计。面对高昂的生活和教育成本，你不得不选择打拼，甚至在拼死拼活之后生活依然一片狼藉。生活之苦，唯有被生活重压到窒息的人才会懂得。对底层民众的书写，没人比肯&middot;洛奇更为热衷，他一生都在拍平凡人的故事，致力于批判社会现实，为底层人民奔走呼号，摇旗呐喊。《对不起，我们错过了你》是继《我是布莱克》后的又一力作，这次讲述的是另一个胸怀傲骨、中年失业男子的悲剧。来自曼彻斯特的Ricky夫妇生活在英格兰北部纽卡斯尔&mdash;&mdash;一座历史悠久的工业城市，他们育有一儿一女。2008年，美国次贷危机引发的金融危机开始席卷全球，世界经济开始全面衰退，给各国造成了惨痛的损失，无数金融机构倒闭，无数人失业&hellip;&hellip;Ricky就是其中一个。他是一名建筑工人，和许多平凡人一样，做着搬砖、铺路、修水电的苦力活，一家四口虽然不算富裕，但也能吃饱穿暖，一家人其乐融融，互相取暖，在清贫中感受生活的小确幸。作为四口之家的顶梁柱，Ricky必须为这个家撑起一片天，他想要改善全家人的生活。在朋友的介绍下，他去应聘了快递员，他可以为自己打工，既是司机也是承包商，送得多赚得多，但公司不会正式雇佣他。在英国，有上百万零工时合同工人，是指雇员根据雇主需要随叫随到，工作量、工作内容和时间均不固定，并且没有任何保障的雇佣协议。即便零时工合同（Zero-hours Contract）存在诸多不公，依然有很大一部分人愿意和这种&ldquo;新经济&rdquo;模式下临时的、无保障的、未入工会的企业签下合同。对于某些雇员来说，这种制度给了他们时间上的灵活性，适合那些半工半读的学生或需要兼顾家庭，负责育儿的父母。这也是吸引Ricky的地方，他是个普通的男人，骨子里的倔强使他拒绝领失业救济金。Ricky认为自己如果每天辛苦一点，花个两年就能给家里买套房子，不用再看房东的眼色，过着被催缴租金的生活。应聘时，老板对他说&ldquo;你签约加入，就成为加盟司机&rdquo;，&ldquo;主宰自己的命运吧，Ricky，把那些该死的失败者从这个世界排开，争取胜利。&rdquo;&ldquo;加盟&rdquo;、&ldquo;主宰&rdquo;、&ldquo;胜利&rdquo;这些令人想入非非的词，把Ricky听呆了，他最终没有抵挡住&ldquo;自由&rdquo;的诱惑，在老板的暗示下，他有了激情，有了梦想，签下了这份&ldquo;体面&rdquo;的工作。他以为能把工作掌握得游刃有余，却没有想到这种自由的假象之下，掩盖着快递公司对工人的残酷剥削。&nbsp;02妻子Abby的性格和他大相径庭，她谨慎克制，是个极富耐心的护工，每天分时段照顾老人们，她不看好Ricky的想法，但最后还是答应丈夫分期买下一辆货车。为此他们卖掉了家里唯一值钱的东西&mdash;&mdash;Abby每日通勤的轿车，这让她不得不赶公交往返于客户之间。迈向成功的路上哪有康庄大道，看得见的荆棘尚能割除，看不见的地雷埋在未知的地点，随时可能引爆。越是急于摆脱现状，越是容易一头扎进凶险的泥沙，把自己弄得狼狈不堪。Ricky就这样踏上了车奴之路。他刚开始相当卖力，为了早日还清车贷，他每天工作十几个小时，中途几乎没有时间吃饭，还得拿着老板给他的矿泉水瓶解决尿急的问题。配送包裹有目标量，没完成任务就得罚款，弄丢了扫描枪还得自己掏1000英镑买个新的。他看起来是个人命运的主宰者，实际上却是新经济模式下的奴隶。&nbsp;03英国的快递公司都用这种类似的卡片，上面印着&ldquo;Sorry, we missed you&rdquo;，每当收件人不在家，快递无法送达的时候，就得将这种通知单留在信箱或贴在门上。这张卡片在电影中出现过两次，每一次都与家人息息相关。第一次是Ricky的女儿Liza在周末陪他一起送快递，Ricky被客户的看家狗咬破了裤子，女儿在卡片上写了一句&ldquo;你欠我爸爸一条裤子&rdquo;。第二次是接近结尾处，受伤的Ricky在卡片上写下对妻子的歉意，表明自己没事，决意带伤继续工作。&ldquo;Sorry,&nbsp;we missed you&rdquo;在电影中有着更深的含义，它更像是父母对儿女的歉意，Ricky和Abby总在没日没夜地工作，他们没有时间陪伴孩子，忽视了孩子的情感需求，错过了他们的成长。Ricky给客户们发过那么多张卡片，却从未对孩子们说过一句&ldquo;Sorry, we missed you&rdquo;。家中两兄妹用各自的方式寻求被看见的机会，哥哥Seb正处于青春叛逆期，他有着一帮玩涂鸦的同学，自从最要好的女同学离开后，他的叛逆变本加厉。他是青春期的迷妄少年，找不到上学的意义，得不到家人的关注。自从父亲接受快递工作后，Seb和父亲的关系直线下降，矛盾急剧攀升。他逃课、跑去街头涂鸦、去商店偷东西，和父亲争锋相对、离家出走，但也是这样一个在朝气蓬勃的年纪颓丧叛逃的少年，在看到父亲被殴打后，挡在父亲的送货车前，请求父亲留在家中养伤，他想要的不过是回到从前一家人其乐融融的日子。恰恰也是他的角色，在电影中更像一个敏感柔情的反叛者，打破规则，在墙上挥洒不满，表达对社会不公的愤怒。女儿Liza则在片中扮演贴心小棉袄，她用懂事博得关注，在周末帮父亲一起送快递，这也是片中难得的温馨画面。单纯幼小的她以为把父亲的车钥匙藏起来，就能让一切和好如初，结果弄巧成拙，让父子矛盾升级。妻子Abby，一位善于隐忍的女性，她善解人意，对丈夫体贴入微、百般理解，对工作更是尽职尽责，但这种性格，容易活得压抑。由于通勤车卖掉了，她在往返不同家庭的时候偶尔会迟到。她每日清理大小便失禁病人的床单，为神志不清的老人梳头，陪他们闲聊家庭琐事，Abby从不抱怨，从未怠慢任何老人，却被老板拒付加班费。她在公交站打电话时抽噎起来，费尽气力只为追讨微薄的收入，在丈夫被抢劫犯痛殴后，她在医院更是忍不住夺过丈夫的电话痛斥无情的快递老板，在得知Ricky被抢后竟还要罚款1500英镑。这个坚强的女人最终还是被生活的最后一根稻草压垮了。Ricky，这位一心摆脱贫穷，为家人谋幸福的父亲。超负荷的任务让他的家庭与工作始终处于对立关系中，儿子逃课被叫家长，他因工作未能赶到，家人之间逐渐产生了裂缝。Ricky一开始还努力保持平衡，但每次试图解决家庭矛盾都伴随着更为沉重的经济压力，他承受被剥削的惨痛代价，久而久之，身心俱疲，变得暴躁起来，加上儿子的叛逆，他把责任怪到了儿子身上，亲子之间的误会越来越深。更叫人心痛的是，遭遇抢劫后随之而来的不是工伤赔偿，而是一堆罚款清单。面对老板的冷酷，他选择负伤前行，许下脱贫的承诺，就必须坚持到底。面对家人的阻拦，他忍住泪水，强行开走了送货车，直到驶上街区，才痛苦流涕起来，这个不服输的男人，最终还是露出了脆弱的一面。04电影中的镜头和我们以前看过的都大不相同，它是用观察的方式拍摄的，并非完美无瑕，但实际上却以更真实更现实的方式讲述了故事。一家四口整整齐齐，明明如此辛劳，却换来现实的残酷暴击。次贷危机、零工经济、剥削劳动者、家庭矛盾&hellip;&hellip;主线与支线相互交错、连环相扣，致使这家人蒙上一层悲情色彩。影片没有刻意卖弄悲情，每一帧都朴实、克制，和每个深陷泥沼的成年人一样，无法露骨地谈论艰辛，因为担心被淘汰，生活不允许他们矫情。他们是时代的产物，渴望改变命运，只是别无选择。故事的中间点曾呈现出别样温情，妻子Abby不用加班，全家人总算在一起吃了回咖喱，这算是电影中唯一四人共聚的场景，他们有说有笑，画面在暖黄色灯光的映衬下，透露出一丝暖意，和全片的凛冽画风形成鲜明对比。尽管没有山珍海味，他们脸上却浮现出久违的笑容。岁月静好，现世安稳，是多少人想要却又无法达成的梦。毕竟，错过的包裹能重新投递，错过的陪伴却难以代替。Ricky的家庭不是特例，是当下许多疲于奔命的劳动人民的缩影，我们偶尔的工作不顺，却是他们的日常焦虑。难以想象，在我们夜夜笙歌的时候，有多少人正像Ricky一样瞒着家人哭泣。擦干泪水，转眼又成了独当一面的男子汉。优渥的生活纵然令人神往，但金钱包裹下的体面，不足以撑起长久的幸福。无论我们贫穷或富有，体面的人生都来自内心，对于真心爱你的人来说，理解胜过穿金带银，陪伴胜过千言万语。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 很多钱和很多爱，面对它们我进退两难",
+                        "desc": "文/陈凯琳 你要钱还是要爱？",
+                        "link": "http://m.wufazhuce.com/movie/2013?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 很多钱和很多爱，面对它们我进退两难",
+                        "desc": "文/陈凯琳 你要钱还是要爱？",
+                        "link": "http://m.wufazhuce.com/movie/2013?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 很多钱和很多爱，面对它们我进退两难》 文/陈凯琳： 你要钱还是要爱？ 阅读全文：http://m.wufazhuce.com/movie/2013?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2013?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "很多钱和很多爱，面对它们我进退两难",
+                        "desc": "你要钱还是要爱？",
+                        "link": "http://m.wufazhuce.com/movie/2013?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20588",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3192",
+                "title": "暗恋，是一场持久的跟踪",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fr9pD483ZdXICWLrW90Mf02uBG7d?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1595,
+                "post_date": "2020-06-23 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3192",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3192",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 暗恋，是一场持久的跟踪",
+                        "desc": "暗自做着傻事，独自享受着那份虚拟的亲昵",
+                        "link": "http://m.wufazhuce.com/radio/3192?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpqHuuN5eKEvAAoFZcF7yd-7GR79"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 暗恋，是一场持久的跟踪",
+                        "desc": "暗自做着傻事，独自享受着那份虚拟的亲昵",
+                        "link": "http://m.wufazhuce.com/radio/3192?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpqHuuN5eKEvAAoFZcF7yd-7GR79"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 暗恋，是一场持久的跟踪》 主播/李荟莹： 暗自做着傻事，独自享受着那份虚拟的亲昵 阅读全文：http://m.wufazhuce.com/radio/3192?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3192?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lpqHuuN5eKEvAAoFZcF7yd-7GR79"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "暗恋，是一场持久的跟踪",
+                        "link": "http://m.wufazhuce.com/radio/3192?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpqHuuN5eKEvAAoFZcF7yd-7GR79"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 838 期",
+                "audio_url": "http://music.wufazhuce.com/lpqHuuN5eKEvAAoFZcF7yd-7GR79"
+            }
+        ],
+        "menu": {
+            "vol": "2817",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4360",
+                    "title": "还是太年轻"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1221",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第四章：生存魔术"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2888",
+                    "title": "哪个时刻，你会怀疑世界的真实性？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2013",
+                    "title": "很多钱和很多爱，面对它们我进退两难"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3192",
+                    "title": "暗恋，是一场持久的跟踪"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

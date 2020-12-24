@@ -1,0 +1,529 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5413",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-24 06:00:00",
+        "content_list": [
+            {
+                "id": "19855",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2737",
+                "title": "摄影",
+                "forward": "直截了当地说，能够为他人的成功感到快乐的人是幸福的。",
+                "img_url": "http://image.wufazhuce.com/Frm1DOySJOyW-84_atI0WheF4Ac2",
+                "like_count": 17466,
+                "post_date": "2020-02-24 06:00:00",
+                "last_update_date": "2020-02-23 12:45:37",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2697",
+                "pic_info": "Alexander",
+                "words_info": "北野武",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2737",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2737",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2737",
+                    "image": "http://image.wufazhuce.com/Frm1DOySJOyW-84_atI0WheF4Ac2",
+                    "title": "VOL.2697",
+                    "content": "直截了当地说，能够为他人的成功感到快乐的人是幸福的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2737?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2737?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 直截了当地说，能够为他人的成功感到快乐的人是幸福的。——北野武 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2737?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2737?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19852",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4213",
+                "title": "绝境",
+                "forward": "你好，虽然我们是第一次见面，但我明白，自己已爱上你很久很久了。",
+                "img_url": "http://image.wufazhuce.com/FmBSbrM8HXzxaFe4mQGnVDk22hjm",
+                "like_count": 3180,
+                "post_date": "2020-02-24 06:00:00",
+                "last_update_date": "2020-02-23 17:09:53",
+                "author": {
+                    "user_id": "4813812",
+                    "user_name": "姬霄",
+                    "desc": "作家、「一个」常驻作者，代表作《你有没有见过他》。",
+                    "wb_name": "@姬霄",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家、「一个」常驻作者，代表作《你有没有见过他》。",
+                    "fans_total": "12666",
+                    "web_url": "http://image.wufazhuce.com/FhCTxsTWzguaDeMFTgUlKZTbSPK-"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4213",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4213",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4213",
+                    "image": "http://image.wufazhuce.com/FmBSbrM8HXzxaFe4mQGnVDk22hjm",
+                    "title": "绝境 作者/姬霄",
+                    "content": "你好，虽然我们是第一次见面，但我明白，自己已爱上你很久很久了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 绝境",
+                        "desc": "文/姬霄 你好，虽然我们是第一次见面，但我明白，自己已爱上你很久很久了。",
+                        "link": "http://m.wufazhuce.com/article/4213?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 绝境",
+                        "desc": "文/姬霄 你好，虽然我们是第一次见面，但我明白，自己已爱上你很久很久了。",
+                        "link": "http://m.wufazhuce.com/article/4213?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 绝境》 文/姬霄： 你好，虽然我们是第一次见面，但我明白，自己已爱上你很久很久了。 阅读全文：http://m.wufazhuce.com/article/4213?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4213?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "绝境",
+                        "desc": "你好，虽然我们是第一次见面，但我明白，自己已爱上你很久很久了。",
+                        "link": "http://m.wufazhuce.com/article/4213?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19849",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1113",
+                "title": "两次破碎·第十四章：祸不单行",
+                "forward": "她突然哭出声，声音像蓄了很久的瀑布，临头直下，滂沱如注，把所有人打懵了。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 834,
+                "post_date": "2020-02-24 06:00:00",
+                "last_update_date": "2020-04-07 16:09:59",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第14章",
+                "number": "14",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1113",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1113",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1113",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第十四章：祸不单行 作者/连筑",
+                    "content": "她突然哭出声，声音像蓄了很久的瀑布，临头直下，滂沱如注，把所有人打懵了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第十四章：祸不单行",
+                        "desc": "文/连筑 她突然哭出声，声音像蓄了很久的瀑布，临头直下，滂沱如注，把所有人打懵了。",
+                        "link": "http://m.wufazhuce.com/serial/1113?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第十四章：祸不单行",
+                        "desc": "文/连筑 她突然哭出声，声音像蓄了很久的瀑布，临头直下，滂沱如注，把所有人打懵了。",
+                        "link": "http://m.wufazhuce.com/serial/1113?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第十四章：祸不单行》 文/连筑： 她突然哭出声，声音像蓄了很久的瀑布，临头直下，滂沱如注，把所有人打懵了。 阅读全文：http://m.wufazhuce.com/serial/1113?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1113?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第十四章：祸不单行",
+                        "desc": "她突然哭出声，声音像蓄了很久的瀑布，临头直下，滂沱如注，把所有人打懵了。",
+                        "link": "http://m.wufazhuce.com/serial/1113?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19854",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2766",
+                "title": "如何做到恰到好处的幽默？",
+                "forward": "我们从别人那里得来的幽默，最重要的就是犒劳自己。让自己开心了，自然而然就会传递给别人。",
+                "img_url": "http://image.wufazhuce.com/FnxUboWikwjuoFSaodxjoH1VCc0s",
+                "like_count": 2238,
+                "post_date": "2020-02-24 06:00:00",
+                "last_update_date": "2020-02-23 11:17:14",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "面瘫楚留香",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2766",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2766",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2766",
+                    "image": "http://image.wufazhuce.com/FnxUboWikwjuoFSaodxjoH1VCc0s",
+                    "title": "如何做到恰到好处的幽默？",
+                    "content": "如何做到恰到好处的幽默？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何做到恰到好处的幽默？",
+                        "desc": "文/王大烨 永远也不要在对方伤心事上搞幽默。",
+                        "link": "http://m.wufazhuce.com/question/2766?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何做到恰到好处的幽默？",
+                        "desc": "文/王大烨 永远也不要在对方伤心事上搞幽默。",
+                        "link": "http://m.wufazhuce.com/question/2766?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何做到恰到好处的幽默？》 文/王大烨： 永远也不要在对方伤心事上搞幽默。 阅读全文：http://m.wufazhuce.com/question/2766?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2766?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何做到恰到好处的幽默？",
+                        "desc": "永远也不要在对方伤心事上搞幽默。",
+                        "link": "http://m.wufazhuce.com/question/2766?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10318954",
+                    "user_name": "王大烨",
+                    "desc": "庸俗家，贪财好色者。",
+                    "wb_name": "@王大烨啊",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者",
+                    "fans_total": "1322",
+                    "web_url": "http://image.wufazhuce.com/FmwJcW9jjsMB93_TzuLuND4NNzRH"
+                }
+            },
+            {
+                "id": "19762",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3207",
+                "title": "心动是一瞬间的事，失望却是很久的事",
+                "forward": "她心里有些失落，他一直想要安稳的生活，最后还是开始漂泊了。也许他的生命里，有逃不尽的漂流吧。",
+                "img_url": "http://image.wufazhuce.com/FkeBvv1X3CJfP6Fphr8AleTpbrqC",
+                "like_count": 2083,
+                "post_date": "2020-02-24 06:00:00",
+                "last_update_date": "2020-03-03 10:27:21",
+                "author": {
+                    "user_id": "10268072",
+                    "user_name": "梁佑",
+                    "desc": "公众号：苍蝇与马",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：苍蝇与马",
+                    "fans_total": "2837",
+                    "web_url": "http://image.wufazhuce.com/FtbNqxCso2jiboHhODfmTn0I_CMn"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lvD2IAGXhTEXZ9D-rgKk2myc5YH6",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "那个我",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3207",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3207",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3207",
+                    "image": "http://image.wufazhuce.com/FkeBvv1X3CJfP6Fphr8AleTpbrqC",
+                    "title": "「一个」音乐: 梁佑 那个我",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.连着下了几天的雪，冬天似乎终于开始有冬天的样子，可是前些天已经立春了。梦寒没有出门，最近因为疫情的事，大街上空空荡荡，整座城市病态般安静。她趴在窗边望着楼下，湿漉漉的地面，隔好久才能看见一个行人，远处山峰雾气笼罩。一切事物都沉浸在深远的孤独里。雪落下的时候原来真的有声音，以前从来没有在意过。她想起去年此时，刚认识尉青。那现在，他在哪里呢，还在邮轮上吗？他还好吗？梦寒想到。即使是待在暖气房里，她的手还是冰冷的，她用力搓着双手，往手心里哈着热气。她喜欢在夜晚逛街，去夜市上淘衣服，吃烧烤，喝奶茶。尉青将她的手握在手心，放在他的兜里。走一会儿后，他会说：&ldquo;你来走这边，给你暖这只手。&rdquo;她嘿嘿地笑着，乖乖地走到另一边。那样贴心又温暖的瞬间，他们也有过。&ldquo;梦寒，我们以后的猫，要叫什么名字？&rdquo;旁边卖鞋的地摊放着喇叭，大声播放着鞋子的价格。尉青声音很大，生怕梦寒听不见。她说，&ldquo;加西亚。&rdquo;他没有听清，大声问她叫什么？她将一只手搭在他的耳边，又大声重复了一遍：&ldquo;加西亚&mdash;&mdash;&rdquo;尉青随即便笑了，那是他们共同喜欢的作家，加西亚&middot;马尔克斯。那时候，尉青还说，他要赚很多钱，给她一场在哥伦比亚的婚礼。雪还在不停地往下落，梦寒却有些难过。难过城市的灾难和生离死别。难过曾经说要一直陪在她身边，答应不再让她孤独的人，终究还是离开了她。&nbsp;2.遇见尉青，是在一次新年的宴会上。梦寒向来惧怕那样的场景，那天硬是被朋友拽着去了。朋友转头就和别人去碰酒杯，留下梦寒一个人，拿着一杯红酒，在那个热闹的小世界里，到处乱走乱看，没有方向。穿着黑色西服的尉青主动和她搭话，他本是不善谈的人，他看见她穿着黑色礼裙，烈焰红唇异常动人。她远远地朝他的方向走来。于是他不由自主地端起桌上的酒杯，走到她面前。简单的自我介绍以后，他开始说个不停，好像一个很久没有说话的人，要在一夜之间讲完自己的故事。梦寒一开始没有兴趣，眼神四处游走，也不看他，她不停地点着头，以表现出自己是真的在敷衍。可是当她听到他以前在邮轮上工作时，她突然来了兴趣。这才开始认真听眼前的男人讲话，他说话时慢条斯理，她慢慢地感受到他是个温柔的人。&nbsp;她问他，邮轮上那么好玩，为什么要辞掉工作。尉青沉默，说，他受够了连续几个月在海上漂泊的生活，受够了大海的喧嚣声以及那未知的风险。他说，他想安定下来，干一份安稳的工作，朝九晚五，有一个自己小家。她望着他的眼睛，似乎看到夜晚汹涌的黑色海洋，有种迷人的危险。大厅里有人弹奏着莫扎特的曲子，一种身处十八世纪的错觉。尉青说这个气氛有点像邮轮上，但还是不同。梦寒问他哪里不同。他说，在邮轮上，遇不到你。她本不该被那样的话打动，但是感情这回事，不是自己想控制，就能控制住的。那天晚上回到家，她躺在床上翻来覆去，思绪很乱。为什么我从来不去参加宴会，去一次就遇到他了呢？为什么他之前在邮轮上工作，就在想要稳定的时候遇到我了呢？这肯定是命运。二十五岁过后，梦寒对命运这个词，有了敬畏和新的理解。人一旦陷入爱情，总是喜欢为自己找说辞，为自己的爱情添加一些看似神秘的色彩。却忽略了这个世界上并没有那么多的命中注定，有的不过是两个普通人，想要坚定走下去，克服种种困难的决心。&nbsp;3.天下大多数爱情的开端，大抵是相似的。梦寒和尉青也是。两个人好像怎样都相看两不厌，每天手机不离身，说不完的情话和日常，在公司上厕所的间隙也要给对方发微信。抬头看见一朵奇怪的云，也要拍照发给对方。用梦寒的话说，她恨不得和他活成一个人。尉青在一家新媒体公司工作，忙前忙后，有时加班到很晚，双休也在家里加班。相比而言，梦寒的工作就比较规律。晚上她回家后，总是看一会儿电视才开始去厨房收拾饭菜。哪怕这样，等到尉青回来后，饭菜也全部凉了。她放到微波炉里再加热，端到餐桌上，笑着看他吃，还是觉得很开心，日子平凡又甜蜜。这是她一直期待的生活。&nbsp;电视一直开着，播放着无聊的家庭剧，男女主在街头吵吵闹闹，最后以男主低头认错收尾。尉青一边吐槽着公司，一边赞叹梦寒的厨艺。他说：&ldquo;梦寒我要是不娶你，我就亏死了。&rdquo;梦寒将脸凑过去，声音甜甜地，&ldquo;那你什么时候娶我啊。&rdquo;&nbsp;&ldquo;再等等嘛。&rdquo;一开始听到这样的话，梦寒倒也不失落，她觉得两个人毕竟刚在一起，连磨合期都没有过，谈结婚确实早了点。可是后来，她也不想再问了，她潜意识里是清楚的，她并不想听到这个无比模糊虚幻的时间概念，她想听到具体的、现实的东西。哪怕他说一年后、两年后，也要比&ldquo;再等等&rdquo;听起来踏实。&nbsp;4.梦寒一直喜欢夏天，夏天总能让她联想到很多美好又单纯的事物，可是去年的夏天，却是她生命里最晦暗的一段日子。&nbsp;尉青的公司迎来危机，随时面临被裁员的可能。他每天都压力很大，好多次晚上加班回去，不说一句话倒头大睡。梦寒盯着微波炉发呆。她想她应该理解他。可是她受不了尉青开始莫名其妙地大发脾气，甚至夺门而出。在一次争吵中，梦寒哭着说：&ldquo;为什么不能好好说话，发脾气能解决什么事？&rdquo;她总是很完美，连吵架都声音大不起来。尉青一下就没有底气了，他觉得自己压根就配不上她。他靠着沙发，想起两个人刚在一起时的快乐。那时的勇气和热情，已经被现实磨平不少了。他冷静到极点，不知道自己什么时候能让她过上她想要的生活，不知道她还愿意等多久，或者说，她还愿不愿意等。一切的理由，看起来都是他在成全她的人生。恕不知他所做的一切决定，不过是让梦寒更加心灰意冷。她太在意尉青有没有和她共同面对困难的决心了，她想要的是尉青坚定地握住她的手，而不是一遇到困难就摇摆不定。她沉沉地叹了一口气，知道他们之间，已经不用再说任何。心动是一瞬间的事，失望，却是很久的事。也是昨天，梦寒才从朋友那里得知，他又回到邮轮上工作了。她心里有些失落，他一直想要安稳的生活，最后还是开始漂泊了。也许他的生命里，有逃不尽的漂流吧。梦寒替他惋惜，也替自己遗憾。毕竟她曾经一度认为，尉青是要陪她走完余生的人。那个夜晚走向她的人，往后可能再也无法相见了。&nbsp;这个世间每天都在上演着遗憾与心痛，多我一个，好像也没什么吧。梦寒想着。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 心动是一瞬间的事，失望却是很久的事",
+                        "desc": "文/梁佑 你的未来中，有考虑过我吗？",
+                        "link": "http://m.wufazhuce.com/music/3207?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 心动是一瞬间的事，失望却是很久的事",
+                        "desc": "文/梁佑 你的未来中，有考虑过我吗？",
+                        "link": "http://m.wufazhuce.com/music/3207?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 心动是一瞬间的事，失望却是很久的事》 文/梁佑： 你的未来中，有考虑过我吗？ 阅读全文：http://m.wufazhuce.com/music/3207?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3207?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "心动是一瞬间的事，失望却是很久的事",
+                        "desc": "你的未来中，有考虑过我吗？",
+                        "link": "http://m.wufazhuce.com/music/3207?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "那个我",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "柳笑秋",
+                "audio_album": "T-minus 3,2,1...",
+                "cover": "http://image.wufazhuce.com/FlqXV403lvIVeKreqnWpRfov7nmg",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2697",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4213",
+                    "title": "绝境"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1113",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第十四章：祸不单行"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2766",
+                    "title": "如何做到恰到好处的幽默？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3207",
+                    "title": "心动是一瞬间的事，失望却是很久的事"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

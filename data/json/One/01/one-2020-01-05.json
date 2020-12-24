@@ -1,0 +1,556 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5375",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-05 06:00:00",
+        "content_list": [
+            {
+                "id": "19538",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2686",
+                "title": "摄影",
+                "forward": "以前是以前，现在是现在。我不能选择，怎么生，怎么死；但我能决定，怎么爱，怎么活。",
+                "img_url": "http://image.wufazhuce.com/FmCtKd_tOIUqFoMiKms4SeOg9woO",
+                "like_count": 21437,
+                "post_date": "2020-01-05 06:00:00",
+                "last_update_date": "2020-01-02 15:54:17",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2647",
+                "pic_info": "Natalija Mislevicha",
+                "words_info": "《黄金时代》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2686",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2686",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2686",
+                    "image": "http://image.wufazhuce.com/FmCtKd_tOIUqFoMiKms4SeOg9woO",
+                    "title": "VOL.2647",
+                    "content": "以前是以前，现在是现在。我不能选择，怎么生，怎么死；但我能决定，怎么爱，怎么活。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2686?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2686?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 以前是以前，现在是现在。我不能选择，怎么生，怎么死；但我能决定，怎么爱，怎么活。——《黄金时代》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2686?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2686?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19556",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4147",
+                "title": "我喜欢你呀",
+                "forward": "成年人的爱情，都是水到渠成，不需要太多花样的表白，牵了手了便是认定你了，往后的发展更是一步步自然而然。",
+                "img_url": "http://image.wufazhuce.com/FjKOxC4Ztt6m__Wonr9TSJgh9_sz",
+                "like_count": 3623,
+                "post_date": "2020-01-05 06:00:00",
+                "last_update_date": "2020-01-05 01:48:01",
+                "author": {
+                    "user_id": "5545258",
+                    "user_name": "程安",
+                    "desc": "作家，编剧。已出版软科幻短篇集《幸好你没嫁给他》。",
+                    "wb_name": "@程安",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。已出版《幸好你没嫁给他》。",
+                    "fans_total": "820",
+                    "web_url": "http://image.wufazhuce.com/Fn3NAApqWCbrqb2adGbTnJ0Zn218"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4147",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4147",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4147",
+                    "image": "http://image.wufazhuce.com/FjKOxC4Ztt6m__Wonr9TSJgh9_sz",
+                    "title": "我喜欢你呀 作者/程安",
+                    "content": "成年人的爱情，都是水到渠成。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 我喜欢你呀",
+                        "desc": "文/程安 成年人的爱情，都是水到渠成。",
+                        "link": "http://m.wufazhuce.com/article/4147?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 我喜欢你呀",
+                        "desc": "文/程安 成年人的爱情，都是水到渠成。",
+                        "link": "http://m.wufazhuce.com/article/4147?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 我喜欢你呀》 文/程安： 成年人的爱情，都是水到渠成。 阅读全文：http://m.wufazhuce.com/article/4147?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4147?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我喜欢你呀",
+                        "desc": "成年人的爱情，都是水到渠成。",
+                        "link": "http://m.wufazhuce.com/article/4147?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19558",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4148",
+                "title": "从school到工体：盘尼西林乐队沉浮",
+                "forward": "只有先相信世界是自己的，才有改变世界的可能。",
+                "img_url": "http://image.wufazhuce.com/FlyBggrtDEYGulT5Cxyew4umqPdx",
+                "like_count": 1829,
+                "post_date": "2020-01-05 06:00:00",
+                "last_update_date": "2020-01-06 20:03:26",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "阳子",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4148",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4148",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4148",
+                    "image": "http://image.wufazhuce.com/FlyBggrtDEYGulT5Cxyew4umqPdx",
+                    "title": "从school到工体：盘尼西林乐队沉浮 作者/阳子",
+                    "content": "只有先相信世界是自己的，才有改变世界的可能性。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "ONE能青年 | 从school到工体：盘尼西林乐队沉浮",
+                        "desc": "文/阳子 只有先相信世界是自己的，才有改变世界的可能性。",
+                        "link": "http://m.wufazhuce.com/article/4148?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "ONE能青年 | 从school到工体：盘尼西林乐队沉浮",
+                        "desc": "文/阳子 只有先相信世界是自己的，才有改变世界的可能性。",
+                        "link": "http://m.wufazhuce.com/article/4148?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE能青年 | 从school到工体：盘尼西林乐队沉浮》 文/阳子： 只有先相信世界是自己的，才有改变世界的可能性。 阅读全文：http://m.wufazhuce.com/article/4148?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4148?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "从school到工体：盘尼西林乐队沉浮",
+                        "desc": "只有先相信世界是自己的，才有改变世界的可能性。",
+                        "link": "http://m.wufazhuce.com/article/4148?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "49",
+                        "title": "ONE能青年"
+                    }
+                ]
+            },
+            {
+                "id": "19557",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2716",
+                "title": "如何体面地应对失败？",
+                "forward": "人成功的时候，有无数种说辞解说自己是怎么成功的；一旦失败，就有无数人去分析你是怎么失败的。",
+                "img_url": "http://image.wufazhuce.com/FvthFFZ5PAQxxOqcUaSkFQFXknsR",
+                "like_count": 2024,
+                "post_date": "2020-01-05 06:00:00",
+                "last_update_date": "2020-01-05 09:56:30",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "PDD关门大弟子",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2716",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2716",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2716",
+                    "image": "http://image.wufazhuce.com/FvthFFZ5PAQxxOqcUaSkFQFXknsR",
+                    "title": "如何体面地应对失败？",
+                    "content": "如何体面地应对失败？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何体面地应对失败？",
+                        "desc": "文/无支祁 失败并不可怕，出丑最尴尬。",
+                        "link": "http://m.wufazhuce.com/question/2716?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何体面地应对失败？",
+                        "desc": "文/无支祁 失败并不可怕，出丑最尴尬。",
+                        "link": "http://m.wufazhuce.com/question/2716?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何体面地应对失败？》 文/无支祁： 失败并不可怕，出丑最尴尬。 阅读全文：http://m.wufazhuce.com/question/2716?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2716?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何体面地应对失败？",
+                        "desc": "失败并不可怕，出丑最尴尬。",
+                        "link": "http://m.wufazhuce.com/question/2716?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10244046",
+                    "user_name": "无支祁",
+                    "desc": "一个苏北人。",
+                    "wb_name": "@Hs无支祁",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个苏北人。",
+                    "fans_total": "4026",
+                    "web_url": "http://image.wufazhuce.com/Fj-LWuxxisWaGG3WCVC_kmIpmyVE"
+                }
+            },
+            {
+                "id": "19509",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3179",
+                "title": "后来的我们，一个不愿意联系，一个不愿意打扰",
+                "forward": "我知道，你曾是我的小王子，我也曾是你的玫瑰。只是我不能跟你回到你的星球，那样我会很快枯萎，你也不能为我留在人间，那样你就不再是小王子了。",
+                "img_url": "http://image.wufazhuce.com/FqL8SNEhRg7GV3DkGV3dJ19oRj3I",
+                "like_count": 2744,
+                "post_date": "2020-01-05 06:00:00",
+                "last_update_date": "2020-01-04 15:11:23",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/loxPc_SMaaLu8jv5ifhq68Plmy8y",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "在路上",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3179",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3179",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3179",
+                    "image": "http://image.wufazhuce.com/FqL8SNEhRg7GV3DkGV3dJ19oRj3I",
+                    "title": "「一个」音乐: 鹿西兮 在路上",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.我终于决心辞去北京的工作，然后打算用两周的时间在北京好好玩玩，好好告别，再搬去深圳开始一段新的生活。正巧碰上清明小长假，所以决定回一趟家，可惜只买到了当天凌晨的站票。毕业之后，大多数时候都是坐在公司的格子间里，很少有出差的机会。所以这是我第一次独自乘坐凌晨的绿皮火车。与我同买站票的人很多，我们凌乱又紧密地排列在走廊上，旁边有个女孩子在给男友打电话，说了好久&ldquo;宝贝你先睡吧&rdquo;，还有个男人让女儿坐在自己脚上休息，旁边有个女人给她让座，小女孩摆摆手拒绝了她。一个斜背着黑色书包，皮肤黝黑的中年男人从我们中间挤过，他说，对不起让一下，我想去餐车那里。于是我决定跟在他后面穿过一节节车厢。我们大约用了二十分钟穿过了五节车厢。中间他回头，用陕北口音浓重的普通话问我：&ldquo;小姑娘去哪啊。&rdquo;&ldquo;跟着你去餐车那。&rdquo;他咧嘴无声地笑笑。&ldquo;不经常坐火车吧。坐火车，别穿什么白衬衫和裙子，不管你上来的时候多么光彩，下去的时候都是灰头土脸的。&rdquo;我默默整了整自己被挤歪的半身格子裙，看着他帮人把一个行李箱放到架子上。通往餐车所在的那节车厢，有一条细长的走廊，大约只能容纳两个人并排站着。我在一对爷孙旁放下书包，尽量不惊醒他们。孙子坐在马扎上，靠着坐在地上的爷爷睡得不错。那个男人回头问我，&ldquo;你不走了？&rdquo;&ldquo;我觉得在这挺好的，没那么挤。&rdquo;他点点头，把手掌摊在我面前。在他纹路清晰又很粗糙的掌心，躺着我的一只耳坠。&ldquo;我最开始挤到你那个车厢的时候，在你旁边看到的，就捡起来了。&rdquo;&ldquo;谢谢你，下次坐火车不会再戴它了。&rdquo;&ldquo;这才对了。你们小姑娘就是太注意形象，其实火车上没那么多人看你。&rdquo;他没等到我回话，就转身继续往前走。过了大约一分钟，我听到他在走廊尽头与列车员的对话。&ldquo;现在还有饭吗？&rdquo;一个沙哑的声音冷冷地回他。&ldquo;没了，这个点不做饭。&rdquo;&nbsp;2.我把另一个耳坠也摘下来，放进书包里，靠墙坐下，打开是枝裕和的电影《比海更深》。电影中树木希林说：&ldquo;人们说，如果在睡梦中逝去，走的人和活着的人都会安心些。这说法也不一定对。你爸爸就是这样死去，但他还总会出现在我的梦里。你觉得哪种方式好？是卧床多年，求死不得，还是突然离去，时常托梦？&rdquo;我听到列车员在喊：&ldquo;谁是医生啊，9号车厢有一个女的昏倒了，这里有医生吗？&rdquo;一个男孩子站起来，我们之间隔着那对爷孙。&ldquo;我是。&rdquo;他摘掉耳机，回头看我，明眸皓齿。&ldquo;可以帮我看下行李吗？&rdquo;&ldquo;可以。&rdquo;我看到他跟在列车员身后挤进人群里。那个小孩子问爷爷：&ldquo;那人怎么了？&rdquo;爷爷回答，&ldquo;她是累了，没事，那个哥哥去看了。&rdquo;小孩子没了睡意，转头看向窗外，喊道：&ldquo;好多星星啊。&rdquo;列车在星空下穿过平原，窗外没有一点灯火。男孩很快回来，向我点头示意，大概那女人并无大碍，于是我继续蹲下看电影。火车在某处停下，走廊上不时有推着行李箱找地方坐的人。我往回收收脚，却看到一双白色的运动鞋停在我面前。他戳了我的肩膀一下。我抬头，是那个男孩。他欲言又止，皱了一下眉头，表情略显尴尬，这时候有人经过，他给人让路，无奈走廊靠窗的一边全部是坐在地上的人，他就一直挪到了走廊的尽头。我看他在那里低头看手机，并没有立刻回来，便继续看电影。但已经在心里闪过无数个想法：他到底想跟我说什么呢？3.电影里树木希林继续说着：&ldquo;人死了，再深的思念也无法将他带回来了。我有时很奇怪人为何不活在当下，总是去追逐那些逝去的东西，或力所不及的东西。&rdquo;几个人匆匆而过之后，那双白色的运动鞋又停在我面前。这次我率先抬起了头，看到他的右手正尴尬地停在半空。&ldquo;有事吗？&rdquo;他依旧欲言又止，轻轻摇头。&ldquo;真的没事吗？&rdquo;&ldquo;那个&hellip;&hellip;&rdquo;他微微低头，转动着自己的手机。&ldquo;就是，可以，加一下你的微信吗？&rdquo;他不好意思地笑笑，与我的眼神对上之后，立马看向窗外。&ldquo;为什么？&rdquo;&ldquo;我注意你很久了。&rdquo;他焦灼的眼光顷刻间穿透了我。又一个推着行李箱的男人走过来。我往后靠了一下紧贴在窗户上，他也微微前倾，把手撑在窗边，头也微微转向一边，在我们之间保持了一个适合陌生人的距离。他有些结巴地说：&ldquo;我，就只是想，认识你一下。&rdquo;我实在不知怎样拒绝一个腼腆又不善言辞的男孩子。于是我们交换了微信，并且我已经做好下车之后就删掉的准备。他说，他在北京上班，是一名实习医生。我说，我马上要离开北京去深圳工作了。他说，好可惜，没有早一点遇到你。我点点头。他问我在哪下车。南京。过了好久他说，&ldquo;我也在南京下车。&rdquo;后来他回到自己行李箱旁边，我们就这样站了一夜，中间隔着时醒时睡的爷孙俩。他偶尔示意我看向窗外，也不说话。外面很美，星空逐渐消散，窗外的铁轨渐渐清晰，给人一种充满希望的感觉。我打开备忘录写下：我正与整整一列火车的人共享初晨。到南京站时，已经快六点了。出站之后，第一股晨风吹来，他说：&ldquo;南京的早上怎么还这么冷。&rdquo;&ldquo;最近降温。我要去那边坐车了，你往哪走。&rdquo;&ldquo;我去那边。&rdquo;他指了一个相反的方向。&ldquo;嗯，好，再见。&rdquo;&ldquo;再见。&rdquo;4.一个月之后，我在深圳安稳下来，但生活还是像在帝都时候一样忙碌，但好像有一股无形的力量，正把我从上一段感情的阴霾中拉扯出来。有天晚上加班结束已经十一点了，打开手机，看到一个陌生的名字躺在屏幕上。&ldquo;还记得我吗？我来深圳工作了，方便的话可以见一面吗？&rdquo;我说，我都已经忘记你了。他说，半年过去了我还记得你的样子。后来我问他，这算是一见钟情吗？他说，重点是我跟你在南京下了车，而我当时要去的地方，是镇江。我曾经觉得这是一段妙不可言的缘分，在凌晨的火车上跟着一个男人穿过节节车厢，又因为一个女人的倒下邂逅对方，后来也没想起要删除他的微信。而且我们比《爱在黎明破晓前》的主人公要幸运，因为我们后来在一起了。在一起的第五年，一个夏末的晚上，他问我，&ldquo;我们要是以后结婚的话你会愿意嫁到我老家那里吗？&rdquo;我说，&ldquo;这没关系，我们就先在深圳租房住，过年的时候回家看看父母。&rdquo;&ldquo;我说的是，你愿意嫁到我老家吗？&rdquo;我愣楞地看着他。&ldquo;你知道最近我妈生病住院，她说总是指望不上我，我也觉得很对不起，我要是在老家上班，我妈根本不用住院的。&rdquo;&ldquo;所以你想回去工作？那我们呢？&rdquo;他低头沉默着。&ldquo;我们在外面打拼不就是为了生活得好点吗？你想照顾你妈我知道，难道我就不想我妈吗？但是你就要这样放弃吗？&rdquo;&ldquo;反正我在哪都是给人治病。&rdquo;&ldquo;那我们呢？&rdquo;&ldquo;我们在一起这么久，你就没想过结婚的事吗？还是你觉得我们根本不会走到那一步。&rdquo;&ldquo;所以你就已经替我想好了结婚后跟你回老家？&rdquo;&ldquo;我也是在问你的想法啊。我不像你有那么多想法，我只是个想好好生活的人，我这辈子做过最不靠谱的事，就是在火车上要了你的微信并且来深圳找你。&rdquo;我看着他的侧脸，像初识那晚一样。只是此刻我明白了，我们同行至此，但前路迷离，我想义无反顾往前走，他却舍不得身后的呼唤。或许我们只能走到这了。那晚是我们吵得最厉害的一次，我在酒吧待到凌晨，他也没找过我。后来我们几乎天天吵架，我无法跟他回家，他也快要顶不住家里的压力了。再后来我们就理所应当地分开了。5.分开那天，已经快到跨年夜了。他帮我把箱子抬到出租车上，在我关上车门的那一刻，好像听到了他说的一句&ldquo;对不起&rdquo;。现在我依旧漂在深圳，他也回到老家，一直孤身一人。前几天在一家咖啡店里听到了五月天的《如果我们不曾相遇》，&ldquo;那一天那一刻那个场景，你出现在我的生命，从此后从人生重新定义，从我故事里苏醒。如果我们不曾相遇，你又会在哪里，如果我们从不曾相识，人间又如何运行......&rdquo;那一刻好像有一个明眸皓齿的男孩，在昏黄的灯光下从我旁边站起来，说，我是医生。我知道，你曾是我的小王子，我也曾是你的玫瑰。只是我不能跟你回到你的星球，那样我会很快枯萎，你也不能为我留在人间，那样你就不再是小王子了。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 后来的我们，一个不愿意联系，一个不愿意打扰",
+                        "desc": "文/鹿西兮 再来一次，我们还是当路人吧。",
+                        "link": "http://m.wufazhuce.com/music/3179?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 后来的我们，一个不愿意联系，一个不愿意打扰",
+                        "desc": "文/鹿西兮 再来一次，我们还是当路人吧。",
+                        "link": "http://m.wufazhuce.com/music/3179?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 后来的我们，一个不愿意联系，一个不愿意打扰》 文/鹿西兮： 再来一次，我们还是当路人吧。 阅读全文：http://m.wufazhuce.com/music/3179?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3179?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "后来的我们，一个不愿意联系，一个不愿意打扰",
+                        "desc": "再来一次，我们还是当路人吧。",
+                        "link": "http://m.wufazhuce.com/music/3179?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "在路上",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "杨灯",
+                "audio_album": "在路上",
+                "cover": "http://image.wufazhuce.com/FoLzhye6nlh6QJx2Xv3bfzB19Gai",
+                "bg_color": "#000"
+            },
+            {
+                "id": "19510",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3021",
+                "title": "90后：18岁再见，30岁你好。",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fr0tA-kEDokQtzh8F0SnwAK8E7Rh?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1589,
+                "post_date": "2020-01-05 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3021",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3021",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 90后：18岁再见，30岁你好。",
+                        "desc": "90后，你们做的很好，我们做的很好",
+                        "link": "http://m.wufazhuce.com/radio/3021?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lrVT0tERyjeNckqhU1bI5ifZLV7j"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 90后：18岁再见，30岁你好。",
+                        "desc": "90后，你们做的很好，我们做的很好",
+                        "link": "http://m.wufazhuce.com/radio/3021?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lrVT0tERyjeNckqhU1bI5ifZLV7j"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 90后：18岁再见，30岁你好。》 主播/马晓橙： 90后，你们做的很好，我们做的很好 阅读全文：http://m.wufazhuce.com/radio/3021?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3021?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lrVT0tERyjeNckqhU1bI5ifZLV7j"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "90后：18岁再见，30岁你好。",
+                        "link": "http://m.wufazhuce.com/radio/3021?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lrVT0tERyjeNckqhU1bI5ifZLV7j"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 756 期",
+                "audio_url": "http://music.wufazhuce.com/lrVT0tERyjeNckqhU1bI5ifZLV7j"
+            }
+        ],
+        "menu": {
+            "vol": "2647",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4147",
+                    "title": "我喜欢你呀"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4148",
+                    "title": "从school到工体：盘尼西林乐队沉浮",
+                    "tag": {
+                        "id": "49",
+                        "title": "ONE能青年"
+                    }
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2716",
+                    "title": "如何体面地应对失败？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3179",
+                    "title": "后来的我们，一个不愿意联系，一个不愿意打扰"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3021",
+                    "title": "90后：18岁再见，30岁你好。"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

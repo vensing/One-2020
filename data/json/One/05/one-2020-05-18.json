@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5506",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-05-18 06:00:00",
+        "content_list": [
+            {
+                "id": "20342",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2822",
+                "title": "摄影",
+                "forward": "我希望自己良善，明察，永远不要仓促经过人间，要常常躬身低首，缓缓而行。",
+                "img_url": "http://image.wufazhuce.com/FpTWi1sOYBDAQ4S-WPyeab48ODSX",
+                "like_count": 20820,
+                "post_date": "2020-05-18 06:00:00",
+                "last_update_date": "2020-05-11 10:35:41",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2781",
+                "pic_info": "远方",
+                "words_info": "玛丽·奥利弗《当我置身于树林间》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2822",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2822",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2822",
+                    "image": "http://image.wufazhuce.com/FpTWi1sOYBDAQ4S-WPyeab48ODSX",
+                    "title": "VOL.2781",
+                    "content": "我希望自己良善，明察，永远不要仓促经过人间，要常常躬身低首，缓缓而行。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2822?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2822?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我希望自己良善，明察，永远不要仓促经过人间，要常常躬身低首，缓缓而行。——玛丽·奥利弗《当我置身于树林间》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2822?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2822?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20369",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4320",
+                "title": "离职",
+                "forward": "在成长的过程中人们不得不学会忍耐，这就像是温水煮青蛙，时间久了所有的灵气和傲气都化为了一摊泥泞。",
+                "img_url": "http://image.wufazhuce.com/FvpKyXw5jnkH9opKyRvXs6HLMVZ9",
+                "like_count": 2509,
+                "post_date": "2020-05-18 06:00:00",
+                "last_update_date": "2020-05-17 21:51:09",
+                "author": {
+                    "user_id": "9993544",
+                    "user_name": "蒋一初",
+                    "desc": "青年作者，编剧。难搞的水瓶座。",
+                    "wb_name": "@蒋一初",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者，编剧",
+                    "fans_total": "649",
+                    "web_url": "http://image.wufazhuce.com/Foj0bg8BJi_-9CPLGEGNfnv-bV-Z"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4320",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4320",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4320",
+                    "image": "http://image.wufazhuce.com/FvpKyXw5jnkH9opKyRvXs6HLMVZ9",
+                    "title": "离职 作者/蒋一初",
+                    "content": "不管这三年有过多少次的焦虑、烦躁，抑或是兴奋、期许，现在的她十分平静。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 离职",
+                        "desc": "文/蒋一初 不管这三年有过多少次的焦虑、烦躁，抑或是兴奋、期许，现在的她十分平静。",
+                        "link": "http://m.wufazhuce.com/article/4320?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 离职",
+                        "desc": "文/蒋一初 不管这三年有过多少次的焦虑、烦躁，抑或是兴奋、期许，现在的她十分平静。",
+                        "link": "http://m.wufazhuce.com/article/4320?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 离职》 文/蒋一初： 不管这三年有过多少次的焦虑、烦躁，抑或是兴奋、期许，现在的她十分平静。 阅读全文：http://m.wufazhuce.com/article/4320?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4320?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "离职",
+                        "desc": "不管这三年有过多少次的焦虑、烦躁，抑或是兴奋、期许，现在的她十分平静。",
+                        "link": "http://m.wufazhuce.com/article/4320?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20372",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1186",
+                "title": "最后的审判（二）第十四章：劳动之神",
+                "forward": "你的爱情还好吗？好到你这辈子都不想恋爱了吗？",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 833,
+                "post_date": "2020-05-18 06:00:00",
+                "last_update_date": "2020-05-17 09:57:42",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第14章",
+                "number": "14",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1186",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1186",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1186",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第十四章：劳动之神 作者/红拂夜奔不复还",
+                    "content": "自己喜欢的女人做什么都要无条件支持。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第十四章：劳动之神",
+                        "desc": "文/红拂夜奔不复还 自己喜欢的女人做什么都要无条件支持。",
+                        "link": "http://m.wufazhuce.com/serial/1186?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第十四章：劳动之神",
+                        "desc": "文/红拂夜奔不复还 自己喜欢的女人做什么都要无条件支持。",
+                        "link": "http://m.wufazhuce.com/serial/1186?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第十四章：劳动之神》 文/红拂夜奔不复还： 自己喜欢的女人做什么都要无条件支持。 阅读全文：http://m.wufazhuce.com/serial/1186?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1186?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第十四章：劳动之神",
+                        "desc": "自己喜欢的女人做什么都要无条件支持。",
+                        "link": "http://m.wufazhuce.com/serial/1186?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20370",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2850",
+                "title": "如何学会苦中作乐？",
+                "forward": "生活总是艰难的，总有人难过，但也总有人快乐。那为什么快乐的人不是你呢。",
+                "img_url": "http://image.wufazhuce.com/FjNzC4w9Q3Pa27p8jlz9bSjn1p5t",
+                "like_count": 2960,
+                "post_date": "2020-05-18 06:00:00",
+                "last_update_date": "2020-05-17 18:46:08",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "婉转悠扬",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2850",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2850",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2850",
+                    "image": "http://image.wufazhuce.com/FjNzC4w9Q3Pa27p8jlz9bSjn1p5t",
+                    "title": "如何学会苦中作乐？",
+                    "content": "如何学会苦中作乐？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何学会苦中作乐？",
+                        "desc": "文/文长长 所谓长大，长的从来不是年龄，而是我们对生活的态度。",
+                        "link": "http://m.wufazhuce.com/question/2850?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何学会苦中作乐？",
+                        "desc": "文/文长长 所谓长大，长的从来不是年龄，而是我们对生活的态度。",
+                        "link": "http://m.wufazhuce.com/question/2850?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何学会苦中作乐？》 文/文长长： 所谓长大，长的从来不是年龄，而是我们对生活的态度。 阅读全文：http://m.wufazhuce.com/question/2850?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2850?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何学会苦中作乐？",
+                        "desc": "所谓长大，长的从来不是年龄，而是我们对生活的态度。",
+                        "link": "http://m.wufazhuce.com/question/2850?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "20356",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3257",
+                "title": "直到遇见你，我终于可以做回自己",
+                "forward": "感情中有太多失望的人，也许是因为之前有太多的希望。",
+                "img_url": "http://image.wufazhuce.com/FpdWVC88ZBtri6W97fTVOvifOhT2",
+                "like_count": 2042,
+                "post_date": "2020-05-18 06:00:00",
+                "last_update_date": "2020-05-17 09:59:33",
+                "author": {
+                    "user_id": "9294032",
+                    "user_name": "申申",
+                    "desc": "戴着镣铐也要跳舞的人",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "戴着镣铐也要跳舞的人",
+                    "fans_total": "1540",
+                    "web_url": "http://image.wufazhuce.com/FuLa2p5fyBrgcr95MM0yDkcnTQjf"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/loFHKLaXm8YvRgm08wpzkujjxLVa",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "春夏秋冬的你",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3257",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3257",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3257",
+                    "image": "http://image.wufazhuce.com/FpdWVC88ZBtri6W97fTVOvifOhT2",
+                    "title": "「一个」音乐: 申申 春夏秋冬的你",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  决定一段亲密关系走向的关键拐点，就在于负面情绪与事件来临时的应对。别以为热恋的美好能抵消掉不愉快，人类对于痛苦的敏感程度远超出你的想象。1、吕维走出公司大楼的时候正是夕阳时分，这是他一年中少有的按时下班的日子。夏日耀眼的阳光在这一刻都收起了刺痛的热度，懒洋洋地照在来来往往的人身上。他看着身边来来往往的情侣们，笑容格外耀眼。而他曾经也拥有过这样的笑容。回家路上，他经过了一家漂亮的花店，里面有一个穿着白色棉布长裙的姑娘半蹲着在认真地挑选绿植。那个熟悉的场景，一下就击中了吕维。简琪最喜欢买绿植，她常说：&ldquo;绿色是能包容一切的颜色，看着就生机勃勃让人心生欢喜。&rdquo;其实不只这一次，在很多不经意的瞬间，他都会想起她。就像一场视听盛宴过后留下的耳鸣，久久回荡。人内心的那根时间轴，并不是由冰冷的数字来填充，而是由记忆深刻的事情写满。明明他和简琪也才交往一年半，却在他生活的每个角落都留下了痕迹&mdash;&mdash;全是那些看起来没什么意义的小事。不知为何，他总觉得简琪会回头找他复合，毕竟他们之间又没有什么大的争吵。他们那么投缘，还两情相悦，甚至现在他只要闭上眼就能想起简琪的眉梢都住满了对他的崇拜。2、简琪第一次见到吕维，是隔着人群，她本以为会看到一个戴着黑框眼镜、穿着正装的&ldquo;上班族&rdquo;。哪知他穿着深蓝色圆领卫衣，白色衬衣领翻出来，一条九分直筒牛仔裤，带了一顶鸭舌帽，样子青涩得就像学生。但他讲起专业上的知识时，眼睛闪闪发亮。那天恰巧他回学校开个小讲座。简琪站在后面听，这个人一不小心就闯进她的心里。再遇见时，是因为一个课题。一来二往，两人熟起来。他好看的唇形，嘴角微微上翘，低沉有力的声音。他思考问题时，总会眯起眼睛，骨节分明的手指还会有节奏地轻轻敲桌面。简琪捂住自己发热的脸，她决不允许吕维师兄看到自己这个样子。他那么优秀，怎么会没有女朋友？尽管这么想，但每次见面后吕维把自己送到家的这个举动，还是让她揣摩了很久。成年人的感情世界没有直接的爱意，那是片模糊不清的灰色地带，揣测和试探才能摸到边界线。他们的聊天频率并不低，高于朋友，低于恋人。闲谈中聊到感情，确认彼此都是单身以后，吕维找他的频率又更高了些。刚在一起那会儿是真开心，简琪本就欣赏上进、优秀人，吕维不偏不倚恰好就是，怎么看怎么顺眼。他给她如数家珍说职场的要点，她听得频频点头；他告诉她专业课千万要扎牢，有了好奇就要大胆尝试，不要怕失败；他还会做菜，告诉她西红柿怎么过热水更好去皮&hellip;&hellip;坠入爱河，就是他瞎掰你也觉得厉害。她变着法儿地喜欢着他。他拿专业课的全优，她也要卯足劲儿学争取全优；她买了拍立得，每次见面都要拍下几张，回去做手帐写下来；她的购物软件里，多了很多家好看的男装店、电竞产品店；她的备忘录里写了很多爱吃的东西、很多她想和吕维一起去的美食店&hellip;&hellip;她喜欢看他看到她成绩单时的惊讶，她喜欢看他穿上红色条纹短袖时的臭美，她喜欢给他买喜欢的电子产品&hellip;&hellip;吕维嘴上不说，内心全是感动。3、但一开始恋爱情感浓度太高，并不是好征兆。世上本没有天造地设的两人，前面如果美好得不真实，后面的真实就会太残忍。吕维对自己要求高，对旁人自然要求也高，更何况亲密的人。简琪学业上用功，但&ldquo;游戏人间&rdquo;的快乐也不落下。K书可以到天亮，玩也必须攒足精神头到天明。但吕维就是那种目的性很强的人，没必要拖的功课绝不拖，没必要见的人绝不见，没必要去的局绝不去，没必要做的事都不做。用他的话说就是&ldquo;人的精力是有限的，我要花在刀刃上&rdquo;。一开始知道他这个原则的时候，简琪只当他是自我要求高。后来发现这真的是他生活中践行的准则。热恋那会儿，两人分不开，无暇顾及这些习惯的不同。每到考试周前，简琪熬夜如家常便饭，吕维看不惯，觉得很多功课就该放在平时做。为这事儿两人没少争论，吕维占理&ldquo;反正都要学，堆在一起学熬夜还伤身&rdquo;，简琪觉得反正只要结果是好的，过程并不重要。一开始他跟她讲道理，简琪觉得他一本正经的样子真的很可爱。吕维告诉她给自己列任务清单，每天完成一天，省得考试周熬夜，她也老老实实做了。但她还是架不住旁边人组局玩，她尤其喜欢聚会唱歌。吕维第一次听时就惊住了，她的嗓音与她的外表完全不同，唱起情歌沙哑的嗓音扣人心弦。她一出去玩，就被吕维抓了个正着，说不生气是不可能的。他觉得那些&ldquo;玩乐局&rdquo;本就是可以不去的。吕维铁青着脸，简琪拉他衣袖，小声地说：&ldquo;我再也不随便出去玩了。这次是唱歌嘛，下回我不去了。&rdquo;简琪老老实实收了心，但却和以前不同了。以前不熬夜是因为她想学习吕维的自律，而现在是有点怕。她以为低头退让一步就可以了，但那次外出旅行，着实让简琪有些惊讶。她在返程前买了不少的礼物，准备回去送给好友，吕维则买了三件礼物。简琪问他送给谁，她竟没有听到一个吕维好友的名字。她疑惑地问他：&ldquo;你买礼物不送好友，是爸妈吗？&rdquo;吕维摇摇头，开口说：&ldquo;这次我出来，我公司有领导知道了，肯定少不了带份礼物回去表示表示。&rdquo;那瞬间，简琪觉得吕维做得很好，好到让她说不出话。但又觉得怪，当下她把那股情绪掩盖了，藏在心里。也是，他从来都只做有目的的事。而室友大喜的失恋，彻底让吕维和简琪冷战了。简琪陪着大喜熬了好几次夜，通宵陪她哭陪她闹，陪她喝酒到天亮。第一次吕维没说什么，第二次他就觉得没必要。&ldquo;你陪着她也没什么用，让你室友该吃吃，该睡睡。&rdquo;简琪说：&ldquo;我知道没什么用，不过她心情不好，我肯定要陪着熬过去。&rdquo;吕维愣了一下，说：&ldquo;既然你知道没用，又何必一起折腾呢？&rdquo;简琪说：&ldquo;话虽如此，我也不可能让大喜独自面对情绪啊。&rdquo;吕维直戳戳地说：&ldquo;但最终却还是大喜独自面对才能解决这事儿。&rdquo;吵架最怕就是，你有你的想法，我有我的想法，无关对错，只是视角不同却能让两人彻底对立。就这么一件小事，简琪觉得吕维理智得可怕，而吕维何尝不觉得简琪太过情绪化。4、吕维自觉没有什么不妥，只希望简琪可以将自己的话记在心里，不要花太多精力在不必要的事情上。简琪反反复复想这些事情，不知为什么她明明是爱慕他，走近一看却又完全不一样。他们几乎在生活中是对立的人。她觉得自己不该在细节上反复琢磨，这世上本来就没有完美的人，她又何必苛求。感情中有太多失望的人，也许是因为之前有太多的希望。她收了心思，安安心心念书，像吕维希望的那样，推掉了很多局，少见了很多朋友，朋友的事也不大跟吕维再说，总觉着怕再生出吵架的事端。那阵子，她沉寂下来，话也少了很多，和吕维再没有什么吵架的时候，当然快乐的时候也似乎没有。她确实变成&ldquo;吕维&rdquo;眼中那个越来越自律，越来越好的自己。说起来，她应该开心，她当初那么崇拜喜欢他的优秀、自律，但她只是觉得闷，闷得她喘不过气来。她跟吕维提过这种闷闷的感受，吕维说你只是不习惯，再等一段时间就好了。后来闷到身体关着的野兽彻底冲破牢笼，简琪觉得也许是她生活方式出了问题。那些她喜欢的事情，写手帐、和朋友聚会、邀人看展览、吃烤肉、选礼物、拼乐高、看日出、买衣服给别人&hellip;&hellip;这些都被&ldquo;有用的学习&rdquo;给慢慢占据。她撒娇着要吕维陪玩，他都因着工作或者工作太累想休息给拒掉了。他真的认为全是没有意义的事情，但这一大串&ldquo;无意义&rdquo;的事情，却是让她喘息的机会。当你的生活方式被完全无视，不被接纳，那种挫败感可以在人的内心掀起惊涛骇浪。扇动翅膀的蝴蝶早就出现了，在她这里引起了山崩地裂，而牵手的他却毫无反应。其实吕维真的没什么不好，只是不适合恋爱，只适合崇拜。他也不需要找自己谈恋爱，感觉换成任何一个听他安排的人就可以。5、分手后，吕维总觉得简琪会来复合。也许是因为她当初那么欣赏他的优秀，他觉得自己只要保持着优秀，前任就一定会回头。他等得越久就越疑惑，因为他渐渐开始想念那些奇奇怪怪的瞬间&mdash;&mdash;看起来无意义的小事。她让他闻晒完太阳的被子的气味，去看奇奇怪怪的展览，窝在书店喝咖啡，吃闻起来臭吃起来香的螺狮粉&hellip;&hellip;他不断地徘徊在简琪生活的边缘，他从各路朋友的口中得知简琪并没有交新男朋友，他迫切地想让她知道自己变得更优秀了，但她好像故意避着自己。他却觉得她只是在耍小脾气，等她想清楚，就会回头。直到等到她的新恋情，以及那段让人意味深长的话，吕维才彻底明白，他自以为的优秀、两情相悦在她眼里有多不堪一击。&ldquo;我与许多人曾擦肩而过，聪明的人，自律的人，有人格魅力的人，有活力的人&hellip;&hellip;我在他们身上看到了理想中的自己，我以为那是我渴望靠近的，但时间告诉我那些都是过客。直到遇见你，我终于松了一口气，因为我终于不仅能成为更好的自己，也可以成为爱玩的、贪吃的、幼稚的甚至是彻底失败的自己。&rdquo;\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 直到遇见你，我终于可以做回自己",
+                        "desc": "文/申申 有的人不适合恋爱，只适合崇拜。",
+                        "link": "http://m.wufazhuce.com/music/3257?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 直到遇见你，我终于可以做回自己",
+                        "desc": "文/申申 有的人不适合恋爱，只适合崇拜。",
+                        "link": "http://m.wufazhuce.com/music/3257?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 直到遇见你，我终于可以做回自己》 文/申申： 有的人不适合恋爱，只适合崇拜。 阅读全文：http://m.wufazhuce.com/music/3257?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3257?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "直到遇见你，我终于可以做回自己",
+                        "desc": "有的人不适合恋爱，只适合崇拜。",
+                        "link": "http://m.wufazhuce.com/music/3257?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "春夏秋冬的你",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "王宇良",
+                "audio_album": "《春夏秋冬的你》",
+                "cover": "http://image.wufazhuce.com/FqRtrfMvTc7WQtJS2iFlkgdWOajZ",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2781",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4320",
+                    "title": "离职"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1186",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第十四章：劳动之神"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2850",
+                    "title": "如何学会苦中作乐？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3257",
+                    "title": "直到遇见你，我终于可以做回自己"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,575 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5674",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-11-10 06:00:00",
+        "content_list": [
+            {
+                "id": "21387",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2999",
+                "title": "摄影",
+                "forward": "恬淡就是吃饱了饭没事干，虚无就是吃不吃饭都无所谓了。",
+                "img_url": "http://image.wufazhuce.com/Fri0LETBEgTSvEccEzLvSjfqLrMt",
+                "like_count": 12376,
+                "post_date": "2020-11-10 06:00:00",
+                "last_update_date": "2020-11-02 13:15:26",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2957",
+                "pic_info": "Joshua Bos",
+                "words_info": "午歌",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2999",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2999",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2999",
+                    "image": "http://image.wufazhuce.com/Fri0LETBEgTSvEccEzLvSjfqLrMt",
+                    "title": "VOL.2957",
+                    "content": "恬淡就是吃饱了饭没事干，虚无就是吃不吃饭都无所谓了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2999?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2999?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 恬淡就是吃饱了饭没事干，虚无就是吃不吃饭都无所谓了。——午歌 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2999?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2999?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21406",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4505",
+                "title": "回南天",
+                "forward": "真相只要有一丝的瑕疵，人们就会嗤之以鼻；而谎言只要有一点可信，人们就会坚信不疑。",
+                "img_url": "http://image.wufazhuce.com/FhkbUDpI80CHRhx2bDYOKsc3Y2mm",
+                "like_count": 2758,
+                "post_date": "2020-11-10 06:00:00",
+                "last_update_date": "2020-11-10 14:27:49",
+                "author": {
+                    "user_id": "10842628",
+                    "user_name": "赵耐凡",
+                    "desc": "短篇《十一月北方下雪》作者",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "耐凡不耐烦",
+                    "fans_total": "798",
+                    "web_url": "http://image.wufazhuce.com/Fj1H6EI3JIZh-fdDJmXfRj1YJOJl"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4505",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4505",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4505",
+                    "image": "http://image.wufazhuce.com/FhkbUDpI80CHRhx2bDYOKsc3Y2mm",
+                    "title": "回南天 作者/赵耐凡",
+                    "content": "“我现在很想你。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 回南天",
+                        "desc": "文/赵耐凡 “我现在很想你。”",
+                        "link": "http://m.wufazhuce.com/article/4505?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 回南天",
+                        "desc": "文/赵耐凡 “我现在很想你。”",
+                        "link": "http://m.wufazhuce.com/article/4505?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 回南天》 文/赵耐凡： “我现在很想你。” 阅读全文：http://m.wufazhuce.com/article/4505?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4505?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "回南天",
+                        "desc": "“我现在很想你。”",
+                        "link": "http://m.wufazhuce.com/article/4505?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21307",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1327",
+                "title": "制作人们·第十四章：没出息的人",
+                "forward": "两个男人差点为你打架了，你有没有一点得意？",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 658,
+                "post_date": "2020-11-10 06:00:00",
+                "last_update_date": "2020-10-16 15:24:03",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第14章",
+                "number": "14",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1327",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1327",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1327",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第十四章：没出息的人 作者/鳄鱼姐",
+                    "content": "两个男人差点为你打架了，你有没有一点得意？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第十四章：没出息的人",
+                        "desc": "文/鳄鱼姐 两个男人差点为你打架了，你有没有一点得意？",
+                        "link": "http://m.wufazhuce.com/serial/1327?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第十四章：没出息的人",
+                        "desc": "文/鳄鱼姐 两个男人差点为你打架了，你有没有一点得意？",
+                        "link": "http://m.wufazhuce.com/serial/1327?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第十四章：没出息的人》 文/鳄鱼姐： 两个男人差点为你打架了，你有没有一点得意？ 阅读全文：http://m.wufazhuce.com/serial/1327?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1327?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第十四章：没出息的人",
+                        "desc": "两个男人差点为你打架了，你有没有一点得意？",
+                        "link": "http://m.wufazhuce.com/serial/1327?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21401",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3032",
+                "title": "怎么向爱人恰当地表达关心？",
+                "forward": "施予的关心得到流畅循环，这份关心才能彰显意义弥足珍贵。",
+                "img_url": "http://image.wufazhuce.com/Fo9fPtw_E9DZKA5eAfRmfMLpnit_",
+                "like_count": 2435,
+                "post_date": "2020-11-10 06:00:00",
+                "last_update_date": "2020-11-09 18:20:29",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "黄金分割",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3032",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3032",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3032",
+                    "image": "http://image.wufazhuce.com/Fo9fPtw_E9DZKA5eAfRmfMLpnit_",
+                    "title": "怎么向爱人恰当地表达关心？",
+                    "content": "怎么向爱人恰当地表达关心？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎么向爱人恰当地表达关心？",
+                        "desc": "文/缪斯谭 真心实意远比技巧话术重要成千上万倍。",
+                        "link": "http://m.wufazhuce.com/question/3032?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎么向爱人恰当地表达关心？",
+                        "desc": "文/缪斯谭 真心实意远比技巧话术重要成千上万倍。",
+                        "link": "http://m.wufazhuce.com/question/3032?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎么向爱人恰当地表达关心？》 文/缪斯谭： 真心实意远比技巧话术重要成千上万倍。 阅读全文：http://m.wufazhuce.com/question/3032?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3032?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎么向爱人恰当地表达关心？",
+                        "desc": "真心实意远比技巧话术重要成千上万倍。",
+                        "link": "http://m.wufazhuce.com/question/3032?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "21413",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2075",
+                "title": "她用一生拍女人",
+                "forward": "她用镜头描绘女性，她把电影当作人生。",
+                "img_url": "http://image.wufazhuce.com/FpKD5oLFqeSr5qj73htd_9kOu5OG",
+                "like_count": 1459,
+                "post_date": "2020-11-10 06:00:00",
+                "last_update_date": "2020-11-10 14:30:46",
+                "author": {
+                    "user_id": "11445677",
+                    "user_name": "尔佐月",
+                    "desc": "看电影，躲进电影里，做梦。写小说，做一个会讲故事的人。非典型东北人。心理学专业逃兵，半路出家的文学硕士。做过图书编辑、撰稿人，现任职于某少儿报刊，社畜小编一枚。一生所爱：读书、写作、看电影。\r\n小说作品有《锦书来》《独立时代》《小春日和》小说也好，影评也好，什么都好，希望写出可以触动人心的文字。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "看电影，躲进电影里，做梦。",
+                    "fans_total": "174",
+                    "web_url": "http://image.wufazhuce.com/FutCmvSjZB9PN3fnG6QKXEox6xQ8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "许鞍华和她的电影",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5058",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2075",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2075",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2075",
+                    "image": "http://image.wufazhuce.com/FpKD5oLFqeSr5qj73htd_9kOu5OG",
+                    "title": "「一个」电影: 许鞍华和她的电影",
+                    "content": "华语电影世界里，女性导演屈指可数，年过古稀仍坚持创作的女性导演，许鞍华是唯一的存在。从1979年凭借《疯劫》进入电影行业，她已经导演超过40部电影。作为导演，她用镜头描绘了众多女性人物的命运，作为女性，她把拍电影变成了自己的存在方式。01 &nbsp;大胆、反叛、特立独行创作中，许鞍华不是遵循逻辑的导演，更多时候凭借直觉感性，敢想敢做，非常有爆发力。她镜头下的年轻女性，同样透着大胆、反叛、特立独行的气质，面对爱情不顾一切，勇敢爱下去。《今夜星光灿烂》的女主角杜采薇（林青霞饰），不管是20年前还是20年后，对爱情的义无反顾始终没有变过。大学时，她爱上了有妇之夫张教授。不伦恋曲总是谱写悲歌，私情败露后，她怀孕、堕胎，一度意志消沉，张教授则丢了教职，远走他乡。20年后，她又爱上了年轻男孩张天安，为了爱情不惜放弃前途。巧的是旧爱新欢意外相遇，两人竟然是父子。离奇的巧合让人物命运显得有些荒唐，杜采薇的笃定与坚持则给人惊喜。她从未因为他人的眼光而放弃追求心中所爱，年轻时冲动轻狂，敢爱敢做却也不曾后悔，年届中年，再一次面对挑战世俗眼光的爱情。即使有现实层面的阻碍，她依然选择听从内心的声音。和杜采薇相比，《男人四十》中的胡彩蓝更加反叛，对中年人一成不变的沉闷生活尽是调侃。她是魅惑的少女，漫不经心地诱惑着国文老师林耀国（张学友饰）；她果敢决断，目标明确，人人羡慕的大学，远不如开一间店铺让她快乐。她亦不害怕危险，不要求承诺，婚姻？长相厮守？那些东西沉重又无聊，她不感兴趣。情感漩涡中的三个人，林氏夫妇活得规矩又压抑，只有胡彩蓝随性地做她自己。她给林耀国的二十年心结带来一个情感出口，后者对她来说，则只是青春时光里一个饶有趣味的过客。许鞍华总能拍出个性鲜明、富有生命力的女孩子，她们遇见爱情，在情感里经历喜悦和伤害；云雾消散后，她们依然带着繁盛的生命力去迎接新的人生。&nbsp;02 &nbsp;职业女性进退两难《女人，四十》中的阿娥（萧芳芳饰），个性泼辣强悍，风风火火地过着鸡零狗碎的日子。从某一个瞬间开始，好像全世界都在与她为敌。善良懦弱的丈夫，疾病缠身的公公，年轻漂亮的公司新人&hellip;&hellip;睁开眼睛就是充满挑战的一天。阿娥白天忙工作，下了班要照顾一家老小。婆婆去世后，公公患上阿尔茨海默症，她在公司和家之间奔波，几乎喘不过气来。电影中有一个镜头，阿娥站在阳台上收衣服，突然蹲下身哭了起来，&ldquo;&hellip;&hellip;婆婆，我好累，我受不了了&hellip;&hellip;&rdquo;成年人的崩溃，往往就在一瞬间。尽管如此，阿娥有她的坚持。丈夫叫她回家照顾老人，她愤怒地说：&ldquo;上班是我人生最大的乐趣&hellip;&hellip;我是怎样都不会放弃的。&rdquo;四十岁的女人，为家庭奉献自己，同时又不想失去自我，这样的处境，对当代女性来说也是无解的难题。许鞍华的作品中，镜头对准职业女性的还有《阿金》。从大陆来香港讨生活的阿金（杨紫琼饰），由于身手不凡，在片场做起了武师。不久，阿金跟主动热情的阿Sam坠入爱河，并跟他到了深圳，帮忙打理卡拉OK生意。好景不长，风流的阿Sam移情别恋，阿金倍尝情伤之痛，回到香港重操旧业。阿娥是一个挣扎于职场和家庭之间的女性，虽然疲惫，至少公司和家庭都是她的领地。阿金的日子更艰难，她选择了一条蜀道一般的职业之路&mdash;&mdash;武师始终是男人的世界，男人尚且要以命相搏，女人想要闯出名堂，难于上青天。对于人生选择，阿金也没有坚持&ldquo;上班是我人生最大的乐趣&rdquo;，她希望遵循传统女人的命运&mdash;&mdash;嫁为人妇，相夫教子。把自己的未来寄托给男人，势必要吞掉许多委屈和泪水。阿金有着职业女性的自觉，又有着传统女性的期待，究竟何从何处，前途一片渺茫。《黄金时代》中的萧红，也可以归类为职业女性&mdash;&mdash;作家便是她的职业。战火纷飞的年代，想要以作家的身份存活于世，萧红选了一条充满荆棘的道路。贫穷、饥饿、四处漂泊的生活，让她难以安心写作，更不用说尽职尽责地为人妻子、为人母亲。萧红是逃出旧式家庭的娜拉，也是勇敢追求爱情的新女性。她从呼兰河出发，带着她的草莽天真一路流亡，把最后一口气留在了香港。若干年后，从香港出发的许鞍华一路北上，用影像回顾萧红生活过的&ldquo;黄金时代&rdquo;。许鞍华把萧红曲折的情感经历拍了出来，也展示了她颠沛流离、贫病交加的一生。爱情故事很容易引起共鸣，但爱情并不是她人生的全部。从一个男人身边流浪到另一个男人身边，是她的个人选择，也是她的无可奈何。在情感生活之外，萧红对文学创作、对家国命运有着自己的坚持和实践，她用超越同代人的灵气和智慧，把丰富的内心留在了文字里。遗憾的是，电影八卦了她的私生活。却没能承载她的高贵灵魂。&ldquo;当我死后，或许我的作品无人去看，但肯定的是，我的绯闻将永久流传。&rdquo;对于后世的评说，萧红其实早有预感。&nbsp;03 &nbsp;从鞍山来，回鞍山去许鞍华的&ldquo;鞍&rdquo;是鞍山的&ldquo;鞍&rdquo;。她在鞍山出生，但是这座位于东北的重工业城市并没有在她的成长经历中扮演任何重要角色。再次回到鞍山，时间已经过去近60年。2006年上映的电影《姨妈的后现代生活》，许鞍华把鞍山设定为衬托人物命运的深远背景。女主角叶如棠（斯琴高娃饰）是上海出生的文艺女中年，读过大学，热爱京剧和国画，会说纯正的&ldquo;伦敦音&rdquo;，渴望精致优雅的小资生活。精致优雅的另一面，是她想要彻底抛弃的粗鄙人生。在鞍山，有一个粗俗肮脏的老工人，那是她的丈夫；有一个脾气火爆的女厨师，那是她的女儿；有一间昏暗逼仄的小房子，那是她的家。&ldquo;文革&rdquo;期间，叶如棠迫于现实，在鞍山落叶生根。时间没有磨掉她的不甘，她永远记得自己来自上海，她想要的是与意中人情投意合、举案齐眉的生活。为了追寻理想，她抛夫弃女，一个人回到了上海。回来后才发现，眼前的现实生活和她心中的黄金世界相去甚远。在上海，她只是一个市井小人物，一个不合时宜的外来者。她引以为傲的英氏发音，已经被时髦的美音所抛弃；她的善意和同情心，错付于一个靠&ldquo;碰瓷&rdquo;为生的女人；她对爱情的美好憧憬，被花言巧语的骗子潘知常（周润发饰）敲碎打破。人财两空后，她不得不低头，重新回到曾经奋力逃离的地方，在平庸无趣的生活里苟活。许鞍华作品中有很多努力追寻自我的女性，叶如棠真正踏上了&ldquo;为自己而活&rdquo;的道路。在上海，她不是男人的妻子，不是孩子的母亲，她只是她，一个独立的个体，一个寻求理想人生的人。某种程度上，个人是自己命运的主宰者，某种程度上，个人又难逃命运的无情捉弄。电影的最后，叶如棠穿着厚重的棉衣坐在寒冬的市场上，手里抓着咸菜馒头，麻木地啃着。此时此刻，她和那条敲起来叮当作响的冻鱼何其相似。她比任何人都清楚，上海不过是一场华丽的梦，眼前这片嘈杂才是她的未来。&nbsp;04 &nbsp;有尊严地活着和老去年过古稀，许鞍华没有结婚，也没有孩子，在香港的出租公寓里，她和母亲一起生活。因为个人的生活经历，许鞍华又拍了两部关注中老年女性的作品&mdash;&mdash;《天水围的日与夜》和《桃姐》。《天水围的日与夜》的女主角贵姐是一位单亲妈妈，和儿子相依为命。她的生活规律又平淡，上班下班，买菜做饭，一日一日地柴米油盐、婚丧嫁娶，重复着。和儿子一起吃饭的场景在电影中出现了很多次，米饭、青菜和蒸蛋，寻常的家常菜，随处可见的廉价食材，就像她的人生。外婆提起贵姐小时候，原来她十四岁辍学做学徒，赚钱供弟弟妹妹读书，结婚之后依然拿钱贴补家里。若干年后，弟弟妹妹的生活远远优渥于她，她没有仰仗曾经的牺牲，拿奉献兑换回报，更没有因为经济状况的悬殊而放弃个人尊严。麻将桌上，贵姐坚持付了输掉的钱；拿到弟弟送来的月饼券，也坚持要把钱算清楚。对她来说，精打细算的日子，日日夜夜的劳碌生活，并不是心理上的负担。她勤手勤脚，打理好自己的生活，还有能力为他人带去快乐。所谓知足常乐，就是这样吧。贵姐的生活态度，有不少导演本人的影子。在个人生活上，许鞍华总是随遇而安，对物质享受兴趣不大，有戏拍就拍戏，没戏拍就去教书。多年来起起落落，她早已有了豁达心境，好运固然高兴，潦倒了也不会特别介意。对于老之将至，许鞍华亦是坦然接受一切。电影《桃姐》有大部分戏在养老院取景，她得以近距离地观察养老院里鳏寡孤独者的最后一段人生。这一遭走下来，她的心态更加从容，直言等自己拍不动了，住养老院也是一个不错的选择。《桃姐》的女主角钟春桃，人称桃姐，在梁家做了一辈子帮佣。年岁渐长，身体大不如前，有一天突然中风住进了医院。她不愿拖着病体赖在东家，见到少东家罗杰后，主动提出去住养老院。罗杰帮桃姐安排妥当，养老院的生活由此开始。老人总是寂寞的。孤苦无依的桃姐，心心念念地等待罗杰前来探望。两个人一起散步，一起闲话家常的时候，她开心得像个孩子；不过，她也清楚两人之间的主仆界限，他给的，已经是他本分之内最好的，她不可以奢求。她用自尊支撑着寂寞，用&ldquo;不需要&rdquo;&ldquo;我可以&rdquo;来消减内心的期待。好在，许鞍华给了桃姐一个温情的尾声。葬礼上，坚叔（秦沛饰）送上的那捧白色玫瑰花，多少证明桃姐在最后的日子里不那么寂寞。05 &nbsp;尾声54岁时，许鞍华说，她最大的遗憾是仍然没有拍到一部好戏。20年过去，好戏陆续登场，一次次证明她宝刀不老。2019年，她又拿起张爱玲的小说，将《沉香屑&middot;第一炉香》搬上银幕。为什么要说&ldquo;又&rdquo;呢？因为从1984年的《倾城之恋》到1997年的《半生缘》，这已经是她第三次拍摄改编自张爱玲小说的作品。《第一炉香》的制作班底堪称豪华，单凭王安忆、杜可风、杜笃之、坂本龙一等响亮的名字，就可以期待这将是华语电影的一场银幕盛宴。不过，也有人为电影中&ldquo;淳朴&rdquo;的葛薇龙和&ldquo;精壮&rdquo;的乔琪乔捏一把汗。许鞍华在学生时代就喜欢读张爱玲的小说，对作品和人物有她独到的理解。此次改编，她是想还原作者笔下那个幽暗颓靡的情感世界，还是想另辟蹊径，用影像重构瑰丽文字里的情欲流转呢？对于观众的种种臆测，想来许鞍华并不会太过在意。最悲伤的生活不过如此，最幸福的生活不过如此。从1979年拍第一部电影，曾经一起合作过的人，曾经一起为香港电影出力的人，有人退休了，有人已经过世，而她仍然在拍电影，在做她喜欢的事。如此，足矣。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 她用一生拍女人",
+                        "desc": "文/尔佐月 她用镜头描绘女性；她把电影当作人生。",
+                        "link": "http://m.wufazhuce.com/movie/2075?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 她用一生拍女人",
+                        "desc": "文/尔佐月 她用镜头描绘女性；她把电影当作人生。",
+                        "link": "http://m.wufazhuce.com/movie/2075?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 她用一生拍女人》 文/尔佐月： 她用镜头描绘女性；她把电影当作人生。 阅读全文：http://m.wufazhuce.com/movie/2075?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2075?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "她用一生拍女人",
+                        "desc": "她用镜头描绘女性；她把电影当作人生。",
+                        "link": "http://m.wufazhuce.com/movie/2075?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21308",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3320",
+                "title": "备一份初冬的温暖",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fs5W-4D877dfguogllSjqsFVvwhL?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1086,
+                "post_date": "2020-11-10 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3320",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3320",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 备一份初冬的温暖",
+                        "desc": "戴什么帽子就决定了今天做什么样的自己",
+                        "link": "http://m.wufazhuce.com/radio/3320?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lmYW9z0BZIEL6GBB6unaX2kj9xPU"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 备一份初冬的温暖",
+                        "desc": "戴什么帽子就决定了今天做什么样的自己",
+                        "link": "http://m.wufazhuce.com/radio/3320?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lmYW9z0BZIEL6GBB6unaX2kj9xPU"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 备一份初冬的温暖》 主播/李荟莹： 戴什么帽子就决定了今天做什么样的自己 阅读全文：http://m.wufazhuce.com/radio/3320?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3320?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lmYW9z0BZIEL6GBB6unaX2kj9xPU"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "备一份初冬的温暖",
+                        "link": "http://m.wufazhuce.com/radio/3320?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lmYW9z0BZIEL6GBB6unaX2kj9xPU"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 912 期",
+                "audio_url": "http://music.wufazhuce.com/lmYW9z0BZIEL6GBB6unaX2kj9xPU"
+            }
+        ],
+        "menu": {
+            "vol": "2957",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4505",
+                    "title": "回南天"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1327",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第十四章：没出息的人"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3032",
+                    "title": "怎么向爱人恰当地表达关心？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2075",
+                    "title": "她用一生拍女人"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3320",
+                    "title": "备一份初冬的温暖"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

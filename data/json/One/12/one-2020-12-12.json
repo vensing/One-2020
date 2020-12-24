@@ -1,0 +1,385 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5707",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-12-12 06:00:00",
+        "content_list": [
+            {
+                "id": "21584",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "3031",
+                "title": "摄影",
+                "forward": "世界微尘里，吾宁爱与憎。",
+                "img_url": "http://image.wufazhuce.com/FksH_n35rRejM--tYxj1aXhsclRd",
+                "like_count": 13997,
+                "post_date": "2020-12-12 06:00:00",
+                "last_update_date": "2020-12-10 13:23:29",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2989",
+                "pic_info": "Austin Ban",
+                "words_info": "李商隐《北青萝》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3031",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/3031",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/3031",
+                    "image": "http://image.wufazhuce.com/FksH_n35rRejM--tYxj1aXhsclRd",
+                    "title": "VOL.2989",
+                    "content": "世界微尘里，吾宁爱与憎。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3031?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3031?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 世界微尘里，吾宁爱与憎。——李商隐《北青萝》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3031?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3031?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21591",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4538",
+                "title": "菩萨",
+                "forward": "最好的时光总是最短的，人只能靠记忆把它拉长。",
+                "img_url": "http://image.wufazhuce.com/Fpp5EScbIYrCqGhmb62M1-oRM5fs",
+                "like_count": 2266,
+                "post_date": "2020-12-12 06:00:00",
+                "last_update_date": "2020-12-14 16:12:34",
+                "author": {
+                    "user_id": "4814886",
+                    "user_name": "花大钱",
+                    "desc": "花大钱，青年作家。",
+                    "wb_name": "@花大钱",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "花大钱，青年作家。",
+                    "fans_total": "25985",
+                    "web_url": "http://image.wufazhuce.com/Fmaj0Hb6PTZezqg7JL6s8K9rQk6r"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4538",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4538",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4538",
+                    "image": "http://image.wufazhuce.com/Fpp5EScbIYrCqGhmb62M1-oRM5fs",
+                    "title": "菩萨 作者/花大钱",
+                    "content": "他是落在地上的，充满尘土气的，离神极远的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 菩萨",
+                        "desc": "文/花大钱 他是落在地上的，充满尘土气的，离神极远的。",
+                        "link": "http://m.wufazhuce.com/article/4538?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 菩萨",
+                        "desc": "文/花大钱 他是落在地上的，充满尘土气的，离神极远的。",
+                        "link": "http://m.wufazhuce.com/article/4538?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 菩萨》 文/花大钱： 他是落在地上的，充满尘土气的，离神极远的。 阅读全文：http://m.wufazhuce.com/article/4538?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4538?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "菩萨",
+                        "desc": "他是落在地上的，充满尘土气的，离神极远的。",
+                        "link": "http://m.wufazhuce.com/article/4538?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21578",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3063",
+                "title": "怎么提高自制力？",
+                "forward": "闹钟响后，关掉后又回被窝睡个回笼觉。起床后又开始后悔，早起不成，步也没跑。",
+                "img_url": "http://image.wufazhuce.com/FmfC7_NUQ_-wMMMg75ylqboa8rSM",
+                "like_count": 2926,
+                "post_date": "2020-12-12 06:00:00",
+                "last_update_date": "2020-12-09 12:44:03",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "幻想家",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3063",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3063",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3063",
+                    "image": "http://image.wufazhuce.com/FmfC7_NUQ_-wMMMg75ylqboa8rSM",
+                    "title": "怎么提高自制力？",
+                    "content": "背景：\n想养成早起跑步的习惯，但是天气冷了不愿起。\n往往闹钟响后，关掉后又回被窝再睡个回笼觉。尽管睡不着，但还是想躺在被窝里。可等起床后，又开始后悔，早起不成，步也没跑。\n感觉自己的自制力不够，克服不了自己的懒惰。\n问：怎么提高自己的自制力？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎么提高自制力？",
+                        "desc": "文/夜行的灯笼 想养成早起跑步的习惯，可天气冷了起不来？",
+                        "link": "http://m.wufazhuce.com/question/3063?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎么提高自制力？",
+                        "desc": "文/夜行的灯笼 想养成早起跑步的习惯，可天气冷了起不来？",
+                        "link": "http://m.wufazhuce.com/question/3063?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎么提高自制力？》 文/夜行的灯笼： 想养成早起跑步的习惯，可天气冷了起不来？ 阅读全文：http://m.wufazhuce.com/question/3063?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3063?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎么提高自制力？",
+                        "desc": "想养成早起跑步的习惯，可天气冷了起不来？",
+                        "link": "http://m.wufazhuce.com/question/3063?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11653848",
+                    "user_name": "夜行的灯笼",
+                    "desc": "人生没有地图，以有限的视角认识无限的世界，恍兮惚兮，手提灯笼前行，探索未知的路径，寻求自己的真理。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个点灯上路的人。",
+                    "fans_total": "310",
+                    "web_url": "http://image.wufazhuce.com/FgeYwLhF9ho-XwxCgnDVDAyilDaF"
+                }
+            },
+            {
+                "id": "21594",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2089",
+                "title": "人生苦短，是得多来几碗",
+                "forward": "耳听为虚，眼见为“食”。",
+                "img_url": "http://image.wufazhuce.com/FqMDINL23pAAghCQGcAWPzceSPRV",
+                "like_count": 1784,
+                "post_date": "2020-12-12 06:00:00",
+                "last_update_date": "2020-12-11 13:15:29",
+                "author": {
+                    "user_id": "10511986",
+                    "user_name": "yaoyaoooo",
+                    "desc": "candy crush玩家，加西亚·马尔克斯狂热粉，写作自娱，未完全脱离旅游业的新入门插画师，下个目的地包含但不限于夏季挪威峡湾、留尼汪。",
+                    "wb_name": "@yaoyaoooo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "名字里有辆奥迪，正在画画的人。",
+                    "fans_total": "517",
+                    "web_url": "http://image.wufazhuce.com/Fkaqni13cptOk7thG6X6yRQ1-Lpa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "早餐中国第三季",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5072",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2089",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2089",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2089",
+                    "image": "http://image.wufazhuce.com/FqMDINL23pAAghCQGcAWPzceSPRV",
+                    "title": "「一个」电影: 早餐中国第三季",
+                    "content": "很多事情还没开始做，一眼望穿的&ldquo;没意思&rdquo;足以打消尝试的念头。可要是我们做它100次，挖掘100次看看呢？不幸的话，事情还是那没劲的事情，幸运的话，事情的趣味浮出水面。而抛开运气不谈，你大可认识到自己是一个那么善于坚持，乐于探索的家伙。《早餐中国》纪录片就是这么一个&ldquo;好家伙&rdquo;，586天采集，100次出发，85个县市探索，2年3季播出，早晨8点上线陪伴早起的人，从未失约。第三季最后30道早餐揭晓，搜罗于天南地北的美味，流露于厅堂后厨的人情，连同摄制组那些离题的八卦试探，堆积在心里发酵成不舍。01 &nbsp;食客说：什么东西都吸引我三季以来的选店硬核原则&mdash;&mdash;好吃。福建永安，一家粿条店坐满了客人，店里主打的配料来自猪身上的十几个地方，其中一样&ldquo;活肉&rdquo;更是坐镇招牌。活肉，就是猪腮帮子上的肉，在咀嚼运动的长期锻炼下，活肉适宜炖煮保留原汁肉香，现吃现切，兼具软滑Q弹，蘸一蘸黄辣椒酱汁，回味无穷。在店里吃足三年的食客依旧热情不减，赞美之词脱口而出：&ldquo;我每天来，几乎天天来，这里什么东西都吸引我，就连阿歪（老板）都吸引我，完蛋！&rdquo;浙江舟山港，渔获前脚被铺排在菜市场，海鲜面店的老板娘飞珠后脚就开始采购了，从小在海边长大，父亲和哥哥都捕鱼，飞珠耳濡目染下，对季节性上市的海鲜最敏感了，甚至被菜市场的店主们揶揄&mdash;&mdash;她做生意成精了。黄鱼、梭子蟹、带鱼、皮皮虾、红虾、紫虾、熏鱼、蛏子&hellip;&hellip;一众海味在店里码得整整齐齐，若是将店内所有海味点齐，便构成了三季以来标价最高的配置&mdash;&mdash;193元豪华海鲜面早餐。鱼虾蟹贝交错下锅，在高汤中翻滚，第一勺鲜汤入口，食客们便知道自己迟早要回头再度光临。两口子正在分食一碗大号猛料海鲜面，丈夫发话了：&ldquo;我是陕西人，她是本地人，所以我们俩的口味就在这碗面里融合了&rdquo;。云林北港，陈藤达接手了店里的煎盘粿生意，主要负责盘粿的制作。盘粿是大米经过研磨、搅拌，蒸制5个小时才能Q弹定型的一种米食，冷却后的盘粿从大蒸笼脱模，陈藤达按照爷爷教给爸爸，爸爸教给自己的手法，用线切割分块，再把每一块分切成条片，交由妈妈煎制。常客们在陈家煎盘粿熟练点菜，一位能说会道的常客面对摄像头，开始销魂地描述私家吃粿步骤&mdash;&mdash;混点盘粿和米肠，浇上秘制米浆，再铺一块荷包蛋，将半熟的蛋黄戳破，任由蛋液沾染热腾腾的碗中美食；另一位镇定的常客，言简意赅地评价说：&ldquo;莫名其妙的好吃！&rdquo;原本早起出发，并不确定能探寻到一家心仪的早餐店，后来早起出发，是为了追随这口认定的美味。早起出发的行为习惯并没有改变，可支撑行动的那份心意，已从模糊变成确定，从偶然变成必然。02 老板说：过着很充实食客们的赞誉，固然给经营者们带来鼓舞，却未必成为经营者们动辄以年计算的，坚定的早起开店决心。浙江嵊州，叫作汤包，却不是包子的早餐美食是何来头？夫妻档店主一边示范，一边说明&mdash;&mdash;用擀得轻薄透亮，宽约六厘米的的面皮，铺在手心迅速一攒，包裹住筷子尖尖沾到的若有似无的肉末，下锅汆烫五秒随即捞起，盛入盐、糖、葱、酱油简单调味的原汤中，便成了。如此简单的一道早晨小吃，是老板沈聪半路出家，从一个老太太那儿学来的，老太太儿子不愿意学，梁聪却愿意，学了之后还不断试验改良，定型为现在既具地方传统，又有个性探索的嵊州汤包，经营至今五年了。河南灵宝，年轻夫妻袁龙飞和薛寒经营着一家石子馍凉粉店。绿豆从泡发，到磨浆，到沉淀，再到熬制冷却成凉粉，浓缩了绿豆一生，故而得名&ldquo;一生凉粉&rdquo;，自带酸味的凉粉，炒香夹入烤得焦黄酥脆的石子馍，最合适不过。夫妇两人早年都在江苏的电子工厂打工，通过网络相识相恋，婚后将孩子交由父母帮带，由于长期和孩子分隔，再度相聚时，孩子也认生不让父母抱了。2015年，夫妻二人决定学习制作家乡石子馍和凉粉，开一家早餐店，袁龙飞说：&ldquo;过着很充实。&rdquo;山东博山，桃园孙家猪头肉卷饼，传到孙苗这一辈已经是第三代了。孙苗和丈夫刘增宪把店铺经营得红红火火，每天进货十几颗猪头，劈开两半边开始炖煮，成熟入味后，才捞起晾凉剔骨，撕成小块，供食客卷入小米煎饼享用。尽管客似云来，不愁发展，夫妇二人却没要求儿子接手经营，只愿成为儿子的靠山，而不是束缚儿子发展的五指山，刘增宪末了重复了两遍：&ldquo;不回博山是最好的。&rdquo;在食客之前，早餐店经营者们更早地出发了，支撑他们年复一年不畏雨雪风霜出摊开店的动力，并非远在云端的高尚意义，而是近在眼前的家庭生计。每天一次早起出摊都是精卫衔石般的微小坚持，经年累月填平了一片庸碌无趣的汪洋。&nbsp;03 &nbsp;导演组说：活那么久干嘛？这是一个皮到停不下来的导演组，在正片从未露面，却又从不停歇发声，在一百集以来的套路比拼时多是稳操胜券，虽有几次冷不丁地被挑下马，却着实让一顿普普通通的早饭更有滋味，皆大欢喜。山西荫城，第三季打头阵的一集，热腾腾的主角&ldquo;猪汤&rdquo;被端上桌面，导演组把镜头对准了这桌的年轻男女，得知二人是高中同学后，直接怂恿男生当着镜头表个白，两人带着明显的惊愕与隐晦的羞涩表示拒绝，导演组换了套路问男生：&ldquo;上大学后你会想ta吗？&rdquo;男生松了口气大方回答：&ldquo;应该会联系吧。&rdquo;导演组使坏：&ldquo;我说的是猪汤噢！&rdquo;男生吞下又一口惊愕重新回答：&ldquo;你真坏啊！&rdquo;广东广州，伊面先被炸得香脆，再煮进高汤中，最后还浇上软糯的多汁猪手或者牛腩，还没下口，鼻子就必须先闻为快。伊面在粤菜中被视为长寿面，导演组将镜头对准一位小朋友，试探他是否知晓：&ldquo;吃了长寿面会怎么样？&rdquo;小朋友坚定回答：&ldquo;长生不老。&rdquo;导演追问：&ldquo;活那么久干嘛？&rdquo;小朋友毫不犹豫：&ldquo;当老师。&rdquo;湖北襄阳，街头受访者一致推荐的牛肉面，成为第三季最后一集。导演组趁着食客沉醉美食，又开始了不着边际的采访。得知摄制组来自福建，这边一位食客调侃：&ldquo;福建人应该不太喜欢吃辣吧，听说福建人比较喜欢吃烤老鼠？&rdquo;那边一位食客接力：&ldquo;你口音不像福建人，我们湖建盆友都四这样缩话。&rdquo;《早餐中国》第一季上线时，大家觉得100集很长，第三季完结时，大家终于按捺不住追问能否再续。从默默无闻到被人惦记，既是每家早餐店得到的无形奖赏，也是摄制组100次出发，在美食以外收获到的最乐在心头的滋味。生活不是看见意义了才出发，而是一百次，成千上万次，不计其数次出发，奔向未知，才发现了意义。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 人生苦短，是得多来几碗",
+                        "desc": "文/yaoyaoooo 耳听为虚，眼见为“食”。",
+                        "link": "http://m.wufazhuce.com/movie/2089?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 人生苦短，是得多来几碗",
+                        "desc": "文/yaoyaoooo 耳听为虚，眼见为“食”。",
+                        "link": "http://m.wufazhuce.com/movie/2089?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 人生苦短，是得多来几碗》 文/yaoyaoooo： 耳听为虚，眼见为“食”。 阅读全文：http://m.wufazhuce.com/movie/2089?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2089?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "人生苦短，是得多来几碗",
+                        "desc": "耳听为虚，眼见为“食”。",
+                        "link": "http://m.wufazhuce.com/movie/2089?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2989",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4538",
+                    "title": "菩萨"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3063",
+                    "title": "怎么提高自制力？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2089",
+                    "title": "人生苦短，是得多来几碗"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,628 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5437",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-06 06:00:00",
+        "content_list": [
+            {
+                "id": "19910",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2748",
+                "title": "摄影",
+                "forward": "一辈子很短，如白驹过隙，转瞬即逝。可这种心情很长，如高山大川，连绵不绝。",
+                "img_url": "http://image.wufazhuce.com/FgM9yOoG8xYXl0EOXGl0Fv84EN5G",
+                "like_count": 21157,
+                "post_date": "2020-03-06 06:00:00",
+                "last_update_date": "2020-03-01 12:42:58",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2708",
+                "pic_info": "Willian Justen",
+                "words_info": "《武林外传》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2748",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2748",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2748",
+                    "image": "http://image.wufazhuce.com/FgM9yOoG8xYXl0EOXGl0Fv84EN5G",
+                    "title": "VOL.2708",
+                    "content": "一辈子很短，如白驹过隙，转瞬即逝。可这种心情很长，如高山大川，连绵不绝。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2748?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2748?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 一辈子很短，如白驹过隙，转瞬即逝。可这种心情很长，如高山大川，连绵不绝。——《武林外传》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2748?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2748?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19922",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4228",
+                "title": "控方情人",
+                "forward": "被我击中倒下去那一刻，我被她击中。",
+                "img_url": "http://image.wufazhuce.com/FrdokQjTmrUZhUdA7kGwrh6KpeuV",
+                "like_count": 2523,
+                "post_date": "2020-03-06 06:00:00",
+                "last_update_date": "2020-03-06 12:38:00",
+                "author": {
+                    "user_id": "10946149",
+                    "user_name": "罗丹",
+                    "desc": "大学老师，业余脱口秀演员，热爱黑色幽默文学，因为黑色显瘦。工作日规规矩矩上班，周末鬼鬼祟祟登台。自从地下脱口秀演员身份被学生发现之后，引起部分女学生迷恋。地上地下双重身份容易构成魅力，切换的时候要经过地平线，获得日出时的景象。对写作有宏大愿景，要把每一个第一人称的我都写成双眼皮。",
+                    "wb_name": "@疑似罗丹",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "大学老师，王小波门下走狗，郫县伍迪艾伦。",
+                    "fans_total": "1479",
+                    "web_url": "http://image.wufazhuce.com/FqKcI1t9ebVcrwBD5SvVtqcZ4fDc"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4228",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4228",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4228",
+                    "image": "http://image.wufazhuce.com/FrdokQjTmrUZhUdA7kGwrh6KpeuV",
+                    "title": "控方情人 作者/罗丹",
+                    "content": "她有些物质，他觉得养着压力很大。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 控方情人",
+                        "desc": "文/罗丹 她有些物质，他觉得养着压力很大。",
+                        "link": "http://m.wufazhuce.com/article/4228?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 控方情人",
+                        "desc": "文/罗丹 她有些物质，他觉得养着压力很大。",
+                        "link": "http://m.wufazhuce.com/article/4228?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 控方情人》 文/罗丹： 她有些物质，他觉得养着压力很大。 阅读全文：http://m.wufazhuce.com/article/4228?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4228?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "控方情人",
+                        "desc": "她有些物质，他觉得养着压力很大。",
+                        "link": "http://m.wufazhuce.com/article/4228?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19931",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4230",
+                "title": "错过一个人是什么感觉？",
+                "forward": "错过，我们都有过错。错过，上天都有过错。",
+                "img_url": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                "like_count": 2552,
+                "post_date": "2020-03-06 06:00:00",
+                "last_update_date": "2020-03-05 23:07:46",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "曲尚等三位",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4230",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4230",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4230",
+                    "image": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                    "title": "错过一个人是什么感觉？ 作者/曲尚、颗馨、梅头脑",
+                    "content": "“如果再给我一次机会。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 错过一个人是什么感觉？",
+                        "desc": "文/曲尚、颗馨、梅头脑 “如果再给我一次机会。”",
+                        "link": "http://m.wufazhuce.com/article/4230?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 错过一个人是什么感觉？",
+                        "desc": "文/曲尚、颗馨、梅头脑 “如果再给我一次机会。”",
+                        "link": "http://m.wufazhuce.com/article/4230?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 错过一个人是什么感觉？》 文/曲尚、颗馨、梅头脑： “如果再给我一次机会。” 阅读全文：http://m.wufazhuce.com/article/4230?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4230?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "错过一个人是什么感觉？",
+                        "desc": "“如果再给我一次机会。”",
+                        "link": "http://m.wufazhuce.com/article/4230?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "19914",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1123",
+                "title": "两次破碎·第十九章：扒开核桃",
+                "forward": "我救你一次，你就这么报答我？",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 741,
+                "post_date": "2020-03-06 06:00:00",
+                "last_update_date": "2020-04-07 16:27:08",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第19章",
+                "number": "19",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1123",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1123",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1123",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第十九章：扒开核桃 作者/连筑",
+                    "content": "我救你一次，你就这么报答我？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第十九章：扒开核桃",
+                        "desc": "文/连筑 我救你一次，你就这么报答我？",
+                        "link": "http://m.wufazhuce.com/serial/1123?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第十九章：扒开核桃",
+                        "desc": "文/连筑 我救你一次，你就这么报答我？",
+                        "link": "http://m.wufazhuce.com/serial/1123?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第十九章：扒开核桃》 文/连筑： 我救你一次，你就这么报答我？ 阅读全文：http://m.wufazhuce.com/serial/1123?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1123?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第十九章：扒开核桃",
+                        "desc": "我救你一次，你就这么报答我？",
+                        "link": "http://m.wufazhuce.com/serial/1123?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19926",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2777",
+                "title": "如何面对伸手党？",
+                "forward": "告诉他，不代表就要和他断绝来往，更不代表撕破脸皮。",
+                "img_url": "http://image.wufazhuce.com/FsOmUHDwohphu9pnfcTsOpC-fMyt",
+                "like_count": 1802,
+                "post_date": "2020-03-06 06:00:00",
+                "last_update_date": "2020-03-05 18:58:57",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "伸手就打笑脸人",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2777",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2777",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2777",
+                    "image": "http://image.wufazhuce.com/FsOmUHDwohphu9pnfcTsOpC-fMyt",
+                    "title": "如何面对伸手党？",
+                    "content": "如何面对伸手党？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何面对伸手党？",
+                        "desc": "文/罗迪 “冤枉你的人，比谁都知道你冤枉”。",
+                        "link": "http://m.wufazhuce.com/question/2777?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何面对伸手党？",
+                        "desc": "文/罗迪 “冤枉你的人，比谁都知道你冤枉”。",
+                        "link": "http://m.wufazhuce.com/question/2777?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何面对伸手党？》 文/罗迪： “冤枉你的人，比谁都知道你冤枉”。 阅读全文：http://m.wufazhuce.com/question/2777?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2777?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何面对伸手党？",
+                        "desc": "“冤枉你的人，比谁都知道你冤枉”。",
+                        "link": "http://m.wufazhuce.com/question/2777?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "7497780",
+                    "user_name": "罗迪",
+                    "desc": "青年写作者，已出版作品《陪你一起睡不着》。",
+                    "wb_name": "@杀不死的啊迪",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者，已出版作品《陪你一起睡不着》。",
+                    "fans_total": "679",
+                    "web_url": "http://image.wufazhuce.com/FpdcfdSRsQNW5vNjHC9zxy4Ae7al"
+                }
+            },
+            {
+                "id": "19927",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3220",
+                "title": "爱能克服远距离，多远我都和你在一起",
+                "forward": "谢谢你出现在我生命中，且让我走进你的世界，成为你的太阳。",
+                "img_url": "http://image.wufazhuce.com/FuhOC4-w1h2y3VxiWfGiBd467s1E",
+                "like_count": 2124,
+                "post_date": "2020-03-06 06:00:00",
+                "last_update_date": "2020-03-06 07:33:08",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lilV2-_yYTZ5SRONS6r3pjDwHHe-",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "Y6",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3220",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3220",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3220",
+                    "image": "http://image.wufazhuce.com/FuhOC4-w1h2y3VxiWfGiBd467s1E",
+                    "title": "「一个」音乐: 姜乐辛 Y6",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.认识凌霄是我在南京的最后几天，由于房租到期，只得在舒冉家暂住些日子。回杭州的前天晚上她正好参加朋友聚会，顺带着我一起。在南京待了半年多，还没怎么好好逛过，稀里糊涂跟着舒冉去聚会点。到那后，她挽着我胳膊介绍给她朋友认识：这是林洛思，我好朋友。&ldquo;经常听舒冉提起你，听说你是做传媒的，我以前专业也是，不过毕业后没继续做。&rdquo;&ldquo;这行太累了，不从事也好。&rdquo;我拿他们当自己朋友与其互动，但有一人始终低着头。舒冉告诉我，那人叫凌霄，最近刚被分手，挺伤心的。我很少见男生为感情伤神，在我的刻板印象中，向来为情难过的都是女生居多。后来整场聚会，我的焦点都在他身上，他起身出门，我也跟着出门，想看看他去哪，都做些什么，或者说明确点，我想了解他。我对感情的态度很直接，有兴趣就了解，看上了就追。凌霄站在我旁边，我偷偷瞄了一眼他，他皮肤白皙，面容干净，许是喝多酒的缘故，脸有些红润。他蹲在地上，抱着头低声喃喃自语道：我好想你，我真的舍不得。我猜他一定爱惨了那个女孩子。我也在想，究竟要成为怎样的女生，才配得上他这样的痴情。不得不说，我当时极其羡慕那个与我素未谋面的她。&nbsp;2.回杭州一周，我常常想到凌霄，终于忍不住找舒冉要凌霄的微信，她悄悄问我，是不是对凌霄感兴趣，我说是啊。这也不是什么见不得人的秘密，我索性坦然承认。舒冉也没说什么，只告诉我，凌霄前任就因为异地跟他分手，所以异地恋对凌霄来说，简直是折磨。我知道异地辛苦，但总会有人能够坚持下去，为什么那个人就不能是我呢。我点开舒冉发的名片，在验证框中输入：林洛思，舒冉的朋友。发送出去，我一直提心吊胆，毕竟我们中间隔着舒冉，与彼此不过是朋友的朋友。但没过几分钟，我收到好友通过的消息，是凌霄。我不知道说些什么，只好以表情包开始话题，他很快回复我：林洛思？那晚聚会跟舒冉来的女生？后来还跟踪我。向来行事谨慎的我，没想到跟着他会被发现。但也没什么大不了的，我确实是有这样做，没什么好隐瞒，况且我加他就是想和他谈恋爱。&ldquo;是，我就是那个跟着你的林洛思。&rdquo;他大概不曾想我会如此坦诚，过了半小时，我再次等到他的消息，他告诉我，他叫凌霄，在南京一家影视文化公司工作。影视这个行业我一直想跨进去，但没勇气，听到他所从事这行的工作，我对他的好感度又往上升了不少。我对凌霄算是一见钟情，但这个说法向来不被大家所认可，我不知道为什么，难道只有日久生情才算爱吗？不是的，日久生情大多都是有着一见钟情。现在人都喜欢说&ldquo;合眼缘&rdquo;这三个字，交朋友是，谈恋爱也是如此。初见有感觉的，大多能继续往下走。哪怕中途断掉，那最起码有过经历，而那些连初见都没感觉，又怎会有日久生情这一说法呢。&nbsp;3.我和凌霄因为工作性质相似，多少有些共同话题。偶尔我觉得累，心里不舒服，都会给凌霄打电话或发微信吐槽，他也很配合我，每次要么听我唠叨，要么跟我聊他工作中遇到的趣事，转移我注意力。我很喜欢听他说这些，经常晚上睡不着也会习惯性给他打电话，听他讲笑话，不知道什么时候开始，我们的距离拉近许多，对彼此的了解也逐渐深入。或许跟我自来熟的性格有关系，或许跟我喜欢他有关系，但无论是怎样，我都很喜欢这种感觉，我们身边似乎只有对方是最了解彼此的人。我陪他一起打游戏，讨论近期所看书籍的重点，得知他喜欢吉他后，我特意上网买吉他回来练习，从最基础的和弦开始练，苦练几个月后，终于能慢慢弹出一首简单的歌。平时有什么节日，我也会提前准备好惊喜给他，有他喜欢的篮球，有他喜欢的人物海报，一切只要是他喜欢的，我都会有仪式感的送到他手上。当然，凌霄也是如此。他会关注我的穿衣风格，时常给我搭配好衣服寄过来，甚至连我关注的化妆品，只要上新，我都会在几天后收到快递。我们像两个需要被安慰的灵魂，有时候我甚至会分不清，他对我到底是什么，是真的喜欢还是我出现的时间正好。通常他有空会坐高铁来杭州，而我得空也会去南京找他。有次我跟凌霄在新街口碰到舒冉，我准备掉头就跑，没想到还是被舒冉发现，她火急火燎地跑过来问我们是什么情况，我手足无措，不知道该怎么说。凌霄在身旁突然拉住我的手对舒冉说：&ldquo;我们其实早就打算跟你说，但怕你太忙，会打扰到你，所以想今天给你个惊喜。&rdquo;&ldquo;凌霄，你这话你自己信不信？还惊喜，我看是惊吓吧。我跟你们俩可都是好朋友，谈恋爱也不是什么见不得人的事，太不够意思了你们。&rdquo;后来为补偿舒冉，表达我们的愧疚之情，凌霄请舒冉吃她舍不得吃的日料。但其实，那天不仅仅是舒冉反应大，我心里也是。因为我们始终没有确定关系，而在那晚，凌霄当着舒冉面牵着我的手，跟她说，他会好好照顾我，不让我受一点委屈。吃完饭我跟舒冉回家，她问我是不是认真的。我想都没想就告诉她：当然是，你忘记我当初找他就是为了和他谈恋爱啊，如今他承认，我们也被你碰见，是不是。但我这个回答并没有让舒冉满意，她以为我只是在开玩笑，我跟凌霄都不过是一时兴起。我能够理解她是担心我，怕我在感情中受伤，但我也希望她支持我。这次我真的有用心，也是很想和这个人有以后。&nbsp;4.由于我们之间是异地，我也知道他曾经跟前任因为异地而分手，虽然是女生提出，但他也还是答应。我曾犹豫要不要放弃在杭州工作，继续回南京，在他身边。但我这一念头刚冒起就被舒冉打消，她让我等感情稳定后再做决定，谈恋爱一时冲动可以，可如果工作和未来再因为冲动而有什么影响，那她真的要跟我翻脸。我仔细想着她这句话，觉得似乎也有道理，毕竟我对这段关系，还没有十足的把握。他经常来杭州找我，带我四处转转，我们有个小习惯，就是每次见面都会穿情侣装，这从我们确定关系那天，一直到现在。他知道我喜欢影视行业，经常介绍关于这方面的资源给我，偶尔周末有空，他也会跟我聊这方面会学到哪些，需要了解什么。以便我后期想换工作，哪怕不换工作，继续做传媒，也是有帮助。我们这场恋爱在不断促进对方成长，好的恋爱大概就是如此。你们因为对方而越来越努力，俩人都在看得见的地方相互促进，成为彼此的依靠，而不是一方停留原地，一方向前迈着。他在每个我需要他的时候陪在我身边，受委屈也好，想念他也罢，只要我需要，他都会以最快的速度出现在我身旁。他渐渐成为我的依靠，我在他面前能够真实地做自己，不用戴上任何面具。平时面对工作，总有些迫不得已的时候，但在凌霄面前，林洛思永远是林洛思，不会因为任何事而改变。他喜欢我的坦诚和直率，在我身上，看不到任何虚假，如此真实的我，是他最想要守护的。原来当喜欢上一个人时，你会发现她所有的优点，哪怕她有再多不足，但在你眼中那都没关系，因为那个人值得你去爱。&nbsp;5.我们就这样异地三年，彼此来回的车票放在一起整整两盒饼干盒。第四年初，凌霄来杭州陪我过生日，他把我们身边的好朋友都聚到一起，当着大家的面给我唱着邓紫棋的《多远都要在一起》，每当我想起凌霄，都会点开网易云，听这首歌。我很喜欢那句：爱能克服远距离，多远都要在一起。我们是异地又如何，只要我们心系彼此，那一定会收获幸福，陪在彼此身边。凌霄唱完那首歌，走到我面前拿出我加在购物车里许久的项链，他说：洛思，谢谢你在我最灰暗的时候陪在我身边，你这个小太阳照亮我整个人生，将我这个黑白世界，彻底变成彩色世界。这三年来，我不能每时每刻都陪在你身边，这是我最为愧疚的事。所以今年，我想结束这段异地恋，来杭州陪你，每秒都和你在一起。我紧紧抱着他，他怀中的温暖是治愈我的温度。他把项链戴在我脖子上，正好v字领的衣服，衬着那条项链格外耀眼。也是那一年，我们开始同居生活，他通过上级介绍，顺利进入杭州这边的一家影视文化公司。团队氛围像前公司一样好。我起初担心他不适应，毕竟他来杭州是因为我，但他却给足我安全感，工作上努力，生活中还将我宠成小公主，和我爸视频时，连我爸都说：凌霄，你别太惯着她，这丫头被我惯的一身臭脾气。凌霄每次都笑着说：没事叔叔，我得帮您继续惯着，这才能让她快乐，让你们放心。以至于后来，我爸妈都越来越喜欢凌霄，他像是我们家儿子，而我倒成了局外人。&nbsp;6.我跟凌霄的生活中，几乎少有争吵，大部分的时间，都在吃喝，以及交流新知识上，永远不缺新鲜感。也是遇见凌霄我才明白，新鲜感不是和不同的人尝试新鲜事，而是和同一个人尝试不同的事。我喜欢凌霄带给我的一切，更喜欢在他身边的我自己。所以今年，我把自己嫁了。嫁给凌霄大概是我做过最勇敢的事，同样也是最值得庆幸的事，我这辈子再也找不到第二个凌霄。谢谢他出现在我生命中，谢谢他让我走进他的世界，成为他的太阳。我们也终于在一起，无论多远，我们都在一起。我爱你，凌霄。我爱你，林洛思。本期文章推荐歌曲：邓紫棋《多远都要在一起》由于版权原因，不能为大家提供，还请谅解。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 爱能克服远距离，多远我都和你在一起",
+                        "desc": "文/姜乐辛 去见你的路上，我都是跑着的。",
+                        "link": "http://m.wufazhuce.com/music/3220?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 爱能克服远距离，多远我都和你在一起",
+                        "desc": "文/姜乐辛 去见你的路上，我都是跑着的。",
+                        "link": "http://m.wufazhuce.com/music/3220?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 爱能克服远距离，多远我都和你在一起》 文/姜乐辛： 去见你的路上，我都是跑着的。 阅读全文：http://m.wufazhuce.com/music/3220?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3220?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "爱能克服远距离，多远我都和你在一起",
+                        "desc": "去见你的路上，我都是跑着的。",
+                        "link": "http://m.wufazhuce.com/music/3220?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "Y6",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "ZZX",
+                "audio_album": "Y",
+                "cover": "http://image.wufazhuce.com/FuhOC4-w1h2y3VxiWfGiBd467s1E",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2708",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4228",
+                    "title": "控方情人"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4230",
+                    "title": "错过一个人是什么感觉？",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1123",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第十九章：扒开核桃"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2777",
+                    "title": "如何面对伸手党？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3220",
+                    "title": "爱能克服远距离，多远我都和你在一起"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

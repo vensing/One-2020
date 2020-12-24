@@ -1,0 +1,612 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5444",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-20 06:00:00",
+        "content_list": [
+            {
+                "id": "19993",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2762",
+                "title": "摄影",
+                "forward": "当一个人不能拥有的时候，他唯一能做的便是不要忘记。",
+                "img_url": "http://image.wufazhuce.com/FobC3u_uHKxmnc8gf_kOc6loL-gv",
+                "like_count": 19767,
+                "post_date": "2020-03-20 06:00:00",
+                "last_update_date": "2020-03-13 17:14:47",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2722",
+                "pic_info": "远方",
+                "words_info": "普鲁斯特《追忆似水年华》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2762",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2762",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2762",
+                    "image": "http://image.wufazhuce.com/FobC3u_uHKxmnc8gf_kOc6loL-gv",
+                    "title": "VOL.2722",
+                    "content": "当一个人不能拥有的时候，他唯一能做的便是不要忘记。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2762?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2762?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 当一个人不能拥有的时候，他唯一能做的便是不要忘记。——普鲁斯特《追忆似水年华》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2762?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2762?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19994",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4242",
+                "title": "凯旋门",
+                "forward": "日历进入2000年的一瞬间，计算机纪元将归“0”，人类文明倒退，一切电子设备面临瘫痪。",
+                "img_url": "http://image.wufazhuce.com/FhCRyckyZN6PpwaUxRvYr5JP_Mz9",
+                "like_count": 1877,
+                "post_date": "2020-03-20 06:00:00",
+                "last_update_date": "2020-03-19 19:52:04",
+                "author": {
+                    "user_id": "4814921",
+                    "user_name": "郑执",
+                    "desc": "郑执，作家、编剧。@郑执",
+                    "wb_name": "郑执",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "郑执，作家、编剧。@郑执",
+                    "fans_total": "20699",
+                    "web_url": "http://image.wufazhuce.com/FgN24DwFxg7HZACRAk8t93EsDzbn"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4242",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4242",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4242",
+                    "image": "http://image.wufazhuce.com/FhCRyckyZN6PpwaUxRvYr5JP_Mz9",
+                    "title": "凯旋门 作者/郑执",
+                    "content": "做事讲究个度，轻重不对，啥都不对。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 凯旋门",
+                        "desc": "文/郑执 做事讲究个度，轻重不对，啥都不对。",
+                        "link": "http://m.wufazhuce.com/article/4242?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 凯旋门",
+                        "desc": "文/郑执 做事讲究个度，轻重不对，啥都不对。",
+                        "link": "http://m.wufazhuce.com/article/4242?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 凯旋门》 文/郑执： 做事讲究个度，轻重不对，啥都不对。 阅读全文：http://m.wufazhuce.com/article/4242?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4242?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "凯旋门",
+                        "desc": "做事讲究个度，轻重不对，啥都不对。",
+                        "link": "http://m.wufazhuce.com/article/4242?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20031",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4248",
+                "title": "冬天夺去的，春天会还给你",
+                "forward": "等昏沉的寂静渐渐传来窸窣，黑幕被一束光打亮，世界重新展开。",
+                "img_url": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                "like_count": 1953,
+                "post_date": "2020-03-20 06:00:00",
+                "last_update_date": "2020-03-19 11:33:21",
+                "author": {
+                    "user_id": "11164439",
+                    "user_name": "柒斐等五位",
+                    "desc": "海岸线爱好者，睡眠不足的普通电影观众。\r\n独立编剧，HerPeaches剧本工作室创始人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，HerPeaches工作室创始人。",
+                    "fans_total": "989",
+                    "web_url": "http://image.wufazhuce.com/FlgBlHjLF40QuAwszutvMT3biQO3"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4248",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4248",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4248",
+                    "image": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                    "title": "冬天夺去的，春天会还给你 作者/柒斐、颗馨、梅头脑、曲尚、张拉灯",
+                    "content": "等昏沉的寂静渐渐传来窸窣，黑幕被一束光打亮，世界重新展开。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 冬天夺去的，春天会还给你",
+                        "desc": "文/张拉灯等五位 等昏沉的寂静渐渐传来窸窣，黑幕被一束光打亮，世界重新展开。",
+                        "link": "http://m.wufazhuce.com/article/4248?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 冬天夺去的，春天会还给你",
+                        "desc": "文/张拉灯等五位 等昏沉的寂静渐渐传来窸窣，黑幕被一束光打亮，世界重新展开。",
+                        "link": "http://m.wufazhuce.com/article/4248?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 冬天夺去的，春天会还给你》 文/张拉灯等五位： 等昏沉的寂静渐渐传来窸窣，黑幕被一束光打亮，世界重新展开。 阅读全文：http://m.wufazhuce.com/article/4248?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4248?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "冬天夺去的，春天会还给你",
+                        "desc": "等昏沉的寂静渐渐传来窸窣，黑幕被一束光打亮，世界重新展开。",
+                        "link": "http://m.wufazhuce.com/article/4248?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "20011",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1135",
+                "title": "恶女阿尤·第三章：调查开启",
+                "forward": "新闻有时候就是一场大型群体互动行为实验，媒体引火，群众浇油，想象力就是吹动火向的野风。至于火烧到哪里，什么时候灭，能不能灭，媒体并不关注，那是警察的事情。",
+                "img_url": "http://image.wufazhuce.com/FuWm2aUojqqcxK6Eb_y5JNUmFVp-",
+                "like_count": 848,
+                "post_date": "2020-03-20 06:00:00",
+                "last_update_date": "2020-04-07 16:47:43",
+                "author": {
+                    "user_id": "11135365",
+                    "user_name": "咸良",
+                    "desc": "91年生，看片多，读书少，热爱电影和足球，不打游戏不喝酒。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说新人，正尝试电影剧本创作。",
+                    "fans_total": "588",
+                    "web_url": "http://image.wufazhuce.com/FofYp0HTuyFcGlfuBP_qS85X81GI"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第3章",
+                "number": "3",
+                "serial_id": "81",
+                "serial_list": [
+                    "1131",
+                    "1133",
+                    "1135",
+                    "1138",
+                    "1139",
+                    "1142",
+                    "1144",
+                    "1146",
+                    "1148",
+                    "1150",
+                    "1151",
+                    "1154",
+                    "1156",
+                    "1158"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1135",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1135",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1135",
+                    "image": "http://image.wufazhuce.com/FuWm2aUojqqcxK6Eb_y5JNUmFVp-",
+                    "title": "恶女阿尤·第三章：调查开启 作者/咸良",
+                    "content": "新闻有时候就是一场大型群体互动行为实验，想象力就是吹动火向的野风。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 恶女阿尤·第三章：调查开启",
+                        "desc": "文/咸良 新闻有时候就是一场大型群体互动行为实验，想象力就是吹动火向的野风。",
+                        "link": "http://m.wufazhuce.com/serial/1135?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 恶女阿尤·第三章：调查开启",
+                        "desc": "文/咸良 新闻有时候就是一场大型群体互动行为实验，想象力就是吹动火向的野风。",
+                        "link": "http://m.wufazhuce.com/serial/1135?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 恶女阿尤·第三章：调查开启》 文/咸良： 新闻有时候就是一场大型群体互动行为实验，想象力就是吹动火向的野风。 阅读全文：http://m.wufazhuce.com/serial/1135?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1135?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "恶女阿尤·第三章：调查开启",
+                        "desc": "新闻有时候就是一场大型群体互动行为实验，想象力就是吹动火向的野风。",
+                        "link": "http://m.wufazhuce.com/serial/1135?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20021",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2793",
+                "title": "哪个瞬间，让你感受到春天来了？",
+                "forward": "上班的时候无意中看到窗外的樱花开了。",
+                "img_url": "http://image.wufazhuce.com/FhUCkgojcBcN09mQSq5dANDZr1xo",
+                "like_count": 1954,
+                "post_date": "2020-03-20 06:00:00",
+                "last_update_date": "2020-03-19 20:22:44",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2793",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2793",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2793",
+                    "image": "http://image.wufazhuce.com/FhUCkgojcBcN09mQSq5dANDZr1xo",
+                    "title": "哪个瞬间，让你感受到春天来了？",
+                    "content": "哪个瞬间，让你感受到春天来了？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 哪个瞬间，让你感受到春天来了？",
+                        "desc": "文/网友 晚上加班窗户没关，一阵暖风拂过脸颊和心头的时候。",
+                        "link": "http://m.wufazhuce.com/question/2793?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 哪个瞬间，让你感受到春天来了？",
+                        "desc": "文/网友 晚上加班窗户没关，一阵暖风拂过脸颊和心头的时候。",
+                        "link": "http://m.wufazhuce.com/question/2793?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 哪个瞬间，让你感受到春天来了？》 文/网友： 晚上加班窗户没关，一阵暖风拂过脸颊和心头的时候。 阅读全文：http://m.wufazhuce.com/question/2793?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2793?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "哪个瞬间，让你感受到春天来了？",
+                        "desc": "晚上加班窗户没关，一阵暖风拂过脸颊和心头的时候。",
+                        "link": "http://m.wufazhuce.com/question/2793?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "19998",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3225",
+                "title": "比起放过你，我更想放过我自己",
+                "forward": "我唯一确定的是，我直到现在，才真正与自己和解，放过自己。往后我们谁都别再打扰谁，就这样一南一北走着。",
+                "img_url": "http://image.wufazhuce.com/FkxajTO4mhA1Bk3rXpEZEKZ7bWUw",
+                "like_count": 2645,
+                "post_date": "2020-03-20 06:00:00",
+                "last_update_date": "2020-03-20 01:11:13",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lsJNZj0UQkRMuwAacxCRlLdfiYSN",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "放过",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3225",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3225",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3225",
+                    "image": "http://image.wufazhuce.com/FkxajTO4mhA1Bk3rXpEZEKZ7bWUw",
+                    "title": "「一个」音乐: 姜乐辛 放过",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.今天是我24岁生日，在公司待到十点下班，望着这座灯火通明的城市。我慢悠悠地走在街上，心里想着，什么时候我才能在这安家立业。大概是情人节的缘故，有不少人在路边卖花，试图给这个节日营造些浪漫气氛。&ldquo;姐姐，你要不要买束花，当作送给自己的情人节礼物。&rdquo;一个小女生跑到我面前，满怀期待地看着我，那双眼眸纯粹无杂，像是上天派来的小天使。我接过她手中的花，准备付钱给她。蹲下时，她在我脸庞落下一吻，对我说：姐姐，你好漂亮。在孩子的世界中，世间万物都是新奇的，没有悲伤没有难过，她们可以对任何自己喜欢的人表达爱意，尽情地做自己，展现自身的每一面。有些时候我也在想，倘若我才18岁，那我和他，会不会有着别样的结局。也许我不会磨平棱角，依旧有着我的小性子，每天吵吵闹闹，不考虑太多。可在遇见他的那年，我已经22岁了，我没法全身心的爱人，不去考虑其他事。我也不再像小女生一样，在爱情里有傲娇的资本。这个时候的恋爱，我是想要同他走一辈子的，也做好了共度余生的准备，所以这时所经历的一切，我都是在为未来做打算。但不是事事都如人愿，哪怕我做足准备，也不及随时而来的变化。&nbsp;2.我摇摇晃晃地走到家，脱掉高跟鞋躺在床上，平日里工作忙碌，回家洗完澡就睡觉倒不觉得孤独，可今天心里总是空落落的，似乎是少了点什么。两年前的今天，陆博还在我身边，他早早下班来我公司楼下接我，带我去他预定好的餐厅吃饭，他紧紧牵着我的手去坐地铁，穿梭在人群中，生怕松开我会走丢。他这个大男生始终照顾着我，悉心爱护我，而我也享受他所带给我的这份爱。那时候，我们已经来上海一年，也是相爱的一年，两个人从实习生到正式员工，彼此都清楚这一路走来有多不容易。每个月付完房租，银行卡里所剩的钱也不多，日子通常都是紧巴巴地过。我不舍得给自己买点什么，总想着多存点钱，好让未来的生活好过些。这些小细节，都被陆博看在眼里。经常我看好的东西，加购在购物车里，他会偷偷给我买下，然后在某天胡乱编一个纪念日，让我收下，我知道我们目前的经济状况，这样的事情多了，我也不再喜欢逛淘宝。我们之间仅有的共同点，大概是我们都舍得给对方买东西，无论多少钱，只要对方喜欢，那就一定会买。为了提高我们的生活品质，他常常会接些工作以外的策划案，有时候熬到凌晨，不断靠咖啡提神。我很心疼他，想让他不要那么累，但每次他都握着我的手，他说能有我陪在身边，那是他的福气，而我也是他的动力。其实女生想要的东西很简单，你的一次坚定选择，你的一句真心话。我知道现在真心话已经不再有什么意义，但只要你说，我就信。&nbsp;3.有陆博在身边的日子，似乎再苦再累都不会感觉是煎熬，在朋友眼中，我们像是神仙眷侣，两个人一起在上海打拼，感情稳定，没有猜疑。我始终认为两个人在一起，倘若没有信任，那就没有继续走下去的必要。我们下班时间永远无法对上，但会为了对方去调整时间，我们约定好每周五都要一起回家吃饭，无论那天多忙，都要早早安排好时间。恋爱一年多，这条守则我们始终都在坚守着，这不仅是一种承诺，更是对感情的尊重和仪式感。再稳定的爱情，也需要偶尔来点仪式感。或许我能力有限，在现阶段无法给你最好的，但我会尽我所能给予你，目前我所有的一切。陆博经常会跟我说，跟着他受委屈，他很自责。但我从未抱怨过，我知道他有在努力，他也有在为我们的生活而努力，他这样积极上进，我还有什么好抱怨。两个人共同拼搏的生活是我所向往的，坐享其成的日子，我过去二十多年都在享受着，总不能就这样过一辈子吧。我不喜欢平淡，一眼望到头的生活，或许有点挑战，会更有乐趣。他是做策划行业，周末经常在家研究各种策划，想要写出亮点来，我给他准备好水果，陪在他身边，拿着我的笔记本画插画。我经常画着画着就在沙发上睡过去，他见状，温柔地给我盖上被子，生怕我着凉。我电脑上，有个单独的文件夹，那里面全是我在他工作时所画的日常面容。而画工作时的他，也渐渐成了我的习惯。他只知道我在画他，但不知道，我每周都会在微博小号上更新条漫&ldquo;男友工作日常系列&rdquo;。偶尔断更，读者也会私信催我，说想看下一篇故事。被大家喜欢是我没想到的，因为我原本打算在我们恋爱两周年那天，将这个微博送给他，里面所有的条漫也都会打印出来制作合集送给他。4.陆博通过自己努力，手上接到的策划也越来越多，他每天下班回家，都是打开电脑继续写策划，无暇顾及其他。有时还会出去陪客户交流方案。我看着他忙碌，打心眼里为他高兴，但他也因为工作，陪着我的时间少之又少。我从来没有怪他，我只想着要做一位贴心懂事的女朋友，不给他带来负担和压力，他主外我主内。每晚我都准备好他爱吃的，无论多晚都等他一起睡觉，他醉醺醺回来，我也二话不说给他擦身子，让他第二天舒舒服服上班。有次他喝到凌晨两点回来，嘴里嘟囔着：可可，我好累。我知道他给自己的压力太大，看着眼前的他，我心里也有着说不出来的心疼。我想要尽我所能地去为他分担些什么，不让他那么累。我努力让自己坚强点，渐渐地，撒娇柔弱都不再在我身上有所体现。我以为这样的我，会让我们的生活变得好过些。没过多久，陆博在我们吃饭时，接到一个电话，什么话都没跟我说，直接出门。我也没问，以为他只是去处理工作上的事，很放心地让他离开。但他直到凌晨才回来，我像平时一样给他拿好睡衣，让他洗澡睡觉，已经很晚了。他没说话，径直地走到沙发边坐下，从口袋里拿出一根烟，点燃抽着，吐出烟丝。&ldquo;可可，我们聊聊吧。&rdquo;说这话的时候，已经是凌晨两点多，我对他说：有什么事明天再说，现在快睡吧。&ldquo;你怎么都不问问我出去做什么，这么晚才回来，连一句话都没跟你说？&rdquo;陆博看着我的眼睛，他的眼神让我感到有些陌生，我似乎从来没看到过。我没搭理他，以为他只是太累了，转身走向房间想要睡觉。他在我身后拉着我，程可，我有时候真不明白，我对你来说算什么，你没有了我，生活也依旧可以过得很好，在你身上，我没有一点感到被需要，你哪哪都不问，好像我做什么都是对的。我知道你温柔体贴，可我也是个男人，我也想回来看到家里有个会撒娇，让我有保护欲的女朋友，起码我觉得我还有点用。这番话，我怎么都没想过，终有一天会在他口中听到。原来我的懂事，在他眼里是没必要的；原来我的分担压力，在他眼里是降了他的尊严；原来我对他的无条件信任，在他眼里成了我自己也可以很好。那时候起，我们的价值观和生活都越来越无法相合，他对我的偏见越来越多，而我在这段恋爱中，也逐渐少了快乐。&nbsp;5.半个月后，他提出分手，就这样默默退出我的生活，没再多说半句话。我还有些不甘心，当他是压力太大，没去打扰他，想要给他一些时间静静，而我也顺便调整下自己的状态。但我没想到，不到两个月的时间里，他在朋友圈公开恋情，对象是另个我从未见过的人。照片中的她娇小可爱，是他想要的类型。我们的共同好友纷纷给我打电话，问我怎么回事。我说，不合适，分开了。也是那时，他们跟我说，其实那姑娘眉眼间跟我是有些相似的，有着当初我刚认识陆博时的影子。可她即使再像，她也不是我。陆博喜欢的，也还是她。我在他照片的眼神中，看到了柔情，而那份情，他曾经给过我。我终于明白，同样的眼神可以给两个人，爱也不是唯一，即使再懂事的女生，也不一定就会有人疼。或许会有人因此对你保持距离，甚至告诉你，你不需要我的保护也可以很好。我没再关注他的生活，但也没删掉他的联系方式。他说得对，没有他，我还是能好好过自己的生活，但他不知道，那都是为了让他压力不那么大，我想要主动分担些，从而锻炼出来的。后来听说他们没谈多久就分开了，朋友跟我说，陆博告诉他们感觉不太对。我也只是笑了笑没再说话。感觉，到底是什么感觉不太对，谁又能说得清楚，感觉是什么。&nbsp;6.&ldquo;生日快乐，可可。&rdquo;在24岁的第一天即将到零点时，我收到了陆博的生日祝福，但我没有回复他。我们已经错过，你别忘了，是你先弄丢的我。许是我们认识的太早，要是再晚两年遇见对方，在对的时间里相爱，你说我们会不会改变这段感情的结局？我猜也许会吧，但我也不是很确定。我唯一确定的是，我直到现在，才真正的与自己和解，放过自己。又是重新开始生活的一年，我们谁都别再打扰谁，就这样一南一北走着。往后过去多少年，再有着怎样的改变，都与彼此无关。我的微博小号，也到此为止，彻底停更。我们真的要说再见了。再见陆博，再见我们。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 比起放过你，我更想放过我自己",
+                        "desc": "文/姜乐辛 你别再回来，哪怕我很想你。",
+                        "link": "http://m.wufazhuce.com/music/3225?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 比起放过你，我更想放过我自己",
+                        "desc": "文/姜乐辛 你别再回来，哪怕我很想你。",
+                        "link": "http://m.wufazhuce.com/music/3225?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 比起放过你，我更想放过我自己》 文/姜乐辛： 你别再回来，哪怕我很想你。 阅读全文：http://m.wufazhuce.com/music/3225?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3225?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "比起放过你，我更想放过我自己",
+                        "desc": "你别再回来，哪怕我很想你。",
+                        "link": "http://m.wufazhuce.com/music/3225?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "放过",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "崔天琪",
+                "audio_album": "双面体",
+                "cover": "http://image.wufazhuce.com/Fk2fLGXiFdwEcBMflOqLC44wUOdj",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2722",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4242",
+                    "title": "凯旋门"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4248",
+                    "title": "冬天夺去的，春天会还给你",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1135",
+                    "serial_list": [
+                        "1131",
+                        "1133",
+                        "1135",
+                        "1138",
+                        "1139",
+                        "1142",
+                        "1144",
+                        "1146",
+                        "1148",
+                        "1150",
+                        "1151",
+                        "1154",
+                        "1156",
+                        "1158"
+                    ],
+                    "title": "恶女阿尤·第三章：调查开启"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2793",
+                    "title": "哪个瞬间，让你感受到春天来了？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3225",
+                    "title": "比起放过你，我更想放过我自己"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

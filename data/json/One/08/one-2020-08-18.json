@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5585",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-08-18 06:00:00",
+        "content_list": [
+            {
+                "id": "20915",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2914",
+                "title": "摄影",
+                "forward": "试图摆脱自己的孤独是徒劳的。你得一生固守着这份孤独。只是偶尔的时候，偶尔的时候，空罅会被填补。 ​​​​",
+                "img_url": "http://image.wufazhuce.com/FmOdBPNsy9cFgM_FH429CFZp7Zws",
+                "like_count": 13633,
+                "post_date": "2020-08-18 06:00:00",
+                "last_update_date": "2020-08-14 12:24:59",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2873",
+                "pic_info": "Bridgette Chen",
+                "words_info": "劳伦斯",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2914",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2914",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2914",
+                    "image": "http://image.wufazhuce.com/FmOdBPNsy9cFgM_FH429CFZp7Zws",
+                    "title": "VOL.2873",
+                    "content": "试图摆脱自己的孤独是徒劳的。你得一生固守着这份孤独。只是偶尔的时候，偶尔的时候，空罅会被填补。 ​​​​"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2914?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2914?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 试图摆脱自己的孤独是徒劳的。你得一生固守着这份孤独。只是偶尔的时候，偶尔的时候，空罅会被填补。 ​​​​——劳伦斯 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2914?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2914?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20929",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4418",
+                "title": "最远的距离是不再同心",
+                "forward": "他问她怎么了，突然来也不打个电话？她说，我只是想给你个惊喜。",
+                "img_url": "http://image.wufazhuce.com/FiI3qrNtqisg8oUWqR1uuYwRLPgl",
+                "like_count": 2211,
+                "post_date": "2020-08-18 06:00:00",
+                "last_update_date": "2020-08-18 07:28:35",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4418",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4418",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4418",
+                    "image": "http://image.wufazhuce.com/FiI3qrNtqisg8oUWqR1uuYwRLPgl",
+                    "title": "最远的距离是不再同心 作者/陈雪",
+                    "content": "可是生命有美好的意外，也会有令人烦心的意外。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 最远的距离是不再同心",
+                        "desc": "文/陈雪 可是生命有美好的意外，也会有令人烦心的意外。",
+                        "link": "http://m.wufazhuce.com/article/4418?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 最远的距离是不再同心",
+                        "desc": "文/陈雪 可是生命有美好的意外，也会有令人烦心的意外。",
+                        "link": "http://m.wufazhuce.com/article/4418?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 最远的距离是不再同心》 文/陈雪： 可是生命有美好的意外，也会有令人烦心的意外。 阅读全文：http://m.wufazhuce.com/article/4418?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4418?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最远的距离是不再同心",
+                        "desc": "可是生命有美好的意外，也会有令人烦心的意外。",
+                        "link": "http://m.wufazhuce.com/article/4418?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20785",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1257",
+                "title": "打雪仗·第二十八章：致命爱恋",
+                "forward": "我无处不在。我穿墙而过。我无孔不入。我是蜘蛛，我们金市就是蛛网。你们以为你们是通过这篇文章窥伺人心的看客，其实我的网已经黏住你们的双脚。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 677,
+                "post_date": "2020-08-18 06:00:00",
+                "last_update_date": "2020-08-03 17:46:26",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第28章",
+                "number": "28",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1257",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1257",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1257",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第二十八章：致命爱恋 作者/肖睿",
+                    "content": "你们以为你们是通过这篇文章窥伺人心的看客，其实我的网已经黏住你们的双脚。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第二十八章：致命爱恋",
+                        "desc": "文/肖睿 你们以为你们是通过这篇文章窥伺人心的看客，其实我的网已经黏住你们的双脚。",
+                        "link": "http://m.wufazhuce.com/serial/1257?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第二十八章：致命爱恋",
+                        "desc": "文/肖睿 你们以为你们是通过这篇文章窥伺人心的看客，其实我的网已经黏住你们的双脚。",
+                        "link": "http://m.wufazhuce.com/serial/1257?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第二十八章：致命爱恋》 文/肖睿： 你们以为你们是通过这篇文章窥伺人心的看客，其实我的网已经黏住你们的双脚。 阅读全文：http://m.wufazhuce.com/serial/1257?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1257?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第二十八章：致命爱恋",
+                        "desc": "你们以为你们是通过这篇文章窥伺人心的看客，其实我的网已经黏住你们的双脚。",
+                        "link": "http://m.wufazhuce.com/serial/1257?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20911",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2947",
+                "title": "空闲时间可以培养什么兴趣？",
+                "forward": "做自己爱做的事，爱自己正在做的事。",
+                "img_url": "http://image.wufazhuce.com/Fo8FDeI8TOFiZGW5KXyVKQNun9vK",
+                "like_count": 3644,
+                "post_date": "2020-08-18 06:00:00",
+                "last_update_date": "2020-08-17 22:44:33",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "不会翻车的翻车鱼",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2947",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2947",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2947",
+                    "image": "http://image.wufazhuce.com/Fo8FDeI8TOFiZGW5KXyVKQNun9vK",
+                    "title": "空闲时间可以培养什么兴趣？",
+                    "content": "空闲时间可以培养什么兴趣？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 空闲时间可以培养什么兴趣？",
+                        "desc": "文/文长长 生活，就是要生动地活着。",
+                        "link": "http://m.wufazhuce.com/question/2947?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 空闲时间可以培养什么兴趣？",
+                        "desc": "文/文长长 生活，就是要生动地活着。",
+                        "link": "http://m.wufazhuce.com/question/2947?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 空闲时间可以培养什么兴趣？》 文/文长长： 生活，就是要生动地活着。 阅读全文：http://m.wufazhuce.com/question/2947?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2947?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "空闲时间可以培养什么兴趣？",
+                        "desc": "生活，就是要生动地活着。",
+                        "link": "http://m.wufazhuce.com/question/2947?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "20931",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2036",
+                "title": "它“吓”了夏天",
+                "forward": "记得，要在人多一点的地方点开看。",
+                "img_url": "http://image.wufazhuce.com/Fk0urAj_5znwVEkbkyOipZgHgvMu",
+                "like_count": 1521,
+                "post_date": "2020-08-18 06:00:00",
+                "last_update_date": "2020-08-17 15:40:32",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣等五位",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "夏夜，一起恐怖悬疑",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5019",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2036",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2036",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2036",
+                    "image": "http://image.wufazhuce.com/Fk0urAj_5znwVEkbkyOipZgHgvMu",
+                    "title": "「一个」电影: 夏夜，一起恐怖悬疑",
+                    "content": "一个十二岁的夏夜，我曾亲眼见过鬼。那晚，父母都去上夜班，家里只剩我一个。我从梦中醒来，在正对门的方向看见了它。它站在家门口的衣架前，一动不动。我想，如果我发出声音，它就会闻声寻来，凶猛地扑向我。于是，我缓缓把脑袋缩进被子里，在被子的侧面开了一个小口，窥视着它的举动。它没有任何行动，彷佛和我陷入了僵持。我想，我应该做些什么。我拿起了桃木玩具剑，向它走去&middot;&middot;&middot;&middot;&middot;&middot;它，吓了夏天。@不辣推荐电影：《危情十日》爱比不爱更暴力。&ldquo;喜欢和爱&rdquo;是托起摇摇欲坠世界的一只大手，也是将人拉向无底深渊的魔爪。电影《危情十日》改编自恐怖小说大师斯蒂芬&bull;金的同名小说，讲述了一个发生在&ldquo;爱豆和粉丝&rdquo;之间的故事。暴风雪，畅销作家保罗发生侧翻事故，双腿严重受伤。幸运的是，他被护士安妮及时救出。更幸运的是，安妮竟是他的头号书迷，对他写的《米瑟莉》系列小说喜爱至极。身为粉丝的安妮把保罗带回家，悉心照顾，百般呵护。保罗的伤势日渐好转，他想电话给朋友家人报平安，被安妮告知，暴风雪暂时阻断了通讯。所以，保罗只能继续借住在安妮家。为了感激安妮的救命之恩，保罗把尚未面世的连载新作《米瑟莉》拿给她看。资深小说爱好者以第一时间读到独家书稿且还能和作者零距离交流，这对安妮来说，受宠若惊。某个深夜，愤怒的安妮突然闯进保罗房间，对他大声咆哮：&ldquo;你是凶手，你是凶手，&lsquo;米瑟莉&rsquo;不能死&rdquo;，并把花架狠狠地砸向保罗。白天的安妮还是温柔善良的头号书迷，此刻的她，却凶神恶煞得像魔鬼。安妮非常不满保罗写的小说，因为她最心爱的&ldquo;米瑟莉&rdquo;在书里死了，保罗必须重新写一个让她满意的结局。保罗不愿意，她就把书稿淋满汽油，当着他的面，烧了个精光。撕开假面的安妮变得越来越疯狂，发现保罗想要逃走，就把他绑在床上，锤跛了他的双脚；警察上门调查，差点发现地下室的保罗，安妮就一枪杀了警察。原来，保罗不是&ldquo;被拯救了&rdquo;，而是&ldquo;被囚禁了&rdquo;。暴风雪中的救命之恩，通讯设备的突然失灵，都是假的。这些突如其来的巧合都是蓄谋已久的阴谋。而安妮的一切行径和暴行，只因为她太崇拜保罗，太爱故事里的&ldquo;米瑟莉&rdquo;。真正的威胁和恐惧不是因为&ldquo;恨&rdquo;，而是&ldquo;爱&rdquo;，但爱往往比不爱更暴力。当保罗得救，餐厅的服务员路过他的身边，看着他说&ldquo;我是你的头号书迷&rdquo;时，无论是屏幕里的保罗还是屏幕外的观众都后背一凉。有些恐惧永远不会过去，而克服恐惧的唯一出口只有保持恐惧。&nbsp;@kimi推荐电影：《小岛惊魂》迷雾，孤岛，豪宅。前一秒的沉寂，被后一秒的惊叫声打破。女主人Grace从噩梦醒来，偌大的宅子里只有她和她两个孩子。丈夫去了前线，停战后依旧杳无音信。佣人们一周前集体失踪，在工资都没有拿的情况下。邮差每周三都会来收信，这周却没有出现。突如其来的变化，让Grace感到好奇，所幸宅子里很快迎来了三个新的帮佣。他们自称曾在宅子上一任主人的手下工作，对这间宅子再熟悉不过。因此，唯一要注意的便是Grace的条条框框。比如：不要弄出太大声响，这会加剧她的头痛；两个孩子对强光很敏感，他们所到之处务必拉上窗帘。因为战争而断电的豪宅，在拉上窗帘后陷入了黑暗。蜡烛昏黄的灯光，带来的不是温暖，而是愈发强烈的恐惧。宅子里的怪事并没有因为新佣人的到来而停止，反而愈演愈烈。Grace听见孩子的哭闹，但她的两个孩子正在乖乖背诵课文；音乐室里传来让她讨厌的钢琴声，当她走进去时却戛然而止。房门会自动开开合合，楼上的地板会莫名发出声响。宅子里遗留的老相册，收藏着上世纪人们死后被拍下的照片。尤其，女儿告诉Grace，在家里看到了其他人。那个叫维克多的小男孩，警告他们快点离开这间房子。笃信《圣经》的Grace并不相信女儿的话，也不相信鬼神。然而仔细搜完一遍宅子，却是一无所获。她壮着胆走进杂物间，这一次她果然听到人们的交谈声，可是里面明明只有蒙着白布的旧摆设，镜子忠诚地映照出她一个人的身影。到底谁是不速之客？答案藏在影片的结尾。联系故事发生的背景，1945年的泽西岛，二战时英国唯一被德国占据的领土，这让影片中的恐怖氛围更添一丝深意。没有血腥的画面和长发白衣的女鬼，可怕的不是你看到了什么。而是什么都还没看到内心却已被恐惧笼罩，你永远都不知道下一秒会发生什么。因为未知，所以恐怖！记住你所看到的，却不要只相信你所看到的！&nbsp;@MENG推荐电影：《闪灵》炎炎夏日，有一部电影可以让你瞬间达到冰点，瑟瑟发抖，那就是库布里克的《闪灵》。故事发生的季节正是寒冬腊月，白雪皑皑，地点是偏僻山区的一座度假酒店，这座酒店正处于季节性关闭中，由于山路被大雪封闭，故而人迹罕至。手头拮据的作家杰克接下了照看酒店的工作，带着妻儿一同来到这里。一开始全家其乐融融，充满憧憬，但这座富丽堂皇的度假酒店自带的阴暗过去却逐渐渗透到一家三口的生活里，鬼魅的幽灵带着过往的诅咒一一闪现。小男孩在走廊里骑着小车四处游荡，却时不时看见两个一模一样的双胞胎女孩，她们面无表情，浑身散发着瘆人的气息&hellip;&hellip;片中最经典也最恐怖的场景莫过于电梯那一幕，猩红的电梯门中渗出的鲜血，不久便成了一片血瀑布般向外喷涌，门口的沙发在血海中漂浮起来&hellip;&hellip;与其说这是一部恐怖片，倒不如说是一部心理剧，所有一切都是&ldquo;人为&rdquo;的，金碧辉煌的酒店实质上是一个藏污纳垢的地方，处处都隐喻着它黑暗的历史，酒店本身选址就是在当年对印第安人屠杀所形成的的坟堆上。此外，上了锁的237房间，房门上的英文字母redrum，正是反写的murder，无不喻示着这里还曾经发生过命案&hellip;&hellip;使人发疯的不是鬼魅，而是&ldquo;人&rdquo;的黑暗面。幸而最后小男孩在酒店外的迷宫里逃脱了发疯要杀死他的父亲，软弱无能的母亲也被迫支棱起来对付被邪恶附体的丈夫。他们驾驶铲雪车逃走的那一幕，我总算是得到了一丝宽慰。相信看完电影，你也一定能感受到绵绵不绝刺骨的寒意。&nbsp;@陈凯琳推荐电影：《看不见的客人》看悬疑片一定不能错过西班牙，《看不见的客人》于2017在中国大陆上映时曾引起一段时间的热潮，作为奥里奥尔&middot;保罗继《女尸谜案》的又一力作，情节更加完整且令人信服。故事继承了阿加莎&middot;克里斯蒂的古典本格推理，同时结合了东野圭吾式的人性之恶，真相反转反转再反转，最后精彩收尾。故事因一场密室谋杀案而起，阿德里安是一个年轻有为的企业家，经营着一家科技公司，家中美丽贤惠的妻子不能满足他作为成功人士的欲望，他有一个摄影师情人劳拉。在一次旅行中，劳拉在酒店客房里被钝器所杀，阿德里安则从昏迷中苏醒，被警方视为犯罪嫌疑人。案件被媒体报道得人尽皆知，助理帮阿德里安聘请了令业界闻风丧胆、从无败诉的女律师古德曼。一天夜里，古德曼律师敲开了阿德里安的房门&hellip;&hellip;阿德里安的供词是否可信？劳拉是始作俑者还是被利用的棋子？山路的那场车祸是否和他们有关？车祸丧生的年轻男子究竟尸陈何处？突然造访的&ldquo;古德曼&rdquo;律师真的是本人吗？&ldquo;没有经历过痛苦，就无法得到救赎。&rdquo;这是&ldquo;古德曼&rdquo;律师对阿德里安提出的警告，也是她内心深处的呐喊。阿德里安感叹古德曼律师逻辑缜密，能力高超，也在她的引导下不得不说出真相&hellip;&hellip;本片情节紧凑、细节出众，剪辑精悍、配乐动人，角色丰满、演技精湛，无论是剧本还是成片都不愧为近几年不可多得的佳作。有人说，结局全在预料之中，但好的故事不在于能否猜到结局，而在于结局是如何发生的。&nbsp;@深夜折翼推荐电影：《世界奇妙物语 2020夏季特别篇之三个愿望》《三个愿望》是40分钟迷你短剧，包涵凶杀，穿越，悬疑，科幻。茨威格在传记作品《断头王后》中写道:&ldquo;她那时还太年轻,不知道命运所赠送的礼物,早已在暗中标好了价格。&rdquo;在阳光明媚的午后，男主和夫人在别墅草坪上喝着红酒谈天说地，转眼间红酒见底，男主兴致不减去屋内取酒，回头夫人不见了，然后果断报警。警察一番盘问发现几个疑点：1.男主痴迷夫人，竟然不让夫人与外界有联系。2.男主的财富来源可疑。3.男主威胁要让夫人消失。警察怀疑男主是凶手，面对警察审问，男主交待发家致富的传奇故事。男主在5年前，二手货商店上班，在分拣货物时通过擦拭铜灯出现精灵，并许下三个愿望，精灵给了男主5亿还有现在的夫人；并解释因为夫人把这个神灯故事告诉杂志社记者，为此发怒而说出让夫人消失的气话，而且男主自己努力把5亿赚到10亿。绑匪打来电话索要赎金5亿和男主的铜灯。警察调查发现杂志社记者与5年前的5亿抢劫案有关。警察将记者定为嫌疑犯，兵分两路，一路随男主去交赎金，一路去记者家抓捕。男主来到赎金交付地点，发现是神灯里的精灵。男主百思不得其解。精灵一脸傲气骂男主废物迟钝，一边解释一边装5亿，抱怨男主赚钱速度太慢，居然用了5年这么久的时间赚5亿。精灵告诉男主这5亿是拿给5年前的你：你夫人记忆消除，同样带给5年前的你；5年前的你体弱是因为心脏不够强壮，现在你有强壮的心脏，要取走带给5年前的你。男主惨叫取消愿望，原来现在的得到的不义之财本来就是自己命运里的财富，只不过迟了5年；但是已经达成的愿望就像时光一样，无法倒回。世间常说路遇贵人，一飞冲天；岂会明白走捷径的代价不是一般人能承受。若能脚踏实地，经历时间的考验同样是人上人。听到惨叫，警察赶到，看到地上空空的钱箱和怀着一脸悔恨死去的男主，全局终。希望近视的读者朋友们都早点配个眼镜，不然月光打在衣服上，你会以为是鬼站在那里。我是不会告诉你们，我拿着桃木剑砍了半天衣服的。问题来了，鬼，它近视吗？咦？谁拍了拍我的肩？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 它“吓”了夏天",
+                        "desc": "文/MENG等五位 在夏天的尾巴，吓它一下。",
+                        "link": "http://m.wufazhuce.com/movie/2036?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 它“吓”了夏天",
+                        "desc": "文/MENG等五位 在夏天的尾巴，吓它一下。",
+                        "link": "http://m.wufazhuce.com/movie/2036?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 它“吓”了夏天》 文/MENG等五位： 在夏天的尾巴，吓它一下。 阅读全文：http://m.wufazhuce.com/movie/2036?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2036?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "它“吓”了夏天",
+                        "desc": "在夏天的尾巴，吓它一下。",
+                        "link": "http://m.wufazhuce.com/movie/2036?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20786",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3231",
+                "title": "你曾经忧烦，并且已忘记那忧烦",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FgW7jSrOr9L9ZA3RibwZFwZp6xXs?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1446,
+                "post_date": "2020-08-18 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3231",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3231",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 你曾经忧烦，并且已忘记那忧烦",
+                        "desc": "积极自救，是治愈一切丧气的唯一方法",
+                        "link": "http://m.wufazhuce.com/radio/3231?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpjCMe_ZS1QX8yia3t_0DaDL_6wn"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 你曾经忧烦，并且已忘记那忧烦",
+                        "desc": "积极自救，是治愈一切丧气的唯一方法",
+                        "link": "http://m.wufazhuce.com/radio/3231?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpjCMe_ZS1QX8yia3t_0DaDL_6wn"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 你曾经忧烦，并且已忘记那忧烦》 主播/李荟莹： 积极自救，是治愈一切丧气的唯一方法 阅读全文：http://m.wufazhuce.com/radio/3231?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3231?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lpjCMe_ZS1QX8yia3t_0DaDL_6wn"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "你曾经忧烦，并且已忘记那忧烦",
+                        "link": "http://m.wufazhuce.com/radio/3231?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpjCMe_ZS1QX8yia3t_0DaDL_6wn"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 866 期",
+                "audio_url": "http://music.wufazhuce.com/lpjCMe_ZS1QX8yia3t_0DaDL_6wn"
+            }
+        ],
+        "menu": {
+            "vol": "2873",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4418",
+                    "title": "最远的距离是不再同心"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1257",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第二十八章：致命爱恋"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2947",
+                    "title": "空闲时间可以培养什么兴趣？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2036",
+                    "title": "它“吓”了夏天"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3231",
+                    "title": "你曾经忧烦，并且已忘记那忧烦"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

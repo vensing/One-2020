@@ -1,0 +1,510 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5653",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-10 06:00:00",
+        "content_list": [
+            {
+                "id": "21228",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2968",
+                "title": "摄影",
+                "forward": "没有人真正掌握了生活的艺术，每个人都只是在黑暗中踉跄而已。",
+                "img_url": "http://image.wufazhuce.com/Fpo922Vmzw3s1xgbQUrgBXSCc8BJ",
+                "like_count": 12599,
+                "post_date": "2020-10-10 06:00:00",
+                "last_update_date": "2020-09-30 16:48:20",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2926",
+                "pic_info": "Ehud Neuhaus",
+                "words_info": "理查德·麦奎尔《这里》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2968",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2968",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2968",
+                    "image": "http://image.wufazhuce.com/Fpo922Vmzw3s1xgbQUrgBXSCc8BJ",
+                    "title": "VOL.2926",
+                    "content": "没有人真正掌握了生活的艺术，每个人都只是在黑暗中踉跄而已。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2968?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2968?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 没有人真正掌握了生活的艺术，每个人都只是在黑暗中踉跄而已。——理查德·麦奎尔《这里》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2968?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2968?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21204",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4466",
+                "title": "你那边几点",
+                "forward": "辛苦了，这次不怪你。",
+                "img_url": "http://image.wufazhuce.com/FooIKLigKA8r1hm8s5Uwy90DZnAG",
+                "like_count": 1822,
+                "post_date": "2020-10-10 06:00:00",
+                "last_update_date": "2020-10-09 18:01:24",
+                "author": {
+                    "user_id": "11577998",
+                    "user_name": "蔡林轩",
+                    "desc": "影视民工，教育底层。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "没有天赋的写字儿的。",
+                    "fans_total": "141",
+                    "web_url": "http://image.wufazhuce.com/Fm7T-1s4oQxjorjWKRe2jRukSQQG"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4466",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4466",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4466",
+                    "image": "http://image.wufazhuce.com/FooIKLigKA8r1hm8s5Uwy90DZnAG",
+                    "title": "你那边几点 作者/蔡林轩",
+                    "content": "辛苦了，这次不怪你。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 你那边几点",
+                        "desc": "文/蔡林轩 辛苦了，这次不怪你。",
+                        "link": "http://m.wufazhuce.com/article/4466?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 你那边几点",
+                        "desc": "文/蔡林轩 辛苦了，这次不怪你。",
+                        "link": "http://m.wufazhuce.com/article/4466?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 你那边几点》 文/蔡林轩： 辛苦了，这次不怪你。 阅读全文：http://m.wufazhuce.com/article/4466?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4466?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你那边几点",
+                        "desc": "辛苦了，这次不怪你。",
+                        "link": "http://m.wufazhuce.com/article/4466?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21243",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1307",
+                "title": "制作人们·第一章：劳务派遣员",
+                "forward": "我们这一行，能力和经验算个屁，多的是熬了几十年也出不了头的导演，一个节目都没火过的制片人，这一行要有些出人意料的野路子才能成事。",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 825,
+                "post_date": "2020-10-10 06:00:00",
+                "last_update_date": "2020-10-10 10:50:19",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第1章",
+                "number": "1",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1307",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1307",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1307",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第一章：劳务派遣员 作者/鳄鱼姐",
+                    "content": "凡事只要硬扛下去，人生真的会有一点奇迹出现。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第一章：劳务派遣员",
+                        "desc": "文/鳄鱼姐 凡事只要硬扛下去，人生真的会有一点奇迹出现。",
+                        "link": "http://m.wufazhuce.com/serial/1307?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第一章：劳务派遣员",
+                        "desc": "文/鳄鱼姐 凡事只要硬扛下去，人生真的会有一点奇迹出现。",
+                        "link": "http://m.wufazhuce.com/serial/1307?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第一章：劳务派遣员》 文/鳄鱼姐： 凡事只要硬扛下去，人生真的会有一点奇迹出现。 阅读全文：http://m.wufazhuce.com/serial/1307?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1307?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第一章：劳务派遣员",
+                        "desc": "凡事只要硬扛下去，人生真的会有一点奇迹出现。",
+                        "link": "http://m.wufazhuce.com/serial/1307?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21216",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3001",
+                "title": "有个性的人是什么样的？",
+                "forward": "他们清楚地知道自己要什么，要走什么样的路，并且一直在默默前行着。",
+                "img_url": "http://image.wufazhuce.com/FuTJ_I9k2WNKYI3RjUl1FAb3FKyp",
+                "like_count": 2548,
+                "post_date": "2020-10-10 06:00:00",
+                "last_update_date": "2020-10-09 18:17:40",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "斑秃的狗",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3001",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3001",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3001",
+                    "image": "http://image.wufazhuce.com/FuTJ_I9k2WNKYI3RjUl1FAb3FKyp",
+                    "title": "有个性的人是什么样的？",
+                    "content": "有个性的人是什么样的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 有个性的人是什么样的？",
+                        "desc": "文/狮心 不是与众不同，只是做好自己。",
+                        "link": "http://m.wufazhuce.com/question/3001?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 有个性的人是什么样的？",
+                        "desc": "文/狮心 不是与众不同，只是做好自己。",
+                        "link": "http://m.wufazhuce.com/question/3001?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 有个性的人是什么样的？》 文/狮心： 不是与众不同，只是做好自己。 阅读全文：http://m.wufazhuce.com/question/3001?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3001?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有个性的人是什么样的？",
+                        "desc": "不是与众不同，只是做好自己。",
+                        "link": "http://m.wufazhuce.com/question/3001?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11408852",
+                    "user_name": "狮心",
+                    "desc": "卑微静谧，狂热炽烈。\r\n热爱阳光普照，雨水丰盛。\r\n大多数时候都觉得写故事是一件很痛苦的事，但写完的瞬间，会在某处体会到看到一颗种子开花般的愉悦。目前热衷于把阅读快感和打动人心相互结合，写出两者兼有的故事。希望写出一种，可以让外星人看了后也不想侵略地球的文体，前提是他们懂简体中文。\r\n总之，是一个在一直探索着的硬核的人。同时也是一个在探索的道路上不断前行，碰巧摔了个狗吃屎后，就拐弯买杯“一点点”，不探索了的人。",
+                    "wb_name": "@写手狮心",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "举世无双大笨蛋",
+                    "fans_total": "649",
+                    "web_url": "http://image.wufazhuce.com/Fv8_ynm8zWQTwp9SkR4KSuSLLmIz"
+                }
+            },
+            {
+                "id": "21233",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2062",
+                "title": "总有一片故土，萦绕于无数梦中",
+                "forward": "少小离家老大回，东南西北来相会。",
+                "img_url": "http://image.wufazhuce.com/FiqZnxWlLlM9alHv8foscknotZEq",
+                "like_count": 1839,
+                "post_date": "2020-10-10 06:00:00",
+                "last_update_date": "2020-10-10 10:09:33",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣等四位",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "我和我的家乡",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5045",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2062",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2062",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2062",
+                    "image": "http://image.wufazhuce.com/FiqZnxWlLlM9alHv8foscknotZEq",
+                    "title": "「一个」电影: 我和我的家乡",
+                    "content": "《我和我的家乡》，在今年的&ldquo;十一国庆档&rdquo;上映了。延续了去年《我和我的祖国》的编演风格，电影设置了五个故事单元，由七位导演联合执导。我们请了几位朋友，来谈谈观影感受，选出自己最喜欢的那一部分。@柒斐最受感染力奖：《最后一课》还记得你最后一次坐在教室听的什么课吗？又是哪个老师给你讲的那节课呢？如果你都忘了的话，也没有关系，因为老师也不一定记得那么多了。十一国庆档，《我和我的家乡》如约而至，它打着喜剧天团的名号，讲的却是或生动或感人的小小故事。与去年《我和我的祖国》一样，单元故事组成的一部电影，把祖国山河的东西南北中齐聚。小人物在人间，也能发挥出大能量。琳琅满目里，印象最深的当属《最后一课》里的老范。这个在影片一开始就交代患有阿兹海默症的乡村教师，直勾勾地戳中了无数观众的泪点。他是那个十年如一日勤恳的教书人，也是让乡村孩子认识世界的引路人。教师是什么呢？想必人人都有自己的答案。每一个人的学生时代里，都一定会有一位把当年混沌而颓丧的自己唤醒的老师吧。他们的样貌各具特色，身材也高矮胖瘦不等，做的却是同一件事情&mdash;&mdash;让那些求知的人看到世界上一点点名叫希望的光亮。有了光亮，黑夜必将会消失，黎明必将被迎来。教师为什么称得上光荣和伟大呢？是因为他记忆好吗？年轻时的老范记得学校里每个孩子身上的小事&mdash;&mdash;姜小虹的胶鞋破了，姜伟岸和姜前方的算数都不好，而姜小峰画了一副没有颜料的理想中的学校。但后来，老范把很多事情都忘了，甚至连&ldquo;家乡&rdquo;的板书该怎么写，怎么想也想不起来。但他记得的，是要为姜小峰被扯烂了的画找颜料上色。他想知道，他的学生到底拥有什么样璀璨而缤纷的梦想；更想知道，这个住了大半辈子的地方，会被他的学生们建设成怎样的家乡。有些事情，老师总替我们记得的。我们的初心，我们理想中的大学，我们想成为什么样的人，我们为什么而哭泣，又为了什么而快乐。他们从来都不仅仅是用自己的思想去保卫自己，而更多的是温暖周围。如果说，老师被广为歌颂的是他们的敬业、勤恳、引领和无私，那么，老师最应该被记得的，则是他们记得每一个学生来时的模样。那些本真的、纯粹的、天然的、简单的，甚至是不切实际的。那些年听过的最后一课，老范记得的，老师们也总是记得的。&nbsp;@不辣最大脑洞奖：《神笔马亮》一个孕味十足的悍妇，不顾身后老公的阻挠，一口气上好几楼，推开学校会议厅的门，硬生生把领导狠狠摔在桌子上。这是马亮的老婆，秋霞。得知学校要派马亮去乡村扶贫，她怒从心生，因为这意味着马亮要放弃去俄罗斯列宾美术学院深造的机会。在&ldquo;留学&rdquo;和&ldquo;扶贫&rdquo;的选择间，秋霞选择了俄罗斯，而这个家里，什么事情都是&ldquo;有实力的&rdquo;说了算。在去往俄罗斯的列车上，马亮却来到了&ldquo;茴香村&rdquo;。因为，这里才是马亮心中的&ldquo;俄罗斯&rdquo;。为了隐瞒妻子自己放弃出国深造来乡村扶贫的事实，他用画笔在村里勾画了一个又一个俄罗斯景观，还把自己的房间布置成了一间大学宿舍样板房。每次和秋霞视频，马亮都靠着自己精湛的画工，蒙混过关。直到那一天，秋霞来茴香村拍摄孕妇写真，碰到了马亮扮演的大鹅。离开茴香村，秋霞吃了村民送的香肠，那味道竟然和马亮俄罗斯寄来的，一模一样。调头杀回茴香村的秋霞，突然明白了一切。《神笔马亮》借小人物马亮的一个小谎言，来展现了&ldquo;小家&rdquo;和&ldquo;大国&rdquo;的关系以及现代化新农村的大变化。故事最后，当镜头从观景台慢慢拉远，秋霞和马亮拥抱在一起，稻田里巨大火车头图案也渐渐完整。这幅定格的稻田画，象征的不仅是乡村的蓬勃发展，也寓意着祖国的腾飞繁荣。作为电影的压轴故事，《神笔马亮》的笑中带泪和浪漫温情将观影体验再度升级。&nbsp;@伊朝南最高&ldquo;含沙量&rdquo;奖：《回乡之路》请咬下这口红苹果。好像是2009年吧，国庆阅兵，各省献礼环节，陕西省的花车载着一车苹果，缓缓驶过观礼台。和其他要么高端要么艺术的省份比起来，显得寒酸又老土。但莫名的，又透着一股子浓厚的朴实。时隔多年想起这件事，是因为刚看过的电影《我和我的家乡》，在第四段《回乡之路》里，邓超扮演的看上去非常不靠谱，满嘴跑火车的陕北农民企业家乔树林，到处给人推销的就是苹果。确实，除了兵马俑、凉皮肉夹馍羊肉泡馍之外，苹果其实也算得上是陕西的招牌之一。电影里，乔树林推销的苹果和陕西人惯常吃的红富士、嘎啦等品种不太一样，他推销的是沙地上种出来的苹果。而在沙地上种苹果的初衷是为了增加绿植覆盖，进而达到治沙目的，改变家乡被黄沙骚扰的面貌。这也是养育他长大的高老师的心愿。同样是高老师教导出来闫飞燕，是一个成功的带货主播。她回乡参加学校四十周年庆典时，在飞机上偶遇乔树林。鉴于闫飞燕的身份，乔树林对她异常殷勤，为的是能说服她帮忙在网络上卖沙地苹果。只有苹果卖出去了，他才有资金继续他的治沙事业。这个过程中，乔树林浮夸的自我营销引得笑料和误会不断。闫飞燕以为这是个华而不实、附炎趋势的人，因而心生排斥。回到家乡后闫飞燕发现这里变化很大，曾经寸草不生的黄土地如今山清水秀，环境的改良让人们的生活面貌也发生了巨大的改变。在学校庆典上，当闫飞燕得知就是乔树林，不辞辛劳、不畏艰辛带领着大家植树造林为家乡做贡献。她被深深地感动了，她此番回来也是想为家乡贡献一份自己的力量，于是她决定帮他们卖苹果。据说邓超扮演角色在现实中有原型。这完全不让人意外，上世纪九十年代初，西安一到季节就下沙尘，黄风漫天，空气浓稠。等沙尘落定，天气重回清朗时，室外目所能及之处都被铺上了一层厚厚的黄土。关中距陕北几百里尚且如此，可想而知，陕北当地环境有多恶劣。时间流转至今日，沙尘天气在关中几乎已经绝迹，蓝天白云干净的空气经过那些实干家的一番努力，又重新回到我们身边，着实得来不易。看完这段电影，再回想起曾经拿苹果当国庆献礼的陕西省花车，突然又觉得那一车苹果一点也不寒酸，那是满满的一车，对踏踏实实耕耘着的劳动者们的一份尊重。&nbsp;@崔智皓最幽默又最跑题奖：《北京好人》&ldquo;张北京&rdquo;又一次登场了，满嘴的&ldquo;京片子&rdquo;，却有了个河北衡水口音的乡下亲戚，表舅。一对很少交往的舅侄，都在北京这个大城市里讨生活；北京对张北京挺好，对表舅挺残酷，残酷到整部片子结束，都没人知道他叫什么。张北京有房有户，买新车的钱也到位了，社保还能兜底小灾小病；表舅啥也没有，还得了甲状腺瘤。张北京指望着买一辆新车，从停车场管理员升级成专车司机；表舅骑着破旧的电动车送外卖，害怕投诉差评，就要对顾客说好话。张北京有一股子大城市人的自信满满，颇显&ldquo;混不吝&rdquo;，在大排档喝酒唱歌，用辨识度极高的北京口音大谈&ldquo;解放天性&rdquo;和表演技巧；表舅怕牵连侄儿，畏畏缩缩地说着衡水乡音，在即将坏事的时候，却真的来了一次&ldquo;体验派&rdquo;。&ldquo;双簧验血&rdquo;的动作变成了&ldquo;顺手偷卡&rdquo;，一句&ldquo;医保卡不就是国家给个人瞧病的吗？&rdquo;，一句&ldquo;我不就没钱看病？&rdquo;，让闹剧有了黑色幽默的色彩。《北京好人》第一个上演，却和&ldquo;家乡&rdquo;的主题相差最大，离&ldquo;户口&rdquo;&ldquo;身份&rdquo;很近。俗话说得好，条条大路通罗马，可有的人就生在罗马。让人想问的是，罗马城，它唱《五环之歌》吗？当&ldquo;北京好人&rdquo;四个字和两颗发亮的秃头映在荧幕上时，一度让人以为摹仿布莱希特的《四川好人》。两者所传达的寓意并不远：张北京坐在医生办公室，高喊着：&ldquo;他做好事儿，凭什么还得挨刀呢？&rdquo;而在几十年前的话剧剧本里，隋达也陈诉着&ldquo;帮人又帮己，对我实在难&rdquo;的无奈言语。张北京还是扣出了八万块，帮表舅治病，表舅还是有农村医保，谁都不希望故事顺利结尾。但谁也不希望生活的重担真的落在他们的肩上，因为他们跟我们一样，都是最普通的人。最后，一个小的知识点送给大家，异地就诊的报销需要开具转诊证明，希望表舅有。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 总有一片故土，萦绕于无数梦中",
+                        "desc": "文/不辣等四位 去国怀乡，近乡情怯。",
+                        "link": "http://m.wufazhuce.com/movie/2062?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 总有一片故土，萦绕于无数梦中",
+                        "desc": "文/不辣等四位 去国怀乡，近乡情怯。",
+                        "link": "http://m.wufazhuce.com/movie/2062?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 总有一片故土，萦绕于无数梦中》 文/不辣等四位： 去国怀乡，近乡情怯。 阅读全文：http://m.wufazhuce.com/movie/2062?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2062?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "总有一片故土，萦绕于无数梦中",
+                        "desc": "去国怀乡，近乡情怯。",
+                        "link": "http://m.wufazhuce.com/movie/2062?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2926",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4466",
+                    "title": "你那边几点"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1307",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第一章：劳务派遣员"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3001",
+                    "title": "有个性的人是什么样的？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2062",
+                    "title": "总有一片故土，萦绕于无数梦中"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

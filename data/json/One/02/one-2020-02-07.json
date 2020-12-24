@@ -1,0 +1,637 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5403",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-07 06:00:00",
+        "content_list": [
+            {
+                "id": "19731",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2720",
+                "title": "摄影",
+                "forward": "比世人的目光还要可怕的，实际上是你自己那颗在意世人目光的心。",
+                "img_url": "http://image.wufazhuce.com/FifI1hpeviRwKXKBgzxtNsZ1ceMn",
+                "like_count": 27831,
+                "post_date": "2020-02-07 06:00:00",
+                "last_update_date": "2020-02-04 10:58:20",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2680",
+                "pic_info": "Ryoji Iwata",
+                "words_info": "山本文绪",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2720",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2720",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2720",
+                    "image": "http://image.wufazhuce.com/FifI1hpeviRwKXKBgzxtNsZ1ceMn",
+                    "title": "VOL.2680",
+                    "content": "比世人的目光还要可怕的，实际上是你自己那颗在意世人目光的心。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2720?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2720?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 比世人的目光还要可怕的，实际上是你自己那颗在意世人目光的心。——山本文绪 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2720?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2720?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19745",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4187",
+                "title": "黄冈封城日记",
+                "forward": "在这条小小的街道上，正常情况下，一个人几乎每天都能接触到住在街道上的所有人。",
+                "img_url": "http://image.wufazhuce.com/FkAuy4MTZb5GPkZ-acJv5AH89w0y",
+                "like_count": 3264,
+                "post_date": "2020-02-07 06:00:00",
+                "last_update_date": "2020-02-07 11:10:48",
+                "author": {
+                    "user_id": "7664179",
+                    "user_name": "马亿",
+                    "desc": "马亿，青年作者，生于1992年，小说发表于《作家》《作品》《青年文学》《小说月报》《长江文艺·好小说》等杂志，获第四届“紫金·人民文学之星”短篇小说佳作奖。微博：@少年马亿",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者。@少年马亿",
+                    "fans_total": "690",
+                    "web_url": "http://image.wufazhuce.com/Fuf6BjUEWbTJU8FUzlV0MH_mSjqr"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4187",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4187",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4187",
+                    "image": "http://image.wufazhuce.com/FkAuy4MTZb5GPkZ-acJv5AH89w0y",
+                    "title": "黄冈封城日记 作者/马亿",
+                    "content": "我知道这种力量实在是微不足道，但是做总比不做好吧。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 黄冈封城日记",
+                        "desc": "文/马亿 我知道这种力量实在是微不足道，但是做总比不做好吧。",
+                        "link": "http://m.wufazhuce.com/article/4187?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 黄冈封城日记",
+                        "desc": "文/马亿 我知道这种力量实在是微不足道，但是做总比不做好吧。",
+                        "link": "http://m.wufazhuce.com/article/4187?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 黄冈封城日记》 文/马亿： 我知道这种力量实在是微不足道，但是做总比不做好吧。 阅读全文：http://m.wufazhuce.com/article/4187?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4187?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "黄冈封城日记",
+                        "desc": "我知道这种力量实在是微不足道，但是做总比不做好吧。",
+                        "link": "http://m.wufazhuce.com/article/4187?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19746",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4188",
+                "title": "宅在家，我们能干什么？",
+                "forward": "多年后依然会有人想起关于这一年春节假期，所有关于它的感动和振奋，心酸以及无奈。",
+                "img_url": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                "like_count": 2236,
+                "post_date": "2020-02-07 06:00:00",
+                "last_update_date": "2020-02-06 15:19:32",
+                "author": {
+                    "user_id": "10264854",
+                    "user_name": "张拉灯等三位",
+                    "desc": "一个App编辑。",
+                    "wb_name": "@张拉灯_",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个App编辑。",
+                    "fans_total": "4751",
+                    "web_url": "http://image.wufazhuce.com/Ftljx61tLjt8NU-9P9umT998ryhe"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4188",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4188",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4188",
+                    "image": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                    "title": "宅在家，我们能干什么？ 作者/张拉灯、专三千、曲尚",
+                    "content": "多年后依然会有人想起这一年春节，所有关于它的感动和振奋，心酸以及无奈。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 宅在家，我们能干什么？",
+                        "desc": "文/专三千等三位 多年后依然会有人想起这一年春节，所有关于它的感动和振奋，心酸以及无奈。",
+                        "link": "http://m.wufazhuce.com/article/4188?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 宅在家，我们能干什么？",
+                        "desc": "文/专三千等三位 多年后依然会有人想起这一年春节，所有关于它的感动和振奋，心酸以及无奈。",
+                        "link": "http://m.wufazhuce.com/article/4188?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 宅在家，我们能干什么？》 文/专三千等三位： 多年后依然会有人想起这一年春节，所有关于它的感动和振奋，心酸以及无奈。 阅读全文：http://m.wufazhuce.com/article/4188?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4188?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "宅在家，我们能干什么？",
+                        "desc": "多年后依然会有人想起这一年春节，所有关于它的感动和振奋，心酸以及无奈。",
+                        "link": "http://m.wufazhuce.com/article/4188?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "19734",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1097",
+                "title": "两次破碎·第七章：纸条秘密",
+                "forward": "她可以衰败、凋谢，怎么样都可以，但我只需望她一眼，万般柔情，便涌上心头。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 920,
+                "post_date": "2020-02-07 06:00:00",
+                "last_update_date": "2020-04-07 16:07:50",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第7章",
+                "number": "7",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1097",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1097",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1097",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第七章：纸条秘密 作者/连筑",
+                    "content": "她可以衰败、凋谢，怎么样都可以，但我只需望她一眼，万般柔情，便涌上心头。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第七章：纸条秘密",
+                        "desc": "文/连筑 她可以衰败、凋谢，怎么样都可以，但我只需望她一眼，万般柔情，便涌上心头。",
+                        "link": "http://m.wufazhuce.com/serial/1097?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第七章：纸条秘密",
+                        "desc": "文/连筑 她可以衰败、凋谢，怎么样都可以，但我只需望她一眼，万般柔情，便涌上心头。",
+                        "link": "http://m.wufazhuce.com/serial/1097?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第七章：纸条秘密》 文/连筑： 她可以衰败、凋谢，怎么样都可以，但我只需望她一眼，万般柔情，便涌上心头。 阅读全文：http://m.wufazhuce.com/serial/1097?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1097?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第七章：纸条秘密",
+                        "desc": "她可以衰败、凋谢，怎么样都可以，但我只需望她一眼，万般柔情，便涌上心头。",
+                        "link": "http://m.wufazhuce.com/serial/1097?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19737",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2749",
+                "title": "有哪些实用的心理学技巧？",
+                "forward": "掌握一些技巧并不是说要混得多好，只为了能在恰当的时候，缓和自己和他人的情绪。",
+                "img_url": "http://image.wufazhuce.com/Flz7pbY4GOSs9lhPf-IBiNhUA4zO",
+                "like_count": 6557,
+                "post_date": "2020-02-07 06:00:00",
+                "last_update_date": "2020-02-07 09:10:18",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "云淡丁丁丁",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2749",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2749",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2749",
+                    "image": "http://image.wufazhuce.com/Flz7pbY4GOSs9lhPf-IBiNhUA4zO",
+                    "title": "有哪些实用的心理学技巧？",
+                    "content": "有哪些实用的心理学技巧？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 有哪些实用的心理学技巧？",
+                        "desc": "文/陈六六 理解别人的心理，就是照顾自己的情绪。",
+                        "link": "http://m.wufazhuce.com/question/2749?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 有哪些实用的心理学技巧？",
+                        "desc": "文/陈六六 理解别人的心理，就是照顾自己的情绪。",
+                        "link": "http://m.wufazhuce.com/question/2749?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 有哪些实用的心理学技巧？》 文/陈六六： 理解别人的心理，就是照顾自己的情绪。 阅读全文：http://m.wufazhuce.com/question/2749?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2749?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有哪些实用的心理学技巧？",
+                        "desc": "理解别人的心理，就是照顾自己的情绪。",
+                        "link": "http://m.wufazhuce.com/question/2749?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11011269",
+                    "user_name": "陈六六",
+                    "desc": "不会写成长干货的美妆博主不是好沙雕。世界很大，值得我们好好研究。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：六号X研究所。",
+                    "fans_total": "490",
+                    "web_url": "http://image.wufazhuce.com/FpRG1R3lmFcRyp7lHMnSSl2odrpZ"
+                }
+            },
+            {
+                "id": "19728",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3199",
+                "title": "我有遇见你的运气，也有着留下你的能力",
+                "forward": "有些话再不说，就真的错过了。就像太多时间，已然错过。当初不够好的我，遇见了最好的你，于是我也开始变好。",
+                "img_url": "http://image.wufazhuce.com/FhTrMPJU4dUUtcspM10_yMvG0ysk",
+                "like_count": 2644,
+                "post_date": "2020-02-07 06:00:00",
+                "last_update_date": "2020-02-07 11:55:09",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lsmxmcUmt_KvywLqlofgSzZVCsdu",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "阿依的情书",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3199",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3199",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3199",
+                    "image": "http://image.wufazhuce.com/FhTrMPJU4dUUtcspM10_yMvG0ysk",
+                    "title": "「一个」音乐: 鹿西兮 阿依的情书",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  她坐在一列开往西部的绿皮火车上，一本书摊在腿上，封面写着&ldquo;绿皮火车&rdquo;。他坐在斜对面，盯着她看。终于他问她：你坐过绿皮火车吗？她抬眸，深似海底：当然。一、白桦第一次给我讲这个故事的时候是在一个炎热的夏日午后。那时候我们坐在河边高台上的树荫里，共用一个随身听，耳机里循环放着周杰伦的《一路向北》。他眯起眼睛看着远方说：&ldquo;我最近做梦都在想那个故事，我想开头应该会是那样的。在一列绿皮火车上，遇见一个人，满足我对于这个故事所有幻想。或许那天的我，就像遇见露丝的杰克，在泰坦尼克号上，一个混小子，走到了生命最精彩的时刻。&rdquo;我说，可杰克最后死了。那你觉得，是一生平庸安稳地病死床榻好，还是生命如烟花轰然升空，虽短暂但灿烂无比好。我说，你太文艺了，而我只是个俗人，我觉得哪一个都不好。白桦不再理我，拽了拽被汗水浸透的校服，随着音乐哼唱起来。那一年我们高一，相识第十六年。所有人都爱开青梅竹马的玩笑，但白桦有一天跟我说：我觉得我可能不会活到很老，所以你最好不要爱上我。他看着我一脸惊愕的表情，猛拍一下我的头。&ldquo;你知道泰戈尔有一句诗说&lsquo;生如夏花之绚烂，死去秋叶之静美&rsquo;吗？我才不要在这浑浊的世间停留太久，我要不妄顾此生，真正爱过，感受四季之美，然后有一个人记得我曾来过。到那个时候，我这辈子才算没有白活。这就是我的人生理想。&rdquo;&ldquo;你不用说了，我觉得最后记得你来过的那个人，只有我。&rdquo;&ldquo;没错，你是最合适的那个人。&rdquo;他嘴角勾起浅浅笑意，深沉地说。二、在我的印象里，白桦是个与众不同的孩子。他安静，喜欢看书，喜欢收集各种叶子，但很少做成标本，只是拿回家里看着它慢慢腐朽，然后遗弃。他不是一个幸运的孩子。我从未见过他的母亲，也很少看到他在外打工的父亲。一直与奶奶生活在一起的他，朋友很少，我们虽一起长大，也很少看到他笑。他心里装了很多我不知道的秘密。每到春暖花开的时候，我都会想起那个喜欢抬头走路的男孩。他稚嫩的脸庞在光影中移动，不甘错过每一片叶子。他说，站在一棵树下，可以感觉心安。此刻，它在保护你。小时候，他会把我也拉到树下，把手罩在我的头顶，说，你看啊，我也可以成为一棵树，可以保护你。长大后，我只会站在阳光下，以旁观者的姿态欣赏他被树保护着的傻样。高考那年，我们去了同一座城市。收到通知书那天我开玩笑跟他说，是不是我这辈子都甩不开你了。他也笑笑说：&ldquo;你小心点哦，你要是谈恋爱了我一定偷偷告诉你爸。&rdquo;我抓起一把瓜子扔向他，他把胳膊举起来遮挡，瓜子四处迸溅，发出清脆的响声。大学期间，我们见面的时间很少。白桦总是泡在图书馆，而我总是四处疯玩。直到大二的一天晚上，我在自习室找到白桦。&ldquo;我有男朋友了。&rdquo;&ldquo;挺好。&rdquo;&ldquo;你不会告诉我爸吧。&rdquo;&ldquo;你猜。&rdquo;&ldquo;求你了哥，我请你吃饭。&rdquo;&ldquo;好，一周的饭你都包了。&rdquo;自始至终，他都没有抬头看过我，语气平和，姿态漠然。后来失恋了，又跑去找他哭，他也依旧是同样的样子，语气平和，态度漠然。他问我伤心什么，我说，失恋了总要伤心一下嘛。他又问：&ldquo;你跟他在一起的时候心安吗？&rdquo;&ldquo;不，反而很害怕失去。&rdquo;&ldquo;一段好的恋情应该让人心安，而不是提心吊胆。你们分开是好的。&rdquo;我脸上挂着泪问他，&ldquo;你怎么知道的。&rdquo;&ldquo;书上写的。&rdquo;&ldquo;那是纸上谈兵。&rdquo;&ldquo;那你跟我在一起的时候会害怕失去吗？&rdquo;我摇摇头。&ldquo;所以说，你不适合跟他在一起。&rdquo;&ldquo;但我们在某些地方那么像，我以为他是懂我的。&rdquo;&ldquo;在一起，并不是所谓两个人越像就越有共同话题，有时候两个互补的人在一起，会更懂彼此。就比如咱俩，我喜欢读书，你不喜欢，但我可以把看到的讲给你听，这也是我们之间交流的一种方式。&rdquo;我不再说话，低头抹眼泪。大四那年，白桦拿到了保研的机会。而我，在四处投递简历之后，去了南宁一家科技公司上班。我送他去车站，他冲我摆摆手，进站，又转身隔着玻璃冲我喊，&ldquo;我要去坐绿皮火车了。&rdquo;我冲他用力点头，转身眼泪却不自觉流下来。这是二十多年，我们第一次真正意义上的分开。但我并非确切希望，他能在绿皮火车上遇见一眼即一生的姑娘。三、&ldquo;白桦树刻着那两个名字，他们发誓相爱用尽这一生。有一天战火烧到了家乡，小伙子拿起枪奔赴边疆，心上人你不要担心，等着我回到那片白桦林。&rdquo;傍晚坐在一家咖啡店里，听朴树低沉的声音这样唱着。一个小时之前，白桦发来消息，说要来南宁看我。看我是顺便，重点是给我介绍他的女朋友。白桦在研究生期间很少给我发消息，偶尔聊天，也只是说一说他在做的项目。而我渐渐也不知道应该与他说些什么，两个城市，仿佛我们已然隔了两个世界。我的生活千篇一律，家与公司两点一线，南宁的骄阳如烈焰般烤干我的大脑，微薄的工资让我对于生活的激情仅限于超市打折促销。白桦说，学校的生活也很无聊，实验室里没有多少女生。他告诉我，那天在绿皮火车上，他也没能遇到一个能书写故事开头的姑娘。继续等。等多久？如果一直找不到那个姑娘，就不再恋爱了吗？他没有给我答案，也很久没有再发来消息。只是突然有天看到他在朋友圈里发了一个女孩的照片，长发及腰，明眸皓齿，倚在他肩上天真笑着。那是追了他很久的学妹，北京孩子，家教良好，敢爱敢恨，钟情三年。白桦似乎没有应该拒绝她的理由。我一直以为这一天到来，我会替他高兴，但总感觉心里少了什么。不知道当初我把自己的恋情告诉他时，他是否也有同样的感觉。我们共同的朋友马上发来消息询问白桦的女友。我告诉她我也不清楚。她说，一直以为我们俩会在一起。我不得不承认，这句话把我的心扎了一下。我告诉她，这样算来，是我先谈的恋爱，是我先给我们的关系判了死刑，或许从始至终，我们只会是朋友。有些关系本就如此，我们曾携手同行，但世间太大，我们一不小心就走上陌路，不一样的天空，不一样的路人。当你回头想起那个小男孩或小女孩，想让他也看看你看过的风景，却发现那个孩子早已不见。你甚至不曾知晓是在哪一个路口走散的。白桦带着那个姑娘来了，坐在我的对面，笑意盈盈，秋波暗涌。那姑娘主动给我夹菜，说我像她的妹妹，说他们下一步就打算见家长了。我轻轻点头，白桦也只低头吃饭，沉默不语。后来白桦凌晨发消息问我，觉得她怎么样。&ldquo;好看。&rdquo;&ldquo;没有别的了吗？&rdquo;&ldquo;人挺好的。&rdquo;&ldquo;你没有其他想说的吗？&rdquo;&ldquo;没有。&rdquo;长夜寂寥，理智开始消退，初心涌上眼前，互猜心意，但终有一道无形鸿沟，让我们依旧无法轻易说出真心话。所以，不要在夜晚做任何决定。不要在夜晚，爱上别人。四、我跟他说，我想回家了，回家找份工作，我妈也在催我结婚。他很久才回我消息，说，你不能回家，这一辈子也绝不会是这样的。记得小时候我们看的《泰坦尼克号》，最后杰克对露丝说，你会得救，会活下去，生很多孩子，子孙满堂，你会长寿，死在温暖的床上，而不是在这，不是今晚，不是这样，你懂吗？我懂，可惜我一直是个俗人，从未想过你所想的爱，也从未觉得哪一片叶子格外纯真。白桦已经毕业一年了。自从那次见面，我再也没见过他，过年也未曾回家。我几乎每天都会翻看他的朋友圈，他也一直没再更新。仿佛他已经从我的生活中消失，最后只剩下几年一次同学聚会上的礼貌握手。直到那天，我终于下定决心离开南宁回家，然后收到了他的那一段话。这么多年，他始终未变，还是那个充满理想与激情的少年。而我已然沦丧在平庸的生活中。他说过几天会回家，约我在老家镇上一家咖啡馆见面。秋日午后，干燥烦闷，无风，树叶也纷纷落下。我一路踩着落下的叶子走过去，听它发出清脆的破裂声。远远走过去就能看到一个熟悉的身影坐在靠窗的位置上，黑色大衣，头发松散，右手撑着头靠在玻璃上。他很快看到我，招招手示意我走快些。走近了，没有问候，没有寒暄，没有不自然。&ldquo;别回家了，跟我走吧。&rdquo;&ldquo;你说什么？&rdquo;&ldquo;我说&rdquo;，他停下搅动咖啡的右手，两眼有光，一字一句重重地说，&ldquo;跟我走吧。别回老家，别结婚。&rdquo;&ldquo;那你女朋友呢？&rdquo;&ldquo;分手了。&rdquo;&ldquo;为什么？&rdquo;&ldquo;他们家想招我做上门女婿。&rdquo;我扑哧笑了出来。心气那么高的少年，实在没想到这种事情会发生在他身上。他接着说，&ldquo;主要还是我不喜欢她。&rdquo;&ldquo;那我不回家干什么呢？&rdquo;&ldquo;辞职，考研吧。跟我去武汉，我的工资足够两个人生活，再说你工作这几年也有存款，你要是觉得不好我们就AA，反正，我们要拼一把。实在不行了，我再陪你回家。&rdquo;&ldquo;为什么？这些你从来没跟我说过。&rdquo;&ldquo;没有为什么，喜欢你好久了。这句话再不说，我们就真的要错过了。&rdquo;五、有些话再不说，就真的错过了。就像太多时间，已然错过。当初不够好的我，遇见了最好的你，于是我也开始变好。当初最好的你，遇见了不够好的我，于是开始收敛锋芒，愿意尝试在这世间帮着一个傻丫头继续走下去。或许我们都该相信，纵使世间感情难逃千疮百孔，但终有一人，或许来迟，但会让你自此相信，世界温暖如初，一切值得。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我有遇见你的运气，也有着留下你的能力",
+                        "desc": "文/鹿西兮 可不可以让我照顾你一辈子？",
+                        "link": "http://m.wufazhuce.com/music/3199?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我有遇见你的运气，也有着留下你的能力",
+                        "desc": "文/鹿西兮 可不可以让我照顾你一辈子？",
+                        "link": "http://m.wufazhuce.com/music/3199?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我有遇见你的运气，也有着留下你的能力》 文/鹿西兮： 可不可以让我照顾你一辈子？ 阅读全文：http://m.wufazhuce.com/music/3199?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3199?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我有遇见你的运气，也有着留下你的能力",
+                        "desc": "可不可以让我照顾你一辈子？",
+                        "link": "http://m.wufazhuce.com/music/3199?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "阿依的情书",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "沙楠杰",
+                "audio_album": "阿依的情书",
+                "cover": "http://image.wufazhuce.com/lqTshOFXEb682aGXCqYc5eLOU4JV",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2680",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4187",
+                    "title": "黄冈封城日记",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4188",
+                    "title": "宅在家，我们能干什么？",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1097",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第七章：纸条秘密"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2749",
+                    "title": "有哪些实用的心理学技巧？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3199",
+                    "title": "我有遇见你的运气，也有着留下你的能力"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

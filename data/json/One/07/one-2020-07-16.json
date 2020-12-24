@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5568",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-16 06:00:00",
+        "content_list": [
+            {
+                "id": "20746",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2881",
+                "title": "摄影",
+                "forward": "那些在当下发生时你以为毫无意义的时刻，往往到头来成为你人生一整段时期的印记。",
+                "img_url": "http://image.wufazhuce.com/FpX1cxhCGSEkhh6lRWjqldZbeW6W",
+                "like_count": 15985,
+                "post_date": "2020-07-16 06:00:00",
+                "last_update_date": "2020-07-14 14:46:21",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2840",
+                "pic_info": "David Marcu",
+                "words_info": "安迪·沃霍尔",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2881",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2881",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2881",
+                    "image": "http://image.wufazhuce.com/FpX1cxhCGSEkhh6lRWjqldZbeW6W",
+                    "title": "VOL.2840",
+                    "content": "那些在当下发生时你以为毫无意义的时刻，往往到头来成为你人生一整段时期的印记。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2881?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2881?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 那些在当下发生时你以为毫无意义的时刻，往往到头来成为你人生一整段时期的印记。——安迪·沃霍尔 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2881?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2881?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20738",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4383",
+                "title": "城市囚徒",
+                "forward": "我制造了灾难，又平息了灾难，人们劫后余生，惊魂甫定，终于像看待怪物一样看向我，我为什么会用“终于”这个词呢？",
+                "img_url": "http://image.wufazhuce.com/FjLt532DtzOrQPrH5yO4Gih8Xlqd",
+                "like_count": 2196,
+                "post_date": "2020-07-16 06:00:00",
+                "last_update_date": "2020-07-16 09:36:06",
+                "author": {
+                    "user_id": "11306035",
+                    "user_name": "顾连川",
+                    "desc": "喜欢白日做梦，晴天在家里看云，雨天在床上睡觉。钟情于魔幻的现实和古怪的浪漫，每个故事的主角都能看到你我，每个故事的世界都有迹可循。豆瓣：宇宙寿司馆老板。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "卖房子的人，拖延症大赛预备役选手。",
+                    "fans_total": "1353",
+                    "web_url": "http://image.wufazhuce.com/Ftom1GBOeTiezLzCkxxGTq_EGw8w"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4383",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4383",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4383",
+                    "image": "http://image.wufazhuce.com/FjLt532DtzOrQPrH5yO4Gih8Xlqd",
+                    "title": "城市囚徒 作者/顾连川",
+                    "content": "只要还能吃到甜食，出不出得去好像也无所谓。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 城市囚徒",
+                        "desc": "文/顾连川 只要还能吃到甜食，出不出得去好像也无所谓。",
+                        "link": "http://m.wufazhuce.com/article/4383?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 城市囚徒",
+                        "desc": "文/顾连川 只要还能吃到甜食，出不出得去好像也无所谓。",
+                        "link": "http://m.wufazhuce.com/article/4383?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 城市囚徒》 文/顾连川： 只要还能吃到甜食，出不出得去好像也无所谓。 阅读全文：http://m.wufazhuce.com/article/4383?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4383?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "城市囚徒",
+                        "desc": "只要还能吃到甜食，出不出得去好像也无所谓。",
+                        "link": "http://m.wufazhuce.com/article/4383?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20695",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1242",
+                "title": "打雪仗·第十四章：快乐谎言",
+                "forward": "你寻找的未必是你的，等待你的也可能离开你。我本来以为你很威风，其实你的命也挺苦。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 810,
+                "post_date": "2020-07-16 06:00:00",
+                "last_update_date": "2020-07-15 15:00:56",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第14章",
+                "number": "14",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1242",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1242",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1242",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第十四章：快乐谎言 作者/肖睿",
+                    "content": "我本来以为你很威风，其实你的命也挺苦。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第十四章：快乐谎言",
+                        "desc": "文/肖睿 我本来以为你很威风，其实你的命也挺苦。",
+                        "link": "http://m.wufazhuce.com/serial/1242?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第十四章：快乐谎言",
+                        "desc": "文/肖睿 我本来以为你很威风，其实你的命也挺苦。",
+                        "link": "http://m.wufazhuce.com/serial/1242?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第十四章：快乐谎言》 文/肖睿： 我本来以为你很威风，其实你的命也挺苦。 阅读全文：http://m.wufazhuce.com/serial/1242?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1242?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第十四章：快乐谎言",
+                        "desc": "我本来以为你很威风，其实你的命也挺苦。",
+                        "link": "http://m.wufazhuce.com/serial/1242?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20758",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2913",
+                "title": "最能伤害你的一句话是什么？",
+                "forward": "鼻酸语录合集。",
+                "img_url": "http://image.wufazhuce.com/FunsVDtPz1pMtIzkqgWHByk1EgiO",
+                "like_count": 2386,
+                "post_date": "2020-07-16 06:00:00",
+                "last_update_date": "2020-07-15 19:21:40",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2913",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2913",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2913",
+                    "image": "http://image.wufazhuce.com/FunsVDtPz1pMtIzkqgWHByk1EgiO",
+                    "title": "最能伤害你的一句话是什么？",
+                    "content": "最能伤害你的一句话是什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 最能伤害你的一句话是什么？",
+                        "desc": "文/网友 鼻酸语录合集。",
+                        "link": "http://m.wufazhuce.com/question/2913?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 最能伤害你的一句话是什么？",
+                        "desc": "文/网友 鼻酸语录合集。",
+                        "link": "http://m.wufazhuce.com/question/2913?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 最能伤害你的一句话是什么？》 文/网友： 鼻酸语录合集。 阅读全文：http://m.wufazhuce.com/question/2913?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2913?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最能伤害你的一句话是什么？",
+                        "desc": "鼻酸语录合集。",
+                        "link": "http://m.wufazhuce.com/question/2913?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20756",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2022",
+                "title": "身体的诚实，让我爱你一次又一次",
+                "forward": "顺从身体的意愿，寻觅一个答案：我们为什么爱，我们如何去活？",
+                "img_url": "http://image.wufazhuce.com/Foz7GetH6Ea6Nll7lFlqsZRbq7uA",
+                "like_count": 2008,
+                "post_date": "2020-07-16 06:00:00",
+                "last_update_date": "2020-07-16 00:18:26",
+                "author": {
+                    "user_id": "7867217",
+                    "user_name": "MENG",
+                    "desc": "MENG，MeRead读书会创办人，不务正业写作者。",
+                    "wb_name": "@萌之刺刺",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：MeRead",
+                    "fans_total": "4470",
+                    "web_url": "http://image.wufazhuce.com/FtmFi0r5J7VmcqNwE-PyOxxm91LL"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "火口的两人",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5005",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2022",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2022",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2022",
+                    "image": "http://image.wufazhuce.com/Foz7GetH6Ea6Nll7lFlqsZRbq7uA",
+                    "title": "「一个」电影: 火口的两人",
+                    "content": "2020年的开局便给人以魔幻的色彩，各种天灾地变延续今日，这让我想起一部去年日本的电影《火口的两人》。在灾难临头的氛围之下，旧日恋人再次相见，回忆沉渣泛起，日常化作碎屑，身体的意志逐渐苏醒，在一次次仿佛走到世界尽头的缠绵之中，他们寻觅着一个问题的答案：我们为什么爱，我们如何去活？直子婚礼的前十天，曾经的恋人贤治回到了老家，两人重逢。这时的贤治，已经离婚若干年，而直子在单身了许久之后，终于找到了归宿。这之间，他们已经暌违了十年。他们本相爱至深，但由于两人关系中存在无法打破的禁忌，所以从一开始，他们就知道彼此是不可能在一起的。他们有过热烈过往，在各种场合疯狂缠绵，并且拍下照片：晃动的镜头，晦涩的光线，凌乱的头发，交织的身体&hellip;&hellip;恋爱中的他们没有禁忌，没有一丝保留，甚至想要彼此相拥着跳入富士山的火山口中。如此热烈地爱过，最终还是黯然分手了，这些照片随着时光尘埃落定，收进了直子的影集。但是那些照片从来没有被直子遗忘。面对贤治，她重新翻开影集，让他和她一同重温那些的黑白照片，它们仿佛在拍下的那一刻被点燃了一般，滚烫，却又有着不可企及的距离。直子想要在婚前再次回到当年，和贤治再一次缠绵。而贤治，一开始是躲闪的。他刻意地不去触碰那段回忆，不知是出于害怕，还是出于渴望，那段日子对他来说似乎太耀眼了，以至于后来他平凡的人生承受不起那样的回忆。在直子的一再坚持之下，贤治终于妥协了。一旦再次感受到旧日恋人的皮肤，身体的记忆便自动苏醒，他们就像两只缱绻中的小动物，彼此啃食，彼此交缠，难舍难分。&ldquo;只有今晚&rdquo;是直子理智的决定，而&ldquo;无法停止&rdquo;是贤治身体的意愿。他意识到身体的开关被打开了，除了再次去找直子，别无他法。奇怪的是，在身体做出决定的时候，人却是茫然的。缠绵过后，两人仍然像之前一样去吃饭，讨论这家店的韭菜炒猪肝有什么不同之处。直子警告他不可有下次了，贤治却说：回到那时候，就不知道怎么回来了。并且不知不觉地，他说起了乡音，就算直子再三提醒，他也无法控制自己。在这里，对于曾经的爱情，没有任何煽情和升华，而是沦陷在饭菜和生理反应的讨论之中，两人的身体即使已经交融，但语言却是隔阂的，磕磕碰碰的，或者不如说，语言本身就很无力，一句&ldquo;我爱你&rdquo;，不如贤治在餐厅里的燃起的欲望更能说明问题。最后，直子让步了：给出了五天的期限，在未婚夫没有回来之前&ldquo;回到那时&rdquo;，然后彼此再无交集。贤治答应了，他本就不是来破坏婚礼的，他只是无意间栽入了回忆的深渊。当贤治独自一人走在空寂的街道上，凄冷的提琴响起，他走过美术馆，走过商店和十字路口，他仿佛在寻找，寻找曾经存在过的无比真实的爱情，可是那里却空空荡荡，什么都没有。接下来的五天是抽离的，从时间的管道中逃逸的五天。他们沉醉在彼此的身体中，无论如何都要尽力去拥抱彼此，用尽一切办法坠入彼此之中。但是对于现实，他们都充满了无力感，他们聊到各自的婚姻，才发现人生处处都是妥协。直子之所以结婚，只是因为子宫长了肌瘤，想要赶快生个孩子，至于找了&ldquo;自卫队&rdquo;的丈夫，则是出于对于死亡的恐惧。贤治离婚的原因，是在婚内出轨，离婚后又被小三抛弃，多年见不到儿子，成了孤家寡人。他们各自的生活都有各自自私的打算，不负责的决定，从哪方面来说，他们都不是完美的恋人。可是当他们在一起的时候，所有的道德、正义、约束都变得轻如鸿毛，不起作用了。他们可以在彼此身上看到自己，可以毫无顾忌地做自己，这是无论哪个人都无法替代的。哪怕最亲近的人，直子都无法放松，不能让自己出糗的一面被对方看到，可是对于贤治，她却毫无防备。这是一种纯粹的爱，是身体的爱、接纳和满足。如同婴儿般本能，它融化了一切是非观念，它没有道理可言，它是一种自然的反应。另一方面，它和心灵之爱一样真实，一样震撼人心，具有一样坚强的意志。其实每个人都必须承认，真实的爱情中，身体的依恋也是一种强烈的情感，甚至可以说，纯粹的身体依恋本身就是爱。&ldquo;像蛇一样&rdquo;，是直子对于贤治身体的形容，而贤治也真的像蛇，他捉摸不定，难以控制，但又温存体贴，任人抚弄。也许追根溯源，他们后来无法幸福生活的根源，就是因为没有和对方在一起，就是因为他们违背了身体的愿望，服从了社会的规则。事隔多年，直子终于说出，当年她是因为害怕&ldquo;输给自己的身体&rdquo;而选择了逃避。而贤治也说出，他是因为前妻怀孕才决定结婚，他已然&ldquo;输给了身体&rdquo;。所以，他们两个才会不断为自己的选择付出代价，不断在其他的情感关系中扮演失责的一方。要是当时，他们能够再等等，再听听自己&ldquo;身体的愿望&rdquo;，结局会不会不一样呢？可是，这个问题却从来没有被深刻地讨论过，它太过于沉重，又太易碎了。只有一次缠绵后，直子偶然间说出，贤治死去的母亲曾经在他的婚礼后对她说过：如果你们两个在一起就好了。此时的贤治才惊觉：原来她是这样想的！可是这来得太迟的&ldquo;同意&rdquo;又有什么用呢？意识到阻止他们相爱的并不是父母亲人的目光，而只是自己的&ldquo;道德&rdquo;障碍，这样的领悟只是平添了一份懊悔，一份惆怅罢了。反过来说，如果没有那份禁忌，他们还会爱得这么不顾一切，这么疯狂吗？爱是没有如果的，正如灾难一样。有些事就是在一瞬间被决定的。一场地震，一次海啸，既可以摧毁许多人的生命，也可以改变许多人的决定，我们怀着同情去理解别人，却往往像贤治说的那样，无法真正体会别人的感受。当贤治对直子说：&ldquo;为了生孩子而结婚，我不赞同&rdquo;的时候，直子也无法体会这句话的意义，直到一场真正的灾难来临。这场灾难，便是富士山的爆发，它似乎已经成为了日本人心理结构的一部分，关于富士山爆发的书堆满了图书馆的一个角落，对于灾难的想象甚至超过了灾难本身，人们在富士山面前的无力感，就如同面对命运之神的锁喉。面对富士山即将爆发的新闻，直子才突然想明白：既然富士山都可以爆发，那么一切都是可能的，既然如此，我怎么还能这样地活下去？在婚礼的前五天，自卫队的未婚夫被派去执行火山爆发紧急救援任务，这一次，灾难不再只是一个背景，一种幻想，而是成为了一个主要的角色，参与到这场不被世俗认可的爱情事件中。它调兵遣将，延迟了婚礼，清除了屏障，再次将两个相爱已久的人推到了火山口上。得知直子婚礼延期的贤治，接到了直子的电话，约他去她家里。她拿出当年躺在上面拍照的富士山口海报，两人将它摊在桌上，她告诉贤治，其实婚礼不是延迟，而是取消了。她终于明白，不应该为了任何除了爱以外的其他原因而结婚。是否只有当面灾难来临之时，我们才会好好去思考，应该怎样对待生活？如此说来，灾难并非一无是处，它矫正了我们日常生活习以为常的&ldquo;理所应当&rdquo;，改变了我们的视角，它破坏了我们自以为是的傲慢，将最原始的本能激发出来，那种本能并非是低级的动物性，而是一种更接近真实的愿望。在兜兜转转之后，直子和贤治终于接受了对彼此身体的渴望，不再抗拒，不再在乎世俗的意见，不再去为未来做计划，而是好好珍惜在一起的每一秒钟。灾难当前，直子和贤治如同高中时那样，牵着手去逛街，去图书馆看书，缠绵于隐秘的巷子中&hellip;&hellip;裹挟着他们的，是巨大的命运的旋涡，是不可逆的时间的洪流，是整个世界即将崩溃的前奏。但他们是快乐的，这快乐，就是顺从&ldquo;身体的意愿&rdquo;。爱，不是通过语言完成的，身体的愿望比大脑更强势，本能的力量超越了恐惧，冲破了生活的迷雾。纯粹的身体之爱，就像末日倒计时一般，在苍白的现实中，呈现了不可救药的浪漫，似有悲戚，实则震撼。他们的脸上，带着淡淡的迷醉和深深的依恋，仿佛周围的一切只是爱与欲的幕布。第二天一早，他们平静地醒来。哦，富士山还没有爆发。那么，让我们再爱一次。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 身体的诚实，让我爱你一次又一次",
+                        "desc": "文/MENG 要爱吗？要。",
+                        "link": "http://m.wufazhuce.com/movie/2022?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 身体的诚实，让我爱你一次又一次",
+                        "desc": "文/MENG 要爱吗？要。",
+                        "link": "http://m.wufazhuce.com/movie/2022?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 身体的诚实，让我爱你一次又一次》 文/MENG： 要爱吗？要。 阅读全文：http://m.wufazhuce.com/movie/2022?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2022?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "身体的诚实，让我爱你一次又一次",
+                        "desc": "要爱吗？要。",
+                        "link": "http://m.wufazhuce.com/movie/2022?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20696",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3214",
+                "title": "你啊你，是夏天的情人",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FrtfG_yVLysYf7So-KoIFgj4adpi?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1397,
+                "post_date": "2020-07-16 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3214",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3214",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 你啊你，是夏天的情人",
+                        "desc": "啤酒是连绵不断的血液，是永恒的情人",
+                        "link": "http://m.wufazhuce.com/radio/3214?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvhsGfHBD3pA5D9Ztp22VT7yDElW"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 你啊你，是夏天的情人",
+                        "desc": "啤酒是连绵不断的血液，是永恒的情人",
+                        "link": "http://m.wufazhuce.com/radio/3214?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvhsGfHBD3pA5D9Ztp22VT7yDElW"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 你啊你，是夏天的情人》 主播/李荟莹： 啤酒是连绵不断的血液，是永恒的情人 阅读全文：http://m.wufazhuce.com/radio/3214?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3214?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lvhsGfHBD3pA5D9Ztp22VT7yDElW"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "你啊你，是夏天的情人",
+                        "link": "http://m.wufazhuce.com/radio/3214?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvhsGfHBD3pA5D9Ztp22VT7yDElW"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 851 期",
+                "audio_url": "http://music.wufazhuce.com/lvhsGfHBD3pA5D9Ztp22VT7yDElW"
+            }
+        ],
+        "menu": {
+            "vol": "2840",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4383",
+                    "title": "城市囚徒"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1242",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第十四章：快乐谎言"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2913",
+                    "title": "最能伤害你的一句话是什么？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2022",
+                    "title": "身体的诚实，让我爱你一次又一次"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3214",
+                    "title": "你啊你，是夏天的情人"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5529",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-30 06:00:00",
+        "content_list": [
+            {
+                "id": "20645",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2865",
+                "title": "摄影",
+                "forward": "无论你去哪里，你总是会遇见你自己。",
+                "img_url": "http://image.wufazhuce.com/FtVAOP3ueS8KKpwGVkZpFMLIrB01",
+                "like_count": 16660,
+                "post_date": "2020-06-30 06:00:00",
+                "last_update_date": "2020-06-29 15:23:41",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2824",
+                "pic_info": "Abed Ismail",
+                "words_info": "《蒂凡尼的早餐》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2865",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2865",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2865",
+                    "image": "http://image.wufazhuce.com/FtVAOP3ueS8KKpwGVkZpFMLIrB01",
+                    "title": "VOL.2824",
+                    "content": "无论你去哪里，你总是会遇见你自己。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2865?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2865?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 无论你去哪里，你总是会遇见你自己。——《蒂凡尼的早餐》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2865?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2865?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20632",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4370",
+                "title": "寻亲",
+                "forward": "再遭人恨，也总有恨的人。",
+                "img_url": "http://image.wufazhuce.com/FrU4i82LCvRcc5kSgyTQzPBTCNDI",
+                "like_count": 1805,
+                "post_date": "2020-06-30 06:00:00",
+                "last_update_date": "2020-06-30 09:54:29",
+                "author": {
+                    "user_id": "11438002",
+                    "user_name": "八火",
+                    "desc": "致力于成为女人。",
+                    "wb_name": "@刘八火",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "中等游民",
+                    "fans_total": "46",
+                    "web_url": "http://image.wufazhuce.com/FqIgCDb-aMoCvyqV5gX9xJuTDRsA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4370",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4370",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4370",
+                    "image": "http://image.wufazhuce.com/FrU4i82LCvRcc5kSgyTQzPBTCNDI",
+                    "title": "寻亲 作者/八火",
+                    "content": "她把童年都忘记了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 寻亲",
+                        "desc": "文/八火 她把童年都忘记了。",
+                        "link": "http://m.wufazhuce.com/article/4370?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 寻亲",
+                        "desc": "文/八火 她把童年都忘记了。",
+                        "link": "http://m.wufazhuce.com/article/4370?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 寻亲》 文/八火： 她把童年都忘记了。 阅读全文：http://m.wufazhuce.com/article/4370?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4370?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "寻亲",
+                        "desc": "她把童年都忘记了。",
+                        "link": "http://m.wufazhuce.com/article/4370?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20626",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1224",
+                "title": "打雪仗·第七章：绝路少女",
+                "forward": "“你知道吗？人身上是有杀气的，爷对它特别敏感。”孙大胜说。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 706,
+                "post_date": "2020-06-30 06:00:00",
+                "last_update_date": "2020-06-28 12:13:44",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第7章",
+                "number": "7",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1224",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1224",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1224",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第七章：绝路少女 作者/肖睿",
+                    "content": "“你知道吗？人身上是有杀气的，爷对它特别敏感。”孙大胜说。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第七章：绝路少女",
+                        "desc": "文/肖睿 “你知道吗？人身上是有杀气的，爷对它特别敏感。”孙大胜说。",
+                        "link": "http://m.wufazhuce.com/serial/1224?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第七章：绝路少女",
+                        "desc": "文/肖睿 “你知道吗？人身上是有杀气的，爷对它特别敏感。”孙大胜说。",
+                        "link": "http://m.wufazhuce.com/serial/1224?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第七章：绝路少女》 文/肖睿： “你知道吗？人身上是有杀气的，爷对它特别敏感。”孙大胜说。 阅读全文：http://m.wufazhuce.com/serial/1224?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1224?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第七章：绝路少女",
+                        "desc": "“你知道吗？人身上是有杀气的，爷对它特别敏感。”孙大胜说。",
+                        "link": "http://m.wufazhuce.com/serial/1224?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20620",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2894",
+                "title": "如何与控制欲强的人相处？",
+                "forward": "如果不能改变环境，就尝试适应它。这不是简单地顺从妥协，而是戴着镣铐舞蹈。",
+                "img_url": "http://image.wufazhuce.com/FiBZ0hGaZGmg-VUJzUmLYegb_L8n",
+                "like_count": 2022,
+                "post_date": "2020-06-30 06:00:00",
+                "last_update_date": "2020-06-29 17:57:43",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "霸道月野兔",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2894",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2894",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2894",
+                    "image": "http://image.wufazhuce.com/FiBZ0hGaZGmg-VUJzUmLYegb_L8n",
+                    "title": "如何与控制欲强的人相处？",
+                    "content": "如何与控制欲强的人相处？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何与控制欲强的人相处？",
+                        "desc": "文/不辣 “我这是为了你好。”",
+                        "link": "http://m.wufazhuce.com/question/2894?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何与控制欲强的人相处？",
+                        "desc": "文/不辣 “我这是为了你好。”",
+                        "link": "http://m.wufazhuce.com/question/2894?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何与控制欲强的人相处？》 文/不辣： “我这是为了你好。” 阅读全文：http://m.wufazhuce.com/question/2894?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2894?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何与控制欲强的人相处？",
+                        "desc": "“我这是为了你好。”",
+                        "link": "http://m.wufazhuce.com/question/2894?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                }
+            },
+            {
+                "id": "20643",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2015",
+                "title": "六月最后一天，跟着姐姐们乘风破浪吧",
+                "forward": "“乘风破浪”的意义是什么？是“姐姐”不止是“姐姐”，是一种心态，一种感受，一种氛围。",
+                "img_url": "http://image.wufazhuce.com/FqUbohbf74zh5qY_n6kDAkvqE5TY",
+                "like_count": 1370,
+                "post_date": "2020-06-30 06:00:00",
+                "last_update_date": "2020-07-10 16:04:24",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "MENG等七位作者",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "乘风破浪的姐姐",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4998",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2015",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2015",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2015",
+                    "image": "http://image.wufazhuce.com/FqUbohbf74zh5qY_n6kDAkvqE5TY",
+                    "title": "「一个」电影: 乘风破浪的姐姐",
+                    "content": "女人、姐姐、30+、出道、成团，当这些词摆在面前的时候，你会想到什么？可能是难以置信，毕竟30+的女人成家的成家，立业的立业，早就已经出道多年；可能是无法想象，毕竟这些性格迥异又极有态度的姐姐们凑在一起，能愉快相处便是人间大幸，哪还敢奢求她们收起锋芒，一起成团。但是，今年夏天就有人硬是把她们凑到了一起，不要她们肆意妄为，而求她们乘风破浪。于是，《乘风破浪的姐姐》，来了！阵容一出，网友们就开始&ldquo;打得火热&rdquo;，为姐姐开路，要姐姐们出道。@MENGPick姐姐：宁静在乘风破浪中迅速成长的姐姐宁静，一直是大家关注的焦点。初来节目满面愁容地说&ldquo;这么多娘们在一起可怎么办？&rdquo;的宁静，一副不想成团的样子，到了评委面前，又用强大的逻辑把评委绕晕，说自己虽然很怕跳舞但还是很想跳舞，可真的挑战跳舞又还是不想，可是不想跳舞又没有挑战，可是真的挑战又还是讨厌&hellip;&hellip;最终绕不过&ldquo;真香&rdquo;定律，在和团员训练相处的过程中越来越享受，越来越&ldquo;柔软&rdquo;，直到完全改变了最初的想法，发现女团其实很不简单，大家要齐心协力才会有精彩表现，原本最讨厌跳舞的她，变成了团里跳舞练习最勤奋的人，原本只想着C位出道的她，变成了大家的精神支柱。在阿朵被袁咏琳勾起眼泪，没有自信的时候，宁静一把将她抱住，拥入怀中；当大家都哭了的时候，宁静瞪眼皱眉道：我就在想，为什么我没有哭？为什么？我不知道。于是，我们看到的宁静变了，她不止是&ldquo;长大了&rdquo;，也同时变得&ldquo;少女&rdquo;了，一个人怎么能一边变得成熟大气，一边变得可爱单纯呢？在公演的时候，宁静一身银色制服，飒到逆天，她浑厚的高音惊艳了浪花们，更令人惊艳的是她充满爆发力的舞蹈动作，宁静真的不&ldquo;宁静&rdquo;，她是一座火山，当她沉静的时候，那股热情之火其实一直在默默燃烧。&ldquo;真香&rdquo;的宁静，真是一个宝藏，因为你永远不知道，她下一秒会给你什么惊喜，不知道她会&ldquo;成长&rdquo;成什么可爱模样。&nbsp;@kimiPick姐姐：张雨绮如果用一个词来形容张雨绮，那么必然是：强势。连她对自己的认识都是：自带光环，没光也要自己补一个！然而，当所有人满心期待这个直来直去的大妞会在节目中和别的姐姐碰撞出什么火花时，大家惊讶地发现，原来又飒又刚的张雨绮也有可爱的一面。她用身体力行告诉你，所谓的高冷都是误解。那些自然流露出的小动作，姐姐们谁看了不夸一句&ldquo;可爱&rdquo;。别人是来享受30+生活，只有她是来给自己补过一个少女时代。她毫不避讳对C位和成功的渴望，和团员们谈起对公演曲目的感受，只有她的回答是：我们的直接目标难道不是拿第一，成团出道？对自己的唱跳实力有着&ldquo;迷之自信&rdquo;，别的女艺人都想重新再试一次，只有她说&ldquo;没事，我就是最好的！&rdquo;这份可爱与自信，让一众评委憋着笑不忍心拆穿。嫌弃自己眼影太重&ldquo;像孙悟空&rdquo;，受到节目组安慰自嘲性格并没有那么好；被评委问到选歌是否有什么意义，她大胆坦白&ldquo;这是我唯一能完整唱下来的歌&rdquo;。张∙直言不讳∙雨绮永远走在自黑第一线，时常被她耿直认真的可爱发言戳中笑点，妥妥承包节目的所有欢乐。但如果你以为她的&ldquo;自黑&rdquo;是为了少挨骂、为不努力找理由，那就大错特错了。相反，她是七人团里排练起来最不知疲倦的那一个。一边自信，却也一边清醒地认识到自己是&ldquo;才艺黑洞&rdquo;。那些看上去的&ldquo;强大&rdquo;都是她对自己的要求。即便内心住着一个&ldquo;小公举&rdquo;，也需要得到他人的肯定。一句夸奖，一句赞同都能让她瞬间满血复活。既然如此，那么我想对她说一句：琦琦子，请带着这份可爱与自信，出道吧！&nbsp;@笙笙不兮Pick姐姐：万茜姐姐团里，万茜绝对是我心中最特别的存在。有观众缘也就罢了，参加个综艺，直接炸出半个娱乐圈的男神为她加油，胡歌、孙红雷、徐峥、朱亚文、雷佳音&hellip;&hellip;堪称最豪华打call阵容。最神奇的是，在以塑料姐妹花著称的娱乐圈，她也拥有极佳的人气，许多姐姐都直言想与她成团：毕竟万茜身上的气质太特殊，太迷人了，集高冷、寡言、真实、妩媚、男友力于一身的女明星，圈里真的不多见。她亲疏有度，不假装热络，也不会刻意将谁冷落。第一期开场，姐姐们初相见，各自都展现出自己无与伦比的亲切友好表现力，只有万茜单手背后，礼貌与人握手的同时，全程只说四个字：你好，万茜。这份浑然天成的飒气，相比于其他人长长一串的自我介绍与寒暄，万茜的从容与分寸感拿捏，可以说是令人相当舒适了。第二期，姐姐们回到宿舍吃饭休息，金莎看着桌上的小龙虾，甜甜美美地说了一句想吃，万茜就默默递给她一个剥好的小龙虾。金莎有些不好意思地自嘲，好多男人要羡慕她了，茜茜子闻言淡漠一笑：&ldquo;羡慕就羡慕呗，那能怎么办呢？&rdquo;那若无其事的勾唇一笑，撩你撩得猝不及防！这些还只是舞台下的日常。舞台之上，万茜也同样魅力不凡。初舞台时，她一个人抱着把吉他，自弹自唱许飞的《敬你》，单一落座，忧郁洒脱的民谣气质就出来了。平心而论，这场演出并不完美，开场就出错，中途又弹错，对于专业歌手来说，这应该属于演出事故了。而万茜呢？依旧淡淡地，从容不迫地完成表演，没有一丝不相关的情绪表露。唱完最后一个音，她松弛一笑，没有慌张，也没有懊恼，说不上为什么，就是会让人在这样干净的笑容里自甘沉沦。她不随便展露脆弱一面，不代表真的铁石心肠。初舞台前，张雨绮在后台紧张得不行，直言好想要个拥抱。万茜在一旁听到，立即从身后安慰地抱住她，大姐姐般地轻拍后背，为她加油打气。第三期淘汰赛，万茜所在的5人团走了3人，是损失最惨重的一组。得知结果的那一刻，万茜的表情有一瞬间的凝重，却为了不让彼此尴尬，佯装无事地与其他人开玩笑，直到分别过后，才在回去的走廊里与金莎抱在一起哭泣，释放心中不舍，坦言自己有点被伤到了。所以你问我为什么喜欢万茜？因为她有颜值，有演技，有才艺，活得真实洒脱又舒适，不矫情，不做作，可以将英气与柔媚完美糅杂。最最重要的是，这张清冷面孔底下藏着的，是一颗温暖柔软的心啊。&nbsp;@焦雨溪Pick姐姐：黄龄黄龄似乎一直没有特别红，或者说，她和她的歌都未曾频繁出现在热搜上。在我的音乐观里，她的定位有点像唱《像天堂的悬崖》的李佳薇，演唱技巧已经算是登峰造极，自身天赋也绝对过人，但是不知为何一直没有大火。我在心里给她找过理由：或许是因为歌曲难度太高，KTV里用不到。乘风破浪的姐姐中，黄龄开口问好的讲话调子都能勾得我想起那首《风月》，虽然早就在心里预设了要Pick她，还是忍不住喜欢得更深了。神态中不难发现，即使年龄渐长，她还是那个天马行空，夜晚在浴室唱歌时要用唇釉在右脸花蝴蝶的鬼马女人。黄龄的演唱方式很特别，100分的声线，还要加上120分的演唱技巧和情感输出。发声位置奇特，真假音转换的忽强忽弱是极难把握的。尤其是她的咬字方式，配合着胸式呼吸和腹式呼吸的来回切换，像个成了仙的鬼魅，带着人间的烟火气和美女妖的妖气，还有掺杂其中的仙气。多年前我为歌狂里，她曾演唱《玫瑰玫瑰我爱你》，推荐指数五颗星。但其实最吸引我的是她原本的性格，多年前《痒》刚刚发行时，她在快乐大本营上那句&ldquo;这首歌全中国只有我唱的了&rdquo;实在是让屏幕前的我又惊讶又喜欢。如今在乘风破浪的姐姐的舞台上，黄龄唱起《芒种》，各大平台通稿是虞书欣般的&ldquo;黄龄小作精&rdquo;。这一切都让我更加怀念那个曾经霸气侧漏&ldquo;全国只有我能唱&rdquo;、唱起歌又魅惑动人的黄龄。看到那些新闻时内心不免有点心疼，这真的是她内心期待自己成为的样子吗？多年以来，黄龄一直曝光率不高，作为她的歌迷，每次去搜索她，都觉得她像是一个深谷里，静静修炼准备成仙的美艳鬼魅。点进她的社交网络，扣动鼠标后，音箱传来她的歌声，我总觉得是那深谷传来的最迷人的呼唤。&nbsp;@鹿西兮&nbsp;Pick姐姐：蓝盈莹一束红光从高空射向舞台，将一人一琴与周围黑暗分割开。就在那道光里，琴声响起，配上温柔迷人的音色，这是蓝盈莹的第一次solo舞台。她一身黑色纱裙，利落短发，银色发饰垂于耳畔。轻柔琴声过后，她抬眸，眼中闪光，音调一转，开始一段利落干净的舞蹈。这次的她来到舞台，不同于之前实力派演员的形象。她评价自己是个具有&ldquo;狼性&rdquo;的人，这让我很惊讶。一个看起来如此瘦弱的女孩，怎能与&ldquo;狼性&rdquo;这个词相连。于是我去翻看她的微博，关于运动打卡，读书笔记，弹尤克里里唱歌，她的梦想很多，而她一一尝试，自律认真，做到极致。我本想以&ldquo;斜杠青年&rdquo;这个词来形容，如今却发现这不足以概括全部的她。她更像是潇洒的人间精灵，认真中带点玩味，自律中饱含洒脱，她挣脱束缚，果断告别过去的审美表达。她是徒手建城堡的谦逊姑娘，也是踏浪而行的完美姐姐。她说，&ldquo;我希望可以展现给大家看，我干一行像一行。&rdquo;这句&ldquo;干一行像一行&rdquo;直戳我心窝，比起此行突破自我的目的，她更多了一份对女团的尊重与热爱。她真的在将唱跳这件事，努力纳入自己的梦想行列。第一次的公演舞台，已然能够看到独属于她的魅力与风格。在我眼里，此刻的她就像一棵绿色植物，收集甘露，沐浴阳光，拼命生长，自然灵动。她代表的是生命的力量，更蕴藏着女性面对自我时的野心与荣耀。&nbsp;@不辣Pick姐姐：吴昕花艺老师说：&ldquo;这件事做久了，你会发现自己喜欢叶子胜过花&rdquo;，这是曾之乔在接受采访时说的一句话。她把自己比喻成&ldquo;绿色植物&rdquo;，因为早年出道，自己无法在美女如云的娱乐圈脱颖而出，常常只能如叶子一般存在。直到多年后，她才发现原来绿色植物也很美，美在细腻柔软，美在强壮坚韧。绿色植物的美，是舒服的，是自在的，是不争不抢之下的寂静绽放。如果要在&ldquo;乘风破浪的姐姐们&rdquo;中选一个是有绿色植物之美的，我会选：吴昕。无论是主持人的身份，还是演员的新标签，抑或是此刻舞台上闪闪发光的你，你的美总是那么寂静。没有玫瑰的艳丽，没有牡丹的惊艳，甚至有些不起眼，但如绿色植物的你，在焦点外的广阔天地，依然默默生长，丝毫不着急证明自己。时而，你是柔软青草，细腻清新；时而，你又是葱郁大树，霸气扎根。你寂静的美，以一种无比强大的气场在侵占着舞台，那种气场是自我接纳的力量，是不必勉强自己伪装成一朵花的自如。就算是最后一个出场，就算对面是劲敌《大碗宽面》，你如绿色植物般的生机勃勃，还是为把无穷能量注入给了&ldquo;艾瑞巴蒂&rdquo;。未来征途，请继续放肆释放无尽力量！乘风破浪，披荆斩棘！&nbsp;@颗馨Pick姐姐：郁可唯今年是我的喜欢郁可唯的第十年。她去参加了《乘风破浪的姐姐》，变成了&ldquo;大Vocal&rdquo;。十年来，她从&ldquo;快乐女声&rdquo;第四名变成了&ldquo;OST女王&rdquo;，在&ldquo;女团选秀&rdquo;还没盛行起来的年代，她出道签约&ldquo;滚石唱片&rdquo;，去过台湾发专辑，入围过金曲奖，和张震岳、伍佰合作，后来，演音乐剧，唱各种电影、电视剧的主题曲。这些年来，作为歌手，她上过&ldquo;蒙面歌王&rdquo;&ldquo;歌手&rdquo;，也上过&ldquo;春晚&rdquo;，自己化妆，给歌迷手写歌词，总是&ldquo;怼粉&rdquo;，直播的时候不愿意唱&ldquo;太幼稚&rdquo;的歌，&ldquo;乘风破浪&rdquo;以后，总是被逼着练舞，被提醒多多露腿。曾经，评委夸她&ldquo;好会唱&rdquo;，现在她越来越会唱，第一场表演她唱了自己写的歌，&ldquo;我乐意， 我喜欢，我讨好不了，但我懂得爱。&rdquo;歌很简单，比起其他&ldquo;姐姐&rdquo;，少了很多华丽，也没唱大家最熟悉她的那几首歌。这是她的勇敢，做自己的勇敢，哪怕这个自己可能有点普通，有点&ldquo;佛系&rdquo;，不那么适合竞技舞台。第一场表演，她给人的印象不深刻，戴着面具，想躲起来，让人惊讶的可能是第一轮公演选组的时候，她出人意料的去《大碗宽面》组。&ldquo;大vocal&rdquo;的标签太牢固了，是时候做点不一样的事了。&ldquo;乘风破浪&rdquo;的意义是什么？台上的&ldquo;姐姐们&rdquo;都是已经找到了自己，有了最明确方向，也在自己的领域多多少少有点成绩的人。可是，要打破，最初贴上的标签，要一个个撕掉，要让别人看看，&ldquo;姐姐&rdquo;不止是&ldquo;姐姐&rdquo;，要让年龄从数字，从恐惧变得迷人起来，从现在开始，年龄不再是变老的象征，女人一起的节目也不是只有勾心斗角，我们想你看到一个真实，生动的&ldquo;姐姐&rdquo;，各种各样，有棱角有个性，像一个真正的明星，而不是范式的偶像。青春没有年龄界线，是一种心态，一种感受，一种氛围。我们享受热血，憧憬希望，那我们就依然青春，依然可爱。镜头之下，姐姐们已不再是姐姐们&mdash;&mdash;她们褪去了昔日的光环，一个个回归到了相对的原本模样；她们相识、相聚又分离；她们变得爱哭，柔软，懂得卸下铠甲，也开始毫不掩饰地撒娇，一时之间回到了曾经的少女时代。她们或许个个奔着&ldquo;C位&rdquo;而来，带着不言而喻的野心，但过程漫长，当熊熊斗志被一次又一次地浇灭时，她们却都不带怕的，再苦再累也没有一人放弃。这是来自姐姐们的浪漫，也是来自姐姐们的执着，这是她们对自我最好的诠释，也是她们解释&ldquo;为什么会优秀&rdquo;的最好答案。这条花路到底还是不好走，要付出汗水和时间，要适应团体生活，更要有人爱有人疼。愿她们这一路有光，乘风破浪！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 六月最后一天，跟着姐姐们乘风破浪吧",
+                        "desc": "文/MENG等七位作者 无价之姐，你Pick谁？",
+                        "link": "http://m.wufazhuce.com/movie/2015?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 六月最后一天，跟着姐姐们乘风破浪吧",
+                        "desc": "文/MENG等七位作者 无价之姐，你Pick谁？",
+                        "link": "http://m.wufazhuce.com/movie/2015?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 六月最后一天，跟着姐姐们乘风破浪吧》 文/MENG等七位作者： 无价之姐，你Pick谁？ 阅读全文：http://m.wufazhuce.com/movie/2015?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2015?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "六月最后一天，跟着姐姐们乘风破浪吧",
+                        "desc": "无价之姐，你Pick谁？",
+                        "link": "http://m.wufazhuce.com/movie/2015?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20489",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3175",
+                "title": "既不回头，何必不忘",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FuYq6hzpUAkKE0sqBhQjwooQfrXx?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1810,
+                "post_date": "2020-06-30 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3175",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3175",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 既不回头，何必不忘",
+                        "desc": "仙剑奇侠昔少年，仙灵岛上别洞天",
+                        "link": "http://m.wufazhuce.com/radio/3175?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lgwbjp48MRgXfOLYq8H13Bhci_5l"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 既不回头，何必不忘",
+                        "desc": "仙剑奇侠昔少年，仙灵岛上别洞天",
+                        "link": "http://m.wufazhuce.com/radio/3175?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lgwbjp48MRgXfOLYq8H13Bhci_5l"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 既不回头，何必不忘》 主播/马晓橙： 仙剑奇侠昔少年，仙灵岛上别洞天 阅读全文：http://m.wufazhuce.com/radio/3175?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3175?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lgwbjp48MRgXfOLYq8H13Bhci_5l"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "既不回头，何必不忘",
+                        "link": "http://m.wufazhuce.com/radio/3175?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lgwbjp48MRgXfOLYq8H13Bhci_5l"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 843 期",
+                "audio_url": "http://music.wufazhuce.com/lgwbjp48MRgXfOLYq8H13Bhci_5l"
+            }
+        ],
+        "menu": {
+            "vol": "2824",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4370",
+                    "title": "寻亲"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1224",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第七章：绝路少女"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2894",
+                    "title": "如何与控制欲强的人相处？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2015",
+                    "title": "六月最后一天，跟着姐姐们乘风破浪吧"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3175",
+                    "title": "既不回头，何必不忘"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

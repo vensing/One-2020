@@ -1,0 +1,628 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5428",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-28 06:00:00",
+        "content_list": [
+            {
+                "id": "19860",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2741",
+                "title": "摄影",
+                "forward": "不存在十全十美的文章，如同不存在彻头彻尾的绝望。",
+                "img_url": "http://image.wufazhuce.com/FsKgwKw7-ATn6g65yWX2QgZ2m8YW",
+                "like_count": 17433,
+                "post_date": "2020-02-28 06:00:00",
+                "last_update_date": "2020-02-23 12:51:38",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2701",
+                "pic_info": "Sedky",
+                "words_info": "村上春树",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2741",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2741",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2741",
+                    "image": "http://image.wufazhuce.com/FsKgwKw7-ATn6g65yWX2QgZ2m8YW",
+                    "title": "VOL.2701",
+                    "content": "不存在十全十美的文章，如同不存在彻头彻尾的绝望。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2741?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2741?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 不存在十全十美的文章，如同不存在彻头彻尾的绝望。——村上春树 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2741?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2741?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19875",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4216",
+                "title": "春风拂过梅花",
+                "forward": "有的人，只要见一面，就会在你的心里留下一生的烙印。",
+                "img_url": "http://image.wufazhuce.com/Fqrej1sTurjN6zVhv1LFhxa3d0SN",
+                "like_count": 2982,
+                "post_date": "2020-02-28 06:00:00",
+                "last_update_date": "2020-02-28 12:55:01",
+                "author": {
+                    "user_id": "11094569",
+                    "user_name": "顾不若",
+                    "desc": "90后处女座，喜欢推理小说和豚骨拉面。最喜欢的漫画是《JOJO的奇妙冒险》。最喜欢的偶像组合是乃木坂46，睡不着的时候会一个人去KTV唱一会儿乃木坂46的歌。喜欢旅行，但不喜欢去热门景点。最想去的地方是海边和孤岛。家附近有一座赛车场，有时会过去看比赛。",
+                    "wb_name": "@顾不若",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "豚骨拉面爱好者，自称青浦第一伽罗。",
+                    "fans_total": "102",
+                    "web_url": "http://image.wufazhuce.com/Fk5mFVUD5k4SGIFUAd-WmMhVTmeo"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4216",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4216",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4216",
+                    "image": "http://image.wufazhuce.com/Fqrej1sTurjN6zVhv1LFhxa3d0SN",
+                    "title": "春风拂过梅花 作者/顾不若",
+                    "content": "你愿意娶我吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 春风拂过梅花",
+                        "desc": "文/顾不若 你愿意娶我吗？",
+                        "link": "http://m.wufazhuce.com/article/4216?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 春风拂过梅花",
+                        "desc": "文/顾不若 你愿意娶我吗？",
+                        "link": "http://m.wufazhuce.com/article/4216?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 春风拂过梅花》 文/顾不若： 你愿意娶我吗？ 阅读全文：http://m.wufazhuce.com/article/4216?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4216?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "春风拂过梅花",
+                        "desc": "你愿意娶我吗？",
+                        "link": "http://m.wufazhuce.com/article/4216?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19890",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4221",
+                "title": "那些关于人生的错觉",
+                "forward": "了解自己不是件容易的事，因为人的错觉太多了。",
+                "img_url": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                "like_count": 2674,
+                "post_date": "2020-02-28 06:00:00",
+                "last_update_date": "2020-02-27 20:48:37",
+                "author": {
+                    "user_id": "10264854",
+                    "user_name": "张拉灯等二位",
+                    "desc": "一个App编辑。",
+                    "wb_name": "@张拉灯_",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个App编辑。",
+                    "fans_total": "4751",
+                    "web_url": "http://image.wufazhuce.com/Ftljx61tLjt8NU-9P9umT998ryhe"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4221",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4221",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4221",
+                    "image": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                    "title": "那些关于人生的错觉 作者/张拉灯、曲尚",
+                    "content": "了解自己不是件容易的事，因为人的错觉太多了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 那些关于人生的错觉",
+                        "desc": "文/张拉灯等二位 了解自己不是件容易的事，因为人的错觉太多了。",
+                        "link": "http://m.wufazhuce.com/article/4221?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 那些关于人生的错觉",
+                        "desc": "文/张拉灯等二位 了解自己不是件容易的事，因为人的错觉太多了。",
+                        "link": "http://m.wufazhuce.com/article/4221?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 那些关于人生的错觉》 文/张拉灯等二位： 了解自己不是件容易的事，因为人的错觉太多了。 阅读全文：http://m.wufazhuce.com/article/4221?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4221?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "那些关于人生的错觉",
+                        "desc": "了解自己不是件容易的事，因为人的错觉太多了。",
+                        "link": "http://m.wufazhuce.com/article/4221?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "19873",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1117",
+                "title": "两次破碎·第十六章：哭吧孩子",
+                "forward": "岁月终于也把她磨成了一个孩子。一个难得有机会哭一哭的孩子。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 901,
+                "post_date": "2020-02-28 06:00:00",
+                "last_update_date": "2020-04-07 16:26:26",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第16章",
+                "number": "16",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1117",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1117",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1117",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第十六章：哭吧孩子 作者/连筑",
+                    "content": "岁月终于也把她磨成了一个孩子。一个难得有机会哭一哭的孩子。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第十六章：哭吧孩子",
+                        "desc": "文/连筑 岁月终于也把她磨成了一个孩子。一个难得有机会哭一哭的孩子。",
+                        "link": "http://m.wufazhuce.com/serial/1117?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第十六章：哭吧孩子",
+                        "desc": "文/连筑 岁月终于也把她磨成了一个孩子。一个难得有机会哭一哭的孩子。",
+                        "link": "http://m.wufazhuce.com/serial/1117?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第十六章：哭吧孩子》 文/连筑： 岁月终于也把她磨成了一个孩子。一个难得有机会哭一哭的孩子。 阅读全文：http://m.wufazhuce.com/serial/1117?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1117?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第十六章：哭吧孩子",
+                        "desc": "岁月终于也把她磨成了一个孩子。一个难得有机会哭一哭的孩子。",
+                        "link": "http://m.wufazhuce.com/serial/1117?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19878",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2770",
+                "title": "怎样面对爱情里的沉没成本？",
+                "forward": "丢弃它们就像是拆掉一座被很缓慢地盖起来的小楼，再砸掉它门口的信箱，每一片砖瓦、每一处摆设都让你想驻足，那是你的昨日啊，你心想。",
+                "img_url": "http://image.wufazhuce.com/Fs12bzNytTlpaq-23N_90IXvvMFh",
+                "like_count": 2811,
+                "post_date": "2020-02-28 06:00:00",
+                "last_update_date": "2020-02-27 16:41:42",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "回忆妖精",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2770",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2770",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2770",
+                    "image": "http://image.wufazhuce.com/Fs12bzNytTlpaq-23N_90IXvvMFh",
+                    "title": "怎样面对爱情里的沉没成本？",
+                    "content": "怎样面对爱情里的沉没成本？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎样面对爱情里的沉没成本？",
+                        "desc": "文/陈大力 念旧几乎是无解的。",
+                        "link": "http://m.wufazhuce.com/question/2770?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎样面对爱情里的沉没成本？",
+                        "desc": "文/陈大力 念旧几乎是无解的。",
+                        "link": "http://m.wufazhuce.com/question/2770?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎样面对爱情里的沉没成本？》 文/陈大力： 念旧几乎是无解的。 阅读全文：http://m.wufazhuce.com/question/2770?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2770?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎样面对爱情里的沉没成本？",
+                        "desc": "念旧几乎是无解的。",
+                        "link": "http://m.wufazhuce.com/question/2770?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "7989297",
+                    "user_name": "陈大力",
+                    "desc": "陈大力，95后新锐作者，无敌大长腿，钻石少女心。公众号：陈大力（ID:chendali1995）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "95后新锐作者，无敌大长腿，钻石少女心。",
+                    "fans_total": "9855",
+                    "web_url": "http://image.wufazhuce.com/Fm7qZ68h0XjMceY1WWp7-ykCX29R"
+                }
+            },
+            {
+                "id": "19871",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3215",
+                "title": "你是我的半截诗，不许别人更改一个字",
+                "forward": "原来感情这件事，当确定是某个人时，真的会满心眼里都是她，哪怕过去再多年，你也依旧爱着，谁都没法动摇。",
+                "img_url": "http://image.wufazhuce.com/FmW0ejPCMJR3luNwukRRZ7TBQZxv",
+                "like_count": 2246,
+                "post_date": "2020-02-28 06:00:00",
+                "last_update_date": "2020-02-28 08:40:48",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lvkH8gBaLc0217rFKHk4hjZ-2Ih_",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "你的漩涡融化我的睡意之前",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3215",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3215",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3215",
+                    "image": "http://image.wufazhuce.com/FmW0ejPCMJR3luNwukRRZ7TBQZxv",
+                    "title": "「一个」音乐: 姜乐辛 你的漩涡融化我的睡意之前",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  对简恩来说，顾念是他人生中的一束光芒，照亮他后面的人生。对顾念来说，简恩是她人生中的一面镜子，正面她将来的生活。&nbsp;1.简恩初见顾念是新生开学，初来乍到的顾念，找不到地方领宿舍钥匙。正好简恩打完球，路过她身边，见她拿着手中的指示单四处摆弄。&ldquo;同学有什么需要帮忙？&rdquo;简恩对面前的顾念说道。这是顾念来学校第一个跟她说话的人，她抬头看向他：&ldquo;您好，请问新生宿舍钥匙在拿领？&rdquo;顾念见他笑起来的模样倒也不算坏人，甚至还有点帅气。&ldquo;我叫顾念，是大一新生，你叫什么？&rdquo;说着将手中拿钥匙的单子递给简恩。简恩接过，看了眼单子，又将目光移到顾念身上：&ldquo;简恩，大三老生。&rdquo;顾念嘴里叨叨着简恩的名字，心里想着这名字真有寓意。俩人就这样认识，简恩带着顾念去领钥匙，路上碰到熟人，大家都一脸八卦的看着他们。领完钥匙，顾念加上简恩的微信，说下次请他吃饭，这次她得先收拾宿舍。生活步入正轨后，顾念经常找简恩吃饭，出去玩，简恩也从来不拒绝，有简恩的地方就有顾念，而有顾念在的场合，简恩也都不会缺席。大家渐渐习惯看到他们，简恩也常常带着顾念跟自己朋友吃饭，参加各种活动。对顾念来说，她的快乐，大部分上都是简恩给的。时间久了，明眼人都能看的出来，他们对彼此都有意思，但谁都不挑明，身边人也当不知道，只是偶尔来逗逗他们。不说口的爱，也许都有些难言之隐。&nbsp;2.不知什么时候起，顾念开始买化妆品，注重自身的穿衣搭配。从前素面朝天，出门只洗把脸，扎个马尾的她，现在出门前都会对着镜子化个妆。简恩有天喊她出去吃饭，见她带妆，一时没认出来。他印象中的顾念，都是素颜。而今天顾念化着妆，竟多了种韵味，显得更吸引人。&ldquo;化上妆跟平时有些不同。&rdquo;简恩夸道。他们那天去程易家，程易是简恩发小，听说他交了新女友，打算带他们见见，所以约在家里，亲自给他们做顿饭吃。程易对简恩说，务必带上顾念，女生跟女生更有话题。男生聚会一般都爱喝酒，简恩也不例外，但自从认识顾念，他喝酒的次数少了很多。他说他自己没事，可他得照顾好顾念。到程易家门口，开门的是他女朋友。她叫林橙，成都人。打声招呼，林橙拉着顾念的手，给她推荐适合她的化妆品，顾念是新手，对这些自然是感兴趣，她仔细听着哪些好用，哪些得避开。一旁的简恩见顾念说说笑笑，嘴角也不自觉上扬，重重叹口气。&ldquo;还不打算坦白心意？都这么久了，也该跟人家说清楚，你不能因为她像谁，就这样把她留在身边，不清不白的，这对人家女生的名声也不好。&rdquo;简恩当然知道。这么久以来，他去哪都带着顾念，他恨不得顾念每秒钟都在他身边，因为顾念太像她了，可惜当初他们还没来得及在一起，女生就因为车祸去世。这种在偶像剧中出现的滥俗桥段，如今却真真实实发生在他身上。他没法接受事实，始终逃避，在那后，他害怕自己再次失去，可当他第一次见到顾念时，他知道他躲不过了。那瞬间，他很想再拥有她，但他害怕会像当初一样，所以他不敢。人在面对感情时，终究是害怕的，尤其是曾经失去过。&nbsp;3.顾念生日那天，请身边朋友吃饭，摆出蛋糕许愿时，顾念说，她希望她能够和喜欢的人在一起。大家都知道她说的是谁，也都知道她是什么意思，所有人的目光都放在简恩身上，沉默几秒后，简恩没有动静，顾念自己为了打破尴尬，便开口说：&ldquo;来，大家一起吹蜡烛&rdquo;。简恩只是看着顾念，一句话话都没说，甚至连句生日快乐都没有。谁都不知道他心里在想什么，或许他也很纠结，该做出怎样的选择，才是最正确的。他不愿意将顾念当做谁的替代品，那样对谁都不公平，所以他还想再给自己一些时间，这些事，他也希望能永远是秘密。生日会结束，他将顾念送回宿舍，临走将手中的生日礼物递给她，说了句：生日快乐，念念，以后也都要快乐。说这话的时候，他眼眶有些湿润，想再说些什么，又不知道怎么说。第二天，顾念给简恩发信息，简恩没有回复她。后来的很多天，简恩都没有再联系她，他像是人间蒸发一样，彻底消失在她的生活中。简恩离开后，顾念的生活像是缺了什么，她找到程易，程易说他也没见到简恩。她不知道为什么简恩会离开，毫无征兆，连一句话都没留下。人的缘分就是这样，谁都不知道，刚刚见过的人，是不是你们这辈子的最后一面。也许是，但你没好好见他，所以后来你一直留有遗憾。&nbsp;4.没有简恩的生活，顾念将时间都花在学习和娱乐上，她不敢自暴自弃，因为她总觉得简恩会回来，而简恩想看到的是一个快乐的她。如果你喜欢的人给你带来的都是满满正能量，你因为他变得越来越好，有自己的生活，交许多朋友，那这样的人，是值得喜欢的。顾念积极参加各种活动，交了不少朋友。实习那年，她选择去北京。她记得曾经简恩跟她提过，他喜欢北京那座城市，以后有时间有机会，一定要去看看，或许还会留下来。去北京的生活，没有顾念想象的那么难熬，她靠着自己的写作能力以及大学期间在新媒体公司实习，她顺利进入这一行，加入优秀团队，每天报选题，写稿子，工作逐渐成为她唯一动力。她在公司周边租了房子，室友是女生，性格跟她也合得来。俩人相处很好，经常一起做饭，有空就出去逛街，去书店看书。因为有室友在，顾念觉得自己在北京也不算孤独，起码每晚，都有人在等她回家。这些年，她一直尝试着联系简恩，但始终没得到回应，她开始不再相信&ldquo;念念不忘，必有回响&rdquo;这句话。有时候，她甚至在想，哪怕她知道简恩是否还活着的消息，那也是一个消息。简恩在她记忆中住了很多年。或许，也到该放下的时候。转正后的顾念，越发成熟，对待工作和同事，都不再像当初那样，畏畏缩缩，有想要报的选题，因为害怕说出口从而错过。她的生活也越来越好。在她25岁生日那天，也就是年初，她突然收到简恩的祝福：生日快乐，念念，以后你也要快乐。顾念打开手机看到这条消息，以为自己眼花，她已经整整四年没收到简恩的消息，她还以为简恩再也不联系她。可她没有立刻回复简恩，她心里十分慌张，不知道该怎么面对他。当初他突然离开，一句话都没有，现在说回来就回来，凭什么。见顾念许久没回复，简恩打了电话过来，他约在顾念家边的一家咖啡厅见面，这家咖啡厅，正是顾念常去的。顾念犹豫许久才去赴约，她穿着刚来北京的那件裙子和高跟鞋，走到简恩身边，看着简恩的眼睛，不知道该说些什么。简恩带着顾念坐下，他跟顾念坦白，那晚他家庭出了变故，父母闹离婚，奶奶又气急攻心去世，整个家庭支离破碎，他没法面对顾念，他只能选择逃避。包括他当时不愿意说的那个秘密，如今他也一起告诉顾念。顾念没想到他这几年的生活是这样，她忍住眼泪，对简恩说，如果当初他愿意说，她一定会陪在他身边，不管怎样，都不会放弃他。哪怕她像她。&ldquo;在我刚离开的那年，我就知道自己是爱你的，但那时候我没法面对自己，面对你。所以这些年，我选择逃避，但我从来没有停止爱你。&rdquo;简恩一直通过朋友了解顾念的消息，顾念生病，会收到药；生日会收到蛋糕；每周都会收到零食。就连她去北京，也都会时常收到礼物。她默默听着，心里在想，这些年，他得多难熬。&nbsp;5.那一天，简恩捧着蛋糕问顾念：今年你的生日愿望是什么？顾念这回，没将愿望说出口，而是在心里许下。简恩将这几年存下的礼物递给她，她看着简恩，眼眶湿润的说声谢谢。为了离顾念近点，简恩选择留在这座他曾经喜欢的城市，他们经常见面，像当初那样形影不离，顾念的生活，因为再次有简恩之后，有所改变。同年的九月，简恩带顾念去游乐场，他们路过卖花的小朋友身边，小朋友问简恩要不要买朵送给漂亮姐姐。简恩挑了束红色，正好配顾念身上的衣服。顾念接过花，准备往前走，简恩突然拉着她的手，单膝跪在她面前，对她说：念念，今天是我们认识的第六年，当初因为我的不果断，导致我们错过很多年，这些话，也迟了很久才对你说。对不起，念念，你愿意给我一个机会补偿你，愿意让我爱你吗？顾念没想过会有这么一天，哪怕她期待已久，但真的发生时，却还是感到意外。程易和林橙从人海中走到他们面前，林橙将手中的气球送给顾念，她抬头看着气球，上面写着她的名字。林橙在她耳边轻声说道：小顾同学要幸福呀。顾念听到这话，再次脸红，像简恩初次带她见朋友一样。她看着蹲在她面前的简恩，笑着把手递给他，她说她愿意。林橙给他们拍了一张合影，简恩发到朋友圈：她说，她愿意。&nbsp;6.幸好，简恩在顾念决定放弃的那年，再次回到她身边。幸好，他们最终没有错过，再次相爱，牵手恋爱，陪在彼此身边。原来感情这件事，当确定是某个人时，真的会满心眼里都是她，哪怕过去再多年，你也依旧爱着，谁都没法动摇。我见过太多错过的爱情故事，像简恩和顾念这样兜兜转转又回到起点的爱情，却很少见。后来的简恩，他眼里都是顾念，他将从前没给顾念的，全都一点一点在补偿。后来的顾念，她眼里都是简恩，她将从前没说出的爱，全都一点一点在表明。就在刚刚，我收到顾念的微信，她告诉我：乐辛，我寻了半生的春天，他一笑便是了。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你是我的半截诗，不许别人更改一个字",
+                        "desc": "文/姜乐辛 春天有你在，才是温暖。",
+                        "link": "http://m.wufazhuce.com/music/3215?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你是我的半截诗，不许别人更改一个字",
+                        "desc": "文/姜乐辛 春天有你在，才是温暖。",
+                        "link": "http://m.wufazhuce.com/music/3215?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你是我的半截诗，不许别人更改一个字》 文/姜乐辛： 春天有你在，才是温暖。 阅读全文：http://m.wufazhuce.com/music/3215?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3215?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你是我的半截诗，不许别人更改一个字",
+                        "desc": "春天有你在，才是温暖。",
+                        "link": "http://m.wufazhuce.com/music/3215?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "你的漩涡融化我的睡意之前",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "沙楠杰",
+                "audio_album": "你的漩涡融化我的睡意之前",
+                "cover": "http://image.wufazhuce.com/FhOOu77ZcCw3yyCpUBAvfSCerJsy",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2701",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4216",
+                    "title": "春风拂过梅花"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4221",
+                    "title": "那些关于人生的错觉",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1117",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第十六章：哭吧孩子"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2770",
+                    "title": "怎样面对爱情里的沉没成本？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3215",
+                    "title": "你是我的半截诗，不许别人更改一个字"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

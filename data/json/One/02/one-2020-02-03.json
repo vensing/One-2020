@@ -1,0 +1,628 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5402",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-03 06:00:00",
+        "content_list": [
+            {
+                "id": "19713",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2716",
+                "title": "摄影",
+                "forward": "最长的路也有尽头，最黑暗的夜晚也会迎接清晨。",
+                "img_url": "http://image.wufazhuce.com/FnmYt-S_8Kzz8icF056GP7tTwEJa",
+                "like_count": 20881,
+                "post_date": "2020-02-03 06:00:00",
+                "last_update_date": "2020-02-01 17:59:30",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2676",
+                "pic_info": "Dapo Oni",
+                "words_info": "斯托夫人《汤姆叔叔的小屋》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2716",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2716",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2716",
+                    "image": "http://image.wufazhuce.com/FnmYt-S_8Kzz8icF056GP7tTwEJa",
+                    "title": "VOL.2676",
+                    "content": "最长的路也有尽头，最黑暗的夜晚也会迎接清晨。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2716?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2716?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 最长的路也有尽头，最黑暗的夜晚也会迎接清晨。——斯托夫人《汤姆叔叔的小屋》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2716?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2716?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19719",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4183",
+                "title": "落日酒店",
+                "forward": "遗忘了过去不要紧，重要的是好好活着，活着就可以创造新的记忆，只要好好活着，生命自有它的意义。",
+                "img_url": "http://image.wufazhuce.com/FrjGmTgVGGhCAjAs_iosAcsMglGo",
+                "like_count": 2844,
+                "post_date": "2020-02-03 06:00:00",
+                "last_update_date": "2020-02-02 21:29:53",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4183",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4183",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4183",
+                    "image": "http://image.wufazhuce.com/FrjGmTgVGGhCAjAs_iosAcsMglGo",
+                    "title": "落日酒店 作者/陈雪",
+                    "content": "落日酒店，美得让人舍不得死。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 落日酒店",
+                        "desc": "文/陈雪 落日酒店，美得让人舍不得死。",
+                        "link": "http://m.wufazhuce.com/article/4183?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 落日酒店",
+                        "desc": "文/陈雪 落日酒店，美得让人舍不得死。",
+                        "link": "http://m.wufazhuce.com/article/4183?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 落日酒店》 文/陈雪： 落日酒店，美得让人舍不得死。 阅读全文：http://m.wufazhuce.com/article/4183?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4183?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "落日酒店",
+                        "desc": "落日酒店，美得让人舍不得死。",
+                        "link": "http://m.wufazhuce.com/article/4183?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19718",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4182",
+                "title": "灾难面前，个体值得被记录 | ONE疫情故事征稿",
+                "forward": "无论你身处何方，从事着怎样的职业，无论你是在一线抗争，还是在与疫情所带来的变动抗争，你的声音都将是珍贵且独特的。",
+                "img_url": "http://image.wufazhuce.com/Fkj-BgOziE-jO3hiGQkDXsptnKQe",
+                "like_count": 3400,
+                "post_date": "2020-02-03 06:00:00",
+                "last_update_date": "2020-02-03 03:12:20",
+                "author": {
+                    "user_id": "5631435",
+                    "user_name": "ONE·一个 ",
+                    "desc": "ONE 是由韩寒监制的文艺生活应用，覆盖摄影、插画、小说、问答、音乐、电影等，精挑细选，每日更新。",
+                    "wb_name": "@一个App工作室",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "ONE·一个 是由韩寒监制的文艺生活应用",
+                    "fans_total": "5566",
+                    "web_url": "http://image.wufazhuce.com/FvSMJiVyijX8G4BFHwhvDprO5yvW"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4182",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4182",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4182",
+                    "image": "http://image.wufazhuce.com/Fkj-BgOziE-jO3hiGQkDXsptnKQe",
+                    "title": "灾难面前，个体值得被记录 | ONE疫情故事征稿 作者/ONE·一个 ",
+                    "content": "你的声音将是珍贵且独特的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 灾难面前，个体值得被记录 | ONE疫情故事征稿",
+                        "desc": "文/ONE·一个  你的声音将是珍贵且独特的。",
+                        "link": "http://m.wufazhuce.com/article/4182?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 灾难面前，个体值得被记录 | ONE疫情故事征稿",
+                        "desc": "文/ONE·一个  你的声音将是珍贵且独特的。",
+                        "link": "http://m.wufazhuce.com/article/4182?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 灾难面前，个体值得被记录 | ONE疫情故事征稿》 文/ONE·一个 ： 你的声音将是珍贵且独特的。 阅读全文：http://m.wufazhuce.com/article/4182?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4182?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "灾难面前，个体值得被记录 | ONE疫情故事征稿",
+                        "desc": "你的声音将是珍贵且独特的。",
+                        "link": "http://m.wufazhuce.com/article/4182?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19686",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1094",
+                "title": "两次破碎·第五章：封锁校园",
+                "forward": "窗外没有一丝风，整个世界像被烤化了，熔成一大摊泥，谁也挣不脱，逃不掉。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 855,
+                "post_date": "2020-02-03 06:00:00",
+                "last_update_date": "2020-04-07 16:07:05",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第5章",
+                "number": "5",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1094",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1094",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1094",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第五章：封锁校园 作者/连筑",
+                    "content": "窗外没有一丝风，整个世界像被烤化了，熔成一大摊泥，谁也挣不脱，逃不掉。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第五章：封锁校园",
+                        "desc": "文/连筑 窗外没有一丝风，整个世界像被烤化了，熔成一大摊泥，谁也挣不脱，逃不掉。",
+                        "link": "http://m.wufazhuce.com/serial/1094?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第五章：封锁校园",
+                        "desc": "文/连筑 窗外没有一丝风，整个世界像被烤化了，熔成一大摊泥，谁也挣不脱，逃不掉。",
+                        "link": "http://m.wufazhuce.com/serial/1094?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第五章：封锁校园》 文/连筑： 窗外没有一丝风，整个世界像被烤化了，熔成一大摊泥，谁也挣不脱，逃不掉。 阅读全文：http://m.wufazhuce.com/serial/1094?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1094?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第五章：封锁校园",
+                        "desc": "窗外没有一丝风，整个世界像被烤化了，熔成一大摊泥，谁也挣不脱，逃不掉。",
+                        "link": "http://m.wufazhuce.com/serial/1094?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19709",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2744",
+                "title": "喜欢一个不该喜欢的人怎么办？",
+                "forward": "我敬佩她能把不应该发生的喜欢藏在心里，如果不是酒精和毕业晚宴对情感的渲染作用，她也许能把这种心底最干净的喜欢埋藏一辈子。",
+                "img_url": "http://image.wufazhuce.com/FhNFaVZGyQ2HwJovaMoxUR9b6sdw",
+                "like_count": 2758,
+                "post_date": "2020-02-03 06:00:00",
+                "last_update_date": "2020-02-02 14:49:41",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "投李报桃",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2744",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2744",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2744",
+                    "image": "http://image.wufazhuce.com/FhNFaVZGyQ2HwJovaMoxUR9b6sdw",
+                    "title": "喜欢一个不该喜欢的人怎么办？",
+                    "content": "喜欢一个不该喜欢的人怎么办？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 喜欢一个不该喜欢的人怎么办？",
+                        "desc": "文/无支祁 处对象，一个就够了。",
+                        "link": "http://m.wufazhuce.com/question/2744?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 喜欢一个不该喜欢的人怎么办？",
+                        "desc": "文/无支祁 处对象，一个就够了。",
+                        "link": "http://m.wufazhuce.com/question/2744?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 喜欢一个不该喜欢的人怎么办？》 文/无支祁： 处对象，一个就够了。 阅读全文：http://m.wufazhuce.com/question/2744?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2744?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "喜欢一个不该喜欢的人怎么办？",
+                        "desc": "处对象，一个就够了。",
+                        "link": "http://m.wufazhuce.com/question/2744?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10244046",
+                    "user_name": "无支祁",
+                    "desc": "一个苏北人。",
+                    "wb_name": "@Hs无支祁",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个苏北人。",
+                    "fans_total": "4027",
+                    "web_url": "http://image.wufazhuce.com/Fj-LWuxxisWaGG3WCVC_kmIpmyVE"
+                }
+            },
+            {
+                "id": "19711",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3198",
+                "title": "我们最后都笑着，接受了所有的不欢而散",
+                "forward": "有些人，只适合用来错过。有些真心，他不要，她便收回。这些事，无论美好与否，终究都是停留在记忆中。",
+                "img_url": "http://image.wufazhuce.com/Fk6Exu_YcLRCTzvheQRHHthuioBV",
+                "like_count": 2422,
+                "post_date": "2020-02-03 06:00:00",
+                "last_update_date": "2020-02-03 11:42:31",
+                "author": {
+                    "user_id": "7820045",
+                    "user_name": "董大胆",
+                    "desc": "典型巨蟹座，微博@是董大胆",
+                    "wb_name": "@是董大胆",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "典型巨蟹座",
+                    "fans_total": "14449",
+                    "web_url": "http://image.wufazhuce.com/FuEA5ld2cD8j9-0b8BLXSk1fsgxC"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lkFxRi6T3vhrqCKj8eNFp82fD6XE",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "come and get it",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3198",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3198",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3198",
+                    "image": "http://image.wufazhuce.com/Fk6Exu_YcLRCTzvheQRHHthuioBV",
+                    "title": "「一个」音乐: 董大胆 come and get it",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.围观的人群逐渐散去，夏乔还紧紧攥着那杯被廖理弄洒一半的咖啡，无比倔强地站在原地，直到大厦里下班的人潮把她挤到了角落。在这个过程中，惯性使得那杯咖啡又洒出来一些，她把头埋得很低，企图掩饰自己的格格不入，混进人群中决心逃离。出口处有个垃圾桶，她毫无眷恋地将触感冰凉的杯子扔了进去。等绿灯的时候，她低着头用指腹摩挲着裙子上的咖啡渍，周围是暮色四合时逐渐亮起的街灯，脑海里却还萦绕着按下这段感情暂停键的那个人。&ldquo;我没事&rdquo;三个字，简短却沉重，模糊了人的判断力，结束了欲言又止的关心。它企图打断所有不合时宜的悲伤，却抵不过如海啸般蜂拥而至的回忆。2.夏乔在感情上一向是个不开窍的，但有些人天生情感丰富，深谙其中之道。比如廖理，就得称他为&ldquo;天赋型选手&rdquo;，而夏乔觉得自己顶多算处在及格线边缘的&ldquo;勤奋型选手&rdquo;。可惜，天道酬勤只适用于普遍规律。廖理见过夏乔两回，便开始追她。第一次是在夏乔朋友的生日会上。她酒量太浅，喝了一杯便满脸通红，廖理见这姑娘被人劝酒的样子实在可怜，忍不住替她代劳。等到宴会散去的时候，那个头发短短的姑娘偷偷递给他一个杯子。他把头凑过去，两人脸之间隔了不到五公分，暧昧的氛围还没蔓延，夏乔就扭头在他耳边说道：&ldquo;蜂蜜水，解酒的。&rdquo;意识到两人之间的距离有些近，她便迅速弹开了身子。廖理看着她像一只受惊的小鸟，忍不住逗她：&ldquo;你要怎样感谢我？&rdquo;&ldquo;改天我请你吃饭。&rdquo;她一溜烟跑掉了，留下哭笑不得的廖理，&ldquo;连个电话都没留，还说请我吃饭？&rdquo;夏乔自然也意识到自己没有留联系方式，隔天便跑去问朋友。&ldquo;他叫什么名字？&rdquo;朋友问她。夏乔摇头。&ldquo;他长什么样子？&rdquo;夏乔还是摇头，想了想还是补充道：&ldquo;挺好看的。&rdquo;朋友耸肩：&ldquo;那就只能看天意了。&rdquo;一周后的某天，夏乔去吃日料，廖理就坐在隔壁包厢。一打开门就遇上了，打完招呼，约好一起去玩密室逃脱。廖理爱热闹，便又喊了几个朋友一起。闯过几关后，夏乔和廖理一起被困在了一个密室里。夏乔有些怕黑，又加之突然从一群人变成了两人，不免有些局促。廖理查觉出了她的害怕，温柔地说道：&ldquo;别怕，我带你出去。&rdquo;这句话颇有分量，似溺水的人抓住浮木，哪怕不能获救，也甘愿共沉沦。3.廖理说到做到，一改之前无所谓的状态，连带着解密的速度也变快了。等到两人出了密室，其他人都还被困在里面。&ldquo;你真厉害！&rdquo;夏乔由衷地赞叹。&ldquo;想喝点什么吗？&rdquo;他勾唇笑，却不骄傲。&ldquo;都可以。&rdquo;其他人出来的时候，只看到两人有说有笑地在谈论之前在密室里发生的趣事。有人忍不住调侃：&ldquo;廖理你是故意拐走人家小姑娘的吧。&rdquo;&ldquo;你别瞎说。&rdquo;夏乔羞红了脸，廖理含笑不语。那天之后，廖理总是换着理由约夏乔见面。她有时犯懒，不想化妆和洗头，便找借口推托。偏廖理不吃她那套，被拒了几次，他便自己找上门来。他到她家楼下后打电话给她：&ldquo;下来。&rdquo;&ldquo;我没洗头。&rdquo;她不肯。&ldquo;没事，天黑看不清。&rdquo;&ldquo;我没化妆。&rdquo;&ldquo;没事。&rdquo;他顿了顿又说道：&ldquo;你怎样我都喜欢。&rdquo;从未尝过爱情滋味的夏乔，就这样无可救药地陷入他的甜言蜜语里。从在一起再到分开，夏乔才算真正了解他这个人。他做事从不怠慢，在感情上更是如此，不喜拖泥带水。喜欢你的时候，什么都好，怎样都情愿。一旦感情逝去，也会比任何人都无情。夏乔在社交小号上将她和廖理相处的点点滴滴全记录下来，事无巨细。她决定，等到他们一周年纪念日时，她要跟廖理分享这个秘密。可还没等到一周年，廖理便提了分手。&ldquo;为什么？&rdquo;她睁大的眼睛证实了她的惊讶，她实在想不出他要分手的理由是什么。&ldquo;不爱了。&rdquo;他用诉说天气的口吻说出了理由，夏乔的泪就那样砸了下来。&ldquo;约会的地点一成不变，穿衣风格换来换去也就那几件，甚至连问候语也没变过。我都烦了，你怎么还能意识不到？&rdquo;他第一次失了风度，显得颇为愤怒，似乎自己才是受伤的人。夏乔以前看电影时，总觉得那些失恋后要死要活的人显得矫情。不管用怎样的姿态对待分手，死缠烂打一定是最丢脸的那种。让他走好了，他一定会后悔的，夏乔这样想。4.朋友带她去健身、购物、吃甜食，可不管做什么，夏乔看上去都兴致缺缺。&ldquo;夏乔，打起精神来！&rdquo;朋友鼓励她。她不说话，捂着心脏的位置默默流泪。最终被思念折磨的夏乔还是丢下了自尊，她买了廖理最喜欢的美式咖啡去他公司堵他，却被他一把甩开。咖啡泼在了她新买的裙子上，狼狈不堪。周围有很多看热闹的人，她把头埋得低低的，望着自己身上的污渍，却一滴泪也流不出来。她的脑子里只有四个字：自作自受。他让她梦碎，她要让自己心死。回到家的夏乔把那件裙子换下来扔进了垃圾桶，删除了廖理的联系方式。同时不忘打开她的小号，一条一条地删除动态。罗曼罗兰曾说：&ldquo;世上只有一种英雄主义，那就是认清生活的真相后，依然热爱它。&rdquo;爱情也是如此，只有认清它不缺令人心碎的潜质后，才能继续期待下一段恋爱。她不是刀枪不入的怪物，她不过是个受伤了会疼、失恋了会哭的普通女子，是这个世界上最寻常的人。她在爱情里掉落到深渊，但终究会被救起，会被治愈。在这之前，她要先自己站起来。5.放轻松，就当成长礼物。就像生日也会收到考卷一样，不是每一件礼物都是自己心怡的，总有必须却闹心的礼物，也是她艰难人生中不可缺少的部分。有些人，只适合用来错过。有些真心，他不要，她便收回。这些事，无论美好与否，终究都是停留在记忆中。而我们，在以后的日子中再回想起来时，大概都会笑着接受这所有的不欢而散。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我们最后都笑着，接受了所有的不欢而散",
+                        "desc": "文/董大胆 有些人，只适合用来错过。",
+                        "link": "http://m.wufazhuce.com/music/3198?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我们最后都笑着，接受了所有的不欢而散",
+                        "desc": "文/董大胆 有些人，只适合用来错过。",
+                        "link": "http://m.wufazhuce.com/music/3198?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我们最后都笑着，接受了所有的不欢而散》 文/董大胆： 有些人，只适合用来错过。 阅读全文：http://m.wufazhuce.com/music/3198?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3198?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我们最后都笑着，接受了所有的不欢而散",
+                        "desc": "有些人，只适合用来错过。",
+                        "link": "http://m.wufazhuce.com/music/3198?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "come and get it",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "GOLDENAGE",
+                "audio_album": "It's Amazing",
+                "cover": "http://image.wufazhuce.com/FtFTo2P_SxaTjY2p143lwYz2Wq49",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2676",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4183",
+                    "title": "落日酒店"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4182",
+                    "title": "灾难面前，个体值得被记录 | ONE疫情故事征稿",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1094",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第五章：封锁校园"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2744",
+                    "title": "喜欢一个不该喜欢的人怎么办？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3198",
+                    "title": "我们最后都笑着，接受了所有的不欢而散"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

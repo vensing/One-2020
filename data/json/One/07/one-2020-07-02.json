@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5552",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-02 06:00:00",
+        "content_list": [
+            {
+                "id": "20648",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2867",
+                "title": "摄影",
+                "forward": "太在意别人的视线和评价，才会不断寻求别人的认可。对认可的追求，才扼杀了自由。由于不想被任何人讨厌，才选择了不自由的生活方式。换言之，自由就是不再寻求认可。",
+                "img_url": "http://image.wufazhuce.com/Fvm_coCCgU-7FG8RmdtFA8qN3L0z",
+                "like_count": 19594,
+                "post_date": "2020-07-02 06:00:00",
+                "last_update_date": "2020-06-29 15:26:39",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2826",
+                "pic_info": "Michael Rivera",
+                "words_info": "阿德勒",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2867",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2867",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2867",
+                    "image": "http://image.wufazhuce.com/Fvm_coCCgU-7FG8RmdtFA8qN3L0z",
+                    "title": "VOL.2826",
+                    "content": "太在意别人的视线和评价，才会不断寻求别人的认可。对认可的追求，才扼杀了自由。由于不想被任何人讨厌，才选择了不自由的生活方式。换言之，自由就是不再寻求认可。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2867?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2867?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 太在意别人的视线和评价，才会不断寻求别人的认可。对认可的追求，才扼杀了自由。由于不想被任何人讨厌，才选择了不自由的生活方式。换言之，自由就是不再寻求认可。——阿德勒 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2867?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2867?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20629",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4368",
+                "title": "墙上的阴影",
+                "forward": "家庭，妻子，工作，都没能阻止他跟小顾偷情，反而是性能力的失去，一刀斩断了他和小顾的联系。",
+                "img_url": "http://image.wufazhuce.com/FmkI-wMgzrfV84LjiwcHQtQrkyRq",
+                "like_count": 1741,
+                "post_date": "2020-07-02 06:00:00",
+                "last_update_date": "2020-07-01 18:42:05",
+                "author": {
+                    "user_id": "10957830",
+                    "user_name": "王萌",
+                    "desc": "诗歌公众号：打铜巷。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者。",
+                    "fans_total": "410",
+                    "web_url": "http://image.wufazhuce.com/Fv11S4Cn4y2rxS0BZsyJMD9YFIYa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4368",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4368",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4368",
+                    "image": "http://image.wufazhuce.com/FmkI-wMgzrfV84LjiwcHQtQrkyRq",
+                    "title": "墙上的阴影 作者/王萌",
+                    "content": "都是我的错，我请求你再给我一次机会。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 墙上的阴影",
+                        "desc": "文/王萌 都是我的错，我请求你再给我一次机会。",
+                        "link": "http://m.wufazhuce.com/article/4368?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 墙上的阴影",
+                        "desc": "文/王萌 都是我的错，我请求你再给我一次机会。",
+                        "link": "http://m.wufazhuce.com/article/4368?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 墙上的阴影》 文/王萌： 都是我的错，我请求你再给我一次机会。 阅读全文：http://m.wufazhuce.com/article/4368?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4368?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "墙上的阴影",
+                        "desc": "都是我的错，我请求你再给我一次机会。",
+                        "link": "http://m.wufazhuce.com/article/4368?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20662",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1229",
+                "title": "打雪仗·第八章：以命相逼",
+                "forward": "人类的残忍，正如人类的面孔，彼此都是认识的。人类的残忍，正如人类的思想，痛苦是不相关的。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 739,
+                "post_date": "2020-07-02 06:00:00",
+                "last_update_date": "2020-07-01 18:41:15",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第8章",
+                "number": "8",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1229",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1229",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1229",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第八章：以命相逼 作者/肖睿",
+                    "content": "人类的残忍，正如人类的面孔，彼此都是认识的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第八章：以命相逼",
+                        "desc": "文/肖睿 人类的残忍，正如人类的面孔，彼此都是认识的。",
+                        "link": "http://m.wufazhuce.com/serial/1229?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第八章：以命相逼",
+                        "desc": "文/肖睿 人类的残忍，正如人类的面孔，彼此都是认识的。",
+                        "link": "http://m.wufazhuce.com/serial/1229?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第八章：以命相逼》 文/肖睿： 人类的残忍，正如人类的面孔，彼此都是认识的。 阅读全文：http://m.wufazhuce.com/serial/1229?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1229?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第八章：以命相逼",
+                        "desc": "人类的残忍，正如人类的面孔，彼此都是认识的。",
+                        "link": "http://m.wufazhuce.com/serial/1229?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20667",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2904",
+                "title": "你做过什么“真香”的事？",
+                "forward": "真香是人类的本质。",
+                "img_url": "http://image.wufazhuce.com/FvVNHOOEyZMC-ucrbLPSTjTStTNb",
+                "like_count": 1533,
+                "post_date": "2020-07-02 06:00:00",
+                "last_update_date": "2020-07-01 16:27:38",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2904",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2904",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2904",
+                    "image": "http://image.wufazhuce.com/FvVNHOOEyZMC-ucrbLPSTjTStTNb",
+                    "title": "你做过什么“真香”的事？",
+                    "content": "你做过什么“真香”的事？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你做过什么“真香”的事？",
+                        "desc": "文/网友 真香是人类的本质。",
+                        "link": "http://m.wufazhuce.com/question/2904?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你做过什么“真香”的事？",
+                        "desc": "文/网友 真香是人类的本质。",
+                        "link": "http://m.wufazhuce.com/question/2904?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你做过什么“真香”的事？》 文/网友： 真香是人类的本质。 阅读全文：http://m.wufazhuce.com/question/2904?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2904?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你做过什么“真香”的事？",
+                        "desc": "真香是人类的本质。",
+                        "link": "http://m.wufazhuce.com/question/2904?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20661",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2016",
+                "title": "握紧生命中的时时刻刻，去过自己想要的人生",
+                "forward": "你不觉得我好一点了吗？你觉得我能很快逃离现在的生活吗？她像一个小孩子，急切地想被成熟的大人给出一个确定的答案。",
+                "img_url": "http://image.wufazhuce.com/Fs3V6KM5xe67o3YYZ7pBM-sviLSq",
+                "like_count": 1643,
+                "post_date": "2020-07-02 06:00:00",
+                "last_update_date": "2020-07-02 10:26:11",
+                "author": {
+                    "user_id": "11356614",
+                    "user_name": "星恢",
+                    "desc": "自由写作者，心理咨询师预备役，喜爱蓝色、雨后青草地和神秘博士。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "用孩童、诗人和人类学者的眼光看世界。",
+                    "fans_total": "63",
+                    "web_url": "http://image.wufazhuce.com/Flkxag1sa5bcZAEaCnu9UnXDq4Ht"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "时时刻刻",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4999",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2016",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2016",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2016",
+                    "image": "http://image.wufazhuce.com/Fs3V6KM5xe67o3YYZ7pBM-sviLSq",
+                    "title": "「一个」电影: 时时刻刻",
+                    "content": "&nbsp;一个女人如果打算写小说的话，那她一定要有钱，还要有一间自己的房间。弗吉尼亚&middot;伍尔夫在一场关于&ldquo;妇女与小说&rdquo;的演讲中这样讲。她真的做到了，有一些钱，还有一个深爱她的丈夫，为了照顾她的身体在乡下开了一家出版社。并且，她还有自己的房间，可以让她喃喃自语，陷入沉思。一天清晨，伍尔夫想好了新小说的第一句：&ldquo;达洛维夫人说，她自己去买花。&rdquo;妮可&middot;基德曼在电影《时时刻刻》中把伍尔夫演活了，你可能会在观影过程中认不出她来，这得益于化妆师巧手妆饰的一个大鼻子，也归功于妮可&ldquo;整容式&rdquo;的演技，正是这个角色，让她获得了奥斯卡最佳女演员奖。《时时刻刻》的另外两位女主角也都是影后级别的演员，朱利安&middot;摩尔饰演优雅的家庭主妇劳拉，梅丽尔&middot;斯特里普饰演女编辑克拉丽莎。这三个女人生活在不同的时代，有着不同的人生境遇，但始终有一个名字贯穿在三个人的生活当中，那就是&mdash;&mdash;达洛维夫人。1. 当&ldquo;买花&rdquo;成为一种权利影片由三个女人的早晨开始：伍尔夫缓缓走入河流，给丈夫留下遗书；劳拉从床上坐起，翻看伍尔夫的小说《达洛维夫人》；而克拉丽莎急匆匆地开始安排一天的工作。三个不同时空的片段彼此交错，这让观者产生了一个疑惑：她们是谁？彼此之间的命运有何相同之处？伍尔夫是个神经质的，居住在乡下的英国女作家；劳拉是头发永远一丝不乱，嫁给战争英雄，还怀着二胎的家庭主妇；克拉丽莎语速快、动作快，是个雷厉风行的女编辑，她们的生活状态看起来截然不同，但随着影片的叙述，我们发现，她们都和&ldquo;买花&rdquo;这件事产生了联系。伍尔夫是不可能自己去买花的。在她生活的年代，买花、做早餐都要由女仆代劳，一个女性独自出门逛街都会惹来非议的眼光。于是，她想象并创造了一个自己去买花的达洛维夫人；劳拉的花被丈夫买好了，收拾清爽，插在了花瓶里，就像家庭主妇被安排得&ldquo;明明白白&rdquo;的生活；而克拉丽莎是可以自己去买花的，这里影片引出了另一位人物&mdash;&mdash;身患重病的诗人理查德，因为获得了诗歌届最高的荣誉，克拉丽莎要为他举办宴会庆祝。你可以自己买花吗？&ldquo;买花&rdquo;在电影中成为了一种隐喻&mdash;&mdash;一个人到底有多大的权利，决定自己的生活？三位女主人公，包括诗人理查德，都在苦苦争求这种权利，这就是他们命运的相同之处。伍尔夫因为身体与情绪的问题，每天被医生包围，从伦敦搬到乡下，和丈夫因为吃不吃早餐的问题争执，她想要的是回到城市，持续自己的写作。劳拉给丈夫做生日蛋糕，照顾小儿子，然而笑容僵硬，机器人一样重复自己的话，我们似乎看不出来她到底想要什么。克拉丽莎去见理查德，并因为理查德想要&ldquo;求死&rdquo;的想法发了一通脾气，回到家她就开始准备宴会的食物。她希望理查德能一直活着，哪怕这并不是这位诗人自己想要的。他们想要的，最终都能得偿所愿吗？2.请让我离开吧，这也是我的权利伍尔夫的姐姐带着孩子们来拜访伍尔夫，孩子们在花园发现了一只小鸟，奄奄一息，顷刻毙命。伍尔夫带着小侄女，给小鸟举办了一场葬礼。小侄女问：是&ldquo;她&rdquo;？伍尔夫答：是的，雌鸟的体型大一些，毛色也不是很鲜艳。伍尔夫给小鸟献上一只黄玫瑰，侧身躺在地上看着雌鸟，安详而忧伤。她决定，让小说中的达洛维夫人最终以死亡告终。好像是在印证达洛维夫人即将到来的命运似的，劳拉在女邻居来访之后重新给丈夫做了一只漂亮的蛋糕，毅然地把儿子交给邻居照看，一个人来到酒店，决心服药自杀，可最终她还是下不了手，腹中的生命让她放下了小药瓶，像是什么也没发生过一样回到家里。伍尔夫实在无法忍受乡下的生活，也受够了自己的每一个举动都要按照医生的嘱咐，她独自跑到火车站，与急匆匆赶来寻找她丈夫大吵了一架，最终他们达成了共识：丈夫妥协了，答应回到伦敦居住。克拉丽莎看起来是积极、乐观的，她对想要自杀的理查德说，&ldquo;每个人都是这样为了别人妥协地活着。&rdquo;可当理查德昔日的男友提早来到宴会的现场，克拉丽莎忍不住大哭起来，她无比怀念当年和理查德在一起的那个夏天，那个青春年少的自己，她说，只有和理查德在一起的时候，才像是活着的。他们得到了自己想要的，但也为此付出了代价。伍尔夫最终还是因为情绪问题的折磨，决定离开人世，离开自己心爱的丈夫；理查德纵身一跃，跳楼结束了生命；劳拉在生下小女儿后不辞而别，远走他乡，多年来一直承受着儿子的怨恨&mdash;&mdash;当理查德的母亲敲开家门，银发苍苍的劳拉出现在镜头里，我们这才发觉：原来理查德就是劳拉的儿子，他曾经那样怨恨抛弃自己的母亲，以至于在书中把劳拉塑造成一个怪物。然而，理查德在自杀前，抚摸着劳拉的相片，他似乎理解了母亲当年的选择：离开熟悉的世界，在灵魂的生与死之间，选择了不被理解的&ldquo;生&rdquo;&mdash;&mdash;即使不被原谅，即使被记恨终生也不会后悔。是肉体痛苦地长存，还是追求灵魂的解脱？伍尔夫和理查德选择了肉体的死，灵魂的生。是选择恪尽职守但痛苦地活着，还是被人记恨却自由地生活？劳拉选择了后者。&nbsp;3.生命的时时刻刻，抓住并放手有人评论这部电影说，主人公的选择很致郁，以及，千万不要做家庭主妇。我想，那真是误读了这部电影。《时时刻刻》为观众们展现的是生活的多面，无论是作为著名的作家，前卫的编辑还是家庭主妇，同样生命中都拥有过欢乐的时刻，有过家庭的温馨，同样，也自然会有失去的痛苦，不愿放手的执着。生命中的痛与爱时常并存，无论你是何种身份何种职业，都必须经历。没错，主人公是选择了并不被世俗所称道的结局，但是这并不意味着他们都像那天上的云彩，轻飘飘地不着地，完全活在虚空里。他们是活生生的人，有着对生活的热爱，还有对家人的眷恋。这种热爱化在亲吻之中。伍尔夫本来并不是个爱热闹的人，却因为姐姐没有邀请自己参加聚会而闹起了小脾气，姐姐临走之前，她深吻了姐姐，带着一点恶狠狠，却又马上软下来的口气问：你不觉得我好一点了吗？你觉得我能很快逃离现在的生活吗？她像一个小孩子，急切地想被成熟的大人给出一个确定的答案，她想被肯定地告诉：你很快就能够拥有自己的生活。这种殷切的期盼显然是在求生，而并非求死。劳拉的女邻居基蒂前来拜访，基蒂可以说是&ldquo;传统女性&rdquo;的化身：家务活样样精通，认为做母亲是一个女人最大的幸福。可惜，她因为身体问题可能无法生育了。出于安慰，劳拉抱住了基蒂，并轻轻一吻，反叛传统的人亲吻了传统的化身？这看起来确实莫名其妙。但是，谁说基蒂就不是另一个劳拉呢？这么多年，劳拉其实和基蒂一样，为了家庭奉献所有，劳拉怜惜基蒂，也是在怜惜过往的自己。还有就是理查德和克拉丽莎都难以忘怀的，青春年少时，在沙滩上的一吻。纵然时光逝去，两人提起那天时眼睛里依旧带着光彩。电影中理查德和克拉丽莎仍有一吻，只不过更多的是告别的意味。当然不可忽略的，还有克拉丽莎与女性伴侣的一吻。从影片中我们感受到的是，所有的这些亲吻都并不完全带有情爱的味道，它更像是一种象征：那些在生命里热切地活过、爱过、感受过的时时刻刻。每个人都有过类似的&ldquo;时刻&rdquo;吧。也许是儿时搬个小板凳啃西瓜，西瓜汁流了满手的时候；也许是上中学时，避开老师和同学，和初恋偷偷牵手的那一秒；也许是工作后第一次收到工资，短信提醒银行卡入账的时刻；也许是跑到沙漠里看星星，银河就在头顶的夜晚&hellip;&hellip;我们有时候感觉自己还&ldquo;活着&rdquo;，就是靠这些难以忘记的时时刻刻啊。然而，如果有一天，现实告诉我们，那些时刻已然逝去，曾经感受过的幸福不会再来，那么该怎么办？是永远抓着它不肯放手，还是就此，let it go？在彻底地超越放手与向生活妥协之间，影片指出了第三条路：像克拉丽莎一样，在失去过后依然有可以支持自己的家人，却又没有过多家庭的负累。克拉丽莎躺在床上，回忆起那个和理查德在一起的夏天。那天的天气很好，克拉丽莎一睁眼就是开心的，她感觉年轻的自己什么都做得到，一切皆有可能，她以为，这是人生幸福的起点，人生会越来越好。许多年后，当她的女儿已经成年，发丝银灰，理查德也离开了她，克拉丽莎才意识到，那一天她睁开眼睛的那一刻，就是幸福。我们的人生，由这样的时刻所构成，有幸福，也有痛苦。克拉丽莎会永远记得那个早晨，也必然会记住理查德离开她的那个瞬间。伍尔夫在影片的最后说：直面人生，去了解它究为何物，热爱它的灿烂，并将它放下。她因为精神疾病的折磨，已经没有能力再与丈夫幸福地生活下去了，于是她选择了放下。&nbsp;而对于那些还满怀着希望的人们，既然曾经的幸福不会再来，那就在今日的根基上，筑造新的幸福，所有的开始都会变成崭新的记忆，成为我们人生的，时时刻刻。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 握紧生命的每一刻，去过自己想要的人生",
+                        "desc": "文/星恢 直面自己，了解自己，爱自己，时时刻刻。",
+                        "link": "http://m.wufazhuce.com/movie/2016?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 握紧生命的每一刻，去过自己想要的人生",
+                        "desc": "文/星恢 直面自己，了解自己，爱自己，时时刻刻。",
+                        "link": "http://m.wufazhuce.com/movie/2016?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 握紧生命的每一刻，去过自己想要的人生》 文/星恢： 直面自己，了解自己，爱自己，时时刻刻。 阅读全文：http://m.wufazhuce.com/movie/2016?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2016?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "握紧生命的每一刻，去过自己想要的人生",
+                        "desc": "直面自己，了解自己，爱自己，时时刻刻。",
+                        "link": "http://m.wufazhuce.com/movie/2016?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20630",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3198",
+                "title": "七月的风，懒懒的，七月的你，暖暖的",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fpau3MRl68RZB-0aeiNwnjjoTo-9?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1622,
+                "post_date": "2020-07-02 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3198",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3198",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 七月的风，懒懒的，七月的你，暖暖的",
+                        "desc": "七月，对你来说有哪些重要的日子呢？",
+                        "link": "http://m.wufazhuce.com/radio/3198?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lszmRvQvHEeb-sn5dH_RL_hNAW6l"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 七月的风，懒懒的，七月的你，暖暖的",
+                        "desc": "七月，对你来说有哪些重要的日子呢？",
+                        "link": "http://m.wufazhuce.com/radio/3198?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lszmRvQvHEeb-sn5dH_RL_hNAW6l"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 七月的风，懒懒的，七月的你，暖暖的》 主播/李荟莹： 七月，对你来说有哪些重要的日子呢？ 阅读全文：http://m.wufazhuce.com/radio/3198?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3198?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lszmRvQvHEeb-sn5dH_RL_hNAW6l"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "七月的风，懒懒的，七月的你，暖暖的",
+                        "link": "http://m.wufazhuce.com/radio/3198?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lszmRvQvHEeb-sn5dH_RL_hNAW6l"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 845 期",
+                "audio_url": "http://music.wufazhuce.com/lszmRvQvHEeb-sn5dH_RL_hNAW6l"
+            }
+        ],
+        "menu": {
+            "vol": "2826",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4368",
+                    "title": "墙上的阴影"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1229",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第八章：以命相逼"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2904",
+                    "title": "你做过什么“真香”的事？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2016",
+                    "title": "握紧生命中的时时刻刻，去过自己想要的人生"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3198",
+                    "title": "七月的风，懒懒的，七月的你，暖暖的"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

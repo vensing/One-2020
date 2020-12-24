@@ -1,0 +1,529 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5439",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-11 06:00:00",
+        "content_list": [
+            {
+                "id": "19947",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2753",
+                "title": "摄影",
+                "forward": "爱意味着学会注视你自己。",
+                "img_url": "http://image.wufazhuce.com/Fv9kBkFWiisrkhjLjJJQ3OcUg6JW",
+                "like_count": 20078,
+                "post_date": "2020-03-11 06:00:00",
+                "last_update_date": "2020-03-07 17:17:54",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2713",
+                "pic_info": "jefferson",
+                "words_info": "切斯瓦夫·米沃什",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2753",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2753",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2753",
+                    "image": "http://image.wufazhuce.com/Fv9kBkFWiisrkhjLjJJQ3OcUg6JW",
+                    "title": "VOL.2713",
+                    "content": "爱意味着学会注视你自己。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2753?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2753?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 爱意味着学会注视你自己。——切斯瓦夫·米沃什 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2753?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2753?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19963",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4234",
+                "title": "命运的合约",
+                "forward": "互相尊重，你成全我，我成全你，势均力敌，一起进步。",
+                "img_url": "http://image.wufazhuce.com/FgCNbDMMaZdR4CFEFLyt-a-KR4BP",
+                "like_count": 3939,
+                "post_date": "2020-03-11 06:00:00",
+                "last_update_date": "2020-03-11 10:56:14",
+                "author": {
+                    "user_id": "4813757",
+                    "user_name": "苏更生",
+                    "desc": "「一个」App常驻作家，微信公众号：ishikuaiqian",
+                    "wb_name": "@假苏更生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "「一个」App常驻作家。",
+                    "fans_total": "97549",
+                    "web_url": "http://image.wufazhuce.com/Fg_e6teZsb3lZ1QStYtdnAkh6bO8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4234",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4234",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4234",
+                    "image": "http://image.wufazhuce.com/FgCNbDMMaZdR4CFEFLyt-a-KR4BP",
+                    "title": "命运的合约 作者/苏更生",
+                    "content": "你认识的人，不是你的人脉；肯帮你的人，才是你的人脉。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 命运的合约",
+                        "desc": "文/苏更生 你认识的人，不是你的人脉；肯帮你的人，才是你的人脉。",
+                        "link": "http://m.wufazhuce.com/article/4234?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 命运的合约",
+                        "desc": "文/苏更生 你认识的人，不是你的人脉；肯帮你的人，才是你的人脉。",
+                        "link": "http://m.wufazhuce.com/article/4234?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 命运的合约》 文/苏更生： 你认识的人，不是你的人脉；肯帮你的人，才是你的人脉。 阅读全文：http://m.wufazhuce.com/article/4234?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4234?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "命运的合约",
+                        "desc": "你认识的人，不是你的人脉；肯帮你的人，才是你的人脉。",
+                        "link": "http://m.wufazhuce.com/article/4234?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19941",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1127",
+                "title": "两次破碎·第二十一章：给个提示",
+                "forward": "我要一遍一遍提醒你，一遍一遍揭开你的伤口，让它发炎，化脓，越烂越大！",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 865,
+                "post_date": "2020-03-11 06:00:00",
+                "last_update_date": "2020-04-07 16:27:33",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第21章",
+                "number": "21",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1127",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1127",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1127",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第二十一章：给个提示 作者/连筑",
+                    "content": "我要一遍一遍提醒你，一遍一遍揭开你的伤口，让它发炎，化脓，越烂越大！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第二十一章：给个提示",
+                        "desc": "文/连筑 我要一遍一遍提醒你，一遍一遍揭开你的伤口，让它发炎，化脓，越烂越大！",
+                        "link": "http://m.wufazhuce.com/serial/1127?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第二十一章：给个提示",
+                        "desc": "文/连筑 我要一遍一遍提醒你，一遍一遍揭开你的伤口，让它发炎，化脓，越烂越大！",
+                        "link": "http://m.wufazhuce.com/serial/1127?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第二十一章：给个提示》 文/连筑： 我要一遍一遍提醒你，一遍一遍揭开你的伤口，让它发炎，化脓，越烂越大！ 阅读全文：http://m.wufazhuce.com/serial/1127?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1127?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第二十一章：给个提示",
+                        "desc": "我要一遍一遍提醒你，一遍一遍揭开你的伤口，让它发炎，化脓，越烂越大！",
+                        "link": "http://m.wufazhuce.com/serial/1127?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19935",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2781",
+                "title": "亲密关系中如何进行自我保护？",
+                "forward": "在两性关系这样一种相对私密、封闭的关系当中，男女双方都有可能成为受害者。",
+                "img_url": "http://image.wufazhuce.com/FhPIJYIfaBGRd367OZQ05U0-h5r7",
+                "like_count": 2111,
+                "post_date": "2020-03-11 06:00:00",
+                "last_update_date": "2020-03-10 19:05:19",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "中土游侠",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2781",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2781",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2781",
+                    "image": "http://image.wufazhuce.com/FhPIJYIfaBGRd367OZQ05U0-h5r7",
+                    "title": "亲密关系中如何进行自我保护？",
+                    "content": "亲密关系中如何进行自我保护？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 亲密关系中如何进行自我保护？",
+                        "desc": "文/昔央 这是一个世界性的问题。",
+                        "link": "http://m.wufazhuce.com/question/2781?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 亲密关系中如何进行自我保护？",
+                        "desc": "文/昔央 这是一个世界性的问题。",
+                        "link": "http://m.wufazhuce.com/question/2781?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 亲密关系中如何进行自我保护？》 文/昔央： 这是一个世界性的问题。 阅读全文：http://m.wufazhuce.com/question/2781?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2781?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "亲密关系中如何进行自我保护？",
+                        "desc": "这是一个世界性的问题。",
+                        "link": "http://m.wufazhuce.com/question/2781?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                }
+            },
+            {
+                "id": "19937",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3221",
+                "title": "日落里有小商店，贩卖着它仅有的温暖",
+                "forward": "原来，我们谁都没有忘记彼此。真正相爱的人，绕了一圈后还会再来到你身边，也或许，他一直都在，从未离开过。",
+                "img_url": "http://image.wufazhuce.com/FpVsLkDc_lkdoMepagWPk3iNGUh2",
+                "like_count": 2557,
+                "post_date": "2020-03-11 06:00:00",
+                "last_update_date": "2020-03-10 19:31:50",
+                "author": {
+                    "user_id": "8979191",
+                    "user_name": "屿昼",
+                    "desc": "请你不要吃我，我给你唱一首好听的歌。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "请你不要吃我，我给你唱一首好听的歌。",
+                    "fans_total": "3535",
+                    "web_url": "http://image.wufazhuce.com/FoixUg4x9ZbNG5zDkxFkHPJjAToE"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lp07qgrR5UTrBsCcKNHF6cNv0KmH",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "一粒",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3221",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3221",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3221",
+                    "image": "http://image.wufazhuce.com/FpVsLkDc_lkdoMepagWPk3iNGUh2",
+                    "title": "「一个」音乐: 屿昼 一粒",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.温软的阳光从窗口落在绿萝上时，言晓又抬手划掉了日历上一个新的数字。已经是在家待的第二十三天了。不能复工对把电脑顺利带回家的言晓来说并没有什么影响，只是第一次过年在家待上这么长时间，好久不见的父母用家乡话絮絮叨叨，偶尔激起的争执也像是日常的小水花，桌上热气腾腾的饭菜，让她仿佛又回到童年时期。家本身就是个让人想偷懒的舒服被窝。吃穿不愁，甚至连工作效率都跟着降低。言晓开始琢磨着发展点别的兴趣，恰好看到微博热搜上每天都有新配方，家里又正好有烤箱和面粉，于是心血来潮地开始折腾，无奈每次制作出的都是黑暗料理。但她依旧乐此不疲。在朋友圈上发失败成品：&ldquo;请大家欣赏一下我的杰作。&rdquo;起初评论还嘻嘻哈哈，久而久之，大家对她糟糕的花样也没有什么兴趣。只有一个人执着地给言晓点赞。前男友，宋谌。分手以后他的情侣头像始终没换，所以她一眼就在点赞中认出来。明明两个人分道扬镳才发生在一个月之前，但在另个环境里呆久了，却像是个漫长的梦，如今又重新回到她的眼前来。2.他们在一起的时候，宋谌把言晓照顾得很好。宋谌是处女座，也具备了这个星座所有的细腻特质。那时候几乎所有好友都羡慕言晓，她自己租了房子，却总喜欢去他那里蹭饭。无论她再早到，都只是把包一扔什么都不做，等姗姗来迟的宋谌做好饭然后自己出来吃，吃完也把碗筷一搁，不去收拾。甚至连他轻微的洁癖也变成了优点。宋谌有时候去她那里，会顺手把房子收拾得整整齐齐，将水果切好端到她的书桌前，保温杯里也永远都有新鲜的开水，根本不用她操心。除此之外，周末还有附赠的美味惊喜，芒果千层、红丝绒蛋糕或是其他的法式甜点，他变着花样做，导致分开久了，最先思念他的竟然是自己味觉。回家的时候，她花了好长时间才适应如何做饭，每次不是焖饭时水米比例不均匀，就是将卷心菜切得藕断丝连，把一切折腾得乱七八糟。朋友眼中的神仙爱情，分手原因却出乎意料，因为宋谌的前任。宋谌倒没有做什么对不起她的事，反倒是言晓的心眼比较小，经常在这件事上纠结。他和前任是校园恋爱，毕业后分隔两地，分开原因他说得轻描淡写，只是两个人性格不合。可是美好的校园时光已经留下，这就成了一个无法跨越的坎。宋谌永远都不会明白，前任对言晓来说意味着什么。女生的心思奇妙又无迹可寻，他分明将一切都坦白，可她却要刨根问底，总是疑心他有什么话没有说出来。&ldquo;那都是过去的事了。&rdquo;后来问得多了，宋谌也渐渐开始不耐烦，有次回答时口气重些。没想到话一说出口，言晓那里就把嘴一撇，看着委屈极了，眼眶通红，泪水在里头打转，眼看着就要落下。宋谌手忙脚乱地去哄，将她拥入怀中，慢慢地拍她的肩。&ldquo;我在乎的是现在。&rdquo;等到言晓缓过来，宋谌才又扶住言晓的肩，认真地凝视着她的眼睛，一字一句地对她说：&ldquo;现在站在我面前的是你呀。&rdquo;&ldquo;那拉钩，以后再也不提了。&rdquo;言晓破涕为笑，伸出自己的小拇指伸出来，两个人的手勾在一起。3.言晓虽然答应从此不再问他，却还是情不自禁地就去找那些蛛丝马迹。她经常神使鬼差地去看前任的微博，对方的生活平静而美好，发动态的时间经常显示是凌晨，她便在心里猜测肯定出了国，言晓自己也想不明白，为什么她对这些事情会这么感兴趣。直到有天晚上，她多看的那些内容终于狠狠地报复在自己身上。言晓信任宋谌，没有去看他手机的习惯，虽然他一早就把她指纹存进了他的手机里，但言晓从未想过要看。这次宋谌去厨房切水果，她听见桌面上消息传来的声音，于是顺眼瞥了一下屏幕。&ldquo;她出国了。&rdquo;这个&ldquo;她&rdquo;指代的是谁，显然不言而喻。时间点正好与最近她观察他前任微博得出的结论差不多。于是她断断续续地往上翻，有日常的问候，还有些其他与&ldquo;她&rdquo;相关的信息，虽然回复都很平淡。但宋谌再平淡的回复也平息不了她的气愤，列表里还保留着他和前任的共同好友，单是这点就让她无法原谅。就像某颗埋藏的炸弹突然被引爆，言晓大致推测出事情的经过。他到现在还在聆听着前任行动轨迹的汇报，表面上还装得毫不在乎。宋谌虽然从前说过自己在上一段关系中做得不好，既是初恋，又是他亏欠得更多。可这也不能成为他到现在还要关心前任的理由啊。宋谌出来的时候，她无声无息地坐在床边，努力消化着这个事实。他看见她反常的模样，扫了一眼手机，就立刻知道出了什么事。言晓生气时什么解释都听不进去，反而狠话一句说得比一句重。&ldquo;既然这么喜欢她，你回去找她就好了啊。&rdquo;这句话脱口而出的时候，她也在一瞬间倏然后悔，而努力想要给她解释的宋谌突然愣在原地。言晓不知道如何解决，见他也没有挽留的意思，便头也不回地往外走，立刻回到自己的住处。&nbsp;&nbsp;4.于是事情就这样走到无法挽回的地步。第二天恰好要去出差，言晓气消后才恢复理智，想着等回来后再好好聊一聊道歉，就可以把这件事顺利翻篇。没想到在飞机即将起飞时，她却在座位上收到了宋谌的微信。他写了一整篇长文，仔细地将这件事从头到尾地解释了一遍，然后将所有的责任归咎在自己身上，说他没有将两人的关系没有处理好，感谢，以及对不起。言晓在那头快被气笑，他哪只眼睛看到自己想分手？果然星座书都没有白看，处女座的矛盾在宋谌的身上体现得淋漓尽致，细腻却又敏感，因为怕被伤害，所以选择自己先一步离去。从前在一起的时候，宋谌与她说起自己性格很倔，开玩笑地拜托她在两个人争执的时候，一定要给他个台阶下。这次算是领教到了。她嘴硬不肯先去认输，出差又近在眼前，便想平复之后，再去他在的城市当面说清，谁能想到恰好遇上疫情的交通管控，走也走不了，只好回到同城的老家。言晓经常自嘲地想起这件事，觉得两个人没有缘分，于是搁浅在这里。转念又会想想，她现在也成为了前任，是不是也能长驱直入，在他的心占据一席之地。她想起他之前说，前任于他而言，是一个结，他希望她能亲手解开，而不是简单粗暴地将它剪去。可他却不能以身作则，解决不了问题，就干脆利落地剪去他们之间的羁绊。更糟糕的是，她还被困在原地，没能得到重修旧好的机会。在家期间，言晓被动地接收了很多不一样的新闻，心境也跟着变化，看着死亡的数字一个一个往上累计，她突然就想起了宋谌。宋谌初期就问过她是否平安，那时她还在生气，不冷不热地回复了一句，那头就不再说话。现在言晓又重新打开手机，犹豫要不要也礼尚往来地问候一下，聊天框却突然跳动了一下。&ldquo;做千层其实很简单，我把过程拍了一下，如果有不懂的可以问我。&rdquo;那边传来了一个视频，屏幕那头是宋谌骨节分明的长指，与此同时还拍了好几份食谱的照片，看出来是他亲手写的，还用彩笔精心描画勾边的，上面那些少女心的贴纸，是她从前硬拉着他去精品店一起挑的。&ldquo;还有，我很想你。&rdquo;她突然抿唇，认真地回了一个好后，偏头去看绿枝上长了一半的软桃，不知什么时候才到春暖花开啊。&nbsp;5.言晓心想，我这个前任，终究还是在他心中留下印记。原来，我们谁都没有忘记彼此。真正相爱的人，绕了一圈后还会再来到你身边，也或许，他一直都在，从未离开过。有些人，他一旦动心就会心甘情愿的守着你，惯着你，包容你的所有。但他也会难过，所以，给他些许温柔和理解，或许这段感情会变得更好，你们也会更加相爱。爱是在信任和不断磨合上变更程度，是上是下，由彼此共同决定。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 日落里有小商店，贩卖着它仅有的温暖",
+                        "desc": "文/屿昼 你会爱我吗?我的温柔只交予你。",
+                        "link": "http://m.wufazhuce.com/music/3221?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 日落里有小商店，贩卖着它仅有的温暖",
+                        "desc": "文/屿昼 你会爱我吗?我的温柔只交予你。",
+                        "link": "http://m.wufazhuce.com/music/3221?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 日落里有小商店，贩卖着它仅有的温暖》 文/屿昼： 你会爱我吗?我的温柔只交予你。 阅读全文：http://m.wufazhuce.com/music/3221?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3221?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "日落里有小商店，贩卖着它仅有的温暖",
+                        "desc": "你会爱我吗?我的温柔只交予你。",
+                        "link": "http://m.wufazhuce.com/music/3221?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "一粒",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "孟凡明",
+                "audio_album": "一粒",
+                "cover": "http://image.wufazhuce.com/FiEkUwo1TYYovL8Fon03qjlCPktJ",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2713",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4234",
+                    "title": "命运的合约"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1127",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第二十一章：给个提示"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2781",
+                    "title": "亲密关系中如何进行自我保护？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3221",
+                    "title": "日落里有小商店，贩卖着它仅有的温暖"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

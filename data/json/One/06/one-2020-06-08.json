@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5527",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-08 06:00:00",
+        "content_list": [
+            {
+                "id": "20497",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2843",
+                "title": "摄影",
+                "forward": "诗意地理解生活，理解我们周围的一切——是我们从童年时代得到的最可贵的礼物。",
+                "img_url": "http://image.wufazhuce.com/FjVLEycxTNmX7s6tgX_YWXKPJKrh",
+                "like_count": 12641,
+                "post_date": "2020-06-08 06:00:00",
+                "last_update_date": "2020-06-05 20:20:52",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2802",
+                "pic_info": "Cátia Matos",
+                "words_info": "帕乌斯托夫斯基《金蔷薇》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2843",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2843",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2843",
+                    "image": "http://image.wufazhuce.com/FjVLEycxTNmX7s6tgX_YWXKPJKrh",
+                    "title": "VOL.2802",
+                    "content": "诗意地理解生活，理解我们周围的一切——是我们从童年时代得到的最可贵的礼物。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2843?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2843?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 诗意地理解生活，理解我们周围的一切——是我们从童年时代得到的最可贵的礼物。——帕乌斯托夫斯基《金蔷薇》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2843?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2843?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20491",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4343",
+                "title": "皮囊之下",
+                "forward": "呼吸机带上，麻药推好，进入另一个空间，再次醒来时身体插满管子，头被弹力绷带缠成木乃伊。",
+                "img_url": "http://image.wufazhuce.com/FpF0fPqFq5q7rOY7fPDJ60P_8ice",
+                "like_count": 1902,
+                "post_date": "2020-06-08 06:00:00",
+                "last_update_date": "2020-06-07 13:25:52",
+                "author": {
+                    "user_id": "11399823",
+                    "user_name": "悦悦",
+                    "desc": "主持人，电视金鹰奖主持人奖获得者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "主持人，电视金鹰奖主持人奖获得者。",
+                    "fans_total": "71",
+                    "web_url": "http://image.wufazhuce.com/FkqdrKNNwO23TpD-sqKJWiISXmKo"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4343",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4343",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4343",
+                    "image": "http://image.wufazhuce.com/FpF0fPqFq5q7rOY7fPDJ60P_8ice",
+                    "title": "皮囊之下 作者/悦悦",
+                    "content": "爱自己的灵魂，才是世界上最浪漫的事。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 皮囊之下",
+                        "desc": "文/悦悦 爱自己的灵魂，才是世界上最浪漫的事。",
+                        "link": "http://m.wufazhuce.com/article/4343?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 皮囊之下",
+                        "desc": "文/悦悦 爱自己的灵魂，才是世界上最浪漫的事。",
+                        "link": "http://m.wufazhuce.com/article/4343?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 皮囊之下》 文/悦悦： 爱自己的灵魂，才是世界上最浪漫的事。 阅读全文：http://m.wufazhuce.com/article/4343?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4343?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "皮囊之下",
+                        "desc": "爱自己的灵魂，才是世界上最浪漫的事。",
+                        "link": "http://m.wufazhuce.com/article/4343?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20494",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1205",
+                "title": "最后的审判（二）第二十三章：大财大色",
+                "forward": "蒙雪象是个好孩子，但不是一个好人。你跟他不一样，你可能不是一个好孩子，但肯定是一个好人。",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 717,
+                "post_date": "2020-06-08 06:00:00",
+                "last_update_date": "2020-06-08 10:10:04",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第23章",
+                "number": "23",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1205",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1205",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1205",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第二十三章：大财大色 作者/红拂夜奔不复还",
+                    "content": "她能这么骂他，说明还是爱他的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第二十三章：大财大色",
+                        "desc": "文/红拂夜奔不复还 她能这么骂他，说明还是爱他的。",
+                        "link": "http://m.wufazhuce.com/serial/1205?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第二十三章：大财大色",
+                        "desc": "文/红拂夜奔不复还 她能这么骂他，说明还是爱他的。",
+                        "link": "http://m.wufazhuce.com/serial/1205?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第二十三章：大财大色》 文/红拂夜奔不复还： 她能这么骂他，说明还是爱他的。 阅读全文：http://m.wufazhuce.com/serial/1205?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1205?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第二十三章：大财大色",
+                        "desc": "她能这么骂他，说明还是爱他的。",
+                        "link": "http://m.wufazhuce.com/serial/1205?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20483",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2871",
+                "title": "生命中有哪些事让你感到无力？",
+                "forward": "痛苦也使人强大，更使人懂得珍惜身边的人。",
+                "img_url": "http://image.wufazhuce.com/FqtfdKjlThiRup0L0QkdwHiweTWh",
+                "like_count": 2240,
+                "post_date": "2020-06-08 06:00:00",
+                "last_update_date": "2020-06-07 20:56:12",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "博物馆内的白云",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2871",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2871",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2871",
+                    "image": "http://image.wufazhuce.com/FqtfdKjlThiRup0L0QkdwHiweTWh",
+                    "title": "生命中有哪些事让你感到无力？",
+                    "content": "生命中有哪些事让你感到无力？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 生命中有哪些事让你感到无力？",
+                        "desc": "文/林庭 在认清生活真相之后，请你依然热爱生活。",
+                        "link": "http://m.wufazhuce.com/question/2871?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 生命中有哪些事让你感到无力？",
+                        "desc": "文/林庭 在认清生活真相之后，请你依然热爱生活。",
+                        "link": "http://m.wufazhuce.com/question/2871?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 生命中有哪些事让你感到无力？》 文/林庭： 在认清生活真相之后，请你依然热爱生活。 阅读全文：http://m.wufazhuce.com/question/2871?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2871?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "生命中有哪些事让你感到无力？",
+                        "desc": "在认清生活真相之后，请你依然热爱生活。",
+                        "link": "http://m.wufazhuce.com/question/2871?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "20492",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3271",
+                "title": "有人可爱，万事可期",
+                "forward": "同他重逢是奇迹，这段原本会散落在人海的感情，因为他的执着和笃定，跨越了时间和城市的距离。",
+                "img_url": "http://image.wufazhuce.com/Fq2P4Np80XO18KlUpO2Wn7lvpOu2",
+                "like_count": 2246,
+                "post_date": "2020-06-08 06:00:00",
+                "last_update_date": "2020-06-08 16:21:18",
+                "author": {
+                    "user_id": "7820045",
+                    "user_name": "董大胆",
+                    "desc": "典型巨蟹座，微博@是董大胆",
+                    "wb_name": "@是董大胆",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "典型巨蟹座",
+                    "fans_total": "14449",
+                    "web_url": "http://image.wufazhuce.com/FuEA5ld2cD8j9-0b8BLXSk1fsgxC"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/ljZIh_byvOem93Hv01IrEtxdmBEp",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "One Love",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3271",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3271",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3271",
+                    "image": "http://image.wufazhuce.com/Fq2P4Np80XO18KlUpO2Wn7lvpOu2",
+                    "title": "「一个」音乐: 董大胆 One Love",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.沈正敲门的时候，芊慧刚取下身上的围裙。下班时她买了五花肉，焯完水放入冰箱，再切好泡菜和扁豆，准备明天早上起来炒。她其实是个不太在乎口腹之欲的人，但沈正总是热衷于了解她生活里的一切。为了不让他担心，她便开始变着法给自己做美食。以至于自己棱角分明的脸，渐渐也变得有些圆润。原本还有一个月才会从上海离职的沈正，竟然出现在她打开的门后，芊慧下意识捂住了自己因为惊讶而微张的嘴。沈正拉住她的手：&ldquo;我淋了雨，你难道能狠心把我拒之门外？&rdquo;反应过来的芊慧笑一笑，手上的围裙就往他怀里砸：&ldquo;死不了。&rdquo;她不知道沈正的伶牙俐齿到底是何时学会的，她记忆中的他，沉闷又不善表达。可一想到他为了自己毅然决然离开自己所生活的城市，心内又一软。放了行李后他去冲澡，她围着灶台烹饪食物。大约是真的累极了，他吃了个底朝天，待她去厨房转了一圈回来，他便在沙发上睡着了。他睫毛长长的，一张清俊好看的面孔。她忘了听谁说过，如果一个人睡着了的面孔也好看，那他就是真的好看。她轻轻点一点他的鼻尖，觉得心内满满的，&ldquo;沈正，谢谢你。&rdquo;2.几个月前芊慧失业了，今年特殊，再加上她不过是个职场新人，这个结果在她意料之中。闲下来的她整日骑着自行车乱逛，路过高中时期常去的音像店，店里的音响声盖过了耳机音乐，看到柜台的老板默默点着头打节拍，她忍不住停了下来。&ldquo;梁哥，生意还好吗？&rdquo;她推开门，熟络地和老板打招呼。&ldquo;是你这小鬼啊！&rdquo;老板穿着一件黑色皮衣，一如当年。&ldquo;好久不见。&rdquo;她嘴角噙笑。&ldquo;的确好久不见，你们这群家伙一毕业，我这店里就没几个人来啰。&rdquo;老梁的脸上刻上了岁月的印记，此刻好似蒙上了一层阴影。&ldquo;现在都有咖啡喝了？&rdquo;她望一眼旁边的咖啡豆，不露痕迹地转移话题。&ldquo;为了招揽生意，我也是想尽了办法。&rdquo;老梁挠挠头，接着说：&ldquo;你先随便看，我请你喝咖啡。&rdquo;&ldquo;好&rdquo;。她笑笑不再说话，钻进年少时的避风港。她有一段关于音像店的回忆。那时候想听首歌，不像现在这么方便，只需动动手指就能办到。她通常要攒上一星期的钱，在音像店精挑细选，才肯将口袋里皱皱巴巴的零花钱掏出来。然后匆匆赶回家，把它放进录音机里。那天的作业一定做得特别快，那晚的梦也格外香甜。那个和音像店有关的人，也让她难以忘怀，一记就记了这么多年。沈正是芊慧高二时班上新来的寄读生，个高得有些突兀，被班主任安排坐在了最后一排，也就是芊慧旁边。芊慧个头并不高，之所以坐末尾是因为她某天在音像店排买磁带，被骑车路过的班主任逮了个正着。3.沈正不爱讲话，坐在她旁边一个星期都没有和她说过一句话。只是有次上生物课老师点到沈正的名字，他大约走神了，喊他第二声也没站起来。她出于好心抬脚踢了一下他的凳子，他这才站了起来，说的却是&ldquo;不知道&rdquo;。是比较基础的一道题，生物老师脸色有点难看，芊惠开口道：&ldquo;老师，这风扇声音太大，我们坐太后面了，我刚刚也没听清楚。&rdquo;&ldquo;那我们再讲一遍。沈正，你先坐下。&rdquo;芊慧解救了沈正，然而他并不感恩，望她的眼神仿佛在说：&ldquo;为什么要多管闲事。&rdquo;她揉了揉鼻子，躲开他的目光。少年的眼底清澈，却不似同龄人般友善。像一座孤岛，入口处写着生人勿进。芊慧虽然是个热心肠，却也不是对任何人都好脾气。一切只因，她在音像店碰到过沈正好几次，他出手阔绰，买的都是同一个歌手的磁带。而恰好，她也喜欢那个歌手。人总是对和自己有相同喜好的人格外宽容，少年人喜欢寻求认同，哪怕对方并不热情。&ldquo;沈正，你家里是不是有很多磁带？&rdquo;少年皱眉。&ldquo;真羡慕你啊，我妈都不让我买，我只能把它们藏在床底下。&rdquo;他不说话，拿了磁带就去付款。&ldquo;你听完能不能借我听听？&rdquo;沈正扭头就走，不再理会她的自言自语。可第二天早上，芊慧在自己抽屉里看到了他昨天买的磁带。她咬着嘴唇憋笑，旁边的沈正望着书坐得笔直，却一个字都没有看进去。直到和沈正分别，芊慧才读懂他眼里的疏离和距离感。他爸妈离了婚，他被判给他爸。然而父亲再婚了，他成了新家庭里多余的那一个，只能被放在亲戚家寄养。给不了他的爱，就只能用金钱来弥补，这便是沈正从不心疼钱的原因。4.那是沈正在学校上的最后一个晚自习，教学楼到校门口有一排明晃晃的路灯。他们一起走过，他用非常平静的口吻向芊慧叙述了这些，不知是不是天气太热了，她觉得有些头晕。沈正把手中抱着的盒子交给她，颇为无奈地说：&ldquo;我懒得带到我妈那里去了，你先替我保管。千万不能扔了，我会回来取的。&rdquo;&ldquo;好。&rdquo;她心底空落落的，只闷闷地回了一句。&ldquo;我很开心。&rdquo;沈正的声音轻快，看得出来他的确心情很好。芊慧也想替他开心，他终于不用再过寄人篱下的生活，可为什么，心底总是难过的。当时的她不知道，原来一个人对另一个人的想念，不一定会在失去之时歇斯底里。之后很多年，她听到和他有关的歌，都会忽然恍了神。她当然也不知道，沈正说的&ldquo;我很开心&rdquo;还有另一层意思：因为有你，我很开心。记忆中的音像店，因为沈正的离开和高中时代的结束而落寞地谢幕。&ldquo;你是叫芊慧对吧。&rdquo;老梁突然问起她的名字。&ldquo;嗯？&rdquo;芊慧放下手里的唱片回应道。&ldquo;以前常和你一起的那个男生，叫沈正，你还记得吗？&rdquo;听到老板说起沈正的名字，芊慧有些奇怪。&ldquo;他之前来过，留了一个电话给我，说如果你过来，一定要打电话告诉他。&rdquo;老板低头在抽屉里翻找，芊惠有些不知所措。直到老梁拍了拍她的肩膀，把手机递给了她。她接过，放在耳边。听到电话那头的人说：&ldquo;我一直想找你，可只能想到这样一个笨拙的办法。&rdquo;芊慧听见沈正在电话里面笑了，她突然觉得很心酸。在重逢之前，他们各自走完了很长很长的路程。可她却一点都不知道，原来他为了找她做了这么多事。5.那天的沈正告诉她：&ldquo;等着我，我去找你。&rdquo;他没有食言，这段原本会散落在人海的感情，因为他的执着和笃定，跨越了时间和城市的距离。同他重逢的奇迹，也使得芊慧开始有勇气面对现状，让自己的生活不再沉闷乏味。他们买了一台电动车，每天清晨沈正都会载着芊惠乘着风稳稳地往前骑。芊惠总会一手提着便当盒，一手搂着他的腰，笑得像个没有烦恼的小孩。她对他的喜欢大概就是这么多吧，同清晨对露水的爱、落日对朝霞的宠没有什么不同，美好且纯粹，真诚又温柔。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 有人可爱，万事可期",
+                        "desc": "文/董大胆 你是我的独家记忆，是我少年时的避风港。",
+                        "link": "http://m.wufazhuce.com/music/3271?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 有人可爱，万事可期",
+                        "desc": "文/董大胆 你是我的独家记忆，是我少年时的避风港。",
+                        "link": "http://m.wufazhuce.com/music/3271?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 有人可爱，万事可期》 文/董大胆： 你是我的独家记忆，是我少年时的避风港。 阅读全文：http://m.wufazhuce.com/music/3271?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3271?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有人可爱，万事可期",
+                        "desc": "你是我的独家记忆，是我少年时的避风港。",
+                        "link": "http://m.wufazhuce.com/music/3271?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "One Love",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "KYLO",
+                "audio_album": "One Love",
+                "cover": "http://image.wufazhuce.com/FrZ0MY8i6JJtzDAv3pJnDYV2QW3M",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2802",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4343",
+                    "title": "皮囊之下"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1205",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第二十三章：大财大色"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2871",
+                    "title": "生命中有哪些事让你感到无力？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3271",
+                    "title": "有人可爱，万事可期"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

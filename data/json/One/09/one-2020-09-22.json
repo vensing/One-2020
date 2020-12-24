@@ -1,0 +1,583 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5625",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-09-22 06:00:00",
+        "content_list": [
+            {
+                "id": "21138",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2950",
+                "title": "摄影",
+                "forward": "认识你自己。",
+                "img_url": "http://image.wufazhuce.com/FhYUZyD1Fnyu-63k4ziPDFZJNcAS",
+                "like_count": 14340,
+                "post_date": "2020-09-22 06:00:00",
+                "last_update_date": "2020-09-18 16:01:15",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2908",
+                "pic_info": "Micheile Henderson",
+                "words_info": "阿波罗太阳神庙",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2950",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2950",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2950",
+                    "image": "http://image.wufazhuce.com/FhYUZyD1Fnyu-63k4ziPDFZJNcAS",
+                    "title": "VOL.2908",
+                    "content": "认识你自己。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2950?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2950?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 认识你自己。——阿波罗太阳神庙 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2950?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2950?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21144",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4454",
+                "title": "猫咪欺诈犯",
+                "forward": "不知道猫是怎么想的，但我是要吃饱睡好的，明天继续去上班赚钱。毕竟，我还有一只猫要养。",
+                "img_url": "http://image.wufazhuce.com/Fg64_brXvc9YLXjfauTaKDke-tbn",
+                "like_count": 1884,
+                "post_date": "2020-09-22 06:00:00",
+                "last_update_date": "2020-09-22 08:25:42",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4454",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4454",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4454",
+                    "image": "http://image.wufazhuce.com/Fg64_brXvc9YLXjfauTaKDke-tbn",
+                    "title": "猫咪欺诈犯 作者/鳄鱼姐",
+                    "content": "其实你们都只是猫选中的人而已。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 猫咪欺诈犯",
+                        "desc": "文/鳄鱼姐 其实你们都只是猫选中的人而已。",
+                        "link": "http://m.wufazhuce.com/article/4454?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 猫咪欺诈犯",
+                        "desc": "文/鳄鱼姐 其实你们都只是猫选中的人而已。",
+                        "link": "http://m.wufazhuce.com/article/4454?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 猫咪欺诈犯》 文/鳄鱼姐： 其实你们都只是猫选中的人而已。 阅读全文：http://m.wufazhuce.com/article/4454?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4454?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "猫咪欺诈犯",
+                        "desc": "其实你们都只是猫选中的人而已。",
+                        "link": "http://m.wufazhuce.com/article/4454?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21032",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1282",
+                "title": "我的么啊·第十三章：上锁的相册",
+                "forward": "“你就吃一口，不好吃扣我工资，么啊你就吃一口。”",
+                "img_url": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                "like_count": 703,
+                "post_date": "2020-09-22 06:00:00",
+                "last_update_date": "2020-09-04 12:43:53",
+                "author": {
+                    "user_id": "4814954",
+                    "user_name": "陈麒凌",
+                    "desc": "陈麒凌，也教书，也写小说。曾获得联合报文学奖首奖、全球华文文学星云奖、林语堂文学奖。",
+                    "wb_name": "@陈麒凌",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "也教书，也写小说。",
+                    "fans_total": "2296",
+                    "web_url": "http://image.wufazhuce.com/Fggt2Ut1kJ7uTNjxGSG4w-LGRL6S"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第13章",
+                "number": "13",
+                "serial_id": "87",
+                "serial_list": [
+                    "1270",
+                    "1271",
+                    "1272",
+                    "1273",
+                    "1274",
+                    "1275",
+                    "1276",
+                    "1277",
+                    "1278",
+                    "1279",
+                    "1280",
+                    "1281",
+                    "1282",
+                    "1283",
+                    "1284",
+                    "1285",
+                    "1286",
+                    "1287",
+                    "1288",
+                    "1289"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1282",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1282",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1282",
+                    "image": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                    "title": "我的么啊·第十三章：上锁的相册 作者/陈麒凌",
+                    "content": "“你就吃一口，不好吃扣我工资，么啊你就吃一口。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 我的么啊·第十三章：上锁的相册",
+                        "desc": "文/陈麒凌 “你就吃一口，不好吃扣我工资，么啊你就吃一口。”",
+                        "link": "http://m.wufazhuce.com/serial/1282?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 我的么啊·第十三章：上锁的相册",
+                        "desc": "文/陈麒凌 “你就吃一口，不好吃扣我工资，么啊你就吃一口。”",
+                        "link": "http://m.wufazhuce.com/serial/1282?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 我的么啊·第十三章：上锁的相册》 文/陈麒凌： “你就吃一口，不好吃扣我工资，么啊你就吃一口。” 阅读全文：http://m.wufazhuce.com/serial/1282?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1282?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我的么啊·第十三章：上锁的相册",
+                        "desc": "“你就吃一口，不好吃扣我工资，么啊你就吃一口。”",
+                        "link": "http://m.wufazhuce.com/serial/1282?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21147",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2984",
+                "title": "你遇到过哪些让你无能为力的事？",
+                "forward": "据说在人的所有感官里，最后消失的是听觉，我相信，她一定听到了。",
+                "img_url": "http://image.wufazhuce.com/FvFtGAykPQGixlMufnkMpqOCJ2dT",
+                "like_count": 2111,
+                "post_date": "2020-09-22 06:00:00",
+                "last_update_date": "2020-09-21 13:52:34",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE·一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2984",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2984",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2984",
+                    "image": "http://image.wufazhuce.com/FvFtGAykPQGixlMufnkMpqOCJ2dT",
+                    "title": "你遇到过哪些让你无能为力的事？",
+                    "content": "你遇到过哪些让你无能为力的事？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你遇到过哪些让你无能为力的事？",
+                        "desc": "文/天才捕手计划 生命太脆弱，有时从生到死只在一瞬。",
+                        "link": "http://m.wufazhuce.com/question/2984?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你遇到过哪些让你无能为力的事？",
+                        "desc": "文/天才捕手计划 生命太脆弱，有时从生到死只在一瞬。",
+                        "link": "http://m.wufazhuce.com/question/2984?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你遇到过哪些让你无能为力的事？》 文/天才捕手计划： 生命太脆弱，有时从生到死只在一瞬。 阅读全文：http://m.wufazhuce.com/question/2984?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2984?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你遇到过哪些让你无能为力的事？",
+                        "desc": "生命太脆弱，有时从生到死只在一瞬。",
+                        "link": "http://m.wufazhuce.com/question/2984?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11605690",
+                    "user_name": "天才捕手计划",
+                    "desc": "一个出品“口述真实故事”的创作机构，聚焦带劲的人生体验，用文字记录每一段真实的特殊经历。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "捕捉最带劲儿的亲身经历。",
+                    "fans_total": "190",
+                    "web_url": "http://image.wufazhuce.com/FlYjkbioVr2AnIhXQ6eBJHE-uARY"
+                }
+            },
+            {
+                "id": "21148",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2054",
+                "title": "老板，再来一碗热干面",
+                "forward": "“日本人看中国”纪录片单元之一，一位日本导演选择记录疫情后的武汉，他看到了什么？",
+                "img_url": "http://image.wufazhuce.com/FkfDJrXbAY6935YLCybgLyVwtV3d",
+                "like_count": 1563,
+                "post_date": "2020-09-22 06:00:00",
+                "last_update_date": "2020-09-22 15:07:51",
+                "author": {
+                    "user_id": "9108807",
+                    "user_name": "陈廿榛",
+                    "desc": "他的影子里珍珠已长成。",
+                    "wb_name": "@陈廿榛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "他的影子里珍珠已长成。",
+                    "fans_total": "3406",
+                    "web_url": "http://image.wufazhuce.com/FplotFerRi3Pw5NUzcHCR6gF01FO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "好久不见，武汉",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5037",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2054",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2054",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2054",
+                    "image": "http://image.wufazhuce.com/FkfDJrXbAY6935YLCybgLyVwtV3d",
+                    "title": "「一个」电影: 好久不见，武汉",
+                    "content": "一看完《好久不见，武汉》，忽然有点想家了，算了下，距离上次回国已经整整过去一年。从二零一九年十二月以来，看过太多关于武汉的东西，真假混杂的新闻，声声泣血的求救，众志成城，生死奔赴，能够调动情绪的内容太多，以至于看到这样一部纪录片时反倒冷静下来，因为它太平了。这部纪录片的导演竹内亮，是生活在南京的日本人，六月一日，他和工作团队一起奔赴武汉，通过拍摄十位受访者，展现了武汉在封城结束后的生活。之所以说这部纪录片太平了，是因为它并没有过多渲染某种情绪，它展现的就是武汉在遭逢大难后的生活。一个小时的视频里，可以看到多种维度下的武汉。封城期间坚持工作的外卖员，在微博上怒斥特朗普，因为没有人比他们更清楚，武汉这座城市经历了什么，武汉人这几个月面对了什么。空荡荡的街巷，救护车鸣笛的声音，医院里紧张的床位，街道办基层人员的坚守，这些是病毒笼罩下人们的真实生活。生活已经很难了，武汉人或者说湖北人却还要面对另一种敌视：来自他人的排斥。病毒撕裂了人与人之间本就轻薄的信任，痊愈后回家却看到邻居微微侧过身去，打开网络信息却看到超级大国的总统毫无同理心。这些看似不值得刻意提起的排斥，有时候比病毒更让人难以承受。与此相对的是，在网络上被大肆谈论的华南海鲜市场，被在那里工作过的商户提起时，并不恐怖。已经搬迁到另一个海鲜市场的人们，坐在店里喝着茶聊起一月时，也并没有身处漩涡中心的恐惧，&ldquo;我所知道，华南最后感染新冠的病例并不多&rdquo;，商户这样说。能够换个地方继续维持生意已经算幸运，还有一部分商家，比如奶茶店和艺术教育店，前者只剩一个合伙人在努力支撑，后者则已经开始拆店，无法继续维持生意。病毒对世界经济的冲击可见一斑，在此期间能够盈利的也只有口罩防护服生产公司。而当镜头从公司转到个人身上时，这种影响就更为明显。十天建成的雷神山医院，工人只是其中一环，在面对提问时，这位年轻的爸爸坦诚主要是为了多赚点钱。但提到和工友一起制作留念的奖杯时，他又笑得很有成就感。在这几位受访者的讲述中，能够看到的是武汉封城以来对经济的冲击，落在创业者身上是苦苦支撑与无奈散场，落在工作者身上则是努力能赚一点是一点，毕竟需要赚钱养家。而关于病毒对人的伤害，主要体现在两个女孩身上，一个是抗疫期间在医院工作的护士，另一个失去了至亲的外公。但她们在讲述时不约而同地选择了尽量在镜头前保持情绪稳定。只是提及病人家属去排队领遗物时，仍然忍不住落泪，看到前不久才给外公买的麻将桌时，也忍不住哽咽。物品还在，人却永远离开了。&nbsp;二这大半年来，常常看到新闻报道写&ldquo;武汉是一座英雄的城市&rdquo;，但隔着网络和数字，很难去想象这座城市和其中的人们经历了什么。直到又看见武汉的夜市，看到试穿婚纱的新娘，看到主动要求和外国人合照的大爷们，还有汉江边上精气神十足的冬泳队，才意识到，这些在从前看来十分正常的情景，是用几个月的煎熬与牺牲换来的。直到这时，情绪才落在实处，才敢回过头去细想这大半年来的变化。在留学生的朋友圈，很多人说过这样一句话&ldquo;国内打上半场，国外打下半场，留学生打全场&rdquo;，我不太喜欢这种表达，但不得不承认这句话没说错。一月末时很担心国内的情况，每天大部分精力都用在了学习和关注新闻上，以至于身边人微妙的变化根本就没有留意到。上学期路上碰见了会热情打招呼的胖女孩，连续两次都没看到我；等在教室门口时，一脸严肃的老教授会主动问圣诞假期过得怎么样。在学校餐厅喝咖啡时会被国民警卫队的警员盯着看，直到熟悉的侍应生出来解释：&ldquo;她每天都会在这边吃饭。&rdquo;等到大家确定我圣诞没有回过中国以后，已经是二月末了，病毒开始在欧洲大陆上蔓延。西方媒体报道的主流仍是宣传生病的人才需要戴口罩。很多权威性报纸直接用&ldquo;武汉病毒&rdquo;做标题，华人挨打的新闻开始变多。好在身边没有人真的被打过，但多多少少会有些窝火的事情。我被三个年轻男人堵在路上问是从哪里来的，室友被初中小孩指着骂&ldquo;中国病毒&rdquo;，戴了口罩的同学骑着车被路人拦下来，要求生病的人滚回中国去。而现在说起这些，已经毫无感觉了。不是因为被时间冲淡了愤怒和恐惧，而是在这长达八个月的持久消耗中意识到，世界上绝大多数人并不关心病毒的源头到底在哪里。真正关心的，只有科研人员和中国人，或者说，武汉人。相当一部分欧洲人，身上还涌动着文艺复兴传承下来的血脉，今朝有酒今朝醉，人文主义自由主义万岁。我不知道当地的年轻人看到报纸上的讣告和每日渐增的死亡人数会怎么想。我在二月底的某一天，看到窗外独自坐在长椅上的老人时会忍不住想哭，会担心以前和蔼的邻居，他们已经八十多岁了，是我同学们口中病毒主要影响的对象。&ldquo;我们是年轻人，不用怕&rdquo;，他们这样安慰我。&nbsp;三我第一次看到这部纪录片，是在微博首页看到有人转发，导演征集志愿者为片子制作外语字幕。《好久不见》在YOUTUBE上的字幕有包括阿拉伯语，波斯语，俄语德语西班牙语在内的十二国语言，但八千多条评论里大多数是中文，其次是日语和英语。前段时间和朋友聊到这场病毒，朋友说生活像是一辆飞驰的列车忽然之间脱轨了，我的感觉却恰好相反，我是觉得我们都走上了一条加速前进的传送带。对这部纪录片的评价，我所注意到频繁出现的关键词是：中立，真实，人文，朴实。我不知道我们进入了一个怎样的时代，客观和真实竟然成了稀有的需要被感谢的存在。从近处来说，是网络上越来越偏激的二元对立，非黑即白，界限分明到不允许中间地带存在。可怕的是，理性和思考成了这种对峙下的牺牲品，情绪和胜负却成了辩论的终点。我不知道是不是自己的错觉，这种对立从病毒蔓延开以后格外明显。表现在国内的网络上是，煽情和示弱更能得到同情，而相对理性的表达总是会被指摘。人们似乎把积攒了一个春天的怨气都用在了互联网上，用在了攻击某个群体或个人上。因为这样的攻击性不需要付出成本就能收获快感。而这种互联网攻击大概是目前全人类最显著的共通性，不论种族，不论语言，只要有互联网在的地方，永远不缺偏见与歧视。但好在，生活中总是要有点温暖，才不至于让人觉得前途一片黑暗。在二月武汉以这样一种方式被全世界关注以后，西班牙的马德里，出现了一些行为艺术者，年轻人们举着牌子号召人们不要歧视中国人。半个月后，欧洲感染病例猛增时，很多华人在地铁口主动分发口罩，尽管那时，媒体依旧倡导不要戴口罩，但还是有很多人接过了口罩并且道谢。语言世界里的黑暗与偏激，是在现实世界里可以被消解一部分的。所以对于《好久不见，武汉》，我欣赏的不是它所谓的&ldquo;中立客观&rdquo;，而是它让很多没去过武汉的人看到，冰山下的人们是如何熬过这个春天的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 老板，再来一碗热干面",
+                        "desc": "文/陈廿榛 他们在冰山下，熬过了这个春天。",
+                        "link": "http://m.wufazhuce.com/movie/2054?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 老板，再来一碗热干面",
+                        "desc": "文/陈廿榛 他们在冰山下，熬过了这个春天。",
+                        "link": "http://m.wufazhuce.com/movie/2054?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 老板，再来一碗热干面》 文/陈廿榛： 他们在冰山下，熬过了这个春天。 阅读全文：http://m.wufazhuce.com/movie/2054?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2054?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "老板，再来一碗热干面",
+                        "desc": "他们在冰山下，熬过了这个春天。",
+                        "link": "http://m.wufazhuce.com/movie/2054?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21033",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3271",
+                "title": "生活下去，全靠“意外之喜”",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fo-RbHvrAUp_ssmYFq--EAVJK_oh?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1135,
+                "post_date": "2020-09-22 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3271",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3271",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 生活下去，全靠“意外之喜”",
+                        "desc": "如果注定的结局，只盼不期而遇",
+                        "link": "http://m.wufazhuce.com/radio/3271?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpWtMjHw03KtWMVDTnRPSIPsoGMc"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 生活下去，全靠“意外之喜”",
+                        "desc": "如果注定的结局，只盼不期而遇",
+                        "link": "http://m.wufazhuce.com/radio/3271?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpWtMjHw03KtWMVDTnRPSIPsoGMc"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 生活下去，全靠“意外之喜”》 主播/马晓橙： 如果注定的结局，只盼不期而遇 阅读全文：http://m.wufazhuce.com/radio/3271?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3271?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lpWtMjHw03KtWMVDTnRPSIPsoGMc"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "生活下去，全靠“意外之喜”",
+                        "link": "http://m.wufazhuce.com/radio/3271?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpWtMjHw03KtWMVDTnRPSIPsoGMc"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 887 期",
+                "audio_url": "http://music.wufazhuce.com/lpWtMjHw03KtWMVDTnRPSIPsoGMc"
+            }
+        ],
+        "menu": {
+            "vol": "2908",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4454",
+                    "title": "猫咪欺诈犯"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1282",
+                    "serial_list": [
+                        "1270",
+                        "1271",
+                        "1272",
+                        "1273",
+                        "1274",
+                        "1275",
+                        "1276",
+                        "1277",
+                        "1278",
+                        "1279",
+                        "1280",
+                        "1281",
+                        "1282",
+                        "1283",
+                        "1284",
+                        "1285",
+                        "1286",
+                        "1287",
+                        "1288",
+                        "1289"
+                    ],
+                    "title": "我的么啊·第十三章：上锁的相册"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2984",
+                    "title": "你遇到过哪些让你无能为力的事？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2054",
+                    "title": "老板，再来一碗热干面"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3271",
+                    "title": "生活下去，全靠“意外之喜”"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

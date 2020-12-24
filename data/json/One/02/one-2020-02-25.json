@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5426",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-25 06:00:00",
+        "content_list": [
+            {
+                "id": "19856",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2738",
+                "title": "摄影",
+                "forward": "就算走到绝境，失去耐心，也要永远保有幽默感，热爱生活，这是我们人生最大的财富。",
+                "img_url": "http://image.wufazhuce.com/FnKcs9db0ZDt9X9HotWQ-RDNtWSu",
+                "like_count": 18295,
+                "post_date": "2020-02-25 06:00:00",
+                "last_update_date": "2020-02-23 12:46:58",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2698",
+                "pic_info": "Marcos Perez",
+                "words_info": "马尔克斯《活着为了讲述》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2738",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2738",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2738",
+                    "image": "http://image.wufazhuce.com/FnKcs9db0ZDt9X9HotWQ-RDNtWSu",
+                    "title": "VOL.2698",
+                    "content": "就算走到绝境，失去耐心，也要永远保有幽默感，热爱生活，这是我们人生最大的财富。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2738?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2738?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 就算走到绝境，失去耐心，也要永远保有幽默感，热爱生活，这是我们人生最大的财富。——马尔克斯《活着为了讲述》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2738?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2738?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19869",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4214",
+                "title": "男孩看见野玫瑰",
+                "forward": "她需要的就是慢一点开始恋爱，然后可以恋爱得久一点。",
+                "img_url": "http://image.wufazhuce.com/Fuw1fq_aR8MUnbw-G9M21084-Ckb",
+                "like_count": 3794,
+                "post_date": "2020-02-25 06:00:00",
+                "last_update_date": "2020-02-25 08:20:17",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4214",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4214",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4214",
+                    "image": "http://image.wufazhuce.com/Fuw1fq_aR8MUnbw-G9M21084-Ckb",
+                    "title": "男孩看见野玫瑰 作者/陈雪",
+                    "content": "她需要的就是慢一点开始恋爱，然后可以恋爱得久一点。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 男孩看见野玫瑰",
+                        "desc": "文/陈雪 她需要的就是慢一点开始恋爱，然后可以恋爱得久一点。",
+                        "link": "http://m.wufazhuce.com/article/4214?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 男孩看见野玫瑰",
+                        "desc": "文/陈雪 她需要的就是慢一点开始恋爱，然后可以恋爱得久一点。",
+                        "link": "http://m.wufazhuce.com/article/4214?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 男孩看见野玫瑰》 文/陈雪： 她需要的就是慢一点开始恋爱，然后可以恋爱得久一点。 阅读全文：http://m.wufazhuce.com/article/4214?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4214?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "男孩看见野玫瑰",
+                        "desc": "她需要的就是慢一点开始恋爱，然后可以恋爱得久一点。",
+                        "link": "http://m.wufazhuce.com/article/4214?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19850",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1114",
+                "title": "世界得了健忘症·第十二章：怀孕",
+                "forward": "我的生育权不属于我自己。否则，我怎么事到临头还在征询他的意见？我将他错放在了一个“父亲”的位置上。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 863,
+                "post_date": "2020-02-25 06:00:00",
+                "last_update_date": "2020-02-21 16:31:00",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第12章",
+                "number": "12",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1114",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1114",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1114",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第十二章：怀孕 作者/昔央",
+                    "content": "我的生育权不属于我自己。我将他错放在了一个“父亲”的位置上。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第十二章：怀孕",
+                        "desc": "文/昔央 我的生育权不属于我自己。我将他错放在了一个“父亲”的位置上。",
+                        "link": "http://m.wufazhuce.com/serial/1114?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第十二章：怀孕",
+                        "desc": "文/昔央 我的生育权不属于我自己。我将他错放在了一个“父亲”的位置上。",
+                        "link": "http://m.wufazhuce.com/serial/1114?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第十二章：怀孕》 文/昔央： 我的生育权不属于我自己。我将他错放在了一个“父亲”的位置上。 阅读全文：http://m.wufazhuce.com/serial/1114?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1114?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第十二章：怀孕",
+                        "desc": "我的生育权不属于我自己。我将他错放在了一个“父亲”的位置上。",
+                        "link": "http://m.wufazhuce.com/serial/1114?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19868",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2767",
+                "title": "为什么大家会那么喜欢追星？",
+                "forward": "我们都在努力地成为那个让自己更满意的人，这就足够了。",
+                "img_url": "http://image.wufazhuce.com/Fs47cBoWUjA6iL3YQoaboa5I3Jm_",
+                "like_count": 2815,
+                "post_date": "2020-02-25 06:00:00",
+                "last_update_date": "2020-02-24 12:03:39",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "士多啤梨",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2767",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2767",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2767",
+                    "image": "http://image.wufazhuce.com/Fs47cBoWUjA6iL3YQoaboa5I3Jm_",
+                    "title": "为什么大家会那么喜欢追星？",
+                    "content": "为什么大家会那么喜欢追星？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 为什么大家会那么喜欢追星？",
+                        "desc": "文/林庭 我们都在努力地成为那个让自己更满意的人，这就足够了。",
+                        "link": "http://m.wufazhuce.com/question/2767?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 为什么大家会那么喜欢追星？",
+                        "desc": "文/林庭 我们都在努力地成为那个让自己更满意的人，这就足够了。",
+                        "link": "http://m.wufazhuce.com/question/2767?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 为什么大家会那么喜欢追星？》 文/林庭： 我们都在努力地成为那个让自己更满意的人，这就足够了。 阅读全文：http://m.wufazhuce.com/question/2767?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2767?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "为什么大家会那么喜欢追星？",
+                        "desc": "我们都在努力地成为那个让自己更满意的人，这就足够了。",
+                        "link": "http://m.wufazhuce.com/question/2767?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "19865",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1957",
+                "title": "你要守护好，平凡的自己",
+                "forward": "平凡的世界里，你要守护好你平凡的梦想。",
+                "img_url": "http://image.wufazhuce.com/FqlptNv_seMN4X97apwjpzR_yitX",
+                "like_count": 2419,
+                "post_date": "2020-02-25 06:00:00",
+                "last_update_date": "2020-02-23 19:55:07",
+                "author": {
+                    "user_id": "11069712",
+                    "user_name": "王花花",
+                    "desc": "武大文学学士，人大电影学硕士。专业电影学徒，业余影评制造者，日常码字小工匠。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "与电影周旋久",
+                    "fans_total": "198",
+                    "web_url": "http://image.wufazhuce.com/FmpbkH_JPW4cjIzziNRPj0RIEaQN"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "半个喜剧",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4940",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1957",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1957",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1957",
+                    "image": "http://image.wufazhuce.com/FqlptNv_seMN4X97apwjpzR_yitX",
+                    "title": "「一个」电影: 半个喜剧",
+                    "content": "追求理想还是向现实妥协，坚守本心还是屈从利益诱惑，实现自我价值还是满足世俗期待&hellip;&hellip;或许每个年轻人都绕不开这一切背后的终极困惑&mdash;&mdash;如何选择自己的人生。影片《半个喜剧》便将目光对准这种拧巴和纠结，用喜剧糖衣包裹住现实的锋芒，把这个经典又颇有难度的&ldquo;人生选择题&rdquo;摆在了主人公孙同面前。孙同，出身小城，复读三年才考到北京。在他终于要完成学业，渴望在这个心驰已久的城市扎根时，却面临两个截然不同的选择。选项一：对好哥们郑多多唯命是从，隐瞒他的&ldquo;渣男&rdquo;属性，与女友（郑多多的前约会对象）分手，只为满足他无理的占有欲。如此就能靠郑多多的&ldquo;关系&rdquo;得到北京户口和一份体面的工作，实现母亲宁愿卖房卖肾也要让自己成为&ldquo;北京人&rdquo;的殷切期望。选项二：勇敢追求爱情，哪怕与郑多多绝交而牺牲眼看就要到手的&ldquo;进京门票&rdquo;，冒着养不活自己的风险去追求&ldquo;音乐梦&rdquo;，不再听命于母亲令人窒息的爱之掌控，为自己而活。围绕&ldquo;人生选择题&rdquo;这条主线，影片通过让孙同在名利和自由、现实和梦想、适应规则和坚守原则的两难困境中一步一步做出最终选择，所要探讨的，是当代年轻人如何走好自己的成长之路，在各种各样的欲望、诱惑面前，守住内心最宝贵的东西。（1）穿他的衣服，住他的房子，靠他拿到户口和工作。他背着未婚妻约炮了，我敢说吗？郑多多一觉醒来，身边躺着昨夜带回家连名字都不知道的女人，门外站着约会对象莫默，而自己还有个正牌未婚妻高璐。到处拈花惹草的郑多多，用他老道的演技让莫默相信房间里衣衫不整的女人是室友孙同带回来的；在与莫默共度春宵后，面对突然到访的高璐，在孙同的密切配合下，郑多多再次成功地让自己的未婚妻相信莫默是孙同的女朋友。在局促的房间中，人物之间各种信息错位引发的误解生产出异常密集的笑料。而这场围绕郑多多展开的爱恨纠葛本与孙同无关，他却和郑多多一起为了掩盖第一个谎言，不断编造着新的谎言，在这场戏结束的时候，孙同已经&ldquo;被&rdquo;拥有了两个女人。明知郑多多有未婚妻，却不告诉前来约会的莫默；明知高露遭到了背叛，却不告诉这个他曾暗恋的女孩，郑多多是何等货色。是孙同没有最基本的是非观和道德判断吗？当然不是。他也曾想过上前阻挠，可他住着郑多多的房子，靠郑多多的关系拿到户口和工作，连去酒吧演出都要穿郑多多的衣服&mdash;&mdash;他敢吗？孙同忙不迭给郑多多擦屁股，还美其名曰&ldquo;不要伤害到高璐&rdquo;。莫默倒是把一切都看明白了：&ldquo;你就是怕得罪郑多多，你就是郑多多养的一条狗。&rdquo;遭受欺骗而备受伤害的莫默，落魄地坐在地上。在这里，孙同唱起了《如果我不是我》，&ldquo;如果我不是我，如果鱼儿也能歌唱，我一定会陪在你身旁，不让你忧伤&hellip;&hellip;&rdquo;在一场充分暴露了自己窝囊相的闹剧后，这是孙同的自我疗愈，也像是自我追问，如果&ldquo;我不是我&rdquo;，为什么&ldquo;我不是我&rdquo;？他原本认定了当郑多多的一条狗，已经准备好把日子这么过下去的时候，莫默却把他从沉睡中叫醒了。她告诉孙同，&ldquo;做个人&rdquo;。（2）&mdash;&mdash;你生天上了，我生水坑里了。&mdash;&mdash;我没有生在天上，我也想过更好的生活，但让我做这种事，我做不了。让孙同要&ldquo;做个人&rdquo;的莫默，在接下来的故事中，一次又一次地宣告自己所坚守的人生信条，告诉孙同，人生的路还可以这样走。她毫不通融地回绝了行长让她给别人加塞办业务的要求。面对相亲对象&ldquo;关键是现在这社会不论对错，咱生活在这儿得适应这规则&rdquo;的质疑，她说：&ldquo;规则不对我干嘛适应它呢？&rdquo;这种看似有点耿直的观点并非来自一个不谙世事的浪漫主义者，而是来自一个看清生活真相后依然坚守自我的勇士。她说：&ldquo;我不是不知道这个世界什么样，我就是想试试这样行不行。我撞撞看嘛，撞不死我，我就还撞。&rdquo;镜头在酒吧昏暗的灯光中轻轻晃动，搅动着两人暧昧的心绪，孙同含笑望着莫默，心中的天平开始向另一侧倾斜。他再次唱起《我不是我》，&ldquo;我一定会陪在你身旁，不让你忧伤&rdquo;，像是自我觉醒的申告式。接下来，他找到莫默家，直截了当地向她表白。孙同开始直面&ldquo;做个落魄的人&rdquo;还是&ldquo;做条成功的狗&rdquo;的两难选择。两人的恋爱遭到了郑多多的强烈反对，理由则无理得令人叹为观止。在郑多多眼里，自己碰过的女人，哪怕不要了，也绝不许手下的小弟染指。在郑多多对这段感情横加干涉的段落中，起初孙同为自己据理力争，镜头中两人也处于&ldquo;孙同俯看&mdash;多多仰视&rdquo;的高低位置关系；当郑多多拿出户口和工作这个杀手锏的时候，画面中二人迅速变成&ldquo;孙同仰视&mdash;多多俯看&rdquo;，在渲染郑多多的盛气凌人之外，更多预示着孙同对莫默不顾一切的爱，还是在丧失工作、户口的巨大压力面前败下阵来。随后，孙同想与莫默&ldquo;假分手&rdquo;的提议遭到拒绝，两人不欢而散。这个潇洒离去的背影告诉孙同，如果他没有做出那个正确的选择，这段感情将无法继续。莫默自始至终坚定捍卫自己的人生哲学，因而她的形象就有了灯塔般的象征意义。她的迷人之处在于，绝大多数人都无法向她一样潇洒而无畏，但内心深处都渴望变成她的样子。而孙同则是我们每一个人，他有怯懦和犹豫，却没有在都市的丛林法则中真正沉沦。影片给了他自我辩解的机会：&ldquo;你生天上了，你生下来就什么都有了，我生水坑里了。&rdquo;皱着眉头计算五环外房子首付的北漂有多痛苦，有房有车有关系网的北京孩子就有多幸福。&ldquo;不是你输在起跑线，而是有人直接生在了终点线&rdquo;，成为很多都市&ldquo;漂一代&rdquo;们的无奈自嘲。但影片也借莫默之口阐明了主题：&ldquo;我没有生在天上，我也想过更好的生活，但让我做这种事，我做不了。&rdquo;每个人都有过更好生活的欲望，但从&ldquo;水坑&rdquo;去&ldquo;天上&rdquo;，不是什么路都可以走。（3）我想做个人。郑多多的婚礼如期而至，孙同依然是服务左右的小跟班，这种&ldquo;忍气吞声&rdquo;的能力连公司擅于阿谀逢迎的裴经理都自愧不如。而自我觉醒的火苗一旦燃起，就不会熄灭。孙同依然不敢反抗郑多多的&ldquo;强权&rdquo;，但曾经的衷心拥护已变成了虚与委蛇。他不再喝郑多多喝过后随手丢过来的矿泉水，两人的关系，也像那块摔碎的手机屏幕，有了裂隙。此时的孙同，&ldquo;做个人&rdquo;的渴望，如同对莫默的爱，虽被压抑在心底，却一时一刻都没有忘记。因此，他消极抵抗着母亲让他接触高露表姐的安排，这种不合作的态度刺激了母亲的控制欲，她想问郑多多要莫默的联系方式，看似是想缓和孙同与莫默的关系，实则给孙同施压&mdash;&mdash;我将告诉郑多多，你还想着她。战胜心中的怯懦，放弃过上更好物质生活的可能，真的太需要勇气。在母亲说出那个名字之前，孙同怂了，忙打圆场说是自己想要高璐表姐的电话。对自己无力、无能的愤怒在心中迅速发酵，既往的生活一幕一幕闪过，以丧失原则、丢掉自尊、放弃梦想为代价换来的这一切真的值得吗？价值的天平剧烈摇摆，他该做何选择。影片用一段激烈的打斗给出了答案，他不再袒护郑多多，告诉了高璐真相。从唯唯诺诺的看家狗，到勇敢追梦的新青年，孙同终于在一次次的挣扎犹豫中划出一道灿烂的成长弧光。（4）人生的通行证，是坚守最珍贵东西的勇气。在很多社会论理中，&ldquo;城市&rdquo;以它华灯高照的楼宇与熙来攘往的人流成为梦想和希望的代名词。但在孙同完成人生的选择题之前，却一直没有真正置身于都市的繁华，镜头将他限制在凌乱的房间、昏暗的酒吧、局促的楼梯间中。直到影片尾声，再次成功牵手的孙同和莫默坐上出租车，镜头随汽车的行进，伴着轻快的音乐，扫过北京的高楼林立、车水马龙，第一次展示这个城市的摩登魅力。在表达着两人心中的畅快之外，也寓意着只有充满尊严地生活在这里，才能真正融入城市的血脉，与它一同律动。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 你要守护好，平凡的自己",
+                        "desc": "文/王花花 平凡的世界里，你要守护好你平凡的梦想。",
+                        "link": "http://m.wufazhuce.com/movie/1957?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 你要守护好，平凡的自己",
+                        "desc": "文/王花花 平凡的世界里，你要守护好你平凡的梦想。",
+                        "link": "http://m.wufazhuce.com/movie/1957?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 你要守护好，平凡的自己》 文/王花花： 平凡的世界里，你要守护好你平凡的梦想。 阅读全文：http://m.wufazhuce.com/movie/1957?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1957?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你要守护好，平凡的自己",
+                        "desc": "平凡的世界里，你要守护好你平凡的梦想。",
+                        "link": "http://m.wufazhuce.com/movie/1957?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19851",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3072",
+                "title": "谁还没个\"小宝贝儿\"呀",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FkmViPNfPSUElEdUi4xkH36LNRlA?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1250,
+                "post_date": "2020-02-25 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3072",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3072",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 谁还没个\"小宝贝儿\"呀",
+                        "desc": "谢谢你比恋人更长情的的陪伴",
+                        "link": "http://m.wufazhuce.com/radio/3072?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqERldRTRdZFVgSDz4jEqejTScuC"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 谁还没个\"小宝贝儿\"呀",
+                        "desc": "谢谢你比恋人更长情的的陪伴",
+                        "link": "http://m.wufazhuce.com/radio/3072?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqERldRTRdZFVgSDz4jEqejTScuC"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 谁还没个\"小宝贝儿\"呀》 主播/马晓橙： 谢谢你比恋人更长情的的陪伴 阅读全文：http://m.wufazhuce.com/radio/3072?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3072?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lqERldRTRdZFVgSDz4jEqejTScuC"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "谁还没个\"小宝贝儿\"呀",
+                        "link": "http://m.wufazhuce.com/radio/3072?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqERldRTRdZFVgSDz4jEqejTScuC"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 779 期",
+                "audio_url": "http://music.wufazhuce.com/lqERldRTRdZFVgSDz4jEqejTScuC"
+            }
+        ],
+        "menu": {
+            "vol": "2698",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4214",
+                    "title": "男孩看见野玫瑰"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1114",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第十二章：怀孕"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2767",
+                    "title": "为什么大家会那么喜欢追星？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1957",
+                    "title": "你要守护好，平凡的自己"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3072",
+                    "title": "谁还没个\"小宝贝儿\"呀"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

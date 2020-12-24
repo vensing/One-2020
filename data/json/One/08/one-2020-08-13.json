@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5583",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-08-13 06:00:00",
+        "content_list": [
+            {
+                "id": "20892",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2909",
+                "title": "摄影",
+                "forward": "别在树下徘徊，别在雨中沉思，别在黑暗中落泪。向前看，不要回头。",
+                "img_url": "http://image.wufazhuce.com/Fs8Cj0bTAjMc6VAhQ-C4Z6i8bgmR",
+                "like_count": 18581,
+                "post_date": "2020-08-13 06:00:00",
+                "last_update_date": "2020-08-07 18:31:38",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2868",
+                "pic_info": "Johann Siemens",
+                "words_info": "埃迪蒙托·德·亚米契斯",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2909",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2909",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2909",
+                    "image": "http://image.wufazhuce.com/Fs8Cj0bTAjMc6VAhQ-C4Z6i8bgmR",
+                    "title": "VOL.2868",
+                    "content": "别在树下徘徊，别在雨中沉思，别在黑暗中落泪。向前看，不要回头。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2909?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2909?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 别在树下徘徊，别在雨中沉思，别在黑暗中落泪。向前看，不要回头。——埃迪蒙托·德·亚米契斯 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2909?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2909?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20895",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4411",
+                "title": "飞掉的事",
+                "forward": "就算生活在同一街道，人和人也会有时差。",
+                "img_url": "http://image.wufazhuce.com/FiRLW5UF8xuIfDEqpj1I-zj7KbyM",
+                "like_count": 2579,
+                "post_date": "2020-08-13 06:00:00",
+                "last_update_date": "2020-08-13 07:26:00",
+                "author": {
+                    "user_id": "11526963",
+                    "user_name": "马晨薇",
+                    "desc": "看专业书三分钟灵魂出窍，坐稳写批话我能通宵。",
+                    "wb_name": "@-Kagerou_",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "文学鄙视链底端走狗",
+                    "fans_total": "589",
+                    "web_url": "http://image.wufazhuce.com/Fgg0VYHT6W29bPciU_AwyRLuJFxT"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4411",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4411",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4411",
+                    "image": "http://image.wufazhuce.com/FiRLW5UF8xuIfDEqpj1I-zj7KbyM",
+                    "title": "飞掉的事 作者/马晨薇",
+                    "content": "死于十五岁的少年。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 飞掉的事",
+                        "desc": "文/马晨薇 死于十五岁的少年。",
+                        "link": "http://m.wufazhuce.com/article/4411?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 飞掉的事",
+                        "desc": "文/马晨薇 死于十五岁的少年。",
+                        "link": "http://m.wufazhuce.com/article/4411?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 飞掉的事》 文/马晨薇： 死于十五岁的少年。 阅读全文：http://m.wufazhuce.com/article/4411?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4411?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "飞掉的事",
+                        "desc": "死于十五岁的少年。",
+                        "link": "http://m.wufazhuce.com/article/4411?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20770",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1255",
+                "title": "打雪仗·第二十六章：人间猎场",
+                "forward": "一场雪，冻死了一头鹿。你告诉我，是哪片雪花杀了它？我不过是最后落下的那片雪花。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 793,
+                "post_date": "2020-08-13 06:00:00",
+                "last_update_date": "2020-08-03 17:44:59",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第26章",
+                "number": "26",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1255",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1255",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1255",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第二十六章：人间猎场 作者/肖睿",
+                    "content": "一场雪，冻死了一头鹿。你告诉我，是哪片雪花杀了它？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第二十六章：人间猎场",
+                        "desc": "文/肖睿 一场雪，冻死了一头鹿。你告诉我，是哪片雪花杀了它？",
+                        "link": "http://m.wufazhuce.com/serial/1255?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第二十六章：人间猎场",
+                        "desc": "文/肖睿 一场雪，冻死了一头鹿。你告诉我，是哪片雪花杀了它？",
+                        "link": "http://m.wufazhuce.com/serial/1255?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第二十六章：人间猎场》 文/肖睿： 一场雪，冻死了一头鹿。你告诉我，是哪片雪花杀了它？ 阅读全文：http://m.wufazhuce.com/serial/1255?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1255?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第二十六章：人间猎场",
+                        "desc": "一场雪，冻死了一头鹿。你告诉我，是哪片雪花杀了它？",
+                        "link": "http://m.wufazhuce.com/serial/1255?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20898",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2941",
+                "title": "慢热的人该如何交朋友？",
+                "forward": "技巧固然重要，但都敌不过缘分注定和真心一颗。",
+                "img_url": "http://image.wufazhuce.com/FllHWI-yKLZ1Be8KzwuH3egFMeyO",
+                "like_count": 2366,
+                "post_date": "2020-08-13 06:00:00",
+                "last_update_date": "2020-08-12 19:23:30",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "玛克思",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2941",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2941",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2941",
+                    "image": "http://image.wufazhuce.com/FllHWI-yKLZ1Be8KzwuH3egFMeyO",
+                    "title": "慢热的人该如何交朋友？",
+                    "content": "慢热的人该如何交朋友？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 慢热的人该如何交朋友？",
+                        "desc": "文/不辣 没人愿意停下来，等待一块冰的融化。",
+                        "link": "http://m.wufazhuce.com/question/2941?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 慢热的人该如何交朋友？",
+                        "desc": "文/不辣 没人愿意停下来，等待一块冰的融化。",
+                        "link": "http://m.wufazhuce.com/question/2941?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 慢热的人该如何交朋友？》 文/不辣： 没人愿意停下来，等待一块冰的融化。 阅读全文：http://m.wufazhuce.com/question/2941?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2941?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "慢热的人该如何交朋友？",
+                        "desc": "没人愿意停下来，等待一块冰的融化。",
+                        "link": "http://m.wufazhuce.com/question/2941?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                }
+            },
+            {
+                "id": "20904",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2034",
+                "title": "魔法学校，要戴口罩",
+                "forward": "想炸掉学校的孩子们，心里都有一个霍格沃兹。",
+                "img_url": "http://image.wufazhuce.com/FqM6I_0qF3Zm_GqM16hAR-CSCuYe",
+                "like_count": 1931,
+                "post_date": "2020-08-13 06:00:00",
+                "last_update_date": "2020-08-13 11:36:58",
+                "author": {
+                    "user_id": "11164439",
+                    "user_name": "柒斐",
+                    "desc": "海岸线爱好者，睡眠不足的普通电影观众。\r\n独立编剧，HerPeaches剧本工作室创始人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，HerPeaches工作室创始人。",
+                    "fans_total": "989",
+                    "web_url": "http://image.wufazhuce.com/FlgBlHjLF40QuAwszutvMT3biQO3"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "哈利波特与魔法石",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5017",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2034",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2034",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2034",
+                    "image": "http://image.wufazhuce.com/FqM6I_0qF3Zm_GqM16hAR-CSCuYe",
+                    "title": "「一个」电影: 哈利波特与魔法石",
+                    "content": "漫长的等待后，《哈利波特与魔法石》于明日（8月14日）重映。《哈利波特》几乎是伴随每个人童年的系列电影，不论哪一部，不论何时拿出来再看，总能让人回味无穷。坐在扫帚上飞起来的小小哈利，穿着一袭粉红长裙出现在舞会上的赫敏，以及看似懦弱实则充满正义，在关键时刻总挺身而出的罗恩&hellip;&hellip;印象中的他们，总是带着清澈而闪光的眼神，昂首挺胸地出现。哈利的灵气，赫敏的聪慧，罗恩的踏实，以及&ldquo;格兰芬多&rdquo;这个光荣的学院给予他们的自信，都是我们曾经或一直以来渴慕的存在。再度回看这一经典系列电影的开山之作，仍能引起许多人千丝万缕的感慨。实际上，生活向来不是一件简单的事情。在每日的庸常中，人们拖着身躯以抵抗世间的苦难和意外，又带着赤诚迎接美好与爱。日子久了，难免会忘记自己得到了什么又失去了什么。《哈利波特与魔法石》之所以那么动人，或者就在于它能帮人找回那一份初心和执著。在影片中，不论是哈利与赫敏、罗恩之间的友情，还是来自格兰芬多学院以及霍格沃兹魔法学校老师的教导，总能在不经意间洞察真实的人生，能让人在看清生活本质后，仍有巨大的勇气和爱意，去面对生活。01 人不能活在梦里&ldquo;哈利，人不能活在梦里，不要依赖梦想而忘记生活&rdquo;，邓布利多教授如是说道。面对厄里斯镜，自幼失去双亲的哈利终于通过开启这面镜子，见到了心心念念的父母。在此之前，他甚至从未亲眼感受过父母的样子。在哈利还是个小婴儿的时期，他的父母就在大战中死去。自幼年至今，哈利一直和姨妈一家生活在一起。对于父母的想念让哈利开启了厄里斯镜，甚至忘我。当校长邓布利多看到可怜的小哈利快要因美好梦境而彻底沉湎其中时，带着不忍却干脆地点醒了他。这是哈利在霍格沃兹魔法学校学到的最深刻的一课&mdash;&mdash;人总还是不能忘记生活。那些梦想纵然是最为美好的，但生活本身，才是最为切实的。正如斯人已逝，再无追回的可能。尽管这道理有些残忍，可存于现世的人能做的，也只是去接受。或许，当我们把最糟糕的世界接受时，才会反射出最为坚定而诚恳的爱吧。正如哈利的母亲在临死之前，将全部的爱注入到了哈利的血液里&mdash;&mdash;哈利额头上的那一道闪电状的疤痕，在往后的日子里的成为了保护他健康平安的符号。哈利能安然地走到最后，凭借的当然不是什么主角光环，而是周围人慷慨给予的爱意和保护，以及他内心的纯粹。当那一块魔法石找不到主人的时候，邓布利多告诉哈利&ldquo;只有心想着魔法石，却又不想占为己有的人&rdquo;才可以获得它。后来，哈利拥有了那块璀璨如火焰中血液一般的红色魔法石，也晓得了生活本身从不是在做梦，而不管梦里有多少美好的温存，也从不能替代生活。&nbsp;02 友情和勇气更重要整个霍格沃兹魔法学校里，让哈利羡慕的人有很多，但作为他的朋友，一直在他身边陪伴的赫敏则更加让哈利敬佩。赫敏从来都是那个最聪明的，也是那个最有灵气又优秀的。在初入魔法学校时，赫敏就能流利地背出甚至有些高深的咒语。面对困难时，她也总是办法最多的那个。本就精通学术的她，又比任何人都用功好学，常常被哈利一众认为是&ldquo;天才&rdquo;，也受到老师的喜爱和欢迎。但就是这样一个典型的&ldquo;别人家的孩子&rdquo;，心底里却也有自己的小自卑&mdash;&mdash;在魔法学校一众同学之中，赫敏不是出身最好的那个，父母都只是个牙医的她，身上可以说没什么巫师的传承。所以她只能比别人更努力，更勤奋，才能让自己从中脱颖而出。那些在旁人看来的小小炫耀，不过是她渴望要向别人证明，就算出身平凡，也能成为一个好巫师的方式。哈利告诉赫敏，他很羡慕她的聪慧机智，赫敏却笑笑说，那些在哈利眼中所羡慕的事情，其实真的没什么&mdash;&mdash;&ldquo;我？只是靠书本和小聪明，但还有些更重要的条件，友情和勇气&rdquo;。这个回答真是温暖又真挚。在赫敏眼中，那些能够依靠背书和瞬间灵光办到的事情，从来都不比拥有几个好朋友重要。早在通往霍格沃兹魔法学院的火车上，赫敏就遇到了她一生的挚友和爱人&mdash;&mdash;哈利与罗恩。他们从没在乎她的出身，在她被欺负时选择第一时间挺身而出，就算自己仍是个弱小的孩子，却心想着保护自己的朋友。也正因为如此，赫敏拥有了更多的勇气&mdash;&mdash;来自坚固友情赋予她的勇气。这不仅仅是对赫敏而言，也是对哈利、罗恩而言最重要的。后来，也正是因为赫敏，哈利三人才能顺利找到魔法石，而哈利也是在赫敏和罗恩的帮助下，才能够通过魔药关，最终取得魔法石。正当少年时收获的友情总是最为纯真。哈利、赫敏、罗恩这个&ldquo;魔法铁三角&rdquo;是如此，生活中的人人皆如此。朋友大概就是那个看到你各种脆弱，却还是会默默守护在你身边的人；大概就是那个平日里闲下来就跟你斗嘴，关键时刻却总是会无原则地支持你的人吧；大概就是那个在你想要放弃时给你最重要的一击，只要有他们在，就不会让你丢失初心的人吧。赫敏与哈利，互为彼此生命中最重要的朋友，当然，一直跟他们走在一起的罗恩也不例外。&nbsp;03 你必须继续前进成为一个骑士，把自己的生命当做是棋子，为了朋友甘愿牺牲自己，这的确是罗恩做出来的事。他长相普通，有点懦弱，有时候怂得要命。作为&ldquo;魔法铁三角&rdquo;里的唯一纯血统，日子过得却还不如两个朋友&mdash;&mdash;断了的魔杖他舍不得扔，能换洗的衣服也没几件，有时迫不得已还要&ldquo;缝缝补补又三年&rdquo;。他不是最聪明的，成绩十分普通，甚至还有两门课不及格。他没有那么优秀，在考试里从没得到过一个&ldquo;O（outstanding）&rdquo;。但他足够善良&mdash;&mdash;是&ldquo;魔法铁三角&rdquo;里拥有两只宠物的人；足够绅士&mdash;&mdash;在赫敏被马尔福嘲笑是&ldquo;麻瓜&rdquo;家庭出身时，毫不犹豫地挺身而出；他也足够义气&mdash;&mdash;面对守护着魔法石的巨型巫师棋，他明知危险有多大，却还是甘愿成为棋子，牺牲自己。他告诉哈利，有些事情，必须是要哈利亲自去做的，碰上了谁，都无法逃避也不应该逃避&mdash;&mdash;&ldquo;你必须前进，我觉得应该去的人不是我，不是赫敏，而是你。&rdquo;他鼓励了哈利，同时也告诉哈利在成为一个巫师后，应该承担着的责任。有些事情的确如此，人人都可以获得帮助，但人人也理应在该承担的时候自己承担起属于自己的使命。显然，罗恩从小便懂得这个道理。他可以凭借自己擅长巫师棋的天赋，帮助哈利闯过棋盘上的一关又一关，但到了最终，决定胜负的时刻，却一定要哈利自己来完成。&ldquo;你必须前进&rdquo;，这是罗恩告诉忐忑中的哈利的最后方法，也是他教会哈利有关人生的一件很重要的事情。罗恩远比看上去要勇敢得多。当面对生命里突如其来的一切时，即使恐惧，即使害怕伤害，即使明知自己有可能失败，但总还是要向前，要去做。因为，有些事情上，你必须前进，必须自己亲自跨过这道坎儿。在那个时候，没有人能代替你自己，而只有你自己，才应当对自己的人生责无旁贷。&nbsp;04 世界上没有魔法你相信这个世界上有魔法吗？这个答案想必一定是因人而异的，想必就连身处霍格沃兹魔法学校的哈利与他的同伴，也无法给世人一个确知的答案。但如果你要问他们，魔法到底是什么？想必他们一定会告诉你吧。所谓的魔法，或许是对于世界的美好畅想；是一路以来虽然艰辛，却能有所收获；是在漫长崎岖的路，身边都会有朋友的陪伴；是融化在温热血液中从来不会消散的爱；是随着时间的流逝，我们肩上承担起的越来越多的责任；是那一腔热血，一份执著，一颗晶莹剔透的初心啊。二十多年前，当瘦小的哈利鼓起勇气撞向那面藏着九又四分之三火车站的墙壁时，一切开始了。如今，按照人物设定，2020年7月31日，哈利波特就年满40岁了。在这样一个特殊的年份里，去电影院回顾1991年的那个夏天，小哈利收到了来自霍格沃兹魔法学校的录取通知书的瞬间，大概是每个陪伴着哈利波特走过年年岁岁的人的柔软时刻。许多年过去，我们从时间中失去又收获，逐渐明白了生活的不易。正如那句深切的台词&mdash;&mdash;&ldquo;该来的总会来，一旦它来了，你就必须勇敢地面对&rdquo;。或许生活真的不是一件完美的魔法圣器，它存在着或大或小的瑕疵，稍不注意还会施错咒语，引来麻烦。但不论是我们还是魔法世界的哈利一众，不都是在看清了生命本质以后，仍旧对生命充满了爱与诚的勇士吗？在那个充满魔法的世界里，每个孩童驰骋着各自的幻想，每个成年人弥合着生命里的缺憾和心事，而每个观众则交付了电影院一颗闪闪发光的真心。或许，这正是哈利波特和他的朋友们，留给这个世界的奇妙魔法。愿你的人生，从此璀璨，奇妙，魔幻又平凡。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 魔法学校，要戴口罩",
+                        "desc": "文/柒斐 哈利波特拍了拍你：“想学魔法吗？”",
+                        "link": "http://m.wufazhuce.com/movie/2034?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 魔法学校，要戴口罩",
+                        "desc": "文/柒斐 哈利波特拍了拍你：“想学魔法吗？”",
+                        "link": "http://m.wufazhuce.com/movie/2034?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 魔法学校，要戴口罩》 文/柒斐： 哈利波特拍了拍你：“想学魔法吗？” 阅读全文：http://m.wufazhuce.com/movie/2034?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2034?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "魔法学校，要戴口罩",
+                        "desc": "哈利波特拍了拍你：“想学魔法吗？”",
+                        "link": "http://m.wufazhuce.com/movie/2034?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20771",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3229",
+                "title": "我就这样一面看云，一面想你",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FuSVoE8Bu2MBEkEEyY5UsRDCyLoP?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1690,
+                "post_date": "2020-08-13 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3229",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3229",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 我就这样一面看云，一面想你",
+                        "desc": "生活可比云朵牢靠多了",
+                        "link": "http://m.wufazhuce.com/radio/3229?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lsU3fBE9MntQCoAq4HvPLm9t9j9J"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 我就这样一面看云，一面想你",
+                        "desc": "生活可比云朵牢靠多了",
+                        "link": "http://m.wufazhuce.com/radio/3229?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lsU3fBE9MntQCoAq4HvPLm9t9j9J"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 我就这样一面看云，一面想你》 主播/李荟莹： 生活可比云朵牢靠多了 阅读全文：http://m.wufazhuce.com/radio/3229?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3229?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lsU3fBE9MntQCoAq4HvPLm9t9j9J"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "我就这样一面看云，一面想你",
+                        "link": "http://m.wufazhuce.com/radio/3229?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lsU3fBE9MntQCoAq4HvPLm9t9j9J"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 864 期",
+                "audio_url": "http://music.wufazhuce.com/lsU3fBE9MntQCoAq4HvPLm9t9j9J"
+            }
+        ],
+        "menu": {
+            "vol": "2868",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4411",
+                    "title": "飞掉的事"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1255",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第二十六章：人间猎场"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2941",
+                    "title": "慢热的人该如何交朋友？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2034",
+                    "title": "魔法学校，要戴口罩"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3229",
+                    "title": "我就这样一面看云，一面想你"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

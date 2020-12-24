@@ -1,0 +1,529 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5414",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-26 06:00:00",
+        "content_list": [
+            {
+                "id": "19857",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2739",
+                "title": "摄影",
+                "forward": "山川异域，风月同天。",
+                "img_url": "http://image.wufazhuce.com/Fvgl6y-xMTGFaWV048s0-vxdQeqQ",
+                "like_count": 24959,
+                "post_date": "2020-02-26 06:00:00",
+                "last_update_date": "2020-02-23 12:49:14",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2699",
+                "pic_info": "Robert Wiedemann",
+                "words_info": "长屋《绣袈裟衣缘》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2739",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2739",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2739",
+                    "image": "http://image.wufazhuce.com/Fvgl6y-xMTGFaWV048s0-vxdQeqQ",
+                    "title": "VOL.2699",
+                    "content": "山川异域，风月同天。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2739?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2739?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 山川异域，风月同天。——长屋《绣袈裟衣缘》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2739?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2739?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19876",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4217",
+                "title": "每个脚印的道理",
+                "forward": "从此刻开始，我想做正确的事。",
+                "img_url": "http://image.wufazhuce.com/FlquXPX4KJ9W8dmnB62q1PqaxJtE",
+                "like_count": 4592,
+                "post_date": "2020-02-26 06:00:00",
+                "last_update_date": "2020-03-03 11:19:01",
+                "author": {
+                    "user_id": "4813757",
+                    "user_name": "苏更生",
+                    "desc": "「一个」App常驻作家，微信公众号：ishikuaiqian",
+                    "wb_name": "@假苏更生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "「一个」App常驻作家。",
+                    "fans_total": "97549",
+                    "web_url": "http://image.wufazhuce.com/Fg_e6teZsb3lZ1QStYtdnAkh6bO8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4217",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4217",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4217",
+                    "image": "http://image.wufazhuce.com/FlquXPX4KJ9W8dmnB62q1PqaxJtE",
+                    "title": "每个脚印的道理 作者/苏更生",
+                    "content": "只有真实才是一切的解药。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 每个脚印的道理",
+                        "desc": "文/苏更生 只有真实才是一切的解药。",
+                        "link": "http://m.wufazhuce.com/article/4217?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 每个脚印的道理",
+                        "desc": "文/苏更生 只有真实才是一切的解药。",
+                        "link": "http://m.wufazhuce.com/article/4217?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 每个脚印的道理》 文/苏更生： 只有真实才是一切的解药。 阅读全文：http://m.wufazhuce.com/article/4217?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4217?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "每个脚印的道理",
+                        "desc": "只有真实才是一切的解药。",
+                        "link": "http://m.wufazhuce.com/article/4217?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19866",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1115",
+                "title": "两次破碎·第十五章：争分夺秒",
+                "forward": "我已经失去了小文，不能再失去你了。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 790,
+                "post_date": "2020-02-26 06:00:00",
+                "last_update_date": "2020-04-07 16:26:11",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第15章",
+                "number": "15",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1115",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1115",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1115",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第十五章：争分夺秒 作者/连筑",
+                    "content": "我已经失去了小文，不能再失去你了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第十五章：争分夺秒",
+                        "desc": "文/连筑 我已经失去了小文，不能再失去你了。",
+                        "link": "http://m.wufazhuce.com/serial/1115?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第十五章：争分夺秒",
+                        "desc": "文/连筑 我已经失去了小文，不能再失去你了。",
+                        "link": "http://m.wufazhuce.com/serial/1115?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第十五章：争分夺秒》 文/连筑： 我已经失去了小文，不能再失去你了。 阅读全文：http://m.wufazhuce.com/serial/1115?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1115?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第十五章：争分夺秒",
+                        "desc": "我已经失去了小文，不能再失去你了。",
+                        "link": "http://m.wufazhuce.com/serial/1115?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19870",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2768",
+                "title": "怎样避免尬聊？",
+                "forward": "沟通的最根本要素就是交换，哪怕是闲聊，参与聊天的人也一定是想要得到某种信息。",
+                "img_url": "http://image.wufazhuce.com/FtlUSnRDY8kJlObsMrQzbifDFG-x",
+                "like_count": 2681,
+                "post_date": "2020-02-26 06:00:00",
+                "last_update_date": "2020-02-25 15:22:11",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "just straight",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2768",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2768",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2768",
+                    "image": "http://image.wufazhuce.com/FtlUSnRDY8kJlObsMrQzbifDFG-x",
+                    "title": "怎样避免尬聊？",
+                    "content": "怎样避免尬聊？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎样避免尬聊？",
+                        "desc": "文/鹿丸 “当两个人有默契，就能闭嘴享受片刻的沉默。”",
+                        "link": "http://m.wufazhuce.com/question/2768?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎样避免尬聊？",
+                        "desc": "文/鹿丸 “当两个人有默契，就能闭嘴享受片刻的沉默。”",
+                        "link": "http://m.wufazhuce.com/question/2768?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎样避免尬聊？》 文/鹿丸： “当两个人有默契，就能闭嘴享受片刻的沉默。” 阅读全文：http://m.wufazhuce.com/question/2768?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2768?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎样避免尬聊？",
+                        "desc": "“当两个人有默契，就能闭嘴享受片刻的沉默。”",
+                        "link": "http://m.wufazhuce.com/question/2768?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10573652",
+                    "user_name": "鹿丸",
+                    "desc": "运气特别差的爱笑的男人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "运气特别差的爱笑的男人。",
+                    "fans_total": "2369",
+                    "web_url": "http://image.wufazhuce.com/Fqg0xcqtLypItAb4NvaJVf8DnIAn"
+                }
+            },
+            {
+                "id": "19764",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3208",
+                "title": "我引以为傲的幸福，是你曾经有空爱我",
+                "forward": "爱情这件事情并不是以坚持多久结算爱意的，起码他们给过彼此精神共振，也为了对方努力生存过。",
+                "img_url": "http://image.wufazhuce.com/FnSCFG8hhRLboKQYCLoyVU6d-h45",
+                "like_count": 1946,
+                "post_date": "2020-02-26 06:00:00",
+                "last_update_date": "2020-02-25 19:57:37",
+                "author": {
+                    "user_id": "7606937",
+                    "user_name": "Regor_",
+                    "desc": "自由撰稿人，祸国文青，爱养狗，一事无成心事多。微博：@Regor_",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "自由撰稿人",
+                    "fans_total": "1852",
+                    "web_url": "http://image.wufazhuce.com/FpayqH8DafqjjZQhvufNRzQXLdXt"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/ln2XK4bFjSjpcSm8cUykJbUuMfSR",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "热血丹青",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3208",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3208",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3208",
+                    "image": "http://image.wufazhuce.com/FnSCFG8hhRLboKQYCLoyVU6d-h45",
+                    "title": "「一个」音乐: Regor_ 热血丹青",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.三年前塔利还在为小工作室写剧本，每天固定几个小时在单身公寓里码字。偶尔参加一下独立书店的文化沙龙，其余的大部分时间都拿来谈恋爱。塔利跟一些男人周旋，了解他们的个性和习性，分门别类，就像小女孩玻璃橱窗上陈列的玩具。他们体面光鲜，但除去新鲜感带来的好奇，大多毫无乐趣。在所有类别里，塔利又偏爱着水瓶座的男人。某个晴朗的午后，塔利收到一条私信，对方希望她允许他在读书俱乐部里面打个广告，推广他们的读书APP。作为管理员的塔利没有回复，文化市场的产品早已泥沙俱下，这样的推销实在无暇应付。随后对方又发来几条消息，语气殷切但诚恳。塔利告诉他，俱乐部活跃用户不多，且大多都只愿意读纸质书。他说没关系，我可以试一试。塔利看了一眼他的会员资料，22岁，水瓶座。又瞧了瞧他的公司的背景资料，没有什么特别值得一提的，倒也没有一定要拒绝的理由，便点了头。跟预期一样，读书群里依然沉默如常，并没有太多的人关心他的APP。半个月后塔利收到他邮来的一本书，是亦舒十年前出版的小说《孪生》，随附卡片上有他洋洋洒洒的几句留言：&ldquo;这是我实习最后一天，谢谢塔利小姐对我的帮助，送你师太的小说，我想你会喜欢的。&rdquo;落款是祝原，2017年3月11日，寄出地是北京。&ldquo;愣头青。&rdquo;塔利不以为然地把卡片夹回扉页，把书轻轻嵌入书架。就在一个月后的日常沙龙活动上，塔利见到了祝原。没有小说里鲜衣怒马的少年模样，也没有电影里挺拔的身姿硬朗的侧颜。他乍看起来就是一个普通的北方男孩，宽宽的肩膀，厚实的身板，甚至长得还比实际年龄大一些。有浓眉，双眸还算明亮有神，也不失为五官端正的范式。&nbsp;他向塔利招手，塔利问他怎么来了？他说，听说南方工作机会多，就来了。两人站在畅销书架旁聊天，祝原高出塔利一个头，偶尔有书友过来询问活动详情，塔利只好先做引导工作。&nbsp;塔利说那今晚一起在附近吃个饭吧，祝原推辞说约了朋友去看家具，改天由自己请客。塔利双手一摊说那行吧，心里倒巴不得是这样，她不擅长跟陌生人吃饭。&nbsp;这个祝原，也还算聪明。塔利下意识翻了一下他的朋友圈，都是些文学哲思、历史时政。只晓得这人年纪轻轻就有城府，在人群里最擅长给自己涂上保护色。什么话不该说，说出口的话就得是普遍正确的。水瓶座就是这样，聪明、爱讲体面。塔利不吃这一套，有些机灵在真实面前显得很没意思。而那些水瓶座恰好喜欢塔利不吃这一套的脾气，封此雅号叫&ldquo;特立独行&rdquo;。2.沙龙结束后没几天，塔利跟交往半年的男友分手了。三天两头地质问和争吵，跟得到快乐和抚慰的初衷背道而驰，索性彼此还个自由。加之家里总是想着各种理由让她回家，明面上是普通家宴，去了才知道在场的还有张阿姨的小外甥，或者是薛姑姑的大侄子。塔利病恹恹地应付着，当然对方要不是看在她家的面子上也懒得跟她浪费时间，毕竟公子哥最不缺的就是女人。婚姻不过是富上加富的催化剂，只看结果是成年人的效率所在。&nbsp;窝在家里半月，新剧本写是写不下去了，塔利开车出去喝咖啡。一屁股坐下时才发现祝原就在她的前左方，正面对着她的方向。塔利端起咖啡走到他面前，轻轻敲了一下桌面。祝原不慌不忙地收起桌面的笔记本电脑，但似乎还是有些惊讶。祝原去了一加科技公司做销售，两个月过去干得越发得心应手，今天本来约了客户，但临时取消了。两人一拍即合地决定去游乐园，塔利驾车，祝原买票。工作日的园区游客松动，毕竟像他们一样无所事事的人不多，所以几乎不需要怎么排队就能玩到每个项目。坐过山车时，塔利坐在祝原的左侧紧紧抓住他的手，下来时已被吓得唇色发白满脸泪痕。祝原伸手轻拍她的背，也不知道该怎么安慰。塔利想起妈妈说，嘴笨的男人就像矿地，指不准能挖个好东西。&nbsp;他们出了园区到塔利公寓楼下喝粥，是南方特色的生滚粥，立夏前后客人比较多，小小的店面座无虚席。塔利教他如何把滚烫的粥里把肉片夹出来，蘸葱姜丝酱油碟吃。把已经剪段的油条没入粥里烫软，再放入嘴中。&nbsp;他们在楼下告别，塔利回到房间。也许是高空急速坠落的瞬间灵魂与肉体短暂地分离了，脑内的想法就像激流冲起的泡沫快要将细胞撑破。塔利迫不及待地打开电脑爬格子，不知不觉写到了半夜。她起身去厨房倒水喝，脑海里浮现这个年轻的男人的清冷神态，似乎跟他一起时灵魂不再独立而僵硬。塔利再了解不过，这是心动的讯号。而后一段时间他们也没再怎么联系过，只有祝原偶尔几次发消息问她附近的食肆推荐，礼貌不失分寸。塔利的剧本以不可置信的速度被买走了，稿费不菲。塔利约祝原出来吃饭，当然不可能告诉他是托他的福赚了钱。他们在烤肉店吃饭，要了一瓶白酒。一杯下肚，辣得塔利喉舌滚烫。祝原把塔利送回家，依然是君子翩然，连房门都未进。临走前他从背包拿出一个黑色小盒子递给塔利，塔利接过来，这是黑色硬皮面的礼物盒子，上边还用深蓝色的丝带扎了好看的蝴蝶结。祝原说，明天再拆吧，晚安。塔利抬头看见他晶莹发光的双眼，和嘴周刚冒出的新鲜黑色胡渣。她刚想伸手放在他的肩膀上，但迟迟没有抬起手来。祝原侧了下身体，随后门被从外面被带上了。塔利趁着酒劲睡着了，第二天醒来已日上三竿。她把礼物盒子打开，是一个程序坞，上面有手工涂鸦，是棕色小熊和柠檬色星星，塔利喜欢的元素。翻到背面是两个运算式：1+2+3=6, 1*2*3=6.两个式子上下对称排在一起，而她的生日刚好是6月6号。原来又要过生日了，塔利恍然大悟，果然25岁之后的生日，别人会帮你记得很清楚。那123是什么呢？只是为了对称吗？塔利给祝原发消息道谢，消息过了大半天没有回。塔利越发急不可耐，就算是套路，她也恨不得一头钻进去。塔利没想到自己的耐性还是跟20岁一样，藏不住喜欢，装不了矜持。3.直到晚饭后，塔利才收到祝原的消息。没有解释，只是淡淡地说你喜欢就好。塔利邀他周末来家里吃饭，他倒是很快就答应了。塔利觉得祝原是喜欢她的，并对此结论十拿九稳。周末比想象中来得快一些，塔利一直在看做菜视频，也还没来得及提前试一试。祝原提着菜来到公寓楼下时，塔利刚起床。最后变成是祝原在厨房做饭，塔利在房间化妆。塔利化好妆时，祝原还剩一个蒜蓉青菜还没炒。只见他大大的手掌轻轻盖在青菜上，强壮有力的手指摁着菜刀把青菜的头切掉。这是男人生活中的性感，甚至跟他的学识财富毫不相干。塔利喜欢偶尔被这样聪明的男人安排生活，衣食住行权由他人指挥。&nbsp;两人吃完饭躺在沙发一起看西班牙悬疑电影，一边讨论着三国演义的将帅才谋和红楼梦的起伏兴衰。两人经常有不同意见，但说到最后倒是也能接受彼此的观点，激动之处击掌庆祝。塔利说，我觉得你可以成为我的男友人选。祝原笑了笑没有说话，不回应也不拒绝。这是水瓶座一贯的爱情伎俩，不开口、不说透、不正面迎敌。毕竟他们不喜欢做没把握的事，没面子，也不划算。这也是塔利一直以来最讨厌的态度。祝原接到公司外派出差，一去就是半个月。依然给她发着不咸不淡的消息，只要塔利稍加用力，对方就会消失不见。然后又再若无其事地出现，故弄玄虚地攀谈。塔利痛快地屏蔽掉用户消息，所谓的心动也就要磨灭殆尽。祝原当然看得出来她的不快，他也没办法说清楚自己在犹豫什么。直到某天塔利再也不回他的消息，但依然充满神秘的魅力时。他告诉塔利，程序坞上面是123，是他的生日。&ldquo;我在想，如果你不喜欢我怎么办，我后来又想了想，大不了我就改个生日。&rdquo;世界上哪来那么多机缘巧合，大多数的命中注定都得靠两人努力相见。这是塔利官宣当天的的配文。后来祝原搬进了塔利的公寓，两人工作之余的夜晚总是依偎在沙发看电影，打游戏。只有在彼此怀里，他们才会卸下成年人的面具，安心地做一个孩子。他们也会一起旅行，一起下厨，他们拍了很多出游记录视频分享到博客。塔利写剧本，祝原给她提供历史背景依据。但是很快地，热情消退下来，两人更多地去计算未来。祝原开始存钱买房，缩减开支，更多的酒局更多的出差。&nbsp;塔利逐渐习惯了在深夜安顿好祝原之后，清理他酒后呕吐的污渍，学会了怎样对付他宿醉的后的难受，也更多地接受了钱很重要。没有钱的自由不值一提，塔利以前从没有过这种领悟。这对两个风象星座来说，太具体太庸俗了，但是为了能够守护他们心底最后的乌托邦，白日里又不得不去做乌合之众。&nbsp;为了保证收入，塔利决定去找工作，晚上回家再写剧本。为了剧本能更快卖出去，卖个好点的价钱，花了几顿饭钱请人吃饭。祝原闲下来在家的时候，也会做饭等塔利回家，让她躺在沙发上给她按摩。塔利想吃的，塔利想要的，他总是惦记着，也必定一一兑现。祝原所有的得体和礼貌是留给外人的，他的殷勤只给塔利。塔利也不再特立独行，她的自由早就在一开始典当给了爱情。祝原总说，我不能给你一事无成的浪漫，我要努力给你不必忧愁的未来。祝原像塔利快速动眼出一个脚踏实地的梦，一切都美好地就像从未被爱过一样。但只要是梦，它总会让人醒来的，早晚而已。&nbsp;4.两年过去，祝原应酬的时间越来越多。塔利生病、受委屈、想去逛街都是一个人出去，一个人回来。塔利也说过让他多些关心她，就像她关心他一样。但是次数多了，总像是一方哀求着另一方施舍爱意。塔利痛恨这样的生活，这样的自己。不知道什么时候起，祝源渴望得到成功和财富，还有更多可供选择的女人。在一起时，塔利总能看见他手机的消息在深夜想起，内容一样无关痛痒，甚至也算不上暧昧。但也因为无关痛痒，没必要24小时在线回应吧。他的殷勤，也学会了给别人。成为一个表面绅士，获得同性的尊重和异性的仰慕，他太想要了。祝源的欲望像年龄一样增长，这种念头像鸦片一样让他精疲力竭，却乐在其中。他们也吵架，轻轻说几句后便开始冷战。祝原总是责怪塔利过于感性，从不愿意从长计议。塔利认为祝原总是自我专制，从不站在她的角度去爱护她感受。塔利翻看他们以前的聊天记录和旅行视频，总有一种大势已去的苍凉感。他们渐渐有了积蓄，但爱却不见了。加之塔利本就年长几岁，祝原迟迟不愿带他认识家长，也给不了塔利一个踏实能落地的承诺。塔利在反反复复地失望里黯淡，如果爱情也算是一种投资，眼看着狂跌的曲线被套牢，她连要一个理由的能力都有没有。妈妈没有错，但矿地底下大多数还是普通烂泥，想挖到钻石需要怎么样的好运气？塔利驾车到乡下小住，暂时不去想那些莫名的短消息，那些虎视眈眈的外来者。也不要想一个变心的男人，和那些恼人的未来。她关掉手机，缓慢地注视这个小村落。夏末的台风前夜，低气压下大地笼罩着膨胀的潮闷，就像在旧时大院里受委屈的二房太太，一筹莫展却又忍气吞声。田坎间的蛋黄色野雏菊，瘦瘦的身体伸展开来，没有风，也在黑夜里保持缄默。青蛙鼓着腮帮子呱呱叫嚷，过了今晚它们就得告别这个舞台，在冬天来临之前鞠躬谢幕。&nbsp;5.人们总说，世界上没有什么是离不开过不去的，如果有，那就是时间不够长。塔利觉得，只不过是他们太聪明，知道&ldquo;不值当，便撒手&rdquo;的道理罢了。&nbsp;塔利积极找祝原谈话，但总是以互不理解为由再次吵得两败俱伤。他们的爱情公式最后变成了6-1-2-3=0, 6&divide;1&divide;2&divide;3=1，但也还是舍不得分开，他们早已习惯了彼此的体温和呼吸，期望能有一次回光返照让他们的爱意彻底复活。但是没有，第三年的春天，他们在公寓分别打包了自己的行李，一起搬出了那间公寓。&nbsp;他们最后一次分手谁也没有当真，但却真正地分开了。&nbsp;塔利还是很喜欢水瓶座，但是祝原她喜欢不了了。爱情这件事情并不是以坚持多久结算爱意的，起码他们给过彼此精神共振，也为了对方努力生存过。塔利想起喜宝说的：&ldquo;如果没有很多很多爱，那就要很多很多钱，如果都没有，那有健康也是好的。&rdquo;祝原后来有没有找到爱她不知道，但她塔利的未来，一定会带着这份回忆越活越好吧。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我引以为傲的幸福，是你曾经有空爱我",
+                        "desc": "文/Regor_ 我们大概再也不会相见。",
+                        "link": "http://m.wufazhuce.com/music/3208?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我引以为傲的幸福，是你曾经有空爱我",
+                        "desc": "文/Regor_ 我们大概再也不会相见。",
+                        "link": "http://m.wufazhuce.com/music/3208?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我引以为傲的幸福，是你曾经有空爱我》 文/Regor_： 我们大概再也不会相见。 阅读全文：http://m.wufazhuce.com/music/3208?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3208?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我引以为傲的幸福，是你曾经有空爱我",
+                        "desc": "我们大概再也不会相见。",
+                        "link": "http://m.wufazhuce.com/music/3208?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "热血丹青",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "朱可",
+                "audio_album": "热血丹青",
+                "cover": "http://image.wufazhuce.com/FuBeYSP3HdhAzToHyLBM4FCw4x5Z",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2699",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4217",
+                    "title": "每个脚印的道理"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1115",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第十五章：争分夺秒"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2768",
+                    "title": "怎样避免尬聊？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3208",
+                    "title": "我引以为傲的幸福，是你曾经有空爱我"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

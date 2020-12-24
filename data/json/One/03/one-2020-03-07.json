@@ -1,0 +1,531 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5433",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-07 06:00:00",
+        "content_list": [
+            {
+                "id": "19912",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2749",
+                "title": "摄影",
+                "forward": "当你可以跟一个人不说话，分享片刻寂静，且不会觉得尴尬，那一刻你就会明白，你遇到了对的人。",
+                "img_url": "http://image.wufazhuce.com/Fvq7EgZHhDYYdJTgg2DL7conDiou",
+                "like_count": 28408,
+                "post_date": "2020-03-07 06:00:00",
+                "last_update_date": "2020-03-01 12:44:29",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2709",
+                "pic_info": "Osman Rana",
+                "words_info": "《低俗小说》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2749",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2749",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2749",
+                    "image": "http://image.wufazhuce.com/Fvq7EgZHhDYYdJTgg2DL7conDiou",
+                    "title": "VOL.2709",
+                    "content": "当你可以跟一个人不说话，分享片刻寂静，且不会觉得尴尬，那一刻你就会明白，你遇到了对的人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2749?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2749?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 当你可以跟一个人不说话，分享片刻寂静，且不会觉得尴尬，那一刻你就会明白，你遇到了对的人。——《低俗小说》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2749?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2749?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19919",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4225",
+                "title": "武汉人生存图鉴",
+                "forward": "新闻上感天动地的事，亚列觉得离她有些遥远，身边人的关心让她感受到被爱意包围。",
+                "img_url": "http://image.wufazhuce.com/FuTuX8ADa-UsbdpQuu8OwytssLes",
+                "like_count": 1978,
+                "post_date": "2020-03-07 06:00:00",
+                "last_update_date": "2020-03-07 11:21:46",
+                "author": {
+                    "user_id": "11128122",
+                    "user_name": "热爱人间的小黄",
+                    "desc": "我的人生要看很多海。",
+                    "wb_name": "@我会和你去看北极光的",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "我的人生要看很多海。",
+                    "fans_total": "36",
+                    "web_url": "http://image.wufazhuce.com/FtDxltkI_dX0DzuRpwR57Nw0nXqq"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4225",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4225",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4225",
+                    "image": "http://image.wufazhuce.com/FuTuX8ADa-UsbdpQuu8OwytssLes",
+                    "title": "武汉人生存图鉴 作者/热爱人间的小黄",
+                    "content": "只想有一个正常的生活，不求别的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 武汉人生存图鉴",
+                        "desc": "文/热爱人间的小黄 只想有一个正常的生活，不求别的。",
+                        "link": "http://m.wufazhuce.com/article/4225?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 武汉人生存图鉴",
+                        "desc": "文/热爱人间的小黄 只想有一个正常的生活，不求别的。",
+                        "link": "http://m.wufazhuce.com/article/4225?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 武汉人生存图鉴》 文/热爱人间的小黄： 只想有一个正常的生活，不求别的。 阅读全文：http://m.wufazhuce.com/article/4225?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4225?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "武汉人生存图鉴",
+                        "desc": "只想有一个正常的生活，不求别的。",
+                        "link": "http://m.wufazhuce.com/article/4225?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19915",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1124",
+                "title": "世界得了健忘症·第十七章：初恋",
+                "forward": "爱。好陌生的一种感觉，我可以察觉到它的形状，更加感受得到它曾经是如何彻底捏爆了我。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 959,
+                "post_date": "2020-03-07 06:00:00",
+                "last_update_date": "2020-03-02 09:54:00",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第17章",
+                "number": "17",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1124",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1124",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1124",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第十七章：初恋 作者/昔央",
+                    "content": "爱。好陌生的一种感觉，我可以察觉到它的形状，感受到它曾经是如何捏爆了我。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第十七章：初恋",
+                        "desc": "文/昔央 爱。好陌生的一种感觉，我可以察觉到它的形状，感受到它曾经是如何捏爆了我。",
+                        "link": "http://m.wufazhuce.com/serial/1124?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第十七章：初恋",
+                        "desc": "文/昔央 爱。好陌生的一种感觉，我可以察觉到它的形状，感受到它曾经是如何捏爆了我。",
+                        "link": "http://m.wufazhuce.com/serial/1124?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第十七章：初恋》 文/昔央： 爱。好陌生的一种感觉，我可以察觉到它的形状，感受到它曾经是如何捏爆了我。 阅读全文：http://m.wufazhuce.com/serial/1124?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1124?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第十七章：初恋",
+                        "desc": "爱。好陌生的一种感觉，我可以察觉到它的形状，感受到它曾经是如何捏爆了我。",
+                        "link": "http://m.wufazhuce.com/serial/1124?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19932",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2778",
+                "title": "一个女生能可爱到什么程度？",
+                "forward": "眼里有光，浓时热情似火，淡时静止如水。",
+                "img_url": "http://image.wufazhuce.com/FsM7inEa24Sjpg54ZLNfAL9Tm_-_",
+                "like_count": 3209,
+                "post_date": "2020-03-07 06:00:00",
+                "last_update_date": "2020-03-06 12:57:35",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2778",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2778",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2778",
+                    "image": "http://image.wufazhuce.com/FsM7inEa24Sjpg54ZLNfAL9Tm_-_",
+                    "title": "一个女生能可爱到什么程度？",
+                    "content": "一个女生能可爱到什么程度？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 一个女生能可爱到什么程度？",
+                        "desc": "文/网友 想起她就心头一软。",
+                        "link": "http://m.wufazhuce.com/question/2778?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 一个女生能可爱到什么程度？",
+                        "desc": "文/网友 想起她就心头一软。",
+                        "link": "http://m.wufazhuce.com/question/2778?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 一个女生能可爱到什么程度？》 文/网友： 想起她就心头一软。 阅读全文：http://m.wufazhuce.com/question/2778?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2778?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一个女生能可爱到什么程度？",
+                        "desc": "想起她就心头一软。",
+                        "link": "http://m.wufazhuce.com/question/2778?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "19895",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1960",
+                "title": "送给所有女孩：成为自己想要的样子",
+                "forward": "即使在这个不属于她的时代里，她也努力活出了她自己。",
+                "img_url": "http://image.wufazhuce.com/Foh5FHO0v5y0l2pZ1r76Iqf8FUEl",
+                "like_count": 3342,
+                "post_date": "2020-03-07 06:00:00",
+                "last_update_date": "2020-03-11 18:49:10",
+                "author": {
+                    "user_id": "11157390",
+                    "user_name": "表姐电影",
+                    "desc": "电影届吐槽小能手，可爱又毒舌。公众号：表姐电影。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "发现电影之美",
+                    "fans_total": "240",
+                    "web_url": "http://image.wufazhuce.com/FvNuOPy9FSHHFGKAEVAfHvsL5WhH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "我的天才女友 第二季",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4943",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1960",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1960",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1960",
+                    "image": "http://image.wufazhuce.com/Foh5FHO0v5y0l2pZ1r76Iqf8FUEl",
+                    "title": "「一个」电影: 我的天才女友 第二季",
+                    "content": "今天要给大家介绍的这部剧，推荐给所有女性&mdash;&mdash;《我的天才女友 &nbsp;第二季》这部剧是根据小说改编的，原作剧集是大名鼎鼎的「那不勒斯四部曲」。这个系列由四部情节相连的小说构成，分别是《我的天才女友》《新名字的故事》《离开的，留下的》和《失踪的孩子》。小说的原著作者非常神秘，从不出席公众场合，从不接受记者面访，就连对外的名字埃莱娜&middot;费兰特，也只是笔名，并非真名。这个系列小说在全球创下了&ldquo;费兰特热&rdquo;，连续四年登上畅销书榜单，费兰特还入选了《时代周刊》评选的&ldquo;当今世界100个最具影响力的人物&rdquo;榜单，小说中故事的发生地那不勒斯，也迎来了许多慕名而来的游客。众所周知，越是经典的、火爆的、受众广的小说，越难被改编。如何打破小说和电视剧的界限，让读者们心中的人物走上荧屏，对创作者来说是个不小的挑战。为此，幕后团队做了很多努力。搭建片场来还原小说中的那不勒斯，选角团队在当地选角，以保证演员口音的纯正。功夫不负有心人，连续两季的超高口碑都证实了剧组的努力没有白费。第一季，评分9.3。第二季刚开播两集，评分9.7。所以说，&ldquo;改编难&rdquo;只不过是市面上那些粗制滥造改编剧的遮羞布，只要用心，改编剧也可以让读者满意，让观众满意。剧名《我的天才女友》，这其中的&ldquo;我&rdquo;是个女孩，整部剧其实是关于&mdash;&mdash;那不勒斯贫民区两个女孩的故事。埃莱娜。文静内敛，沉默寡言，性格有点唯唯诺诺，是大家眼中的乖乖女。莉拉。聪明伶俐，十分勇敢，反叛，浑身散发着一种野性美。这两个人性格完全不同，但在上世纪50年代，灰暗贫穷的那不勒斯，两个人却结下了深厚的友谊。和大多女孩子之间的友谊一样，埃莱娜和莉拉的感情也很微妙。小的时候，埃莱娜一边羡慕她比自己勇敢，一边被她的勇敢所吸引，和她成了如影随形的朋友。大了之后，埃莱娜升入高中，但莉拉却因家穷不能上学，埃莱娜既同情莉拉，又暗自沾沾自喜。而莉拉也嫉妒羡慕埃莱娜能继续上学，于是就暗地里自学，不想被莉拉比下去。一种若有若无的竞争，一直充斥在两个人之间。但与此同时。第一时间察觉到对方失落，发自内心为对方难过，倾尽全力去帮助对方的，也是她们。两个人既能托付秘密又暗中竞争，既互相理解又会生出嫉妒，既希望对方过得好，但又不希望对方过得比自己好太多。诚如原著腰封中所说：&ldquo;只有你身为女人才会知道这些丑陋的秘密&rdquo;。女孩子之间的微妙感情，是这部剧吸引到人最大原因。第二季的剧情，两个人依旧延续第一季这种微妙的关系。16岁的莉拉出落的越来越漂亮，有了许多追求者。最后，她选择嫁给了肉食店老板的儿子，成了阔太太。此时，埃莱娜既为莉拉感到开心，也为自己感到沮丧。一直骄傲于自己有上学机会的她，开始觉得上学没有用。不上学的莉拉，做了阔太太，而自己却一无所有。想到莉拉在婚后就要成为真正的女人，她迫不及待的想要和自己并不爱的男友发生关系，只为了告诉莉拉自己也成为女人了。然而，当莉拉度蜜月回来，事情却超出了埃莱娜的预期。婚礼之后，莉拉就发现丈夫并不是婚前正义善良，深情款款的样子。他以欺骗的手段得到她，满足了内心的虚荣，然后就对她非打则骂，极尽羞辱。婚礼当天，发现丈夫真面目的莉拉不愿满足他的欲望，他上来就是狠狠的一巴掌，然后粗暴蛮横的强奸了她。莉拉对美好生活的期望，碎在了婚礼当夜。所有人都对她脸上的伤痕视而不见， 莉拉也无所谓别人对她的看法，但是唯独不想让埃莱娜看到她的样子。听闻莉拉蜜月回来，埃莱娜过来找她。&ldquo;为什么不告诉我你回来了？所有人都能见到你，就我不能吗？我不在乎其他人，但你不一样。&rdquo;闻言，埃莱娜取下了莉拉戴在脸上的墨镜，看到了眼睛下的伤痕。听闻莉拉的遭遇，埃莱娜默默的流下了眼泪。她对莉拉的遭遇感到心疼，也为自己此前的小心思感到羞愧。殊不知，莉拉不想让她看到自己，既是不想让她为自己难过，也是不想让她看到自己狼狈憔悴的样子。婚姻没有成为她幸福的港湾，反而让她掉入魔窟之中，没有自由，更加孤独。她邀请埃莱娜来自己家中学习，因为&ldquo;知道你在就好，知道我不是一个人就好&rdquo;。她督促埃莱娜专心学业，以打赌的形式激起埃莱娜的好胜心，因为她比她更懂得上学的机会多难得。埃莱娜一边同情着莉拉糟糕的婚姻生活，一边又情不自禁的想起了自己小时候的邻居尼诺，不知不觉，她就爱上了他。在16岁这个时间节点上，她们的人生都将迎来重大转折点。恋爱、婚姻、事业&hellip;&hellip;她们小心翼翼的，既甜蜜又忐忑的做出了种种决定，但这之后的甜蜜还是暴击，她们无从知晓。成为阔太太的莉拉，看着风光，但身心却充满伤痕。活在暗恋中的埃莱娜依旧是少女，但她暗恋的人，却又是另外一种人渣。生活，对她们从来都不友好。但莉拉和埃莱娜的抗争和反抗，也从来没有停止过。两个女孩的相爱相杀，可能会让许多人想起《七月与安生》，但这部剧的内容深度要比《七月与安生》宏大许多。它讲的不仅仅这两个女孩的故事，还关于所有的女性，是一部当之无愧的「女性史诗」。剧中最让我难过的一幕不是莉拉惨遭家暴的时候，而是莉拉被家暴后，众人的反应。她眼睛下的伤痕十分明显，但是所有人都假装没有看到，觥筹交错，其乐融融，连问都没有问一句，这其中包括她的父母和哥哥。父亲粗暴、母亲软弱、哥哥和莉拉的感情一直不错，小的时候还想过要供妹妹上学。但长大之后，在生活压力和强烈自尊心的驱使下，也不可避免的向金钱投降。莉拉的出嫁换来了全家人的富贵，至于她婚姻中是否过得好，好像也并不重要。在剧中家暴好像是最常见的事情了，打妻子、打女儿的情节时有发生。母亲看向莉拉的眼神是有担忧的成分在，但是她一句话都没说，她自己被丈夫打怕了，也默认了女人被打，没什么好奇怪的。埃莱娜的母亲刻薄、冷酷，充满戾气，一言不合就朝埃莱娜甩巴掌。埃莱娜从小就希望自己不要成为她这样的人。但是，在小的时候，在少女时期，她们就是这般面貌吗？曾几何时，她们也和埃莱娜、莉拉一样，生机勃勃，内心有着无限幻想。在以往任何年代，任何国家，女人想要改变命运，很难。途径，无外乎两种。要么嫁人，要么通过学识努力。剧中的大多数人，人生从出生就是注定的&mdash;&mdash;女人的命运就是结婚生子，男人的命运就是子承父业。用剧中的话说&mdash;&mdash;这就是庶民。庶民是什么？就是&mdash;&mdash;当一个人想一直当庶民，那他的孩子、孙子都会命若草芥，不值一提。这是老师教导埃莱娜的话，但最先领悟到这真谛的，是莉拉。小的时候，她为争取上学的机会，被父亲从窗外扔了出来；长大之后，莉拉满心欢喜嫁了人，但丈夫冷酷无情，毫无诚信。她生活在毫无正义和公平的社会中，周遭是一群粗鄙浮夸、金钱至上的人，她厌恶极了这一切，自然不希望孩子也重复自己的命运。所以，即便因为没有怀孕而被指指点点，被丈夫指责，她也毫不在乎。埃莱娜和莉拉因为怀孕的事发生过矛盾，但她身上有着无与伦比的观察和自省能力。灰尘弥漫的大街上，她看到因为丈夫住牢而备受煎熬的家庭主妇，看到为无人照看孩子而发愁的零售店老板娘，看到母亲在追赶训斥孩子，看到女人们为蔬菜价格争吵，看到女孩安慰哭泣中的妹妹&hellip;&hellip;一种恐慌涌上心头，她突然就理解了莉拉的固执。莉拉天性叛逆，多次反抗，但嫁人的路并没有行通，怀孕的消息更是让人绝望。埃莱娜能上学实在是太幸运，这得益于老师的帮助，也是她父亲想要挣面子，想要女儿成才，改变全家的命运。然而通过教育改变命运，掌控自己的人生也并非如想象中那么简单。今时今日，有多少有知识、有能力的女生依旧要被指指点点，为婚嫁孕育而发愁，无法自由自在，按照自己的想法生活呢？曾经《纽约时报》问费兰特，希望从这部作品中获得什么？费兰特说：即使我们无数次被引诱去卸下我们的防卫。出于爱，出于疲惫，出于同情或者好意。我们女性都不应该这么做。我们会一寸一寸地失去我们已经争取到的东西。这句话，与君共勉。只有女性自己意识到自己失去了什么，我们才能明白自己该去争取什么。在21世纪的现在，在女性生理期不能被公然讨论的现在，在《想见你》中男主角一句&ldquo;你来那个的第一天吗&rdquo;，都会被剪掉的现在&mdash;&mdash;这部《我的天才女友》更值得每个女性去观看。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 送给所有女孩：成为自己想要的样子",
+                        "desc": "文/表姐电影 只有女性自己意识到自己失去了什么，我们才能明白自己该去争取什么。",
+                        "link": "http://m.wufazhuce.com/movie/1960?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 送给所有女孩：成为自己想要的样子",
+                        "desc": "文/表姐电影 只有女性自己意识到自己失去了什么，我们才能明白自己该去争取什么。",
+                        "link": "http://m.wufazhuce.com/movie/1960?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 送给所有女孩：成为自己想要的样子》 文/表姐电影： 只有女性自己意识到自己失去了什么，我们才能明白自己该去争取什么。 阅读全文：http://m.wufazhuce.com/movie/1960?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1960?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "送给所有女孩：成为自己想要的样子",
+                        "desc": "只有女性自己意识到自己失去了什么，我们才能明白自己该去争取什么。",
+                        "link": "http://m.wufazhuce.com/movie/1960?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2709",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4225",
+                    "title": "武汉人生存图鉴",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1124",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第十七章：初恋"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2778",
+                    "title": "一个女生能可爱到什么程度？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1960",
+                    "title": "送给所有女孩：成为自己想要的样子"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

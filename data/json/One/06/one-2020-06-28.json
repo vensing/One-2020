@@ -1,0 +1,457 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5549",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-28 06:00:00",
+        "content_list": [
+            {
+                "id": "20602",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2863",
+                "title": "摄影",
+                "forward": "你心虽善感，却从不改变；你灵魂柔顺，却永不妥协。",
+                "img_url": "http://image.wufazhuce.com/Fu4FFXUFAxUlt2fLMTFJTshPtS9_",
+                "like_count": 18312,
+                "post_date": "2020-06-28 06:00:00",
+                "last_update_date": "2020-06-22 12:35:53",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2822",
+                "pic_info": "Federica Ariemma",
+                "words_info": "拜伦《给奥古丝塔的诗章》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2863",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2863",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2863",
+                    "image": "http://image.wufazhuce.com/Fu4FFXUFAxUlt2fLMTFJTshPtS9_",
+                    "title": "VOL.2822",
+                    "content": "你心虽善感，却从不改变；你灵魂柔顺，却永不妥协。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2863?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2863?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 你心虽善感，却从不改变；你灵魂柔顺，却永不妥协。——拜伦《给奥古丝塔的诗章》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2863?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2863?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20612",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4364",
+                "title": "金鱼花火",
+                "forward": "其实呀，人生在世，很多人很多事是躲不开，也不用躲的。该来的坦然接受就好了。世间万事，没有无端端的开始，更没有无端端的结束。",
+                "img_url": "http://image.wufazhuce.com/FlTq3mxS3X4jt2N6DyYcXG2WC5vc",
+                "like_count": 2597,
+                "post_date": "2020-06-28 06:00:00",
+                "last_update_date": "2020-06-24 13:27:53",
+                "author": {
+                    "user_id": "4813837",
+                    "user_name": "耀一",
+                    "desc": "作家、编剧。@鞭具蛋挞耀一",
+                    "wb_name": "@鞭具蛋挞耀一",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家、编剧。",
+                    "fans_total": "2937",
+                    "web_url": "http://image.wufazhuce.com/FllpIsV7dA6kAKywtvnPYClNkePb"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4364",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4364",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4364",
+                    "image": "http://image.wufazhuce.com/FlTq3mxS3X4jt2N6DyYcXG2WC5vc",
+                    "title": "金鱼花火 作者/耀一",
+                    "content": "人间一趟，闪耀过。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 金鱼花火",
+                        "desc": "文/耀一 人间一趟，闪耀过。",
+                        "link": "http://m.wufazhuce.com/article/4364?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 金鱼花火",
+                        "desc": "文/耀一 人间一趟，闪耀过。",
+                        "link": "http://m.wufazhuce.com/article/4364?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 金鱼花火》 文/耀一： 人间一趟，闪耀过。 阅读全文：http://m.wufazhuce.com/article/4364?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4364?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "金鱼花火",
+                        "desc": "人间一趟，闪耀过。",
+                        "link": "http://m.wufazhuce.com/article/4364?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20618",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2893",
+                "title": "如何融入新的社交圈?",
+                "forward": "为人是一方面，坚持品性，保持初心，但不唯唯诺诺。处世是一方面，灵活周转，适当取舍，但不损人利己。",
+                "img_url": "http://image.wufazhuce.com/Ftf0TcF8i9viCjVC89lcF684Q6qE",
+                "like_count": 2307,
+                "post_date": "2020-06-28 06:00:00",
+                "last_update_date": "2020-06-27 19:41:48",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "小猪悟能",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2893",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2893",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2893",
+                    "image": "http://image.wufazhuce.com/Ftf0TcF8i9viCjVC89lcF684Q6qE",
+                    "title": "如何融入新的社交圈?",
+                    "content": "如何融入新的社交圈?"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何融入新的社交圈?",
+                        "desc": "文/幺零 毕业照的作用，在于留下你脸上最后的温纯纪念。",
+                        "link": "http://m.wufazhuce.com/question/2893?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何融入新的社交圈?",
+                        "desc": "文/幺零 毕业照的作用，在于留下你脸上最后的温纯纪念。",
+                        "link": "http://m.wufazhuce.com/question/2893?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何融入新的社交圈?》 文/幺零： 毕业照的作用，在于留下你脸上最后的温纯纪念。 阅读全文：http://m.wufazhuce.com/question/2893?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2893?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何融入新的社交圈?",
+                        "desc": "毕业照的作用，在于留下你脸上最后的温纯纪念。",
+                        "link": "http://m.wufazhuce.com/question/2893?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10916327",
+                    "user_name": "幺零",
+                    "desc": "一个徘徊在艺术与世俗间的钟摆，时常见惯人间世，偶尔胡诌万物生。",
+                    "wb_name": "@开光的幺零",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "医生，魔术爱好者，rapper，写作者。",
+                    "fans_total": "312",
+                    "web_url": "http://image.wufazhuce.com/FmaRe_N4u_1c3hEYmImS85aqC3mo"
+                }
+            },
+            {
+                "id": "20607",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3283",
+                "title": "你是我意外的勇敢，也是不得不放弃的纠缠",
+                "forward": "他一只手悠闲自在的撑在桌子上，刚好挡住往这边来的路，高高的个子背对着雅帆和几个女生闲聊，她整个人都被笼在他斜下来的影子里。",
+                "img_url": "http://image.wufazhuce.com/FlEF9FyrRBRyIncTUZYVNtCsdYBZ",
+                "like_count": 1828,
+                "post_date": "2020-06-28 06:00:00",
+                "last_update_date": "2020-06-27 22:25:29",
+                "author": {
+                    "user_id": "10594014",
+                    "user_name": "二葵",
+                    "desc": "直截了当白羊座",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "直截了当白羊座",
+                    "fans_total": "1144",
+                    "web_url": "http://image.wufazhuce.com/FnCiAnxUC4bylXx_kO0LdYbiz8As"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lr-40hseiadvcBJb1qzSOADIgflx",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "卸任",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3283",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3283",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3283",
+                    "image": "http://image.wufazhuce.com/FlEF9FyrRBRyIncTUZYVNtCsdYBZ",
+                    "title": "「一个」音乐: 二葵 卸任",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1张雅帆在校门口看到程宇的时候。他正和一个女生挨着说话，大概是什么不能听的话，女生凑近了他在低声说，而程宇也很配合的弯下腰来把耳朵贴给她，两个人的影子叠在一起，身形也很是暧昧。张雅帆冷着脸撇撇嘴，直接拨通了程宇的电话，电话嘟了两声就被接起来，那边传来他一贯清朗的声音，透着股隐隐的傲气：&ldquo;有事？&rdquo;她也不啰嗦的单刀直入：&ldquo;你跟那女生在干什么呢。&rdquo;程宇立刻往四周看去，视线扫到雅帆时，她朝他歪了下头，晃了晃手里的手机。可是程宇却一点也没慌，他略带好笑的声音又从手机里传来，&ldquo;张雅帆，你搞搞清楚，我们已经分手了。&rdquo;话音刚落，有一辆车停在了程宇他们面前，雅帆看着他没有丝毫犹疑的挂了电话，和女生钻进车子里扬长而去，她这才呆呆的反应过来：啊，他们已经分手了。上次吵架时程宇在愤怒下提出分手，雅帆立刻便答应下来，她已经思忖了之后的处理方式，那就是程宇过来道歉求复合，她冷冷拒绝，他再使出浑身解数哄她，她再拒绝，等到第三次求复合的时候，她再勉为其难的答应，顺带会罗列一些附加条件。可是现在，程宇这是怎么了？&nbsp;&nbsp;2张雅帆从来没有怀疑过程宇对她的真心，也不会相信他这么快就爱上了别人，所以她想，他可能是真的生气了。吵架的原因要说也不大，两个人临近毕业，彼此都有很多事要忙，那天晚上散步时，雅帆絮絮叨叨的跟他讲着最近的事情，掺杂着刚实习时的苦恼，可程宇却嗯嗯啊啊的应着，明显的心不在焉。雅帆问他是不是有什么烦心的事情，程宇只是摇头，在几次努力把他的思绪拉回来无果后，雅帆直接发了火，她甩开两人牵着的手，质问道：&ldquo;我知道最近我们压力都很大，可你有什么事就说出来，这样来回敷衍是怎么回事，这样不耐烦又是怎么一回事？&rdquo;&ldquo;我没有不耐烦，但我什么事都要说出来吗？你总让我体谅你，你就不能反过来体谅我一下？&rdquo;&ldquo;我什么时候不体谅你了？&rdquo;战争就这样一触即发，当时两人吵得面红耳赤一句不让，可是等火气下去雅帆再回头想，又觉得算什么大不了的事情呢。可能是最近他压力太大了，而自己，又有那么一点点不懂事。一星期后，程宇突然给张雅帆发消息，问自己的借书证是不是还在她那里。雅帆在刚分手的时候半夜睡觉都抱着手机，一有消息提醒便立刻拿起来看。一次次失望过后，她把程宇设成了免打扰，毕竟在期待又落空的每一秒钟，她都是那样难受。但程宇的消息她仍然很快就看到了，因为即使没有提醒，她还是会时刻下滑消息栏翻他的信息，看到消息后，她不复之前想象的傲娇，只是长长、长长的舒了一口气。&ldquo;我给你送过去吧，刚好我也有东西要找你拿。&rdquo;又过了十分钟，雅帆在对话框里打出这句话，点击发送。大四的寝室阿姨管的并不严，雅帆笑眯眯的跟阿姨打了声招呼后便溜了上去，程宇一个人在寝室，他伏在桌子上好像在学习，雅帆走过去一看，竟是六级练习题。像在他们这样的学校，大四还没有考过六级的着实不多了，雅帆毒着嘴巴嘲笑了他两句，程宇也没恼，他拉起旁边的凳子给她坐，没好气的回道：&ldquo;也不看看是因为谁。&rdquo;雅帆沉默了，大一是不能考级的，大二上考四级，大二下他们两个一起复习着考六级，却在考试前一天吵架了，当时的程宇还很年少轻狂，他和雅帆吵了架后实在是平复不了心绪，拉着室友出去撸串喝酒，结果酒量不济喝得伶仃大醉，一觉醒来后已经是第二天中午了。更可气的是，他最后因为旷考被罚停考一次，雅帆却超常发挥考了600多。等大三下程宇要再考的时候，雅帆却又因为胡吃海喝得了急性肠胃炎，程宇大半夜把她从寝室楼上背下来送到医院急诊，等她第二天醒来的时候，程宇已经趴在她床边睡着了。虽说生活有时巧得让人不可置信，但雅帆明白，这些年程宇为了她所做的，为了她放弃的，何止又是这一件事呢。雅帆坐在凳子上，随手拿过六级册子低头看着，一页一页来回翻，从左边到右边，又从右边到左边。&ldquo;程宇，我们复合吧。&rdquo;程宇是多么骄傲的男孩子，她又是多么骄傲的女孩子，雅帆心里都明白。可若是因为他，她愿意放下自己的骄傲。屋子里是良久的寂静，程宇没有回声，雅帆抬起头有些不可置信的看着他，程宇没有回避她的目光。最后，他到底转过头去，&ldquo;还是算了吧，我们。&rdquo;&nbsp;3自尊心可真是一个明明什么用都没有，却又要拼了命去维护的东西。雅帆很想直接抓住程宇问问为什么，可自尊心却使她波澜不惊的点了点头后，便头也不回的离开了。从那一刻开始，雅帆才终于意识到，程宇说的分手，是认真的。她逐渐开始尝试接受他们分手的事实，更加努力的忙学生会交接、忙实习、忙毕业，整个人精神抖擞的恨不能飞起来，然后在别人问起程宇的时候尽量用最云淡风轻的语气说上一句：&ldquo;分手了呀，哈哈哈。&rdquo;可是人前的骄傲可以装出来，人后的悲伤，又要怎么掩饰呢。每次午夜梦回的时候，雅帆便会盯着天花板发呆，脑子里不受控制的一遍遍回放着她和程宇的过去，那些笑的闹的，吵的斗的，从一开始他把自己拉到操场表白时局促又傲娇的模样，到后来他们手牵手，又一起走过了多少的时光。对于程宇为什么突然要提分手这件事，雅帆来来回回扒了无数个小细节，连她日常一个不耐烦的眼神都给分析上了，他是因为自己之前哪句话说重了吗，还是因为上一回信息回晚了，纠结来纠结去，逼得雅帆要发疯。她不相信他就这样不爱她了，上次她提复合时，程宇看向她的目光里明明还有挣扎，他怎么可以就这样不爱她？在钻了无数次牛角尖后，雅帆决定放过自己，她要再找一次程宇，问一问到底为什么。可能有些事情一旦有了答案，她便会放下了吧。见面的地点约在他们以前常去的奶茶店，雅帆看着自己凹陷的脸颊，在去之前特意好好收拾了一番，脂粉遮住自己憔悴的面容，她妆容精致的走在路上，依然是虎虎生风。可是在见到程宇时，他开口的第一句话就立刻粉碎了她所有的伪装。&ldquo;你最近怎么了，不舒服吗？&rdquo;雅帆心里一震，脸上却做出一副疑惑的表情，&ldquo;为什么这么问？&rdquo;&ldquo;你不是一向自诩天生丽质不屑于化妆的吗，现在化了妆整个人却蔫蔫的。&rdquo;心里的酸涩在一瞬间胀满，雅帆掩饰不住几乎一下子哭出来，她以为自己带好盔甲便可以在他面前不输气场，可曾经他就是她的盔甲，又怎么会看不见她内心最脆弱柔软的地方。几个同院的女生端着奶茶走过来，看到他们便笑着打招呼，眼神中还带着些许窥探，雅帆下意识的扭过身去，程宇快一步站起来挡在她的面前。&nbsp;雅帆躲在程宇背后一边迅速的整理自己的情绪，一边用手机检查眼妆。等她再抬头时，发现程宇还是那个姿势，他一只手悠闲自在的撑在桌子上，刚好挡住往这边来的路，高高的个子背对着雅帆和几个女生闲聊，她整个人都被笼在他斜下来的影子里。这么多年来，洞悉她的情绪、照顾她的面子似乎已经成了他的习惯，可是程宇啊程宇，他这个样子，又让她怎么能放得下呢？雅帆伸手拉了拉程宇的袖子，笑着从背后探出头来，说：&ldquo;我们走吧。&rdquo;走到没有人的路上，两个人稍稍站定，雅帆觉得满腹的问话一句也问不出来了，要怎样呢，逼着这样一个男孩子亲口说出不爱她了，她会开心吗？感觉到程宇想离开了，雅帆心里慌得厉害，她又想伸手去抓住程宇的袖子，却怎么也提不起勇气来。&ldquo;你是因为分手了&hellip;&hellip;才这样的么。&rdquo;过了半晌，程宇问她。雅帆低着头不敢看他的眼睛，手指扭着劲，终于还是干涩的吐出一句话：&ldquo;是啊。&rdquo;她抬起头看他，笑得牵强又悲伤，&ldquo;是不是很没出息？&rdquo;&nbsp;程宇直直盯着她，那股挣扎的感觉又流露出来，可到底他还是笑着摇摇头：&ldquo;我比你也好不到哪里去。&rdquo;&nbsp;4失魂落魄的回到宿舍，想起刚刚程宇那股悲伤却又毫不退让的情绪，雅帆感到无力，每见一次面，她都能感觉他们的距离又拉远很多，如果不是她倔强的死死扯着，他现在可能已经完全脱离了她的生活。&ldquo;雅帆雅帆！&rdquo;室友突然跑过来抓住她狂摇，&ldquo;晓晓在逛街，看到程宇和一个女生一起进酒店了！你看照&hellip;&hellip;&rdquo;雅帆一把抢过手机放大照片，是程宇的背影没错，而他身边那个女生，是那天她在校门口遇见的那个。雅帆抓起包就冲了出去，她从来没有想过分手是因为程宇出轨，可这次要是真的的话，那便是无缝衔接了。出租车上雅帆一直在哭，哭得外面的霓虹在她眼中全部变成了一个个彩色的光点，哭得一颗心逐渐变冷。是一个星级酒店，室友晓晓已经等在门口，看到雅帆过来满脸都是怜惜，支支吾吾地说：&ldquo;已经进去半个小时了，我不敢跟，就一直在外面等你。&rdquo;雅帆看了一眼装修的大气华贵的酒店门，眼神暗了暗，还是走了进去。靠着墙等在电梯的对面，雅帆不知道自己是在干什么，她已经不是程宇的正牌女友了，却非要来上演一出捉奸的戏码。长长吁了一口气，长期的疲累在这一刻终于涌上来，雅帆觉得自己腰都直不起来，刚才的恼怒也全变成了卑微的自我嘲讽。刚想转身离去，电梯门却开了，几个像是酒店经理模样的人簇拥着一个更有派头的中年人出来，程宇和那女生恭敬地跟在一边，女生手里还拿着一个文件。出来后，中年人转过头拍了拍程宇的肩膀，笑着说：&ldquo;今天辛苦了，早点回去吧。&rdquo;说完他就又被一群人簇拥着走了，程宇和女生落后几步，正准备也离开，却转头看到了一脸尴尬的雅帆。女生瞠目结舌的看着雅帆，她似乎不可置信般走上前两步，笑道：&ldquo;学姐的表情怎么五颜六色的？你不会是来捉奸的吧！&rdquo;&ldquo;陈雪。&rdquo;程宇在背后低斥了她一声，陈雪笑得更欢，&ldquo;我没有恶意，学长不用这么护着。&rdquo;&nbsp;她看着雅帆苍白的脸色，也略微不忍，又解释道：&ldquo;我是这一届的辩协会长，因为办活动要谈赞助但我又不熟，所以才拉上一任会长来帮忙的，至于为什么是这个点，是因为大佬只有这个点有时间呀，而且，学姐，我有男朋友了。&rdquo;&nbsp;5陈雪和室友都回去了，当时雅帆也想要离开，是程宇拉住了她，低声对她说：&ldquo;我们谈谈吧。&rdquo;到底还是在酒店开了房，雅帆坐在床沿边哭的一塌糊涂，程宇在她面前小心翼翼的拍着她的背安慰他，雅帆觉得无奈又悲伤，本来最不想让看到这份悲伤的人便是程宇，可是最后这份悲伤，还是他帮着承担了。等她哭够了，程宇才开口：&ldquo;雅帆，我毕业后要回老家了。&rdquo;张雅帆立刻抬起头，&ldquo;是因为这个，你才要跟我分手的吗？&rdquo;&ldquo;不全是吧。&rdquo;张雅帆定定看着他，程宇默了一会儿，终于说：&ldquo;你是一个很骄傲的人，我也是一个很骄傲的人，但我其实并不是一个习惯去迁就和包容的性子，时间久了我便累了，而且，我们的追求也不一样，你毕业后想留在上海吧？我不想因为你放弃我的未来，也不想你再来迁就我。我曾经很喜欢你，但我们不合适。&rdquo;雅帆下意识的想出声反驳，她甚至想告诉程宇她以后不会那么任性了，可是到最后，她什么都没有说出口。是啊，世界上哪有那么多惊天动地的分手理由，只是所有云淡风轻的背后，都留下了很多再也弥补不了的遗憾吧。曾经的雅帆牵着程宇的手，觉得他是她无论经过多少沧海桑田都不会失去的人，可时间就这么悄无声息的过了，他不爱她了。雅帆知道程宇的性子，若是真的做了决定，便不会回头。那自己呢，追在一个已经对自己死心的人身后，这种揪心的状态，她又能持续多久呢。余生很贵，患得患失不如顺其自然，纠结遗憾不如随遇而安。她大概还是会哭着迷茫自己到底是在哪个转角弄丢了他，但她不能拿未来去赌。像是一颗石头轻轻落了地，张雅帆万般疲累的缩进被窝里，她突然觉得很困倦，对着程宇说，&ldquo;你能不能一会儿再走。&rdquo;程宇点点头：&ldquo;我在隔壁也开了房，等你睡着了，我会去那边睡。&rdquo;雅帆笑了，低声问他：&ldquo;你回去要做什么工作呢？&rdquo;&ldquo;我想考当地的公务员，好的单位有些难，可能还要再努力一阵子，你呢？&rdquo;&ldquo;我大概会去外企吧&hellip;&hellip;&rdquo;两个人有一搭没一搭的聊着，雅帆的声音渐渐变低最后睡死过去，她已经连着三个月没有睡过一个好觉，可现在，可以后，情伤这种东西，都要她一个人慢慢消化了。她以后不会再找程宇，但所幸她已经被这样一个人好好爱过。恋爱时，他是最佳男朋友，分手后，他是最佳前男友。以后能嫁给他的女孩子，应该很幸运吧，而她，便就此卸任。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你是我意外的勇敢，也是不得不放弃的纠缠",
+                        "desc": "文/二葵 后来，我变成了你口中的那个曾经。",
+                        "link": "http://m.wufazhuce.com/music/3283?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你是我意外的勇敢，也是不得不放弃的纠缠",
+                        "desc": "文/二葵 后来，我变成了你口中的那个曾经。",
+                        "link": "http://m.wufazhuce.com/music/3283?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你是我意外的勇敢，也是不得不放弃的纠缠》 文/二葵： 后来，我变成了你口中的那个曾经。 阅读全文：http://m.wufazhuce.com/music/3283?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3283?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你是我意外的勇敢，也是不得不放弃的纠缠",
+                        "desc": "后来，我变成了你口中的那个曾经。",
+                        "link": "http://m.wufazhuce.com/music/3283?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "卸任",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "谢宇伦",
+                "audio_album": "卸任",
+                "cover": "http://image.wufazhuce.com/FnjGnsPay3_XFr9iSwqWrh2ICIRk",
+                "bg_color": "#000"
+            },
+            {
+                "id": "20603",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3195",
+                "title": "陪伴你长大的零食，你还记得吗？",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fl9BbEUyWjeCZ1zYcW5xIrqCW-fe?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1258,
+                "post_date": "2020-06-28 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3195",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3195",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 陪伴你长大的零食，你还记得吗？",
+                        "desc": "你小时候最爱吃的零食是什么呢？",
+                        "link": "http://m.wufazhuce.com/radio/3195?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpp7wEXVcoCjGTZep7lJEizUV3zR"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 陪伴你长大的零食，你还记得吗？",
+                        "desc": "你小时候最爱吃的零食是什么呢？",
+                        "link": "http://m.wufazhuce.com/radio/3195?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpp7wEXVcoCjGTZep7lJEizUV3zR"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 陪伴你长大的零食，你还记得吗？》 主播/李荟莹： 你小时候最爱吃的零食是什么呢？ 阅读全文：http://m.wufazhuce.com/radio/3195?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3195?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lpp7wEXVcoCjGTZep7lJEizUV3zR"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "陪伴你长大的零食，你还记得吗？",
+                        "link": "http://m.wufazhuce.com/radio/3195?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpp7wEXVcoCjGTZep7lJEizUV3zR"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 842 期",
+                "audio_url": "http://music.wufazhuce.com/lpp7wEXVcoCjGTZep7lJEizUV3zR"
+            }
+        ],
+        "menu": {
+            "vol": "2822",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4364",
+                    "title": "金鱼花火"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2893",
+                    "title": "如何融入新的社交圈?"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3283",
+                    "title": "你是我意外的勇敢，也是不得不放弃的纠缠"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3195",
+                    "title": "陪伴你长大的零食，你还记得吗？"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

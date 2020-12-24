@@ -1,0 +1,638 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5489",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-05-01 06:00:00",
+        "content_list": [
+            {
+                "id": "20279",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2805",
+                "title": "摄影",
+                "forward": "即使在旁人看来毫无意义，可是自己还是能全心投入，那才是人最幸福的时刻吧。",
+                "img_url": "http://image.wufazhuce.com/Ft9ChLTuUB5uyEICmQZEyYQMg9FV",
+                "like_count": 20292,
+                "post_date": "2020-05-01 06:00:00",
+                "last_update_date": "2020-04-30 17:07:47",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2764",
+                "pic_info": "Zuka Kotrikadze",
+                "words_info": "若竹千佐子",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2805",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2805",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2805",
+                    "image": "http://image.wufazhuce.com/Ft9ChLTuUB5uyEICmQZEyYQMg9FV",
+                    "title": "VOL.2764",
+                    "content": "即使在旁人看来毫无意义，可是自己还是能全心投入，那才是人最幸福的时刻吧。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2805?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2805?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 即使在旁人看来毫无意义，可是自己还是能全心投入，那才是人最幸福的时刻吧。——若竹千佐子 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2805?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2805?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20276",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4300",
+                "title": "大橘为重",
+                "forward": "我给自己定下一个约定，30岁之前，我要留着身边的位置，等待那个一见倾心的女孩。",
+                "img_url": "http://image.wufazhuce.com/Fu5t3RB6WpQWTvmczRPAuD9jpmKx",
+                "like_count": 2986,
+                "post_date": "2020-05-01 06:00:00",
+                "last_update_date": "2020-05-01 02:59:30",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "惊人院",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4300",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4300",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4300",
+                    "image": "http://image.wufazhuce.com/Fu5t3RB6WpQWTvmczRPAuD9jpmKx",
+                    "title": "大橘为重 作者/惊人院",
+                    "content": "如果在失恋和杀一个人之间选择，你会选哪一个？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 大橘为重",
+                        "desc": "文/惊人院 如果在失恋和杀一个人之间选择，你会选哪一个？",
+                        "link": "http://m.wufazhuce.com/article/4300?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 大橘为重",
+                        "desc": "文/惊人院 如果在失恋和杀一个人之间选择，你会选哪一个？",
+                        "link": "http://m.wufazhuce.com/article/4300?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 大橘为重》 文/惊人院： 如果在失恋和杀一个人之间选择，你会选哪一个？ 阅读全文：http://m.wufazhuce.com/article/4300?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4300?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "大橘为重",
+                        "desc": "如果在失恋和杀一个人之间选择，你会选哪一个？",
+                        "link": "http://m.wufazhuce.com/article/4300?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20277",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4301",
+                "title": "得到你的爱，我荣幸之至",
+                "forward": "我拿你当朋友，你却想当我爹？",
+                "img_url": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                "like_count": 1714,
+                "post_date": "2020-05-01 06:00:00",
+                "last_update_date": "2020-05-01 09:50:09",
+                "author": {
+                    "user_id": "10594301",
+                    "user_name": "曲尚等四位",
+                    "desc": "一个App编辑。",
+                    "wb_name": "@止于曲尚",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个App编辑。",
+                    "fans_total": "1212",
+                    "web_url": "http://image.wufazhuce.com/FpI_s9uBEO3wVPgFq0WSxtlVfqRb"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4301",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4301",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4301",
+                    "image": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                    "title": "得到你的爱，我荣幸之至 作者/曲尚、柒斐、颗馨、梅头脑",
+                    "content": "谢谢你陪我那么久。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 得到你的爱，我荣幸之至",
+                        "desc": "文/曲尚等四位 谢谢你陪我那么久。",
+                        "link": "http://m.wufazhuce.com/article/4301?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 得到你的爱，我荣幸之至",
+                        "desc": "文/曲尚等四位 谢谢你陪我那么久。",
+                        "link": "http://m.wufazhuce.com/article/4301?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 得到你的爱，我荣幸之至》 文/曲尚等四位： 谢谢你陪我那么久。 阅读全文：http://m.wufazhuce.com/article/4301?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4301?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "得到你的爱，我荣幸之至",
+                        "desc": "谢谢你陪我那么久。",
+                        "link": "http://m.wufazhuce.com/article/4301?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "20272",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1173",
+                "title": "最后的审判（二）第七章：美国政梦",
+                "forward": "男人我已经玩腻了，现在我只想改变国家。",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 866,
+                "post_date": "2020-05-01 06:00:00",
+                "last_update_date": "2020-04-29 10:36:43",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第7章",
+                "number": "7",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1173",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1173",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1173",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第七章：美国政梦 作者/红拂夜奔不复还",
+                    "content": "男人我已经玩腻了，现在我只想改变国家。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第七章：美国政梦",
+                        "desc": "文/红拂夜奔不复还 男人我已经玩腻了，现在我只想改变国家。",
+                        "link": "http://m.wufazhuce.com/serial/1173?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第七章：美国政梦",
+                        "desc": "文/红拂夜奔不复还 男人我已经玩腻了，现在我只想改变国家。",
+                        "link": "http://m.wufazhuce.com/serial/1173?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第七章：美国政梦》 文/红拂夜奔不复还： 男人我已经玩腻了，现在我只想改变国家。 阅读全文：http://m.wufazhuce.com/serial/1173?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1173?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第七章：美国政梦",
+                        "desc": "男人我已经玩腻了，现在我只想改变国家。",
+                        "link": "http://m.wufazhuce.com/serial/1173?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20298",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2837",
+                "title": "你最近看到的最可爱的句子是什么？ ​​​​",
+                "forward": "“热水治不了百病，情话过不了一生，可我们仍旧甘之如饴。”",
+                "img_url": "http://image.wufazhuce.com/FlPrG7HXuoQ5Sk4Ho09qOlu3tlb-",
+                "like_count": 7796,
+                "post_date": "2020-05-01 06:00:00",
+                "last_update_date": "2020-05-01 17:25:17",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "一口一口",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2837",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2837",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2837",
+                    "image": "http://image.wufazhuce.com/FlPrG7HXuoQ5Sk4Ho09qOlu3tlb-",
+                    "title": "你最近看到的最可爱的句子是什么？ ​​​​",
+                    "content": "你最近看到的最可爱的句子是什么？ ​​​​"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你最近看到的最可爱的句子是什么？ ​​​​",
+                        "desc": "文/网友 赶快长大，可爱不是长久之计。",
+                        "link": "http://m.wufazhuce.com/question/2837?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你最近看到的最可爱的句子是什么？ ​​​​",
+                        "desc": "文/网友 赶快长大，可爱不是长久之计。",
+                        "link": "http://m.wufazhuce.com/question/2837?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你最近看到的最可爱的句子是什么？ ​​​​》 文/网友： 赶快长大，可爱不是长久之计。 阅读全文：http://m.wufazhuce.com/question/2837?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2837?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你最近看到的最可爱的句子是什么？ ​​​​",
+                        "desc": "赶快长大，可爱不是长久之计。",
+                        "link": "http://m.wufazhuce.com/question/2837?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20232",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3246",
+                "title": "我是挺爱你的，但这事过去了",
+                "forward": "这一次，就让我们别再有成年人之间假惺惺的告别，彼此假装什么都没有发生，假装什么都不在意。从今天起，我们两不相欠。",
+                "img_url": "http://image.wufazhuce.com/FtugLrcPnmqvrOtinilDxvBo89ts",
+                "like_count": 2442,
+                "post_date": "2020-05-01 06:00:00",
+                "last_update_date": "2020-04-30 17:09:26",
+                "author": {
+                    "user_id": "10268072",
+                    "user_name": "梁佑",
+                    "desc": "公众号：苍蝇与马",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：苍蝇与马",
+                    "fans_total": "2837",
+                    "web_url": "http://image.wufazhuce.com/FtbNqxCso2jiboHhODfmTn0I_CMn"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lnOrNlRR4ghPvqKHPxXgZTHkh1An",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "感官",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3246",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3246",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3246",
+                    "image": "http://image.wufazhuce.com/FtugLrcPnmqvrOtinilDxvBo89ts",
+                    "title": "「一个」音乐: 梁佑 感官",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.我一直是个心狠的人，和付恺分手后，我发过一句话给他&mdash;&mdash;我们永远都不要再见面，然后彻底和他断了联系。那是个炎热的七月，我赤脚站在阳台上和他在微信上吵架，打字不过瘾，便发过去语音和他继续吵。&nbsp;我说完分手后挂了电话，隔了一个多小时，他给我发了一句晚安，那是最后一次晚安。最温暖的两个字，在那个瞬间变得冷漠无比，它终结了我们之间的一切。&nbsp;付恺是和我一样性格的人，一样的倔强、激烈，一样的不懂得容忍，一样的，爱自己甚过爱对方。可是年少气盛的我们，最后两败俱伤，狼狈地结束了那段故事，谁也没有赢过谁。我们相识，是很早以前的事了。高中三年他一直坐在我后面，可是他永远一副高冷的样子。他有些自闭，忧郁，总是独来独往，我在日记本上称他为怪胎。可那样的他，却受到不少女生的青睐，桌子上总会出现好看的信封和零食。&nbsp;我从未想过我会和他在一起，我甚至有些看不他，看不起他的不可一世，看不起他的高傲。后来我想，或许年少的我，第一次在另一个人身上窥到了自己的影子，但又放不下面子去接近，索性不如趁早远离。&nbsp;填写志愿那天，付恺第一次主动联系我，电话那头的他支支吾吾，小声问我填的哪个学校。我愣了好半天，最后告诉他。&nbsp;那真是个美好的夏天，暑光倾覆，给人很多美好的幻想。我们在夏天开始，亦在夏天结束。所以离开付恺后，我再也没有喜欢过夏天，也再也没有联系过他。&nbsp;若不是我在我家巷口再次见到付恺，我会真以为，我们永远也不会见了。&nbsp;2.&nbsp;像是电影一样，两个人多年未见，再次见面时会有恍然若梦的错觉。&nbsp;付恺戴了一顶蓝色鸭舌帽，手里捧着一束花，用牛皮纸裹着，我老远便看到是洋桔梗，那是我最爱的花。我不想自作多情，脑子里瞬间闪过一种可能。他应该是在等别人。可是我每朝他的方向走近一步，这种可能就瓦解一些。&nbsp;他站在那个地方，拿着我最爱的花，只能是在等我。&ldquo;好久不见。&rdquo;他的声音在我耳边响起，我分不清是熟悉还是陌生。奇怪了，这样的场景竟然一点也不浪漫，我没有再见昔日恋人时的感动，甚至有些许难堪。&nbsp;他是有准备的，要说什么话可能在心底已经上演了很多遍。可是这个场景于我而言，是陌生的。我望着他的眼睛，微微笑了一下。他没有说话，静静地注视着我。&nbsp;围绕在我们身边的，是大片的空白以及让人难以置信的陌生。&ldquo;生日快乐。&rdquo;付恺小心翼翼地将花递到我面前。&ldquo;谢谢。&rdquo;他还记得我的生日，洋桔梗触动了我埋在心底的往事。低头望着花，我有些恍惚，恍惚流逝的时间，恍惚为何一切的事物与情感，最本质的生命都是衰亡与终结。我忘记了太多的事，我甚至记不清我们最后一次争吵，究竟是为了什么。&nbsp;可是，我倒不是觉得遗憾，而是感到失望，失望人生为什么总要这样，总要以失去作为代价，来换取对一些事的领悟。&nbsp;3.&nbsp;付恺接着说：&ldquo;高中同学聚会，大家让我来叫你，我又想到今天是你生日，就顺手带了一束花。&rdquo;&nbsp;望着他的脸，我一句话也说不出来，我知道我是想拒绝的，但我最终还是点了点头。&nbsp;付恺拦住一辆出租车，已经黄昏时分了，城市像披着一层温柔的纱。他和我一起坐在后面，我一直扭头望着窗外，回过头时才发现他在看我。眉头轻微蹙着，夕阳透过窗户落在他的脸上。&nbsp;他将目光转向前方，微微张开嘴巴，又合上，欲言又止的模样让我有一丝难受。&nbsp;刚分手的那一年，我有很多话想对他说，有时候为了忍住自己的欲望，坐在地板上大哭。后来，那些欲望越来越淡，以至于有段时间，我会突然想不起来付恺的脸，一开始我会恐惧，后来我让自己接受，我告诉自己，总有一天我会忘记他的样貌，性格，忘记曾经的心情与感动，这是正常的。坐在车上，我想起高中毕业的那个夏天。他骑摩托车带我在整个城市里穿梭，汗水浸透他的白色短袖。我们去爬山，在日落的时候他会吻我。我在他学架子鼓的地方等他下课，两个人手拉手去街边摊吃米线，昏黄又朦胧的灯光下，付恺边说话，边擦掉我嘴角的辣椒，他曾经，也是个温柔的人。可是我无比清楚，和我有过这些记忆的，是曾经我熟悉的那个付恺，而不是现在坐在我身边的这个人。我们之间相隔的，又岂止不在彼此身边的这四年，而是余生都无法再缝补的裂缝。窗外的城市从我眼前不停地掠过，我看到过去的付恺，过去的自己。出租车上一直放着九十年代的歌，或许太怀旧的人，不适合这个喜新厌旧的江湖。&nbsp;4.我问付恺，他怎么知道在我家楼下就能等到我。他说他不知道，来的时候也是抱着碰运气的态度。我没有再说什么。也许在他的心里，我早就变成了一个模糊的影子。能否再次见到我，一点也不重要了。走进KTV，大家拿我和付恺的事起哄。可是我们两个人都一副无所谓的样子，任凭当年的爱情，变成此刻酒桌上的下酒菜。KTV里有人在唱《感官》，我和付恺心不在焉地和一众人举起酒杯，又同时瞥向屏幕，正好看到那句：最后一句晚安，让我们退回两岸。有很长的一段时间，我不敢听那首歌。&nbsp;往事在酒杯里汹涌起来，付恺和我的酒杯碰在一起，我们和别人一样，笑着喝了下去。&nbsp;不知道他是否还记得我二十岁生日那天，下着大雨，他出门时忘了带雨伞。我跑到宿舍楼下时，看到瑟瑟发抖的他。我伸长胳膊，将雨伞搭到他头顶，还未开口，便看到他小心翼翼地从大衣里面拿出一束花。瞬间的感动让我忘记了大雨和寒冷。绿白相间的洋桔梗，他那么用力的保护，还是被雨淋到了，盛放的花朵瞬间萎谢了不少，几片花瓣落进我们脚下的雨水里，蔫蔫的，像我们的终局。&nbsp;后来，我总是梦到他湿掉的头发和眼睛，梦到他懊恼的神情，责备自己为什么没有保护好怀里的花。有人拉我唱歌，我挥手拒绝了，余光里看到付恺正背对着我和别人玩游戏，他什么时候变得这么健谈了，我无法知晓。热闹的一切让我疏离，我拿起花，朝身边的人说了再见，便溜了出来。一走到大街，浑身都自在了。空气是温热的，车水马龙的城市每天都有无数的悲欢离合，新生与死亡，希望与失望。我这孤单的往事，终于也只是成了过往。我还是不想再见付恺了。&nbsp;这一次，就让我们别再有成年人之间假惺惺的告别，彼此假装什么都没有发生，假装什么都不在意。从今天起，你走你的路，我走我的路，我们两不相欠，清楚我们爱过彼此就够了。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我是挺爱你的，但这事过去了",
+                        "desc": "文/梁佑 最后一句晚安，让我们退回两岸。",
+                        "link": "http://m.wufazhuce.com/music/3246?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我是挺爱你的，但这事过去了",
+                        "desc": "文/梁佑 最后一句晚安，让我们退回两岸。",
+                        "link": "http://m.wufazhuce.com/music/3246?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我是挺爱你的，但这事过去了》 文/梁佑： 最后一句晚安，让我们退回两岸。 阅读全文：http://m.wufazhuce.com/music/3246?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3246?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我是挺爱你的，但这事过去了",
+                        "desc": "最后一句晚安，让我们退回两岸。",
+                        "link": "http://m.wufazhuce.com/music/3246?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "感官",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "梁铭琛",
+                "audio_album": "感官",
+                "cover": "http://image.wufazhuce.com/FviauM-vPSu9FjLy8I_1314nPvKn",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2764",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4300",
+                    "title": "大橘为重"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4301",
+                    "title": "得到你的爱，我荣幸之至",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1173",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第七章：美国政梦"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2837",
+                    "title": "你最近看到的最可爱的句子是什么？ ​​​​"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3246",
+                    "title": "我是挺爱你的，但这事过去了"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

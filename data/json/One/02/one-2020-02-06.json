@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5404",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-06 06:00:00",
+        "content_list": [
+            {
+                "id": "19730",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2719",
+                "title": "摄影",
+                "forward": "保持纯真十分重要。自始至终不要失去开放的胸怀和童稚的热情，自然就会拥有无限可能。",
+                "img_url": "http://image.wufazhuce.com/FtXTtav20yQb5dihOm76QKvUgILP",
+                "like_count": 16990,
+                "post_date": "2020-02-06 06:00:00",
+                "last_update_date": "2020-02-05 18:06:49",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2679",
+                "pic_info": "Andy Kuzma",
+                "words_info": "费里尼",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2719",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2719",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2719",
+                    "image": "http://image.wufazhuce.com/FtXTtav20yQb5dihOm76QKvUgILP",
+                    "title": "VOL.2679",
+                    "content": "保持纯真十分重要。自始至终不要失去开放的胸怀和童稚的热情，自然就会拥有无限可能。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2719?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2719?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 保持纯真十分重要。自始至终不要失去开放的胸怀和童稚的热情，自然就会拥有无限可能。——费里尼 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2719?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2719?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19722",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4185",
+                "title": "薛定谔的恋人",
+                "forward": "下半辈子该怎么过，我还这么年轻。",
+                "img_url": "http://image.wufazhuce.com/FmZb1lZzT90AYuB7Omg4jXose6bw",
+                "like_count": 2698,
+                "post_date": "2020-02-06 06:00:00",
+                "last_update_date": "2020-12-08 18:23:55",
+                "author": {
+                    "user_id": "11694271",
+                    "user_name": "冗谈",
+                    "desc": "Editor/Writer/Godfucker",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "开玩笑呢",
+                    "fans_total": "1",
+                    "web_url": "http://image.wufazhuce.com/FkIdzNh0lIck0b1H5zQUiyhux1t4"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4185",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4185",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4185",
+                    "image": "http://image.wufazhuce.com/FmZb1lZzT90AYuB7Omg4jXose6bw",
+                    "title": "薛定谔的恋人 作者/冗谈",
+                    "content": "余生，请别给我爱情。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 薛定谔的恋人",
+                        "desc": "文/冗谈 余生，请别给我爱情。",
+                        "link": "http://m.wufazhuce.com/article/4185?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 薛定谔的恋人",
+                        "desc": "文/冗谈 余生，请别给我爱情。",
+                        "link": "http://m.wufazhuce.com/article/4185?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 薛定谔的恋人》 文/冗谈： 余生，请别给我爱情。 阅读全文：http://m.wufazhuce.com/article/4185?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4185?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "薛定谔的恋人",
+                        "desc": "余生，请别给我爱情。",
+                        "link": "http://m.wufazhuce.com/article/4185?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19736",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1098",
+                "title": "世界得了健忘症·第四章：日记",
+                "forward": "布局精密、声势浩大的陷阱。我从没拥有过玩具，但我沦为了别人的玩具。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 929,
+                "post_date": "2020-02-06 06:00:00",
+                "last_update_date": "2020-02-05 11:05:36",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第4章",
+                "number": "4",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1098",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1098",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1098",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第四章：日记 作者/昔央",
+                    "content": "是因为你没勇气面对自己的人生，才被这样一个人牢牢抓在手心里的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第四章：日记",
+                        "desc": "文/昔央 是因为你没勇气面对自己的人生，才被这样一个人牢牢抓在手心里的。",
+                        "link": "http://m.wufazhuce.com/serial/1098?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第四章：日记",
+                        "desc": "文/昔央 是因为你没勇气面对自己的人生，才被这样一个人牢牢抓在手心里的。",
+                        "link": "http://m.wufazhuce.com/serial/1098?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第四章：日记》 文/昔央： 是因为你没勇气面对自己的人生，才被这样一个人牢牢抓在手心里的。 阅读全文：http://m.wufazhuce.com/serial/1098?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1098?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第四章：日记",
+                        "desc": "是因为你没勇气面对自己的人生，才被这样一个人牢牢抓在手心里的。",
+                        "link": "http://m.wufazhuce.com/serial/1098?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19724",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2747",
+                "title": "该怎么与三观不合的人相处？",
+                "forward": "三观是一个极其广阔的概念，包含着无数的元素，在每个人身上都呈现为不同的排列组合。所以，当我们面对一个三观不合的人时，其实只是面对一个 “别人”而已。",
+                "img_url": "http://image.wufazhuce.com/FpaVlLdGIJXFRwWojX4mCU25woQ2",
+                "like_count": 2845,
+                "post_date": "2020-02-06 06:00:00",
+                "last_update_date": "2020-02-05 14:11:53",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "猫小妃",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2747",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2747",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2747",
+                    "image": "http://image.wufazhuce.com/FpaVlLdGIJXFRwWojX4mCU25woQ2",
+                    "title": "该怎么与三观不合的人相处？",
+                    "content": "该怎么与三观不合的人相处？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 该怎么与三观不合的人相处？",
+                        "desc": "文/胡弃暗 三观契合是偶然，不合才是常态。",
+                        "link": "http://m.wufazhuce.com/question/2747?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 该怎么与三观不合的人相处？",
+                        "desc": "文/胡弃暗 三观契合是偶然，不合才是常态。",
+                        "link": "http://m.wufazhuce.com/question/2747?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 该怎么与三观不合的人相处？》 文/胡弃暗： 三观契合是偶然，不合才是常态。 阅读全文：http://m.wufazhuce.com/question/2747?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2747?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "该怎么与三观不合的人相处？",
+                        "desc": "三观契合是偶然，不合才是常态。",
+                        "link": "http://m.wufazhuce.com/question/2747?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "4814882",
+                    "user_name": "胡弃暗",
+                    "desc": "小说作者，执业律师，豆瓣ID：胡弃暗，小说集《数青梅》于2019年8月上市。",
+                    "wb_name": "@胡弃暗2013",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说作者，执业律师，中国壮丁",
+                    "fans_total": "3504",
+                    "web_url": "http://image.wufazhuce.com/FlTqR8VBNI-g9GwYQTVEn2J_lJt3"
+                }
+            },
+            {
+                "id": "19725",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1948",
+                "title": "不管几岁，请永远热爱现在的自己",
+                "forward": "两个人生活久了，更喜欢单身生活。",
+                "img_url": "http://image.wufazhuce.com/Fjqq-CRnF46I_3Y5pFV4FMtkng1p",
+                "like_count": 2560,
+                "post_date": "2020-02-06 06:00:00",
+                "last_update_date": "2020-02-05 17:45:23",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10219",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "俗女养成记",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4931",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1948",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1948",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1948",
+                    "image": "http://image.wufazhuce.com/Fjqq-CRnF46I_3Y5pFV4FMtkng1p",
+                    "title": "「一个」电影: 俗女养成记",
+                    "content": "新的一年，新的恐慌又如期而至。年龄这个永远不会停下的齿轮，像身后的一条长鞭，鞭策的每个成年人不得不撒开狗腿往前奔跑，尽管有些略显疲惫。&ldquo;三十而立，四十不惑&rdquo;的古训此刻成了大多&rdquo;青、中年人定义自我失败的标准。杂志上，电视里别人的&ldquo;成功人生&rdquo;遥不可及，此刻的&ldquo;自我成功&rdquo;就是离失败的自己越来越近。何况时间过得那么快，睡觉都来不及，哪来时间思考如何成功。一觉醒来，我们都会成为39岁被生活狂揍到一脸委屈的陈嘉玲。作为台湾自制剧，且创下13年来自制收视最佳的一部剧集，《俗女养成记》真的算得上是低调又优质。自播出后，收视率屡飙新高，首播收视更是超越了被吹爆的《我们与恶的距离》。01超强主创和卡司演绎喜剧外壳下的现实内核片名中的&ldquo;俗女&rdquo;其实是&ldquo;淑女&rdquo;的谐音，故事很普通，讲&ldquo;一个39岁的大龄女失去事业和爱情后，如何重新爬起来&rdquo;。在&ldquo;女性&rdquo;题材屡见不鲜的当今市场，《俗女养成记》算不上新颖。但，妙就妙在，《俗女养成记》以一种极为做作却讨喜、夸张却真实、悲伤却温馨的姿态，把这个偏严肃悲情又被翻炒得过热的&ldquo;大龄女性困境&rdquo;演绎成了一场五彩斑斓、手忙脚乱，却异常欢乐的民间大型广场舞。诙谐的台词，喜感的桥段，轻快的节奏，很难想象，这是在讲一个&ldquo;大龄女性、没嫁人、事业平平、人生不上不下&rdquo;，听起来并不美好，甚至有些可怜凄惨的故事。喜剧外壳与现实内核的碰撞，让《俗女养成记》惊喜迭起，会勾起跳跳糖在舌头上爆炸的童年回忆。除了整体故事风格的引人注目，故事采用双线叙事，一方面摆脱了线性叙事的单调，另一方面更是让故事和人物变得更加完整立体。作为两条并列前行的人物线，&ldquo;童年陈嘉玲&rdquo;和&ldquo;39岁陈嘉玲&rdquo;互相穿插，互为补充。情不自禁让人把自己带入到这个&ldquo;普通却努力、拧巴却温柔、胆怯却勇敢&rdquo;的&ldquo;陈嘉玲世界&rdquo;。好故事离不开好团队和好演员。导演严艺文，曾凭《天使的收音机》获金钟奖迷你剧集女主角奖，《俗女养成记》是她跨行导演的处女作。本人在剧中也客串了街坊邻居、媒婆、学生家长等多个角色。除了导演，剧中的不少演员都大有来头，用导演自己的话来说，&ldquo;其实我现在的膝盖已经烂了，因为这些演员都是我跪着请来的。&rdquo;女主演谢盈萱，曾凭借电影《谁先爱上他的》击败周迅、曾美慧孜等人，获得金马影后；男主演温升豪，在热剧《我们与恶的距离》中和贾静雯有精彩对手戏；另一位男主演陈竹昇，曾在《大佛普拉斯》大放异彩；更有金钟视帝吴慷仁，倾情客串。好故事，好剧本，好演员，让《俗女养成记》不得不好。&nbsp;0239岁，工作是学习做&ldquo;女佣&rdquo;，爱人成了同居室友陈嘉玲，一个在台南出生长大的普通女生。在台北读完大学后，她选择把自己所有的青春热血留给了这个城市。一晃20年，此刻39岁的她，成了一个彻头彻尾的大龄未婚熟女。没有殷实的家境，没有惊艳的颜值，唯一&ldquo;擅长&rdquo;的事：在拍照的时候闭眼。39岁的陈嘉玲，在职场中特别尴尬。不上不下的处境，既错过了公司培养新人的末班车，又无法和25岁的人拿一样的工资，有一定的工作经验却又谈不上资深。表面上，她是一家公司的董事长特级助理，特别光鲜。私底下的工作，其实是一个24小时事无巨细服务老板工作、听从老板夫人指挥、调协老板、老板夫人和情人日程的&ldquo;女佣&rdquo;。这就是陈嘉玲的事业，纵使有诸多不满，但为了生活，只能无底线地勉强自己。除了事业，爱情也是一言难尽。她有一个恋爱四年，同居三年半的男朋友，两个人的关系不温不火，失去了恋爱时的激情，也没有进入婚姻的打算。因为一只消失的验孕棒，她不惜翻遍洗手间垃圾箱。比起&ldquo;恋人&rdquo;，他们两人一起生活，有时一起睡觉的关系，更像是和谐相处的同居室友。连街头的情侣访问，都嘲讽他们已经是&ldquo;老夫老妻&rdquo;。气愤的两人回到家，准备重温热恋时的干柴烈火，却逢陈嘉玲来姨妈。蓄势待发中的男朋友和提着性感睡衣的她只是相视一笑，便心领神会。那一瞬间，两个人像是解脱了一样，各自回到了属于自己的空间。男朋友在客厅打开电视，吃着薯片，看起了《星球大战首部曲》。窃喜没怀孕的陈嘉玲回到房间，竟惬意地翻起了杂志。前一分钟两人的激情四射与此刻享受各自的独处时光的切换，真实又诙谐，完全是&ldquo;两个人生活久了，更喜欢单身生活&rdquo;的心理写照。直到陈嘉玲参加完大学男友的婚礼，她的婚姻危机感和焦虑感才被激活。那一晚，醉酒的陈嘉玲坐在卫生间门口，拿着一束花，向同居的男朋友求了婚。如她所愿，男朋友第二天就为她戴上了钻石戒指。如果说&ldquo;20岁喝醉酒是可爱，40岁是可怜&rdquo;，那晚陈嘉玲的醉酒倒是显得意义非凡。遗憾的是，当陈嘉玲刚做好迈入婚姻的准备，却偶遇公司帅气英俊、温柔迷人的年轻客户Mark，让她差点落入情网。在她差点亲了Mark的那瞬间，陈嘉玲才恍觉原来自己和男朋友之间，早就没有了爱，只剩下&ldquo;爱的惯性&rdquo;。更糟糕的是，随着婚事的一步步推进，未来婆婆也被安排进她的生活，并对她的人生指指点点。白色蝴蝶结保守婚纱，结婚以后就辞职在家当家庭主妇，都是未来婆婆对陈嘉玲未来生活的预设。不得不说，结婚这件事，让39岁的她，透不过气，甚至整夜失眠。&nbsp;03永远不知道，40岁和一无所有，哪个先来对大龄女生来说，失眠不是一件坏事，恰恰是可以把很多事情想清楚的高光时刻。人生真的很两难，选了&ldquo;继续这样的生活&rdquo;，自己的一辈子也就这么勉强过了。选了&ldquo;重新开始&rdquo;，又该从哪里开始？39岁的陈嘉玲，从哪里开始，都好像晚了。不要鄙视陈嘉玲的举棋不定、犹豫不决，因为这个时候的决定，真的太需要勇气。最后，她能选择&ldquo;辞去工作，果断分手&rdquo;真的应该感谢那块花生酱吐司。对花生过敏的男朋友误食了吐司，过敏严重到送医院。只是，来不及顾及红肿的嘴唇，气愤的男朋友就火速冲到陈嘉玲公司，单挑Mark不成，还误伤陈嘉玲老板，更在老板夫人面前牵出了老板和情人的私情。受够了闹剧的陈嘉玲，愤怒地摔了文件，留了狠话，辞了职，悔了婚。这下，她真的解脱了。这一刻，陈嘉玲无比自在，她终于过上了自己梦寐以求的生活。她再也不必为手机夺命Call紧张，不必应付男朋友鸡毛蒜皮的小事，更不需要在长辈面前假装讨喜人设。白天她躺在沙发上看剧吃零食，晚上把自己喝醉，大睡一场。短暂放纵后，陈嘉玲才恍觉&ldquo;今年已经39岁的自己，没了工作，没了对象，一无所有&rdquo;。&nbsp;&nbsp;0440岁不可怕，可怕的是在自弃中转圈如果没有&ldquo;过年&rdquo;这个适合团聚的时间节点，陈嘉玲恐怕很难走出自我放弃的怪圈。回台南的汽车里对着弟弟陈嘉明，她走完了&ldquo;悲伤五阶段&rdquo;：否定、愤怒、讨价还价、沮丧、接受事实。好像无论哪个时代，社会普世价值观对大龄未婚女性都有着极强的攻击性。作为女性，可以没有工作但是不可以不嫁人，当然只顾工作不嫁人的女性也是不被认可的。正常女性的一生，就是应该结婚、生孩子，不这么做，就是不正常。自然，如今40岁的陈嘉玲&ldquo;没工作，没嫁人，一把年纪&rdquo;，无论在家人还是旁人眼中都是异类。就算再自信再独立的女生，也不会完全不在乎周遭人的看法和旁人的眼光。所以，就算回到了台南，工作和感情双重受挫的陈嘉玲见到一起长大的小学同学也只能躲在车里，用靠垫遮住自己的脸。如果有一面镜子，她应该更能看清楚现在的狼狈和不堪。只是，陈嘉玲真的有这么糟糕吗？剧中用&ldquo;童年陈嘉玲&rdquo;这条温馨治愈的故事线，来中和了成人世界的鸡飞狗跳，也展示了陈嘉玲充满爱、温暖和力量的原生家庭。陈嘉玲出生在一个中医世家，一家五口人靠着中药铺生活。她的阿嬷和妈妈虽为婆媳，但会因为一勺猪油，在厨房雀跃地跳起舞。她的爸爸妈妈曾经会因为钢琴老师的一句&ldquo;你孩子比我还有天分&rdquo;不惜重金买钢琴；梳着大背头的阿公，会因为等不到放学回家的她，焦急抹泪。童年的陈嘉玲没有大富大贵，却是在爱和温暖中落落长大。当40岁的她，回到故乡台南，刻意隐瞒悔婚被戳穿，被安排和小学同学蔡永森相亲，看到自己曾经的作文&ldquo;我的志向&rdquo;时，陈嘉玲才渐渐从沮丧中走出来，又慢慢重新认识了现在的自己。童年时，她的人生志向可是做个家庭主妇；后来，能在她父母的反对中去台北读书，是托了阿嬷的福；在台北打拼很辛苦很努力，能坚持是因为不想像小时候那样什么都做不好；最后，做了悔婚的决定，是童年时亲眼目睹了30岁姑姑作为一名独立女性的选择和坚持，选择退婚并承担所有损失。现在的陈嘉玲虽然一无所有，可是此时的她比任何时候都要接近理想中的自己。&nbsp;&nbsp;05一辈子很短，短到没时间讨厌自己或许是想通了，又或许是&ldquo;最好的解药是时间&rdquo;，陈嘉玲终于投上简历，准备重新杀回职场。而真正点醒她的恐怕是面试官的那句：&ldquo;你想像过自己10年后的生活吗？&rdquo;陈嘉玲回到了故乡台南，买下了童年时害怕进入的&ldquo;鬼屋&rdquo;，准备开个宠物店或者花店，或者把这里当作自己的家。当刷着墙的成年陈嘉玲和童年陈嘉玲同框时，时间仿佛是一场错觉，这些年走远的陈嘉玲终于找回了那个真正的自己。此时成年陈嘉玲有话要说：&nbsp;亲爱的陈嘉玲， 你是从几时开始忘记了？&nbsp;忘记这辈子其实很长，长到你可以跌倒再站起来，做梦又醒过来；&nbsp;你又是从几时开始忘记了，这辈子其实很短，短得你没时间再去勉强自己，没时间再去讨厌你自己。一辈子很长又很短，没有长成理想中的大人，确实有些可惜。但不管几岁，都记得要热爱现在的自己。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 不管几岁，请永远热爱现在的自己",
+                        "desc": "文/不辣 两个人生活久了，更喜欢单身生活。",
+                        "link": "http://m.wufazhuce.com/movie/1948?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 不管几岁，请永远热爱现在的自己",
+                        "desc": "文/不辣 两个人生活久了，更喜欢单身生活。",
+                        "link": "http://m.wufazhuce.com/movie/1948?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 不管几岁，请永远热爱现在的自己》 文/不辣： 两个人生活久了，更喜欢单身生活。 阅读全文：http://m.wufazhuce.com/movie/1948?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1948?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "不管几岁，请永远热爱现在的自己",
+                        "desc": "两个人生活久了，更喜欢单身生活。",
+                        "link": "http://m.wufazhuce.com/movie/1948?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19723",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3050",
+                "title": "匆匆忙忙，诗和远方",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FgKIaK_fsS_Rlm-Bo1b0aAm44dc9?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1757,
+                "post_date": "2020-02-06 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3050",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3050",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 匆匆忙忙，诗和远方",
+                        "desc": "那些留下我们脚印的地方",
+                        "link": "http://m.wufazhuce.com/radio/3050?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lkNjj0KxGgotG1kToSD7CnWNDfIk"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 匆匆忙忙，诗和远方",
+                        "desc": "那些留下我们脚印的地方",
+                        "link": "http://m.wufazhuce.com/radio/3050?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lkNjj0KxGgotG1kToSD7CnWNDfIk"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 匆匆忙忙，诗和远方》 主播/马晓橙： 那些留下我们脚印的地方 阅读全文：http://m.wufazhuce.com/radio/3050?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3050?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lkNjj0KxGgotG1kToSD7CnWNDfIk"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "匆匆忙忙，诗和远方",
+                        "link": "http://m.wufazhuce.com/radio/3050?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lkNjj0KxGgotG1kToSD7CnWNDfIk"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 770 期",
+                "audio_url": "http://music.wufazhuce.com/lkNjj0KxGgotG1kToSD7CnWNDfIk"
+            }
+        ],
+        "menu": {
+            "vol": "2679",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4185",
+                    "title": "薛定谔的恋人"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1098",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第四章：日记"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2747",
+                    "title": "该怎么与三观不合的人相处？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1948",
+                    "title": "不管几岁，请永远热爱现在的自己"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3050",
+                    "title": "匆匆忙忙，诗和远方"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

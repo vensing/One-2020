@@ -1,0 +1,450 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5721",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-12-17 06:00:00",
+        "content_list": [
+            {
+                "id": "21589",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "3036",
+                "title": "摄影",
+                "forward": "要是已经活过来的那一段人生，只是个草稿，另有一段誊写的人生，该有多好。",
+                "img_url": "http://image.wufazhuce.com/FqGJf3ux33hryzWHphdN2xnQvo2T",
+                "like_count": 11156,
+                "post_date": "2020-12-17 06:00:00",
+                "last_update_date": "2020-12-10 13:24:58",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2994",
+                "pic_info": "Hong Feng",
+                "words_info": "契诃夫《三姊妹》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3036",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/3036",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/3036",
+                    "image": "http://image.wufazhuce.com/FqGJf3ux33hryzWHphdN2xnQvo2T",
+                    "title": "VOL.2994",
+                    "content": "要是已经活过来的那一段人生，只是个草稿，另有一段誊写的人生，该有多好。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3036?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3036?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 要是已经活过来的那一段人生，只是个草稿，另有一段誊写的人生，该有多好。——契诃夫《三姊妹》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3036?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3036?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21635",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4542",
+                "title": "远游，远游",
+                "forward": "朋友们，好好生活。",
+                "img_url": "http://image.wufazhuce.com/FqeeZalHQ1hxYKVI4KLjvBNeGeNj",
+                "like_count": 1814,
+                "post_date": "2020-12-17 06:00:00",
+                "last_update_date": "2020-12-16 17:58:25",
+                "author": {
+                    "user_id": "11636152",
+                    "user_name": "唐冲",
+                    "desc": "学生，八十八线编剧，土豆杀手。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "又菜又爱写的小镇青年。",
+                    "fans_total": "192",
+                    "web_url": "http://image.wufazhuce.com/FoZgucU9nZRi5yw90uE9vE6Khh_Y"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4542",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4542",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4542",
+                    "image": "http://image.wufazhuce.com/FqeeZalHQ1hxYKVI4KLjvBNeGeNj",
+                    "title": "远游，远游 作者/唐冲",
+                    "content": "你们终于在一起啦，磨磨唧唧我们都等不住。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 远游，远游",
+                        "desc": "文/唐冲 你们终于在一起啦，磨磨唧唧我们都等不住。",
+                        "link": "http://m.wufazhuce.com/article/4542?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 远游，远游",
+                        "desc": "文/唐冲 你们终于在一起啦，磨磨唧唧我们都等不住。",
+                        "link": "http://m.wufazhuce.com/article/4542?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 远游，远游》 文/唐冲： 你们终于在一起啦，磨磨唧唧我们都等不住。 阅读全文：http://m.wufazhuce.com/article/4542?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4542?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "远游，远游",
+                        "desc": "你们终于在一起啦，磨磨唧唧我们都等不住。",
+                        "link": "http://m.wufazhuce.com/article/4542?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21630",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3069",
+                "title": "情侣之间需要多大程度的“自由”？",
+                "forward": "爱情不是刻意而为之，而是在互相尊重关怀的前提下，选择最舒服的相处之道。",
+                "img_url": "http://image.wufazhuce.com/FsJnMAhmqnv2jnre2nktzO73A_SH",
+                "like_count": 2420,
+                "post_date": "2020-12-17 06:00:00",
+                "last_update_date": "2020-12-16 09:15:11",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "没有吃饱的外卖",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3069",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3069",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3069",
+                    "image": "http://image.wufazhuce.com/FsJnMAhmqnv2jnre2nktzO73A_SH",
+                    "title": "情侣之间需要多大程度的“自由”？",
+                    "content": "情侣之间需要多大程度的“自由”？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 情侣之间需要多大程度的“自由”？",
+                        "desc": "文/谢绾 别凑得太近，别爱得太满。",
+                        "link": "http://m.wufazhuce.com/question/3069?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 情侣之间需要多大程度的“自由”？",
+                        "desc": "文/谢绾 别凑得太近，别爱得太满。",
+                        "link": "http://m.wufazhuce.com/question/3069?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 情侣之间需要多大程度的“自由”？》 文/谢绾： 别凑得太近，别爱得太满。 阅读全文：http://m.wufazhuce.com/question/3069?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3069?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "情侣之间需要多大程度的“自由”？",
+                        "desc": "别凑得太近，别爱得太满。",
+                        "link": "http://m.wufazhuce.com/question/3069?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "8998039",
+                    "user_name": "谢绾",
+                    "desc": "百日空想美食家",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "百日空想美食家",
+                    "fans_total": "5264",
+                    "web_url": "http://image.wufazhuce.com/FnSa7uhw1EZg8RGH9eo0FLIcSSt9"
+                }
+            },
+            {
+                "id": "21640",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2091",
+                "title": "一个安娜，千面女人",
+                "forward": "一个俄国贵妇的四种活法。",
+                "img_url": "http://image.wufazhuce.com/FowGGB5vzbzEDw0wg6vJt8FyxHJX",
+                "like_count": 1431,
+                "post_date": "2020-12-17 06:00:00",
+                "last_update_date": "2020-12-17 08:14:09",
+                "author": {
+                    "user_id": "11513719",
+                    "user_name": "伊朝南",
+                    "desc": "一个在阳光下和黑暗中都能茁壮生长的白日梦患者。",
+                    "wb_name": "@伊朝南",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个脱离不了低级趣味的人。",
+                    "fans_total": "651",
+                    "web_url": "http://image.wufazhuce.com/FpKk5N9eg_v2zyAkX7XPWYqc8YtG"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "四面安娜·卡列尼娜",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5074",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2091",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2091",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2091",
+                    "image": "http://image.wufazhuce.com/FowGGB5vzbzEDw0wg6vJt8FyxHJX",
+                    "title": "「一个」电影: 四面安娜·卡列尼娜",
+                    "content": "在文学作品中，《安娜&middot;卡列尼娜》无疑是被搬上荧屏次数最多的巨著之一。不过，尽管主角都是同一个安娜，由于编剧改编时的侧重点不同，她最终呈现在荧幕上的面貌也不尽相同。无论是哪一版，包括原著，总有人对安娜感同身受，也总有人坚信这是一个不道德的女人的故事，极尽刻薄之言，比如我看过一个评论说，这就是一部关于出轨女人的史诗，所谓世界名著写来写去也不过如此。这个言论让我瞠目结舌。如果我们看完一部文学巨著或一部剖析人性挣扎的电影，得到的却是如此简单粗暴的结论，或只为得到一个简单粗暴的结论的话，只能说这是速食文化对文学、审美、思考、共情等等一切深刻思想的一次全面剿灭。安娜的故事确实并不复杂，她嫁给了年长自己近二十岁的卡列宁并且有了孩子之后，爱上年轻的军官伏伦斯基，却不愿像其他贵妇所做的那样&mdash;&mdash;体面地维持婚姻，在丈夫和情人之间游刃有余，以此保证自己的社会地位。她要爱情，纯粹无杂质的爱情，不惜打破上流社会暗度陈仓的&ldquo;潜规则&rdquo;也要和伏伦斯基长相厮守。因此当爱情无法以完美的状态展现在她面前，而被她&ldquo;打破&rdquo;的上流社会也再无她容身之地时，她便陷入了绝望。和安娜并驾齐驱的男主并非安娜的丈夫或情人，而是和她仅有一面之缘的 &ldquo;乡下贵族&rdquo;列文，列文这条线中埋着更为复杂和庞大的社会环境以及政治背景，他要突破的壁垒非三言两语能够道尽。因此在时长有限的电影作品中，列文的剧情大都被压缩简化了。托翁以非常广袤而不乏细腻的笔触展现了一个忠于内心、勇敢追求爱情的女人被凡尘俗世吞没的过程。编剧们进行二次创作时，也大多按照这个核心对人物进行塑造，然而，一些细枝末节的改动和演员的演绎也会影响安娜的特性，使她被赋予不同的面孔。下面我们将通过四部国内观看人数较多的电影，来看看电影中的安娜有何不同。1948 &nbsp;悲情安娜&mdash;&mdash; 费雯&middot;丽版费雯&middot;丽的很多作品能从上世纪流传至今，除开好莱坞的电影工业化打造，电影本身具有流传度之外，她的演技和高辨识度的容貌（比如从未对称过的眉毛）也功不可没。她面部轮廓精致立体，偏冷艳，由她演绎的安娜也许因此散发着一股冷感，但费雯&middot;丽的眼神明亮有神，能够准确地传递坚定、渴望、惊惧、焦虑等等复杂情感，这个外冷内热的特质以及剧本的加持，1948版成为公认的对安娜&middot;卡列尼娜内心挣扎描述最多的版本就丝毫不让人意外了。这版卡列宁被塑造成一位献身于工作，忽略妻子需求的不近人情的老古板。在知道安娜出轨之后卡列宁问，难道我有对你不尽责的地方吗？安娜的回答非常冷静：这就是你给我的感觉，就像你对这个社会、国家和其他人一样，我只是个责任。这段夫妻之间的理性battle很重要，如果说影片开头只是在上演丈夫忙于公务对安娜的忽略，那么这段对话就体现安娜和卡列宁婚姻裂痕的源头&mdash;&mdash;对爱情的解读南辕北辙。安娜要的是出于感性的爱情，而卡列宁给的是出于理性的责任。在短短两个小时有限的篇幅里，愿意大费周章去厘清这件事，目的其实很明确&mdash;&mdash;将安娜的出轨合理化。在原著中，是因为伏伦斯基的出现唤起了安娜情感意识的觉醒之后，安娜才发觉卡列宁难以忍受。这样的语境下，爱情是自发的，纯粹的，和无聊的婚姻、呆板的丈夫无关，是安娜感情意识的自我觉醒。也就是说，爱上伏伦斯基是因，难以忍受卡列宁是果。电影中的诠释将因果倒置，变成因为难以忍受卡列宁的忽略，才爱上伏伦斯基。这么一来，安娜身上爱情的本质就变了，因为我们很难将这种爱情与具有功能性和目的性的欲望区分开来。因此安娜的悲剧性也就相应降了一格，从对虚伪的上流社会的不屑中，不顾一切追着爱情冲出，而后被她所鄙弃的、以及所追求的携手淹没，变成了在犹豫和矛盾中，被丈夫和情人的感情相互推着才走到这一步的无可奈何。当爱人的体察不够细致深入时，女性的脆弱感便破壳而出笼罩一切。摧毁和建设的力量都来自外部，而非自身。道德上的合理化，实际就是削弱人性复杂程度的过程。虽然这个细节变动不尽如人意，但这其实是这四部里我相对比较喜欢的一部。电影创作者非常明确地知道自己想要一个&ldquo;爱情悲剧&rdquo;，然后从原著中截出这样一个故事，讲述套路是完整且成功的，因此在我心目中，这个改编也是成功的。&nbsp;1997 &nbsp;欲望安娜&mdash;&mdash; 苏菲&middot;玛索版苏菲&middot;玛索这一版应该是在国内流传最为广泛的一版，也是时长最短的一版，只有1小时48分。苏菲&middot;玛索无疑是最适合出演安娜的女演员之一。原著里安娜受吉蒂邀约参加舞会时，托翁是这么描述的：穿了一件黑丝绒的敞胸连衫裙，露出她那像老象牙雕成的丰满的肩膀和胸脯，以及圆圆的胳膊和短小的手&hellip;&hellip;从这些描述中我们可以感受安娜的性感和她无意识间散发出来的&ldquo;欲&rdquo;。从个人气质上来说，苏菲&middot;玛索是为数不多的能将单纯无辜和美艳肉欲集于一身的女人，虽然费雯&middot;丽出演的安娜很难挑出瑕疵，但和苏菲&middot;玛索比，她气质太清冷，缺一点暧昧的朦胧感，气质里少了一份&ldquo;欲&rdquo;，而这个&ldquo;欲&rdquo;，对安娜来说是火，有了它，安娜内心对爱情的渴望才能熊熊燃烧，直至无法扑灭。从安娜内心的情感火焰被伏伦斯基点燃却又不得不压抑，到直面内心大胆和伏伦斯基相爱，再到两人私奔出逃，&ldquo;欲&rdquo;贯穿始终，无论是伏伦斯基还是安娜，都逃不开欲念的驱使，其余的一切，不过是他们爱情的见证或阻碍，而这版中的卡列宁也被简化成安娜爱情路上的绊脚石，在为数不多的出境中，他几乎没有什么太多正面的时刻。剧中有一处改编颇耐人寻味：安娜流产后性命垂危的时刻选择了卡列宁，伤心愤怒的伏伦斯基企图自杀，却懦弱地下不了手&mdash;&mdash;而原著中伏伦斯基对着自己扣下了扳机，只不过打偏了。这个改动使得伏伦斯基对安娜的爱的分量有所清减，再无法和安娜为爱失去的一切相提并论，难免让人替安娜不值。这部影片整体看下来像一个原著的剧情梗概。不到两小时的篇幅，却追求面面俱到，后果就是人物形象饱满度的折损，剧情也难免潦草。相应的，安娜所追求的爱情给她个人带来的挣扎和她所陷入的困境也就无法深刻描画。而大家之所以对这部影片印象深刻并给予认同，最主要是因为选对了演员。苏菲&middot;玛索的脸一出来就是一张必然会由情绪支配行动的脸，安娜会毫无缘由的坠入情欲是具备说服力的。因此即便没有展现出原著的深刻，也足够让人念念不忘。&nbsp;2012 &nbsp;任性安娜&mdash;&mdash; 凯拉&middot;奈特莉版关于这部电影，得先从场景搭设说起，因为这版最大的特色就在于场景搭设&mdash;&mdash;它用的是舞台剧背景，大多数时间从一个场景到另一个场景的转换也是用剧中人物走过后台，或搭建的模型来体现，并且嵌入舞台剧表演方式，加入了一部分歌舞、吹奏，整体节奏主打明快、鲜艳，角色的穿梭和各种布景的转变让人眼花缭乱。凯拉&middot;奈特莉本身的形象和安娜相去甚远，她面部线条比较硬朗，身型也偏单薄，相信不止是我，很多人对这个选角都是心存质疑的。因为无论从哪个角度看，她都不可能是我们心目中的安娜。从出场开始，安娜穿衣服、跟丈夫和孩子说话，都是蜻蜓点水般，带着明显表演的痕迹划过荧幕前，轻快地没有一丝要落地的生活气息。比如她一边由仆人伺候着像舞蹈般律动地穿衣，一边还优雅地读信并且嘬一口咖啡，你很难想象她身处一段不幸福的沉重的婚姻当中；在火车站见到哥哥时，她又成了一个快活到不能自抑的小姑娘；她看伏伦斯基的眼神也非常直接甚至到了轻佻的地步，失去了本该有的沉重感和负罪感，尤其伏伦斯基坠马一场，她的反应竟然是面目狰狞地当场咆哮了出来，这既不符合安娜的性格、身份，更与当下环境格格不入，这样流于表面的表演方式，生生将安娜变成了一个被宠坏的任性女人。而伏伦斯基也好不到哪里去，在苏菲&middot;玛索版里他至少还试图自杀，而在这部剧中，他只是回到了母亲身边，倒是卡列宁被塑造成一个无限给予妻子包容和信任的充满深情的好丈夫。从安娜出轨的传言传到他耳中的那一刻起，他就选择相信安娜，直到真相彻底展露在他面前，他依然选择包容，而非责难，衬托得安娜的任性愈发不可理喻。安娜当然有她任性的一面，单单靠勇敢还不足以支撑她与所有人、与她赖以生存的上流社会对立，但她的任性应该是一腔孤勇，绝非无理取闹，这部电影显然表达错了这种任性。以我不太宽广的心胸来揣测，这版电影的主创人员甚至有可能没有认真读完原著。他们了解，也许是熟悉这个故事的结构，却似乎没有耐心去挖掘人物和故事内核，导致整部剧空留一个架子，却丢失了灵魂。整体算不上优秀，是我个人最不喜欢的一版改编。&nbsp;2013 &nbsp;感性安娜&mdash;&mdash;安赫拉&middot;莫利纳版这一部是四部作品中时长最长的一部，也是豆瓣评分最高的一部，时常共3小时，分上下两集。这也是四部作品中男演员平均颜值水平最高的一部，连原著里相貌平凡的列文都相貌俊朗仪表堂堂。安娜的饰演者安赫拉&middot;莫利纳对大部分国内观众来说是一个陌生名字，这位演员气质沉稳，面容丰盈成熟，眼神转变微妙，虽然没有费雯&middot;丽的艳、苏菲&middot;玛索的欲，但本片中大量的近景和人物特写，包括配乐的衬托，人物之间眼神的流转，使得电影的基调处在暧昧的唯美和浪漫中，安娜在其中显现出一种其他版本所没有的感性色彩，温和而不尖锐。因而别有一番风韵。这版里比较突出细致地展现了安娜与儿子之间的爱，以及她对卡列宁的情感变化&mdash;&mdash;从一开始的相安无事到爱上伏伦斯基之后对他难以忍受却又不得不继续维持婚姻，突显出安娜在爱情和婚姻之间难以两全的挣扎。这部影片对卡列宁的诠释也比较贴合原著，既有好体面、为人决绝的一面，也有宽厚仁义、恋恋不舍的一面。非常难得的是，这是四部中唯一将安娜生孩子后生命垂危那一刻，卡列宁的无私、高尚体现出来的一部，也比较忠实的还原了伏伦斯基的自杀，并非只是出于被安娜抛弃，可能还有一点在卡列宁高洁灵魂面前的自惭形秽。他的自省以及他对安娜足够深沉的爱，是引发安娜最终不顾一切跟他在一起的诱因之一。这个前提下，安娜追求的这份爱情其实并不疯狂，因为起码在那个时刻，他们的爱是对等的。看得出来这一版的人物塑造都分外立体饱满。随着剧情的发展，我们会一边感慨安娜的身不由己，她拥有爱情，可不幸的是在婚姻之后这爱情才姗姗来迟；一边又不由得为卡列宁打抱不平，毕竟作为丈夫，他什么都没做错，只是无法赢得安娜的爱情；伏伦斯基也没错，他赢得了安娜的爱情，只是无法成为她的丈夫。这种对人物相对稳妥成熟的处理方式，更容易引起我们的共情，从而增加电影的观感舒适度。从影片的打分及评论来看，也确实如此。其实想要真正了解安娜，仅凭这四部影片是不够的。在原著中，托翁铺垫了六十页才让作为主人公的安娜翩然出场，足可见环境和庞大的支系人物烘托对他笔下的这位女子来说有多重要。然而在电影容量有限的情况下，时间感的压缩和人物以及支线故事的删减是必不可少的环节，在对原著压缩精简之后，还要保留安娜人物特性，确实很难。如果没有读原著的情况下，观众在电影中所认识的安娜，都只是原著投射在电影创作者脑中的影子，而这个影子再次投射到观众面前，经过我们自己脑中那些道德审核、审美取向、偏见或执念的加工，最终会将她刻画成什么形象，一千个人或许会有一千个答案。一个安娜，千种解读，或许她不仅仅是安娜，她是一块试金石，试出解读者内心的惶恐和偏见、期盼和悲怜。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 一个安娜，千面女人",
+                        "desc": "文/伊朝南 一个俄国贵妇的四种活法。",
+                        "link": "http://m.wufazhuce.com/movie/2091?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 一个安娜，千面女人",
+                        "desc": "文/伊朝南 一个俄国贵妇的四种活法。",
+                        "link": "http://m.wufazhuce.com/movie/2091?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 一个安娜，千面女人》 文/伊朝南： 一个俄国贵妇的四种活法。 阅读全文：http://m.wufazhuce.com/movie/2091?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2091?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一个安娜，千面女人",
+                        "desc": "一个俄国贵妇的四种活法。",
+                        "link": "http://m.wufazhuce.com/movie/2091?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21583",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3367",
+                "title": "你不喜欢你吗？但，我喜欢",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FrdpiC9QkIf0eugkH6YRpilZI2Y0?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1084,
+                "post_date": "2020-12-17 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3367",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3367",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 你不喜欢你吗？但，我喜欢",
+                        "desc": "魔镜啊魔镜，谁是这个世界上最美的女人？",
+                        "link": "http://m.wufazhuce.com/radio/3367?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvaiGM8YdcZ0SIkkXlKB4poOxyHL"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 你不喜欢你吗？但，我喜欢",
+                        "desc": "魔镜啊魔镜，谁是这个世界上最美的女人？",
+                        "link": "http://m.wufazhuce.com/radio/3367?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvaiGM8YdcZ0SIkkXlKB4poOxyHL"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 你不喜欢你吗？但，我喜欢》 主播/李荟莹： 魔镜啊魔镜，谁是这个世界上最美的女人？ 阅读全文：http://m.wufazhuce.com/radio/3367?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3367?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lvaiGM8YdcZ0SIkkXlKB4poOxyHL"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "你不喜欢你吗？但，我喜欢",
+                        "link": "http://m.wufazhuce.com/radio/3367?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvaiGM8YdcZ0SIkkXlKB4poOxyHL"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 929 期",
+                "audio_url": "http://music.wufazhuce.com/lvaiGM8YdcZ0SIkkXlKB4poOxyHL"
+            }
+        ],
+        "menu": {
+            "vol": "2994",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4542",
+                    "title": "远游，远游"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3069",
+                    "title": "情侣之间需要多大程度的“自由”？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2091",
+                    "title": "一个安娜，千面女人"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3367",
+                    "title": "你不喜欢你吗？但，我喜欢"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

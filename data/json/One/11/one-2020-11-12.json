@@ -1,0 +1,575 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5682",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-11-12 06:00:00",
+        "content_list": [
+            {
+                "id": "21420",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "3001",
+                "title": "摄影",
+                "forward": "人所有的拖沓都是代表他并非真正热爱。",
+                "img_url": "http://image.wufazhuce.com/Fpqre7oixMZ6h81WjHoXlV-0UK1E",
+                "like_count": 21219,
+                "post_date": "2020-11-12 06:00:00",
+                "last_update_date": "2020-11-10 13:56:27",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2959",
+                "pic_info": "Millie Olsen",
+                "words_info": "罗翔",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3001",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/3001",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/3001",
+                    "image": "http://image.wufazhuce.com/Fpqre7oixMZ6h81WjHoXlV-0UK1E",
+                    "title": "VOL.2959",
+                    "content": "人所有的拖沓都是代表他并非真正热爱。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3001?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3001?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人所有的拖沓都是代表他并非真正热爱。——罗翔 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3001?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3001?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21408",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4506",
+                "title": "女孩最好的嫁妆",
+                "forward": "那时，我们以为世界上最小概率的幸运事件，就是北京小汽车中签，而不是死亡。",
+                "img_url": "http://image.wufazhuce.com/FrINsHPKX-F5eUjxlj-Xx34C9cyq",
+                "like_count": 2455,
+                "post_date": "2020-11-12 06:00:00",
+                "last_update_date": "2020-11-11 15:50:58",
+                "author": {
+                    "user_id": "11687405",
+                    "user_name": "刘诗璇",
+                    "desc": "典型武汉人，朋克不摇滚。学小说叙事，写甜宠剧本。理想：做四肢发达胸无大志的快乐人。但就像写作爱偏题，总会有点不快乐的追求和烦闷。就读于清华大学中文系。导师说一生纵然漫长，要紧的只有那几步。你要敢走错一步，试试看？我说好的那就试试看吧。",
+                    "wb_name": "@aoamaya",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "人生三大目标：吃好睡好穿漂亮",
+                    "fans_total": "164",
+                    "web_url": "http://image.wufazhuce.com/Fv73GeVE3KVltYITRQ874O1IDIlD"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4506",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4506",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4506",
+                    "image": "http://image.wufazhuce.com/FrINsHPKX-F5eUjxlj-Xx34C9cyq",
+                    "title": "女孩最好的嫁妆 作者/刘诗璇",
+                    "content": "“能依靠的只有自己，和自己买的房。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 女孩最好的嫁妆",
+                        "desc": "文/刘诗璇 “能依靠的只有自己，和自己买的房。”",
+                        "link": "http://m.wufazhuce.com/article/4506?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 女孩最好的嫁妆",
+                        "desc": "文/刘诗璇 “能依靠的只有自己，和自己买的房。”",
+                        "link": "http://m.wufazhuce.com/article/4506?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 女孩最好的嫁妆》 文/刘诗璇： “能依靠的只有自己，和自己买的房。” 阅读全文：http://m.wufazhuce.com/article/4506?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4506?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "女孩最好的嫁妆",
+                        "desc": "“能依靠的只有自己，和自己买的房。”",
+                        "link": "http://m.wufazhuce.com/article/4506?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21392",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1328",
+                "title": "制作人们·第十五章：作妖的甲方",
+                "forward": "她甚少有这样的情绪，一直都是现场最稳的那一个，逢山开路，遇水搭桥。但这次根本不是凭自己那点资历就能压得住的场子。",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 691,
+                "post_date": "2020-11-12 06:00:00",
+                "last_update_date": "2020-11-11 10:39:35",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第15章",
+                "number": "15",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1328",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1328",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1328",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第十五章：作妖的甲方 作者/鳄鱼姐",
+                    "content": "这次根本不是凭自己那点资历就能压得住的场子。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第十五章：作妖的甲方",
+                        "desc": "文/鳄鱼姐 这次根本不是凭自己那点资历就能压得住的场子。",
+                        "link": "http://m.wufazhuce.com/serial/1328?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第十五章：作妖的甲方",
+                        "desc": "文/鳄鱼姐 这次根本不是凭自己那点资历就能压得住的场子。",
+                        "link": "http://m.wufazhuce.com/serial/1328?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第十五章：作妖的甲方》 文/鳄鱼姐： 这次根本不是凭自己那点资历就能压得住的场子。 阅读全文：http://m.wufazhuce.com/serial/1328?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1328?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第十五章：作妖的甲方",
+                        "desc": "这次根本不是凭自己那点资历就能压得住的场子。",
+                        "link": "http://m.wufazhuce.com/serial/1328?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21412",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3034",
+                "title": "如何享受寂寞？",
+                "forward": "寂寞其实是生命中的一种常态，并且每天都在悄无声息地发生着，很多时候细小到连我们自己都没有察觉。",
+                "img_url": "http://image.wufazhuce.com/Fgl4ZmLV4cbMu7iLhI06jaUNzTCr",
+                "like_count": 2190,
+                "post_date": "2020-11-12 06:00:00",
+                "last_update_date": "2020-11-11 17:15:11",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "不能把 v",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3034",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3034",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3034",
+                    "image": "http://image.wufazhuce.com/Fgl4ZmLV4cbMu7iLhI06jaUNzTCr",
+                    "title": "如何享受寂寞？",
+                    "content": "如何享受寂寞？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何享受寂寞？",
+                        "desc": "文/久十二 等我哭完之后，世界还是一如既往的安静着。",
+                        "link": "http://m.wufazhuce.com/question/3034?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何享受寂寞？",
+                        "desc": "文/久十二 等我哭完之后，世界还是一如既往的安静着。",
+                        "link": "http://m.wufazhuce.com/question/3034?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何享受寂寞？》 文/久十二： 等我哭完之后，世界还是一如既往的安静着。 阅读全文：http://m.wufazhuce.com/question/3034?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3034?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何享受寂寞？",
+                        "desc": "等我哭完之后，世界还是一如既往的安静着。",
+                        "link": "http://m.wufazhuce.com/question/3034?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11616182",
+                    "user_name": "久十二",
+                    "desc": "· 知乎情感博主：久十二\r\n·毕业于University of Minnesota Twin Cities，主攻“沟通研究”与“亲密关系研究”。在校期间曾担任“intimate relationships（亲密关系研究）”课程项目助教。\r\n· 曾任国内知名婚恋机构情感咨询师培训项目主管。\r\n· 创办Mission cupid情感咨询团队，自创“六型人格”情感理论体系，乐于帮助人们解决各类情感问题，挽回幸福爱情。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "知乎博主久十二，一个不爱睡觉的情感博主。",
+                    "fans_total": "403",
+                    "web_url": "http://image.wufazhuce.com/FrTkU0QjTx3Z_sDNAZMykTAp4ooQ"
+                }
+            },
+            {
+                "id": "21429",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2076",
+                "title": "做人而已，何必那么卑微",
+                "forward": "推开成人世界的门：你想站着挣钱，还是跪着？",
+                "img_url": "http://image.wufazhuce.com/FuKjgO413JP8moSsVoHplg8NvVp3",
+                "like_count": 1802,
+                "post_date": "2020-11-12 06:00:00",
+                "last_update_date": "2020-11-12 18:35:51",
+                "author": {
+                    "user_id": "11185651",
+                    "user_name": "颗馨",
+                    "desc": "既然不再假装自己不是多愁善感的诗人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "做最积极的悲观主义者。",
+                    "fans_total": "885",
+                    "web_url": "http://image.wufazhuce.com/Fj65EDdIoR9aUxJnUlYaqjaKWF55"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "Viva Erotica色情男女",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5059",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2076",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2076",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2076",
+                    "image": "http://image.wufazhuce.com/FuKjgO413JP8moSsVoHplg8NvVp3",
+                    "title": "「一个」电影: Viva Erotica色情男女",
+                    "content": "《演员请就位》开播，身为新加入的导演尔冬升意外的成为了节目的新卖点。节目里他是&ldquo;反矫达人&rdquo;，不听跨界表演的张大大&ldquo;找借口&rdquo;，直言他把英雄演的像小偷；对偶像男团的成员直言&ldquo;年纪大了没有粉丝看你的&rdquo;；对女演员也毫不客气，&ldquo;你这种漂漂亮亮的，最糟糕的是没有性格。&rdquo;尔冬升能这么直接不留情面的讲话是有原因的。作为香港电影的代表，从演员转型导演，不止作品拿奖，还捧出了无数传奇演员。他属于那个黄金时代，既是香港电影的见证者，也是香港电影的掌舵者之一。那个时代，有王家卫也有王晶，有无数怀揣梦想的电影人，也有无数想捞一笔的生意人。《色情男女》就是一部诞生在黄金年代的尔冬升的自嘲之作。张国荣扮演的小导演阿星本来是周星驰的角色，女主角舒淇是演技不行的只能接些烂片的艳星，徐锦江是名声糟糕的过气小生，只能演些形象不怎么样的恶角。不得不说，这些角色好像多多少少有些演员本身的影子。故事的开始，新晋导演阿星前作票房连连扑街，长时间待业在家，自己想拍的故事没有一个老板感兴趣，目前有的工作机会只有一部&ldquo;三级片&rdquo;。投资方是看上去不好惹的&ldquo;老大&rdquo;，老友监制满口&ldquo;现在的戏要看剧情的吗？&rdquo;，女主角是老板娇纵的情人，男主角是圈内传闻人品很差的垃圾演员，还有因为打光太黑被无数导演换掉的&ldquo;醉家&rdquo;摄影。&ldquo;没人要你做王家卫，你做王晶行不行？&rdquo;这可能就是现实和梦想的差距吧。其实还要更残酷点，大多数人可能连王晶都做不了，&ldquo;做王晶，你有邱淑贞吗？&rdquo;这才是人间真实：才华有限，梦想远大，现实惨淡。拍电影也许是很多人的梦想，可拍三级片一定不是。可现实就是这样，在你想做王家卫的时候，大家想你做王晶，在你终于要梦想成真的时候，其实南辕北辙，大喜之后的大悲总是紧随其后又出其不意，打你个措手不及。阿星还是在女友的鼓励下接了这个工作。女友是督察，扫黄打非是她的工作，她不懂电影，但是支持男友做导演的梦想，会在浴室里贴&ldquo;什么是大事，把一件事从头到尾做到成功就是大事&rdquo;的便签，在洗手台写&ldquo;抓着一个梦想&rdquo;。这些有点鸡汤也有点可爱的加油，让阿星有了做做看的勇气，毕竟，人总是要生活的，梦想如果只梦只想那和空想又有什么区别，不论如何，要先做起来啊。都说万事开头难，也许这只是前半句，后半句应该是，开头以后是难上加难。他想用手持摄像机，摄影却说用轨道推镜头更好，他想演员大胆一点投入一点，老板的情人却总是闹着&ldquo;不拍了，不拍了&rdquo;，写出来的剧本连女朋友都说不合理。监制老是催进度，恨不得今天开机电影明天就上映，甚至想出很多下三滥的宣传招数让他配合。老板嘴上说由他拍，但是明里暗里一直强调自己是生意人。每个人都在和他作对，看上去他是导演，却决定不了任何事，控制不了任何一个人。生活就是这样，不会因为你选择了低头就给你点甜头。一个妥协换不来一个顺利，倒是可能换来更多的折磨和自我怀疑。片子进行不下去，现场每个人都是一脸怨气，得过且过的混日子。要怎么办呢？已经接下来了，他是导演，他不能没有主意，可他真的没有主意，他不想拍，可必须要拍，放弃底线放弃坚持，完全按照老板和监制说的拍他做不到。可这种片子能拍出什么东西呢？更何况他的团队这么不配合他，演员又是那么蹩脚。一边有人在逼他，一边有人在应付他。而阿星自己呢？大概是一边逼自己，一边又在应付自己吧。在街上散心，他看到拿胶片拍实验电影的年轻人，他们好快乐，就在路上拍，设备简陋，演员看着也生涩。而自己正在写的剧本却不好跟别人分享。他向往那样的生活，拍自己想拍的东西，可他不能没有钱，不能让女友养着，不要让父母担心，不能成为那种天天醉倒在家只会夸夸其谈的人。监制邀他去看午夜场，在电影院，听到观众毫不留情地骂&ldquo;尔冬升&rdquo;的新作《没有车轮的战车》，&ldquo;不要让我看见这个导演啊，看见他我真想打他。&rdquo;片名显然是个文艺片，观众显然不买账，而&ldquo;尔冬升&rdquo;就在角落里听着这句话。&ldquo;这行就是这样啊。&rdquo;这次电影有人喜欢就会票房大卖，大家都会称赞你，围着你转，巴结你，甚至封你为神，所有人都会期待你的下一部电影，你会有最大的自由，最好的班底，最火的演员，没有人会管你之前拍过什么烂片，之前在做什么。这次电影大家讨厌就会毫不留情的骂，那些厌弃铺天盖地，不止是观众，还包括投资商，演员，摄影等等，谁都不想和&ldquo;票房毒药&rdquo;合作，你会马上跌到谷底，名声败坏。人就是这么残酷，可以翻脸不认人，他才不管你以前拿过什么样的奖，拍过多好的片。可第二天，&ldquo;尔冬升&rdquo;跳海自杀见报了，《没有车轮的战车》变得一票难求，阿星问监制&ldquo;如果我自杀了，你会怎么办？&rdquo;他心里知道答案，这个行业，一个人的死亡可以成为最好的宣传，没有人会惋惜一个好导演的消失，只会利用他的死亡卖票，没有人会关心到底是谁逼死他的。大家只想知道是这个片子到底多烂啊，可以让他去死，电影如何，他是什么样的人，没有人会想知道。阿星明白，如果他被打垮，后果是一样的，就像他玩笑说&ldquo;你让我去大街上拍，那我也去自杀好了。&rdquo;监制马上惊喜的感叹他好会宣传，这个卖点真不错。真心话，玩笑话，界限模糊，没人在意真假，人们只看表面。尔冬升在自己的电影里杀了自己，更准确的说，他在自己的电影里完成了一次自杀。&ldquo;我小时候最想当足球员，因为我很佩服他们。你们想想，有观众也要踢，没观众也要踢。踢得不好的时候，被人家全场这样骂。喂，大哥，那球是圆的嘛。不是每次都能踢中的。有时候输，有时候赢。好了，到你状态不那么好的时候，教练会说：唉，那你出场休息吧。可能这一休息，以后再没机会踢了。&rdquo;尔冬升在片中借阿星的口说出了最大的无奈，没有机会失误，如果没有准备好就来，那就不用再来了。不光是说电影人，每个人都是如此，就和他在《演员请就位》里说的一样，没有人会管你努不努力，大家都在努力，没有人会在乎你的借口，每个人都有自己的难处。给你机会，不光是为了让你证明自己的，更是为了把事做成，如果你做不到，那就最好不要浪费机会。每个人都需要找到自己的位置，为什么大家要信任你？你身上有什么特别的？有什么精彩的？哪怕是三级片，观众都是带着期待来的，你能满足观众的期待吗？甚至，你能超出期待，给观众惊喜吗？如果不能，那能做到的人大有人在。阿星最后明白了，所有人都是一样的，不是只有他不想拍，不是只有他煎熬：老板的情人也只是个想要生活好一点的小女孩，她也不想拍这样的片子，这样的片场，演员一定比导演更难受。中年失意的男主角没得角色可选，只能演这些下三滥的人物，可他依然愿意认真对待，小角色也要演好，烂角色也要投入，他和传闻完全相反，尊重女演员，尊重工作人员，每次出演都和妻子报备，有时还会带妻儿来片场玩。总和自己作对的摄影师&ldquo;顶爷&rdquo;不想滥用手持摄影是有道理的，他也有自己的电影追求，还会安慰阿星，日本的大导演很多都是从三级片起家的，两人一夜刷片看别人怎么拍，他的想法给了阿星很多启发。看似没有底线的监制，一直夹在阿星和老板之间，顶了不知道多大的压力，无数次阿星和他争执他都扬言要换人，其实总跟老板说阿星的好话。在最后，老板拒绝支付尾款，他气愤地当着所有人的面打了老板一拳。阿星以为自己背负了所有委屈，其实，他把自己的委屈全部给了片场的人。这个从前没有人开心的片场，慢慢因为阿星的转变越来越好。&ldquo;拍戏而已，不用那么卑微。&rdquo;怎么都是实现梦想，干嘛要卑微，卑微都是自己给自己的，全力以赴的人，都不会有遗憾。真正的成熟是把不想做的事变成愿意做的事，并且把它做得漂漂亮亮。做自己和成功并不冲突，是站着挣钱还是跪着挣钱取决于你自己。抓住机会，不辜负机会才是真的对得起自己。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 做人而已，何必那么卑微",
+                        "desc": "文/颗馨 杀死那个文艺青年。",
+                        "link": "http://m.wufazhuce.com/movie/2076?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 做人而已，何必那么卑微",
+                        "desc": "文/颗馨 杀死那个文艺青年。",
+                        "link": "http://m.wufazhuce.com/movie/2076?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 做人而已，何必那么卑微》 文/颗馨： 杀死那个文艺青年。 阅读全文：http://m.wufazhuce.com/movie/2076?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2076?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "做人而已，何必那么卑微",
+                        "desc": "杀死那个文艺青年。",
+                        "link": "http://m.wufazhuce.com/movie/2076?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21393",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3328",
+                "title": "有个朋友，在我心里留了个东西",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FuwJta6v2UqU63xFO-mZqnLBKnQz?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1325,
+                "post_date": "2020-11-12 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3328",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3328",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 有个朋友，在我心里留了个东西",
+                        "desc": "有些东西是扔不掉的",
+                        "link": "http://m.wufazhuce.com/radio/3328?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/luyYziIQMhyuq6Xw3QRcgcClg3Nd"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 有个朋友，在我心里留了个东西",
+                        "desc": "有些东西是扔不掉的",
+                        "link": "http://m.wufazhuce.com/radio/3328?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/luyYziIQMhyuq6Xw3QRcgcClg3Nd"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 有个朋友，在我心里留了个东西》 主播/马晓橙： 有些东西是扔不掉的 阅读全文：http://m.wufazhuce.com/radio/3328?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3328?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/luyYziIQMhyuq6Xw3QRcgcClg3Nd"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "有个朋友，在我心里留了个东西",
+                        "link": "http://m.wufazhuce.com/radio/3328?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/luyYziIQMhyuq6Xw3QRcgcClg3Nd"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 913 期",
+                "audio_url": "http://music.wufazhuce.com/luyYziIQMhyuq6Xw3QRcgcClg3Nd"
+            }
+        ],
+        "menu": {
+            "vol": "2959",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4506",
+                    "title": "女孩最好的嫁妆"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1328",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第十五章：作妖的甲方"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3034",
+                    "title": "如何享受寂寞？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2076",
+                    "title": "做人而已，何必那么卑微"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3328",
+                    "title": "有个朋友，在我心里留了个东西"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

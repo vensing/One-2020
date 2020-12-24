@@ -1,0 +1,522 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5512",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-05-23 06:00:00",
+        "content_list": [
+            {
+                "id": "20405",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2827",
+                "title": "摄影",
+                "forward": "所谓相爱，不是两个人互相看着对方，而是能够一起看着同一个方向。",
+                "img_url": "http://image.wufazhuce.com/FvGqITu8vvKOwx9YsiNtsou_QzqB",
+                "like_count": 19595,
+                "post_date": "2020-05-23 06:00:00",
+                "last_update_date": "2020-05-21 13:54:48",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2786",
+                "pic_info": "Artem Beliaikin",
+                "words_info": "伊坂幸太郎《透明色北极熊》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2827",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2827",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2827",
+                    "image": "http://image.wufazhuce.com/FvGqITu8vvKOwx9YsiNtsou_QzqB",
+                    "title": "VOL.2786",
+                    "content": "所谓相爱，不是两个人互相看着对方，而是能够一起看着同一个方向。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2827?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2827?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 所谓相爱，不是两个人互相看着对方，而是能够一起看着同一个方向。——伊坂幸太郎《透明色北极熊》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2827?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2827?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20407",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4326",
+                "title": "旬常",
+                "forward": "“吃点吧，明天给你吃肉肉。”",
+                "img_url": "http://image.wufazhuce.com/FuFGvyBTTihFK2nD3JueeToSmzLA",
+                "like_count": 1906,
+                "post_date": "2020-05-23 06:00:00",
+                "last_update_date": "2020-05-23 13:24:37",
+                "author": {
+                    "user_id": "11371742",
+                    "user_name": "小姨丈",
+                    "desc": "1991年生，山西人，小说作者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "1991年生，山西人，小说作者。",
+                    "fans_total": "70",
+                    "web_url": "http://image.wufazhuce.com/FvRWPfiOjIZZqwaV5vDqx9KjErwg"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4326",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4326",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4326",
+                    "image": "http://image.wufazhuce.com/FuFGvyBTTihFK2nD3JueeToSmzLA",
+                    "title": "旬常 作者/小姨丈",
+                    "content": "“我想跟你学接吻。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 旬常",
+                        "desc": "文/小姨丈 “我想跟你学接吻。”",
+                        "link": "http://m.wufazhuce.com/article/4326?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 旬常",
+                        "desc": "文/小姨丈 “我想跟你学接吻。”",
+                        "link": "http://m.wufazhuce.com/article/4326?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 旬常》 文/小姨丈： “我想跟你学接吻。” 阅读全文：http://m.wufazhuce.com/article/4326?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4326?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "旬常",
+                        "desc": "“我想跟你学接吻。”",
+                        "link": "http://m.wufazhuce.com/article/4326?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20396",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1189",
+                "title": "分手遗迹清理员：伞是雨中的晴天·第九章",
+                "forward": "离别不应该没有声响，分手需要一场仪式。仪式流程不需要繁琐，一条短信，一句珍重都可以。火车进站总会响起音乐。电影结尾总要滚动字幕。人们需要一个参照物，用来告诉自己，这段关系到此结束，从此不回头，仅剩下眼前路。",
+                "img_url": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                "like_count": 986,
+                "post_date": "2020-05-23 06:00:00",
+                "last_update_date": "2020-05-20 16:10:16",
+                "author": {
+                    "user_id": "10730599",
+                    "user_name": "城迟",
+                    "desc": "人生前半场周转于互联网公司，凡客T恤事业部总监，乐视影业IP衍生部负责人。36岁出版代表作《我和这个世界不熟》，上市三天，冲进当当畅销榜前十。被阿耐、路内等著名作家推荐。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，代表作《我和这个世界不熟》。",
+                    "fans_total": "1326",
+                    "web_url": "http://image.wufazhuce.com/FiR3WpirjtIX3_RL6eZGxew_la3R"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第13章",
+                "number": "13",
+                "serial_id": "84",
+                "serial_list": [
+                    "1164",
+                    "1165",
+                    "1166",
+                    "1168",
+                    "1171",
+                    "1172",
+                    "1178",
+                    "1179",
+                    "1181",
+                    "1183",
+                    "1184",
+                    "1187",
+                    "1189",
+                    "1190",
+                    "1194",
+                    "1196",
+                    "1199",
+                    "1201",
+                    "1203",
+                    "1206",
+                    "1207",
+                    "1209"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1189",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1189",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1189",
+                    "image": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                    "title": "分手遗迹清理员：伞是雨中的晴天·第九章 作者/城迟",
+                    "content": "在暴雨中，一把伞就是移动的晴天。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 分手遗迹清理员：伞是雨中的晴天·第九章",
+                        "desc": "文/城迟 在暴雨中，一把伞就是移动的晴天。",
+                        "link": "http://m.wufazhuce.com/serial/1189?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 分手遗迹清理员：伞是雨中的晴天·第九章",
+                        "desc": "文/城迟 在暴雨中，一把伞就是移动的晴天。",
+                        "link": "http://m.wufazhuce.com/serial/1189?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 分手遗迹清理员：伞是雨中的晴天·第九章》 文/城迟： 在暴雨中，一把伞就是移动的晴天。 阅读全文：http://m.wufazhuce.com/serial/1189?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1189?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "分手遗迹清理员：伞是雨中的晴天·第九章",
+                        "desc": "在暴雨中，一把伞就是移动的晴天。",
+                        "link": "http://m.wufazhuce.com/serial/1189?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20399",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2855",
+                "title": "优秀的定义是什么？",
+                "forward": "如果仅仅因为一个人在某一方面强于别人，就将他评价为“优秀”，那么所谓“优秀”的定义，是否太过于狭窄？",
+                "img_url": "http://image.wufazhuce.com/Fq8g4hHquSWQ3fr0Ka_7tmKPAI25",
+                "like_count": 2484,
+                "post_date": "2020-05-23 06:00:00",
+                "last_update_date": "2020-05-22 18:32:58",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "孤独的司马光",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2855",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2855",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2855",
+                    "image": "http://image.wufazhuce.com/Fq8g4hHquSWQ3fr0Ka_7tmKPAI25",
+                    "title": "优秀的定义是什么？",
+                    "content": "优秀的定义是什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 优秀的定义是什么？",
+                        "desc": "文/黄子京 所谓的“优秀”，并不应该只是一个狭窄的概念，它应该更加宽泛。",
+                        "link": "http://m.wufazhuce.com/question/2855?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 优秀的定义是什么？",
+                        "desc": "文/黄子京 所谓的“优秀”，并不应该只是一个狭窄的概念，它应该更加宽泛。",
+                        "link": "http://m.wufazhuce.com/question/2855?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 优秀的定义是什么？》 文/黄子京： 所谓的“优秀”，并不应该只是一个狭窄的概念，它应该更加宽泛。 阅读全文：http://m.wufazhuce.com/question/2855?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2855?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "优秀的定义是什么？",
+                        "desc": "所谓的“优秀”，并不应该只是一个狭窄的概念，它应该更加宽泛。",
+                        "link": "http://m.wufazhuce.com/question/2855?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9606198",
+                    "user_name": "黄子京",
+                    "desc": "作者、诗人。微信公众号：黄子京。",
+                    "wb_name": "@黄子京hzj",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者、诗人。微信公众号：黄子京。",
+                    "fans_total": "5327",
+                    "web_url": "http://image.wufazhuce.com/FgqaxpmefULlWSexRwIEJ9NcoaMf"
+                }
+            },
+            {
+                "id": "20391",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1999",
+                "title": "只要没有你，我的人生就是完美的",
+                "forward": "婚姻不是一场保卫战，而是一场自救战。与其想着婚姻保鲜，不如先做到自我保值。",
+                "img_url": "http://image.wufazhuce.com/FgLBFLUuJ_cepg1HEAdvjV4H6gPz",
+                "like_count": 1829,
+                "post_date": "2020-05-23 06:00:00",
+                "last_update_date": "2020-05-22 17:33:47",
+                "author": {
+                    "user_id": "11199306",
+                    "user_name": "kimi",
+                    "desc": "自由撰稿人，业余影剧评写手。每一部影视作品里都有你未曾经历的人生，等待着被发现与倾听。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "聊聊电影和人生",
+                    "fans_total": "502",
+                    "web_url": "http://image.wufazhuce.com/Fmfan7neHDOkYfyH8A7_jgA5G0fH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "夫妻的世界",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4982",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1999",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1999",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1999",
+                    "image": "http://image.wufazhuce.com/FgLBFLUuJ_cepg1HEAdvjV4H6gPz",
+                    "title": "「一个」电影: 夫妻的世界",
+                    "content": "当一段婚姻里失去了忠诚和信任，还剩下什么？爱人变仇人，誓言变谎言，曾经有多温柔浪漫，如今就有多狼狈不堪。不怪时间把甜言蜜语蹉跎成了柴米油盐，只怪有人用作弊的方式中途退场。名存实亡的婚姻里，一拍两散也许只是最好的结果。你永远想象不到在婚姻的阴暗面里藏着多少不为人知的唏嘘。翻拍自英剧《福斯特医生》，《夫妻的世界》从一开场就来势汹汹。反转又反转的剧情，大胆露骨的海报，年过五十的金喜爱居然还能挑战19禁。难怪有人吐槽：这部剧最大的bug就是，为什么有了金喜爱这样的老婆还要去出轨？然而，婚姻是件如人饮水的事，外人看到的光鲜永远只是表象。&nbsp;01身为私立医院副院长的池宣优，过着多少人心目中的理想生活。人到中年，家庭和睦，衣食无忧。儿子听话懂事，当导演的老公泰晤对她疼爱有加。上班前会替她戴好围巾、提醒她别着凉；下班了会顺道带回一瓶限量版红酒作礼物。经历一夜缠绵，还会在早上主动要一个爱的拥抱，并且Kiss goodbye。即便面对&ldquo;你会不会觉得我老&rdquo;这样的致命题，也能给出完美答案。熬过了七年之痒，生活却依旧蜜里调油。不仅周围人羡慕到想寄柠檬，就连儿子都一副嗑到父母爱情的样子。望着墙上幸福的全家福，甚至连宣优自己也觉得，围绕着她的一切都是完美。但是，越是完美的东西，就越是不堪一击。更何况，这个世界上并没有什么完美，多的是你未发现的裂痕。幸福脆弱起来，一根头发丝就能将它伤得体无完肤。就在出门前泰晤亲手给宣优戴好的围巾上，一根染了色的长卷发，在阳光下显得异常刺眼。这是一根不属于池宣优的、别的女人的头发。这根头发就像一把刀，扎在宣优的心上。在她顺风顺水的四十年完美人生中，这无异于天塌地陷的打击。难以想象，一个连墙上的照片歪了，都要立刻放下手中事去扶正的女人，要如何去容忍老公的背叛。惶恐、不安与无措之后，是无处不在的怀疑。每一个留着相似发型的女人，似乎都充满嫌疑。旁人似是无心的一句话，也成了意有所指。衣服里掉落的樱桃味唇膏，晚了两小时的下班时间，联系种种蛛丝马迹，已足够拼凑出一幕完整的狗血剧。于是，翻口袋，查手机，跟踪。既希望可以查出些什么，又祈祷着千万别查出些什么。然而，连密码都没有设置的手机里并什么没有异常；鼓起勇气的跟踪，却发现老公只是去疗养院看望婆婆。真相来得不费吹灰之力，就像等待着被她发现。老公对于唇膏的解释合情合理，对于晚归的原因主动坦白。这倒让善宇为自己的多疑感到惭愧起来。或许真的是自己想太多了，一切只是更年期不安的荷尔蒙在作祟。毕竟，有一个同岁却显得更年轻的帅老公，本身就让这段婚姻充满了不安全感。但是，再好的导演，也拍不出十全十美的电影。在泰晤自以为完美的剧本里，疗养院护士的一番话成了百密一疏。宣优刚刚重建的信任再次崩塌，她找到自己的病患、女侍应生贤瑞，请求帮忙跟踪调查。在泰晤的汽车后备箱里，宣优发现了他的所有出轨证据。而藏在另一只秘密手机里的内容，更是打破了她所有自欺欺人的坚持。让宣优出乎意料的不仅是小三的身份，更是她自己的可悲处境。同事、闺蜜、女秘书，她们或者成了小三的朋友，或者为泰晤做着通风报信的事。原来，从头至尾，只有她一个人被蒙在鼓里。&nbsp;她强忍下想要一刀扎死老公的念头，在生日会上，用一吻配合了他的演出。那一刻，那句&ldquo;爱你永不变&rdquo;的誓言变得如此可笑。&nbsp;02换一种方式打开这部剧，其实在这段婚姻中，早已埋下了一个个雷。深夜出差回家的丈夫，随意将脏鞋子脱在了玄关，行李箱从妻子摆放整齐的高跟鞋上轧过，地板上留下一串湿哒哒的脚印。吃排骨时滴在桌上的汤汁，拿内衣时随意翻乱的抽屉。面对妻子关于&ldquo;是不是老了&rdquo;的提问，他的回答首先是&ldquo;照片修得不错&rdquo;。在这段熬过了七年止痒的婚姻中，处处体现着丈夫的腻烦和敷衍。妻子对他资金上的帮助，成为理所当然；和妻子的各种亲热举动，变成了履行义务。软饭男丈夫很容易将压力转化为自以为是的压迫，将自卑感转嫁为对妻子的厌恶和怨恨。于是，他出轨，他脚踏两条船，并且情圣似的对别人说自己两个都爱。似乎只要&ldquo;我认为我还爱我的妻子&rdquo;，就不存在背叛，连出轨也变得理所当然。一边和小三你侬我侬，一边扮演着好丈夫、好父亲的角色。面对妻子关于出轨的质问，他矢口否认，并认为妻子是无理取闹；得知妻子想要他净身出户，他不惜用各种恶劣的方式来争夺儿子和财产，他要让自己在这场离婚官司中获得利益最大化。一旦这场离婚风波未能以如他所愿的方式收场，便更加激化他内心的扭曲。两年的风平浪静后，他又回来了。无名指换了新的婚戒，身边带着小娇妻和两岁的女儿。除了耀武扬威的宣告自己的成功，还计划着夺走儿子，并且让宣优身败名裂。他把自己包装成这段婚姻的受害者，熟稔地将自己的错误转嫁为妻子的罪过。并且知道该如何讨得儿子的欢心，而后对妻子倒打一耙。他真的想要儿子回到他身边吗？未必。毕竟他已经有了女儿和新的家庭，但是想到夺走儿子可以让宣优痛苦，他自然&ldquo;义不容辞&rdquo;。相比之下，出轨居然成了他所有罪行中最微不足道的一条；而离婚也成了对他伤害最小的惩罚。离开了池宣优这张长期饭票，他可以换一家实力更强的靠山继续吃软饭。有娇妻，有儿女，依靠新岳父的力量重新换来名利双收。但是对于李泰晤来说，这样的婚姻难道不会成为一个死循环吗？当腻烦和自卑失去了新鲜感的掩护，难保如今的小娇妻不会成为下一个池宣优。&nbsp;03女侍应生贤瑞曾经这样问宣优：&ldquo;像医生您这样优秀的人，人生应该很容易吧？&rdquo;&ldquo;是老公打你吗？还是抢你的钱？&ldquo;&ldquo;外遇的话找到证据赶走不就好了，成功女人应该很容易做到吧？&rdquo;当得到宣优带着无奈的否定回答后，贤瑞感叹道：&ldquo;原来成功的女人也和我差不多啊！&rdquo;看上去光鲜的女人和生在阴暗中的女人，并没有什么区别，别人的生活远没有你想象的那样幸福。就像每一对在人前把爱意演到绚烂的夫妻（情侣），谁又知道人后有着怎样的孤独凄凉。有人在看病时得知丈夫有外遇，表示坚决不会离婚；有人面对风流成性、却还要在人前秀恩爱的丈夫，给予了一次次地包容与原谅，&ldquo;只要我没抓到，他就没出轨&rdquo;。感情的事情原本没有正确答案，但可笑的是，人们总觉得多一点包容，出轨就可以当作不存在。即便泰晤的母亲自己也是老公出轨的受害者，却一直在祈求宣优不要离婚。在遭到宣优的拒绝后，反过来责怪宣优，潜台词就是&ldquo;我儿子这样都是你逼的&rdquo;。当泰晤再次归来，周围的人似乎都选择了集体失忆。人们对他取得的成功交口称赞，就连新岳母也对这位新女婿赞赏有加，将离婚的责任全部推倒宣优身上。没有人在去唾弃泰晤与小三的不伦，反而觉得和宣优同时出现在一个场合才是真的尴尬。凡是有她出现的地方，总少不了指指点点，仿佛犯错的是她。当然，一段婚姻走到离婚的地步，双方都不无辜。宣优也曾为了搜集泰晤的出轨证据，而使用了不少出格的方法，甚至和泰晤的好友发生了一夜情。别急着毁三观，先听听她的解释：这番话当然不是在为出轨开脱，但出轨绝不是宣优用来以其人之道还治其人之身的报复手段。作为曾经被出轨的一方，她从来都知道出轨对另一方带来的伤害。两年过去了，她依旧难以释怀，即使离婚了，伤痛也依旧存在。而对出轨的丈夫来说，上一段婚不过是过去式罢了，他卷土重来，还可以一次次地往她心上扎刀。小三的挑衅，儿子的不理解，好友的背叛，周围人异样的目光。作为婚姻中真正受害的一方，反而要承受更大的恶意，这难道就公平吗？残酷，然而这就是现实，是夫妻的世界，也是成年人的世界。没有对错，只有输赢；没有感同身受，只有隔岸观火。对宣优来说，这场婚姻拉锯战她败得很彻底，从她先付出感情的那一刻开始就注定了这样的结局。可是，她输了这场婚姻，却最终赢得了自己。她终于可以不用依附婚姻、不用依附于任何一个人而活。同样的情况放到现实中，不是谁都有华丽反击的机会，但至少请不要把自己当成是弱者。婚姻不是一场保卫战，而是一场自救战。与其想着婚姻保鲜，不如先做到自我保值。所以，大可不必将这部剧当成是婚姻劝退书，也不必因此对婚姻抱有恐慌，不过你总该看到婚姻与爱情里必然存在阴暗面。婚姻未必是爱情的坟墓，但婚姻里绝不只有鲜花、祝福和洁白的婚纱，婚姻里还有各种突发状况，和你自己。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 只要没有你，我的人生就是完美的",
+                        "desc": "文/kimi 我早就不爱你了。",
+                        "link": "http://m.wufazhuce.com/movie/1999?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 只要没有你，我的人生就是完美的",
+                        "desc": "文/kimi 我早就不爱你了。",
+                        "link": "http://m.wufazhuce.com/movie/1999?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 只要没有你，我的人生就是完美的》 文/kimi： 我早就不爱你了。 阅读全文：http://m.wufazhuce.com/movie/1999?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1999?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "只要没有你，我的人生就是完美的",
+                        "desc": "我早就不爱你了。",
+                        "link": "http://m.wufazhuce.com/movie/1999?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2786",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4326",
+                    "title": "旬常"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1189",
+                    "serial_list": [
+                        "1164",
+                        "1165",
+                        "1166",
+                        "1168",
+                        "1171",
+                        "1172",
+                        "1178",
+                        "1179",
+                        "1181",
+                        "1183",
+                        "1184",
+                        "1187",
+                        "1189",
+                        "1190",
+                        "1194",
+                        "1196",
+                        "1199",
+                        "1201",
+                        "1203",
+                        "1206",
+                        "1207",
+                        "1209"
+                    ],
+                    "title": "分手遗迹清理员：伞是雨中的晴天·第九章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2855",
+                    "title": "优秀的定义是什么？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1999",
+                    "title": "只要没有你，我的人生就是完美的"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

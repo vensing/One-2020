@@ -1,0 +1,509 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5656",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-16 06:00:00",
+        "content_list": [
+            {
+                "id": "21241",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2974",
+                "title": "摄影",
+                "forward": "区分善恶的界限纵横交错在每个人的心上。",
+                "img_url": "http://image.wufazhuce.com/FsOElSB0bLmc3FqYutwRzWjOaZyg",
+                "like_count": 11701,
+                "post_date": "2020-10-16 06:00:00",
+                "last_update_date": "2020-10-09 13:48:27",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2932",
+                "pic_info": "Jake Weirick",
+                "words_info": "索尔仁尼琴",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2974",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2974",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2974",
+                    "image": "http://image.wufazhuce.com/FsOElSB0bLmc3FqYutwRzWjOaZyg",
+                    "title": "VOL.2932",
+                    "content": "区分善恶的界限纵横交错在每个人的心上。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2974?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2974?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 区分善恶的界限纵横交错在每个人的心上。——索尔仁尼琴 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2974?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2974?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21266",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4478",
+                "title": "暖流",
+                "forward": "从第一天与他相识到如今，大概七个月，大概二百杯威士忌。",
+                "img_url": "http://image.wufazhuce.com/FsWm3G7eWEuIogMXFGBCTuFIlrFE",
+                "like_count": 2025,
+                "post_date": "2020-10-16 06:00:00",
+                "last_update_date": "2020-10-16 10:39:01",
+                "author": {
+                    "user_id": "11639041",
+                    "user_name": "姜尤硕",
+                    "desc": "已出版《时光若如悬河》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "已出版《时光若如悬河》。",
+                    "fans_total": "296",
+                    "web_url": "http://image.wufazhuce.com/Fi1xbokrVeDR5qos5n2qR6ID_NRb"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4478",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4478",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4478",
+                    "image": "http://image.wufazhuce.com/FsWm3G7eWEuIogMXFGBCTuFIlrFE",
+                    "title": "暖流 作者/姜尤硕",
+                    "content": "不知道该怎么说，有种对自己相当失望的感觉。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 暖流",
+                        "desc": "文/姜尤硕 不知道该怎么说，有种对自己相当失望的感觉。",
+                        "link": "http://m.wufazhuce.com/article/4478?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 暖流",
+                        "desc": "文/姜尤硕 不知道该怎么说，有种对自己相当失望的感觉。",
+                        "link": "http://m.wufazhuce.com/article/4478?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 暖流》 文/姜尤硕： 不知道该怎么说，有种对自己相当失望的感觉。 阅读全文：http://m.wufazhuce.com/article/4478?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4478?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "暖流",
+                        "desc": "不知道该怎么说，有种对自己相当失望的感觉。",
+                        "link": "http://m.wufazhuce.com/article/4478?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21246",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1308",
+                "title": "丧书·第六章：伹暑",
+                "forward": "我一般不寂寞，但寂寞起来就很要命。",
+                "img_url": "http://image.wufazhuce.com/Fisz_ZuaUTFtSRGBJzV1RXVm2RZd",
+                "like_count": 825,
+                "post_date": "2020-10-16 06:00:00",
+                "last_update_date": "2020-10-10 14:51:45",
+                "author": {
+                    "user_id": "8795394",
+                    "user_name": "刘酿苦",
+                    "desc": "你想当我第51个粉丝吗？ 公众号：刘酿苦。",
+                    "wb_name": "@刘酿苦",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "其实我很甜。",
+                    "fans_total": "5690",
+                    "web_url": "http://image.wufazhuce.com/FnaSk0TmlreBXvKXCFxxvN2nBMHy"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第6章",
+                "number": "6",
+                "serial_id": "89",
+                "serial_list": [
+                    "1302",
+                    "1303",
+                    "1304",
+                    "1305",
+                    "1306",
+                    "1308",
+                    "1309",
+                    "1310",
+                    "1311",
+                    "1312",
+                    "1313",
+                    "1314"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1308",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1308",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1308",
+                    "image": "http://image.wufazhuce.com/Fisz_ZuaUTFtSRGBJzV1RXVm2RZd",
+                    "title": "丧书·第六章：伹暑 作者/刘酿苦",
+                    "content": "我一般不寂寞，但寂寞起来就很要命。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 丧书·第六章：伹暑",
+                        "desc": "文/刘酿苦 我一般不寂寞，但寂寞起来就很要命。",
+                        "link": "http://m.wufazhuce.com/serial/1308?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 丧书·第六章：伹暑",
+                        "desc": "文/刘酿苦 我一般不寂寞，但寂寞起来就很要命。",
+                        "link": "http://m.wufazhuce.com/serial/1308?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 丧书·第六章：伹暑》 文/刘酿苦： 我一般不寂寞，但寂寞起来就很要命。 阅读全文：http://m.wufazhuce.com/serial/1308?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1308?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "丧书·第六章：伹暑",
+                        "desc": "我一般不寂寞，但寂寞起来就很要命。",
+                        "link": "http://m.wufazhuce.com/serial/1308?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21284",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3008",
+                "title": "与前任复合最大的难处是什么？",
+                "forward": "感情不会消失，但会转化。",
+                "img_url": "http://image.wufazhuce.com/FpwmsjJ7O9NywfwN_AE43KIfmFVT",
+                "like_count": 2139,
+                "post_date": "2020-10-16 06:00:00",
+                "last_update_date": "2020-10-15 17:48:53",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "蚂蚁牙黑",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3008",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3008",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3008",
+                    "image": "http://image.wufazhuce.com/FpwmsjJ7O9NywfwN_AE43KIfmFVT",
+                    "title": "与前任复合最大的难处是什么？",
+                    "content": "与前任复合最大的难处是什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 与前任复合最大的难处是什么？",
+                        "desc": "文/地下室的光 再见不会红着眼，也不会再红着脸。",
+                        "link": "http://m.wufazhuce.com/question/3008?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 与前任复合最大的难处是什么？",
+                        "desc": "文/地下室的光 再见不会红着眼，也不会再红着脸。",
+                        "link": "http://m.wufazhuce.com/question/3008?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 与前任复合最大的难处是什么？》 文/地下室的光： 再见不会红着眼，也不会再红着脸。 阅读全文：http://m.wufazhuce.com/question/3008?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3008?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "与前任复合最大的难处是什么？",
+                        "desc": "再见不会红着眼，也不会再红着脸。",
+                        "link": "http://m.wufazhuce.com/question/3008?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11616203",
+                    "user_name": "地下室的光",
+                    "desc": "知乎：地下室的光",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "知乎：地下室的光",
+                    "fans_total": "299",
+                    "web_url": "http://image.wufazhuce.com/Frz4NUx_E4Y0ZKqSV5uBMiNLWEmm"
+                }
+            },
+            {
+                "id": "21281",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3345",
+                "title": "我们都曾一腔孤勇，换来此生紧紧相拥",
+                "forward": "一个人的兵荒马乱敌不过一群人的狂欢。",
+                "img_url": "http://image.wufazhuce.com/FoCcl1A0YWz1NkMlVNDQ3voKX3Jq",
+                "like_count": 1817,
+                "post_date": "2020-10-16 06:00:00",
+                "last_update_date": "2020-10-16 10:50:36",
+                "author": {
+                    "user_id": "11453488",
+                    "user_name": "余怀",
+                    "desc": "如若无光，就做自己的小太阳。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "如若无光，就做自己的小太阳。",
+                    "fans_total": "200",
+                    "web_url": "http://image.wufazhuce.com/FmnLXo6lCmc8eKmCLEC2mW7eEsGc"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lmnMZ4m49pE_vjetjvZXQoCRux8B",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "我的身旁是一扇亮了又暗的窗",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3345",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3345",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3345",
+                    "image": "http://image.wufazhuce.com/FoCcl1A0YWz1NkMlVNDQ3voKX3Jq",
+                    "title": "「一个」音乐: 余怀 我的身旁是一扇亮了又暗的窗",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.高中同学十周年聚会，我其实是不太想去的。奈何阿柔对我死缠烂打，说什么我要不去她也不去以死相逼的鬼话，我想了想，人生能有几个十年，见见老同学也无妨。阿柔是我高中同桌，毕业后大家各奔东西，很多人自此断了联系再无相见。但阿柔却是我除了陈浩之外联系得比较频繁的故友，由此看来还是同桌的友谊比较牢固。至于陈浩，他在我人生中是另一个存在，不能与大多数通俗的关系相提并论。我发微信问陈浩同学聚会去不去，结果大半天没回，打电话也没接，我只好作罢，只身一人去赴那十年的约。十周年聚会，全班五十多人只到了二十多个，其中还包括五位老师。两年前，我们得知数学王老师因突发心梗去世的噩耗，悲痛不已的同时感叹世事无常，要好好活着，珍惜当下，珍惜眼前人。可那时候陈浩在我心上，却不在眼前。吃饭时我跟阿柔坐在一起，天南地北的聊着。突然班主任朝我问道：&ldquo;陈浩没来啊，林瑶，我记得你俩关系不错，大学也是上的同一所学校吧，你知道陈浩现在是什么情况吗？&rdquo;我吓得一激灵，急忙踉踉跄跄地站起来：&ldquo;那个，老师，我跟陈浩就普通同学，虽然是上同一所大学，但也没怎么联系，所以我也不知道他什么情况。&rdquo;&ldquo;是吗，那你紧张什么，快坐下吃饭吧。&rdquo;班主任意味深长地笑着说道。&ldquo;我这不是还以为您叫我上黑板做题吗，您现在可比当年和蔼可亲得多了。&rdquo;我反将一军，赶紧坐下喝了口饮料。大家哈哈大笑，班主任也笑容可掬的喝着小酒，没想到这显得生疏的气氛竟被我一句话推得热烈起来，纷纷畅所欲言。吃完饭去KTV，老师们玩了一会就准备回去。我送老师们出去时，班主任回头跟我说：&ldquo;十周年聚会，只来了二十几个人。我教了几十年的书，其实早就明白，当你们踏出校门那一刻，这个班是再也聚不齐了。我们老了，你们要好好加油。&rdquo;&ldquo;老师，您不老，您多注意身体，肯定会越活越年轻的。&rdquo;班主任摆了摆手，走了几步，又突然转过身来：&ldquo;对了，如果看到陈浩的话，转告他一声，不管他在哪，在做什么，要好好努力，我看好他，一定会有出息的。还有，他要有时间回来的话，就来看看老师，十年没见了，还怪想他的。&rdquo;&ldquo;好，我一定转告他，请老师放心。&rdquo;我看着班主任的眼睛，点了点头。班主任不再回头，我看着他明显可见的白发和些许蹒跚的脚步，两眼一酸，连忙用手揉了揉眼睛。我发了一些聚会的照片给陈浩，其中有班主任的独照和我俩的合影。&ldquo;这么些年没见，班主任竟有了好多白发，看他笑容满面，容光焕发的样子，比起当年可和蔼多了。&rdquo;这小子终于回消息了。我知道他肯定早已看到我发给他的消息，故意不回也不接电话，我也知道他内心肯定很挣扎，但他终究没有来。突然有很多话，想当面和他说。&nbsp;2.我和陈浩高一开始认识，他一米七几的个头，成绩不错，喜欢打篮球。这样的人注定会有很多女生喜欢，包括我。相对于其他喜欢陈浩的女生来说，我并不算出众，但她们很主动，我则把这份喜欢珍藏于心底。幸好陈浩对于感情比较木讷，我这近水楼台未曾得月，其他班的女生也未曾俘获他的心。他跟所有喜欢他的女生都处成了朋友，我好一点，和他成为了好朋友。后来也不知谁让他开了窍，陈浩开始和一个女生走得比较近。最令我生气的是，他竟然问我女生喜欢什么之类的问题，我很大度地解答了他所有疑问，而他则转身就送了那个女生一份小礼物。我为什么非要喜欢陈浩呢？没有人能替我解答。之后的日子里我开始疏远陈浩，眼不见心不烦，一头扎进了学习的苦海里。可令我更气愤的是，陈浩每次都比我考得好。陈浩就是我眼前的一座大山，躲不开逃不掉。我们关系的亲疏永远只是我的独角戏，而他始终在那里，由我决定疏远或是靠近。高考后，我想终于可以离他远一点了。趁他有喜欢的人，趁我没告诉他我喜欢他。一厢情愿就得自生自灭，感情的事就是那么不讲道理。我对他不再那么热情，他发消息给我也会很久才回，直到回学校取录取通知书。夏日的骄阳炙烤着大地，却阻挡不了大家拿到录取通知书那一刻的喜悦。校内的林荫小道上，陈浩迎面走来，我想要逃却没有岔道，转身走又显得刻意了一些，只好继续往前。&ldquo;恭喜恭喜，不知将要去往何方？&rdquo;陈浩先开口问道。我还没来得及说话，陈浩已经抢过我的录取通知书，打开一看，他两眼放光，嘴角上扬，然后嘿嘿一笑：&ldquo;噢，原来你也在这里。&rdquo;这莫名奇妙的缘份，撬动着一颗已经熄灭却又重燃希望的心。只有暗恋过的人才会懂得，平静如常的表面掩藏着多少波澜壮阔。&nbsp;3.我们一起去了南京，去了同一所大学。不久后陈浩找我倾诉，他说他被女朋友甩了。我努力控制住内心的狂喜，心想我终于要熬出头了。我非常镇定地安慰陈浩：&ldquo;没什么大不了的，是她没眼光，相信我，你会遇到比她更好的人。&rdquo;还是有很多女生喜欢陈浩，我却始终演着我的独角戏。我和陈浩的关系，友情之上，恋人未满。我很害怕，一旦挑明，我会失去他。我真的没多少把握，不想以身涉险。得到和失去之间，如果结局是失去，那么得到也就显得不那么重要了。一辈子的好朋友，是我能接受的结果。只是陈浩再也没谈过恋爱，而我们依然是我们。一天夜晚，我已经躺床上准备睡觉，陈浩打电话给我，电话那头的陈浩吞吞吐吐连一句话都说不清楚，另一个声音接着说道：&ldquo;你好，我是学校外面烧烤店的老板，你是他的同学吗？他喝多了，是的话你来接一下他吧。&rdquo;我急忙下床穿好衣服在宿管阿姨即将关闭宿舍大门时飞奔出去，赶到烧烤店时陈浩一个人趴在桌上，嘴里含糊不清的念叨着什么。宿舍是回不去了，为了照顾他，我只好扶着他去宾馆开了一间标间。已经吐完的陈浩清醒不少，我用毛巾给他擦脸：&ldquo;发生什么事了，大晚上的一个人出来喝酒，你酒量又不好，以后少喝点。&rdquo;&ldquo;林瑶，我妈得了尿毒症，我爸妈为了不影响我学习一直没跟我说，现在情况恶化我爸不得不告诉我，我不孝啊&hellip;&hellip;&rdquo;陈浩眼角挂满了泪水。&ldquo;别着急，陈浩，现在医学这么发达，阿姨肯定也会好起来的，你还有我呢，我们一起想办法。&rdquo;我紧紧地抱着陈浩。第二天我和陈浩一起回去看了他妈妈，阿姨状态很好，让陈浩别担心。陈浩陪了他妈妈两天，临走前陈浩的爸出来送我们，他对陈浩说：&ldquo;儿子，妈妈有我照顾，你放心吧，爸没什么本事，对不起你啊，以后的路得靠你自己了。&rdquo;&ldquo;爸，您别这样，您好好照顾咱妈，以后的担子就交给我吧。&rdquo;陈浩和他爸抱在一起。不久后大学毕业，陈浩利用一切时间挣钱。这几年来，他被生活压得喘不过气，吃过的苦，受过的委屈，各种各样的不顺，他都挺过来了。他还清了他妈妈治病所欠下的债务，可他的眼神里已暗淡无光。我订了理想后花园乐队全国巡演南京站的票，想让陈浩放松一下。那天晚上人们很嗨，陈浩却很安静。当《我的身旁是一扇亮了又暗的窗》唱完，透过灯光，我看到他已眼含热泪。我拿出纸巾给他擦干眼角的泪水，陈浩一把把我拥入怀中，俯首在我耳畔轻轻说了句：&ldquo;谢谢。&rdquo;&ldquo;我喜欢你。&rdquo;我踮起脚在他耳畔说。&ldquo;我知道，所以谢谢。&rdquo;&ldquo;然后呢？&rdquo;然后我们的声音被人海淹没，一个人的兵荒马乱敌不过一群人的狂欢。&nbsp;4.我们约在了常去的一家咖啡馆。陈浩一身休闲西装，面色红润神采飞扬，最重要的是，他的眼里又有光了，一如从前那个明媚的少年。&ldquo;我知道你想要说什么，不妨先听我说几句。&rdquo;陈浩笑着说。&ldquo;好，你先说。&rdquo;&ldquo;我谈过一段恋爱，不过是假的，她是我初中同学，我请她帮个忙而已。因为我想刺激一下某个人，可她好像不太在乎，我只好退而跟她成为朋友。&rdquo;&ldquo;因为她说她想去南京读大学，我知道她的分数后分析她可能报的志愿和被录取的学校，我选了最有可能的学校填了志愿。我想，就算没有猜对，最差的结果也会在同一座城市。&rdquo;&ldquo;我喜欢一个女生，至今已有十三年了。&rdquo;&ldquo;在感情里我一直都不够勇敢，我害怕未来，害怕失去，害怕连朋友都做不成。这些年发生了很多的事，我一度自卑，看不到希望，甚至绝望，我不想这样的自己成为她的累赘。&rdquo;&ldquo;可现在我想好了，我要给她幸福，我不想，跟她只是一辈子的好朋友。&rdquo;话音刚落，陈浩从桌底拿出一捧鲜艳的红玫瑰，对面的我已泣不成声。陈浩起身走到我身旁：&ldquo;那个，我可以抱你吗？&rdquo;我起身扑在陈浩的怀抱，陈浩抚摸着我的头发，说：&ldquo;很多人都已经走散了，谢谢你那么多年一直陪在我身边。&rdquo;&ldquo;你就是个彻头彻尾的大坏蛋，也只有我这个大傻子才会喜欢你，一直喜欢你。&rdquo;我带着哭腔说道。我终于平复了心情，陈浩擦干了我夹杂着委屈和喜悦的泪水，坐下喝了口咖啡，没加糖竟也觉得不太苦。&ldquo;你不是有话跟我说吗？该你了。&rdquo;陈浩笑了笑。&ldquo;我好像不用说了吧，答案我已经得到了。如果非要说的话，我喜欢你，也十三年了。还有，班主任让我转告给你一些话。&rdquo;&ldquo;不用转告了，班主任已经跟我说过了，聚会那天你发给我那些照片后我就拨通了班主任的电话。&rdquo;陈浩抢着说道。&ldquo;噢，班主任跟你说什么了？&rdquo;他说：&ldquo;你哪都好，就是不够勇敢，总是想太多。有时候你只要坚决一些，多走一步，人生的风景便会有所不同。&rdquo;&ldquo;如今我走完这一步了，有时间我们一起回去看看班主任吧。&rdquo;陈浩看着我说。&ldquo;好。&rdquo;原来我们都曾害怕失去对方，处处小心翼翼，如履薄冰。原来我们都曾一腔孤勇，各自独角戏的男女主终会在爱里相逢。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我们都曾一腔孤勇，换来此生紧紧相拥",
+                        "desc": "文/余怀 “好多喜欢都藏在欲言又止里。”",
+                        "link": "http://m.wufazhuce.com/music/3345?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我们都曾一腔孤勇，换来此生紧紧相拥",
+                        "desc": "文/余怀 “好多喜欢都藏在欲言又止里。”",
+                        "link": "http://m.wufazhuce.com/music/3345?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我们都曾一腔孤勇，换来此生紧紧相拥》 文/余怀： “好多喜欢都藏在欲言又止里。” 阅读全文：http://m.wufazhuce.com/music/3345?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3345?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我们都曾一腔孤勇，换来此生紧紧相拥",
+                        "desc": "“好多喜欢都藏在欲言又止里。”",
+                        "link": "http://m.wufazhuce.com/music/3345?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "我的身旁是一扇亮了又暗的窗",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "理想后花园",
+                "audio_album": "这个世界让你紧张害怕吗？",
+                "cover": "http://image.wufazhuce.com/Fg0X8XR7qfs1UQEGYHs_4O8r7v1G",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2932",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4478",
+                    "title": "暖流"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1308",
+                    "serial_list": [
+                        "1302",
+                        "1303",
+                        "1304",
+                        "1305",
+                        "1306",
+                        "1308",
+                        "1309",
+                        "1310",
+                        "1311",
+                        "1312",
+                        "1313",
+                        "1314"
+                    ],
+                    "title": "丧书·第六章：伹暑"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3008",
+                    "title": "与前任复合最大的难处是什么？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3345",
+                    "title": "我们都曾一腔孤勇，换来此生紧紧相拥"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

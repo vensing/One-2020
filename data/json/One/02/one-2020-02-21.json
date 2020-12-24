@@ -1,0 +1,628 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5412",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-21 06:00:00",
+        "content_list": [
+            {
+                "id": "19818",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2734",
+                "title": "插画",
+                "forward": "我们所爱之物，昭示着我们究竟是谁。",
+                "img_url": "http://image.wufazhuce.com/FtC2afaPWuTjKZsJxg_gXKOEoe8q",
+                "like_count": 20154,
+                "post_date": "2020-02-21 06:00:00",
+                "last_update_date": "2020-02-15 18:32:56",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2694",
+                "pic_info": "@井拾Js",
+                "words_info": "托马斯·阿奎纳",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2734",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2734",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2734",
+                    "image": "http://image.wufazhuce.com/FtC2afaPWuTjKZsJxg_gXKOEoe8q",
+                    "title": "VOL.2694",
+                    "content": "我们所爱之物，昭示着我们究竟是谁。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2734?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2734?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我们所爱之物，昭示着我们究竟是谁。——托马斯·阿奎纳 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2734?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2734?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19827",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4207",
+                "title": "悲艳",
+                "forward": "爱是替他人考虑，伪爱是在他人身上替自己考虑。",
+                "img_url": "http://image.wufazhuce.com/FurQfx0CFEuBPmkk1tk1dW1McgbB",
+                "like_count": 3530,
+                "post_date": "2020-02-21 06:00:00",
+                "last_update_date": "2020-02-21 11:38:50",
+                "author": {
+                    "user_id": "8795394",
+                    "user_name": "刘酿苦",
+                    "desc": "你想当我第51个粉丝吗？ 公众号：刘酿苦。",
+                    "wb_name": "@刘酿苦",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "其实我很甜。",
+                    "fans_total": "5690",
+                    "web_url": "http://image.wufazhuce.com/FnaSk0TmlreBXvKXCFxxvN2nBMHy"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4207",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4207",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4207",
+                    "image": "http://image.wufazhuce.com/FurQfx0CFEuBPmkk1tk1dW1McgbB",
+                    "title": "悲艳 作者/刘酿苦",
+                    "content": "爱是替他人考虑，伪爱是在他人身上替自己考虑。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 悲艳",
+                        "desc": "文/刘酿苦 爱是替他人考虑，伪爱是在他人身上替自己考虑。",
+                        "link": "http://m.wufazhuce.com/article/4207?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 悲艳",
+                        "desc": "文/刘酿苦 爱是替他人考虑，伪爱是在他人身上替自己考虑。",
+                        "link": "http://m.wufazhuce.com/article/4207?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 悲艳》 文/刘酿苦： 爱是替他人考虑，伪爱是在他人身上替自己考虑。 阅读全文：http://m.wufazhuce.com/article/4207?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4207?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "悲艳",
+                        "desc": "爱是替他人考虑，伪爱是在他人身上替自己考虑。",
+                        "link": "http://m.wufazhuce.com/article/4207?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19846",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4212",
+                "title": "别担心太多，日子会好的",
+                "forward": "把握时间，掌握方向。",
+                "img_url": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                "like_count": 2761,
+                "post_date": "2020-02-21 06:00:00",
+                "last_update_date": "2020-02-20 23:19:50",
+                "author": {
+                    "user_id": "10264854",
+                    "user_name": "张拉灯等二位",
+                    "desc": "一个App编辑。",
+                    "wb_name": "@张拉灯_",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个App编辑。",
+                    "fans_total": "4751",
+                    "web_url": "http://image.wufazhuce.com/Ftljx61tLjt8NU-9P9umT998ryhe"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4212",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4212",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4212",
+                    "image": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                    "title": "别担心太多，日子会好的 作者/张拉灯、曲尚",
+                    "content": "把握时间，掌握方向。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 别担心太多，日子会好的",
+                        "desc": "文/张拉灯等二位 把握时间，掌握方向。",
+                        "link": "http://m.wufazhuce.com/article/4212?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 别担心太多，日子会好的",
+                        "desc": "文/张拉灯等二位 把握时间，掌握方向。",
+                        "link": "http://m.wufazhuce.com/article/4212?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 别担心太多，日子会好的》 文/张拉灯等二位： 把握时间，掌握方向。 阅读全文：http://m.wufazhuce.com/article/4212?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4212?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "别担心太多，日子会好的",
+                        "desc": "把握时间，掌握方向。",
+                        "link": "http://m.wufazhuce.com/article/4212?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "19843",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1111",
+                "title": "两次破碎·第十三章：知法犯法",
+                "forward": "热浪，尾气，烧烤烟。大笑，骂声，蛐蛐叫。这热闹网着所有开心的不开心的人。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 824,
+                "post_date": "2020-02-21 06:00:00",
+                "last_update_date": "2020-04-07 16:09:39",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第13章",
+                "number": "13",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1111",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1111",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1111",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第十三章：知法犯法 作者/连筑",
+                    "content": "热浪，尾气，烧烤烟。大笑，骂声，蛐蛐叫。这热闹网着所有开心的不开心的人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第十三章：知法犯法",
+                        "desc": "文/连筑 热浪，尾气，烧烤烟。大笑，骂声，蛐蛐叫。这热闹网着所有开心的不开心的人。",
+                        "link": "http://m.wufazhuce.com/serial/1111?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第十三章：知法犯法",
+                        "desc": "文/连筑 热浪，尾气，烧烤烟。大笑，骂声，蛐蛐叫。这热闹网着所有开心的不开心的人。",
+                        "link": "http://m.wufazhuce.com/serial/1111?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第十三章：知法犯法》 文/连筑： 热浪，尾气，烧烤烟。大笑，骂声，蛐蛐叫。这热闹网着所有开心的不开心的人。 阅读全文：http://m.wufazhuce.com/serial/1111?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1111?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第十三章：知法犯法",
+                        "desc": "热浪，尾气，烧烤烟。大笑，骂声，蛐蛐叫。这热闹网着所有开心的不开心的人。",
+                        "link": "http://m.wufazhuce.com/serial/1111?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19845",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2763",
+                "title": "如何拒绝别人的表白？",
+                "forward": "我始终认为在感情的问题上是容不得半点含糊的，喜欢就是喜欢，不喜欢就是不喜欢，一些话没说清楚，就变成了暧昧。",
+                "img_url": "http://image.wufazhuce.com/Fi0jFjT9hW-TObfZpHa8_smQg_Jk",
+                "like_count": 2856,
+                "post_date": "2020-02-21 06:00:00",
+                "last_update_date": "2020-02-20 12:01:43",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "风唰唰兮",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2763",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2763",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2763",
+                    "image": "http://image.wufazhuce.com/Fi0jFjT9hW-TObfZpHa8_smQg_Jk",
+                    "title": "如何拒绝别人的表白？",
+                    "content": "如何拒绝别人的表白？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何拒绝别人的表白？",
+                        "desc": "文/陈谌 别把惊吓当成是一种浪漫。",
+                        "link": "http://m.wufazhuce.com/question/2763?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何拒绝别人的表白？",
+                        "desc": "文/陈谌 别把惊吓当成是一种浪漫。",
+                        "link": "http://m.wufazhuce.com/question/2763?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何拒绝别人的表白？》 文/陈谌： 别把惊吓当成是一种浪漫。 阅读全文：http://m.wufazhuce.com/question/2763?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2763?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何拒绝别人的表白？",
+                        "desc": "别把惊吓当成是一种浪漫。",
+                        "link": "http://m.wufazhuce.com/question/2763?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "4813543",
+                    "user_name": "陈谌",
+                    "desc": "90后作者、吉他手。「一个」常驻作者。@陈谌CC",
+                    "wb_name": "@陈谌CC",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "90后作者、吉他手。「一个」常驻作者。@陈谌CC",
+                    "fans_total": "12777",
+                    "web_url": "http://image.wufazhuce.com/FuIlOQycjz4QtaQSTP-UfPXwb1FF"
+                }
+            },
+            {
+                "id": "19760",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3206",
+                "title": "我看见你还会心动，但我知道适可而止",
+                "forward": "这是我最后一次给你送东西，我决定不等了。",
+                "img_url": "http://image.wufazhuce.com/FkHcHnw3tgOBSdFhJKFIBDJjm4nL",
+                "like_count": 2666,
+                "post_date": "2020-02-21 06:00:00",
+                "last_update_date": "2020-02-20 23:58:56",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lsjpojTB6zNWTTzDDPiPFe0lYem5",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "只有我知道",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3206",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3206",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3206",
+                    "image": "http://image.wufazhuce.com/FkHcHnw3tgOBSdFhJKFIBDJjm4nL",
+                    "title": "「一个」音乐: 姜乐辛 只有我知道",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.2020年初，我再一次被分手，对方说我不够体贴懂事。仔细想来，似乎这么多年，我都少有超过一年的恋爱，每次都是几个月，到月末就分手，比工资发放还要固定。每次我的倾诉地点都在老顾身边，不管几点，只要我一哭，他都会开车来找我。年前在疫情还没开始大幅度增长时，我约老顾出来喝酒，这一年我们都不打算回老家过年，想着就在南京凑合着过。老顾答应了，原因和我一样，回去逃不掉长辈关心的感情生活，倒不如自己在南京待着，图个安静。我拉着老顾去我们常去的那家&ldquo;在梦里&rdquo;，进去坐在老位置上，点着平时爱喝的酒。在我谈恋爱的那段日子，我没跟老顾出来喝过酒，一来是怕男友吃醋，二来是老顾也没有约过我。今儿我们见面，他猜到是因为什么，但没主动开口问，而是拿着酒对我说：来，喝点，聊聊接下来打算换什么工作。&ldquo;换什么工作，我现在这工作做着挺好的，还不想换。&rdquo;我碰了碰老顾的酒杯。老顾笑道：你不是向来每份工作都只做几个月嘛，怎么这回转性了，想要稳定下来？其实老顾说得挺对，我这个人对什么都是三分钟热度，这几年我不知道换过多少份工作，每次换工作简直比换男朋友还勤快，不是我总是辞职，而是我始终不知道自己想要什么。&nbsp;2.上一任男友跟我分手时说了一句话，我觉着特对，他说我就是因为过于大爱，所以总会失去小爱。我太想什么事都做好，所以往往我连最简单的小事都没法做到完美。这次我想试着坚持这份工作，也许我真的能定下心呢。老顾往我的酒杯里面倒着酒，他说：&ldquo;乐辛，我不希望你太累，反正你不工作也没事，我又不是养不起你，这么多年，我也习惯你在我身边。&rdquo;听着老顾这话，我立马跳起来问老顾：怎么，嫌我图你这么多年的便宜嘛，你说你这也不谈个女朋友，整天跟我四处玩。还没等我说完，老顾就低着头，像是有什么话想说，却又不好意思开口。我拍着他的肩膀，一脸大哥样说：现在你都有瞒着我的心事了啊，以前你可什么都跟我说，今儿是怎么？看你满脸心事的样子，来说给你姜大爷听听看。&ldquo;姜大爷？姜乐辛，你这胆儿可是越来越肥了，也不知道是谁惯的你。&rdquo;看到老顾脸上露出笑容，我这顿骂也挨得值了。老顾拿着自己手中的酒，猛喝一口对我说：乐辛，我其实有很多话想对你说，你好好听我说，别打岔好吗？我大概能猜到他要说些什么，故意岔开话题说我想回家了，起身准备离开，谁知老顾直接握住我的手腕，我被弄得有些生疼，看着老顾这样也没再说要回去，默默回来继续坐下。&ldquo;老顾，你要给我介绍男朋友嘛？我这刚失恋，需要新欢来填补一下，你看看你身边有没有什么合适的，赶紧给我介绍介绍。&rdquo;&ldquo;不可能，乐辛，你想都别想。&rdquo;老顾一脸严肃看着我。这是我第一次见到如此正经的老顾，从前他就算喝再多酒，也不会这样跟我说话。&ldquo;乐辛，我想了很久，这些年我一直看着你谈恋爱，一会换这个，一会换那个，每次分手我都陪着你，我也不为别的，就是想让你开心点，别为了那些不值得的人难过。&rdquo;老顾说的这些话，我都知道，但老顾是我这么年唯一值得信赖的人，很多话我也只有跟他说。所以我不管是恋爱还是生活，老顾都知道的相当清楚。可能我们身边都会有这么个人的存在，你们不会成为恋人，你只希望你们能够做好朋友，以朋友的身份陪在对方身边一辈子。不是所有人都适合恋爱，也不是所有人都适合一起生活，有些人，他注定不能越界。我有时开玩笑说，要是我以后结婚，那一定不能介绍他跟老顾认识，不然我怕这婚结不成。&nbsp;3.我问老顾：&ldquo;老顾，你说这么多年，我怎么就没被人温柔以待过呢，也没人一直爱我。&rdquo;&ldquo;不是的乐辛，很多时候我都在想，你总归是要谈恋爱，那为什么我不可以呢？你喜欢婚纱，我可以满足你，你想要结婚，我也可以，这么多年，我始终在你身后陪着，现在我想换种身份继续爱你，我想在你左右给你肩膀。&rdquo;虽然我早有预感，我妈也提醒过我老顾对我的感情，但我不愿意将我们的情谊往爱情上面想，我是写情感故事的，再清楚不过一旦友情变爱情，那会是什么样的结局。倒不是说，友情变爱情不好是肯定句，而是在我们之间，这是肯定句。我们的性格像是两个极端，老顾稳重，我爱玩，我喜欢听的甜言蜜语，老顾也都不会说，浪漫的事老顾也不会做。他所有的关心都放在行动上，他会给我做好吃的，会在我最需要他的时候陪在我身边，但我始终拿老顾当好朋友，我从未想过，我们会有些什么，有些时候，我甚至会适当保持距离。偶尔我妈给我打电话问起老顾，他正好在身边还会跟我妈唠唠嗑，后来他俩为了方便交流，加了个微信。老顾说完那些后，看着我的眼睛问我是怎么想的。我躲闪着他的眼神，实在没法当面拒绝他，我们认识了20年，我不知道该怎么面对这段友情成爱情的故事。但我也清楚，如果我不给老顾一个回答，那对我们都不公平。我总不能不喜欢人家还耗着人家，我知道那种心酸感，所以不希望老顾也体会到。终于，在我开口准备说的时候，老顾放弃了追问，他说他不想听，也许没有答案才是最好的答案。&nbsp;4.其实老顾谈到婚纱和结婚，我当时很想告诉他，这一切的前提都要是因为爱情，我向来不是为了恋爱而去恋爱，我的每段恋爱都是以结婚为目的去的，只是后来都没有缘分，从而散场。可即使是这样，我也未曾怪过什么，不过是偶尔抱怨几句，因为我知道那些都会是我的经历，都是我必须要去接受和面对的。我不希望我的婚姻是因为合适，而少了爱情。那样就算我们真的结婚了，我想我们也都不会快乐，倘若说搭伙过日子，那我们确实是最完美的搭档，但我们真的想要这样的生活吗？一定不是的。起码我是不想要的，我还在幻想我下一段恋爱和未来的婚礼场景。那天，我跟老顾在酒吧聊到很晚，只是后来我们谁都没再提爱情，也都默契地没再提那个问题。老顾送我回到家后，一个人走了回去。等我醒来时，接到了我妈的电话。我妈说，她年轻的时候如果碰到一个像老顾一样的男人，也许她就真的嫁了。但无论我做出怎样的选择，她都支持我，她希望我是因为爱而嫁人，而不是年龄到了，有合适的人选。原来那晚老顾跟我说那些话，手机正在跟我妈通话中，老顾担心自己说不出口，就想着找我妈来壮壮胆，我妈也很配合他，认认真真听完了我们的对话。我妈语重心长的告诉我：婚姻是一生中比较重要的选择，她会帮我参考，但不会替我做决定，因为那关系到我的人生。至于我跟老顾，后来很少再说话，我不敢联系他是碍于愧疚，他对我来说是最重要的朋友，我总不能图几时欢乐，就要永远失去一个朋友。我相信老顾会遇到真的适合他的女生，他的女孩会是善解人意，深情专一的好姑娘。&nbsp;5.年三十那晚，老顾来给我送口罩，他说：&ldquo;这是我最后一次给你送东西，我想了很久，我还是不等了。以后你要照顾好自己。&rdquo;老顾的决定没错，这样我倒是也坦然些，也是那天我才明白，有些话一旦说出口，这段感情就真的再也回不到从前。他拉黑了我所有的联系方式，我刚翻翻他的微博，看他发的动态，突然想起我们认识的那些年，生活中有的种种美好，可这一切都回不去了。有时我也会想，如果我们之间真的只是朋友，没有产生任何爱意，那会不会，现在还能坐一起喝茶聊天呢？我不知道，但也许会吧。此时手机日历弹出一条消息：明天老顾生日。我关掉手机，闭上眼睛，我做了个梦，梦到去年他生日那天，给我发了一串小作文，中心思想是：祝姜乐辛平安喜乐，拥有快乐。我问他今年有什么愿望，他说去年的还没实现，今年还是去年的愿望。那，祝我平安喜乐，拥有快乐。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我看见你还会心动，但我知道适可而止",
+                        "desc": "文/姜乐辛 我的生日愿望是：祝你快乐。",
+                        "link": "http://m.wufazhuce.com/music/3206?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我看见你还会心动，但我知道适可而止",
+                        "desc": "文/姜乐辛 我的生日愿望是：祝你快乐。",
+                        "link": "http://m.wufazhuce.com/music/3206?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我看见你还会心动，但我知道适可而止》 文/姜乐辛： 我的生日愿望是：祝你快乐。 阅读全文：http://m.wufazhuce.com/music/3206?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3206?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我看见你还会心动，但我知道适可而止",
+                        "desc": "我的生日愿望是：祝你快乐。",
+                        "link": "http://m.wufazhuce.com/music/3206?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "只有我知道",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "童党乐队",
+                "audio_album": "只有我知道",
+                "cover": "http://image.wufazhuce.com/FhrseoQ7nBZ2E49t0kuhHKHNJwIY",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2694",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4207",
+                    "title": "悲艳"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4212",
+                    "title": "别担心太多，日子会好的",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1111",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第十三章：知法犯法"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2763",
+                    "title": "如何拒绝别人的表白？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3206",
+                    "title": "我看见你还会心动，但我知道适可而止"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

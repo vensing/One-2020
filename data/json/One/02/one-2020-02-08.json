@@ -1,0 +1,621 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5405",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-08 06:00:00",
+        "content_list": [
+            {
+                "id": "19748",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2722",
+                "title": "摄影",
+                "forward": "时代的一粒灰，落在个人头上，就是一座山。",
+                "img_url": "http://image.wufazhuce.com/FqHTMjFQ7wT8FQasOhUpNz0GfrGf",
+                "like_count": 20061,
+                "post_date": "2020-02-08 06:00:00",
+                "last_update_date": "2020-02-07 10:48:45",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2681",
+                "pic_info": "Dev Patel",
+                "words_info": "方方",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2722",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2722",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2722",
+                    "image": "http://image.wufazhuce.com/FqHTMjFQ7wT8FQasOhUpNz0GfrGf",
+                    "title": "VOL.2681",
+                    "content": "时代的一粒灰，落在个人头上，就是一座山。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2722?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2722?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 时代的一粒灰，落在个人头上，就是一座山。——方方 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2722?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2722?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19720",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4184",
+                "title": "失落的爱情",
+                "forward": "她的目光宛如在水中央，声音仿佛经过漫长旅行的星光。这么多年，才到达。",
+                "img_url": "http://image.wufazhuce.com/FkhpjuL5ayUTGH2CzFZJK8teFvhO",
+                "like_count": 2737,
+                "post_date": "2020-02-08 06:00:00",
+                "last_update_date": "2020-02-08 07:20:41",
+                "author": {
+                    "user_id": "10289655",
+                    "user_name": "张涯舞",
+                    "desc": "外科医生，业余写小说，伪摄影师，附庸风雅者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "附庸风雅者。",
+                    "fans_total": "424",
+                    "web_url": "http://image.wufazhuce.com/Fl2HH7Mh12AuK_3vBJKIVmjdGQJl"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4184",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4184",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4184",
+                    "image": "http://image.wufazhuce.com/FkhpjuL5ayUTGH2CzFZJK8teFvhO",
+                    "title": "失落的爱情 作者/张涯舞",
+                    "content": "她的目光宛如在水中央，声音仿佛经过漫长旅行的星光。这么多年，才到达。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 失落的爱情",
+                        "desc": "文/张涯舞 她的目光宛如在水中央，声音仿佛经过漫长旅行的星光。这么多年，才到达。",
+                        "link": "http://m.wufazhuce.com/article/4184?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 失落的爱情",
+                        "desc": "文/张涯舞 她的目光宛如在水中央，声音仿佛经过漫长旅行的星光。这么多年，才到达。",
+                        "link": "http://m.wufazhuce.com/article/4184?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 失落的爱情》 文/张涯舞： 她的目光宛如在水中央，声音仿佛经过漫长旅行的星光。这么多年，才到达。 阅读全文：http://m.wufazhuce.com/article/4184?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4184?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "失落的爱情",
+                        "desc": "她的目光宛如在水中央，声音仿佛经过漫长旅行的星光。这么多年，才到达。",
+                        "link": "http://m.wufazhuce.com/article/4184?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19753",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4190",
+                "title": "这一次，我们不退",
+                "forward": "越是凶险越是携手同心、勇往直前！",
+                "img_url": "http://image.wufazhuce.com/FuWKxu7ArnjGaF8zFhWLxJxa6N3S",
+                "like_count": 3339,
+                "post_date": "2020-02-08 06:00:00",
+                "last_update_date": "2020-02-08 01:49:03",
+                "author": {
+                    "user_id": "5631435",
+                    "user_name": "ONE·一个 ",
+                    "desc": "ONE 是由韩寒监制的文艺生活应用，覆盖摄影、插画、小说、问答、音乐、电影等，精挑细选，每日更新。",
+                    "wb_name": "@一个App工作室",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "ONE·一个 是由韩寒监制的文艺生活应用",
+                    "fans_total": "5566",
+                    "web_url": "http://image.wufazhuce.com/FvSMJiVyijX8G4BFHwhvDprO5yvW"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4190",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4190",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4190",
+                    "image": "http://image.wufazhuce.com/FuWKxu7ArnjGaF8zFhWLxJxa6N3S",
+                    "title": "这一次，我们不退 作者/ONE·一个 ",
+                    "content": "越是凶险越是携手同心、勇往直前！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 这一次，我们不退",
+                        "desc": "文/ONE·一个  越是凶险越是携手同心、勇往直前！",
+                        "link": "http://m.wufazhuce.com/article/4190?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 这一次，我们不退",
+                        "desc": "文/ONE·一个  越是凶险越是携手同心、勇往直前！",
+                        "link": "http://m.wufazhuce.com/article/4190?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 这一次，我们不退》 文/ONE·一个 ： 越是凶险越是携手同心、勇往直前！ 阅读全文：http://m.wufazhuce.com/article/4190?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4190?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "这一次，我们不退",
+                        "desc": "越是凶险越是携手同心、勇往直前！",
+                        "link": "http://m.wufazhuce.com/article/4190?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19747",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1100",
+                "title": "世界得了健忘症·第五章：戳破",
+                "forward": "我决心和他一起背负欲望的十字架。不是只有他戳破我，我也可以戳破他。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 903,
+                "post_date": "2020-02-08 06:00:00",
+                "last_update_date": "2020-02-06 16:05:17",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第5章",
+                "number": "5",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1100",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1100",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1100",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第五章：戳破 作者/昔央",
+                    "content": "我决心和他一起背负欲望的十字架。不是只有他戳破我，我也可以戳破他。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第五章：戳破",
+                        "desc": "文/昔央 我决心和他一起背负欲望的十字架。不是只有他戳破我，我也可以戳破他。",
+                        "link": "http://m.wufazhuce.com/serial/1100?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第五章：戳破",
+                        "desc": "文/昔央 我决心和他一起背负欲望的十字架。不是只有他戳破我，我也可以戳破他。",
+                        "link": "http://m.wufazhuce.com/serial/1100?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第五章：戳破》 文/昔央： 我决心和他一起背负欲望的十字架。不是只有他戳破我，我也可以戳破他。 阅读全文：http://m.wufazhuce.com/serial/1100?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1100?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第五章：戳破",
+                        "desc": "我决心和他一起背负欲望的十字架。不是只有他戳破我，我也可以戳破他。",
+                        "link": "http://m.wufazhuce.com/serial/1100?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19751",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2750",
+                "title": "生活太苦，如何给生活加块糖？",
+                "forward": "我们最大的光荣，不在于我们从不跌倒，而是无论我们跌倒多少次，都能坚强地爬起来，还能更好地走下去。",
+                "img_url": "http://image.wufazhuce.com/Fl5I0y8dMapn_6paGiG5YSMWS1Wm",
+                "like_count": 2638,
+                "post_date": "2020-02-08 06:00:00",
+                "last_update_date": "2020-02-07 15:44:17",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "三只皮卡丘",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2750",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2750",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2750",
+                    "image": "http://image.wufazhuce.com/Fl5I0y8dMapn_6paGiG5YSMWS1Wm",
+                    "title": "生活太苦，如何给生活加块糖？",
+                    "content": "生活太苦，如何给生活加块糖？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 生活太苦，如何给生活加块糖？",
+                        "desc": "文/Seasee Youl 苦避不开，糖也少不了。",
+                        "link": "http://m.wufazhuce.com/question/2750?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 生活太苦，如何给生活加块糖？",
+                        "desc": "文/Seasee Youl 苦避不开，糖也少不了。",
+                        "link": "http://m.wufazhuce.com/question/2750?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 生活太苦，如何给生活加块糖？》 文/Seasee Youl： 苦避不开，糖也少不了。 阅读全文：http://m.wufazhuce.com/question/2750?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2750?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "生活太苦，如何给生活加块糖？",
+                        "desc": "苦避不开，糖也少不了。",
+                        "link": "http://m.wufazhuce.com/question/2750?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10407227",
+                    "user_name": "Seasee Youl",
+                    "desc": "专栏作家  知乎大V  微信公众号：第四条鱼",
+                    "wb_name": "@Seasee Youl",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "专栏作家  微信公众号：第四条鱼",
+                    "fans_total": "3952",
+                    "web_url": "http://image.wufazhuce.com/FoTw-1O5lVdpEQ6pNSlwJ92GyvUI"
+                }
+            },
+            {
+                "id": "19750",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1950",
+                "title": "那么奋不顾身吧！那么纵身一跃吧！",
+                "forward": "我们终究无法改变命运，只能与其抗争。",
+                "img_url": "http://image.wufazhuce.com/Ftou-O5Jt-vF7Hxfrncyd-aRjNVI",
+                "like_count": 2388,
+                "post_date": "2020-02-08 06:00:00",
+                "last_update_date": "2020-02-07 16:10:30",
+                "author": {
+                    "user_id": "7867217",
+                    "user_name": "MENG",
+                    "desc": "MENG，MeRead读书会创办人，不务正业写作者。",
+                    "wb_name": "@萌之刺刺",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：MeRead",
+                    "fans_total": "4470",
+                    "web_url": "http://image.wufazhuce.com/FtmFi0r5J7VmcqNwE-PyOxxm91LL"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "我失去了身体",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4933",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1950",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1950",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1950",
+                    "image": "http://image.wufazhuce.com/Ftou-O5Jt-vF7Hxfrncyd-aRjNVI",
+                    "title": "「一个」电影: 我失去了身体",
+                    "content": "2020的春节，注定要成为一个特殊的回忆。冠状病毒蔓延，街道空无一人，窗外死寂一片，多年以后想起，不知道会是什么感受？大年初一的晚上，独自在家的我，看了一部2019年的动画片《我失去了身体》，没想到竟然被治愈。故事讲述了一只手寻找主人的历程。很魔幻的视角，但画风却意外写实，全片冷色调，幽幽蓝蓝。故事背景设在上世纪90年代的巴黎，年代感更拉开了距离，但看完会有一丝丝温暖涌上心头。&nbsp;01一只手的流浪这是一部法国动画，但主人公却是一名亚裔。他的名字叫Naoufel&mdash;&mdash;我说得不准确，主人公是Naoufel的右手。片名中的&ldquo;我&rdquo;，是那只手。多么奇怪的视角。以一只脱离了身体的手的视角来讲故事，便注定了它的不平凡。这只手出现在巴黎的某个实验室中，它试图逃脱实验室，去寻找自己的主人。手像是一只拥有独立人格和肢体的小动物，它用手指充当腿脚，躲避了工作人员，逃开行人的视线，逃到大街上，又在天台、垃圾车、番茄罐头、地铁轨道中颠沛流离，摸爬滚打。动画片的想象力在这里发挥到了极致。你会怎么去想象一只手的流浪？没有人会知道，但动画却&ldquo;忠实&rdquo;地表现出了一个低微的视角，它毫不起眼，却又足够诡异，人类社会对它来说危机四伏，动物也对它并不友好。它跌跌撞撞，身不由己。它会在地铁轨道下遭到老鼠们的攻击，在天台上与鸽子搏斗，它会不堪蚂蚁的骚扰，它更怕被人发现而不得不东躲西藏，但仍试图回到主人的身边&hellip;&hellip;&nbsp;02卑微的过往与爱情在手的记忆闪回中，我们了解了手的主人&mdash;&mdash;那个叫Naoufel的男生。童年的Naoufel热爱音乐，整天戴着耳机。他曾经渴望成为钢琴家，成为宇航员。童年的手曾经试图去抓住苍蝇，试图去弹出一首歌，然而奇迹并没有出现，生命更多是无奈&mdash;&mdash;命运就像那只Naoufel从小就无法抓住的苍蝇，一次次的挫折是男孩，也是手的深刻记忆。年幼的Naoufel和父母出门时经历了一场车祸，他因此失去双亲，成为了孤儿。唯一留下的，是他用磁带录下的家庭录音。他没能成为钢琴家，也没能成为宇航员，长大后的Naoufel，成为了一名披萨外卖员，可他总是耽误送货时间，被老板骂。一次偶然，他又送迟了外卖，在大楼底下的对讲机中，和点单的女孩有了一些不太愉快的对话。外面下起了雨，他发现披萨早已撞烂，就干脆请她退单，自己坐在楼下啃着那份披萨。女孩似乎发现了他的处境，便不再责怪，反而陪他聊起了天。他得知女孩叫Gabrielle，在图书馆工作。为了能接近这个素未谋面的女孩，Naoufel去图书馆借书，好不容易见到了Gabrielle，她并非多么美丽，却很善良，工作的同时照顾着她的叔叔&mdash;&mdash;一名木匠。Naoufel因此偷偷撕下木匠招徒的告示，恳求女孩的叔叔收他为徒，反正他早已不想当外卖小哥了。用这么曲折的方式去追一个女孩，只因Naoufel是自卑的，用自己的行动去打动她，是他为自己平凡的爱情唯一能做的事。学会木工之后，他在屋顶做了一间&ldquo;冰屋&rdquo;&mdash;&mdash;Gabrielle曾经提起过。03失去了手，失去了爱情他邀请Gabrielle去冰屋喝酒，女孩欣然允诺。然而温馨的爱情并没有发生。Naoufel点了一份披萨，他记住了Gabrielle喜欢的口味，本以为这份用心会打动她。可是Gabrielle在发现他就是那个外卖小哥的时候，一下子不再信任他&mdash;&mdash;并不是她不感动，而是她害怕这种刻意营造浪漫的情节，是对爱情的亵渎。被Gabrielle拒绝之后，Naoufel六神无主，他喝得醉醺醺的，和挑衅他的人打了一架，然后回到了木工车床上工作。这段情节渲染得太好，让我简直不敢看屏幕&mdash;&mdash;你已经猜到了Naoufel是如何弄伤了自己，割断了右手，你知道了手是怎样失去主人的。然而镜头只在车床和Naoufel无神的双眼之间交替，你同时体会着Naoufel失恋的悲伤，又担心着接下来会发生的一切。这一幕太令人揪心，哪怕你知道这只是动画&mdash;&mdash;不，这并不能安慰人，因为你已经接受了设定，进入了&ldquo;手&rdquo;的内心，你学会了用一只手的视角去看世界，你突然懂得了一些之前不会懂的事情：要爱自己，爱每一个细胞，每一根血管，因为它们都是你的一部分！当Naoufel失去了他的右手，Gabrielle也失去了Naoufel，这个她所喜爱和亲近的朋友。得知Naoufel的事故，她的心情可想而知，她来到叔叔给Naoufel寄宿的阁楼，看到了柜子里的冰屋模型&mdash;&mdash;当然这一切，都是从手的视角&ldquo;看见&rdquo;的。&nbsp;04奋不顾身的一跃Gabrielle来到了天台，此时已是大雪过后，冰屋还在，却仍然找不到Naoufel的身影。地上有一套录音设备，戴上耳机，倒带-暂停-播放&hellip;&hellip;Gabrielle似乎若有所知，在录音的最后，记录的是一连串清晰的呼吸声和脚步声，由声音还原出了Naoufel最后的冒险&mdash;&mdash;他试图从天台上，跳到对面施工起重机的平台上。听觉是比视觉更重要的信息接收感官，因为视觉只有180&deg;，是有限的，而听觉是360&deg;的，它所能承载的信息更全面，更大，它所能还原的情境也更真实。在这部电影中，音乐和音响效果做得如此之好，以至于闭上眼睛，你也仿佛能&ldquo;看到&rdquo;情节的推进，就像Naoufel在空中的一跃。在此之前，Naoufel曾经问Gabrielle：你相信命运吗？她给出的答案是：我们以为可以改变命运的想法，是个错觉。除非我们做出完全不可预测和不可理喻的事情，才是唯一能永久解开魔咒的方法。于是我们和Gabrielle一同，理解了Naoufel那一跃的意图：逃离自己不幸的，满是挫折的命运。这冒险的一跃不只是一个失去右臂的男孩想要证明自己，更是Naoufel发誓要做自己命运的主人，不畏惧甚至要失去生命的可能。幸运的是，他成功了。Gabrielle听见了录音机里传来他释然的喘息，充满成功的喜悦，却又非常平静。她心中的愧疚和难过也随着这段录音而释怀了吧。05真正的成长手的冒险到此也即将结束了，也许Naoufel永远不会知道他的手经历了什么，但我们却可以通过手的行为感受到它的主人那份执着和勇气。影片中有一个镜头给我留下深刻印象，那是在某座高楼的楼顶，手追随着一个神出鬼没的涂鸦者，看到他在楼的外立面刷上了&ldquo;我在这里&rdquo;这几个大字。他走后，手走了过去，它站在那里，就在那一行字之上&mdash;&mdash;我在这里。这正是我们需要时时提醒自己的，作为主体性的这个&ldquo;我&rdquo;，才是生命的见证者和生命的主人。在这个不平凡的年假里，我们也许失去了一些乐趣，失去了一些自由，甚至失去健康，但我们无论如何不应该失去的，是信心和希望。如果你感到沮丧，不妨看看这部动画，你会发现，任何经历都是可贵的。并非Naoufel的一跃之后，他的命运就真的会发生奇迹般的转折，也许他这辈子注定无法成为钢琴家和宇航员，但是他不再困于自己失去了右手，失去了父母，失去了梦想，失去可能的爱情。而是站起来，面对困厄，重拾信心，这才是真正的成长，这才是真正的治愈。经历蜕变，确立自我。因为&ldquo;我在这里&rdquo;。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 那么奋不顾身吧！那么纵身一跃吧！",
+                        "desc": "文/MENG 我们终究无法改变命运，只能与其抗争。",
+                        "link": "http://m.wufazhuce.com/movie/1950?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 那么奋不顾身吧！那么纵身一跃吧！",
+                        "desc": "文/MENG 我们终究无法改变命运，只能与其抗争。",
+                        "link": "http://m.wufazhuce.com/movie/1950?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 那么奋不顾身吧！那么纵身一跃吧！》 文/MENG： 我们终究无法改变命运，只能与其抗争。 阅读全文：http://m.wufazhuce.com/movie/1950?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1950?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "那么奋不顾身吧！那么纵身一跃吧！",
+                        "desc": "我们终究无法改变命运，只能与其抗争。",
+                        "link": "http://m.wufazhuce.com/movie/1950?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2681",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4184",
+                    "title": "失落的爱情"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4190",
+                    "title": "这一次，我们不退",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1100",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第五章：戳破"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2750",
+                    "title": "生活太苦，如何给生活加块糖？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1950",
+                    "title": "那么奋不顾身吧！那么纵身一跃吧！"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

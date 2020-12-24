@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5597",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-08-14 06:00:00",
+        "content_list": [
+            {
+                "id": "20905",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2910",
+                "title": "摄影",
+                "forward": "“您如何面对生活的磨难？”\r\n“每天上午洗澡和早餐前刮脸，以便随时远走高飞。”\r\n",
+                "img_url": "http://image.wufazhuce.com/FpNldzm8AZKWNPsEgbBAoOpiZs1r",
+                "like_count": 15201,
+                "post_date": "2020-08-14 06:00:00",
+                "last_update_date": "2020-08-13 11:09:54",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2869",
+                "pic_info": "Shwetha Shankar",
+                "words_info": "纳博科夫",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2910",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2910",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2910",
+                    "image": "http://image.wufazhuce.com/FpNldzm8AZKWNPsEgbBAoOpiZs1r",
+                    "title": "VOL.2869",
+                    "content": "“您如何面对生活的磨难？”\r\n“每天上午洗澡和早餐前刮脸，以便随时远走高飞。”\r\n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2910?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2910?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 “您如何面对生活的磨难？”\r\n“每天上午洗澡和早餐前刮脸，以便随时远走高飞。”\r\n——纳博科夫 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2910?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2910?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20902",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4413",
+                "title": "拍卖会",
+                "forward": "“我们不喜欢这个陈旧的时代，正如即将到来的新时代也不会喜欢我们。”",
+                "img_url": "http://image.wufazhuce.com/FkcA5PVvHrmZCLr4JbM78lK1w8yZ",
+                "like_count": 2011,
+                "post_date": "2020-08-14 06:00:00",
+                "last_update_date": "2020-08-14 09:44:08",
+                "author": {
+                    "user_id": "4814747",
+                    "user_name": "张寒寺",
+                    "desc": "小说作者，编剧。新书《我们这个世界的羊》已上市。",
+                    "wb_name": "@张寒寺",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说作者，编剧。新书《我们这个世界的羊》",
+                    "fans_total": "24103",
+                    "web_url": "http://image.wufazhuce.com/FlJ2uKL9qGrmdsyWZr_CmOwg_kjt"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4413",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4413",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4413",
+                    "image": "http://image.wufazhuce.com/FkcA5PVvHrmZCLr4JbM78lK1w8yZ",
+                    "title": "拍卖会 作者/张寒寺",
+                    "content": "不理解发生了什么，对它来说是一种仁慈。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 拍卖会",
+                        "desc": "文/张寒寺 不理解发生了什么，对它来说是一种仁慈。",
+                        "link": "http://m.wufazhuce.com/article/4413?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 拍卖会",
+                        "desc": "文/张寒寺 不理解发生了什么，对它来说是一种仁慈。",
+                        "link": "http://m.wufazhuce.com/article/4413?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 拍卖会》 文/张寒寺： 不理解发生了什么，对它来说是一种仁慈。 阅读全文：http://m.wufazhuce.com/article/4413?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4413?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "拍卖会",
+                        "desc": "不理解发生了什么，对它来说是一种仁慈。",
+                        "link": "http://m.wufazhuce.com/article/4413?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20847",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1267",
+                "title": "维多利亚的派对·第二十五章：宣战之歌",
+                "forward": "在这个世界，杀人从来不用刀。",
+                "img_url": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                "like_count": 846,
+                "post_date": "2020-08-14 06:00:00",
+                "last_update_date": "2020-08-03 17:49:53",
+                "author": {
+                    "user_id": "9618188",
+                    "user_name": "吴沚默",
+                    "desc": "编剧，TVB演员。",
+                    "wb_name": "@吳沚默momo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，TVB演员。",
+                    "fans_total": "4493",
+                    "web_url": "http://image.wufazhuce.com/Fo5OsUHwTVzmosA0MtZMBJV9tOWs"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第25章",
+                "number": "25",
+                "serial_id": "86",
+                "serial_list": [
+                    "1215",
+                    "1217",
+                    "1218",
+                    "1219",
+                    "1220",
+                    "1225",
+                    "1226",
+                    "1227",
+                    "1228",
+                    "1232",
+                    "1233",
+                    "1234",
+                    "1235",
+                    "1236",
+                    "1237",
+                    "1238",
+                    "1239",
+                    "1260",
+                    "1261",
+                    "1262",
+                    "1263",
+                    "1264",
+                    "1265",
+                    "1266",
+                    "1267",
+                    "1268",
+                    "1269"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1267",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1267",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1267",
+                    "image": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                    "title": "维多利亚的派对·第二十五章：宣战之歌 作者/吴沚默",
+                    "content": "在这个世界，杀人从来不用刀。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 维多利亚的派对·第二十五章：宣战之歌",
+                        "desc": "文/吴沚默 在这个世界，杀人从来不用刀。",
+                        "link": "http://m.wufazhuce.com/serial/1267?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 维多利亚的派对·第二十五章：宣战之歌",
+                        "desc": "文/吴沚默 在这个世界，杀人从来不用刀。",
+                        "link": "http://m.wufazhuce.com/serial/1267?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 维多利亚的派对·第二十五章：宣战之歌》 文/吴沚默： 在这个世界，杀人从来不用刀。 阅读全文：http://m.wufazhuce.com/serial/1267?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1267?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "维多利亚的派对·第二十五章：宣战之歌",
+                        "desc": "在这个世界，杀人从来不用刀。",
+                        "link": "http://m.wufazhuce.com/serial/1267?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20901",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2943",
+                "title": "什么事让你觉得“人心不可测”？",
+                "forward": "我们遨游宇宙，却无法走进一个人内心的宇宙。",
+                "img_url": "http://image.wufazhuce.com/FjWrVcNM1TntnTvDfx9hrKcAYX81",
+                "like_count": 2844,
+                "post_date": "2020-08-14 06:00:00",
+                "last_update_date": "2020-08-14 10:13:35",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "注视深渊的尼采",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2943",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2943",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2943",
+                    "image": "http://image.wufazhuce.com/FjWrVcNM1TntnTvDfx9hrKcAYX81",
+                    "title": "什么事让你觉得“人心不可测”？",
+                    "content": "什么事让你觉得“人心不可测”？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 什么事让你觉得“人心不可测”？",
+                        "desc": "文/Seasee Youl 我们遨游宇宙，却无法走进一个人内心的宇宙。",
+                        "link": "http://m.wufazhuce.com/question/2943?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 什么事让你觉得“人心不可测”？",
+                        "desc": "文/Seasee Youl 我们遨游宇宙，却无法走进一个人内心的宇宙。",
+                        "link": "http://m.wufazhuce.com/question/2943?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 什么事让你觉得“人心不可测”？》 文/Seasee Youl： 我们遨游宇宙，却无法走进一个人内心的宇宙。 阅读全文：http://m.wufazhuce.com/question/2943?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2943?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "什么事让你觉得“人心不可测”？",
+                        "desc": "我们遨游宇宙，却无法走进一个人内心的宇宙。",
+                        "link": "http://m.wufazhuce.com/question/2943?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10407227",
+                    "user_name": "Seasee Youl",
+                    "desc": "专栏作家  知乎大V  微信公众号：第四条鱼",
+                    "wb_name": "@Seasee Youl",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "专栏作家  微信公众号：第四条鱼",
+                    "fans_total": "3952",
+                    "web_url": "http://image.wufazhuce.com/FoTw-1O5lVdpEQ6pNSlwJ92GyvUI"
+                }
+            },
+            {
+                "id": "20894",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3309",
+                "title": "我的求而不得，也未必是遗憾",
+                "forward": "这是个浪漫的说法，今珞珈想用这种浪漫掩饰这段关系的罪恶。",
+                "img_url": "http://image.wufazhuce.com/FnQ0S_6Ylz9j3eypTReDFBiWey2-",
+                "like_count": 1592,
+                "post_date": "2020-08-14 06:00:00",
+                "last_update_date": "2020-11-02 11:43:26",
+                "author": {
+                    "user_id": "11431295",
+                    "user_name": "焦雨溪",
+                    "desc": "一个怕冷的人，前十八年一直生活在只有冬夏没有春秋的山城，后来大学去了永无冬日的南洋岛。不喜欢走马观花，想虔诚生活。 \r\n河北省作家协会会员。2015年获“会师四”90后全国创意小说战全国60强，蔡骏组前三。2017年第十九届新概念C组入围。2018年出版个人小说集《山宇河宙》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "隐性温柔家，相信生活才需要天赋。",
+                    "fans_total": "481",
+                    "web_url": "http://image.wufazhuce.com/FoLq205PUG4M6pbAa88vBKfONeZA"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/FnCqMVJhtOIaLXHQuma-9pBoTcEN",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "如你",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3309",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3309",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3309",
+                    "image": "http://image.wufazhuce.com/FnQ0S_6Ylz9j3eypTReDFBiWey2-",
+                    "title": "「一个」音乐: 焦雨溪 如你",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  今珞珈睡醒时已经是正午了。太阳挂在空中，像块硕大的火炭，透过纱帘照得她后背疼。裸睡就这点不好，踹了被子就完全暴露了，晒冻全凭天气。她翻滚到双人床另一端的阴凉处，打开手机给刘老师发消息：今天喝什么咖啡？手机很快响了，刘老师的回复框中写着：美式。今珞珈欢呼着伸了个懒腰，披上睡袍去洗澡。进浴室之前她随意抓了一把咖啡豆，扔进了自动咖啡机。城郊的别墅区，绝不是今珞珈这种大学刚毕业的女孩住得起的。一年前她被刘老师安置在了这里，进房的第一天，卧室床头还煞有介事地贴了个大喜字。今珞珈抱住刘老师说：&ldquo;来，做我的另一半。&rdquo;这是个浪漫的说法，今珞珈想用这种浪漫掩饰这段关系的罪恶。但刘老师似乎很认真地考虑了这句话。狂热的欢乐后，他将今珞珈搂在怀里，喘着粗气，中年人的啤酒肚起起伏伏。稍平静一些后，他吻着今珞珈的额头回答她说：&ldquo;做另一半也不是不可以，如果你怀孕了，我马上离婚，放心。&rdquo;然后刘老师服下一片药，他有多年的脑梗塞，算是常年喝酒应酬的隐形勋章。今珞珈点点头，离婚这件事她相信刘老师可以处理得很完美，他是个律师，帮许多客户毫无压力地脱离过婚姻关系。她轻轻咬他下巴，撒娇地把刘老师的手放在自己的额头，刘老师买账地抚摸了她的碎发。&ldquo;刘老师&rdquo;这个称呼来得很有意义。刚毕业时，揣着做律师的梦，今珞珈进了本市最大的律所实习。自以为过了司法考试，再熬几年就能成为收入颇丰的律师，但熬了半年后实在是没什么进展，甚至快要租不起房了。焦虑之下她找到刘老师取经。那时她还不叫他刘老师，得随着大家，喊他刘律。他是律所的合伙人之一，今珞珈的顶头上司，手下有近一百个今珞珈这样的&ldquo;小助手&rdquo;。今珞珈不知道为什么自己能厚着脸皮，走进那间最中心的办公室。她心里有个莫名的把握，这个每天在公司不苟言笑的西装上司，一定愿意为自己提供些帮助。凭什么？就凭每次开会时，她战战兢兢打报告，他总会认真看她，偶尔还歪头听得很认真的样子。今珞珈把这理解为赏识，毕竟今珞珈目前还没发现他这样看过别人。或许自己就是有什么尚未被发掘的才华呢？后来，他们有几次约在远离公司的咖啡厅，一个小包间。他面前摆一杯美式，耐心听今珞珈絮叨她的烦恼，双手交叉，放在他笔挺的西裤上，偶尔说点建议。后来几次约在那栋房子里，还有时是酒店。正式住进别墅那天，今珞珈被要求改口叫他刘老师。好像他老婆是他任职大学老师期间的学生，小他不少。别墅里摆着许多法律书籍，上面甚至有他太太学生时期的笔记，今珞珈逼自己看过那些书，但没过两个月就发现自己看不进去了。可能男人都爱女学生吧，我也不过是个女学生。今珞珈辞职后，好多次躺在床上，抚摸着自己平坦的小腹和饱满的胸部，计算着它什么时候会变肥，或者因为生育长出断裂纹，不再像个女学生的小腹和胸部，然后这一切就会结束。他们藏得很好，设计的暗号里有股克制的浪漫。今珞珈装成公司的实习生，每天发短信问刘老师：今天喝什么咖啡？以初次相遇的美式代表相约，如果刘老师回复了美式，就代表，今天家里很苦，去你那里甜一下。泡沫丰富的卡布奇诺代表，今天很想你，但是老婆这里说不过去，梦里相见吧！蓝山和绿山代表工作很忙，没办法见面。如果发了没回复，也别催促，免得让老婆起疑。律所不忙时，刘老师通常一周&ldquo;美式&rdquo;三到四次。有大案子时，一周要&ldquo;绿山&rdquo;五天。春节时，根据刘老师的要求，今珞珈过完年没几天就跑回来待命，却还是因为刘老师老婆的亲戚总去他家吃饭，&ldquo;卡布奇诺&rdquo;了十天之久，作为补偿，刘老师送了今珞珈一台玛莎拉蒂。夏末时，今珞珈参加了大学同学会。作为法学班中第一批通过法考的优等生，导员和同学少不了问候。她不想开着刘老师送的玛莎拉蒂，一下穿进大家的视线，步行去了饭店。觥筹交错间，她与老同学们一杯杯喝着酒，勉强附和那些法律行业的话题。她发觉刘老师的保护像给她穿了金钟罩，不知道是酒精的作用，还是生疏，那些法条、辩护策略，她统统听不懂。今珞珈借着上厕所的功夫，走到露台上吹风。她没注意到有个人跟着她，直到一双手臂环上她的腰，今珞珈才惊呼着回过头。原来是大学时的男友，醉意中今珞珈想不出他的姓名，只记得在一起时他的微信名叫&ldquo;糊涂的亮&rdquo;。&ldquo;我很心疼你。&rdquo;糊涂的亮贴着今珞珈的耳朵。今珞珈一下推开了他，拍了拍袖子说，不需要。糊涂的亮被推开后有点气恼，但他很快冷笑起来，开口质问今珞珈：&ldquo;你没当律师了，对吗？&rdquo;今珞珈笑着点头：&ldquo;没错，但这关你什么事呢，还有，放尊重点，不然我告你性骚扰。&rdquo;糊涂的亮的眉头拧成一个疙瘩，自问自答：&ldquo;你知道我怎么看出来的吗？你现在很老！不是年纪大，是精神上的衰老，你已经没有那股子精气神儿了，导员五十多，看着都比你年轻。&rdquo;今珞珈看着眼前这个莫名其妙的男人，迟疑了一下，仰着头笑得更大声了。&ldquo;你！&rdquo;糊涂的亮指着今珞珈的鼻子，&ldquo;你知道你现在多丑吗！&rdquo;他气红了脸。今珞珈不确定那天晚上自己有没有把糊涂的亮带回她和刘老师的&ldquo;家&rdquo;，她只记得醉得彻底失去意识之前，自己十分谨慎地看了手机，当天的短信回复是&ldquo;卡布奇诺&rdquo;，这意味着刘老师今晚被老婆绊住了脚，甚至不能打个电话过来查岗。第二天今珞珈醒来时，床上有张出租车发票，标着夜间打表的高价。她走进卫生间小便，看到镜子里的自己，突然想起昨天那句&ldquo;你知道你现在多丑吗？&rdquo;想着那个场景，她扑哧笑了出来。但很快她的笑容消失了，丑是假的，但是确实很快就会不漂亮了。今珞珈坐在马桶上，失神地想起同学会上那些陌生的法律名词。她懒得想有没有把糊涂的亮带回家，在房子里转了一圈，她要看一看，有没有什么痕迹是糊涂的亮或者其他可能送她回来的人留下的，免得刘老师过来时起疑。找了几圈后什么都没发现，她才松了一口气，拿起手机问刘老师，今天喝什么咖啡？&ldquo;绿山。&rdquo;刘老师回复。那他应该是在办公室，她拿起手机拨通了刘老师办公室的座机。刘老师对于她的来电显然有些意外，他们从来没有打过电话，要么是当面说话，要么是短信里发&ldquo;咖啡暗号&rdquo;。&ldquo;我有个事情，想和你说。&rdquo;今珞珈呼吸有些急促，她从没对刘老师提过什么要求，但她考虑再三，觉得心中的想法不过分。虽然也可以等&ldquo;美式&rdquo;的时候再说，但是她似乎有些焦灼，等不及了。&ldquo;哦？&rdquo;刘老师的声音有些喜悦。&ldquo;我，不知道怎么说......&rdquo;今珞珈一时间有些紧张，她太久没和外面的世界打交道，丧失了很多勇气。她的沉吟让刘老师第一次有些等不及，他对自己的推测能力有些过于自信了，直接开口问道：&ldquo;测了吗，用验孕棒还是什么？需不需要我陪你去医院？&rdquo;今珞珈一下不知道怎么接话，很明显刘老师误会了。但话题被他这么一扯，今珞珈反而放松了下来，她把心里的想法脱口而出：&ldquo;想去工作，像以前一样，朝律师的方向努力。&rdquo;她怕太过生硬，又加了一句，&ldquo;可以吗？&rdquo;&ldquo;你说什么？&rdquo;刘老师的喜悦消失了，声音冷硬起来。今珞珈几乎可以想象出他的表情，就是那副听普通小律师说些幼稚话时，不屑地下拉嘴角，微微皱眉。那是个不易察觉的表情，但今珞珈记得住。今珞珈小心翼翼在心里组织语言，想不那么絮叨地说出些合理的理由来。但刚说出一个我字，就被刘老师打断了，他用开会时做上司的语气说：&ldquo;你能力本身就达不到，不要总想这些有的没的，也没少你吃穿，说实话，你真没这个天赋。&rdquo;他意识到这样有些武断粗暴，又温柔下来：&ldquo;别总胡思乱想，你看看你最近是不是身体不舒服，过阵子我带你去旅行。&rdquo;但今珞珈越来越焦虑了。因为那通电话之后，她度过了好几个&ldquo;绿山&rdquo;、&ldquo;蓝山&rdquo;和&ldquo;卡布奇诺&rdquo;的夜晚，她不知道是不是刘老师故意的。每月&ldquo;发零花钱&rdquo;的日子到了，可从倒数第三天开始，刘老师突然不回复咖啡的短信了，卡上的余额也没有像往常一样从四位数变成五位数。今珞珈突然意识到她可能已经失去了这个靠山，或许是她的不安分激怒了刘老师？又或许是她真的丑了，不再像个女学生？但无论如何，她都不想再承受此刻的消耗。她收拾好行李，打了刘老师家的座机。今珞珈想叫他过来，她要当面道别，把心中的煎熬对他一次吐清，归还别墅钥匙。这对今珞珈来说是重要的仪式，一定要举办。如果不对这段历史好好道别，她无法坦荡地开始新生活。嘟嘟几声响过后，那边接了电话，今珞珈率先开口：&ldquo;你好，我找刘律。&rdquo;对面的女人是刘律的老婆，声音无力而颤抖：&ldquo;我是他太太，他脑血栓在医院昏迷三天了，如果你有急事......&rdquo;道别的决心被女人的哭腔打乱了，一时间不能成型，今珞珈皱眉道：&ldquo;你说什么？&rdquo;\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我的求而不得，也未必是遗憾",
+                        "desc": "文/焦雨溪 “今天喝什么咖啡？”",
+                        "link": "http://m.wufazhuce.com/music/3309?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我的求而不得，也未必是遗憾",
+                        "desc": "文/焦雨溪 “今天喝什么咖啡？”",
+                        "link": "http://m.wufazhuce.com/music/3309?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我的求而不得，也未必是遗憾》 文/焦雨溪： “今天喝什么咖啡？” 阅读全文：http://m.wufazhuce.com/music/3309?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3309?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我的求而不得，也未必是遗憾",
+                        "desc": "“今天喝什么咖啡？”",
+                        "link": "http://m.wufazhuce.com/music/3309?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "如你",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "董超",
+                "audio_album": "如你",
+                "cover": "http://image.wufazhuce.com/FkztWo8ubVDLZ5SCjLsLyvO2AGWu",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2869",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4413",
+                    "title": "拍卖会"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1267",
+                    "serial_list": [
+                        "1215",
+                        "1217",
+                        "1218",
+                        "1219",
+                        "1220",
+                        "1225",
+                        "1226",
+                        "1227",
+                        "1228",
+                        "1232",
+                        "1233",
+                        "1234",
+                        "1235",
+                        "1236",
+                        "1237",
+                        "1238",
+                        "1239",
+                        "1260",
+                        "1261",
+                        "1262",
+                        "1263",
+                        "1264",
+                        "1265",
+                        "1266",
+                        "1267",
+                        "1268",
+                        "1269"
+                    ],
+                    "title": "维多利亚的派对·第二十五章：宣战之歌"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2943",
+                    "title": "什么事让你觉得“人心不可测”？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3309",
+                    "title": "我的求而不得，也未必是遗憾"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

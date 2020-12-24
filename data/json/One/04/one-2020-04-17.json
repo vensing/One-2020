@@ -1,0 +1,638 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5478",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-04-17 06:00:00",
+        "content_list": [
+            {
+                "id": "20171",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2791",
+                "title": "摄影",
+                "forward": "不要以为无所事事和试图忘却会给你们带来安慰。要像往常一样继续工作，因为工作是使人愉快的安慰。",
+                "img_url": "http://image.wufazhuce.com/Fm3HvUSIILAop6OvLPnFxcEYTw68",
+                "like_count": 17639,
+                "post_date": "2020-04-17 06:00:00",
+                "last_update_date": "2020-04-13 11:29:00",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2750",
+                "pic_info": "Bethany Legg",
+                "words_info": "《小妇人》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2791",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2791",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2791",
+                    "image": "http://image.wufazhuce.com/Fm3HvUSIILAop6OvLPnFxcEYTw68",
+                    "title": "VOL.2750",
+                    "content": "不要以为无所事事和试图忘却会给你们带来安慰。要像往常一样继续工作，因为工作是使人愉快的安慰。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2791?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2791?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 不要以为无所事事和试图忘却会给你们带来安慰。要像往常一样继续工作，因为工作是使人愉快的安慰。——《小妇人》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2791?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2791?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20185",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4281",
+                "title": "荒腔走板",
+                "forward": "收音机突然卡住，磁带绞了，出来的声音不在调上，像被嫉妒、阴谋和谎言毁灭的爱和人生一样。",
+                "img_url": "http://image.wufazhuce.com/FiCZaVrTPTSusxbbhI4IOeclSiQe",
+                "like_count": 2230,
+                "post_date": "2020-04-17 06:00:00",
+                "last_update_date": "2020-04-17 08:46:41",
+                "author": {
+                    "user_id": "11143412",
+                    "user_name": "春帆",
+                    "desc": "讲故事的人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个试图用笔去谈论一切的人。",
+                    "fans_total": "1249",
+                    "web_url": "http://image.wufazhuce.com/FqPQK9g6yDEMlDzXW0V6GDT1RMt6"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4281",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4281",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4281",
+                    "image": "http://image.wufazhuce.com/FiCZaVrTPTSusxbbhI4IOeclSiQe",
+                    "title": "荒腔走板 作者/春帆",
+                    "content": "还记得那天，阳光猛烈，打在身上，像万只箭矢。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 荒腔走板",
+                        "desc": "文/春帆 还记得那天，阳光猛烈，打在身上，像万只箭矢。",
+                        "link": "http://m.wufazhuce.com/article/4281?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 荒腔走板",
+                        "desc": "文/春帆 还记得那天，阳光猛烈，打在身上，像万只箭矢。",
+                        "link": "http://m.wufazhuce.com/article/4281?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 荒腔走板》 文/春帆： 还记得那天，阳光猛烈，打在身上，像万只箭矢。 阅读全文：http://m.wufazhuce.com/article/4281?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4281?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "荒腔走板",
+                        "desc": "还记得那天，阳光猛烈，打在身上，像万只箭矢。",
+                        "link": "http://m.wufazhuce.com/article/4281?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20202",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4284",
+                "title": "被压倒的年轻人",
+                "forward": "热爱，生计，职业病。",
+                "img_url": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                "like_count": 1693,
+                "post_date": "2020-04-17 06:00:00",
+                "last_update_date": "2020-04-16 18:35:50",
+                "author": {
+                    "user_id": "11185651",
+                    "user_name": "颗馨等四位",
+                    "desc": "既然不再假装自己不是多愁善感的诗人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "做最积极的悲观主义者。",
+                    "fans_total": "885",
+                    "web_url": "http://image.wufazhuce.com/Fj65EDdIoR9aUxJnUlYaqjaKWF55"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4284",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4284",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4284",
+                    "image": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                    "title": "被压倒的年轻人 作者/颗馨、柒斐、张拉灯、梅头脑",
+                    "content": "热爱，生计，职业病。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 被压倒的年轻人",
+                        "desc": "文/张拉灯等四位 热爱，生计，职业病。",
+                        "link": "http://m.wufazhuce.com/article/4284?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 被压倒的年轻人",
+                        "desc": "文/张拉灯等四位 热爱，生计，职业病。",
+                        "link": "http://m.wufazhuce.com/article/4284?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 被压倒的年轻人》 文/张拉灯等四位： 热爱，生计，职业病。 阅读全文：http://m.wufazhuce.com/article/4284?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4284?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "被压倒的年轻人",
+                        "desc": "热爱，生计，职业病。",
+                        "link": "http://m.wufazhuce.com/article/4284?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "20188",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1161",
+                "title": "最后的审判（二）第一章：从不正确",
+                "forward": "没有人不需要爱，不想要爱，我们讨厌的是不得体的爱，要求回报的爱。",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 1351,
+                "post_date": "2020-04-17 06:00:00",
+                "last_update_date": "2020-04-17 17:07:49",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第1章",
+                "number": "1",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1161",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1161",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1161",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第一章：从不正确 作者/红拂夜奔不复还",
+                    "content": "没有人不需要爱，不想要爱，我们讨厌的是不得体的爱，要求回报的爱。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第一章：从不正确",
+                        "desc": "文/红拂夜奔不复还 没有人不需要爱，不想要爱，我们讨厌的是不得体的爱，要求回报的爱。",
+                        "link": "http://m.wufazhuce.com/serial/1161?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第一章：从不正确",
+                        "desc": "文/红拂夜奔不复还 没有人不需要爱，不想要爱，我们讨厌的是不得体的爱，要求回报的爱。",
+                        "link": "http://m.wufazhuce.com/serial/1161?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第一章：从不正确》 文/红拂夜奔不复还： 没有人不需要爱，不想要爱，我们讨厌的是不得体的爱，要求回报的爱。 阅读全文：http://m.wufazhuce.com/serial/1161?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1161?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第一章：从不正确",
+                        "desc": "没有人不需要爱，不想要爱，我们讨厌的是不得体的爱，要求回报的爱。",
+                        "link": "http://m.wufazhuce.com/serial/1161?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20174",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2819",
+                "title": "如何做一个好的倾听者？",
+                "forward": "三分逗，七分捧。",
+                "img_url": "http://image.wufazhuce.com/FiSM4ToApGdLtqOhObF7gA65cXeu",
+                "like_count": 2753,
+                "post_date": "2020-04-17 06:00:00",
+                "last_update_date": "2020-04-16 19:30:44",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "yellow",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2819",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2819",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2819",
+                    "image": "http://image.wufazhuce.com/FiSM4ToApGdLtqOhObF7gA65cXeu",
+                    "title": "如何做一个好的倾听者？",
+                    "content": "如何做一个好的倾听者？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何做一个好的倾听者？",
+                        "desc": "文/晔卡 “请开始你的发言。”",
+                        "link": "http://m.wufazhuce.com/question/2819?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何做一个好的倾听者？",
+                        "desc": "文/晔卡 “请开始你的发言。”",
+                        "link": "http://m.wufazhuce.com/question/2819?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何做一个好的倾听者？》 文/晔卡： “请开始你的发言。” 阅读全文：http://m.wufazhuce.com/question/2819?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2819?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何做一个好的倾听者？",
+                        "desc": "“请开始你的发言。”",
+                        "link": "http://m.wufazhuce.com/question/2819?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11135970",
+                    "user_name": "晔卡",
+                    "desc": "俄语初学者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "俄语初学者。",
+                    "fans_total": "1836",
+                    "web_url": "http://image.wufazhuce.com/FroXp7tN-9n3HDUdm1xBeAdwf091"
+                }
+            },
+            {
+                "id": "20178",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3240",
+                "title": "喜欢慢慢变成习惯，最后我们败给时间",
+                "forward": "她知道自己不能再回头，也没有回头的必要。说不出来是谁错过谁，但只要错过，就是没有缘分。",
+                "img_url": "http://image.wufazhuce.com/FiRGZRr8bHeMWkSusPnHI8pWMAcC",
+                "like_count": 2227,
+                "post_date": "2020-04-17 06:00:00",
+                "last_update_date": "2020-04-16 20:14:17",
+                "author": {
+                    "user_id": "10594014",
+                    "user_name": "二葵",
+                    "desc": "直截了当白羊座",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "直截了当白羊座",
+                    "fans_total": "1144",
+                    "web_url": "http://image.wufazhuce.com/FnCiAnxUC4bylXx_kO0LdYbiz8As"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lvVKWns6fsd6rgrQmmU8sKgCu8MP",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "厌",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3240",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3240",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3240",
+                    "image": "http://image.wufazhuce.com/FiRGZRr8bHeMWkSusPnHI8pWMAcC",
+                    "title": "「一个」音乐: 二葵 厌",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.两个月以来，这是安澜第一次出门。她已经有五年没在家里感受过春天，河堤的桃花灼灼地开了，出来散步的人不少，小城人员流动小，现在变成实打实的好处。可也有坏处，城市小的话转一圈就会遇到不该遇见的人，比如已经分手快一年的前男友。其实也没什么，两人友好地打了声招呼后再次擦肩而过，可令安澜没想到的是，晚上她收到他的好友申请。暮城说：&ldquo;今天你戴着帽子口罩裹得严严实实，可我还是一眼就认出你了。&rdquo;安澜下意识地想，他们今天遇到时，她好像挺丑的。但是，她竟然到现在才意识到她那时挺丑的。两人问候了几句近况，暮城的语气带着小心翼翼地试探和讨好，安澜渐渐猜到他想要干什么，却又不那么确定。&ldquo;暮城，你有什么事吗？&rdquo;对方的热络戛然而止，聊天框上面开始一闪一闪的显示&ldquo;对方正在输入&hellip;&hellip;&rdquo;,过了好久，屏幕上才出现一行字：安澜，我们复合吧。&nbsp;2.安澜喜欢暮城，从少年开始。那时他们才高中，年少的感情虽然懵懂又稚嫩，但却是精准的，她知道暮城也喜欢自己。她开心，是真的开心。她略怀忐忑的享受着暮城在投篮后瞥过来的目光，喜欢两个人沓在一起递上去的作业本，以及同学们带着揶揄和针对性的哄笑。可是她自卑，也是真的自卑，那时的安澜还黑黑瘦瘦小小，暮城却已经是篮球场上最亮眼的风景。喜欢他的女生，高调的会把暮城直接叫到教室外表白，内敛的会给暮城抽屉里塞巧克力。暮城每天都会把巧克力给她吃，安澜默默吃着他的巧克力，满嘴满心的苦味。这段感情从一开始就是不平等的，暮城身边的女孩子很多，而他又是开朗幽默的性子。安澜总是怀疑着暮城是否真的喜欢自己，向他走近一步，又往后倒退半步。直到那天，有个女生在楼梯口堵住了安澜。她看向安澜的眼神里带着恼怒和审视，还有着找人茬时的紧张。&ldquo;我追了暮城一个月，每天都会去篮球场给他送水，他会请我吃冰激凌，你知道吗？&rdquo;&ldquo;知道&rdquo;。这一个月，安澜过得昏暗无比，他们出双入对几乎要定下来，安澜的悲伤无处发泄，她在心里一遍遍问，为什么，难道一切都是她的错觉吗？他怎么可以这么对她。&ldquo;可是今天我跟他表白，他却告诉我说，他一直都有喜欢的人。&rdquo;女生抿着嘴角，&ldquo;安澜，暮城说他喜欢你。&rdquo;安澜一怔，身后传来脚步声，她听见自己的心跳声扑通扑通，懵然地转过头，便看到了暮城。她笑了，一个月的委屈煎熬刹那间消失不见，甚至觉得花都开了。暮城骨子里是个浪漫的人，他用实际行动拒绝安澜地下发展的提议，毫不顾忌地在各种人多的地方大喊她名字，恋爱高调的老师都知道。暮城还会强制要求她去看他打篮球，并在散场的时候把她一把从人堆里揪出来，用略带戏谑的语气笑她：&ldquo;你跑什么？我的水呢，给我。&rdquo;安澜不止一次的惊疑忐忑过，可暮城是那样的张扬明媚阳光，她又是如此如此地喜欢他，喜欢到恨不得把自己身上那层因自卑蒙起的灰色全部揭掉，同样大笑着站到他身边去。因为学习都好，老师也不多干涉，安澜看着暮城是满心眼地幸福，可她只看到了暮城想让她看到的，或者说，她只顾着看他。高三的学习压力越来越紧，暮城却在这个时候选择走读，他告诉安澜他在寝室睡不好，安澜心疼他，平时两人约会也在变少。同桌不止一次在安澜面前欲言又止，渐渐地有些话还是传到安澜耳朵里。暮城每天上下学都会和一个女孩子一起回家，很多人都见到过。流言传到她耳朵里时已经是删减过的善意版本，可安澜还是慌了。课间，暮城给她接的热水还氤氤袅袅的冒着热气，她捧着杯子，实在是没有胆量去质问他。但她做了件更狗血的事，她打电话给那个女孩子，问他们到底是什么关系，她没有想找她麻烦，她只是想弄清楚。结果可想而知，那女孩在电话里拍胸脯保证她和自己男朋友半点关系都没有，却转头去暮城面前大哭了一场。暮城生气了，但他同样没有跑过来质问她，他只是不再理她了。他们的冷战一直持续到高考结束。考完英语出考场的那一刻，安澜突然觉得步子有些虚，仿佛身上的力气全部都泄尽了，这两个月她暴瘦了20斤，还好她虽自卑却不懦弱，知道不该拿青春里的狗血去挥洒未来，一直咬牙死撑到现在，是不是可以放肆去伤心了？在校门口遇到了暮城，暮城看到她后破天荒的没有躲开，只是站在原地。安澜一步步挪到暮城跟前，抬头看着他。身边学生来来往往，家长从不远处的车里走下来喊着自家孩子，笑闹声嘈杂熙攘。他们两个就沉默地站在这热闹的人群里，彼此都没有说话。暮城也瘦了很多，安澜觉得自己的心一抽一抽的疼，最后还是先开口说了话：&ldquo;你和那个女生，到底是什么关系？&rdquo;安澜心想，当时他说一句，哪怕就说一句 &ldquo;你还好吗&rdquo;或者&ldquo;真的没有什么&rdquo;呢，她都会原谅他。可暮城却说：&ldquo;什么关系你不是早就问过了吗&rdquo;。高考结束那天，冷战三个月的他们彻底分手。3.高考成绩下来，安澜报上海，暮城报北京。他到底没有和那个女生在一起，相反，他又渐渐地像以往那样对她，约着安澜一起去学校领资料，在安澜家楼下等着她和她一起跑步，同学聚会时坐在她身边。录取通知书下来的那天，暮城问她要不要一起去家附近的景区旅行，安澜想了想，点头答应。闺蜜知道这件事的时候安澜已经在打包行李，她冲进安澜房间把她行李箱扔得乱七八糟，戳着她脑门大声怒吼：&ldquo;你知不知道什么叫自尊啊。&rdquo;安澜不吭声，她又把地上乱七八糟的衣服一件件叠好放回行李箱里，屋子里静得可怕，良久良久，安澜的眼泪一颗一颗砸下来。她抬起头看闺蜜，满眼都是悲伤，&ldquo;那你又知不知道，什么叫喜欢一个人。&rdquo;这么多年，她大概已经习惯了喜欢暮城。卑微到骨子里的青春，却又悲壮的不害怕受伤，受伤不疼吗？可要不是因为太过于喜欢，谁愿意受伤啊。大学两人开始异地，他们的恋爱比高中谈得更加热烈。暮城还是那个浪漫的暮城，他会悄悄坐飞机来安澜学校找她，一边和她抱怨他这节课有多无聊，一边走到教室里坐在她的后排，下课轻轻拍拍她肩膀，跟她说自己真的很想她。这个时候，安澜也不再回避，她会给他同样热烈的回应。令暮城更惊喜的是，她变得越来越好看了，身体眉眼都已长开，再加上南方水汽的滋润，她皮肤也细腻不少，换个发型再稍微画个淡妆，她在不知不觉中竟变成了回头率超高的姑娘。美丽的学霸没有理由是不自信的，她奔波在社团学生会里，享受着自己努力换来的掌声，她巧笑盼兮地站在暮城身边，与他比肩而立，感慨着自己终于完成曾经的梦想，眉眼盈盈望向他时，可以不带一丝阴霾。有太多男生在暮城不在时向安澜示好，安澜看都不看一眼，他们怎么能跟暮城比，暮城是她的整个青春。这些人只是喜欢她靓丽的外表，而暮城，则是在她还是只不起眼的丑小鸭时便用心呵护，哪怕有那么多只白天鹅飞来飞去，她还是被最终选择的那个。她开心雀跃着，忙着享受鲜花掌声和恋爱的甜蜜，却没有发现暮城眉头渐渐锁紧。直到有次他们吃饭因为不同的观点辩论起来，暮城猛地放下手中的筷子，语气生硬：&ldquo;安澜你是怎么回事，你是不是飘了，你以前不是这样的。&rdquo;只是对一个社会热点事件有不同意见而已，安澜愣住，她赶忙坐到他身边抱住他低声道歉哄他，却猛然反应过来，好像在以前，暮城不管说什么做什么，她都会笑着说好，乖得像一只小猫。但，猫骨子里是傲气的。他们的争吵变多起来，暮城说：&ldquo;我为你改变了这么多，你还想怎样啊。&rdquo;他的声音里透着委屈，安澜又好气又好笑，她知道他在慢慢学着迁就她，可爱情本来就是双方互相迁就，而不是她一味地忍让。她没有什么不满意的，她只是不想再回到以前那种卑微的状态中。况且，哪对恋人不吵架？吵完再和好，他们还是属于彼此。可爱情里最怕的，就是想当然。莫名其妙地又吵架，很小的事，小到是什么原因安澜都不记得。安澜有些心累，但还是在跨年那晚给暮城打了电话。暮城最近沉默的时间越来越多，大有重返当年冷战时的趋势。电话嘟了很久没有人接，安澜看着电脑里跨年晚会的倒计时，再次拨通电话，直到满屏烟花绽放跨年歌曲唱完，电话还是没有人接。心一点点低下去，安澜转手拨了暮城室友的电话，那边接了，声音却期期艾艾的：&ldquo;今晚暮城出去跨年了，他没跟你说吗？&rdquo;直到第二天中午，暮城的电话终于打通，他的声音带着宿醉后的沉闷，&ldquo;心情不好，出去喝酒了。&rdquo;安澜没有问他和谁出去喝酒，他们再一次和好，可暮城对她却没有回暖多少。安澜莫名奇妙的没有再慌乱，她想，毕竟长期异地，临近寒假，她去找他一起回家，等见面了，一切就慢慢好了。北京的冬天又干又冷，风刮在手上像刀子一样，安澜拖着行李箱出现在暮城寝室楼下的时候，暮城只是怔了怔。他的拥抱敷衍又没有温度，安澜勉强笑了笑：&ldquo;带我去吃饭吧。&rdquo;她见过他爱她的样子，所以知道他现在，应该是不爱了。安澜没有再反复地问自己是为什么，她甚至懒得去追问暮城，刚才他跑出去接的电话是谁的。她已经不再是靠着他人言语去做判断的小孩子，不爱就是不爱，有人才不爱，还是不爱才有的人，都又有什么意义呢。从火车上下来时已经是深夜，他们两家方向相反，寒风凛冽中，暮城丢下一句 &ldquo;自己打车小心点&rdquo;便逃也似地走了，安澜终究还是不可置信般盯着他远去的背影望了好久。脑海里突然想起去年的冬天，上海难得的下了雪，暮城打电话说他来了，等安澜跑过去，便看到一个穿着黑色羽绒服的少年站在行政楼前的屋檐下，帽领上坠满了点点的白色。她跑到他身边，暮城便兜头盖下她的羽绒服帽子吻了下来，他们站在校领导老师来往最多的行政楼门前接吻，紧张到只能听见自己心跳的砰砰声。就是这样一个男孩，曾经愿意顶着风雪跨过山河来找她的男孩，现在却连顺手帮她打车都做不到了。十天后，安澜收到了暮城的短信：我们分手吧。女生天生就是戏精，从小就是，可有人是做戏给别人看，有的人却是做给自己看。安澜便是这样的后者，她告诉自己除了暮城世界上再也不会有男生会抛却相貌来爱她，他给她的是最单纯最真挚的感情；她告诉自己既然暮城看遍繁花后还是会回来找她，那繁花开得再盛也没有意义；她告诉自己吵架不是什么大不了的事，只要相爱便不会失去。可最真挚的感情也会淡去，繁花过后还有繁花，不爱了又有什么磨合期可言。&nbsp;4.安澜听说暮城和她分手后还谈了一个女朋友，就是那天吃饭时给他打电话的女生。安澜从来没有怨过他，也没有在和闺蜜喝醉后骂他是渣男，她甚至在分手后都没有觉得有多悲伤，就好像是没有反应过来一样，直到几个月后等她慢慢缓过劲，知道自己再也没有他了，便抱着闺蜜大哭了一场。可现在看着他的复合微信，安澜突然觉得厌烦。暮城可能不明白，第一次原谅他，并不是他所做的挽救让她软了心，而是她还爱他，本来就已经打算原谅他。可是现在，她永远不想回头了。到底是受伤了才不爱，还是不爱了才不愿再受伤，安澜不清楚。可她清楚的是，这段纠结她整个青春的感情，她放下了，不知道什么时候放下的，但就是永远不想再拿起。安澜撇撇嘴，大骂暮城一通，最后跟他说：别再打扰我。然后删除好友扔了手机窝进床上，翻身沉沉睡去。她知道自己不能再回头，也没有回头的必要。说不出来是谁错过谁，但只要错过，就是没有缘分。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 喜欢慢慢变成习惯，最后我们败给时间",
+                        "desc": "文/二葵 你的温柔不止对我一个人，我并不特殊。",
+                        "link": "http://m.wufazhuce.com/music/3240?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 喜欢慢慢变成习惯，最后我们败给时间",
+                        "desc": "文/二葵 你的温柔不止对我一个人，我并不特殊。",
+                        "link": "http://m.wufazhuce.com/music/3240?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 喜欢慢慢变成习惯，最后我们败给时间》 文/二葵： 你的温柔不止对我一个人，我并不特殊。 阅读全文：http://m.wufazhuce.com/music/3240?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3240?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "喜欢慢慢变成习惯，最后我们败给时间",
+                        "desc": "你的温柔不止对我一个人，我并不特殊。",
+                        "link": "http://m.wufazhuce.com/music/3240?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "厌",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "孟凡明",
+                "audio_album": "厌",
+                "cover": "http://image.wufazhuce.com/FkWvfJ8gWU86lyTASwRpY1SeSeKT",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2750",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4281",
+                    "title": "荒腔走板"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4284",
+                    "title": "被压倒的年轻人",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1161",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第一章：从不正确"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2819",
+                    "title": "如何做一个好的倾听者？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3240",
+                    "title": "喜欢慢慢变成习惯，最后我们败给时间"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

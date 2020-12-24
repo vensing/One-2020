@@ -1,0 +1,581 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5374",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-07 06:00:00",
+        "content_list": [
+            {
+                "id": "19548",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2688",
+                "title": "摄影",
+                "forward": "人也许不认识人，但灵魂认识灵魂。",
+                "img_url": "http://image.wufazhuce.com/Fp9GB2xdIXBbasqQvrSy6v1zOMCx",
+                "like_count": 20154,
+                "post_date": "2020-01-07 06:00:00",
+                "last_update_date": "2020-01-03 12:21:06",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2649",
+                "pic_info": "Brittani Burns",
+                "words_info": "马龙·詹姆斯",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2688",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2688",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2688",
+                    "image": "http://image.wufazhuce.com/Fp9GB2xdIXBbasqQvrSy6v1zOMCx",
+                    "title": "VOL.2649",
+                    "content": "人也许不认识人，但灵魂认识灵魂。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2688?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2688?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人也许不认识人，但灵魂认识灵魂。——马龙·詹姆斯 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2688?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2688?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19568",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4149",
+                "title": "鱼王",
+                "forward": "他笑着笑着就哭了起来，这是拿命拼来的，可一切却再也无法如愿了。",
+                "img_url": "http://image.wufazhuce.com/FrSYJweAdnFwIN5w09w5CVkAdtG6",
+                "like_count": 2086,
+                "post_date": "2020-01-07 06:00:00",
+                "last_update_date": "2020-01-07 16:04:15",
+                "author": {
+                    "user_id": "10759635",
+                    "user_name": "陈齐云",
+                    "desc": "想把故事扭成麻花。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "想把故事扭成麻花。",
+                    "fans_total": "533",
+                    "web_url": "http://image.wufazhuce.com/FoAvmKhUYLf_PqB2FHw2l_orY91M"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4149",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4149",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4149",
+                    "image": "http://image.wufazhuce.com/FrSYJweAdnFwIN5w09w5CVkAdtG6",
+                    "title": "鱼王 作者/陈齐云",
+                    "content": "他笑着笑着就哭了起来，这是拿命拼来的，可一切却再也无法如愿了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 鱼王",
+                        "desc": "文/陈齐云 他笑着笑着就哭了起来，这是拿命拼来的，可一切却再也无法如愿了。",
+                        "link": "http://m.wufazhuce.com/article/4149?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 鱼王",
+                        "desc": "文/陈齐云 他笑着笑着就哭了起来，这是拿命拼来的，可一切却再也无法如愿了。",
+                        "link": "http://m.wufazhuce.com/article/4149?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 鱼王》 文/陈齐云： 他笑着笑着就哭了起来，这是拿命拼来的，可一切却再也无法如愿了。 阅读全文：http://m.wufazhuce.com/article/4149?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4149?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "鱼王",
+                        "desc": "他笑着笑着就哭了起来，这是拿命拼来的，可一切却再也无法如愿了。",
+                        "link": "http://m.wufazhuce.com/article/4149?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19507",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1072",
+                "title": "魔都春梦·第十章·美好时光",
+                "forward": "只有我，不懂装懂，脚踩两边，不知道最后会不会被生活撕成两半。",
+                "img_url": "http://image.wufazhuce.com/Ft8R-yNe6iFmloDmyYwW0x3RsrBX",
+                "like_count": 1011,
+                "post_date": "2020-01-07 06:00:00",
+                "last_update_date": "2020-04-07 16:57:07",
+                "author": {
+                    "user_id": "4813463",
+                    "user_name": "老王子",
+                    "desc": "小说家，诗人。@新老王子",
+                    "wb_name": "@新老王子",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，诗人。@新老王子",
+                    "fans_total": "5145",
+                    "web_url": "http://image.wufazhuce.com/FgegDExkkeP8izCd3fkGKRwoyKiS"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第10章",
+                "number": "10",
+                "serial_id": "78",
+                "serial_list": [
+                    "1055",
+                    "1059",
+                    "1057",
+                    "1058",
+                    "1060",
+                    "1061",
+                    "1062",
+                    "1070",
+                    "1071",
+                    "1072",
+                    "1073",
+                    "1074",
+                    "1078",
+                    "1079",
+                    "1083",
+                    "1084",
+                    "1085",
+                    "1086",
+                    "1087"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1072",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1072",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1072",
+                    "image": "http://image.wufazhuce.com/Ft8R-yNe6iFmloDmyYwW0x3RsrBX",
+                    "title": "魔都春梦·第十章·美好时光 作者/老王子",
+                    "content": "只有我，不懂装懂，脚踩两边，不知道最后会不会被生活撕成两半。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 魔都春梦·第十章·美好时光",
+                        "desc": "文/老王子 只有我，不懂装懂，脚踩两边，不知道最后会不会被生活撕成两半。",
+                        "link": "http://m.wufazhuce.com/serial/1072?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 魔都春梦·第十章·美好时光",
+                        "desc": "文/老王子 只有我，不懂装懂，脚踩两边，不知道最后会不会被生活撕成两半。",
+                        "link": "http://m.wufazhuce.com/serial/1072?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 魔都春梦·第十章·美好时光》 文/老王子： 只有我，不懂装懂，脚踩两边，不知道最后会不会被生活撕成两半。 阅读全文：http://m.wufazhuce.com/serial/1072?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1072?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "魔都春梦·第十章·美好时光",
+                        "desc": "只有我，不懂装懂，脚踩两边，不知道最后会不会被生活撕成两半。",
+                        "link": "http://m.wufazhuce.com/serial/1072?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19565",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2718",
+                "title": "2019年，你最想珍藏的一件小事是什么？ ​​​​",
+                "forward": "往事是用来珍藏的，青春是用来追忆的，当你怀揣着它时，它一文不值，只有迈过这步后再回过头看，一切才有意义。",
+                "img_url": "http://image.wufazhuce.com/Fj69GE48M3QQdIopcd-C-Nn-F5gf",
+                "like_count": 2259,
+                "post_date": "2020-01-07 06:00:00",
+                "last_update_date": "2020-01-07 08:32:27",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2718",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2718",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2718",
+                    "image": "http://image.wufazhuce.com/Fj69GE48M3QQdIopcd-C-Nn-F5gf",
+                    "title": "2019年，你最想珍藏的一件小事是什么？ ​​​​",
+                    "content": "2019年，你最想珍藏的一件小事是什么？ ​​​​"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 2019年，你最想珍藏的一件小事是什么？ ​​​​",
+                        "desc": "文/网友 我什么也没忘，但有些事只适合珍藏。",
+                        "link": "http://m.wufazhuce.com/question/2718?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 2019年，你最想珍藏的一件小事是什么？ ​​​​",
+                        "desc": "文/网友 我什么也没忘，但有些事只适合珍藏。",
+                        "link": "http://m.wufazhuce.com/question/2718?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 2019年，你最想珍藏的一件小事是什么？ ​​​​》 文/网友： 我什么也没忘，但有些事只适合珍藏。 阅读全文：http://m.wufazhuce.com/question/2718?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2718?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "2019年，你最想珍藏的一件小事是什么？ ​​​​",
+                        "desc": "我什么也没忘，但有些事只适合珍藏。",
+                        "link": "http://m.wufazhuce.com/question/2718?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "19564",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1936",
+                "title": "《长安十二时辰》是如何将还原唐朝社会做到极致的？",
+                "forward": "我来告诉你，这剧究竟高级在哪里。",
+                "img_url": "http://image.wufazhuce.com/FlI0X3x0BKkHQlFxZmRNogVkCfIa",
+                "like_count": 2135,
+                "post_date": "2020-01-07 06:00:00",
+                "last_update_date": "2020-01-06 23:51:33",
+                "author": {
+                    "user_id": "10910131",
+                    "user_name": "今日头条全国新写作大赛",
+                    "desc": "为唤醒公众对写作的热爱，提升新媒体写作标准，号召新媒体写作者向善向美，今日头条联合出版社、媒体和高校共同发起了这场“全国新写作大赛”。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "这仍是写作最好的时代",
+                    "fans_total": "976",
+                    "web_url": "http://image.wufazhuce.com/FtSNaH2HKK2Kp208cwDuZ0-sBL9K"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "长安十二时辰",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4919",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1936",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1936",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1936",
+                    "image": "http://image.wufazhuce.com/FlI0X3x0BKkHQlFxZmRNogVkCfIa",
+                    "title": "「一个」电影: 长安十二时辰",
+                    "content": "文 | 去疾书院&nbsp;由雷佳音和易烊千玺等人主演的《长安十二时辰》已经落幕，这几天我一直沉浸在这部电视剧所还原的唐朝社会当中，久久不能自拔。在我看来，最近十年来，还原唐朝社会的电视剧当中，做得最好的就是《长安十二时辰》，而且往后五年之内，也很难再有超越它的了。那这部剧到底将唐朝社会，尤其是长安市景还原了多少呢？换句话说，它到底在哪些方面有所考究，从而表现出唐朝的社会生态呢？对此我收集了一些资料，今天就结合《长安十二时辰》这部剧，带领大家一起领略唐朝风采。01唐朝长安城：世界性国家，包纳一切的大都市我们现在在谈及唐朝的时候，一般只会想到三大皇帝&mdash;&mdash;唐太宗李世民、女皇武则天以及唐玄宗李隆基。也许还会想到李白、杜甫，等等。但是，这些人之外，我们对唐朝的了解还有多少呢？知之甚少&mdash;&mdash;这或许是国人的普遍&ldquo;认知&rdquo;。但唐朝不仅仅是一个朝代，而且是一个世界性帝国。&ldquo;世界性帝国&rdquo;，这个词你可能没听说过，但这个词是得到日本及西方学者普遍认可的。也就是说，唐朝不像中国其他朝代那样封闭，而是一个开放性社会，是一个聚集了欧亚非三大陆民族、西通西域东接日本、汇集了全世界宝物和精华的世界性国家。在电影《妖猫传》当中，剧组就曾经试图还原极盛时期的唐朝长安市景。&nbsp;《妖猫传》剧照所以，如果你站在唐朝的长安街头，你会发现有许多阿拉伯人、朝鲜人、日本人、欧洲人甚至是非洲人。但我觉得，相比于《妖猫传》，《长安十二时辰》做得更好。那《长安十二时辰》中还原了多少呢？首先，在这部剧里出现了西域某宗教。当然了，这个话题我不能多写，只能点到为止，大家可以自行了解。&nbsp;《长安十二时辰》剧照在唐朝社会中还有另一种人存在&mdash;&mdash;那就是历史上鼎鼎大名的昆仑奴。《旧唐书&middot;南蛮传》里面记载：&nbsp;在林邑以南，皆卷发黑身，通号&lsquo;昆仑&rsquo;。根据现代学者们的研究，这种被称为昆仑的奴隶绝大多数人来自于东南亚海岛的土著，部分可能是来自非洲的黑人。在《长安十二时辰》当中，长安地下世界的黑社会老大葛老曾经就是一位昆仑奴。&nbsp;《长安十二时辰》中的昆仑奴如果我没有记错，这是中国影视剧当中第二次出现昆仑奴。第一次是什么时候？第一次出现在2006年开播的由马跃主演的《贞观之治》当中。在《贞观之治》这部剧里，唐朝名将李靖身边就有一位昆仑奴。不论是外出打仗，还是进宫见李世民，李靖一般都会把这位昆仑奴随身带上。&nbsp;《贞观之治》中的昆仑奴昆仑奴在唐朝十分流行。为什么？因为昆仑奴比较温顺，而且体力大，什么活都能干。无聊的时候，这些多才多艺、能歌善舞的昆仑奴还能为主人带来一些娱乐节目。现代出土的文物也佐证了史书中的记载。北京博物馆就藏了大量的昆仑奴陶俑。&nbsp;昆仑奴陶俑当然了，唐朝也有很多西域人。我们现在一说到西域，大家可能觉得就是新疆附近一带。但实际上历史上的西域非常广阔。为什么？因为唐朝的疆域比较大，敦煌以西，一般都可以称为西域。&nbsp;唐朝极盛时期的疆域，画圈部分及天竺一般就被我们称为西域如果按照日本部分学者的推测，唐朝极盛时期的安西都护府所掌控的范围更大。所以，在这样一个领土广阔的帝国当中，人的流通性就更加大且更加顺畅了。&nbsp;《长安十二时辰》剧照在《唐朝十二时辰》当中，这位店家是不是有可能是西域人呢？大家请注意&mdash;&mdash;他身穿的是翻领服饰，这在唐朝时也非常流行。他的胡须，也是典型的西域人胡须。他的这个形象，在新疆所出土的唐朝西域人陶俑当中，也随处可见。&nbsp;唐朝西域人陶俑02男唐人性服饰：头戴幞头，身穿圆领窄袖长衫，腰系蹀躞唐朝人的服饰和其他朝代稍有区别。如果你穿越回唐朝，你就会发现大多数人都穿着唐朝最为流行的衣服&mdash;&mdash;头戴黑色幞头，身穿窄袖长衫，腰系蹀躞。在《长安十二时辰》中我们就可以看到，无论是在长安的街头，还是在政府机构当中，绝大多数人都是这种着装。&nbsp;《长安十二时辰》剧照&nbsp;《长安十二时辰》剧照我们现在流传下来的唐朝绘画很少，五代和宋朝的绘画较多。但没关系，唐朝著名山水画就李思训给我们留下了一幅《明皇幸蜀图》，从这幅图里面，我们就能窥见唐朝幞头、圆领窄袖的全貌。&nbsp;《明皇幸蜀图》局部唐朝的男士服饰，一般以圆领为主。但是，同其他朝代的服饰不同的是，唐朝的圆领长衫，不是宽衣大袖，而是窄袖。同时，唐朝的幞头第一阶梯微微向前倾。这也主要是由于唐朝的幞头，许多都是结式幞头，即在幞头背后打一个节，在二级阶梯的中间打上一个结。在《长安十二时辰》这部剧里，对这种幞头也有所还原。&nbsp;《长安十二时辰》中的幞头我们从这张剧照里面就可以完美地看出这种幞头的特色所在。在后期这种幞头就越来越少了。我们从《韩熙载夜宴图》当中就能看出来这一点：首先是幞头二级阶梯中间不再打结了，其次，随之而来的就是，幞头更加端正，不再向前倾斜了。&nbsp;《韩熙载夜宴图》局部那为什么唐朝的衣服会以窄袖为主呢？主要是受到西域的影响。同样是头戴黑色幞头，身穿圆领长衫，要系蹀躞（皮带），但是宋朝人实际上就不再是窄袖而是宽袖了。我们从上面的《韩熙载夜宴图》以及宋徽宗的《听琴图》当中都能看出这一点。&nbsp;《听琴图》宋徽宗穿窄袖衣服有一个好处&mdash;&mdash;行动要方便一点。所以，唐朝的军队战斗力强，我觉得也是有道理的，因为不论是军人还是百姓，衣服对行动的限制较少。而到了晚唐、五代以及宋朝，衣服重新变成了宽袖大袍，文人气多了一点，但武力值就低了很多。03军装与红装：唐朝军人服饰与女性容装军队的铠甲一直是古装剧的一大心病。&nbsp;绝大多数剧组，即便是文武百官的服饰搞对了，军队的服饰也总是搞错。为什么呢？因为剧组不懂，事实上，真正懂的人也很少。&nbsp;《长安十二时辰》剧照在《长安十二时辰》这部剧里，军人的服饰就高度还原了唐朝时期的特色。唐朝时期的壁画显示，唐朝军人的铠甲以银白色为主。比较典型的是，唐甲的两个护肩比较大。&nbsp;唐朝壁画当然了，很多人都在吐槽里面的耍双锤的同志演技比较浮夸，天天歪着个嘴，看起来十分欠揍。但我却不这么觉得。我甚至觉得这是这位演员下了深功夫有意为之的。为什么这么说呢？我当然也是有依据的。请看这幅壁画：&nbsp;唐朝壁画大家注意左侧人物的面部表情&mdash;&mdash;&nbsp;《长安十二时辰》剧照大家对比一下：是不是十分神似？是巧合吗？很有可能是巧合。但是，我更愿意相信是这名演员下了功夫。至少也是剧组下了功夫。否则，很难有这么惟妙惟肖且十分巧合的面部表达。女性服饰方面，部分人在吐槽这是抄袭日本人的装束。这种看法实在是太幼稚，明明是日本学习中国的好不好。但是，由于历史教育的缺乏，以及中国古装剧向来不重视对服饰和化妆的还原，这就导致了中国观众的审美观同历史事实是脱节的。&nbsp;《长安十二时辰》剧照我们从唐朝流传下来的名画《宫乐图》里，基本上就可以看到唐朝女性最为流行的装束之全貌。&nbsp;《宫乐图》流传下来的《弈棋仕女图》也给我们提供了不错的参照。&nbsp;弈棋仕女图当然了，包括《长安十二时辰》中普普通通的一个小女孩的装束，实际上都十分有讲究。&nbsp;《长安十二时辰》剧照这位小姑娘的装束也是有所参考的。很显然，小女孩的发饰参考的就是唐朝绘画《捣练图》中的小女孩。&nbsp;《捣练图》04唐人礼仪：插手礼，失传前年的社交礼仪《长安十二时辰》一开播，著名唐史研究者、《唐朝穿越指南》作者森林鹿就隆重向大家介绍了失传已久的插手礼。什么是插手礼呢？&nbsp;《长安十二时辰》剧照我们经常在网络小说当中看到作者写道：某某插手作揖。插手礼，就是剧照中所显示的样子。这种礼节在唐朝十分流行，但到元朝时期慢慢就失传了。我们现在也只能从古书中，以及部分壁画和绘画当中窥见一斑。比如在《韩熙载夜宴图》当中，有两位男性角色正在使用的就是插手礼。&nbsp;《韩熙载夜宴图》所以，我说了这么多细节问题，相信读者朋友们也都能了解部分这部剧当中的文化韵味了。05后记：大唐社会，远比我们想象得更为精彩《长安十二时辰》的故事背景，正是唐朝的极盛时期。但这时候的唐朝已经危机重重，正在由盛转衰。所以，《长安十二时辰》为我们还原的，正是玄宗时代的长安社会。在那样一个社会，国家达到极盛，人民安居乐业。而且相比于其他朝代，玄宗时期唐朝的开放史无前例。在唐朝，无论是哪个民族的人，甚至是哪个国家的人，都几乎能得到同等对待。高丽人、日本人、突厥人甚至是阿拉伯人，只要你有能力，都能在唐朝甚至是唐朝政府立足。&nbsp;唐玄宗画像唐朝名将高仙芝，高丽人；哥舒翰，西突厥人；李光弼，契丹人；仆固怀恩，铁勒人；红极一时的安禄山，栗特人。什么是文化自信？这就是文化自信。但遗憾的是，安史之乱打断了中国社会的开放心态。尤其是宋朝以来，少数民族的威胁让汉人逐渐失去了对他们的信任。于是，在后来的朝代中，我们越来越拘谨了。不管怎么说，感谢《长安十二时辰》这部剧，为我们还原了一个较为可靠的唐朝社会。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 《长安十二时辰》是如何将还原唐朝社会做到极致的？",
+                        "desc": "文/今日头条全国新写作大赛 我来告诉你，这剧究竟高级在哪里。",
+                        "link": "http://m.wufazhuce.com/movie/1936?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 《长安十二时辰》是如何将还原唐朝社会做到极致的？",
+                        "desc": "文/今日头条全国新写作大赛 我来告诉你，这剧究竟高级在哪里。",
+                        "link": "http://m.wufazhuce.com/movie/1936?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 《长安十二时辰》是如何将还原唐朝社会做到极致的？》 文/今日头条全国新写作大赛： 我来告诉你，这剧究竟高级在哪里。 阅读全文：http://m.wufazhuce.com/movie/1936?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1936?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "《长安十二时辰》是如何将还原唐朝社会做到极致的？",
+                        "desc": "我来告诉你，这剧究竟高级在哪里。",
+                        "link": "http://m.wufazhuce.com/movie/1936?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19508",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3020",
+                "title": "给你一张过去的CD",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fq_MpzO3rZfZ-75tL0ISuJxXYbpG?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1409,
+                "post_date": "2020-01-07 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3020",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3020",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 给你一张过去的CD",
+                        "desc": "我们的唱片时代",
+                        "link": "http://m.wufazhuce.com/radio/3020?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loXx9SrWetaFaiLBTjD_dqsW0a5I"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 给你一张过去的CD",
+                        "desc": "我们的唱片时代",
+                        "link": "http://m.wufazhuce.com/radio/3020?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loXx9SrWetaFaiLBTjD_dqsW0a5I"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 给你一张过去的CD》 主播/李荟莹： 我们的唱片时代 阅读全文：http://m.wufazhuce.com/radio/3020?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3020?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/loXx9SrWetaFaiLBTjD_dqsW0a5I"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "给你一张过去的CD",
+                        "link": "http://m.wufazhuce.com/radio/3020?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loXx9SrWetaFaiLBTjD_dqsW0a5I"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 757 期",
+                "audio_url": "http://music.wufazhuce.com/loXx9SrWetaFaiLBTjD_dqsW0a5I"
+            }
+        ],
+        "menu": {
+            "vol": "2649",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4149",
+                    "title": "鱼王"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1072",
+                    "serial_list": [
+                        "1055",
+                        "1059",
+                        "1057",
+                        "1058",
+                        "1060",
+                        "1061",
+                        "1062",
+                        "1070",
+                        "1071",
+                        "1072",
+                        "1073",
+                        "1074",
+                        "1078",
+                        "1079",
+                        "1083",
+                        "1084",
+                        "1085",
+                        "1086",
+                        "1087"
+                    ],
+                    "title": "魔都春梦·第十章·美好时光"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2718",
+                    "title": "2019年，你最想珍藏的一件小事是什么？ ​​​​"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1936",
+                    "title": "《长安十二时辰》是如何将还原唐朝社会做到极致的？"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3020",
+                    "title": "给你一张过去的CD"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

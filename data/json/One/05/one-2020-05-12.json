@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5498",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-05-12 06:00:00",
+        "content_list": [
+            {
+                "id": "20333",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2816",
+                "title": "摄影",
+                "forward": "我恨自己别无选择，只能冒险爱你。",
+                "img_url": "http://image.wufazhuce.com/Fqabwjm6WVm9Ff57qEuusfmDA1Y0",
+                "like_count": 17140,
+                "post_date": "2020-05-12 06:00:00",
+                "last_update_date": "2020-05-11 10:26:47",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2775",
+                "pic_info": "Alvin Balemesa",
+                "words_info": "阿兰•德波顿《爱情笔记》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2816",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2816",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2816",
+                    "image": "http://image.wufazhuce.com/Fqabwjm6WVm9Ff57qEuusfmDA1Y0",
+                    "title": "VOL.2775",
+                    "content": "我恨自己别无选择，只能冒险爱你。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2816?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2816?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我恨自己别无选择，只能冒险爱你。——阿兰•德波顿《爱情笔记》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2816?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2816?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20331",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4313",
+                "title": "后浪的一天",
+                "forward": "冬天，很多企业在裁员，小马正在试用期，表现不好，转正名额就会被砍掉了，他不得不努力工作，因为绩效最不好的人，最有可能被裁。",
+                "img_url": "http://image.wufazhuce.com/FqhZEGbDI4Wkgzi6uGW3nAR8tIys",
+                "like_count": 1998,
+                "post_date": "2020-05-12 06:00:00",
+                "last_update_date": "2020-05-12 16:05:03",
+                "author": {
+                    "user_id": "10770206",
+                    "user_name": "宗城",
+                    "desc": "自由写作者，喜欢寻找消逝的时间。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "自由写作者，喜欢寻找消逝的时间。",
+                    "fans_total": "516",
+                    "web_url": "http://image.wufazhuce.com/Fgbe2src-_cYGCdxEQKwSSFN-GCk"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4313",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4313",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4313",
+                    "image": "http://image.wufazhuce.com/FqhZEGbDI4Wkgzi6uGW3nAR8tIys",
+                    "title": "后浪的一天 作者/宗城",
+                    "content": "这篇文章数据要是不好，我就该失业了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 后浪的一天",
+                        "desc": "文/宗城 这篇文章数据要是不好，我就该失业了。",
+                        "link": "http://m.wufazhuce.com/article/4313?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 后浪的一天",
+                        "desc": "文/宗城 这篇文章数据要是不好，我就该失业了。",
+                        "link": "http://m.wufazhuce.com/article/4313?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 后浪的一天》 文/宗城： 这篇文章数据要是不好，我就该失业了。 阅读全文：http://m.wufazhuce.com/article/4313?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4313?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "后浪的一天",
+                        "desc": "这篇文章数据要是不好，我就该失业了。",
+                        "link": "http://m.wufazhuce.com/article/4313?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20311",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1179",
+                "title": "分手遗迹清理员：伞是雨中的晴天·第四章",
+                "forward": "人类好麻烦，解决不了的事情，都交给“时间”解决。人家“时间”不烦吗？",
+                "img_url": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                "like_count": 864,
+                "post_date": "2020-05-12 06:00:00",
+                "last_update_date": "2020-05-11 16:52:53",
+                "author": {
+                    "user_id": "10730599",
+                    "user_name": "城迟",
+                    "desc": "人生前半场周转于互联网公司，凡客T恤事业部总监，乐视影业IP衍生部负责人。36岁出版代表作《我和这个世界不熟》，上市三天，冲进当当畅销榜前十。被阿耐、路内等著名作家推荐。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，代表作《我和这个世界不熟》。",
+                    "fans_total": "1326",
+                    "web_url": "http://image.wufazhuce.com/FiR3WpirjtIX3_RL6eZGxew_la3R"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第8章",
+                "number": "8",
+                "serial_id": "84",
+                "serial_list": [
+                    "1164",
+                    "1165",
+                    "1166",
+                    "1168",
+                    "1171",
+                    "1172",
+                    "1178",
+                    "1179",
+                    "1181",
+                    "1183",
+                    "1184",
+                    "1187",
+                    "1189",
+                    "1190",
+                    "1194",
+                    "1196",
+                    "1199",
+                    "1201",
+                    "1203",
+                    "1206",
+                    "1207",
+                    "1209"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1179",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1179",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1179",
+                    "image": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                    "title": "分手遗迹清理员：伞是雨中的晴天·第四章 作者/城迟",
+                    "content": "人生本来就没意义，意义都是自找的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 分手遗迹清理员：伞是雨中的晴天·第四章",
+                        "desc": "文/城迟 人生本来就没意义，意义都是自找的。",
+                        "link": "http://m.wufazhuce.com/serial/1179?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 分手遗迹清理员：伞是雨中的晴天·第四章",
+                        "desc": "文/城迟 人生本来就没意义，意义都是自找的。",
+                        "link": "http://m.wufazhuce.com/serial/1179?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 分手遗迹清理员：伞是雨中的晴天·第四章》 文/城迟： 人生本来就没意义，意义都是自找的。 阅读全文：http://m.wufazhuce.com/serial/1179?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1179?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "分手遗迹清理员：伞是雨中的晴天·第四章",
+                        "desc": "人生本来就没意义，意义都是自找的。",
+                        "link": "http://m.wufazhuce.com/serial/1179?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20328",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2844",
+                "title": "如何把控玩笑话的界限？",
+                "forward": "能让大家都感到开心的，才是真正的玩笑话。",
+                "img_url": "http://image.wufazhuce.com/Fq5KM12IXzkT9yEWvuFw7TDCR6Fh",
+                "like_count": 2034,
+                "post_date": "2020-05-12 06:00:00",
+                "last_update_date": "2020-05-11 16:02:30",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "莞尔有时",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2844",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2844",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2844",
+                    "image": "http://image.wufazhuce.com/Fq5KM12IXzkT9yEWvuFw7TDCR6Fh",
+                    "title": "如何把控玩笑话的界限？",
+                    "content": "如何把控玩笑话的界限？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何把控玩笑话的界限？",
+                        "desc": "文/林庭 玩笑话不等于幽默。",
+                        "link": "http://m.wufazhuce.com/question/2844?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何把控玩笑话的界限？",
+                        "desc": "文/林庭 玩笑话不等于幽默。",
+                        "link": "http://m.wufazhuce.com/question/2844?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何把控玩笑话的界限？》 文/林庭： 玩笑话不等于幽默。 阅读全文：http://m.wufazhuce.com/question/2844?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2844?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何把控玩笑话的界限？",
+                        "desc": "玩笑话不等于幽默。",
+                        "link": "http://m.wufazhuce.com/question/2844?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "20309",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1992",
+                "title": "绅士是怎样炼成的",
+                "forward": "王者是一时的，绅士却是永恒的。",
+                "img_url": "http://image.wufazhuce.com/FrT-2SkqHMOxVsxhaV1C3bO8Z8Bo",
+                "like_count": 1589,
+                "post_date": "2020-05-12 06:00:00",
+                "last_update_date": "2020-05-12 06:20:07",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "绅士们",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4975",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1992",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1992",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1992",
+                    "image": "http://image.wufazhuce.com/FrT-2SkqHMOxVsxhaV1C3bO8Z8Bo",
+                    "title": "「一个」电影: 绅士们",
+                    "content": "一个电影导演在江湖的首次亮相有多重要？且看盖&middot;里奇。1998年，这个三十出头的年轻人带着自编自导的处女作《两杆大烟枪》正式踏入江湖，一出场即高潮，瞬间成了英国电影的新希望。第二年，他又以《偷拐抢骗》博得众彩。很难想象，开场如此隆重的他，在收获了短暂喝彩后，竟鲜有佳作，偶有《摇滚黑帮》《大侦探福尔摩斯》《阿拉丁》等平庸影片撑撑场面，刷刷存在。终于，2020年盖&middot;里奇带着《绅士们》隆重回归，从前那个被捧上神坛的他又回来了。01 鬼才导演＋豪华阵容曾经，盖&middot;里奇用&ldquo;快速剪辑、多线叙事、摇滚配乐的风格化手法以及黑色幽默&rdquo;重新定义了犯罪类型片。这次《绅士们》回到了他的擅长领域，多线索、多人物、多铺垫、多反转，将&ldquo;一名烟草大佬的退休之路&rdquo;刻画得险象环生又跌宕起伏。作为盖&middot;里奇自编自导的又一力作，《绅士们》的阵容堪称豪华&mdash;&mdash;&ldquo;实力派奥斯卡影帝&rdquo;马修&middot;麦康纳、&ldquo;英国国民男神&rdquo;休&middot;格兰特、&ldquo;浓眉杀手&rdquo;科林&middot;法瑞尔、&ldquo;大小姐&rdquo;米歇尔&middot;道克瑞。因为有这样的王炸组合，所以期待之余，也有稍许担忧。毕竟，有时候&ldquo;再好的阵容都逃不开扑街的宿命&rdquo;。幸好，《绅士们》稳稳地立住了。无论是&ldquo;剧中剧&rdquo;的叙事结构，还是塑造的个性鲜明的人物形象，抑或是情理之中又意料之外的情节反转，都足以让这部电影在2020年的影坛有它的一席之地。02 一次不寻常的退休电影要讲的故事很简单，一句话总结：&ldquo;烟草大佬想退休，没那么容易。&rdquo;随着一名身着西装的中年男子推开街角酒吧的门，故事开始了。如往常一样，他和酒吧的服务生打招呼，要了自己常点的一杯啤酒和一个酱蛋，放上喜欢的唱片，坐了下来，绅士地内心独白了下面这段话：&ldquo;如果你要做丛林之王，做做样子是不够的，你必须成为王者，不能有迟疑，因为迟疑带来混乱和一个人的死亡。&rdquo;接着，他拿起电话，拨通号码，叮嘱对方别忘记约会时，一记枪声从他的身后传来。&ldquo;是谁，谁在那里？&rdquo;影片选了最高潮的片段作为开场，既令人一头雾水，又吊足胃口。紧接着，下一个画面快速转场至一个室内场景，出现了又两名绅士角色：弗莱彻和雷蒙德。弗莱彻，英国某个乌烟瘴气小城的一名私人侦探，以贩卖重要情报和劲爆消息给媒体为生。作为一个信息收集者，他是当事人和媒体之间的隐形纽带。两方谁能给他最大的利益和好处，他就选择和谁合作。唯利是图的商人属性在弗莱彻身上显而易见，更把&ldquo;勒索&rdquo;这件事做得游刃有余。雷蒙德，英国贩卖违禁烟草大佬的贴身助手，西装革履、神态憨萌、谈吐文雅，与其他荧幕大佬助手的形象有极强的反差。这一天，弗莱彻唐突上门，潜入雷蒙德家，和他洽谈一件要事。弗莱彻手里有一些关于雷蒙德老板的重磅消息，一个非常讨厌他老板的报纸总编辑戴夫准备以高价从弗莱彻手里把消息买回去。于是，弗莱彻找到雷蒙德，想间接问问，他老板有没有兴趣&ldquo;花钱买新闻&rdquo;。2000万英镑，买断所有新闻消息，并且，弗莱彻还能送他老板一个精心编纂的剧本。所以，雷蒙德的老板，弗莱彻口中财大气粗的客人，到底是谁？&nbsp;他就是米奇，英国贩卖违禁烟草的幕后玩家，也是电影的头号男主角。家境一般，却有敏锐的商业头脑和过人的资源圈层。年轻时就干起了倒卖违禁烟草的生意，卖给他身边那些家境富裕，出身上流社会的同学。他是一个知道自己优势，并能把优势发挥到极致的人，纵使在复杂的英国金字塔阶层，都能如鱼得水。随着自己实力的提升，米奇不得不用血腥和暴力的手段拓疆开土，来巩固自己的地位。慢慢地，他建立了一个自营自足的地下烟草商业帝国，几乎垄断承包了整个英国禁忌地带的生意。转眼几十年，年轻气盛的米奇来到了他的中年，一丝不苟的英伦套装，一尘不染的皮鞋，还有举手投足间的儒雅笃定，都完美示范了&ldquo;何为绅士&rdquo;。没有人能猜到，如此绅士的他，竟是非法烟草帝国的操盘者，更没有人知道，正处于事业上升期的他，竟有了金盆洗手的打算。&nbsp;恰巧在一次高端饭局上，他偶遇了马修，并试图将自己的烟草帝国转手给他。也是从这时开始，米奇的退休之路遭遇了无数障碍。先是杀出一个叫干眼的华人地头蛇，想要插足买下米奇的产业。又有了一群想红想疯的拳击小青年到米奇的烟草基地打劫，并拍下全过程并录成MV上传到网络。与此同时，在雷蒙德为贵族找回女儿的过程中，俄罗斯老大的儿子意外坠楼身亡。其间，还有报纸主编戴夫的虎视眈眈和弗莱彻的勒索敲诈。米奇危机四伏，四面楚歌，于是，就有了电影开场时，他在酒吧里的那段内心独白。作为丛林之王，米奇很清楚做做样子是不够，他必须成为唯一王者。经过一番精密调查后，他揪出了事情的幕后主使。这个华人街的香港老大乔治在米奇的绅士驯服下，很快退出了角斗场，并警告干眼不要再做任何小动作。意料之外的是，血气方刚的干眼一枪让乔治倒了地。杀死乔治后，他又火速来到米奇妻子的办公室，想要以此威胁米奇。这就是全片开场最高潮的那场戏，米奇和妻子打着电话，突然电话那边出现了一个陌生男子声音，这边有了一记枪声。开枪的是雷蒙德，他先一步杀死了干眼派来杀米奇的杀手。顾不及自己的死里逃生，米奇飞车加猛跑在干眼对爱妻有非分之想前，站在了爱妻跟前，毫不犹豫地开了枪。作为绅士，他不该用武力解决问题，但作为森林的统治者，他不能有迟疑。这是米奇的复杂和多面，在他的身上，既有用枪和拳头争夺地盘的简单直接，又有穿着西装，喝着咖啡，在一派和谐下的狂放冷箭。&nbsp;03 年轻人和老绅士米奇的退休之路艰辛又坎坷，既有同辈乔治、戴夫、马修和弗莱彻的压制，还有新生力量干眼和拳击青年的阻挠。人到中年的米奇，处在不想冲到最前面又不甘退到最后面的尴尬境地，能做的只有反制老派玩家，驯服年轻新手。而弗莱彻的一番侦查，让米奇了解到，原来事情比他想像的复杂得多，这一切幕后的真正主使并非乔治而是马修。马修串通干眼，利用拳击年轻人打劫烟草基地，只有一个目的，就是对米奇的烟草生产和公司市值重创，这样他就能以更低价收购这个帝国。打的一手如意算盘，自以为天衣无缝的马修，却被米奇反将一记。面对马修这样的老派玩家，米奇只有一条&ldquo;绅士准则&rdquo;：以暴制暴，这让马修不仅自砸如意算盘，更付出了割自己身上一磅肉的代价。而对付去他烟草基地捣乱的年轻人，米奇派雷蒙德找到了拳击青年的老大蔻驰教练。为了避免是非，蔻驰教练自愿为米奇卖命，以补偿那群青年徒弟的过错。&nbsp;电影《绅士们》花了众多笔墨，描绘了年轻人和&ldquo;绅士们&rdquo;的矛盾和冲突，除了米奇，雷蒙德的遭遇，也从其他角度素描了当代青年。在帮英国贵族追回女儿罗瑟琳的过程中，雷蒙德意外闯入了一群年轻人中。嚣张气焰的年轻人从拒绝开门到漫不经心地对谈，最后都只能乖乖安静坐下，服从指令，不敢轻易出声。偶尔耐不住性子的年轻人有一两句反抗，也被雷蒙德那句&ldquo;我不和飞叶子的人纠缠&rdquo;给冷静怼回去了。从头至尾，作为一名过来人老绅士，雷蒙德对眼前的这群年轻人都是谆谆善诱的儒雅姿态。临走时，还不忘劝诫他们，少飞叶子，好好生活。倒是为了一只手机，在追捕年轻人的途中，略显吃力的雷蒙德多了一丝痞气。虽然，一开始他还能努力保持冷静态度和友善言辞，甚至提出了优厚的交换条件，让对面的青年交出手机。但是，面对青年的无动于衷甚至得寸进尺，雷蒙德不得不从身后掏出一把机关枪，逼得年轻人乖乖就范。所谓&ldquo;绅士&rdquo;，一秒破功。不再年轻的盖&middot;里奇，已经51岁，在他的镜头下&ldquo;绅士们&rdquo;也多了一些年龄感。遥想他们的年轻时，也是擅长用冲动野蛮和血腥暴力开拓疆土，喜欢用拳头和枪粗暴解决问题。现如今，却一个个都愿意拘束在挺拔的西装里，做个绅士。&ldquo;绅士&rdquo;是什么？是一群依然干着见不得勾当的男人，却再也不见一身匪气和江湖味，是遇见误入歧途、不知悔改的青年，主动承担起教育者角色的人，是体型有些发福，体力也略有不支，但用暴力依然能让他们掌握控场权，维持森林的秩序。&nbsp;04 王者离场，风范永恒米奇识破了马修的阴谋，以为一切完美结束，坐上车准备离开时，才发现司机变成了俄罗斯黑帮杀手，是坠楼男孩的父亲找上了门。俄罗斯黑帮能这么顺利地找到米奇，完全是托了弗莱彻的福。作为一个情报探子，弗莱彻早就用镜头记录了男孩坠楼的全过程，并把它卖给了俄罗斯老大。就算雷蒙德的电话打得再及时，米奇都逃不掉被埋伏的命运。&nbsp;汽车飞速行驶，米奇透过后视镜看着带他不知去往何处的杀手们，在极力掩盖的颤抖下保持镇静。大佬米奇，难道就只能这样孤身一人，任人宰割？当然不是。拳击青年因为看不惯自己的老大被米奇的操控和摆布，决定做点疯狂的事让米奇彻底消失。说巧不巧，这一车想杀米奇的年轻人和绑架米奇的车正好遇上，阴差阳错，这群青年杀光了所有俄罗斯杀手，无意解救了米奇电影的最后，米奇穿着一身西装，摇晃着红酒杯，慵懒地坐在真皮沙发上，和妻子调情。纵使历经退休风波，他还是他，还是那个独孤求败、傲视群雄，自愿拘束在笔挺西装里的儒雅绅士。时间带来了年轻的面庞和新鲜的血液，岁月夺走了曾经旺盛的体力和非凡的魄力，再厉害的人都会老去。年轻时，他们用霸蛮占据江湖，中年时，他们用绅士的品格掌控全局。成为王者，是一件简单的事，只要有拳头和枪就够了。但成为&ldquo;绅士&rdquo;是一件难事，需要懂得何时开枪，更要知道何时不开枪。从霸气王者历炼成儒雅绅士是一条漫长的路，这是时间对一个意气风发年轻人的精心雕琢。王者是一时的，绅士却是永恒的。那是无论他是否头戴皇冠，只要出场就会引来聚焦，就算离场也是传奇。&ldquo;绅士们&rdquo;永远是一代又一代年轻人的灯塔，指引他们前进的方向。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 绅士是怎样炼成的",
+                        "desc": "文/不辣 这个绅士有点酷。",
+                        "link": "http://m.wufazhuce.com/movie/1992?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 绅士是怎样炼成的",
+                        "desc": "文/不辣 这个绅士有点酷。",
+                        "link": "http://m.wufazhuce.com/movie/1992?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 绅士是怎样炼成的》 文/不辣： 这个绅士有点酷。 阅读全文：http://m.wufazhuce.com/movie/1992?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1992?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "绅士是怎样炼成的",
+                        "desc": "这个绅士有点酷。",
+                        "link": "http://m.wufazhuce.com/movie/1992?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20310",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3144",
+                "title": "我们怀念过去，是在怀念什么？",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fi3-Gkul0oV5kqPreXRcdJdWOyv-?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1616,
+                "post_date": "2020-05-12 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3144",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3144",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 我们怀念过去，是在怀念什么？",
+                        "desc": "你是一个爱怀旧的人吗？",
+                        "link": "http://m.wufazhuce.com/radio/3144?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnAUv2eFxWl51FqRa5foxYUpO7CF"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 我们怀念过去，是在怀念什么？",
+                        "desc": "你是一个爱怀旧的人吗？",
+                        "link": "http://m.wufazhuce.com/radio/3144?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnAUv2eFxWl51FqRa5foxYUpO7CF"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 我们怀念过去，是在怀念什么？》 主播/李荟莹： 你是一个爱怀旧的人吗？ 阅读全文：http://m.wufazhuce.com/radio/3144?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3144?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lnAUv2eFxWl51FqRa5foxYUpO7CF"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "我们怀念过去，是在怀念什么？",
+                        "link": "http://m.wufazhuce.com/radio/3144?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnAUv2eFxWl51FqRa5foxYUpO7CF"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 817 期",
+                "audio_url": "http://music.wufazhuce.com/lnAUv2eFxWl51FqRa5foxYUpO7CF"
+            }
+        ],
+        "menu": {
+            "vol": "2775",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4313",
+                    "title": "后浪的一天"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1179",
+                    "serial_list": [
+                        "1164",
+                        "1165",
+                        "1166",
+                        "1168",
+                        "1171",
+                        "1172",
+                        "1178",
+                        "1179",
+                        "1181",
+                        "1183",
+                        "1184",
+                        "1187",
+                        "1189",
+                        "1190",
+                        "1194",
+                        "1196",
+                        "1199",
+                        "1201",
+                        "1203",
+                        "1206",
+                        "1207",
+                        "1209"
+                    ],
+                    "title": "分手遗迹清理员：伞是雨中的晴天·第四章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2844",
+                    "title": "如何把控玩笑话的界限？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1992",
+                    "title": "绅士是怎样炼成的"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3144",
+                    "title": "我们怀念过去，是在怀念什么？"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

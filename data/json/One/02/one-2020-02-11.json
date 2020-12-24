@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5416",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-11 06:00:00",
+        "content_list": [
+            {
+                "id": "19773",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2724",
+                "title": "摄影",
+                "forward": "纵使黑夜吞噬了一切，太阳还可以重新回来。",
+                "img_url": "http://image.wufazhuce.com/Fk9s-effCVNvWcF2GktQCe-j8vwd",
+                "like_count": 18956,
+                "post_date": "2020-02-11 06:00:00",
+                "last_update_date": "2020-02-09 11:04:55",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2684",
+                "pic_info": "pixabay",
+                "words_info": "汪国真《只要明天还在》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2724",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2724",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2724",
+                    "image": "http://image.wufazhuce.com/Fk9s-effCVNvWcF2GktQCe-j8vwd",
+                    "title": "VOL.2684",
+                    "content": "纵使黑夜吞噬了一切，太阳还可以重新回来。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2724?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2724?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 纵使黑夜吞噬了一切，太阳还可以重新回来。——汪国真《只要明天还在》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2724?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2724?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19779",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4193",
+                "title": "云痒",
+                "forward": "如果一辈子都没有办法做自己喜欢的事，总会觉得遗憾，是那种淡淡的，说出来让人笑话的遗憾。",
+                "img_url": "http://image.wufazhuce.com/FuDaUlv6wiQCjR_qQCBSFVhEVwPs",
+                "like_count": 3447,
+                "post_date": "2020-02-11 06:00:00",
+                "last_update_date": "2020-02-11 08:50:03",
+                "author": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4193",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4193",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4193",
+                    "image": "http://image.wufazhuce.com/FuDaUlv6wiQCjR_qQCBSFVhEVwPs",
+                    "title": "云痒 作者/林庭",
+                    "content": "人生海海，如云似痒。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 云痒",
+                        "desc": "文/林庭 人生海海，如云似痒。",
+                        "link": "http://m.wufazhuce.com/article/4193?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 云痒",
+                        "desc": "文/林庭 人生海海，如云似痒。",
+                        "link": "http://m.wufazhuce.com/article/4193?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 云痒》 文/林庭： 人生海海，如云似痒。 阅读全文：http://m.wufazhuce.com/article/4193?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4193?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "云痒",
+                        "desc": "人生海海，如云似痒。",
+                        "link": "http://m.wufazhuce.com/article/4193?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19769",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1102",
+                "title": "世界得了健忘症：第六章•善变",
+                "forward": "阿多尼斯是照明者、全知者。我不是。我蒙上双眼，选择与魔鬼为伍，还误以为魔鬼给的是被时代的皱纹收纳的爱情。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 862,
+                "post_date": "2020-02-11 06:00:00",
+                "last_update_date": "2020-02-09 12:16:56",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第6章",
+                "number": "6",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1102",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1102",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1102",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第六章：善变 作者/昔央",
+                    "content": "我蒙上双眼，选择与魔鬼为伍，还误以为魔鬼给的是被时代的皱纹收纳的爱情。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第六章：善变",
+                        "desc": "文/昔央 我蒙上双眼，选择与魔鬼为伍，还误以为魔鬼给的是被时代的皱纹收纳的爱情。",
+                        "link": "http://m.wufazhuce.com/serial/1102?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第六章：善变",
+                        "desc": "文/昔央 我蒙上双眼，选择与魔鬼为伍，还误以为魔鬼给的是被时代的皱纹收纳的爱情。",
+                        "link": "http://m.wufazhuce.com/serial/1102?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第六章：善变》 文/昔央： 我蒙上双眼，选择与魔鬼为伍，还误以为魔鬼给的是被时代的皱纹收纳的爱情。 阅读全文：http://m.wufazhuce.com/serial/1102?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1102?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第六章：善变",
+                        "desc": "我蒙上双眼，选择与魔鬼为伍，还误以为魔鬼给的是被时代的皱纹收纳的爱情。",
+                        "link": "http://m.wufazhuce.com/serial/1102?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19777",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2752",
+                "title": "如何克服恋爱中的疲惫感？",
+                "forward": "爱不是和新的人不停去做旧的事，而是和旧的人不停去做新的事情。",
+                "img_url": "http://image.wufazhuce.com/Fubo5XCQ8E0tyTUam3WJdcnXAZJu",
+                "like_count": 4918,
+                "post_date": "2020-02-11 06:00:00",
+                "last_update_date": "2020-02-12 17:17:07",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "哆啦A梦想出门",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2752",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2752",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2752",
+                    "image": "http://image.wufazhuce.com/Fubo5XCQ8E0tyTUam3WJdcnXAZJu",
+                    "title": "如何克服恋爱中的疲惫感？",
+                    "content": "如何克服恋爱中的疲惫感？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何克服恋爱中的疲惫感？",
+                        "desc": "文/花大钱 爱不是和新的人不停去做旧的事，而是和旧的人不停去做新的事情。",
+                        "link": "http://m.wufazhuce.com/question/2752?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何克服恋爱中的疲惫感？",
+                        "desc": "文/花大钱 爱不是和新的人不停去做旧的事，而是和旧的人不停去做新的事情。",
+                        "link": "http://m.wufazhuce.com/question/2752?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何克服恋爱中的疲惫感？》 文/花大钱： 爱不是和新的人不停去做旧的事，而是和旧的人不停去做新的事情。 阅读全文：http://m.wufazhuce.com/question/2752?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2752?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何克服恋爱中的疲惫感？",
+                        "desc": "爱不是和新的人不停去做旧的事，而是和旧的人不停去做新的事情。",
+                        "link": "http://m.wufazhuce.com/question/2752?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "4814886",
+                    "user_name": "花大钱",
+                    "desc": "花大钱，青年作家。",
+                    "wb_name": "@花大钱",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "花大钱，青年作家。",
+                    "fans_total": "25985",
+                    "web_url": "http://image.wufazhuce.com/Fmaj0Hb6PTZezqg7JL6s8K9rQk6r"
+                }
+            },
+            {
+                "id": "19789",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1951",
+                "title": "和你一起，见证奥斯卡的新历史",
+                "forward": "今夜属于电影，这是所有影人一年一度的高光时刻。",
+                "img_url": "http://image.wufazhuce.com/Fm8-IJ3-AmdTjXyIGp8IdsiCUpPZ",
+                "like_count": 2169,
+                "post_date": "2020-02-11 06:00:00",
+                "last_update_date": "2020-02-11 10:44:41",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "颗馨",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "第92届奥斯卡获奖名单",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4934",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1951",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1951",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1951",
+                    "image": "http://image.wufazhuce.com/Fm8-IJ3-AmdTjXyIGp8IdsiCUpPZ",
+                    "title": "「一个」电影: 第92届奥斯卡获奖名单",
+                    "content": "当奉俊昊在台上致敬马丁&bull;斯卡塞斯的那一刻，这是属于影迷的胜利，也是属于亚洲电影文化的胜利。来自韩国的《寄生虫》就这样出乎意料地创造了历史，这一切连已经站在领奖台上的奉俊昊也不敢相信。而今年的奥斯卡，是近年中竞争最激烈的一年。有马丁&middot;斯科塞斯沉寂多年的复出之作《爱尔兰人》，昆汀&middot;塔伦蒂诺的&ldquo;电影情书&rdquo;《好莱坞往事》，兼具技术与美感的战争片《1917》，还有黑马《寄生虫》。当颁奖礼落下帷幕，《寄生虫》拿下四项大奖，创造历史的荣耀，有人不服有人赞叹。当镜头扫过白发苍苍的马丁&middot;斯科塞斯的时候，又有多少人为《爱尔兰人》的全程陪跑的唏嘘遗憾。这一年，华语电影依然是缺席的。尽管中国影人高以翔和科比一同出现在了&ldquo;逝去的电影人&rdquo;短片里。致敬经典外语片环节出现了《卧虎藏龙》《霸王别姬》《重庆森林》《花样年华》的片段，我们也不能否认，那些都是过去。我们都希望华语电影即使现在萎靡不振，也有一天能够再次迎来属于自己的光荣。更希望我们的苦难早点过去，可以回到一起坐在电影院里享受电影的时光。在大银幕前，感受这些奥斯卡获奖影片的魅力。而在疫情结束之前，希望这份奥斯卡获奖影片指南，给你枯燥的居家生活带来一点乐趣。《寄生虫》最佳原创剧本&最佳国际影片（最佳外语片）&最佳导演：奉俊昊&最佳影片这部征服世界的作品，在本次奥斯卡获得六项提名，四项大奖，又代表韩国得到了第一座小金人&mdash;&mdash;也是奥斯卡历史上第一部外语的最佳影片。作为亚洲电影的代表，在奥斯卡的领奖台上，此等高光，无疑是亚洲电影的一剂强心针。奉俊昊在收割完戛纳金棕榈、金球奖、英国电影学院奖等等超重量级奖项后，凭借《寄生虫》，又一次站上了荣誉的顶点。钱就是熨斗，把一切都烫平了。不是&ldquo;有钱却很善良&rdquo;，是&ldquo;有钱所以善良&rdquo;。奉俊昊用一个残酷的社会寓言，让你开始思考，这个社会是否真的有公平可言，阶级落差的存在，富人和穷人到底谁聪明，谁善良。隐喻，反转，细节，人物无一例外的精准，让你一时间分不清，到底电影里的世界是真是假。当你开始分辨的时候，你就落入奉俊昊的陷阱了。《朱迪》最佳女主角：蕾尼&bull;齐薇格好莱坞传奇女星朱迪&bull;加兰，或许，年代久远，你不熟悉她的名字，但你一定听过影片中的那首《Somewhere over the rainbow》。而饰演朱迪&middot;加兰的同样是一位传奇女星&mdash;&mdash;蕾尼&middot;齐薇格，《BJ的单身日记》之后一炮而红，在《芝加哥》里又奉献了精彩的歌舞表演。在《朱迪》中，她重现了四十七岁的朱迪最后一次演唱会，你也一定会感动于曾经风华绝代的女星泪光闪闪的那一刻。&ldquo;你们不会忘记我的，对吗？&rdquo;《小丑》最佳男主角：华金&bull;菲尼克斯有人说《小丑》的成功一半来自于他的表演，或者更多。他的表演让人感受到一个边缘人物的愤怒，压抑和癫狂。而不同于小丑对世界的厌恶，华金本人一直致力于在各种颁奖礼上为少数群体发声，呼唤平等和爱。&ldquo;当你带着爱奔向救赎的时候，平静就会随之而来。&rdquo;&nbsp;&rdquo;电影给了世界更多样的精彩，而我们应该用电影去爱。《1917》最佳摄影&最佳混音&最佳视觉效果用一镜到底的形式来拍战争片是一种什么样的感官体验？超水准的长镜头，给观众沉浸式的体验，好像跟着镜头在战场上走一遭。两个人物，一个任务，四个场景，超越技术，到达艺术美学的高度，让战争也有诗意和美感。打破以往战争片单一的色彩，宏大的场面，聚焦人的故事，给你更多真实的感动。《极速车王》最佳剪辑&最佳音效剪辑基于真实故事，以双主角的模式记录了福特在1966年这场被载入史册的完胜，由马特&bull;达蒙饰演设计师卡罗尔&bull;谢尔比，克里斯蒂安&bull;贝尔饰演车手肯&bull;迈尔斯。热血的赛车场景，超强的音效剪辑，给人最速度最激情的赛车体验。不同于其它赛车题材电影，《极速车王》对赛车的专业讨论，制作公司的内部体制批判，及人物间的情感都要细致许多。&ldquo;当车子到达7000转时，一切都开始慢下来，一切都将变得不一样。&rdquo;《婚姻故事》最佳女配角：劳拉&bull;邓恩这次出身电影世家，七岁就开始演电影的劳拉&bull;邓恩终于斩获了自己的小金人。在一场离婚的拉锯战里，劳拉饰演的离婚律师撕破了夫妻俩最后的体面，逼着丈夫面对离婚的事实。她强势又功利，性感又体贴，关于爱情、婚姻和家庭的见解一针见血，是片中比主角还要亮眼的魅力角色。《好莱坞往事》最佳男配角：布拉德&bull;皮特&最佳美术指导《好莱坞往事》作为&ldquo;鬼才&rdquo;导演昆汀&bull;塔伦蒂诺写给好莱坞的一封情书，从嬉皮士文化盛行的1969年展开，讲述好莱坞大制片厂制度瓦解，新的好莱坞明星纷纷崛起的时代中，电视明星里克&bull;道尔顿（莱昂纳多&bull;迪卡普里奥饰）与他长期合作替身搭档克里夫&bull;布斯（布拉德&bull;皮特饰）如何在逐渐陌生的娱乐圈里，找到自己的一席之地的故事。本片汇集星光闪闪的卡司与交错的情节，极强的复古氛围，将观众带回那个好莱坞的黄金年代。值得一提的是，这是皮特第一次获得奥斯卡演员奖。《乔乔的异想世界》最佳改编剧本导演兼编剧塔伊加&bull;维迪提以儿童视角，试图轻松地讲述二战故事。乔乔渴望加入希特勒青年团，他脑内出了一个颠覆版的希特勒，这个希特勒有魅力、傻傻的、天真可爱，是他的朋友，帮助他应付生活中的困境，一切显得可笑又现实。许多充满童真台词，许多用笑来表现的深刻，值得品味。《玩具总动员4》最佳动画长片作为迪士尼和皮克斯共同出品的王牌系列，《玩具总动员4》毫无悬念的摘得最佳动画长片奖。从1995年到2019年，《玩具总动员》系列始终保持着其特有的娱乐性和温情性，第四部玩具依然是主角，在延续陪伴与遗忘这个主题之余，玩具们开始寻找自己生命的意义。从玩具的意义到自己的意义，这么多年过去，成长的不只是我们，还有这些一直陪伴我们的玩具。《美国工厂》最佳纪录长片当一个中国人在美国办厂会发生什么故事？来自福建的亿万富翁曹德旺在当地一家废弃的通用汽车工厂中开设新工厂，并雇佣了 2000 名美国蓝领工人。在后工业时代的俄亥俄州，随着高科技中国企业与美国工人阶级产生冲突，最初的希望和乐观遭受了挫折，片中不乏对曹德旺和中国工厂制的讽刺。而在颁奖典礼上，制片人在获奖感言里用中文说，&ldquo;谢谢，曹德旺。&rdquo;以下是完整获奖名单：最佳影片：《寄生虫》最佳导演：奉俊昊《寄生虫》最佳男主角：华金&bull;菲尼克斯《小丑》最佳女主角：蕾妮&bull;齐薇格《朱迪》最佳男配角：布拉德&bull;皮特《好莱坞往事》最佳女配角：劳拉&bull;邓恩《婚姻故事》最佳原创剧本：《寄生虫》最佳改编剧本：《乔乔的异想世界》最佳动画长片：《玩具总动员4》最佳国际影片：《寄生虫》（韩国）最佳纪录长片：《美国工厂》最佳摄影：罗杰&bull;狄金斯《1917》最佳剪辑：《极速车王》最佳音效剪辑：《极速车王》最佳混音：《1917》最佳美术指导：《好莱坞往事》最佳服装设计：《小妇人》最佳化妆与发型设计：《爆炸新闻》最佳视觉效果：《1917》最佳原创配乐：《小丑》Hildur Gu&eth;nad&oacute;ttir最佳原创歌曲：&ldquo;(I&rsquo;m Gonna) Love Me Again&rdquo; 《火箭人》最佳动画短片：《发之恋》最佳真人短片：《邻居的窗》最佳纪录短片：《女孩的战地滑板课》"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 和你一起，见证奥斯卡的新历史",
+                        "desc": "文/颗馨 今夜属于电影，这是所有影人一年一度的高光时刻。",
+                        "link": "http://m.wufazhuce.com/movie/1951?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 和你一起，见证奥斯卡的新历史",
+                        "desc": "文/颗馨 今夜属于电影，这是所有影人一年一度的高光时刻。",
+                        "link": "http://m.wufazhuce.com/movie/1951?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 和你一起，见证奥斯卡的新历史》 文/颗馨： 今夜属于电影，这是所有影人一年一度的高光时刻。 阅读全文：http://m.wufazhuce.com/movie/1951?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1951?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "和你一起，见证奥斯卡的新历史",
+                        "desc": "今夜属于电影，这是所有影人一年一度的高光时刻。",
+                        "link": "http://m.wufazhuce.com/movie/1951?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19770",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3062",
+                "title": "一起来\"听\"奥斯卡",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FtLzJ2BhS0T3blMwYJthdraCLGOS?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1243,
+                "post_date": "2020-02-11 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "4814667",
+                    "user_name": "凉炘、马晓橙",
+                    "desc": "青年作家、「ONE·一个」常驻作者。",
+                    "wb_name": "@凉炘",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家、「ONE·一个」常驻作者。",
+                    "fans_total": "25808",
+                    "web_url": "http://image.wufazhuce.com/Fgnxy66nFQ7wSQekWMCtsclejWHi"
+                },
+                "content_id": "3062",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3062",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 一起来\"听\"奥斯卡",
+                        "desc": "因为有钱所以很善良——《寄生虫》",
+                        "link": "http://m.wufazhuce.com/radio/3062?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lij3h6s8t6nt8dhqZilF9yoMYAea"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 一起来\"听\"奥斯卡",
+                        "desc": "因为有钱所以很善良——《寄生虫》",
+                        "link": "http://m.wufazhuce.com/radio/3062?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lij3h6s8t6nt8dhqZilF9yoMYAea"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 一起来\"听\"奥斯卡》 主播/凉炘等二位： 因为有钱所以很善良——《寄生虫》 阅读全文：http://m.wufazhuce.com/radio/3062?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3062?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lij3h6s8t6nt8dhqZilF9yoMYAea"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "一起来\"听\"奥斯卡",
+                        "link": "http://m.wufazhuce.com/radio/3062?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lij3h6s8t6nt8dhqZilF9yoMYAea"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 772 期",
+                "audio_url": "http://music.wufazhuce.com/lij3h6s8t6nt8dhqZilF9yoMYAea"
+            }
+        ],
+        "menu": {
+            "vol": "2684",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4193",
+                    "title": "云痒"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1102",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症：第六章•善变"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2752",
+                    "title": "如何克服恋爱中的疲惫感？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1951",
+                    "title": "和你一起，见证奥斯卡的新历史"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3062",
+                    "title": "一起来\"听\"奥斯卡"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

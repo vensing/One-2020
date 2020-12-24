@@ -1,0 +1,571 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5454",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-26 06:00:00",
+        "content_list": [
+            {
+                "id": "20019",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2768",
+                "title": "摄影",
+                "forward": "人生有许多事情，正如船后的波纹，总要过后才觉得美的。",
+                "img_url": "http://image.wufazhuce.com/Fhhl-jCob89WIauJiT9ZG-NaCZiH",
+                "like_count": 18259,
+                "post_date": "2020-03-26 06:00:00",
+                "last_update_date": "2020-03-18 11:29:24",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2728",
+                "pic_info": "Geo Days",
+                "words_info": "余光中",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2768",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2768",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2768",
+                    "image": "http://image.wufazhuce.com/Fhhl-jCob89WIauJiT9ZG-NaCZiH",
+                    "title": "VOL.2728",
+                    "content": "人生有许多事情，正如船后的波纹，总要过后才觉得美的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2768?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2768?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人生有许多事情，正如船后的波纹，总要过后才觉得美的。——余光中 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2768?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2768?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20039",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4251",
+                "title": "兼职大人",
+                "forward": "整个城市根本就没有大人，大人是孩子的工作服，爸爸，妈妈，是职位，年纪是工号，但他们只是兼职做大人。一到假期就失踪。一到下班就变小孩。",
+                "img_url": "http://image.wufazhuce.com/FjyYCLQnOLMQ5WcsiD0o5L-bxhW5",
+                "like_count": 2742,
+                "post_date": "2020-03-26 06:00:00",
+                "last_update_date": "2020-03-26 17:08:02",
+                "author": {
+                    "user_id": "5529761",
+                    "user_name": "短痛",
+                    "desc": "写作者。著有《孤独的孩子，提着易碎的灯笼》。",
+                    "wb_name": "@短tone",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作者。",
+                    "fans_total": "6392",
+                    "web_url": "http://image.wufazhuce.com/Fna7qucK98hngcbtH1Ek9tzAHqL_"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4251",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4251",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4251",
+                    "image": "http://image.wufazhuce.com/FjyYCLQnOLMQ5WcsiD0o5L-bxhW5",
+                    "title": "兼职大人 作者/短痛",
+                    "content": "“我给你讲个故事吧，就是我正在画的这个。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 兼职大人",
+                        "desc": "文/短痛 “我给你讲个故事吧，就是我正在画的这个。”",
+                        "link": "http://m.wufazhuce.com/article/4251?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 兼职大人",
+                        "desc": "文/短痛 “我给你讲个故事吧，就是我正在画的这个。”",
+                        "link": "http://m.wufazhuce.com/article/4251?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 兼职大人》 文/短痛： “我给你讲个故事吧，就是我正在画的这个。” 阅读全文：http://m.wufazhuce.com/article/4251?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4251?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "兼职大人",
+                        "desc": "“我给你讲个故事吧，就是我正在画的这个。”",
+                        "link": "http://m.wufazhuce.com/article/4251?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20034",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1140",
+                "title": "即将来临·下一个世界：第三章",
+                "forward": "“该来的总会来……”听到泰恩名字，陆虎心中一怔，过了一会儿反而又感到了一种解脱。",
+                "img_url": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                "like_count": 671,
+                "post_date": "2020-03-26 06:00:00",
+                "last_update_date": "2020-04-07 18:17:07",
+                "author": {
+                    "user_id": "11174853",
+                    "user_name": "李永明",
+                    "desc": "我一路奋斗，不仅为了改变世界，也为了不让世界改变我……",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "《即将来临》第二部正在创作中",
+                    "fans_total": "219",
+                    "web_url": "http://image.wufazhuce.com/FvEDXeitvNoNe_H1vF8iAZC9Ht8B"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第3章",
+                "number": "3",
+                "serial_id": "82",
+                "serial_list": [
+                    "1136",
+                    "1137",
+                    "1140",
+                    "1141",
+                    "1143",
+                    "1145",
+                    "1147",
+                    "1149",
+                    "1152",
+                    "1153",
+                    "1155",
+                    "1157",
+                    "1159",
+                    "1160"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1140",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1140",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1140",
+                    "image": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                    "title": "即将来临·下一个世界：第三章 作者/李永明",
+                    "content": "“该来的总会来……”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 即将来临·下一个世界：第三章",
+                        "desc": "文/李永明 “该来的总会来……”",
+                        "link": "http://m.wufazhuce.com/serial/1140?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 即将来临·下一个世界：第三章",
+                        "desc": "文/李永明 “该来的总会来……”",
+                        "link": "http://m.wufazhuce.com/serial/1140?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 即将来临·下一个世界：第三章》 文/李永明： “该来的总会来……” 阅读全文：http://m.wufazhuce.com/serial/1140?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1140?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "即将来临·下一个世界：第三章",
+                        "desc": "“该来的总会来……”",
+                        "link": "http://m.wufazhuce.com/serial/1140?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20043",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2798",
+                "title": "为什么很多人会咨询情感问题？",
+                "forward": "我知道很多人跟别人讲自己感情的迷路时刻，是真的很委屈，真的难过，真的不知道怎么办。",
+                "img_url": "http://image.wufazhuce.com/FgcPrsgFpz2Q9kQeWpbZ-Jj8SAHm",
+                "like_count": 2478,
+                "post_date": "2020-03-26 06:00:00",
+                "last_update_date": "2020-03-25 15:23:10",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "他不适合你",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2798",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2798",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2798",
+                    "image": "http://image.wufazhuce.com/FgcPrsgFpz2Q9kQeWpbZ-Jj8SAHm",
+                    "title": "为什么很多人会咨询情感问题？",
+                    "content": "为什么很多人会咨询情感问题？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 为什么很多人会咨询情感问题？",
+                        "desc": "文/文长长 很多人讲自己感情的迷路时刻，是真的很委屈，真的难过，真的不知道怎么办。",
+                        "link": "http://m.wufazhuce.com/question/2798?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 为什么很多人会咨询情感问题？",
+                        "desc": "文/文长长 很多人讲自己感情的迷路时刻，是真的很委屈，真的难过，真的不知道怎么办。",
+                        "link": "http://m.wufazhuce.com/question/2798?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 为什么很多人会咨询情感问题？》 文/文长长： 很多人讲自己感情的迷路时刻，是真的很委屈，真的难过，真的不知道怎么办。 阅读全文：http://m.wufazhuce.com/question/2798?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2798?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "为什么很多人会咨询情感问题？",
+                        "desc": "很多人讲自己感情的迷路时刻，是真的很委屈，真的难过，真的不知道怎么办。",
+                        "link": "http://m.wufazhuce.com/question/2798?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "20029",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1970",
+                "title": "善良勇敢，是人性闪光的开始",
+                "forward": "你身处这样一个环境，只有第一次给他们颜色瞧，之后他们才不敢欺负你。",
+                "img_url": "http://image.wufazhuce.com/FiDcjXh7qIENTXJnHbDmWytXFimt",
+                "like_count": 2024,
+                "post_date": "2020-03-26 06:00:00",
+                "last_update_date": "2020-03-30 23:22:32",
+                "author": {
+                    "user_id": "10639474",
+                    "user_name": "绿衣种子  ",
+                    "desc": "心若没有归宿的地方，走到哪里都是流浪",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "心若没有归宿的地方，走到哪里都是流浪",
+                    "fans_total": "532",
+                    "web_url": "http://image.wufazhuce.com/FuWxQsFAstQPKM-ByxkvFS0lmpE4"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "布达佩斯大饭店",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4953",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1970",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1970",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1970",
+                    "image": "http://image.wufazhuce.com/FiDcjXh7qIENTXJnHbDmWytXFimt",
+                    "title": "「一个」电影: 布达佩斯大饭店",
+                    "content": "从前的故事，一人讲，众人听，讲故事的人与听故事的人密切地联系在特定环境中。当电子时代迅速崛起，手机，电视替代面对面交流，传统的讲故事技巧被渐渐淡忘。&nbsp;导演韦斯&middot;安德森用他擅长的对称构图法，将这部宁静唯美《布达佩斯大饭店》致敬传统的故事。它采用卡通化的粉色基调，优雅，恬静，无论是饭店还是雪景都塑造的美轮美奂。精心安排的场景，明暗同一的色调，即使抛开剧情，也能带来丰富的视觉享受。影片的叙述方式分为三层，第一层是观众与电影，第二层是作家与女读者，第三层也是我们看到的主要的部分：泽罗在餐厅里对作家讲他与古斯塔夫亲历的故事。镜头转换用简单的推拉摇移，将一个故事生动鲜活地娓娓道来。影片配乐中多使用欧洲早期乐器与教堂合唱，将观众带入古典欧洲文化，那个记忆中充满人文关怀的时代。故事要从遥远的欧洲开始说起，那是一个美好的时代，或者说是一个并没有存在过的时代。01 古斯塔夫古斯塔夫是布达佩斯大饭店的礼宾员，他梳着整齐的头发，总是身穿一套笔直挺拔的紫色燕尾服，举止优雅，行为得体，他如同古典欧洲走出的绅士，他关怀身边的所有人，内心寂寞年华老去的妇人，战乱中被迫离开故乡的泽罗。D夫人在离别时坦言自己有预感这次分离会是他们最后的见面。电梯里，古斯塔夫给D夫人吟咏起古老浪漫的诗歌，细心安慰她别她想太多。泽罗是剧中的主人公，卷曲的棕发，无邪的眼睛，他来自难民之乡，受战争压迫来到文明大陆，成为布达佩斯大饭店的门童，古斯塔夫的学徒。他跟随古斯塔夫认真学习一个优秀门童的本领。影片的第一部分更像在为后面的故事铺垫，情节由温情转为紧张惊险的阴谋。02 D夫人D夫人死于砒霜中毒，下毒的人就是她的儿子德米特里。古斯塔夫没有想到D夫人的预感竟然成为了现实，他决定去看老朋友最后一眼。这里有个细节，古斯塔夫吩咐泽罗带上一瓶82年的红酒，在火车上，他用高脚的玻璃杯盛着红酒，与泽罗聊天。对生活高标准的要求，何尝不是美的体现呢？战争已经爆发，境内的军官在火车沿路设卡拘捕流民，古斯塔夫与泽罗乘坐的列车停在荒芜的麦田上。军士上车检查身份，他们表情严肃，神情冷峻，古斯塔夫却轻松自如地与他们打招呼。当他们发现泽罗的流民身份，要强行将他带走，古斯塔夫毫不犹豫抛开优雅，愤怒地抵抗。争吵的动静引来了长官的关注，军官戴着普鲁士传统的简形帽，导演在上面画了一只狐狸，平添可爱。军官的母亲与古斯塔夫是好友，在童年是对他亦多关照，他为泽罗开了一张临时出入许可证。在这野蛮的屠宰场上，古斯塔夫多年对人的关怀，照亮了一丝人性的光辉。古斯塔夫与泽罗深夜到达鲁兹公寓&mdash;&mdash;D夫人的家，这里庄严、气派、富丽堂皇，像一座王宫，但深棕色与漆黑的色调却让人感到阴森压抑。D夫人的遗体安详的躺在棺木里，穿过层层楼梯，古斯塔夫终能与老朋友告别。古斯塔夫细心殷勤的付出得到了回报&mdash;&mdash;D夫人在遗产中把无价之宝《苹果与男孩》免息赠送给他。这引来了D夫人儿子德米特里极大的愤怒。剧中的德米特里，消瘦，阴险，对遗产有着变态的占有欲。他像极了一战时期的希特勒，凶狠，野蛮，妄图掠夺祖先的一切财富却对精神文明视而不见。德米特里与古斯塔夫大打出手，冷血打手出场。故事节奏紧凑，一环扣一环，古斯塔夫与泽罗偷走墙上的油画，管家瑟奇将一封密信包在里面，却没有告诉任何人。古斯塔夫与泽罗带着画开始了逃亡之旅。03 19号检查站，罪犯拘留所知道真相的管家瑟奇失踪，荒诞不经的是，德米特里仅凭几张没有人的房子照片将古斯塔夫关进监狱，以毒杀D夫人的罪名。古斯塔夫进监狱第一天就挂了彩。&nbsp;他对泽罗说：&ldquo;当你身处这样一个环境，只有第一次给他们颜色瞧，之后他们才不敢欺负你。&rdquo;事实上，他与打他的刀疤脸成为了好朋友。优雅的外表，从容的举止，是一个绅士的必修课。古斯塔夫还拥有一颗勇敢的心，他敢于反抗所有的恶，也愿意对所有的美好与不幸抱以关怀。古斯塔夫给监狱中的囚犯送伙食。他能记住每一个囚犯的名字，口味爱好，细心的照顾终于获得回报，监狱的大哥邀请他&ldquo;入伙&rdquo;，参与他们的逃狱行动。细看大哥身上的纹身，简直萌的可爱。&nbsp;逃狱用的挖土工具由泽罗的女友阿加莎放置在蛋糕中送进监狱，蛋糕小巧精致，即使是检查的狱卒也不忍心破坏。这样，紧张又滑稽的逃狱上演了。爬楼梯，钻地洞，在杀了五个狱卒后，几人终于逃出生天。在监狱内的楼梯上，他们差点被其他囚犯举报，幸好受古斯塔夫照顾过的好朋友刀疤脸解决了要打小报告的囚犯。导演的强迫症真是处处可见，对称的狱卒，对称的逃犯，像一朵梅花。泽诺在监狱外面等待，古斯塔夫问：&ldquo;我们没有安全屋了是吗？&rdquo;战争已经开始了，何处能有安全屋呢？德米特里修改遗嘱，他的打手接连杀了正直的律师、瑟奇无辜的姐姐，为了遗产简直丧心病狂。此时，欧洲这块文明大陆被铁蹄践踏，德米特里在整理财产数天后才发现画被掉包，换上的画还是一幅颇具讽刺意味的画面。&nbsp;古斯塔夫在监狱外与同伴分别，他可以接受没有安全屋的事实，也能原谅泽罗未准备假胡子类的装扮物，却无法忍受泽罗没带古龙香水而不顾生命安全在监狱外责骂他。对他来说，干净的仪表，散发着香气的衣服如同自己的生命，但当他听到泽罗的难民经历，他立刻道歉并反思自己。如此紧张的情况仍不忘寒暄，他询问阿加莎的情况，泽罗开始背诗，此时警报响了，古斯塔夫带着泽罗逃跑却不忘叮嘱他等会儿要接下去背。欧洲文明对于难民的态度是关怀，古斯塔夫的风度是彬彬有礼，是爱憎分明，在生死面前还能高雅地吟诗。04 社交网络二人逃到野外，到处是追捕他们的士兵，他们的身边只有一座电话亭，古斯塔夫决定启动特殊帮助服务，这里出现了一个神秘的组织&mdash;&mdash;十字钥匙结社。图片上有九把精美的钥匙，分别代表各地有名的大酒店。他们的管理员一接到成员的求助电话，立刻停下手边的工作，最终提供了瑟奇的藏身之处，并且为古斯塔夫安排到一辆几分钟后停靠的列车。钥匙是心灵的契约，你锁了，人家就懂了。&nbsp;影片的开头作家的墓碑上也挂满了钥匙，泽罗在几十年后仍然留存古斯塔夫的钥匙，可以说，钥匙贯穿整部影片。口头契约依靠道德维护，纸质契约依靠法律保证，唯有心灵的契约，一生一世永不解除。我们与文明的契约，永远不到保质期。当古斯塔夫和泽罗往梅列峰赶时，打手也发现了瑟奇的躲藏地点，并且在瑟奇说出秘密前在众人面前结果了他。古斯塔夫与泽罗追赶上去，二人的心中充满恐惧，他们甚至后悔追着这个杀人狂魔。当古斯塔夫濒临悬崖，打手一脚一脚踩着即将断裂的冰块，古斯塔夫吟咏：&ldquo;若我的生命将尽于此，别了&hellip;&hellip;&rdquo;从雪地中脱身的泽罗将杀手推入悬崖，救出古斯塔夫。05 第二份遗嘱的第二副本战争全面爆发，军队进驻布达佩斯大饭店，挂上了双z横旗，双z图象征着纳粹的双闪电旗帜。净土充满枪支弹药，不再宁静。阿加莎回饭店取画，德米特里紧跟在她身后，泽罗和古斯塔夫也追上去，引发了一场枪战。这场枪战，好几方都不知道原因，却依然连发子弹，荒谬可笑。故事的结局，画后的遗嘱备份被发现，古斯塔夫继承了D夫人的全部财产。泽罗与阿加莎结婚。这是童话故事中经典的完美的结局，导演却并不停留于此。列车上，他们再次停在了荒郊野外，上来的士兵雄壮冷酷，古斯塔夫依旧风度翩翩的与他们打招呼。&nbsp;临时通行证失去效用，他们打晕泽罗，古斯塔夫怒吼：&rdquo;你们这该死的，满脸麻子的法西斯混蛋！&rdquo;最终，他们向他开了枪。古斯塔夫死亡，泽罗继承了全部遗产。昔日的鲁兹公寓成为公墓，暗示着没有精神支撑的野蛮时代终会过去。泽罗继承了布达佩斯大饭店，在迷人的废墟中如古斯塔夫般优雅考究，这是他无言的坚守，作家的墓上挂满钥匙，女读者手捧小说虔诚观看，其实，我们每个人与文明早就立下了契约。无论是咿呀学语，还是观看一部电影，或是手机前的你正在看一篇文章，文明的光辉，就这么自然而然的显现出来，被继承，被传颂，被发扬。布达佩斯大饭店像一篇古老的诗歌，久未翻阅，已积满灰尘，但若静静观赏，人性文明的光辉，成为一把把精美的钥匙，轻轻锁上，再也不解开。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 善良勇敢，是人性闪光的开始",
+                        "desc": "文/绿衣种子   被优雅温柔守护的世界，原来是这样的。",
+                        "link": "http://m.wufazhuce.com/movie/1970?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 善良勇敢，是人性闪光的开始",
+                        "desc": "文/绿衣种子   被优雅温柔守护的世界，原来是这样的。",
+                        "link": "http://m.wufazhuce.com/movie/1970?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 善良勇敢，是人性闪光的开始》 文/绿衣种子  ： 被优雅温柔守护的世界，原来是这样的。 阅读全文：http://m.wufazhuce.com/movie/1970?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1970?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "善良勇敢，是人性闪光的开始",
+                        "desc": "被优雅温柔守护的世界，原来是这样的。",
+                        "link": "http://m.wufazhuce.com/movie/1970?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20020",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3100",
+                "title": "这座城中，你是我最后的避难所",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FsQAG8A_9GqXEIa5if5wzQ8EFXLj?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1670,
+                "post_date": "2020-03-26 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3100",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3100",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 这座城中，你是我最后的避难所",
+                        "desc": "喧嚣里最安静的角落——出租车",
+                        "link": "http://m.wufazhuce.com/radio/3100?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqzTtvmrfdP5tRkdbiaBF7gT1DKj"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 这座城中，你是我最后的避难所",
+                        "desc": "喧嚣里最安静的角落——出租车",
+                        "link": "http://m.wufazhuce.com/radio/3100?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqzTtvmrfdP5tRkdbiaBF7gT1DKj"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 这座城中，你是我最后的避难所》 主播/马晓橙： 喧嚣里最安静的角落——出租车 阅读全文：http://m.wufazhuce.com/radio/3100?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3100?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lqzTtvmrfdP5tRkdbiaBF7gT1DKj"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "这座城中，你是我最后的避难所",
+                        "link": "http://m.wufazhuce.com/radio/3100?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqzTtvmrfdP5tRkdbiaBF7gT1DKj"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 793 期",
+                "audio_url": "http://music.wufazhuce.com/lqzTtvmrfdP5tRkdbiaBF7gT1DKj"
+            }
+        ],
+        "menu": {
+            "vol": "2728",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4251",
+                    "title": "兼职大人"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1140",
+                    "serial_list": [
+                        "1136",
+                        "1137",
+                        "1140",
+                        "1141",
+                        "1143",
+                        "1145",
+                        "1147",
+                        "1149",
+                        "1152",
+                        "1153",
+                        "1155",
+                        "1157",
+                        "1159",
+                        "1160"
+                    ],
+                    "title": "即将来临·下一个世界：第三章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2798",
+                    "title": "为什么很多人会咨询情感问题？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1970",
+                    "title": "善良勇敢，是人性闪光的开始"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3100",
+                    "title": "这座城中，你是我最后的避难所"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

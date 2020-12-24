@@ -1,0 +1,509 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5658",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-10-21 06:00:00",
+        "content_list": [
+            {
+                "id": "21319",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2979",
+                "title": "摄影",
+                "forward": "饭桌上其实是有人间的悲欢离合的。",
+                "img_url": "http://image.wufazhuce.com/Ft6pPgS60A1oLZcNLyrz0h_noj_G",
+                "like_count": 13200,
+                "post_date": "2020-10-21 06:00:00",
+                "last_update_date": "2020-10-20 15:26:39",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2937",
+                "pic_info": "Job Savelsberg",
+                "words_info": "《饮食男女》 ​​​",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2979",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2979",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2979",
+                    "image": "http://image.wufazhuce.com/Ft6pPgS60A1oLZcNLyrz0h_noj_G",
+                    "title": "VOL.2937",
+                    "content": "饭桌上其实是有人间的悲欢离合的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2979?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2979?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 饭桌上其实是有人间的悲欢离合的。——《饮食男女》 ​​​ 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2979?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2979?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21318",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4487",
+                "title": "当人成熟的这天",
+                "forward": "我们必须学会进退有度，不受伤害，也尽量不伤害别人。",
+                "img_url": "http://image.wufazhuce.com/FhOx4VkJOfg5Gjspt0_awMt8yR1A",
+                "like_count": 3482,
+                "post_date": "2020-10-21 06:00:00",
+                "last_update_date": "2020-10-21 09:41:16",
+                "author": {
+                    "user_id": "4813757",
+                    "user_name": "苏更生",
+                    "desc": "「一个」App常驻作家，微信公众号：ishikuaiqian",
+                    "wb_name": "@假苏更生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "「一个」App常驻作家。",
+                    "fans_total": "97549",
+                    "web_url": "http://image.wufazhuce.com/Fg_e6teZsb3lZ1QStYtdnAkh6bO8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4487",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4487",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4487",
+                    "image": "http://image.wufazhuce.com/FhOx4VkJOfg5Gjspt0_awMt8yR1A",
+                    "title": "当人成熟的这天 作者/苏更生",
+                    "content": "在天真和成熟的两边，我选择了成熟。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 当人成熟的这天",
+                        "desc": "文/苏更生 在天真和成熟的两边，我选择了成熟。",
+                        "link": "http://m.wufazhuce.com/article/4487?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 当人成熟的这天",
+                        "desc": "文/苏更生 在天真和成熟的两边，我选择了成熟。",
+                        "link": "http://m.wufazhuce.com/article/4487?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 当人成熟的这天》 文/苏更生： 在天真和成熟的两边，我选择了成熟。 阅读全文：http://m.wufazhuce.com/article/4487?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4487?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "当人成熟的这天",
+                        "desc": "在天真和成熟的两边，我选择了成熟。",
+                        "link": "http://m.wufazhuce.com/article/4487?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21249",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1310",
+                "title": "丧书·第八章：未央",
+                "forward": "如果一段亲密关系，在最初时便令你感到失望，那么之后只会一直糟下去，即便偶有好的征兆，那也仅仅是经不起推敲的自我安抚。",
+                "img_url": "http://image.wufazhuce.com/Fisz_ZuaUTFtSRGBJzV1RXVm2RZd",
+                "like_count": 997,
+                "post_date": "2020-10-21 06:00:00",
+                "last_update_date": "2020-10-10 15:11:21",
+                "author": {
+                    "user_id": "8795394",
+                    "user_name": "刘酿苦",
+                    "desc": "你想当我第51个粉丝吗？ 公众号：刘酿苦。",
+                    "wb_name": "@刘酿苦",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "其实我很甜。",
+                    "fans_total": "5690",
+                    "web_url": "http://image.wufazhuce.com/FnaSk0TmlreBXvKXCFxxvN2nBMHy"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第8章",
+                "number": "8",
+                "serial_id": "89",
+                "serial_list": [
+                    "1302",
+                    "1303",
+                    "1304",
+                    "1305",
+                    "1306",
+                    "1308",
+                    "1309",
+                    "1310",
+                    "1311",
+                    "1312",
+                    "1313",
+                    "1314"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1310",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1310",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1310",
+                    "image": "http://image.wufazhuce.com/Fisz_ZuaUTFtSRGBJzV1RXVm2RZd",
+                    "title": "丧书·第八章：未央 作者/刘酿苦",
+                    "content": "如果一段亲密关系，在最初时便令你感到失望，那么之后只会一直糟下去。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 丧书·第八章：未央",
+                        "desc": "文/刘酿苦 如果一段亲密关系，在最初时便令你感到失望，那么之后只会一直糟下去。",
+                        "link": "http://m.wufazhuce.com/serial/1310?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 丧书·第八章：未央",
+                        "desc": "文/刘酿苦 如果一段亲密关系，在最初时便令你感到失望，那么之后只会一直糟下去。",
+                        "link": "http://m.wufazhuce.com/serial/1310?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 丧书·第八章：未央》 文/刘酿苦： 如果一段亲密关系，在最初时便令你感到失望，那么之后只会一直糟下去。 阅读全文：http://m.wufazhuce.com/serial/1310?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1310?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "丧书·第八章：未央",
+                        "desc": "如果一段亲密关系，在最初时便令你感到失望，那么之后只会一直糟下去。",
+                        "link": "http://m.wufazhuce.com/serial/1310?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21311",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3012",
+                "title": "快乐是生活中最重要的吗？",
+                "forward": "我们要一种真实的快乐。",
+                "img_url": "http://image.wufazhuce.com/FpjUq7a_VDcSvtEPWIvzJjIu363o",
+                "like_count": 2209,
+                "post_date": "2020-10-21 06:00:00",
+                "last_update_date": "2020-10-16 18:02:01",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "凉风起天末",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3012",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3012",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3012",
+                    "image": "http://image.wufazhuce.com/FpjUq7a_VDcSvtEPWIvzJjIu363o",
+                    "title": "快乐是生活中最重要的吗？",
+                    "content": "快乐是生活中最重要的吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 快乐是生活中最重要的吗？",
+                        "desc": "文/林庭 是。",
+                        "link": "http://m.wufazhuce.com/question/3012?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 快乐是生活中最重要的吗？",
+                        "desc": "文/林庭 是。",
+                        "link": "http://m.wufazhuce.com/question/3012?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 快乐是生活中最重要的吗？》 文/林庭： 是。 阅读全文：http://m.wufazhuce.com/question/3012?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3012?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "快乐是生活中最重要的吗？",
+                        "desc": "是。",
+                        "link": "http://m.wufazhuce.com/question/3012?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "21316",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3348",
+                "title": "各自散场，勿念心上",
+                "forward": "回不去了，强行回去，也不复当初。",
+                "img_url": "http://image.wufazhuce.com/Fpz6TmoG5p-R-p2mBVXP0iJl7nOH",
+                "like_count": 1995,
+                "post_date": "2020-10-21 06:00:00",
+                "last_update_date": "2020-10-20 17:52:10",
+                "author": {
+                    "user_id": "10594014",
+                    "user_name": "二葵",
+                    "desc": "直截了当白羊座",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "直截了当白羊座",
+                    "fans_total": "1144",
+                    "web_url": "http://image.wufazhuce.com/FnCiAnxUC4bylXx_kO0LdYbiz8As"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lrXdoBCexOJWsyiIkIEcuHnOu4qk",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "最后的告别",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3348",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3348",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3348",
+                    "image": "http://image.wufazhuce.com/Fpz6TmoG5p-R-p2mBVXP0iJl7nOH",
+                    "title": "「一个」音乐: 二葵 最后的告别",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1沈惜文觉得自己从来没有遇到过这么尴尬的时候。她焦灼地站在路边不停地挥着手招揽出租车，可一辆辆车从她面前无情地呼啸而过，就打定了要看她笑话。裴浩也在旁边不停地拦车，她转过头，看向这个因为她的焦灼也变得手足无措的男生，认命地叹了一口气，从钱包里摸出身份证看向他，&ldquo;那个&hellip;&hellip;你带身份证了吗？ &rdquo;&ldquo;&hellip;&hellip;带了。&rdquo;裴浩高但是瘦，看起来身形还没长全，而惜文又天生自带一张娃娃脸，酒店前台自他们进来时眼神里就带上了审视，等再一看身份证，嚯，果然没成年。&ldquo;那个！两间房！&rdquo;沈惜文声音坚定，气势很足。&ldquo;对对，两间房。&rdquo;裴浩点头附和着，前台姐姐的眼神终于和善了一点。&nbsp;2惜文和裴浩在新生羽毛球队认识，这是他们的第一次约会。惜文一路都在后悔，如果刚才她没有排队去买烤鱿鱼就好了，那样她也不会过了闭寝的时间，她一点都不想让裴浩觉得她是个随便的女生。躺在酒店的大床房上叹气，手机叮咚一声响，是裴浩的微信：今天对不起，是我没有把握好时间。惜文笑了，她甚至可以透过屏幕看到裴浩那自责懊恼的样子，就跟那天他把羽毛球砸在她脸上后，跑过来道歉时的表情一模一样。心里突然就不那么焦躁了，她不是随便的人，他也不是。裴浩打开门就看到惜文站在门口，他愣住，女生的脸蛋红扑扑的，眼睛明亮又干净，&ldquo;我只是想过来跟你聊聊天。&rdquo;一颗心扑通扑通狂跳叫嚣着几乎要从嗓子眼里蹦出来，裴浩侧身让惜文进来，自己跟在她身后，不敢跟得太近，一直隔着一段距离。两个人什么都没有做，就只是聊天，已经不记得从什么话题开始了，但就是一直说话说话，说得房间里的矿泉水全部喝完，说得两个人眼皮睁都睁不开，困得掉头，却还是谁都不想睡，一直强撑着，一直说话。后来窗外的天色开始蒙蒙亮，裴浩看了眼手机，已经快6点了。惜文不知什么时候已经歪在了床上，他给她盖好被子，轻声说，&ldquo;睡一会儿吧。&rdquo;又是一夜的相处下来，惜文知道自己喜欢裴浩，她也知道他们两个现在躺在一张床上，而且她又困又累，如果裴浩想对她做什么，那简直是易如反掌。可是莫名的，她知道他不会。不知道睡了多久，惜文混混沌沌地睁开眼睛，裴浩在离她有半个手臂的地方安静地睡着，侧脸对着她。惜文又闭上眼睛，在快要再次睡着前，她借着困劲儿，翻身滚进了裴浩怀里，她能感觉到裴浩几乎立刻就醒了，可是他一动也没有动。过了很久很久，裴浩才动了一下，他万分谨慎万分呵护般地抬手抚了抚惜文的头发，又亲了亲她的额头。那天过后两个人便心照不宣，他们又有了几次约会，每一次都是简单又浪漫，后来在电影院看电影时，惜文转头亲了裴浩的侧脸，他转头亲了她。那是她的初吻，他是她的初恋。&nbsp;3他们是所有人眼中公认的最甜情侣，几乎没有吵过架，不是不闹矛盾，是在惜文刚开始生小气的时候，裴浩就能迅速察觉并哄好。他们会陪对方去上早课，每一天裴浩都会等在惜文的宿舍楼下，惜文没有一次是在下楼时看不到他的，而且不管等多久，有时候久到惜文都觉得自己过分了，可裴浩却仍没有不耐烦。只要看到惜文下楼，裴浩都会在一瞬间笑逐颜开，张开怀抱等她扑过来。惜文个子小，每次出去玩都不喜欢走远路，裴浩便扫个小蓝车让她坐上去，她蜷在座位上，他扶着把手推着她，再慢慢悠悠向前走。惜文喜欢喝奶茶吃烤鱿鱼，只要她想吃，哪怕是大半夜，裴浩都会跑去给她买了送过来；惜文口不照心，点外卖的时候，她说不知道吃什么，裴浩就把外卖界面拉出来一个个读给她听，她每一个都说不想吃，就连明明想吃的都说不想吃，可是裴浩却能从她细微的情感变化里，把她喜欢的抓出来点给她，这么多年没有一次失误过。后来他们都满了18岁，过了19岁，到了20岁的时候，她抱着他嘎嘎笑，说现在我们去开房，前台的姐姐就不会瞪我们啦！惜文对朋友说：&ldquo;你知道吗？我曾经以为我不会结婚，可是在某些瞬间，我是真的想嫁给裴浩。&rdquo;记得有一次，惜文来例假痛掉了半条命，为了方便照顾她裴浩在酒店开了房，那天惜文几乎没有下床，裴浩在她旁边一直守着，不停地给她换热水袋。第二天醒来肚子不疼了，惜文爬起来去卫生间刷牙，裴浩把接好水的刷牙杯递给她，触手所及，水是温的。&ldquo;你知道吗&rdquo;，惜文又重复了一遍，&ldquo;那个水是温的。&rdquo;朋友长叹一口气：&ldquo;谁会想到你们走不到最后呢。&rdquo;惜文扯出一丝笑：&ldquo;是啊，谁会想到。&rdquo;&nbsp;4他们分手是在疫情期间，本来放假前约好的，等快开学时裴浩来惜文的城市找她，两个人再一起去哈尔滨，她想去的那家网红饭店只有哈尔滨才有，她已经期盼了一年多。大概这么多年她已经习惯了被裴浩照顾，在长期极度的宠爱下，她很久都没有换位思考了。疫情使他们的哈尔滨之旅泡汤了，他们见面的时间也不得不往后一延再延，长期憋闷在家里使不是宅女的惜文变得越来越焦躁，她每天都有好多的抱怨要讲，每天和裴浩的电话都是负能量。这天裴浩喝酒了，惜文的电话打过去时他是醉醺醺的，惜文本来就不好的心情变得更加不好，她劈头盖脸地一顿数落，可这次裴浩没有静静听着。&ldquo;你知道我为什么喝酒吗？沈惜文，我烦得很，我也觉得你烦得很。&rdquo;&ldquo;什么？&rdquo;惜文像是没听清。&ldquo;我不爱你了，你没发现吗？我从半个月前就不爱你了。&rdquo;惜文觉得握着手机的手都在抖，他不爱她了，她为什么没有丝毫察觉？&ldquo;你总是想让我去这里找你，去那里找你，可是我每次在去很远又很陌生的地方时也会担心会害怕，沈惜文，我是个人，不是你的垃圾桶。&rdquo;&ldquo;你让我缓一缓。&rdquo;惜文半晌才开口说话，声音干涩得像不是自己的，&ldquo;你说你不爱我了，你让我缓一缓。&rdquo;电话那头良久没有响声，最后裴浩的声音还是传过来：&ldquo;我们分手吧。&rdquo;&nbsp;5裴浩说了分手后惜文一直是恍惚的，因为第二天酒醒后裴浩还是像以前那样对她，每天提醒她容易忘记的任何小事，日常嘘寒问暖，点好外卖等快送到家门口的时候，再提醒惜文下楼去拿。惜文觉得那晚的吵架像是一场梦，梦里他斩钉截铁地说着不爱她。可是那终究不是梦。惜文发现裴浩最近经常登QQ小号，忍了几次终于没忍住去问他，你是不是在小号上撩其他的小姐姐？当时惜文问的时候不是在质问，可也许是以前质问过他太多次，裴浩以为她又在找事。于是他就说：是啊。吵架后的第一次和好机会，他们就这样错过了，反而又爆发了一次更激烈的争吵，惜文确信了他那句不爱她是真的，他们是真的分手了。如果一个人不再爱她，那么不管自己还爱不爱对方，惜文都会选择放手，她没有纠缠，以前的过往种种都太过美好，她害怕自己的纠缠会破坏原有的那份美好。她说，我们都换一个号吧，这个QQ就不要再用了，动态和相册里都有太多美好的回忆，我不想删掉，把它们都尘封起来吧，尘封起来重新开始。还有，记得发最后一条动态，说我们分手了。他们从一开始交往就一直浪漫又美好，连分手的方式都那么浪漫，浪漫到朋友都不相信，以为他们的分手也只是另一种方式的秀恩爱，可他们就真的这样分开了。那天快到12点的时候，惜文编辑完动态又删掉，她掐着表算时间，却发现裴浩对这件事好像没有太在意。他果然不爱我了，连最后的仪式感，都不愿意给我。惜文心里这么想着，又去提醒了他最后一次：记得发分手动态。但裴浩不是忘记了，他只是想缓期执行，只是惜文这么催他，各种复杂的情绪交杂在一起，分手的动态还是发了出去，第二次和好的机会，他们又这样错过了。&ldquo;你真的要分手吗？你想好了吗？&rdquo;朋友一遍遍问惜文：&ldquo;你要想好，你以后很可能再也遇不到像他对你这么好的男生。&rdquo;可是就是以前他们实在太幸福，她真的害怕复合之后，会破坏之前的感觉。不管是不敢还是拉不下面子，他们谁都没有走那一步。分手后有女生追裴浩，追得很紧，惜文在刚返校没多久便看到那女孩穿着小短裙抱着水在篮球场边等他，以前那个位置，一直是她的。他们两个并肩从篮球场上走出来的时候，惜文觉得头都是懵的，她一瞬间难过得想呕吐，可是她什么挽留都没有做，反而是转过身，当着裴浩的面，抓住了身边另一个男生的手。可能深爱过的人都避免不了互相折磨，明明这样她会更难受，可她还是略带狠毒地想，即使是难受，他也得比自己更难受才行。男生是惜文的研究生学长，她向学长道歉，他却笑着说：&ldquo;没关系，你慢慢忘掉他吧，我慢慢等你。&rdquo;惜文突然想起了电影《再见前任3》，里面的男女主角，就是这样慢慢忘记对方，最后放弃彼此的。他们开始渐渐淡出彼此的世界，他们的生活里开始出现不同的人，可是惜文哪能那么容易就忘记了他，她一边远离他，一边思念他，一边断绝着复合的机会，一边又给自己复合的机会。可是他们再也没有那样合适的机会了。21岁生日时，学长包了KTV给惜文庆生，十来个同学围着她唱生日快乐歌，她闭眼睛吹蜡烛的时候，学长偏头吻了她的脸颊。身边起哄声一阵高过一阵，惜文慌乱地睁开眼睛，却一下子在人群中望见了裴浩惨白的面容。那晚裴浩喝了很多酒，他只是在惜文眼前出现了那么一下便消失，却在半夜两点的时候给她打电话，一开头便哭着问：&ldquo;沈惜文，你还爱不爱我。&rdquo;裴浩颠三倒四地说着他最近的心路历程，包括他那时故意赌气说的&ldquo;可以&rdquo;，包括他为什么不想发分手动态，包括他为什么允许别的女生出现在自己的生活里。&ldquo;我只是在醉酒后赌气说了一句不爱你，我怎么可能不爱你。&rdquo;裴浩哭得稀里哗啦，&ldquo;在说完那句话后的每一天每一夜我都在后悔，我不知道事情怎么就变成这样了。&rdquo;惜文披着衣服坐在寝室的楼梯间里听着他哭，不知道什么时候也泪流满面，也许是刚听到他声音时她就开始哭了，他们就这样相对哭了两个多小时。她也不知道事情怎么就变成这样了，她也以为他们很快就会和好。可事情就是变成这样了。&nbsp;6第二天惜文起来上早课，她低着头一步一步下楼梯，脑子里像是自动循环一样一直在想，她和裴浩可以复合吗，他们还能复合吗，复合之后能回到过去吗？&ldquo;小文！&rdquo;刚出了楼梯口便听到有人叫她，惜文浑浑噩噩地回头，便看到了学长站在寝室楼对面的马路边上等她，一模一样的位置，完全不同的人。惜文朝学长走过去，对方看着她憔悴的脸色问她怎么了，她想了半天却只憋出一句话来：&ldquo;对不起，我得想一想，很多事我得想一想。&rdquo;她颠三倒四地向学长说着裴浩的事情，学长认真地听她说完，对着她分析了很多，最后她只记得一句话：即使你跟你前任以前再美好，也都回不去了。原来在别人眼中，他们早已只是前任关系。惜文再次站在裴浩面前的时候，裴浩温柔地拍了拍她的头。&ldquo;我是来道别的。&rdquo;惜文说。&ldquo;我知道。&rdquo;裴浩笑笑，&ldquo;在你把我当故事讲给别人听的时候，我就明白我不再是你心中最重要的人。&rdquo;惜文抬起头，两个人眼中各种情绪交杂变化，却再也不能单单纯粹欣喜地望着对方。&ldquo;即使我再舍不得，你再舍不得，我们都结束了。&rdquo;只是用一个偶然弄丢了对方，只是各自跌跌撞撞地往前走了一阵，可再回头的时候却发现，早已没有回去的路了。回不去了，强行回去，也不复当初。就&hellip;&hellip;只能这样了。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 各自散场，勿念心上",
+                        "desc": "文/二葵 失恋，想多了头痛，想通了心痛。",
+                        "link": "http://m.wufazhuce.com/music/3348?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 各自散场，勿念心上",
+                        "desc": "文/二葵 失恋，想多了头痛，想通了心痛。",
+                        "link": "http://m.wufazhuce.com/music/3348?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 各自散场，勿念心上》 文/二葵： 失恋，想多了头痛，想通了心痛。 阅读全文：http://m.wufazhuce.com/music/3348?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3348?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "各自散场，勿念心上",
+                        "desc": "失恋，想多了头痛，想通了心痛。",
+                        "link": "http://m.wufazhuce.com/music/3348?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "最后的告别",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "Last Goodbye",
+                "audio_album": "Last Goodbye",
+                "cover": "http://image.wufazhuce.com/FtLbESMe1jYJe6A3zJVj1xD9sZuB",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2937",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4487",
+                    "title": "当人成熟的这天"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1310",
+                    "serial_list": [
+                        "1302",
+                        "1303",
+                        "1304",
+                        "1305",
+                        "1306",
+                        "1308",
+                        "1309",
+                        "1310",
+                        "1311",
+                        "1312",
+                        "1313",
+                        "1314"
+                    ],
+                    "title": "丧书·第八章：未央"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3012",
+                    "title": "快乐是生活中最重要的吗？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3348",
+                    "title": "各自散场，勿念心上"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

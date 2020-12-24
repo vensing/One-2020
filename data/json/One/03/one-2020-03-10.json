@@ -1,0 +1,686 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5438",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-10 06:00:00",
+        "content_list": [
+            {
+                "id": "19946",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2752",
+                "title": "插画",
+                "forward": "生活是苦难的，我又划着我的断桨出发了。",
+                "img_url": "http://image.wufazhuce.com/FklQVpjBMzz15-N2MjQkE5LqYtNh",
+                "like_count": 20169,
+                "post_date": "2020-03-10 06:00:00",
+                "last_update_date": "2020-03-07 17:16:52",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2712",
+                "pic_info": "井拾（@井拾Js）",
+                "words_info": "博尔赫斯",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2752",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2752",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2752",
+                    "image": "http://image.wufazhuce.com/FklQVpjBMzz15-N2MjQkE5LqYtNh",
+                    "title": "VOL.2712",
+                    "content": "生活是苦难的，我又划着我的断桨出发了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2752?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2752?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 生活是苦难的，我又划着我的断桨出发了。——博尔赫斯 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2752?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2752?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19953",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4232",
+                "title": "与一只大象漫步",
+                "forward": "你要试到什么时候呢？直到我完全忘记了这个人吧。",
+                "img_url": "http://image.wufazhuce.com/Fqp-LsqnW4j1YqVmHzyrIIG99lN0",
+                "like_count": 2408,
+                "post_date": "2020-03-10 06:00:00",
+                "last_update_date": "2020-03-09 11:29:25",
+                "author": {
+                    "user_id": "11143412",
+                    "user_name": "春帆",
+                    "desc": "讲故事的人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个试图用笔去谈论一切的人。",
+                    "fans_total": "1249",
+                    "web_url": "http://image.wufazhuce.com/FqPQK9g6yDEMlDzXW0V6GDT1RMt6"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4232",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4232",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4232",
+                    "image": "http://image.wufazhuce.com/Fqp-LsqnW4j1YqVmHzyrIIG99lN0",
+                    "title": "与一只大象漫步 作者/春帆",
+                    "content": "你要试到什么时候呢？直到我完全忘记了这个人吧。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 与一只大象漫步",
+                        "desc": "文/春帆 你要试到什么时候呢？直到我完全忘记了这个人吧。",
+                        "link": "http://m.wufazhuce.com/article/4232?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 与一只大象漫步",
+                        "desc": "文/春帆 你要试到什么时候呢？直到我完全忘记了这个人吧。",
+                        "link": "http://m.wufazhuce.com/article/4232?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 与一只大象漫步》 文/春帆： 你要试到什么时候呢？直到我完全忘记了这个人吧。 阅读全文：http://m.wufazhuce.com/article/4232?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4232?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "与一只大象漫步",
+                        "desc": "你要试到什么时候呢？直到我完全忘记了这个人吧。",
+                        "link": "http://m.wufazhuce.com/article/4232?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19954",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4233",
+                "title": "每颗咖啡豆都藏着彩虹",
+                "forward": "我不时瞥见角落里那块粉色调的牌子，莫名伤感，它不会被重新换上，可能也不会有人记得这款主题特饮。",
+                "img_url": "http://image.wufazhuce.com/FiGiW8QeuFHzJS6lc8VAe4xYipag",
+                "like_count": 1773,
+                "post_date": "2020-03-10 06:00:00",
+                "last_update_date": "2020-03-09 12:42:25",
+                "author": {
+                    "user_id": "11106344",
+                    "user_name": "爱猫小说家",
+                    "desc": "喜欢写字喜欢电影，有时丧有时喜。新时代咖啡师，一直没什么长进。性格欢脱，经常闯祸，背锅永远第一名。总算生活积极从未放弃，但愿桥都坚固，隧道都光明。",
+                    "wb_name": "@爱猫小说家",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写字里咖啡做的最不咋地的。",
+                    "fans_total": "106",
+                    "web_url": "http://image.wufazhuce.com/FnVqc-dP-ySIa5q3vs7qbZLbsWqg"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4233",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4233",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4233",
+                    "image": "http://image.wufazhuce.com/FiGiW8QeuFHzJS6lc8VAe4xYipag",
+                    "title": "每颗咖啡豆都藏着彩虹 作者/爱猫小说家",
+                    "content": "我瞥见角落里那块粉色牌子，莫名伤感，它再也不会被重新换上。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 每颗咖啡豆都藏着彩虹",
+                        "desc": "文/爱猫小说家 我瞥见角落里那块粉色牌子，莫名伤感，它再也不会被重新换上。",
+                        "link": "http://m.wufazhuce.com/article/4233?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 每颗咖啡豆都藏着彩虹",
+                        "desc": "文/爱猫小说家 我瞥见角落里那块粉色牌子，莫名伤感，它再也不会被重新换上。",
+                        "link": "http://m.wufazhuce.com/article/4233?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 每颗咖啡豆都藏着彩虹》 文/爱猫小说家： 我瞥见角落里那块粉色牌子，莫名伤感，它再也不会被重新换上。 阅读全文：http://m.wufazhuce.com/article/4233?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4233?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "每颗咖啡豆都藏着彩虹",
+                        "desc": "我瞥见角落里那块粉色牌子，莫名伤感，它再也不会被重新换上。",
+                        "link": "http://m.wufazhuce.com/article/4233?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19928",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1125",
+                "title": "世界得了健忘症·第十八章：小三",
+                "forward": "“你是我的天使，是我的红粉知己，是治好我中年顽疾的专家，是拯救我脱离乏味婚姻生活的美少女战士。”",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 904,
+                "post_date": "2020-03-10 06:00:00",
+                "last_update_date": "2020-03-05 09:53:04",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第18章",
+                "number": "18",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1125",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1125",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1125",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第十八章：小三 作者/昔央",
+                    "content": "烈酒使用了上帝都不会轻易使用的权利。它帮助一个男人杀死了一个女人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第十八章：小三",
+                        "desc": "文/昔央 烈酒使用了上帝都不会轻易使用的权利。它帮助一个男人杀死了一个女人。",
+                        "link": "http://m.wufazhuce.com/serial/1125?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第十八章：小三",
+                        "desc": "文/昔央 烈酒使用了上帝都不会轻易使用的权利。它帮助一个男人杀死了一个女人。",
+                        "link": "http://m.wufazhuce.com/serial/1125?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第十八章：小三》 文/昔央： 烈酒使用了上帝都不会轻易使用的权利。它帮助一个男人杀死了一个女人。 阅读全文：http://m.wufazhuce.com/serial/1125?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1125?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第十八章：小三",
+                        "desc": "烈酒使用了上帝都不会轻易使用的权利。它帮助一个男人杀死了一个女人。",
+                        "link": "http://m.wufazhuce.com/serial/1125?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19934",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2780",
+                "title": "有哪些简洁的人际交往模式？",
+                "forward": "“我来买单”和“我来买单吧”是反义词。",
+                "img_url": "http://image.wufazhuce.com/FlolrKrqfHwyHIk3FAt-f1_YQ5bp",
+                "like_count": 7034,
+                "post_date": "2020-03-10 06:00:00",
+                "last_update_date": "2020-03-10 10:14:59",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "rewolu",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2780",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2780",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2780",
+                    "image": "http://image.wufazhuce.com/FlolrKrqfHwyHIk3FAt-f1_YQ5bp",
+                    "title": "有哪些简洁的人际交往模式？",
+                    "content": "有哪些简洁的人际交往模式？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 有哪些简洁的人际交往模式？",
+                        "desc": "文/卫来来 “我来买单”和“我来买单吧”是反义词。",
+                        "link": "http://m.wufazhuce.com/question/2780?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 有哪些简洁的人际交往模式？",
+                        "desc": "文/卫来来 “我来买单”和“我来买单吧”是反义词。",
+                        "link": "http://m.wufazhuce.com/question/2780?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 有哪些简洁的人际交往模式？》 文/卫来来： “我来买单”和“我来买单吧”是反义词。 阅读全文：http://m.wufazhuce.com/question/2780?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2780?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有哪些简洁的人际交往模式？",
+                        "desc": "“我来买单”和“我来买单吧”是反义词。",
+                        "link": "http://m.wufazhuce.com/question/2780?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11136103",
+                    "user_name": "卫来来",
+                    "desc": "你日渐平庸，甘于平庸，将继续平庸！",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "太阳太远了，否则我要埋在那里。",
+                    "fans_total": "322",
+                    "web_url": "http://image.wufazhuce.com/FmW9nH8Fzm9d3BA87WU5q7d_Sik9"
+                }
+            },
+            {
+                "id": "19955",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1963",
+                "title": "我们，都得了流行病",
+                "forward": "无论艺术还是梦境，唯有真相，才能治愈。",
+                "img_url": "http://image.wufazhuce.com/FojNjLypcKjEV4OOqS2h3Y4P6qdH",
+                "like_count": 1933,
+                "post_date": "2020-03-10 06:00:00",
+                "last_update_date": "2020-03-09 12:44:55",
+                "author": {
+                    "user_id": "7867217",
+                    "user_name": "MENG",
+                    "desc": "MENG，MeRead读书会创办人，不务正业写作者。",
+                    "wb_name": "@萌之刺刺",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：MeRead",
+                    "fans_total": "4470",
+                    "web_url": "http://image.wufazhuce.com/FtmFi0r5J7VmcqNwE-PyOxxm91LL"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "盗梦特工队",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4946",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1963",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1963",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1963",
+                    "image": "http://image.wufazhuce.com/FojNjLypcKjEV4OOqS2h3Y4P6qdH",
+                    "title": "「一个」电影: 盗梦特工队",
+                    "content": "今天要聊一部非常好看，非常有趣，且画风很&ldquo;当代&rdquo;的动画片《盗梦特攻队》。其实这部片子的原名是&ldquo;收藏家鲁本&bull;勃兰特&rdquo;，&ldquo;梦&rdquo;和&ldquo;盗&rdquo;是影片的两大主题。这部动画片脑洞十足，它最大的特色便是将几乎整个现当代艺术史的代表作品都制作进了电影中，有些作为背景，有些作为道具，细细品味，每一帧画面都有彩蛋，而且人物的造型也非常有毕加索立体派的意味，充满想象力。那么这是一个怎样的故事呢？主人公鲁本&bull;勃兰特是一名精神病医生，他擅长用艺术手法来治愈他的客户。然而他自己却在父亲死后，被噩梦所困扰。在噩梦中，他总是被一些世界名画中的人物袭击，比如，马奈的《奥林匹亚》中的黑猫，会突然从画中跳出来抓他的脸；波提切利《维纳斯的诞生》中，维纳斯突然变成章鱼，将他卷入海底搏斗；梵高的《邮差》将他从飞机上扔下；安迪&bull;沃霍尔的《双面猫王》突然间拔枪瞄准他&hellip;&hellip;他一次次在噩梦中惊醒，不知道自己为何会遭遇这样的困境。与此同时，一个美艳的女客户咪咪找到了他，她得了一种奇怪的病&mdash;&mdash;偷窃癖，由于她武功异常，所以越偷越大胆，以至于为幕后黑帮头目去偷窃博物馆中的钻石，可是临了时，她却被一把精美的扇子吸引，只偷走了扇子。这位随性的咪咪决定要治一治自己的病，于是找到了鲁本医生，鲁本建议她通过绘画来纾解心中的压抑。而咪咪也敏锐地察觉到鲁本医生也有着自己的困扰。她联合起另外三位各有特色的病人一起，决定为鲁本医生找到解决之道。方法很简单：她询问了鲁本攻击过他的具体是哪些作品，然后一一把它们从美术馆偷回来。当鲁本面对袭击他的画作真品时，他的噩梦消失了。于是鲁本成为了&ldquo;收藏家&rdquo;，咪咪和他的同伴则继续从世界各地偷窃那些&ldquo;攻击&rdquo;过鲁本的名画。但是盯上咪咪的不止是黑帮头目，还有侦探迈克&bull;科瓦尔斯基，他一路调查，最终找到了鲁本的家，在一间实验室里，他发现了一台电影放映机，放映机的带子上，放着的是幼稚的动画片，然而他按下暂停键才发现，下一帧的画面变成了《双面猫王》！于是他检查了这卷带子，发现每隔25张就会出现一张《双面猫王》，他又检查了旁边的几卷带子，发现《小美人鱼》的故事里藏着的是《维纳斯的诞生》，《不莱梅镇的音乐家》里藏着的是《奥林匹亚》&hellip;&hellip;更大的发现还在后面，他在客厅里找到了一张全家福，上面一家四口，其中竟然有年幼的自己和母亲！迈克立刻打电话给母亲，一直以来对自己亲生父亲讳莫如深的母亲，终于松了口。告诉他照片中的人正是他的父亲，他叫格哈德&bull;勃兰特，而鲁本&bull;勃兰特是他同父异母的哥哥。格哈德是一个科学家，他将自己的儿子鲁本当做实验对象，用潜意识实验来控制鲁本，希望将他培养成艺术家。正是因为小时候鲁本看了那些夹藏了世界名画的动画片，所以那些名画才会在他的噩梦中出现。而母亲正是为了拯救迈克的梦，才离开了父亲。事情到了这里，似乎云开雾散了。鲁本的噩梦的元凶并不是名画，而是他父亲。父亲将世界名画植入了鲁本的潜意识，希望培养他的艺术才华，从这个意义上说，父亲&ldquo;盗&rdquo;了鲁本的&ldquo;梦&rdquo;，可是鲁本并没有如其所愿发展成艺术家，他成为了精神病医生，这或许是对父亲精神控制的反抗，而潜意识中，鲁本仍然希望用艺术来治愈病人，虽然他无法了解这种动机出自哪里。更进一步的反抗是，鲁本用&ldquo;盗&rdquo;画来抵抗父亲植入的&ldquo;梦&rdquo;，当直面那些名画的时候，他其实是在拔除父亲嵌在动画片中的精神控制。但是真相仅仅如此吗？在最后那场&ldquo;每人成名15分钟&rdquo;的多方混战之后，鲁本终于得到了所有袭击他的13幅名画。他在自己的豪宅中望着挂在墙上的名画，感到安全而惬意。可是突然间，他发现桌上多了一个酒杯，一个属于迈克的酒杯&mdash;&mdash;两者的不同在于鲁本的酒杯中的冰块是一只蜗牛，而迈克的冰块则是希区柯克人形。迈克的酒杯逐渐滑落，整面墙都开始抖动，名画掉落，鲁本的手则被铐在了椅子上&mdash;&mdash;原来这又是一场梦。&ldquo;梦醒&rdquo;的鲁本又回到了影片一开始他所乘坐的火车车厢里，他从地上捡起一本《享受艺术》，翻开看见了咪咪和三个同伙的照片和赠言：给治愈了艺术心灵的最好的精神医生。他欣慰地笑了，转头看向窗外，透过窗户玻璃，却浮现出了另一张脸：迈克的脸。而他的座位号25号，似乎也暗示了父亲的动画片中间隔出现名画的帧数。镜头拉远，火车行驶在一座大桥上，可是只有一节车厢，镜头越来越远，以至于火车和大桥都成了背景，前景则是那只在片头出现的，在铁轨上躲过一劫的蜗牛，此时它尚未抵达那致命的铁轨&hellip;&hellip;这时的观众才恍然大悟：原来这仍然是梦，从一开始这就是一场梦。但这并不是一场简单的梦，而是鲁本治愈自己的梦。他不愿去触碰的童年记忆&mdash;&mdash;孩提时代不被父亲允许去外面玩蜗牛，而是被逼在实验室里看动画片，以及自己成年后选择了艺术治疗的职业、遭遇名画袭击的一系列心理创伤，都在梦中得到了解答。咪咪在梦中盗画，只是治愈的一个比较浅的层次，更深一层的治愈，是迈克去调查自己童年的真相，找出父亲的实验的真相。无论艺术还是梦境，唯有真相，才能治愈。而迈克并非真实存在，他是鲁本的另一个自我，那个勇敢的，想要知道真相，想要与父亲和解的自我。那些被鲁本深深压抑的记忆，迈克一次次将它们挖掘出来，去审视它们，通过理解它们，鲁本才能理解父亲，才能与父亲和解，从而真正解脱艺术的梦魇。而咪咪，以及咪咪的那些同伙，则在梦中扮演了完美的挑战者，他们亦是鲁本人格的一部分。最后，这个梦到底有没有尽头已经不重要了，因为它已经足够精彩，足够治愈。片中还有许多值得玩味的细节，比如影片一开始就出现的蜗牛，贯穿了整部电影，它是鲁本童年被压抑的欲望，经常出现在那些困扰着他的名画噩梦中，出现在街头的涂鸦里；比如鲁本始终戴着一条双股双色领带，象征着他的双重人格；比如影片中好几次出现的莫比乌斯环&mdash;&mdash;它喻示着这是一个无限循环的结构，没有开始，没有结束，内与外，梦境与现实是相互转化的。更别提影片中海量的艺术作品、电影海报、艺术家的影子，如果你也和鲁本一样有一颗&ldquo;艺术心灵&rdquo;，那么看这部电影绝对是会上头的。艺术本身是具有释放压抑和治愈心灵的功能的，但艺术也同样可以成为控制精神、带来噩梦的工具。对我来说，这部电影最有启发的地方在于，它将一整个艺术史编成了一个巨大的梦境和寓言，讲述了艺术本身的无限可能，我们可以将这部电影看成一个大型的艺术展，在这里，艺术作品幻化为一个个符号、一团团谜语，一连串的象征，它们汇集成了电影的元素，撑起了一个既虚构又真实的世界，艺术无处不在，它们不但没有令影片变得纷乱，反而使它充满魅力，变成值得反复观赏、品鉴的经典之作。如果你恰巧认出其中若干作品，读到它隐藏的小心思，便会感到十分惊喜，同时会心一笑。看完电影，你也会像那本书名一样&mdash;&mdash;享受艺术。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 我们，都得了流行病",
+                        "desc": "文/MENG 未来，这里的15分钟，将使在场所有人出名。",
+                        "link": "http://m.wufazhuce.com/movie/1963?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 我们，都得了流行病",
+                        "desc": "文/MENG 未来，这里的15分钟，将使在场所有人出名。",
+                        "link": "http://m.wufazhuce.com/movie/1963?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 我们，都得了流行病》 文/MENG： 未来，这里的15分钟，将使在场所有人出名。 阅读全文：http://m.wufazhuce.com/movie/1963?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1963?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我们，都得了流行病",
+                        "desc": "未来，这里的15分钟，将使在场所有人出名。",
+                        "link": "http://m.wufazhuce.com/movie/1963?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19929",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3084",
+                "title": "方言就是：你说，我懂，他不明白",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fk8cZJY2C7Hrh9fEnB2fY-v3L74z?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1528,
+                "post_date": "2020-03-10 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3084",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3084",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 方言就是：你说，我懂，他不明白",
+                        "desc": "一听，就知道你是哪里人",
+                        "link": "http://m.wufazhuce.com/radio/3084?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqiXVbe0osDE9sVEpYVDV89mCkhK"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 方言就是：你说，我懂，他不明白",
+                        "desc": "一听，就知道你是哪里人",
+                        "link": "http://m.wufazhuce.com/radio/3084?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqiXVbe0osDE9sVEpYVDV89mCkhK"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 方言就是：你说，我懂，他不明白》 主播/马晓橙： 一听，就知道你是哪里人 阅读全文：http://m.wufazhuce.com/radio/3084?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3084?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lqiXVbe0osDE9sVEpYVDV89mCkhK"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "方言就是：你说，我懂，他不明白",
+                        "link": "http://m.wufazhuce.com/radio/3084?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqiXVbe0osDE9sVEpYVDV89mCkhK"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 786 期",
+                "audio_url": "http://music.wufazhuce.com/lqiXVbe0osDE9sVEpYVDV89mCkhK"
+            }
+        ],
+        "menu": {
+            "vol": "2712",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4232",
+                    "title": "与一只大象漫步"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4233",
+                    "title": "每颗咖啡豆都藏着彩虹",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1125",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第十八章：小三"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2780",
+                    "title": "有哪些简洁的人际交往模式？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1963",
+                    "title": "我们，都得了流行病"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3084",
+                    "title": "方言就是：你说，我懂，他不明白"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

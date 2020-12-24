@@ -1,0 +1,506 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5450",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-21 06:00:00",
+        "content_list": [
+            {
+                "id": "20013",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2763",
+                "title": "插画",
+                "forward": "我并不期待人生可以过得很顺利，但我希望碰到人生难关的时候，自己可以是它的对手。",
+                "img_url": "http://image.wufazhuce.com/FtwQJesJhVV0Ho_iaanwPF4QnDPw",
+                "like_count": 26013,
+                "post_date": "2020-03-21 06:00:00",
+                "last_update_date": "2020-03-18 11:25:20",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2723",
+                "pic_info": "@黄雷蕾Linali",
+                "words_info": "加缪",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2763",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2763",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2763",
+                    "image": "http://image.wufazhuce.com/FtwQJesJhVV0Ho_iaanwPF4QnDPw",
+                    "title": "VOL.2723",
+                    "content": "我并不期待人生可以过得很顺利，但我希望碰到人生难关的时候，自己可以是它的对手。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2763?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2763?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我并不期待人生可以过得很顺利，但我希望碰到人生难关的时候，自己可以是它的对手。——加缪 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2763?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2763?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20024",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4247",
+                "title": "夕阳红和海棠娇",
+                "forward": "我活到这把年纪，才明白一个道理，做人就是要怎么舒服怎么来。",
+                "img_url": "http://image.wufazhuce.com/FraveoLyp7PNuEFI58H7VoZh-0If",
+                "like_count": 2901,
+                "post_date": "2020-03-21 06:00:00",
+                "last_update_date": "2020-03-18 12:32:58",
+                "author": {
+                    "user_id": "10416005",
+                    "user_name": "枨不戒",
+                    "desc": "自由撰稿人，自17年来在网络平台写作，作品散见于骚客文艺、怪兽、豆瓣阅读等电子平台，散文集《老去的小镇》获得第31届梁实秋文学奖首奖。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "自由撰稿人。",
+                    "fans_total": "1497",
+                    "web_url": "http://image.wufazhuce.com/FotMRYq1mJOVVJVJQ5ZRYCy1ccMy"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4247",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4247",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4247",
+                    "image": "http://image.wufazhuce.com/FraveoLyp7PNuEFI58H7VoZh-0If",
+                    "title": "夕阳红和海棠娇 作者/枨不戒",
+                    "content": "这辈子啊，身边有个人陪着就够了。 "
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 夕阳红和海棠娇",
+                        "desc": "文/枨不戒 这辈子啊，身边有个人陪着就够了。 ",
+                        "link": "http://m.wufazhuce.com/article/4247?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 夕阳红和海棠娇",
+                        "desc": "文/枨不戒 这辈子啊，身边有个人陪着就够了。 ",
+                        "link": "http://m.wufazhuce.com/article/4247?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 夕阳红和海棠娇》 文/枨不戒： 这辈子啊，身边有个人陪着就够了。  阅读全文：http://m.wufazhuce.com/article/4247?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4247?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "夕阳红和海棠娇",
+                        "desc": "这辈子啊，身边有个人陪着就够了。 ",
+                        "link": "http://m.wufazhuce.com/article/4247?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20012",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1136",
+                "title": "即将来临·下一个世界：第一章",
+                "forward": "泰勒深深的叹了一口气，仿佛第三次世界大战可以避免，仿佛无数的“兽人”又变回了人类模样……",
+                "img_url": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                "like_count": 1069,
+                "post_date": "2020-03-21 06:00:00",
+                "last_update_date": "2020-04-07 18:10:18",
+                "author": {
+                    "user_id": "11174853",
+                    "user_name": "李永明",
+                    "desc": "我一路奋斗，不仅为了改变世界，也为了不让世界改变我……",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "《即将来临》第二部正在创作中",
+                    "fans_total": "219",
+                    "web_url": "http://image.wufazhuce.com/FvEDXeitvNoNe_H1vF8iAZC9Ht8B"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第1章",
+                "number": "1",
+                "serial_id": "82",
+                "serial_list": [
+                    "1136",
+                    "1137",
+                    "1140",
+                    "1141",
+                    "1143",
+                    "1145",
+                    "1147",
+                    "1149",
+                    "1152",
+                    "1153",
+                    "1155",
+                    "1157",
+                    "1159",
+                    "1160"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1136",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1136",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1136",
+                    "image": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                    "title": "即将来临·下一个世界：第一章 作者/李永明",
+                    "content": "泰勒深深的叹了一口气，仿佛第三次世界大战可以避免......"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 即将来临·下一个世界：第一章",
+                        "desc": "文/李永明 泰勒深深的叹了一口气，仿佛第三次世界大战可以避免......",
+                        "link": "http://m.wufazhuce.com/serial/1136?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 即将来临·下一个世界：第一章",
+                        "desc": "文/李永明 泰勒深深的叹了一口气，仿佛第三次世界大战可以避免......",
+                        "link": "http://m.wufazhuce.com/serial/1136?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 即将来临·下一个世界：第一章》 文/李永明： 泰勒深深的叹了一口气，仿佛第三次世界大战可以避免...... 阅读全文：http://m.wufazhuce.com/serial/1136?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1136?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "即将来临·下一个世界：第一章",
+                        "desc": "泰勒深深的叹了一口气，仿佛第三次世界大战可以避免......",
+                        "link": "http://m.wufazhuce.com/serial/1136?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20002",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2791",
+                "title": "怎样提高自己的审美？",
+                "forward": "审美，原来是在所见之景和思想中本有之物产生共鸣，内心生出和谐的感觉时，才能感受到“美”的这么一个过程。",
+                "img_url": "http://image.wufazhuce.com/Fhh16_1cTnqCzlbaP7zfa6lxyGu6",
+                "like_count": 2636,
+                "post_date": "2020-03-21 06:00:00",
+                "last_update_date": "2020-03-20 15:46:34",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "随波逆流",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2791",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2791",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2791",
+                    "image": "http://image.wufazhuce.com/Fhh16_1cTnqCzlbaP7zfa6lxyGu6",
+                    "title": "怎样提高自己的审美？",
+                    "content": "怎样提高自己的审美？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 怎样提高自己的审美？",
+                        "desc": "文/晔卡 任何事物的美都源于一个事实：它们终将消失。",
+                        "link": "http://m.wufazhuce.com/question/2791?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 怎样提高自己的审美？",
+                        "desc": "文/晔卡 任何事物的美都源于一个事实：它们终将消失。",
+                        "link": "http://m.wufazhuce.com/question/2791?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 怎样提高自己的审美？》 文/晔卡： 任何事物的美都源于一个事实：它们终将消失。 阅读全文：http://m.wufazhuce.com/question/2791?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2791?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "怎样提高自己的审美？",
+                        "desc": "任何事物的美都源于一个事实：它们终将消失。",
+                        "link": "http://m.wufazhuce.com/question/2791?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11135970",
+                    "user_name": "晔卡",
+                    "desc": "俄语初学者。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "俄语初学者。",
+                    "fans_total": "1836",
+                    "web_url": "http://image.wufazhuce.com/FroXp7tN-9n3HDUdm1xBeAdwf091"
+                }
+            },
+            {
+                "id": "20022",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1969",
+                "title": "错的不是我，为什么我要逃？",
+                "forward": "希望我们可以成为一个对他人的痛苦具备更多想象力的人，成为一个能给身边的人带来温暖的人。",
+                "img_url": "http://image.wufazhuce.com/FpyGmouQOXOX-jrRJ_2fiOIgTI3k",
+                "like_count": 2157,
+                "post_date": "2020-03-21 06:00:00",
+                "last_update_date": "2020-03-19 10:44:19",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "韩公主",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4952",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1969",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1969",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1969",
+                    "image": "http://image.wufazhuce.com/FpyGmouQOXOX-jrRJ_2fiOIgTI3k",
+                    "title": "「一个」电影: 韩公主",
+                    "content": "2004年，一起骇人听闻的社会新闻震惊整个韩国&mdash;&mdash;家住蔚山市的14岁花季少女由于误拨电话，导致自己以及两位同龄的表姐妹被密阳市的联合暴力团伙&ldquo;密阳联盟&rdquo;轮奸。这起&ldquo;密阳群体暴力事件&rdquo;涉及到了70名类似的受害者，犯罪人员高达41人。最终，受害者在家人和施暴者家属的胁迫下签下和解书，作为罪犯的施暴者学生无一人受到刑事处罚。最严重的判定，只是将其中5名加害人由少年部收容。换言之，其余罪犯，前科都没有加付，最终顺利返回社会。十年后，导演李秀镇将其改编成了电影《韩公主》。该片于2014年4月17日正式在韩国上映，最终荣获了第18届釜山国际电影节CGV Movie Collage奖和第6届韩国年度电影奖最佳影片。电影并未着重还原暴力犯罪的事实经过，而是选择将视角聚焦在一个受害者受害之后的&ldquo;自救&rdquo;上。它的还原看似没有真实新闻事件惨烈，但留给观众的想象空间和思考延展，又远比事实冰冷跟绝望。它通过呈现社会以及旁观者一次次的&ldquo;二次伤害&rdquo;不断向人们叩问：现实生活中，我们该如何去对待一个真正的受害者？我们的态度是怎样决定了ta们人生的走向？ta们想要展开一段全新的生活，究竟有多难？《韩公主》所讲述的，是一个关于&ldquo;遗忘&rdquo;跟&ldquo;新生&rdquo;的故事。电影伊始，热爱音乐的花季少女韩公主转学来到了一个全新的环境。她借宿在协助她转学的老师母亲家中；她报名游泳班努力学习游泳；她因为 与生俱来的音乐天赋获得了以李恩熙为首的三位同龄女孩的关注，女孩们积极、热情地融入公主的生活，渴望跟公主做朋友&hellip;&hellip;一切都看似有条不紊地在进行当中。如果不是韩公主脸上偶尔透露出的恐惧与疏离，你甚至无法感受到，在这个花季少女的身上究竟发生过什么。但是，细心的人会发现，导演在一开始就点明了一切&mdash;&mdash;关于少女的转学，其实存在某种难言之隐。电影最开头，协助公主转学的老师对她说过这样一段话：&ldquo;公主，我知道你是没有错的。但是，这件事情很复杂。而且，有罪无罪是由法院决定的。这个社会，不是说犯了罪就是罪人。当然了，也不是说犯了罪就不是罪人&hellip;&hellip;总之，这件事传出去没有好处，现在警察正在悄悄处理当中，记者也不知道&hellip;&hellip; 校长费了很大劲才帮你转到这么一个好学校啊，你要记得这恩惠啊！&rdquo;公主低头沉默。虽然，公主并不认同老师所说的话，但是从她后来的一系列表现中不难看出：她并不想节外生枝，只想独自躲藏在角落里，隐蔽、平静地生活。她帮开超市的老师的母亲干活；她在老师的母亲和已婚的派出所所长偷情遭殴打时帮她处理伤口；她在他们倾泻欲望时体贴地带上门离开；她拒绝同班女生亲近她的请求&hellip;&hellip;直到他的父亲拿着一张纸出现。他的父亲借着醉酒的机会哄骗她在一张和解书上签字，往事就此浮出水面，麻烦也接踵而至。一天，一群疯狂的家长冲进公主新学校的教室，将她团团围住，逼迫她在一张同样的和解书上签字。公主来之不易的平静生活就此打破。她一直不愿面对也不愿声张的往事不断提醒着她：她是这个国家的耻辱，是这座城市的耻辱，是家庭的耻辱。她是她自己的耻辱。期待跟公主交朋友的三位热情的同龄女孩，也终于在视频中得知了真相：韩公主是一位单亲家庭的孩子，她的母亲改嫁了，父亲是一个酒鬼，她在一家便利店打零工勤工俭学。她唯一的好友华钰的男友常年遭到同校&ldquo;小混混&rdquo;的霸凌跟欺辱，华钰看不下去，于是在她们共同租住的房子里&ldquo;设宴款待&rdquo;这群小混混。回到家发现这一切的公主决定配合朋友将这出戏演完，但同时也给自己的整个青春甚至人生招致了厄运。&ldquo;小混混&rdquo;教唆店长儿子东民在递给公主的酒杯中下药，导致了惨剧的发生。一次，她敞开心扉，前往新学校结识的好友李恩熙家中玩耍。两人躲在卧室里学化妆、讲悄悄话。对方打趣她的，是关于&ldquo;吻&rdquo;一事。她问公主，&ldquo;你有没有接过吻？&rdquo;公主沉默。李恩熙一脸兴奋接着询问，&ldquo;那是和几个人？&rdquo;&ldquo;43个。&rdquo;&ldquo;不过不是人，是大猩猩。&rdquo;这本是两个身处青春期的、充满幻想的小女生的&ldquo;闺房夜话&rdquo;，但公主看似平稳、克制的回答背后，是不为人知的惨痛&mdash;&mdash;当晚，那些男性高中生，一个个带着黑猩猩的头套，轮流强制进入了她和她朋友华钰的身体。人数共计40余人。其中包括东民。最后，她的朋友华钰因为怀孕跳河自杀了，这也是她下定决心学会游泳的原因。她笃定，只要学会游泳，便可以成为痛苦的幸存者，便可以活下来。电影里，公主仰起苍白的小脸对着镜头发问，&ldquo;我没有做错，为什么要逃呢？&rdquo;事实是，她知道，自己一直是&ldquo;逃跑&rdquo;的那个。从她转学、隐姓埋名打算开始新生活的那一刻起，就注定她已经是这件事里的&ldquo;逃兵&rdquo;。&ldquo;逃兵&rdquo;的身份显然不是公主自己选择的，看看大家对待她的态度就知道了。从事发至今，旁人究竟是如何对待她的呢？事发过程中，她们租住的房子的主人返回家中，看到这一切，神色漠然，仿佛什么都没发生。房子真正的主人就是便利店店长，也是东民的爸爸。事后，她去看妇科医生，提出希望可以被女医生治疗的申请，一拉开帘子，看到的却是面若冰霜的男医生。她想要保护、甚至心动过的那个东民，最后拒不认罪。转学后，公主的第一个念头是去寻找母亲。已经改嫁的母亲只是随便给了她一点钱就试图打发她，甚至不敢让自己的现任丈夫知道女儿的存在。父亲收了钱，哄骗她签下和解书，却丢下一个烂摊子给她，任由没有给钱的家长找上门来，破坏女儿好不容易展开的新生活。找上门来的家长对于公主受到的伤害完全不管不顾，一心只关心自己的儿子因为住进收容所而没有在生日那天喝上海带汤。平静生活被打破以后，昔日主动靠近她的好友李恩熙 得知真相后不敢再接她的电话；学校找她谈话，劝她回家暂避风头，认为她玷污了神圣的校园 ；她打电话向老师寻求帮助，遭到无情挂断；她将唯一的希望寄托在父亲身上，但父亲早已拿着赔偿金在ktv里纸醉金迷&hellip;&hellip;回到老师的母亲家，懂事的&ldquo;韩公主&rdquo;决定主动搬出去，老师的母亲默认了。刚走到楼下，老师母亲的所长情人追上前来，要求她在另一份和解书上签名。那是熟识他的人拜托他帮忙的。并且，所长内心断定，公主也是有错的，否则根本不会躲起来。有人问公主，&ldquo;你的梦想是什么？&rdquo;公主答，&ldquo;学会游泳，只要能游25米就好。&rdquo;25米，是泳池的这一端通向那一端的距离，却不是邪恶通向正义的距离，也不是残暴通向善良的距离，更不是法律靠近人权的距离。公主一直希望重新找到活下去的勇气，她以为，向前游25米，就可以触摸到新生活，就可以忘掉一切。事实是，不能。这是一个&ldquo;幸存者&rdquo;自救失败的故事。公主为什么失败？因为在这场事故里，每一个人都是帮凶，每一个人都是恶人。他们不仅坐视不理，甚至还将&ldquo;二次伤害&rdquo;的大手，牢牢扣在受害者头上，让TA们深陷泥沼、难以逃脱。关于这一点的改编，与真实事件也是完全吻合的。据当时的新闻报道，当时作为无助的受害方，她们的个人信息不但没有得到保护，反而被执法的警察泄漏了出去，导致受害方的照片直接被刊登在网络上。泄漏信息的4名警官甚至在KTV内边饮酒边用受害方真名公开抱怨&ldquo;真麻烦&rdquo;&ldquo;太耻辱了&rdquo;等。在受到伤害后，她们还必须跟施暴者面对面对质、必须面对暴力执法，甚至必须一遍遍回顾事发过程中的细节和感受，她们的思觉和记忆，被一遍遍拽回暴力的案发现场。当受害方因为长期应对审问疲惫不堪回答稍有含糊时，就会迎来执法者带有偏见的质问。&ldquo;你和你妹妹说的不一样啊，你说的是真的吗？&rdquo;&ldquo;为什么其他人没有被侵犯，为什么偏偏就是你呢？&rdquo;&ldquo;你遭遇了这样的事，为什么还会去密阳呢？到底是为什么？&rdquo;就连受害方都说：&ldquo;自己像一个犯人一样一次一次被盘问所有的细节，很像在帮着加害人那一边一样，真是太无法接受了。&rdquo;我们经常会在新闻中看到各式各样针对受害者的报道，也会看到舆情讨论和引导。但是，作为一名旁观者，我们却常常无法感同身受、不具备基本的同理心，甚至会在无意识的状态下用言语和行为再次灼伤受害者。我们询问TA们的每一种语气、倾听TA们诉说后的每一个神情，稍不得当，都会在TA们心中引发一场海啸。这便是信息化时代常常会发生的&ldquo;二次伤害&rdquo;。除了必要的同理心、借助有效的法律条款帮助受害者之外，调整观念也是至关重要的。性教育理应合理、合法化；破除&ldquo;强奸文化&rdquo;，破除对女性的&ldquo;规训&rdquo;，让她们在受到伤害时更敢于表达；拒绝&ldquo;贞操观&rdquo;、&ldquo;处女情结&rdquo;与&ldquo;荡妇羞辱&rdquo;等观念，不能因为无知而成为施暴者的帮凶。&ldquo;女孩子被伤害了。女孩子在读到这段对话的当下，也正在被伤害。而恶人还高高挂在招牌上。&rdquo;关于性侵的真相，林奕含已经在《房思琪的初恋乐园》里写尽了。我们或许很难凭一己之力改变社会现状，我们也无法保护到每一个受害者，我们甚至不一定具备替&ldquo;幸存者&rdquo;伸张正义的勇气。最起码，我们不要在无意识中向&ldquo;幸存者&rdquo;投掷石子，成为那个让她们伤口流血更多的人。希望我们可以成为一个对他人的痛苦具备更多想象力的人，成为一个能给身边的人带来温暖的人。电影里，韩公主向好友李恩熙自我介绍时提及自己名为&ldquo;公主&rdquo;，李恩熙当即回答道，&ldquo;公主，可真好啊，我在六岁以前也是&lsquo;公主&rsquo;呢。&rdquo;可见，&ldquo;公主&rdquo;一词寄予了为人父母多少美好的向往与寄托。每个女孩自生下来就是公主，也都是渴望拥有一个&ldquo;公主梦&rdquo;的吧，她们希望可以得到这个世界上最美好的一切。愿每一个公主的世界里都能少一点乌云密布，多一些晴空万里，自在畅游于碧海蓝天。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 错的不是我，为什么我要逃？",
+                        "desc": "文/昔央 希望我们可以成为一个对他人的痛苦具备更多想象力的人。",
+                        "link": "http://m.wufazhuce.com/movie/1969?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 错的不是我，为什么我要逃？",
+                        "desc": "文/昔央 希望我们可以成为一个对他人的痛苦具备更多想象力的人。",
+                        "link": "http://m.wufazhuce.com/movie/1969?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 错的不是我，为什么我要逃？》 文/昔央： 希望我们可以成为一个对他人的痛苦具备更多想象力的人。 阅读全文：http://m.wufazhuce.com/movie/1969?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1969?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "错的不是我，为什么我要逃？",
+                        "desc": "希望我们可以成为一个对他人的痛苦具备更多想象力的人。",
+                        "link": "http://m.wufazhuce.com/movie/1969?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2723",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4247",
+                    "title": "夕阳红和海棠娇"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1136",
+                    "serial_list": [
+                        "1136",
+                        "1137",
+                        "1140",
+                        "1141",
+                        "1143",
+                        "1145",
+                        "1147",
+                        "1149",
+                        "1152",
+                        "1153",
+                        "1155",
+                        "1157",
+                        "1159",
+                        "1160"
+                    ],
+                    "title": "即将来临·下一个世界：第一章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2791",
+                    "title": "怎样提高自己的审美？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1969",
+                    "title": "错的不是我，为什么我要逃？"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

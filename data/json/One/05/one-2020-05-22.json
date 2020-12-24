@@ -1,0 +1,638 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5510",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-05-22 06:00:00",
+        "content_list": [
+            {
+                "id": "20404",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2826",
+                "title": "摄影",
+                "forward": "生活是种律动，须有光有影，有左有右，有晴有雨，滋味就含在这变而不猛的曲折里。",
+                "img_url": "http://image.wufazhuce.com/FiT3-NFJk8Kk6rt3ajWgcdaATCR8",
+                "like_count": 14436,
+                "post_date": "2020-05-22 06:00:00",
+                "last_update_date": "2020-05-21 13:53:06",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2785",
+                "pic_info": "Andrea Piacquadio",
+                "words_info": "老舍",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2826",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2826",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2826",
+                    "image": "http://image.wufazhuce.com/FiT3-NFJk8Kk6rt3ajWgcdaATCR8",
+                    "title": "VOL.2785",
+                    "content": "生活是种律动，须有光有影，有左有右，有晴有雨，滋味就含在这变而不猛的曲折里。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2826?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2826?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 生活是种律动，须有光有影，有左有右，有晴有雨，滋味就含在这变而不猛的曲折里。——老舍 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2826?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2826?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20389",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4324",
+                "title": "被打败之后",
+                "forward": "被命运像狗一般暴打但还是得踏上战场的人，除此以外，没有其他的选项。没关系，还能站起来，喘口气，然后上场战胜对手。",
+                "img_url": "http://image.wufazhuce.com/Fp-I2HpNtj5eTasoJNrg3aWj8G1f",
+                "like_count": 1804,
+                "post_date": "2020-05-22 06:00:00",
+                "last_update_date": "2020-05-21 10:43:35",
+                "author": {
+                    "user_id": "11369156",
+                    "user_name": "钛艺",
+                    "desc": "曾获28届银河奖最佳新人奖，作品散见于科幻世界和银河边缘。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "名不见经传的丧逼型作者。",
+                    "fans_total": "39",
+                    "web_url": "http://image.wufazhuce.com/Fgc8Zo9c7fBQ96hwHlsfcGgjpeiw"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4324",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4324",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4324",
+                    "image": "http://image.wufazhuce.com/Fp-I2HpNtj5eTasoJNrg3aWj8G1f",
+                    "title": "被打败之后 作者/钛艺",
+                    "content": "还没结束，要保持冷静的杀心。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 被打败之后",
+                        "desc": "文/钛艺 还没结束，要保持冷静的杀心。",
+                        "link": "http://m.wufazhuce.com/article/4324?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 被打败之后",
+                        "desc": "文/钛艺 还没结束，要保持冷静的杀心。",
+                        "link": "http://m.wufazhuce.com/article/4324?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 被打败之后》 文/钛艺： 还没结束，要保持冷静的杀心。 阅读全文：http://m.wufazhuce.com/article/4324?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4324?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "被打败之后",
+                        "desc": "还没结束，要保持冷静的杀心。",
+                        "link": "http://m.wufazhuce.com/article/4324?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20406",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4325",
+                "title": "所有曾经的不喜欢，都成了如今的新欢",
+                "forward": "你变了，你怎么变了呢？",
+                "img_url": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                "like_count": 1962,
+                "post_date": "2020-05-22 06:00:00",
+                "last_update_date": "2020-05-22 13:26:03",
+                "author": {
+                    "user_id": "11164439",
+                    "user_name": "柒斐等四位",
+                    "desc": "海岸线爱好者，睡眠不足的普通电影观众。\r\n独立编剧，HerPeaches剧本工作室创始人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，HerPeaches工作室创始人。",
+                    "fans_total": "989",
+                    "web_url": "http://image.wufazhuce.com/FlgBlHjLF40QuAwszutvMT3biQO3"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4325",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4325",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4325",
+                    "image": "http://image.wufazhuce.com/FoxT2Vi6vzpB0ZsYvvFa1nFNFlYK",
+                    "title": "所有曾经的不喜欢，都成了如今的新欢 作者/柒斐、张拉灯、颗馨、梅头脑",
+                    "content": "你变了，你不像以前了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 所有曾经的不喜欢，都成了如今的新欢",
+                        "desc": "文/张拉灯等四位 你变了，你不像以前了。",
+                        "link": "http://m.wufazhuce.com/article/4325?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 所有曾经的不喜欢，都成了如今的新欢",
+                        "desc": "文/张拉灯等四位 你变了，你不像以前了。",
+                        "link": "http://m.wufazhuce.com/article/4325?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 所有曾经的不喜欢，都成了如今的新欢》 文/张拉灯等四位： 你变了，你不像以前了。 阅读全文：http://m.wufazhuce.com/article/4325?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4325?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "所有曾经的不喜欢，都成了如今的新欢",
+                        "desc": "你变了，你不像以前了。",
+                        "link": "http://m.wufazhuce.com/article/4325?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "20403",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1191",
+                "title": "最后的审判（二）第十六章：我是杂种",
+                "forward": "我不是那样的人，我也想要尊严，这怎么就叫没有尊严了？有尊严的人怎么面对敲诈勒索？一个连自行车都不会骑的有尊严的人会怎么做？为什么看不起我？是不是他心里一直都这么看不起我？",
+                "img_url": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                "like_count": 703,
+                "post_date": "2020-05-22 06:00:00",
+                "last_update_date": "2020-05-21 21:27:36",
+                "author": {
+                    "user_id": "5553837",
+                    "user_name": "红拂夜奔不复还",
+                    "desc": "作家，编剧，出版小说集《人类要是没有爱情就好了》。",
+                    "wb_name": "@红拂夜奔不复还",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。公众号：红拂不复还",
+                    "fans_total": "7766",
+                    "web_url": "http://image.wufazhuce.com/Fm_g-UA9hsglGgy6ipgdd19USTo8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第16章",
+                "number": "16",
+                "serial_id": "83",
+                "serial_list": [
+                    "1161",
+                    "1162",
+                    "1163",
+                    "1167",
+                    "1169",
+                    "1170",
+                    "1173",
+                    "1174",
+                    "1176",
+                    "1177",
+                    "1180",
+                    "1182",
+                    "1185",
+                    "1186",
+                    "1188",
+                    "1191",
+                    "1192",
+                    "1193",
+                    "1195",
+                    "1200",
+                    "1202",
+                    "1204",
+                    "1205",
+                    "1208",
+                    "1210",
+                    "1214",
+                    "1216"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1191",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1191",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1191",
+                    "image": "http://image.wufazhuce.com/FkeHGBcpv9hko1W6PBRwcG0l7T0S",
+                    "title": "最后的审判（二）第十六章：我是杂种 作者/红拂夜奔不复还",
+                    "content": "喜欢重要还是命重要。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 最后的审判（二）第十六章：我是杂种",
+                        "desc": "文/红拂夜奔不复还 喜欢重要还是命重要。",
+                        "link": "http://m.wufazhuce.com/serial/1191?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 最后的审判（二）第十六章：我是杂种",
+                        "desc": "文/红拂夜奔不复还 喜欢重要还是命重要。",
+                        "link": "http://m.wufazhuce.com/serial/1191?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 最后的审判（二）第十六章：我是杂种》 文/红拂夜奔不复还： 喜欢重要还是命重要。 阅读全文：http://m.wufazhuce.com/serial/1191?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1191?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的审判（二）第十六章：我是杂种",
+                        "desc": "喜欢重要还是命重要。",
+                        "link": "http://m.wufazhuce.com/serial/1191?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20376",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2853",
+                "title": "如何给人良好的第一印象？",
+                "forward": "先入为主，事半功倍。",
+                "img_url": "http://image.wufazhuce.com/FkBfg6NPmyvRhvgCiiZfa6tShNBC",
+                "like_count": 3714,
+                "post_date": "2020-05-22 06:00:00",
+                "last_update_date": "2020-05-21 19:24:25",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "公孙丑",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2853",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2853",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2853",
+                    "image": "http://image.wufazhuce.com/FkBfg6NPmyvRhvgCiiZfa6tShNBC",
+                    "title": "如何给人良好的第一印象？",
+                    "content": "如何给人良好的第一印象？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何给人良好的第一印象？",
+                        "desc": "文/缪斯谭 先入为主，事半功倍。",
+                        "link": "http://m.wufazhuce.com/question/2853?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何给人良好的第一印象？",
+                        "desc": "文/缪斯谭 先入为主，事半功倍。",
+                        "link": "http://m.wufazhuce.com/question/2853?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何给人良好的第一印象？》 文/缪斯谭： 先入为主，事半功倍。 阅读全文：http://m.wufazhuce.com/question/2853?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2853?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何给人良好的第一印象？",
+                        "desc": "先入为主，事半功倍。",
+                        "link": "http://m.wufazhuce.com/question/2853?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "20386",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3260",
+                "title": "我想为你勇敢，希望你也可以为我心动",
+                "forward": "暗恋是一件很安全的事，也是很遗憾的事。",
+                "img_url": "http://image.wufazhuce.com/Fm8CIQcfJd34uM91B8IV9d0Yiwbn",
+                "like_count": 1855,
+                "post_date": "2020-05-22 06:00:00",
+                "last_update_date": "2020-11-02 11:50:06",
+                "author": {
+                    "user_id": "7820045",
+                    "user_name": "董大胆",
+                    "desc": "典型巨蟹座，微博@是董大胆",
+                    "wb_name": "@是董大胆",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "典型巨蟹座",
+                    "fans_total": "14449",
+                    "web_url": "http://image.wufazhuce.com/FuEA5ld2cD8j9-0b8BLXSk1fsgxC"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/FnCqMVJhtOIaLXHQuma-9pBoTcEN",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "暗河日记",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3260",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3260",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3260",
+                    "image": "http://image.wufazhuce.com/Fm8CIQcfJd34uM91B8IV9d0Yiwbn",
+                    "title": "「一个」音乐: 董大胆 暗河日记",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.祁妙没有看我一眼，从我走进来到在她对面坐下。我的第一反应是失落，明知这才是常态，可我的沮丧之情还是溢于言表。但到底还是我一个人的落寞，坐在我正对面的她并不知晓我内心的真情实感，仍旧忙着当个热心的&ldquo;情感顾问&rdquo;。&ldquo;白羊男和你不行，我没记错的话，你是处女座？&rdquo;她蹙眉，&ldquo;你们是两个极端，一个太敏感，一个粗线条，相处过程中容易出现很多小矛盾。但是别不当回事，细节决定成败！&rdquo;她看起来的确掏心掏肺，连原本手舞足蹈的手都小心翼翼地搭上了对方的手背。然而那姑娘并不领情，生硬地将手抽回，连带着身子都往与祁妙相反的方向侧了侧。祁妙被拂了好意，却也不恼，端起酒杯啜一口，转眼又是喜笑颜开的模样。我放在桌子上的手机亮了亮，是班级群的消息。&ldquo;说得神乎其神，自己还不是单身多年。&rdquo;有针对性的言辞，但好在下一秒就被人撤回了。我慌忙抬眼确认她此刻并没在看手机，这才松了口气。&ldquo;你们知道我是天蝎吧，就是最记仇的那个星座。&rdquo;她狡黠一笑，在场的人皆是一愣。她真是个当之无愧的天蝎，有非常厉害的洞察能力，但凡自己想挖掘的事情，纵使再隐秘也逃不过他们的双眼。班长出来打圆场：&ldquo;大家坐一起聊聊天，都别玩手机了。&rdquo;&ldquo;祁妙，少喝些。&rdquo;我忍了忍，终是开了口。她撑着桌子站起来，将身子往前倾，我看到她眼里有亮晶晶的东西，&ldquo;是你。&rdquo;她笑了笑，略显苦涩。我没喝酒，却也有些醉。有些心动是当时当刻就能明白的，而有些心动，当时当刻未能明白，很久之后的某时某刻，为时已晚。&nbsp;&nbsp;2.这些年，我好像养成了一个不为人知的习惯。我总是在不同场合想到同一个人，有时暴躁不安，有时沮丧至极。我的大学生涯里，有不少姑娘意欲同我表白，但我完完整整将心意听完的，只有一人。那个人有着好听的名字，她叫祁妙。她的人也同这个名字一般，带着魔力，让我不自觉便深陷其中。我们的交集寥寥几笔便可带过，却长年累月的在我脑海里泛滥。她是我大一的同班同学，我们一起上过一年的课，后来她便转系了。我同她爬过山，在我每半月必去一次的名山脚下。当时她穿着清爽的运动装，扎着高马尾，远远看上去像在等人。看到我之后她显然不再那般焦灼，朝我打了个招呼，谨慎地询问我是否能同行。我简单地点点头，并没有过多询问她一人出现在这的原因。其实能听到天蝎心事的人特别少，因为要得到天蝎的信任真是一件非常难的事，我深知自己和她没有到互换心事的地步。那座山有好多台阶，我们越往上爬，我的心跳愈剧烈。她看起来也有些吃力，却还是努力跟上我的步伐。我一边想着有什么借口可以停下来休息，一边偷偷观察她的状态。&ldquo;你是不是怕我体力不支呀？放心好了，要是我真累了，绝对会同你说的。&rdquo;她冲我甜甜一笑，我不得不感叹天蝎的周到细心真是无人能敌。日落时分，我们总算到达了山顶的寺庙。那天庙里的僧人正在除草，空气中弥漫着青草汁液的味道，她面朝太阳落下的地方深深吸了口气，虔诚地跪拜在佛像前。那天的我不知道，她在心里这样许愿：&ldquo;愿我旁边的人他一生无虞，得偿所愿。&rdquo;我侧过头，只瞧见她睫毛微颤，神色安宁。那是我后来最怀念的时光。&nbsp;3.在我还喊不出她的名字时，她就已经喜欢上我了。她常和她的朋友来我兼职的火锅店，他们大多是四川人，吃辣很厉害，每次总是点红汤。她并不阻止，只是每次都辣得嘴唇发红。我瞧着她猛灌凉水的样子，内心有些好笑，&ldquo;真是傻姑娘。&rdquo;她总是试图同我多说上几句话，比如询问哪些食材比较新鲜，有什么特别的推荐，或者问今日高数课的作业是什么。我以为不过是她天性活泼，闲时便总老老实实回答。有次客人太多，我疲于应付，便语气冷冷地回道：&ldquo;你没去上课吗？&rdquo;她当时愣住了，我转身离开时才听到她说：&ldquo;对不起。&rdquo;我有些愧疚，亦以为她定不会再来这吃火锅了。可没过一个礼拜，她又像没事人一样出现在我面前，毫无嫌隙地同我问好。她们吃到很晚，直到我下班才散了。我跟在她身后走着，瞧着她进了药店。鬼使神差的，我竟然也跟了进去。她买了一些下火的药，老板熟稔地同她打招呼：&ldquo;今天又吃火锅了？&rdquo;&ldquo;说不定再多吃几次我就免疫了。&rdquo;她笑得豁达。我知道天蝎座最能沉得住气，从来都是默默付出，可我却觉得她太蠢了，笨拙且无心机。所以他们再来的时候，我就会极力推荐鸳鸯锅，要是计谋失败，便会在她旁边放上一杯牛奶。她很快发现了我的小动作，对我报以感激一笑。我慌忙转过头，生怕她有所误会。&nbsp;所有的秘密被揭开是在她玩游戏时抽中真心话那天，她超大声地说：&ldquo;其实我一直吃不惯火锅，之所以常来这，是因为他。&rdquo;她从人群中朝我走过来，我僵硬地保持着一个滑稽的姿势，任由她将我拉了出去。同大部分天蝎一样，她理性的时候极冷静，感性的时候又疯狂无比。4．她在便利店买了啤酒，递给我一罐，我们蹲在门口聊了许久，她说了很多，聊到心中对爱情的向往时。她突然抬手摸了摸我的头，&ldquo;我知道你不喜欢我，暗恋是一件很安全的事，也是很遗憾的事。我想让我心中的遗憾画上句号，请你不要有负担。&rdquo;我知道她想听到的答案是什么，可我却犹豫了。直到现在我都后悔无比，我当时是不是也有点儿喜欢她呢？或者她是想等我的，愿意等到我也与她心意同步的那天。可是星座博主说，天蝎最长情，天蝎不管是对人还是对物的感情，都很少随着时间的流逝而转淡。我怕让她等得太久，结果却是徒劳。我的优柔寡断阻住我试图往前的脚步，埋葬她的心意、铸就我的悔恨。她转系之后，我们几乎没有再见过面。可渐渐的，我也开始不吃辣，偶尔吃火锅，居然也会想起那个吃完之后就买药的傻姑娘。最后一根心理防线的崩塌，是源于在失去她的消息之后班长告诉我的一切。原来所有我以为的偶遇都是她的设计，通过我身边的朋友探听我生活里的一切，执着地等在我偶尔去的山脚下，日复一日地同我问好，假装对我的冷淡与疏离毫不在意。我不知道她是如何坚持下来的，换做是我，大概早就放弃了。这也验证了这句话：只有从天蝎身上才能看到和获得全然无私极致的爱。命运同我开了个玩笑，在她离开我的生活之后，我才明白我爱她。我穿越时光的洪流，终于明白自己对她的心意是如此坚不可摧。你曾说过的遗憾， 就让它从此刻结束。祁妙，岁月漫长，而我爱你如初。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我想为你勇敢，希望你也可以为我心动",
+                        "desc": "文/董大胆 岁月漫长，而我爱你如初。",
+                        "link": "http://m.wufazhuce.com/music/3260?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我想为你勇敢，希望你也可以为我心动",
+                        "desc": "文/董大胆 岁月漫长，而我爱你如初。",
+                        "link": "http://m.wufazhuce.com/music/3260?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我想为你勇敢，希望你也可以为我心动》 文/董大胆： 岁月漫长，而我爱你如初。 阅读全文：http://m.wufazhuce.com/music/3260?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3260?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我想为你勇敢，希望你也可以为我心动",
+                        "desc": "岁月漫长，而我爱你如初。",
+                        "link": "http://m.wufazhuce.com/music/3260?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "暗河日记",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "曾楠",
+                "audio_album": "妙物",
+                "cover": "http://image.wufazhuce.com/FpNgehxzcPqlJ5dGJOnlb7gTRODC",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2785",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4324",
+                    "title": "被打败之后"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4325",
+                    "title": "所有曾经的不喜欢，都成了如今的新欢",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1191",
+                    "serial_list": [
+                        "1161",
+                        "1162",
+                        "1163",
+                        "1167",
+                        "1169",
+                        "1170",
+                        "1173",
+                        "1174",
+                        "1176",
+                        "1177",
+                        "1180",
+                        "1182",
+                        "1185",
+                        "1186",
+                        "1188",
+                        "1191",
+                        "1192",
+                        "1193",
+                        "1195",
+                        "1200",
+                        "1202",
+                        "1204",
+                        "1205",
+                        "1208",
+                        "1210",
+                        "1214",
+                        "1216"
+                    ],
+                    "title": "最后的审判（二）第十六章：我是杂种"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2853",
+                    "title": "如何给人良好的第一印象？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3260",
+                    "title": "我想为你勇敢，希望你也可以为我心动"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

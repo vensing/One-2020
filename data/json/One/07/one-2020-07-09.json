@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5564",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-09 06:00:00",
+        "content_list": [
+            {
+                "id": "20710",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2874",
+                "title": "摄影",
+                "forward": "婴儿最聪明，心如敞开的大门，容纳天地万物。随着年岁增长，家庭、教育和社会慢慢关掉这扇门。当它锁死之时，人们将这一刻定义为“成熟”。",
+                "img_url": "http://image.wufazhuce.com/Fm5S03rXaeaO4IcfRLn9w81239z5",
+                "like_count": 14555,
+                "post_date": "2020-07-09 06:00:00",
+                "last_update_date": "2020-07-08 11:37:50",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2833",
+                "pic_info": "Nathan Dumlao",
+                "words_info": "肖睿《打雪仗》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2874",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2874",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2874",
+                    "image": "http://image.wufazhuce.com/Fm5S03rXaeaO4IcfRLn9w81239z5",
+                    "title": "VOL.2833",
+                    "content": "婴儿最聪明，心如敞开的大门，容纳天地万物。随着年岁增长，家庭、教育和社会慢慢关掉这扇门。当它锁死之时，人们将这一刻定义为“成熟”。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2874?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2874?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 婴儿最聪明，心如敞开的大门，容纳天地万物。随着年岁增长，家庭、教育和社会慢慢关掉这扇门。当它锁死之时，人们将这一刻定义为“成熟”。——肖睿《打雪仗》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2874?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2874?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20704",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4377",
+                "title": "那个女孩不太美",
+                "forward": "“兜兜转转，回到起点， 谢谢你，陪我折腾过。” ",
+                "img_url": "http://image.wufazhuce.com/FtufXs4a2AhTe4uvFihxVCdXYUWz",
+                "like_count": 2753,
+                "post_date": "2020-07-09 06:00:00",
+                "last_update_date": "2020-07-09 09:27:17",
+                "author": {
+                    "user_id": "11453176",
+                    "user_name": "藏山",
+                    "desc": "观中无一物，无物可藏山。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：藏山观。",
+                    "fans_total": "224",
+                    "web_url": "http://image.wufazhuce.com/FtbBsdbT3y6Yedpgiadys0k54Chc"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4377",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4377",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4377",
+                    "image": "http://image.wufazhuce.com/FtufXs4a2AhTe4uvFihxVCdXYUWz",
+                    "title": "那个女孩不太美 作者/藏山",
+                    "content": "“兜兜转转，回到起点， 谢谢你，陪我折腾过。” "
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 那个女孩不太美",
+                        "desc": "文/藏山 “兜兜转转，回到起点， 谢谢你，陪我折腾过。” ",
+                        "link": "http://m.wufazhuce.com/article/4377?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 那个女孩不太美",
+                        "desc": "文/藏山 “兜兜转转，回到起点， 谢谢你，陪我折腾过。” ",
+                        "link": "http://m.wufazhuce.com/article/4377?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 那个女孩不太美》 文/藏山： “兜兜转转，回到起点， 谢谢你，陪我折腾过。”  阅读全文：http://m.wufazhuce.com/article/4377?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4377?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "那个女孩不太美",
+                        "desc": "“兜兜转转，回到起点， 谢谢你，陪我折腾过。” ",
+                        "link": "http://m.wufazhuce.com/article/4377?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20692",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1240",
+                "title": "打雪仗·第十一章：我要复仇",
+                "forward": "找到钱快乐，直到他死，或者我死。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 687,
+                "post_date": "2020-07-09 06:00:00",
+                "last_update_date": "2020-07-08 18:22:49",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第11章",
+                "number": "11",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1240",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1240",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1240",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第十一章：我要复仇 作者/肖睿",
+                    "content": "找到钱快乐，直到他死，或者我死。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第十一章：我要复仇",
+                        "desc": "文/肖睿 找到钱快乐，直到他死，或者我死。",
+                        "link": "http://m.wufazhuce.com/serial/1240?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第十一章：我要复仇",
+                        "desc": "文/肖睿 找到钱快乐，直到他死，或者我死。",
+                        "link": "http://m.wufazhuce.com/serial/1240?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第十一章：我要复仇》 文/肖睿： 找到钱快乐，直到他死，或者我死。 阅读全文：http://m.wufazhuce.com/serial/1240?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1240?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第十一章：我要复仇",
+                        "desc": "找到钱快乐，直到他死，或者我死。",
+                        "link": "http://m.wufazhuce.com/serial/1240?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20683",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2906",
+                "title": "一妻多夫制，有可能出现吗？",
+                "forward": "咱们来正经讨论下这个不正经的问题。",
+                "img_url": "http://image.wufazhuce.com/FtFY60IM-eq33ut0KzKSz5ZeCzp-",
+                "like_count": 1590,
+                "post_date": "2020-07-09 06:00:00",
+                "last_update_date": "2020-07-08 18:16:05",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "匿名用户",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2906",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2906",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2906",
+                    "image": "http://image.wufazhuce.com/FtFY60IM-eq33ut0KzKSz5ZeCzp-",
+                    "title": "一妻多夫制，有可能出现吗？",
+                    "content": "一妻多夫制，有可能出现吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 一妻多夫制，有可能出现吗？",
+                        "desc": "文/风移影动 咱们来正经讨论下这个不正经的问题。",
+                        "link": "http://m.wufazhuce.com/question/2906?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 一妻多夫制，有可能出现吗？",
+                        "desc": "文/风移影动 咱们来正经讨论下这个不正经的问题。",
+                        "link": "http://m.wufazhuce.com/question/2906?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 一妻多夫制，有可能出现吗？》 文/风移影动： 咱们来正经讨论下这个不正经的问题。 阅读全文：http://m.wufazhuce.com/question/2906?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2906?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "一妻多夫制，有可能出现吗？",
+                        "desc": "咱们来正经讨论下这个不正经的问题。",
+                        "link": "http://m.wufazhuce.com/question/2906?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11445717",
+                    "user_name": "风移影动",
+                    "desc": "愿处乎材不材之间。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "钢铁直男，道系青年，秩序中立",
+                    "fans_total": "44",
+                    "web_url": "http://image.wufazhuce.com/FoEAt9I2rfer8Y0vyhwBmQE2Pint"
+                }
+            },
+            {
+                "id": "20703",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2019",
+                "title": "成年人爱情潜规则：先做爱做的事",
+                "forward": "他明明那么高大，却甘愿跪在她的脚边，动作轻柔，只是用臂膀轻柔地揽住她的肩头，送给她片刻欢愉。",
+                "img_url": "http://image.wufazhuce.com/FiH_bzFUbteQ9LJGFOPZpSDWBaOd",
+                "like_count": 2242,
+                "post_date": "2020-07-09 06:00:00",
+                "last_update_date": "2020-07-07 11:49:16",
+                "author": {
+                    "user_id": "9285941",
+                    "user_name": "笙笙不兮",
+                    "desc": "随遇而安，品人世百味。\r\n执笔从容，叹心中悲欢。 \r\n微信公众号：笙笙不兮（ssbx-alwaysgirl）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "伪文艺媒体小白",
+                    "fans_total": "2264",
+                    "web_url": "http://image.wufazhuce.com/Fp6hXFroWZB0JmsH5cVsoIbhKosu"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "男与女",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5002",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2019",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2019",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2019",
+                    "image": "http://image.wufazhuce.com/FiH_bzFUbteQ9LJGFOPZpSDWBaOd",
+                    "title": "「一个」电影: 男与女",
+                    "content": "古往今来，关于爱情，有太多太多美好的言语。然而现实却是，世人想要陷入一场爱情，大多难舍世俗偏见，少不了一番权衡利弊。成年男女，还有真正纯粹的爱情么？还有飞蛾扑火般无怨无悔的付出么？是否抛开身份、背景、学历、收入、家庭&hellip;&hellip;只因你是你，我是我，这样的爱情，才真正担得起一句&ldquo;情不知所起，一往而深&rdquo;？这般深情与纯粹，折射到电影里，就成就了孔刘与全度妍主演的《男与女》。&nbsp;01 相遇影片开场，漫天白雪，色调冷郁得不像话。冰天雪地的芬兰街头，两个孤独的人的邂逅，不需要多么浪漫的剧情。不过是那时的她恰好想要点起一根香烟，而他恰好有火；她不放心患有自闭症的儿子独自去露营，他也恰好惦记前去露营的抑郁症女儿。营地离得不算太远，而他的车子副驾刚好有位置，就这么自然地同行。有些隐秘的情感，从开始就已注定。车子里，两人有一搭没一搭地聊天，她有些好笑地问道：你原本就这么沉默寡言的吗？他目视前方，腼腆笑笑：也不是。几句过后，她将头软软靠在椅背，在这个陌生男人的车里放松睡着。吃饭时，他向她讨一管随身携带的韩式辣酱，想逞强却被辣得脸都皱在一起，她忧郁的脸上终于因他开始有了笑容。多奇妙，枕边人给不了的理解与温暖，两个初次见面的陌生人，却能够互相慰藉。当晚大雪封住回路，他建议她乘坐火车回去，她义正言辞地反对说：「怎么能放让你一个人在这里？」时间在这里仿佛静止，她匆匆忙忙地掏出手机确认时间，他微笑安慰：「我也是这么过来的。」旅社的房间安排在对门，两人没有再多交谈，关起门的那一刻，却仿佛留下万语千言。终日大雪的北欧国度，思绪很容易变得浪漫而迟缓。林间桑拿房里，她蒸着热气缓缓闭眼，他看着她，靠得那么近，想触碰却小心翼翼地缩回手。温暖密闭的小屋内，一男一女静静相依，注定会发生点什么旖旎的事情。他抱着她，极尽缠绵，也极尽温柔。虽然不知她有着怎样的生活，可似乎，并没有比自己好到哪里去。他不忍问，只是用臂膀轻柔地揽住她的肩头，送给她片刻欢愉，短暂拥抱。已婚男女的爱情，少了些许天雷地火的澎湃，多了几分文火慢炖的细腻，哪怕共赴云雨，都显得格外压抑而浓情。&nbsp;年少时以为，性只属于爱情与欲望。后来才懂得，当人到中年，爱与浪漫，都会被现实与生活渐渐消耗，能连结性的，大概只剩下孤独。说不清从哪一刻开始，只知道初见时分，两个疲惫的人，两颗孤独的心灵，就带着一身被生活打磨的伤痕，抛开种种社会身份，回归最纯粹的男与女，不由自主地彼此靠近。&nbsp;02 桎梏「这里很好，又安静又干净，还总下雪。」这是他对她说过的话，回国后，又从她的口中说出。芬兰的生活像一场梦，沉默压抑，却因为一个人的出现，莫名染上丝丝柔情。为什么会迷上他/她？也许是因为，只有在彼此面前，才可以短暂从现实的桎梏中逃离。他的女儿有抑郁症，从不亲近自己，妻子性格怪癖得匪夷所思，那个勉强可供容身的地方，怎么看都不像一个家。她的儿子性格自闭，已经到了影响智商的程度，时不时会跑去喝马桶里的水，老公衣冠楚楚，却对她没有丝毫关注，除了埋怨，冷漠已经是对她最热情的表达。工作中，她是优雅干练的服装设计师，每天在秀场礼服间穿梭，是女孩们默默羡慕的业内行家；他是颇有创意的工程设计师，性格随和，业务能力过硬。再度重逢时，他们身上都是沉重的。这两个人，各自背负着一段生活的伤痛，何其有缘，又何其不幸。当爱情无法自持地萌发，又有谁可以真的做到心如止水？她在夜里点起一根烟，删掉他的消息，却败在翌日工作室外的车子前。眼前的男人满面疲惫，却在看见她的瞬间扬起神采，笑得明媚而安心。关于生活，他们谁也没有说，却又彼此那么懂得相互体谅，懂得对方的脆弱与无奈。与年少的悸动不同，中年人的爱情没有花前月下山盟海誓，只是两个破碎的灵魂相遇，彼此都在渴望一泓温暖，一个拥抱，让疲惫的心可以短暂停靠。&nbsp;03 情深他们之间，是怎样的喜欢？是他记得她胃不好，喝不了咖啡，喜欢酱汤，就为她亲手做了一份便当，坐在施工现场简陋却又别具一格的工作间，肩并着肩看夕阳；是她被他的幼稚逗笑，轻轻握住一根手指，回应他隔着衣袖的撒娇与拉扯；是他送她出差去火车站，却又偷偷买票坐在她的旁边，像个情窦初开的毛头小子一般偷吻她的嘴唇；是她为他逃掉商务晚宴，推开那扇寓意万劫不复的酒店房门。全片两场激情段落，都被导演拍得无比细腻。他明明那么高大，却甘愿跪在她的脚边，动作轻柔如同一名虔诚的朝圣者。欢愉过后，她靠在他的胸前问起时间，又随即无所谓地摇了摇头：与喜欢的人在一起，知不知道时间又有什么关系？这段隐秘的爱恋，她百般小心，还是输给他的懂得与温柔，心甘情愿地沉沦。怎么会不心动呢？当她手里拿着刚替丈夫解下的领带，却被他淡漠而嫌弃地指责，当她结束工作满身疲惫的回到家中，却目睹儿子在喝马桶里的水，那些加诸在头顶的光环与荣耀，此刻都显得无比苍白。只有他向她伸出温暖的手，将她轻柔拉进怀里，让她安心做一名受人呵护的弱女子。在他面前，她不是年轻女孩们仰望的设计师，更不是丈夫口中虚荣的野心家，她卸掉所有的逞强与伪装，尽情放松，尽情示弱。在她面前，他也不必隐忍而懂事，独自咽下所有苦楚，化身成一个陷入爱河的愣头青，用全部的快乐与热情，去换取一段短暂偷来的幸福时光。他们之间何其有幸，有生之年可以遇见彼此，又何其遗憾，相遇时两人都已不再是少年，有着难以割舍的家庭与牵绊。&nbsp;04 结局她终于决定对丈夫坦白，用一句&ldquo;我不能没有那个人&rdquo;，亲手结束了自己早已冷却的婚姻。她决绝而欣喜地来到酒店，却没能等到他的赴约。房门外的那几分钟，他的手抬起又放下，无声落完所有的泪，留给她一条空荡荡的走廊。他放不下妻儿独自生活，无论出于责任还是感情，总之，他最终放弃了她。那扇隔开两人的酒店房门，见证着世间男女的放纵沉沦，也懂得其中的残酷真相。婚姻之外，最先撩拨的总是男人，最先认真的总是女人，而当女人放弃一切破釜沉舟，男人又成了胆小鬼，放不下身上的束缚与枷锁，也很难评判他们深情还是错付。影片结尾，她又回到冰天雪地的芬兰，以为在那里可以继续做梦，却在见到他和家人其乐融融吃午餐时，一瞬间心如死灰。他认出她，反应之前，身体已经先一步追出饭店，却在做出更冲动的行为之前，抬头对上女儿清澈的眼神。音乐在这里如有灵性，从激烈，到戛然断裂，如同他短短几分钟内的情绪走向，拉扯着将他拖回现实。最后一幕，他开车从她乘坐的出租车旁经过，眼眶通红地克制自己不要回头，而她在车里崩溃大哭，在纯白如梦境的雪地里残忍地醒来，接受冷冰冰的现实。副驾驶上，过度依赖他的妻子淡淡说了一句感谢，似乎意有所指，又似乎只是一次单纯的告白。铅灰的天空沉沉压下，长长的道路没有尽头，而他的车子孤孤单单行驶其中，前方是一望无际的孤寂。电影很少提及主角的名字，全片多以&ldquo;他&rdquo;、&ldquo;她&rdquo;代替，男人与女人的相遇，有太多不可言说的心思与情动。合理吗？合理。可是当&ldquo;他&rdquo;变成&ldquo;丈夫&rdquo;和&ldquo;父亲&rdquo;，她变成&ldquo;妻子&rdquo;和&ldquo;母亲&rdquo;，这份爱就成了禁忌，成了注定无果的飞蛾扑火，无法脱离于时间，也难以长存于现实。婚外情这三个字，太罪过，也太遭人恨了，而无论对错，终究逃不脱人性的束缚。《男与女》正是如此，它用冷淡、克制的拍摄与演技，让我们看到爱情的另一种因果。它源于孤独，又归于虚无，没有电光石火的萌动，也没有炽热的碰撞，只是静默地相拥，又决然地离开，残忍又真实。他们之间不爱了吗？没有人会相信。只是生活比爱难多了，成年人世界的首要规则，就是学会取舍与克制。爱本无错，错的是身份，是时机，是应该相遇的时候错过，不该动心的时候动心，是无法承诺时的撩拨，难以割舍时的割舍。归根结底，世事繁杂如雪花，事与愿违、爱而不得，不过是人生常态。一段只属于&ldquo;男与女&rdquo;的爱情故事，当他们不只作为&ldquo;男与女&rdquo;时，就早已注定了结局。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 成年人爱情潜规则：先做爱做的事",
+                        "desc": "文/笙笙不兮 我和你，男和女，都逃不过爱情。",
+                        "link": "http://m.wufazhuce.com/movie/2019?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 成年人爱情潜规则：先做爱做的事",
+                        "desc": "文/笙笙不兮 我和你，男和女，都逃不过爱情。",
+                        "link": "http://m.wufazhuce.com/movie/2019?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 成年人爱情潜规则：先做爱做的事》 文/笙笙不兮： 我和你，男和女，都逃不过爱情。 阅读全文：http://m.wufazhuce.com/movie/2019?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2019?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "成年人爱情潜规则：先做爱做的事",
+                        "desc": "我和你，男和女，都逃不过爱情。",
+                        "link": "http://m.wufazhuce.com/movie/2019?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20684",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3210",
+                "title": "最冷的冰箱，给了我深夜最暖的光",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FqdIKtyaL5zLq5nI_jquf47vcaA_?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1245,
+                "post_date": "2020-07-09 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3210",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3210",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 最冷的冰箱，给了我深夜最暖的光",
+                        "desc": "把“保鲜”仰仗给了冰箱，结果还是“烂了”",
+                        "link": "http://m.wufazhuce.com/radio/3210?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqBIqoTSTCHOCfaCb-8nURKoHYZU"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 最冷的冰箱，给了我深夜最暖的光",
+                        "desc": "把“保鲜”仰仗给了冰箱，结果还是“烂了”",
+                        "link": "http://m.wufazhuce.com/radio/3210?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqBIqoTSTCHOCfaCb-8nURKoHYZU"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 最冷的冰箱，给了我深夜最暖的光》 主播/马晓橙： 把“保鲜”仰仗给了冰箱，结果还是“烂了” 阅读全文：http://m.wufazhuce.com/radio/3210?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3210?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lqBIqoTSTCHOCfaCb-8nURKoHYZU"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "最冷的冰箱，给了我深夜最暖的光",
+                        "link": "http://m.wufazhuce.com/radio/3210?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqBIqoTSTCHOCfaCb-8nURKoHYZU"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 848 期",
+                "audio_url": "http://music.wufazhuce.com/lqBIqoTSTCHOCfaCb-8nURKoHYZU"
+            }
+        ],
+        "menu": {
+            "vol": "2833",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4377",
+                    "title": "那个女孩不太美"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1240",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第十一章：我要复仇"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2906",
+                    "title": "一妻多夫制，有可能出现吗？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2019",
+                    "title": "成年人爱情潜规则：先做爱做的事"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3210",
+                    "title": "最冷的冰箱，给了我深夜最暖的光"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

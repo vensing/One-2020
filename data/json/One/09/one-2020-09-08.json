@@ -1,0 +1,583 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5613",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-09-08 06:00:00",
+        "content_list": [
+            {
+                "id": "21060",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2936",
+                "title": "摄影",
+                "forward": "往事依稀浑似梦，都随风雨到心头。",
+                "img_url": "http://image.wufazhuce.com/FgHCfxJ_ddg8WCcYg6ljO3_NGiMo",
+                "like_count": 15308,
+                "post_date": "2020-09-08 06:00:00",
+                "last_update_date": "2020-09-04 18:53:48",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2894",
+                "pic_info": "张拉灯",
+                "words_info": "巴金《家》 ​​​​",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2936",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2936",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2936",
+                    "image": "http://image.wufazhuce.com/FgHCfxJ_ddg8WCcYg6ljO3_NGiMo",
+                    "title": "VOL.2894",
+                    "content": "往事依稀浑似梦，都随风雨到心头。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2936?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2936?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 往事依稀浑似梦，都随风雨到心头。——巴金《家》 ​​​​ 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2936?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2936?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21061",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4439",
+                "title": "好久不见，杨璐梦！",
+                "forward": "生活，哪有那么多应该的事。",
+                "img_url": "http://image.wufazhuce.com/FtmioJ6lRI1DDsyj8fO_-vwZB6_W",
+                "like_count": 2125,
+                "post_date": "2020-09-08 06:00:00",
+                "last_update_date": "2020-09-07 13:00:46",
+                "author": {
+                    "user_id": "11582279",
+                    "user_name": "艾仟",
+                    "desc": "听不见音乐的人，以为跳舞的人被蛇咬了。若有拍摄、剪辑，请微博私信。",
+                    "wb_name": "@博尔赫斯_·",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写点东西。",
+                    "fans_total": "106",
+                    "web_url": "http://image.wufazhuce.com/FqBBizJ5BCZ7qZzDPrkOS8Lw47sK"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4439",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4439",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4439",
+                    "image": "http://image.wufazhuce.com/FtmioJ6lRI1DDsyj8fO_-vwZB6_W",
+                    "title": "好久不见，杨璐梦！ 作者/艾仟",
+                    "content": "给你讲个故事吧，听不听？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 好久不见，杨璐梦！",
+                        "desc": "文/艾仟 给你讲个故事吧，听不听？",
+                        "link": "http://m.wufazhuce.com/article/4439?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 好久不见，杨璐梦！",
+                        "desc": "文/艾仟 给你讲个故事吧，听不听？",
+                        "link": "http://m.wufazhuce.com/article/4439?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 好久不见，杨璐梦！》 文/艾仟： 给你讲个故事吧，听不听？ 阅读全文：http://m.wufazhuce.com/article/4439?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4439?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "好久不见，杨璐梦！",
+                        "desc": "给你讲个故事吧，听不听？",
+                        "link": "http://m.wufazhuce.com/article/4439?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20976",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1276",
+                "title": "我的么啊·第七章：神秘男人",
+                "forward": "你不敢吃苦，干的都是不费力的事儿，你也不敢规划，因为根本不知道怎么到达，所以你整天挂在嘴上的梦想，其实只是做梦。",
+                "img_url": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                "like_count": 909,
+                "post_date": "2020-09-08 06:00:00",
+                "last_update_date": "2020-08-25 14:43:33",
+                "author": {
+                    "user_id": "4814954",
+                    "user_name": "陈麒凌",
+                    "desc": "陈麒凌，也教书，也写小说。曾获得联合报文学奖首奖、全球华文文学星云奖、林语堂文学奖。",
+                    "wb_name": "@陈麒凌",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "也教书，也写小说。",
+                    "fans_total": "2296",
+                    "web_url": "http://image.wufazhuce.com/Fggt2Ut1kJ7uTNjxGSG4w-LGRL6S"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第7章",
+                "number": "7",
+                "serial_id": "87",
+                "serial_list": [
+                    "1270",
+                    "1271",
+                    "1272",
+                    "1273",
+                    "1274",
+                    "1275",
+                    "1276",
+                    "1277",
+                    "1278",
+                    "1279",
+                    "1280",
+                    "1281",
+                    "1282",
+                    "1283",
+                    "1284",
+                    "1285",
+                    "1286",
+                    "1287",
+                    "1288",
+                    "1289"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1276",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1276",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1276",
+                    "image": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                    "title": "我的么啊·第七章：神秘男人 作者/陈麒凌",
+                    "content": "你整天挂在嘴上的梦想，其实只是做梦。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 我的么啊·第七章：神秘男人",
+                        "desc": "文/陈麒凌 你整天挂在嘴上的梦想，其实只是做梦。",
+                        "link": "http://m.wufazhuce.com/serial/1276?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 我的么啊·第七章：神秘男人",
+                        "desc": "文/陈麒凌 你整天挂在嘴上的梦想，其实只是做梦。",
+                        "link": "http://m.wufazhuce.com/serial/1276?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 我的么啊·第七章：神秘男人》 文/陈麒凌： 你整天挂在嘴上的梦想，其实只是做梦。 阅读全文：http://m.wufazhuce.com/serial/1276?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1276?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我的么啊·第七章：神秘男人",
+                        "desc": "你整天挂在嘴上的梦想，其实只是做梦。",
+                        "link": "http://m.wufazhuce.com/serial/1276?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21062",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2969",
+                "title": "运气能后天取得吗？",
+                "forward": "好运还有一个名字叫做，努力。",
+                "img_url": "http://image.wufazhuce.com/Fqkwbi4NkuffWiySipHWA7iRpbvg",
+                "like_count": 2170,
+                "post_date": "2020-09-08 06:00:00",
+                "last_update_date": "2020-09-07 16:33:12",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "名字被占用",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2969",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2969",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2969",
+                    "image": "http://image.wufazhuce.com/Fqkwbi4NkuffWiySipHWA7iRpbvg",
+                    "title": "运气能后天取得吗？",
+                    "content": "运气能后天取得吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 运气能后天取得吗？",
+                        "desc": "文/文长长 运气，是可以把控的玄学。",
+                        "link": "http://m.wufazhuce.com/question/2969?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 运气能后天取得吗？",
+                        "desc": "文/文长长 运气，是可以把控的玄学。",
+                        "link": "http://m.wufazhuce.com/question/2969?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 运气能后天取得吗？》 文/文长长： 运气，是可以把控的玄学。 阅读全文：http://m.wufazhuce.com/question/2969?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2969?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "运气能后天取得吗？",
+                        "desc": "运气，是可以把控的玄学。",
+                        "link": "http://m.wufazhuce.com/question/2969?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "21063",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2049",
+                "title": "你是我的一场春夜美梦",
+                "forward": "爱你，不过是持久而顽固的幻觉，但我沉溺其中。",
+                "img_url": "http://image.wufazhuce.com/Fr-uLMOVRRWZWTmPNGPh-Zw5MO3B",
+                "like_count": 1909,
+                "post_date": "2020-09-08 06:00:00",
+                "last_update_date": "2020-09-07 14:08:04",
+                "author": {
+                    "user_id": "9285941",
+                    "user_name": "笙笙不兮",
+                    "desc": "随遇而安，品人世百味。\r\n执笔从容，叹心中悲欢。 \r\n微信公众号：笙笙不兮（ssbx-alwaysgirl）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "伪文艺媒体小白",
+                    "fans_total": "2264",
+                    "web_url": "http://image.wufazhuce.com/Fp6hXFroWZB0JmsH5cVsoIbhKosu"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "我在时间尽头等你",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5032",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2049",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2049",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2049",
+                    "image": "http://image.wufazhuce.com/Fr-uLMOVRRWZWTmPNGPh-Zw5MO3B",
+                    "title": "「一个」电影: 我在时间尽头等你",
+                    "content": "你有没有在年少时喜欢过一个人？哪怕一无所有，也要极尽所能地付出，绞尽脑汁地对TA好。羞于谈爱的年纪，却爱得比成年人更纯粹，一腔孤勇地赌上整个青春。荒唐吗？还是值得？经年过后，各人有各人的答案，只是曾经那份懵懂的赤诚终究难忘，亦难寻。一直以为，会被纯爱电影打动的人，心底一定有个忘不了的名字，故事里的浪漫美好，是你们曾经憧憬过的结局。年少时，有多少人曾想为爱奋不顾身？仿佛平淡的爱情不够力道，越轰轰烈烈坎坷多舛，越能考验爱情的忠贞，豁出命也要守护它的纯洁不可亵渎。如果心爱之人危在旦夕，需要用你十余年的寿命换TA无恙，你是否愿意？如果你因此会被整个世界遗忘，从父母朋友的记忆中清除，成为一个没有身份的游子，你是否仍然愿意？《我在时间尽头等你》就是基于这样的设定，用一次又一次的选择与牺牲，为观众讲述了一场爱情童话。01 &nbsp;有个人爱你，哪怕被忘记&ldquo;就算当初知道结果，我还是会做一样的选择。&rdquo;老年的林格在日记里认真写下这句话，如同说给自己听的誓言。那时的他，已经使用那块可以逆转时空的手表救了邱倩三次，耗费了几十年的寿命。邱倩是林格的青梅竹马，也是他初次动心的姑娘。他偷偷跑去看她练舞，给她送酸酸甜甜的话梅水，被兄弟打趣也只是羞涩笑笑，愣头愣脑地挠挠头。在林格眼里，邱倩长得好看，会跳芭蕾，性格又好，是一个完美无瑕的发光体。18岁那年，他硬着头皮鼓起勇气，表白的话没说出口，就看到邱倩被飞驰的汽车撞得飞起又坠落，像一片被风吹散的枯叶。手术室外，林格痛哭：只要能让邱倩好起来，要我做什么都愿意！老天似乎听到了他的求助，让时空倒转回出事之前，拿走了他十几年的时间做交换。一夜之间，林格少年变中年，还成了一个被世界抹去的存在，没有人记得自己，包括邱倩。多唏嘘，他爱得轰轰烈烈，却换来一个冷冷清清的结局。可是那又怎么样？对他而言，只有邱倩安然无恙地活着，林格的存在才有意义。不能继续上学，他就努力赚钱，想法设法支持邱倩摇摇欲坠的梦想。他冒充老师家访，说帮她申请到留学奖学金；在异国机场举着牌子为邱倩接机，还早早替她租好房子；他说自己要回去了，转身就打开了对面的房门&hellip;&hellip;得是多深的爱，才能让一个人为另一个人细细筹谋，大到追求梦想，小到衣食住行，都舍不得她吃一点苦？每天清晨，林格都穿着笔挺的西装与邱倩告别，然后到工地和水产市场换上破旧的工作服，做着低廉出苦力的工作，为他们两人赚取一点微薄的生活费。在异国他乡，没有学历也没有技能的林格，被歧视，被挑衅，甚至被殴打，这些不堪，都被他用笑容隔绝在家门之外。邱倩只负责大胆追梦，这些生活的艰辛，她不需要知道。国外求学的时光，是一段艰辛却幸福的小日子。然而，偷来的时间早晚要还，邱倩的命运早在18岁那年就已注定，不论多么小心，意外还是降临了。好在，他还有这块神奇的手表，可以把自己的生命渡给邱倩。如果说第一次是意外，那么这一次，就是林格孤注一掷的郑重选择。他做好又将被她遗忘的准备，再次动用了手表的力量。一次又一次，林格拿出自己的时间，去换邱倩平安无恙，直到垂垂老矣，即将走到生命的尽头。看电影时，有邻座女孩忍不住啜泣，不知是为这段多舛的爱情，还是为倾尽所有的林格。平心而论，这是一部不可免俗的爱情片。硬伤不少，情感逻辑也不够通顺，可偏偏就是这份牺牲，让人们想起年少的爱情。在这个一切求快的速食时代，择一人终老，乃至用生命守护一段爱情，是多少人可望不可及的奢侈。比起轰轰烈烈的喜欢，默默无闻的爱总是让人格外心疼，所以哪怕剧情失真，也不影响我们以此筑梦，满足对爱情的憧憬：有你在的地方，时间才有意义。&nbsp;02&nbsp;&nbsp;不论如何忘记，总能爱上你许多人说林格付出太多，现实中根本找不到这样的傻小子，心甘情愿只为一人活。有个印象很深的细节，第二次逆转时间之前，林格知道自己只能留下贴身物品，手忙脚乱地把他和邱倩的合影塞进书包，就飞快奔往医院&mdash;&mdash;那是他们曾经相爱的证据，也是他此生最珍贵的回忆。值得吗？电影借用邱倩的情感转变，给观众吃下一颗定心丸。在异国他乡，邱倩融化于林格猛烈的追求，甘愿与他挤在简陋的出租屋里求学，看他的眼神里有星星。得知自己是靠林格的&ldquo;资助&rdquo;才能入学，她哭得内疚，悄悄跟校方打听学生兼职，被拒绝后打定主意回国，只是不想成为他的负担。&ldquo;以后所有的一切，咱们都得一起扛。&rdquo;她红着眼睛抱住林格，义无反顾的样子让人欣慰又心疼。入选上海芭蕾舞团的那一天，邱倩兴高采烈地趴在林格背上大声约定：&ldquo;等一切稳定下来，咱们就结婚吧！&rdquo;其实啊，女孩子的爱情就是这么简单。年轻时，苦点穷点都不可怕，只要喜欢的人对自己好，未来就有希望，幸福就触手可及。看电影时不止一次在想，导演和编剧一定都是温柔的人。哪怕狠心让邱倩一次次将林格遗忘，也总会在日后让她记起，重新爱他。而影片最后，林格因为时间耗尽生命垂危，是邱倩找到他的手表，把自己的时间换给林格。这是她的亏欠，也是她心甘情愿的付出。很难说他们两人谁更无私，谁更需要心怀感恩，爱情本就是世上最不讲道理的一件事。可贵的是，我懂你的付出，也愿意同样倾尽所有，护你一世平安。&nbsp;03&nbsp;&nbsp;有个人爱你，多久都愿意影片还有一条暗线，是关于林格的父亲。林格母亲去世得早，作为父子，林格与父亲的关系是敏感的，要么零沟通，要么一触即发。可是当林格逆转时间，父子俩成了陌生人，才能难得和谐地坐在一起吃个饭，听父亲讲述有关妈妈的故事。他指着父亲的头发问：这么多年，你为什么总是这个发型？开了一辈子理发店的父亲随和笑笑：&ldquo;因为我妻子她喜欢呀。其实这是假发，里面的头发早就没了。&rdquo;他献宝似的拿出那个老旧的小铁盒，里面是林格妈妈年轻时用糖纸叠的小爱心，絮絮念着：她爱吃糖，我就给她买好多糖，她会把糖纸像这样叠成心送给我&hellip;&hellip;呵呵。现实中，母亲过世多年，父亲未曾再娶。而在林格被抹去的世界里，他不再是父亲，依然守着这家理发店，一辈子孤身一人，把和妻子的合照挂在房间最显眼的位置，到处是有关她的回忆。影片中的每个人，都爱得那么简单执着，从一而终，仿佛一生只爱一个人，是如此的理所应当。我们都知这有多么不易，所以才更容易被他们打动，唤醒内心深处的向往。因为爱，本就是最没有逻辑的一件事啊。这个时代太现实也太冷静了。什么事都要权衡利弊，用最少的付出换取最大的利益，连视频都要选择倍速播放。对一个人用心，愿意为TA浪费时间，倾其所有地付出，不让爱情的火焰被现实熄灭，是多少人梦寐以求的际遇。幸运的是，我们对爱情还有这样的期许，轻易就可以被挑起，而只要初心不变，总有一天，会邂逅属于自己的邱倩和林格，然后幸福地恍然：在你不知道的时间里，有个人爱了你很久很久。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 你是我的一场春夜美梦",
+                        "desc": "文/笙笙不兮 如果时光可以倒流，我愿付出所有。",
+                        "link": "http://m.wufazhuce.com/movie/2049?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 你是我的一场春夜美梦",
+                        "desc": "文/笙笙不兮 如果时光可以倒流，我愿付出所有。",
+                        "link": "http://m.wufazhuce.com/movie/2049?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 你是我的一场春夜美梦》 文/笙笙不兮： 如果时光可以倒流，我愿付出所有。 阅读全文：http://m.wufazhuce.com/movie/2049?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2049?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你是我的一场春夜美梦",
+                        "desc": "如果时光可以倒流，我愿付出所有。",
+                        "link": "http://m.wufazhuce.com/movie/2049?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20977",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3259",
+                "title": "做人好难，不如做只猫吧... ...",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fi_bvz7mg0QVA1--0BrdsSuuOhRd?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1147,
+                "post_date": "2020-09-08 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3259",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3259",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 做人好难，不如做只猫吧... ...",
+                        "desc": "他是我在这座城里唯一可以拥抱的肉体",
+                        "link": "http://m.wufazhuce.com/radio/3259?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpcfs5lzR5dc3LpURqYyPomELphE"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 做人好难，不如做只猫吧... ...",
+                        "desc": "他是我在这座城里唯一可以拥抱的肉体",
+                        "link": "http://m.wufazhuce.com/radio/3259?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpcfs5lzR5dc3LpURqYyPomELphE"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 做人好难，不如做只猫吧... ...》 主播/马晓橙： 他是我在这座城里唯一可以拥抱的肉体 阅读全文：http://m.wufazhuce.com/radio/3259?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3259?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lpcfs5lzR5dc3LpURqYyPomELphE"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "做人好难，不如做只猫吧... ...",
+                        "link": "http://m.wufazhuce.com/radio/3259?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lpcfs5lzR5dc3LpURqYyPomELphE"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 878 期",
+                "audio_url": "http://music.wufazhuce.com/lpcfs5lzR5dc3LpURqYyPomELphE"
+            }
+        ],
+        "menu": {
+            "vol": "2894",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4439",
+                    "title": "好久不见，杨璐梦！"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1276",
+                    "serial_list": [
+                        "1270",
+                        "1271",
+                        "1272",
+                        "1273",
+                        "1274",
+                        "1275",
+                        "1276",
+                        "1277",
+                        "1278",
+                        "1279",
+                        "1280",
+                        "1281",
+                        "1282",
+                        "1283",
+                        "1284",
+                        "1285",
+                        "1286",
+                        "1287",
+                        "1288",
+                        "1289"
+                    ],
+                    "title": "我的么啊·第七章：神秘男人"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2969",
+                    "title": "运气能后天取得吗？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2049",
+                    "title": "你是我的一场春夜美梦"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3259",
+                    "title": "做人好难，不如做只猫吧... ..."
+                }
+            ]
+        },
+        "ad": []
+    }
+}

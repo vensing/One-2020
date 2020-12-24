@@ -1,0 +1,533 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5379",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-13 06:00:00",
+        "content_list": [
+            {
+                "id": "19607",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2694",
+                "title": "摄影",
+                "forward": "世上有味之事，包括诗，酒，哲学，爱情，往往无用。吟无用之诗，醉无用之酒，读无用之书，钟无用之情，终于成一无用之人，却因此活得有滋有味。",
+                "img_url": "http://image.wufazhuce.com/FtpJ5QPQbY6p2dAy7zhsskeCfp_y",
+                "like_count": 22606,
+                "post_date": "2020-01-13 06:00:00",
+                "last_update_date": "2020-01-10 19:50:17",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2655",
+                "pic_info": "Alex Blăjan",
+                "words_info": "周国平",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2694",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2694",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2694",
+                    "image": "http://image.wufazhuce.com/FtpJ5QPQbY6p2dAy7zhsskeCfp_y",
+                    "title": "VOL.2655",
+                    "content": "世上有味之事，包括诗，酒，哲学，爱情，往往无用。吟无用之诗，醉无用之酒，读无用之书，钟无用之情，终于成一无用之人，却因此活得有滋有味。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2694?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2694?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 世上有味之事，包括诗，酒，哲学，爱情，往往无用。吟无用之诗，醉无用之酒，读无用之书，钟无用之情，终于成一无用之人，却因此活得有滋有味。——周国平 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2694?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2694?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19583",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4154",
+                "title": "镜头之后，皆为假象",
+                "forward": "谁也搞不清意外和暴富哪一个先来临。",
+                "img_url": "http://image.wufazhuce.com/FodekTCSGZbGhcCh3O_m6DAWOYZD",
+                "like_count": 2311,
+                "post_date": "2020-01-13 06:00:00",
+                "last_update_date": "2020-01-12 19:27:18",
+                "author": {
+                    "user_id": "10600082",
+                    "user_name": "木泽",
+                    "desc": "编剧 出版编辑 公众号：映像失焦",
+                    "wb_name": "@木泽卡卡西",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧 出版编辑 公众号：映像失焦",
+                    "fans_total": "580",
+                    "web_url": "http://image.wufazhuce.com/FlDXUeWDhWVnao1KftykfY6v91OS"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4154",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4154",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4154",
+                    "image": "http://image.wufazhuce.com/FodekTCSGZbGhcCh3O_m6DAWOYZD",
+                    "title": "镜头之后，皆为假象 作者/木泽",
+                    "content": "谁也搞不清意外和暴富哪一个先来临。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 镜头之后，皆为假象",
+                        "desc": "文/木泽 谁也搞不清意外和暴富哪一个先来临。",
+                        "link": "http://m.wufazhuce.com/article/4154?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 镜头之后，皆为假象",
+                        "desc": "文/木泽 谁也搞不清意外和暴富哪一个先来临。",
+                        "link": "http://m.wufazhuce.com/article/4154?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 镜头之后，皆为假象》 文/木泽： 谁也搞不清意外和暴富哪一个先来临。 阅读全文：http://m.wufazhuce.com/article/4154?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4154?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "镜头之后，皆为假象",
+                        "desc": "谁也搞不清意外和暴富哪一个先来临。",
+                        "link": "http://m.wufazhuce.com/article/4154?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19542",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1076",
+                "title": "铃兰·第二十章·荒原埋葬的灵魂",
+                "forward": "刑侦队里弥漫着沮丧的空气，某种程度上来说，他们已经失败了。",
+                "img_url": "http://image.wufazhuce.com/FhUzMx5BP5ekE8TrnAPQ-NpRQ1Pf",
+                "like_count": 729,
+                "post_date": "2020-01-13 06:00:00",
+                "last_update_date": "2020-01-09 19:51:35",
+                "author": {
+                    "user_id": "10866249",
+                    "user_name": "夏阳",
+                    "desc": "小说作家，摇滚青年，久居北京，夜行动物。",
+                    "wb_name": "@ 夏阳Joker",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写小说的。",
+                    "fans_total": "1406",
+                    "web_url": "http://image.wufazhuce.com/FqaYtfVfdxDmpEumJZKSLQsaAdzB"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第20章",
+                "number": "20",
+                "serial_id": "77",
+                "serial_list": [
+                    "1038",
+                    "1040",
+                    "1041",
+                    "1044",
+                    "1045",
+                    "1046",
+                    "1049",
+                    "1052",
+                    "1053",
+                    "1054",
+                    "1056",
+                    "1063",
+                    "1064",
+                    "1065",
+                    "1066",
+                    "1067",
+                    "1068",
+                    "1069",
+                    "1075",
+                    "1076",
+                    "1077",
+                    "1080",
+                    "1081",
+                    "1082"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1076",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1076",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1076",
+                    "image": "http://image.wufazhuce.com/FhUzMx5BP5ekE8TrnAPQ-NpRQ1Pf",
+                    "title": "铃兰·第二十章·荒原埋葬的灵魂 作者/夏阳",
+                    "content": "刑侦队里弥漫着沮丧的空气，某种程度上来说，他们已经失败了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 铃兰·第二十章·荒原埋葬的灵魂",
+                        "desc": "文/夏阳 刑侦队里弥漫着沮丧的空气，某种程度上来说，他们已经失败了。",
+                        "link": "http://m.wufazhuce.com/serial/1076?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 铃兰·第二十章·荒原埋葬的灵魂",
+                        "desc": "文/夏阳 刑侦队里弥漫着沮丧的空气，某种程度上来说，他们已经失败了。",
+                        "link": "http://m.wufazhuce.com/serial/1076?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 铃兰·第二十章·荒原埋葬的灵魂》 文/夏阳： 刑侦队里弥漫着沮丧的空气，某种程度上来说，他们已经失败了。 阅读全文：http://m.wufazhuce.com/serial/1076?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1076?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "铃兰·第二十章·荒原埋葬的灵魂",
+                        "desc": "刑侦队里弥漫着沮丧的空气，某种程度上来说，他们已经失败了。",
+                        "link": "http://m.wufazhuce.com/serial/1076?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19610",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2724",
+                "title": "如何养成自省的习惯？",
+                "forward": "回顾目标——结果对比——过程分析——总结规律。",
+                "img_url": "http://image.wufazhuce.com/FlXdjs0Dp1MGLJMwGS4cfoFK9U-b",
+                "like_count": 2837,
+                "post_date": "2020-01-13 06:00:00",
+                "last_update_date": "2020-01-12 16:11:01",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "猫薄荷",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2724",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2724",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2724",
+                    "image": "http://image.wufazhuce.com/FlXdjs0Dp1MGLJMwGS4cfoFK9U-b",
+                    "title": "如何养成自省的习惯？",
+                    "content": "如何养成自省的习惯？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何养成自省的习惯？",
+                        "desc": "文/鹿丸 回顾目标——结果对比——过程分析——总结规律。",
+                        "link": "http://m.wufazhuce.com/question/2724?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何养成自省的习惯？",
+                        "desc": "文/鹿丸 回顾目标——结果对比——过程分析——总结规律。",
+                        "link": "http://m.wufazhuce.com/question/2724?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何养成自省的习惯？》 文/鹿丸： 回顾目标——结果对比——过程分析——总结规律。 阅读全文：http://m.wufazhuce.com/question/2724?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2724?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何养成自省的习惯？",
+                        "desc": "回顾目标——结果对比——过程分析——总结规律。",
+                        "link": "http://m.wufazhuce.com/question/2724?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10573652",
+                    "user_name": "鹿丸",
+                    "desc": "运气特别差的爱笑的男人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "运气特别差的爱笑的男人。",
+                    "fans_total": "2369",
+                    "web_url": "http://image.wufazhuce.com/Fqg0xcqtLypItAb4NvaJVf8DnIAn"
+                }
+            },
+            {
+                "id": "19591",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3185",
+                "title": "你是我新鲜感退却，依旧会心动的人",
+                "forward": "我对你的那份爱是与日俱增的，我可以保护你一阵子，可以保护你一辈子。能给你的或许不够多，但这世间温柔，我都会交付于你。",
+                "img_url": "http://image.wufazhuce.com/FsQAk5ZWBwynTZTuuY-3A3FKQZVy",
+                "like_count": 2832,
+                "post_date": "2020-01-13 06:00:00",
+                "last_update_date": "2020-01-13 00:48:06",
+                "author": {
+                    "user_id": "10823079",
+                    "user_name": "姜乐辛",
+                    "desc": "写故事的少女，微博：@姜辛的辛。",
+                    "wb_name": "@姜辛的辛",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写故事的少女，微博：@姜辛的辛。",
+                    "fans_total": "3558",
+                    "web_url": "http://image.wufazhuce.com/FlHe7sJybVsJKLbahQm5YItk6XXM"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lqIDHRl7a9A9loOC2dGrfZegc6l4",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "记得复诊",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3185",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3185",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3185",
+                    "image": "http://image.wufazhuce.com/FsQAk5ZWBwynTZTuuY-3A3FKQZVy",
+                    "title": "「一个」音乐: 姜乐辛 记得复诊",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.我在那条之前常去的小吃街买夜宵，习惯性地买两份，一份自己吃，一份留给陈宇。这个习惯是我们刚恋爱时养成的。陈宇说，我们所有的东西都是一对，因为我们不可分开，这辈子，我都只能是他的。&nbsp;向来不喜欢这种甜蜜话语的我，在陈宇说出口时，心里竟也听着高兴。&nbsp;2.陈宇是郑乐介绍给我认识的，郑乐是我发小，也是陈宇的好朋友。他鉴于我长期单身，刚好陈宇人也不错，想着带我们出来组个局，认识认识，交个朋友，说不定还能成一对。那晚我因为公司加班赶策划，去得有些晚。在路上接到郑乐电话：&ldquo;叶茵，你到哪了？&rdquo;&ldquo;路上有点堵车，你们先吃，不用等我，一会就到了。&rdquo;&ldquo;没事不急，你路上注意安全，随时跟我保持联系。&rdquo;&ldquo;今儿不对啊，我能从你嘴里听到关心的话？做什么亏心事了？&rdquo;&nbsp;&ldquo;你说说你这人，我关心你，你还反过来说我，叶茵，咱得凭良心啊，陈宇搁这儿等着你呢。&rdquo;我见过陈宇的照片，郑乐介绍时说这人不怎么爱说话，性格有些内敛，但人是真的不错。我坐在出租车上想着就算成不了恋人，当朋友也是可以。&nbsp;司机见我笑得那样开心，跟我搭话：姑娘，去约会啊？&nbsp;我拿着手机，有些不好意思地说道：&ldquo;没约会，就跟朋友吃个饭。&rdquo;下车走到酒馆门口，发现门口站着个人，我抬头看了眼，觉得有点眼熟，似乎在哪见过，原本还想再看看，但想到郑乐跟陈宇还在里面等我，就没再回头。郑乐瞧我走来，脸上露出一丝邪魅的微笑：&ldquo;祖宗，你可算是来了，我跟陈宇说咱们先喝，陈宇不愿意，非要等你来再喝。&rdquo;他抬头看了看我身后继续说：&ldquo;陈宇？你这是跟叶茵一起进来的？不会吧，你在门口等她呢。我说怎么我挂完电话你就没影了，行吧行吧，这还没认识就开始秀了。&rdquo;&ldquo;瞎说什么呢，你多为自己的事操操心，我妈前两天还问我，这小郑怎么还不谈女朋友，让我催催你。&rdquo;我跟郑乐是铁哥们，从小一起长大，每次见面就怼，我妈说让天不亮都比我们不吵架容易。&nbsp;郑乐朝我看了眼，没搭理我，拉着陈宇坐下，开始跟陈宇各种控诉我。陈宇看着郑乐，对我说：茵茵加班到现在，肚子肯定饿了，来，吃饭。&nbsp;我受宠若惊地看着陈宇，我们坐的位置在这家餐吧的角落边，以前每次来这，我们都选在这里，陈宇站起来给我倒饮料，灯光打在他的侧脸上，我这小心脏扑通扑通跳着，不禁有些紧张。陈宇贴心地点了热饮，担心凉的我喝着会不舒服，倒好饮料将菜单递到我身边，问我想再加点什么。我摆摆手，说不用了，我晚上不怎么吃，你们点什么都行。&ldquo;叶茵，你哪次跟我出来不是吃得比我多，怎么今儿陈宇在，你就少吃了，还不怎么吃？不怕露馅啊叶茵。&rdquo;郑乐在身边拆着我的台，我忍不住想给他一顿暴揍。陈宇偷笑着咳嗽两声，开始打圆场：茵茵是最近胃口不好吧，没事，那咱们先吃，待会再点。吃饭过程中，陈宇一直很照顾我，夹菜是他，倒水也是他，没有刻意主动，每次都是恰到好处，让我觉得和他相处感到轻松自在。他没有郑乐说的那样内向，起码在我面前的表现，我都很满意。我们顺其自然地加上微信，开始进一步的了解和交往。&nbsp;相处许久后我才知道，原来他第一眼见到我的感觉，跟我一样。我好奇他性格内向，为什么对我却这么多话。陈宇认真地拉起我的手：&ldquo;因为是你啊。&rdquo;在喜欢的人面前，再内向的人，也愿意为之作出改变。或许这就是爱情，总会有人愿意为你做出让步。&nbsp;&nbsp;3.正式确定关系是在一个月后，陈宇带我去以前我常去的酒馆，他站在台上唱陈鸿宇的歌，他知道我很喜欢陈鸿宇，所以这整个月，他不断在练习，想给我惊喜。他唱着歌走到我身边，旁边的人突然拿出一束花，递到他手上，他说了声谢谢，将那束满天星双手捧在我面前，单膝下跪，大家都朝我这边看着，我被看得有些脸红。&ldquo;叶茵，见到你的第一眼，我就心动了，那时候我告诉自己，一定要更加努力，因为我想给你一个未来，可能我现在还没有那个能力，但请你相信我，我可以做到。我会慢慢了解你的生活，了解你生命中的一切，用一生的时间去证明我爱你，请问叶茵仙女，你愿意做陈宇的女朋友吗？&rdquo;在陈宇说完后，我在人群中看到郑乐走到我面前，他大声对我说：快答应啊叶茵，你这错过了，还上哪再找这么好的男人。这是我第一次被感动，被有仪式感的表白，我向来给别人制造浪漫和惊喜，不曾想过有一天，我也可以拥有这样的仪式感。&ldquo;我愿意。&rdquo;我将陈宇扶起，接过他手中的花。他不知道的是，我第一次见他，也已经产生爱慕之情，与其说他在了解我，不如说是我们在了解彼此。我知道他喜欢吃猕猴桃，喜欢穿衬衫，喜欢满天星，喜欢拍视频，还有喜欢我。&nbsp;喜欢一个人，总想着要将全世界最好的都给他，在我这就是如此。&nbsp;我们认识的那些日子，他没有因为工作而忽视我。有时候我甚至会觉得我是不是有耽误他工作，经常给他发信息，问他有没有在忙，他哪怕再忙也都会跟我说，他在做什么。&nbsp;由于我们上班地点离得不是很远，基本上都是一起吃午饭，找个折中的地点，但都是他来我这边，我只要走几分钟路就到。&nbsp;我们从吃饭了解对方，我知道他的口味，他知道我爱吃哪些，不爱吃哪些。以美食打开人的胃口，更是打开人的心房。&nbsp;4.日子久了，陈宇对美食的了解越来越多，每晚下班，都带着我出去觅食，我笑我们的感情是建立在美食上面的，靠吃才有着共同话题。我在翻看聊天记录时，发现我们大部分时间都在聊吃什么，郑乐每次找我，都是在各家店里。很奇怪，跟陈宇在一起后，我开始很少去喝酒，时间都花在研究美食上。&nbsp;郑乐说：&ldquo;你们这样出去觅食，怎么不想着在家做，两个人共同做饭，这不是更能促进二人感情？&rdquo;&nbsp;我想想倒还真是，小郑这话算是提醒了我。就在小郑说完的那个周末，我买了陈宇爱吃的菜在家里面折腾，折腾的差不多，给陈宇打电话，让他过来，陈宇刚睡醒，接到电话立刻起床洗漱，收拾好后打车来我家。他敲门的时候，我正拿着锅铲，戴着口罩。&nbsp;陈宇站门口笑出声，他说他从没见过这么狼狈的我，不过模样倒还有点家庭主妇的样子。我怕他在门口这样笑，会影响到我在邻居心中的形象，赶紧拉他进来。&nbsp;我走进厨房将我炒好的菜盛出来，陈宇跟在我身后，双手环我腰上，低着头，俯身在我耳边：茵茵，要不你搬去我那，跟我一起住吧，我好照顾你。&nbsp;&ldquo;没事，我这也挺好的，这不是距离产生美嘛。&rdquo;&nbsp;我拒绝陈宇后，他倒经常来我家吃我做的菜，后来因为公司换了新的办公点，之前一起合租的那家办公室集体去了上海，我们只好换地方。偏偏新的办公点正好在陈宇家附近，走路五分钟就能到。那时候是冬天，我又喜欢赖床，导致经常赶不上地铁和公交，刚去新办公点的那一个月，我迟到了不下十次，陈宇心疼我每天跑来跑去，时间长了，我也开始有些累。&nbsp;有天晚上，我因为赶策划在公司待到两点多，陈宇一直在楼下等我，带着我爱吃的零食和夜宵，见我下来，立刻跑到我面前喂我吃零食。我因为太累，那晚直接去了陈宇家，霸占他的床睡了一夜。第二天醒来，我看到身旁还在熟睡的陈宇，他将手放在我脑后，生怕我撞到。我细看他的皮肤，心想着，一个男生的皮肤，竟然比我的还要嫩。我看着看着，有些走神。&ldquo;好看嘛？&rdquo;&ldquo;好看，啊？&rdquo;我愣了一下，才反应过来，他早就醒了，只是我一直盯着他看，没注意到。&ldquo;茵，来我这边住吧，上下班都方便，我真的担心你身体。&rdquo;我抱着陈宇，依偎在他怀里，答应道：好。从那之后，陈宇整天变着花样给我做饭吃，我的体重从90斤长到了110斤。&nbsp;当然，陈宇也是，郑乐也毫不客气地经常来蹭饭，边吃边评价陈宇的厨艺。&nbsp;5.前段时间，我妈开始催我，质问我这段恋爱都谈了三年，怎么还不带陈宇回去见见他们。今年过年说什么也要带回去。电话打来的时候，正好陈宇在我身边，他拿我手机跟我妈说，是啊，阿姨，我说我想去看看您，跟您唠个嗑，但茵茵就是不同意，怕您太偏爱我。&ldquo;陈宇，你说什么呢你，谁怕了，谁怕了。&rdquo;&nbsp;&ldquo;叶茵我告诉你啊，你这回可必须得把小宇给我带回来，还有小郑，也一起回来吃饭，我还没好好谢谢人小郑呢，回头啊，妈看到合适的，也给小郑介绍介绍。你俩回头一起办婚礼。&rdquo;我们就这样，被我妈安排得明明白白。6.我知道，我确实到了适合结婚的年纪，很多时候，我也感到庆幸，三年前我遇见陈宇，他始终待在我身边，而这一待就是三年。三年里面，他始终包容着我的各种小脾气，我任性，他哄着，我耍脾气，他也哄着，不管是不是我的错，他都笑着面对。陈宇说，我那是太信任他，太依赖他，他接收到的信号是幸福，他也希望我能这样跟他闹一辈子。&nbsp;三年的时间，其实也不短，我们都是成年人，虽然我总说没什么要结婚的年纪，但真遇上，结婚这个选择，这也不是件坏的。何况结婚这事，三年感情也足够了，倒不是非得谈个八九年，才能够格去结婚。双方合适，有爱在，愿意一起生活，那就结。&nbsp;我没结过婚，但我拥有着幸福,也即将步入婚姻。谢谢陈先生成为我一生挚爱，让我相信爱。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你是我新鲜感退却，依旧会心动的人",
+                        "desc": "文/姜乐辛 谢谢你选择我。",
+                        "link": "http://m.wufazhuce.com/music/3185?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你是我新鲜感退却，依旧会心动的人",
+                        "desc": "文/姜乐辛 谢谢你选择我。",
+                        "link": "http://m.wufazhuce.com/music/3185?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你是我新鲜感退却，依旧会心动的人》 文/姜乐辛： 谢谢你选择我。 阅读全文：http://m.wufazhuce.com/music/3185?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3185?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你是我新鲜感退却，依旧会心动的人",
+                        "desc": "谢谢你选择我。",
+                        "link": "http://m.wufazhuce.com/music/3185?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "记得复诊",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "七十五号疯人院",
+                "audio_album": "记得复诊",
+                "cover": "http://image.wufazhuce.com/Fp7pIFLPdyluQvxznuIOPKqI3aBM",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2655",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4154",
+                    "title": "镜头之后，皆为假象"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1076",
+                    "serial_list": [
+                        "1038",
+                        "1040",
+                        "1041",
+                        "1044",
+                        "1045",
+                        "1046",
+                        "1049",
+                        "1052",
+                        "1053",
+                        "1054",
+                        "1056",
+                        "1063",
+                        "1064",
+                        "1065",
+                        "1066",
+                        "1067",
+                        "1068",
+                        "1069",
+                        "1075",
+                        "1076",
+                        "1077",
+                        "1080",
+                        "1081",
+                        "1082"
+                    ],
+                    "title": "铃兰·第二十章·荒原埋葬的灵魂"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2724",
+                    "title": "如何养成自省的习惯？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3185",
+                    "title": "你是我新鲜感退却，依旧会心动的人"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

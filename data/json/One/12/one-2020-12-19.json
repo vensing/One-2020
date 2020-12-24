@@ -1,0 +1,385 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5738",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-12-19 06:00:00",
+        "content_list": [
+            {
+                "id": "21645",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "3038",
+                "title": "摄影",
+                "forward": "就这样，我不断地更换认识的人，也不断地使自己进入不认识的人们之中去。我既不悲观，也不乐观，只是每天早上睁开眼睛迎接新的一天，一个人努力过下去。",
+                "img_url": "http://image.wufazhuce.com/FkEJONevfKZDHWqmdTSnaCcXb6bC",
+                "like_count": 12196,
+                "post_date": "2020-12-19 06:00:00",
+                "last_update_date": "2020-12-17 13:41:53",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2996",
+                "pic_info": "Callum Shaw",
+                "words_info": "青山七惠 《一个人的好天气》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3038",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/3038",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/3038",
+                    "image": "http://image.wufazhuce.com/FkEJONevfKZDHWqmdTSnaCcXb6bC",
+                    "title": "VOL.2996",
+                    "content": "就这样，我不断地更换认识的人，也不断地使自己进入不认识的人们之中去。我既不悲观，也不乐观，只是每天早上睁开眼睛迎接新的一天，一个人努力过下去。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3038?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3038?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 就这样，我不断地更换认识的人，也不断地使自己进入不认识的人们之中去。我既不悲观，也不乐观，只是每天早上睁开眼睛迎接新的一天，一个人努力过下去。——青山七惠 《一个人的好天气》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3038?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3038?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21658",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4545",
+                "title": "晚安凡妮莎",
+                "forward": "我不在的时候，凡妮莎到底是什么样子呢？",
+                "img_url": "http://image.wufazhuce.com/FjHOHPzJ5guOw2UYM1VIIW4JNVai",
+                "like_count": 1430,
+                "post_date": "2020-12-19 06:00:00",
+                "last_update_date": "2020-12-18 15:16:18",
+                "author": {
+                    "user_id": "11747377",
+                    "user_name": "大正",
+                    "desc": "姚大正，1984年出生于安徽，现居苏州，资深游戏模型师，有短篇小说集《龙眼镇恶棍列传》，龙眼镇系列故事和X公司系列故事。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "业余小说家",
+                    "fans_total": "36",
+                    "web_url": "http://image.wufazhuce.com/FqyJR21MmqoKcjiHjoyqBUdRiAcS"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4545",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4545",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4545",
+                    "image": "http://image.wufazhuce.com/FjHOHPzJ5guOw2UYM1VIIW4JNVai",
+                    "title": "晚安凡妮莎 作者/大正",
+                    "content": "我在期待什么呢？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 晚安凡妮莎",
+                        "desc": "文/大正 我在期待什么呢？",
+                        "link": "http://m.wufazhuce.com/article/4545?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 晚安凡妮莎",
+                        "desc": "文/大正 我在期待什么呢？",
+                        "link": "http://m.wufazhuce.com/article/4545?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 晚安凡妮莎》 文/大正： 我在期待什么呢？ 阅读全文：http://m.wufazhuce.com/article/4545?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4545?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "晚安凡妮莎",
+                        "desc": "我在期待什么呢？",
+                        "link": "http://m.wufazhuce.com/article/4545?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21638",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3071",
+                "title": "哪些道理是婚前需要知道的？",
+                "forward": "结婚前，我们应当冷静地想想，自己需要什么样的伴侣，我们是否了解彼此，信任是否充足。",
+                "img_url": "http://image.wufazhuce.com/Fl4H1PEm3qqJgJzlEpExTNIK1-b0",
+                "like_count": 2282,
+                "post_date": "2020-12-19 06:00:00",
+                "last_update_date": "2020-12-18 17:29:22",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "冬眠中……",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3071",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3071",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3071",
+                    "image": "http://image.wufazhuce.com/Fl4H1PEm3qqJgJzlEpExTNIK1-b0",
+                    "title": "哪些道理是婚前需要知道的？",
+                    "content": "哪些道理是婚前需要知道的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 哪些道理是婚前需要知道的？",
+                        "desc": "文/陈允皓 爱情和婚姻可能是两件事。",
+                        "link": "http://m.wufazhuce.com/question/3071?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 哪些道理是婚前需要知道的？",
+                        "desc": "文/陈允皓 爱情和婚姻可能是两件事。",
+                        "link": "http://m.wufazhuce.com/question/3071?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 哪些道理是婚前需要知道的？》 文/陈允皓： 爱情和婚姻可能是两件事。 阅读全文：http://m.wufazhuce.com/question/3071?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3071?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "哪些道理是婚前需要知道的？",
+                        "desc": "爱情和婚姻可能是两件事。",
+                        "link": "http://m.wufazhuce.com/question/3071?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10358044",
+                    "user_name": "陈允皓",
+                    "desc": "生活明朗，万物可爱。公众号：陈允皓",
+                    "wb_name": "@陈允皓Mars",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "生活明朗，万物可爱。公众号：陈允皓",
+                    "fans_total": "2380",
+                    "web_url": "http://image.wufazhuce.com/FsSQfZ7WLGyo6SbEBwas01L5iQw4"
+                }
+            },
+            {
+                "id": "21659",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2092",
+                "title": "2021最值得期待的120部外语片 | 年度策划",
+                "forward": "明年，一起看电影。",
+                "img_url": "http://image.wufazhuce.com/Fh40YjI06jVueDQ3WzX-5BhckowN",
+                "like_count": 1916,
+                "post_date": "2020-12-19 06:00:00",
+                "last_update_date": "2020-12-18 14:00:40",
+                "author": {
+                    "user_id": "11750700",
+                    "user_name": "一起拍电影",
+                    "desc": "组织一批有共同信仰、共同理念的人自由连接，聚集新一代思想的年轻电影人，大家“一起拍电影”。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "微信公众号：一起拍电影",
+                    "fans_total": "57",
+                    "web_url": "http://image.wufazhuce.com/FsCsEhzAkepF4G-jXWIOldzeuFam"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "2021外语片预告",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5075",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2092",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2092",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2092",
+                    "image": "http://image.wufazhuce.com/Fh40YjI06jVueDQ3WzX-5BhckowN",
+                    "title": "「一个」电影: 2021外语片预告",
+                    "content": "眼看着2020年还有不到一个月就要结束了。回顾这一年，想必每个人一定都会有属于自己的感受。无论是难忘、遗憾、兴奋，还是失落，都是人生在某一个独特阶段的独特体验。&nbsp;昨日之日不可留，今日之日多烦忧。好在，电影始终伴随在你我身边。既然生活充满了如此多的不确定性，那么不妨让过去成为过去，赶紧收拾好心情，迎接即将到来的又一年吧！差不多半个月前，我们的「年度策划」栏目曾经推送过一篇《2021最值得期待的110部国产电影》，总结整理了明年值得期待的110部华语片，引起了大家的讨论。其中不乏观众们熟悉的老面孔，也有很多值得期待的新人新作。今天，我们继续推出&ldquo;2021年最值得期待的120部外语片&rdquo;，将眼光放至全球。这其中，有一些是因为疫情原因，不得不和大家推迟见面的年度期待，比如漫威的《黑寡妇》、阿汤哥的《壮志凌云2》，以及丹尼尔&middot;克雷格卸任007前的最后一部电影《007：无暇赴死》等等；同时，也有一些是早就定档于2021年的商业大制作，终于将与观众见面，如《毒液2》、《碟中谍7》等。当然了，因为今年的戛纳电影节取消，以&ldquo;戛纳官方入选&rdquo;的形式取代了以往的竞赛单元，因而很多本该亮相今年戛纳的大师新作自然也就顺延到了明年，包括全明星阵容的《法兰西特派》、老导演保罗&middot;范霍文的《圣母》，以及莱奥&middot;卡拉克斯暌违八年的新作《安妮特》等等。需要强调的是，这份片单自然无法涵盖2021年所有待映的外语片，而由于疫情、环境等不可控因素，有些影片的拍摄和后期等过程可能也会相应地推迟或延长，所以撤档、改档，甚至是空降定档都是在所难免的情况。话不多说了，直接上菜！影片的排名顺序不分先后。2021年，让我们大家继续看电影吧！超英大片，卷土重来&nbsp;2020年，全球的电影市场完全可以用&ldquo;惨淡&rdquo;来形容。&nbsp;新片断档，各地影院关停，多部大片&ldquo;院转网&rdquo;，各家流媒体绞尽脑汁吸引用户，全球电影的票房年冠落在了中国电影《八佰》的身上。如今，好莱坞和欧洲的疫情仍然未见明显好转，为了应对可能出现的结果，好莱坞也积极面对，制定了一系列的举措。虽然目前中国的电影市场复苏的还不错，但整体观众们的观影欲望仍然没有被完全激发出来，刚刚过去的11月电影市场之冷，甚至达到了近年来的历史冰点，而这与国外引进大片的断供不无关系。不过，这样的局面有望在明年得到缓解，因为明年是超级英雄大片的回归之年。今年一年，我们没有在大银幕上看到漫威的身影。随着《复仇者联盟4》的结束，漫威的第三阶段布局也已画上一个圆满的句号。接下来，漫威第四阶段将呈现一个更为宏大广阔的画卷，而开启这一全新征程的重任，落在了《黑寡妇》的身上，已定档明年的5月7日。▲《黑寡妇》剧照作为&ldquo;初代复联&rdquo;成员里的唯一一位女性，同时也是一位没有超能力的超级英雄，黑寡妇这个角色一直以来就受到了无数观众的喜爱和认同，此项目也是收获了前所未有的关注。再加上寡姐在《复联4》中的悲剧结局，更是令无数人好奇她神秘的前世今生。所以，本片当之无愧是漫威在2021年最受瞩目的一部超英片。除此之外，明年将与观众们在大银幕上见面的漫威超英片还包括《尚气》、《蜘蛛侠：英雄归来3》，以及赵婷的《永恒族》。而漫威宇宙（MCU）的编外部队SUMC（Sony&#39;s Universe of Marvel Characters，即&ldquo;漫威角色的索尼宇宙&rdquo;），也将带来&ldquo;毒液&rdquo;系列第二部《毒液2：屠杀开始》，以及全新的暗黑超级英雄《暗夜博士：莫比亚斯》。&nbsp;至于DC方面，目前确认定档的，只有一部詹姆斯&middot;古恩指导的《X特遣队：全员集结》，也就是大家熟知的《自杀小队2》。鉴于&ldquo;滚导&rdquo;的&ldquo;银河护卫队&rdquo;系列都很成功，想必他也一定可以给&ldquo;自杀小队&rdquo;这个IP重新带来生机。IP蓄力，类型开花&nbsp;除了超英电影以外，有很多金牌IP也会在明年迎来续作或是电影改编作品。随便列举几个。比如《速度与激情》，作为环球影业旗下最赚钱的系列电影之一，已在全球范围内狂揽约50亿美元的票房，更是收获了一众拥趸。最新的这部《速度与激情9》定档明年5月28日，继续由华裔导演林诣彬执导，他曾执导过这个系列的第六部，无论从市场表现还是口碑上来看都十分亮眼。▲《速度与激情9》剧照再比如阿汤哥主演的《碟中谍》系列，IP隶属于派拉蒙，也是全球最卖座的特工题材，前六部在全球的累计票房已达35亿美元。2018年上映的《碟中谍6：全面瓦解》更是以7.91亿美元的全球票房成绩，创下系列新高。最新的这一部《碟中谍7》已定档明年的11月19日。&nbsp;另一个特工题材的金字IP就是英国的007系列，而即将上映的《007：无暇赴死》则是该系列的第二十五部电影，也是丹尼尔&middot;克雷格最后一次出演特工詹姆斯&middot;邦德。这部系列新作由艾美奖最佳导演得主凯瑞&middot;福永执导，定档明年4月2日。同名主题曲《No Time To Die》由乐坛新人比莉&middot;艾利什演唱，更是未映先火。除此之外，其他值得期待的大IP还包括，传奇影业的《哥斯拉大战金刚》以及《沙丘》。前者是传奇和华纳打造的&ldquo;怪兽宇宙&rdquo;系列的又一部力作，后者则是由大师级导演丹尼尔&middot;维伦纽瓦执导的年度科幻力作，可以说是万众瞩目。▲《沙丘》剧照从类型片的角度来看，明年的好莱坞也将迎来多个类型的集中爆发。科幻片领域除了《沙丘》以外，还有《混沌漫步》、《超能敢死队2020》、《失控玩家》、《明日之战》、《月球陨落》，以及众人期待的《黑客帝国4》等不同题材的作品。恐怖片类型也将在明年迎来大丰收。首先就是恐怖片大师温子仁的《恶性》，虽然暂未定档，但基本已确定将于明年与观众见面。其次，《月光光心慌慌》、《电锯惊魂》、《招魂》系列，都将在明年迎来新作。而埃德加&middot;赖特（《Soho区惊魂夜》）、M&middot;奈特&middot;沙马兰（《老去》）、大卫&middot;洛维（《绿衣骑士》）等著名导演也都将在明年带来自己的恐怖新片。此外，明年也是好莱坞动画片的大年。迪士尼的《寻龙传说》，皮克斯的《卢卡》，索尼的《Vivo》、《精灵旅社4》，照明娱乐的《小黄人》系列、《欢乐好声音2》，派拉蒙的《怪兽训练营》，梦工场的《宝贝老板2》等等，各路强兵汇聚2021，想必也将展开一番激烈竞争。▲《寻龙传说》剧照大师新作，蓄势待发除了在商业大片领域，明年有很多值得期待的作品在等着我们以外，许多电影大师或新锐导演也将在明年推出自己的新作。斯皮尔伯格的新版《西区故事》已经定档明年的12月10日，毫不意外地成为2022年颁奖季的头号种子选手。这部电影是对1961年同名电影的翻拍版，原本定于今年12月18日公映，因为疫情缘故推迟了一整年。&ldquo;老雷&rdquo;雷德利&middot;斯科特的《古驰》也定于明年的11月24日公映，剑指颁奖季。这个项目在好莱坞酝酿了超过十年，此前还曾传出过由王家卫执导，最终由于准备周期太长而放弃。影片由罗伯特&middot;德尼罗、阿尔&middot;帕西诺、亚当&middot;德赖弗、Lady Gaga等人主演。此外，老雷的另一部新片《最后的决斗》，由&ldquo;好基友&rdquo;本&middot;阿弗莱克和马特&middot;达蒙主演，也已定档明年10月15日。所以，不出意外的话，观众们明年将看到雷导的两部新片，简直太幸福了。另外，奥斯卡提名者巴兹&middot;鲁赫曼的《未命名猫王新片》、奥斯卡最佳导演得主达米恩&middot;查泽雷的《巴比伦》也都早早定档明年冬季，加入颁奖季战局。让我们把目光从好莱坞再转向全球。今年戛纳电影节竞赛单元的取消，让很多本该在今年亮相的年度期待也改档去了明年。除了开头提到的《法兰西特派》、《圣母》、《安妮特》等，还有一些本可能是今年戛纳主竞赛的强有力选手，包括戛纳金棕榈得主南尼&middot;莫莱蒂的《三层楼上》、鲁本&middot;奥斯特伦德的《无限悲情》、阿彼察邦的《记忆》，金熊奖得主那达夫&middot;拉皮德的新片《阿赫德的膝盖》，以及银熊奖得主米娅&middot;汉森-洛夫的《伯格曼岛》等。▲《法兰西特派》剧照一个多月前，戛纳总监福茂宣布2021年的戛纳电影节将在5月11日至22日于线下实体举行。当然，目前法国的疫情仍然充满了变数，因而明年的戛纳也可能会继续推迟。据悉，戛纳的主办方也已向当地政府报备了三套应急预案，但无论如何，福茂表示即使无法在线下与观众见面，也绝对不会在线上举行。而比戛纳要更早的柏林，也已早早宣布计划于明年的2月11日至21日&ldquo;以非虚拟形式&rdquo;举办，不会因疫情取消或推迟。就让我们期待明年的疫情能够得到良好的控制，国际范围内的线下电影节都能够如期顺利举行吧。日韩佳作，持续输出最后，再让我们将目光转回到亚洲区域。作为电影强国的日本和韩国，近几年在国际范围内的影响力也越来越大，整个电影行业的艺术水准自然是不容小觑，而本土作品的市场回报也是屡创新高。因而，明年的年度期待中自然也少不了日韩两国影片的身影。首先是日本。作为亚洲当之无愧的电影最强大国，日本电影一直以来都受到中国市场和观众的广泛青睐。在这份片单里，拍Sir主要收录了几部日本动漫的剧场版，其中包括柯南、哆啦A梦，以及有望于明年初登陆国内院线的《鬼灭之刃》剧场版。尤其是这部来势汹汹的《鬼灭之刃》剧场版，可以说是引发了现象级的关注，不仅刷新了本土电影的多项票房记录，如今更是荣登日本影史票房的第二名，超过了《冰雪奇缘》和《泰坦尼克号》，距离影史第一的《千与千寻》仅一步之遥。▲《鬼灭之刃 剧场版 无限列车篇》壁纸另外，《命运之夜》以及《新&middot;福音战士》的剧场版也算是广大二次元粉丝的年度期待了，尤其是这部庵野秀明执导的《新&middot;福音战士剧场版：终》，制作周期漫长，跳票多年，后又因肺炎影响改档自明年初，想必届时也一定会掀起一番观影狂潮。至于真人电影部分，仍然有大量的漫改电影诞生，《王者天下》、《浪客剑心》系列都将于明年推出续作，其中《浪客剑心》的最终章将分为上下两部，仍然由大友启史执导。国民级导演山田洋次、旬报最佳导演石井裕也、特摄片大师樋口真嗣、近几年颇受关注的吉田大八和今泉力哉等一系列新老导演，都将于明年推出自己的新作，对于喜爱日本电影的影迷们来说，简直是一场丰富的饕餮盛宴。相比日本在电影的艺术性和商业性上兼顾平衡，韩国则仍在大力提升本土的工业化水准，稳定输出着口碑票房俱佳的类型片，喜欢韩国电影的朋友们也有眼福了。灾难片《消防员》、《紧急宣言》，犯罪片《交涉》，政治题材的《王者制造》，科幻动作片《徐福》，以及历史传记题材的《兹山鱼谱》&hellip;&hellip;类型程度之丰富，题材之多元，一份表格里也很难完全囊括，只能留待各位观众们去一同期待了。▲《徐福》剧照通过整理可以发现，尽管受到了疫情不同程度的影响，但日韩两国在电影创作上仍然保持着十分稳定的输出。创作上在类型化方面尽可能去拓展，取材角度也多与现实生活息息相关。同时，大导演持续深耕，新人也层出不穷，整个行业在困难面前都展现了非凡的团结和韧性。相信明年也将是日韩两国在电影领域持续丰收的一年。院网之争，仍将继续通过简单的分析，想必各位读者和观众对于明年的国外新片，也有了一定的了解。需要再次强调的是，由于疫情的不可控因素，这份表格并无法穷尽所有可能出现的新片，且公映日期多以明年的具体时间为准，制片国家也大多集中在欧美以及东亚范围内，至于那些小国冷门口碑佳作，更是无法一一列举。但好在，明年仍然有这么多值得期待的电影，让我们平凡的生活中不乏希望的闪现。2020一整年，疫情不仅改变了人们的生活方式，更是给全世界的电影行业带来了天翻地覆的变化。在疫情尚未完全消失之前，流媒体的地位，恐怕仍然难以撼动。不管国外的疫情能否好转，线下的各大电影节展还能否继续举办，可以肯定的一点是，未来传统院线和流媒体之间的融合，仍然不会停止，甚至会愈演愈烈。就在前几天，华纳兄弟刚刚宣布一项震惊好莱坞的操作：由于考虑到2021年北美影院恐怕都无法正常开放，因而决定，继《神奇女侠1984》后，2021年北美上映的全部17部电影也将同步登陆HBO Max。也就是说北美院线上映当天也上线流媒体，院线窗口期完全消失。▲《神奇女侠1984》剧照消息一出，业内一片哗然。目前，关于这一争论暂时还没有得到合理的解决方案，其他公司也暂时没有进一步的消息。但如果这项举措完全落实，那么可以肯定，中国这片市场，将成为国外各大片商抢在影片登陆流媒体之前必争的一块宝地，整体的市场格局恐怕也将迎来一系列新的变化。总之，不论市场如何调整，发行方式如何变化，所有观众对于优质内容和好电影的需求，始终都不会变。尤其是在经历了行业止步不前的半年后，我们更加珍惜如今这样的&ldquo;常态&rdquo;。放眼未来，希望疫情笼罩的日子能够尽快过去，欧美地区的电影行业能够早日恢复，越来越多的大片能够同步引进并定档，国内市场对于不同国家、不同种类风格的电影会越来越包容，发展也会越来越多元。同时，我们也需要吸取教训，因地制宜，积极应对任何可能出现的危机和情况。&nbsp;站在历史与未来的交叉口，回望过去，内心感慨万千；展望未来，仍然充满信心。2021年就要来了，你，准备好了吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 2021最值得期待的120部外语片 | 年度策划",
+                        "desc": "文/一起拍电影 明年，一起看电影。",
+                        "link": "http://m.wufazhuce.com/movie/2092?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 2021最值得期待的120部外语片 | 年度策划",
+                        "desc": "文/一起拍电影 明年，一起看电影。",
+                        "link": "http://m.wufazhuce.com/movie/2092?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 2021最值得期待的120部外语片 | 年度策划》 文/一起拍电影： 明年，一起看电影。 阅读全文：http://m.wufazhuce.com/movie/2092?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2092?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "2021最值得期待的120部外语片 | 年度策划",
+                        "desc": "明年，一起看电影。",
+                        "link": "http://m.wufazhuce.com/movie/2092?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2996",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4545",
+                    "title": "晚安凡妮莎"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3071",
+                    "title": "哪些道理是婚前需要知道的？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2092",
+                    "title": "2021最值得期待的120部外语片 | 年度策划"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

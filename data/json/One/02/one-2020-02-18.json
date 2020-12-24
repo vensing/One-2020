@@ -1,0 +1,686 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5420",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-18 06:00:00",
+        "content_list": [
+            {
+                "id": "19814",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2731",
+                "title": "摄影",
+                "forward": "我觉得最主要还是本质的善良，天性的温厚，开阔的胸襟。有了这三样，其他都可以逐渐培养；而且有了这三样，将来即使遇到大大小小的风波也不致变成悲剧。",
+                "img_url": "http://image.wufazhuce.com/FrE6AenfcSoUmPL_qeVWqG5hna6C",
+                "like_count": 20661,
+                "post_date": "2020-02-18 06:00:00",
+                "last_update_date": "2020-02-15 18:29:43",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2691",
+                "pic_info": "Joel Muniz",
+                "words_info": "傅雷《傅雷家书》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2731",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2731",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2731",
+                    "image": "http://image.wufazhuce.com/FrE6AenfcSoUmPL_qeVWqG5hna6C",
+                    "title": "VOL.2691",
+                    "content": "我觉得最主要还是本质的善良，天性的温厚，开阔的胸襟。有了这三样，其他都可以逐渐培养；而且有了这三样，将来即使遇到大大小小的风波也不致变成悲剧。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2731?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2731?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我觉得最主要还是本质的善良，天性的温厚，开阔的胸襟。有了这三样，其他都可以逐渐培养；而且有了这三样，将来即使遇到大大小小的风波也不致变成悲剧。——傅雷《傅雷家书》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2731?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2731?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19823",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4205",
+                "title": "青梅竹马不相恋",
+                "forward": "青春时候的爱情，我们都经历过，是好是坏，那都是信笺上最初的那个昵称，有些会保持原样，有些会慢慢淡忘。",
+                "img_url": "http://image.wufazhuce.com/FsqffzeBAkJwTVap7TLku8qcZFCU",
+                "like_count": 2495,
+                "post_date": "2020-02-18 06:00:00",
+                "last_update_date": "2020-02-18 11:03:55",
+                "author": {
+                    "user_id": "5545258",
+                    "user_name": "程安",
+                    "desc": "作家，编剧。已出版软科幻短篇集《幸好你没嫁给他》。",
+                    "wb_name": "@程安",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，编剧。已出版《幸好你没嫁给他》。",
+                    "fans_total": "820",
+                    "web_url": "http://image.wufazhuce.com/Fn3NAApqWCbrqb2adGbTnJ0Zn218"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4205",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4205",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4205",
+                    "image": "http://image.wufazhuce.com/FsqffzeBAkJwTVap7TLku8qcZFCU",
+                    "title": "青梅竹马不相恋 作者/程安",
+                    "content": "不是每个青梅竹马，都能执子之手。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 青梅竹马不相恋",
+                        "desc": "文/程安 不是每个青梅竹马，都能执子之手。",
+                        "link": "http://m.wufazhuce.com/article/4205?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 青梅竹马不相恋",
+                        "desc": "文/程安 不是每个青梅竹马，都能执子之手。",
+                        "link": "http://m.wufazhuce.com/article/4205?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 青梅竹马不相恋》 文/程安： 不是每个青梅竹马，都能执子之手。 阅读全文：http://m.wufazhuce.com/article/4205?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4205?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "青梅竹马不相恋",
+                        "desc": "不是每个青梅竹马，都能执子之手。",
+                        "link": "http://m.wufazhuce.com/article/4205?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19825",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4206",
+                "title": "我距离武汉1173公里",
+                "forward": "我距离武汉1173公里，我在努力地坚守，请大家也一起努力。",
+                "img_url": "http://image.wufazhuce.com/Fkty4hXvUTZKGkPcheOGoJON0WBX",
+                "like_count": 2278,
+                "post_date": "2020-02-18 06:00:00",
+                "last_update_date": "2020-02-17 21:55:52",
+                "author": {
+                    "user_id": "11059389",
+                    "user_name": "小瘦象",
+                    "desc": "立体的人确实是光明与黑暗交错的。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "基层工作者。",
+                    "fans_total": "69",
+                    "web_url": "http://image.wufazhuce.com/Fr0MnHaoQFjTa6ZwcwUBp10npBHr"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4206",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4206",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4206",
+                    "image": "http://image.wufazhuce.com/Fkty4hXvUTZKGkPcheOGoJON0WBX",
+                    "title": "我距离武汉1173公里 作者/小瘦象",
+                    "content": "我距离武汉1173公里，我在努力地坚守，请大家也一起努力。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 我距离武汉1173公里",
+                        "desc": "文/小瘦象 我距离武汉1173公里，我在努力地坚守，请大家也一起努力。",
+                        "link": "http://m.wufazhuce.com/article/4206?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 我距离武汉1173公里",
+                        "desc": "文/小瘦象 我距离武汉1173公里，我在努力地坚守，请大家也一起努力。",
+                        "link": "http://m.wufazhuce.com/article/4206?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 我距离武汉1173公里》 文/小瘦象： 我距离武汉1173公里，我在努力地坚守，请大家也一起努力。 阅读全文：http://m.wufazhuce.com/article/4206?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4206?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我距离武汉1173公里",
+                        "desc": "我距离武汉1173公里，我在努力地坚守，请大家也一起努力。",
+                        "link": "http://m.wufazhuce.com/article/4206?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19810",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1107",
+                "title": "世界得了健忘症·第九章：苦难",
+                "forward": "因为“成功”，“苦难”才被真正赋予意义。成功人士才拥有大谈苦难的资格，平凡小人物的痛苦，大家漠不关心。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 1031,
+                "post_date": "2020-02-18 06:00:00",
+                "last_update_date": "2020-02-15 09:43:30",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第9章",
+                "number": "9",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1107",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1107",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1107",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第九章：苦难 作者/昔央",
+                    "content": "成功人士才拥有大谈苦难的资格，平凡小人物的痛苦，大家漠不关心。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第九章：苦难",
+                        "desc": "文/昔央 成功人士才拥有大谈苦难的资格，平凡小人物的痛苦，大家漠不关心。",
+                        "link": "http://m.wufazhuce.com/serial/1107?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第九章：苦难",
+                        "desc": "文/昔央 成功人士才拥有大谈苦难的资格，平凡小人物的痛苦，大家漠不关心。",
+                        "link": "http://m.wufazhuce.com/serial/1107?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第九章：苦难》 文/昔央： 成功人士才拥有大谈苦难的资格，平凡小人物的痛苦，大家漠不关心。 阅读全文：http://m.wufazhuce.com/serial/1107?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1107?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第九章：苦难",
+                        "desc": "成功人士才拥有大谈苦难的资格，平凡小人物的痛苦，大家漠不关心。",
+                        "link": "http://m.wufazhuce.com/serial/1107?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19824",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2760",
+                "title": "如何面对曾经喜欢却错过的人？",
+                "forward": "有时候人与人之间的缘分，上一秒是巧合，下一秒就是错过。",
+                "img_url": "http://image.wufazhuce.com/FpqRixdd6D81NYDWIbhbfSq_0y6m",
+                "like_count": 3195,
+                "post_date": "2020-02-18 06:00:00",
+                "last_update_date": "2020-02-17 12:06:56",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "雨夜冰淇淋",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2760",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2760",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2760",
+                    "image": "http://image.wufazhuce.com/FpqRixdd6D81NYDWIbhbfSq_0y6m",
+                    "title": "如何面对曾经喜欢却错过的人？",
+                    "content": "如何面对曾经喜欢却错过的人？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何面对曾经喜欢却错过的人？",
+                        "desc": "文/黄子京 有时候人与人之间的缘分，上一秒是巧合，下一秒就是错过。",
+                        "link": "http://m.wufazhuce.com/question/2760?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何面对曾经喜欢却错过的人？",
+                        "desc": "文/黄子京 有时候人与人之间的缘分，上一秒是巧合，下一秒就是错过。",
+                        "link": "http://m.wufazhuce.com/question/2760?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何面对曾经喜欢却错过的人？》 文/黄子京： 有时候人与人之间的缘分，上一秒是巧合，下一秒就是错过。 阅读全文：http://m.wufazhuce.com/question/2760?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2760?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何面对曾经喜欢却错过的人？",
+                        "desc": "有时候人与人之间的缘分，上一秒是巧合，下一秒就是错过。",
+                        "link": "http://m.wufazhuce.com/question/2760?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9606198",
+                    "user_name": "黄子京",
+                    "desc": "作者、诗人。微信公众号：黄子京。",
+                    "wb_name": "@黄子京hzj",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者、诗人。微信公众号：黄子京。",
+                    "fans_total": "5327",
+                    "web_url": "http://image.wufazhuce.com/FgqaxpmefULlWSexRwIEJ9NcoaMf"
+                }
+            },
+            {
+                "id": "19808",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1954",
+                "title": "这世界唯一公平的，是阳光",
+                "forward": "人生就像一条路，红灯该停就停，绿灯的时候慢慢起步，稳稳地开，人生的路就会平平安安。",
+                "img_url": "http://image.wufazhuce.com/FmxdvDl4T68vePDHB9xZj245mtJv",
+                "like_count": 3397,
+                "post_date": "2020-02-18 06:00:00",
+                "last_update_date": "2020-02-17 19:23:01",
+                "author": {
+                    "user_id": "9606198",
+                    "user_name": "黄子京",
+                    "desc": "作者、诗人。微信公众号：黄子京。",
+                    "wb_name": "@黄子京hzj",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者、诗人。微信公众号：黄子京。",
+                    "fans_total": "5327",
+                    "web_url": "http://image.wufazhuce.com/FgqaxpmefULlWSexRwIEJ9NcoaMf"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "阳光普照",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4937",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1954",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1954",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1954",
+                    "image": "http://image.wufazhuce.com/FmxdvDl4T68vePDHB9xZj245mtJv",
+                    "title": "「一个」电影: 阳光普照",
+                    "content": "2019年，电影《阳光普照》无疑是第56届金马奖的最大赢家。十一项提名，六项大奖，囊括了最佳剧情片、最佳导演、最佳男主角、最佳男配角、最佳剪辑和观众票选奖。整部电影以一种相对克制的方式，向我们展现了一个冷漠而疏离的家庭，颇有几分杨德昌与是枝裕和的味道。值得一提的是，这部电影的导演钟孟宏，曾凭借《大佛普拉斯》获得第54届金马奖最佳摄影奖，而《阳光普照》与《大佛普拉斯》在艺术风格上，也具有一定程度的延续。审视社会的同时，注入强烈的人文关怀，《阳光普照》在光明与黑暗之间，让我们看到了人性的多重色彩，也让我们对日常生活中容易被我们忽视的很多细节产生了深刻的思考。影片的英文名为A Sun（一个太阳），是A Son（一个儿子）的谐音，暗示了这个家庭的潜在危机。父亲阿文（陈以文饰）有两个儿子，大儿子阿豪（许光汉饰）品学兼优，小儿子阿和（巫建和饰）相对顽劣。在他心中，总给他惹麻烦的阿和根本不算是他的儿子，他真正的儿子只有阿豪一人。所以他一直将自己全部的希望寄托在大儿子阿豪的身上，殊不知善良的阿豪在如阳光般温暖他人的同时，也渐渐灼伤了自己。故事还要从小儿子阿和开始说起。01 阴霾遍布，何去何从一个雨夜，阿和因为受到黑轮的欺负，找到好友菜头（刘冠廷饰）来替自己出气。菜头冲进餐厅，将黑轮的右手砍了下来，二人因此进了少年辅育院。不久之后，黑轮的父亲来找阿文，索要民事赔偿150万，使阿文一家陷入困窘。雪上加霜的是，一天晚上，一个女人带着名为小玉（吴岱凌饰）的女生前来敲门，告诉阿和的母亲琴姐（柯淑勤饰），这个只有15岁的女生，已经怀了阿和的孩子。而在这个节骨眼上，一向乖巧懂事的阿豪竟然以跳楼的方式结束了自己的生命。没有人知道其中的原因，因为从未有人真正了解过他的内心世界。巨大的阴影笼罩着这个家庭，面对生活带给他们的重创，一家人究竟该何去何从？他们的日子，真的还能够&ldquo;阳光普照&rdquo;吗？02 阿豪：&ldquo;优秀&rdquo;的奴隶，&ldquo;期望&rdquo;的傀儡&nbsp;这个世界，最公平的是太阳。不论纬度高低，每个地方一整年中，白天与黑暗的时间都各占一半。前几天我们去了动物园。那天太阳很大，晒得所有动物都受不了，它们都设法找一个阴影躲起来。我有一种说不清楚、模糊的感觉，我也好希望跟这些动物一样，有一些阴影可以躲起来。但是我环顾四周，不只是这些动物有阴影可以躲，包括你、我弟，甚至是司马光，都可以找到一个有阴影的角落，可是我没有。我没有水缸，没有暗处，只有阳光，24小时从不间断，明亮温暖，阳光普照。&rdquo;这是阿豪在跳楼之前传给好友郭晓真的简讯，在一定程度上交待了他自杀的原因。作为一个优秀的人，他只能不断满足他人的期待，把自己所有的温暖都留给别人。那些巨大的压力、情绪的垃圾，常常令他喘不过气来，然而他却无处可躲，只能咬紧牙关继续扮演那个令父亲骄傲的儿子。在别人看来，他是完美的化身，是羡慕的焦点，然而在他自己看来，他是&ldquo;优秀&rdquo;的奴隶，是&ldquo;期望&rdquo;的傀儡。因为他的存在，弟弟阿和显得顽劣而多余。他的死，从某种程度上缓和了父亲和弟弟之间的紧张关系，使父亲真正接纳了阿和。然而从另一个角度上来看，阿豪至死都在充当着太阳的角色，试图以自己最后的一点热量，融化掉父亲与弟弟之间的坚冰。他的一生，其实从未有过自我，有的永远都只是别人。03 阿和：不被宠爱，仍努力生活&nbsp;从小到大，大家都喜欢他。他功课好，长得好，他什么都好，他好到连没考到第一志愿的医学系都要重考。他很厉害，厉害到我越来越讨厌他。他们都说我很烂，很不好，但至少我现在还在这里，但我哥呢？他厉害到这辈子只做错过一件事情，就是从那么高的地方跳下来。他真的很厉害。&rdquo;参加哥哥阿豪的葬礼之后，再次提起他，阿和的言语之间还是充满难以抑制的愤怒。因为哥哥的存在，阿和在这个家庭中失去了被宠爱的权利。在父母眼中，他只是麻烦的制造者，毫无希望可言。然而阿和从少年辅育院出来之后，却一直在努力工作赚钱，承担起自己的责任。白天在洗车场打工，晚上到便利店上大夜班，他每天只睡五六个小时，试图以辛勤的方式重新融入这个社会。由此可见，阿和的本质并不坏。他的种种遭遇，与这个冷漠的原生家庭并非没有关联。如果父母能够及时了解他生活中的烦恼，如果父母能够多给他一些关爱，或许很多糟糕的事情便不会发生。只可惜这个世界上从来就没有如果，人们只能带着内心深处的创伤，勇敢地继续走下去。04 阿文：沉默而隐忍的父爱作为父亲，阿文无疑是偏心的。他把大量的爱给予了大儿子阿豪，而在心里给小儿子阿和打了一个叉。在他看来，阿豪有多么完美无缺，阿和就有多么令人生厌。&ldquo;把握时间，掌握方向&rdquo;，是驾训班的口号，也是他作为教练的人生信条。他一直用这句话来激励阿豪，自己却从未做到。又或许实际上，一个人根本无法真正掌握自己人生的方向。所以在一个大雨滂沱的夜晚，他才会被愤怒驱使，开车撞向菜头，继而举起石头砸向他。他解决了长时间困扰阿和的&ldquo;麻烦&rdquo;，却也使一个鲜活的生命就此终结。山顶上，他对妻子坦白了这一切，平静的语气里充满苦涩与无奈。&ldquo;你知道我是个驾训班的教练，我不是很聪明。我想帮小孩做点什么，但是我不知道怎么办。&rdquo;于是他以极端的行为证明了自己的父爱，却没有充分考虑这个行为导致的后果。面对失声痛哭的妻子，他用一个拥抱代替了所有的语言。那一刻，他的心中或许泛起了悔意，又或许只是对妻子表示了一种深深的安慰。05 琴姐： 缺乏沟通的母爱在这个家庭中，琴姐对家人缺少应有的关心。作为妻子，丈夫阿文整整两个礼拜没有去上班，她却始终不闻不问。作为母亲，大儿子阿豪在自杀前一段时间只是出门，而没有去上课，她却毫无察觉。在小儿子阿和&ldquo;借&rdquo;脚踏车载她时，她对儿子会开锁这件事感到惊讶，却不知他早在很小的时候就已经学会了。她对家人有着太多的不了解，她只关注他们的吃和穿，从不曾关心过他们内心的所思所想。然而她并非一个冷漠的人，面对怀孕的小玉，她能够充分承担起自己作为婆婆的责任，尽心尽力地照顾她。孩子出生之后，她考虑到小玉年龄还小，每天出入酒店有所不妥，便租下店面，打算开一间美容院来填补家用。她一直在以自己的方式为这个家付出，只是始终没有找到与家人沟通的最佳方式。当得知丈夫杀死了菜头时，她的眼神里满是惊恐与担忧。或许她在自责，自己为什么没有早点发现丈夫异样的行为，为什么没能及时阻止他。然而事情已经发生了，她只能默默接受这样的现实，然后在生活的泥沼里继续前行。06 菜头：无人在意的&ldquo;坏&rdquo;小孩在社会中，菜头一直是一个比较边缘的存在。他家中贫困，没有父母，只有一个奶奶，所以在开庭的时候，阿和那一边有父亲、母亲以及律师，而他这边只有他一人。他真心拿阿和当兄弟，所以在得知阿和被黑轮欺负之后，他才会一气之下砍去了黑轮的右手，因此在少年辅育院里待了四年半。但是当阿和从少年辅育院出来之后，他却并没有去看过菜头。当别人问起阿和，菜头是你的谁时，阿和的回答却是&ldquo;一个总是找我麻烦的人&rdquo;。可见阿和并未在内心深处把菜头当作兄弟，这使菜头之前的行为显得鲁莽而可笑。菜头因此觉得愤怒，于是从少年辅育院出来之后，他一而再、再而三地去找阿和，让阿和帮他做事。虽然从表面上来看，他总是影响阿和的工作，甚至坐上洗车场客人的高级进口车，让阿和把车开出去。但是实际上，他却时常为阿和着想。为了不把这辆车弄脏，他会在抽烟的时候自觉地下车。如果他那天没有下车，阿和的父亲阿文也不会有机会将他置于死地。滂沱的大雨中，他被自己一直称呼为&ldquo;陈伯伯&rdquo;的阿文杀死。他的面目被击打到模糊，他的尸体被丢弃在郊外，自此无人问津。这个所谓的&ldquo;坏&rdquo;小孩似乎得到了应有的下场，又似乎遭受了不公平的待遇。回顾菜头的经历，我们会猛然发现，当一个人身处那样糟糕的境地时，其实很难拥有选择的余地。也许善与恶，本就没有明确的界限，个人的成长环境在很大程度上对悲剧起到了催化的作用。07 以艺术之镜，映生活疮孔《阳光普照》让我们从庸常的生活中抽离出来，开始重新打量自己曾以为无比熟悉的家庭。影片中父母与子女之间存在的那些问题，似乎都能够在我们自己身上得到些许印证。也许艺术本就是一面镜子，照出的是我们日常生活中那些不易察觉的疮孔。很多习以为常的事情，仔细想来，往往隐藏着巨大的危机。或许冰冷与炙热都不是我们和家人相处的最佳方式，过于冷漠会使彼此日渐疏离，而过于热情又容易灼伤对方。如果可以的话，保持一种适当的距离，互相关爱，又不至于羁绊束缚。毕竟每个人都需要一定的空间，只有尊重家人的想法，不把自己的期待强加给对方，才能够让彼此更加幸福快乐。灿烂的阳光下，愿你我都能感受到生活的温暖，也希望当你疲惫的时候，永远能够找到一处舒适的阴影来躲藏。即使偶有阴霾，也要憧憬阳光。因为生活本就是一场冒险，保持乐观的心态，也许是我们抵抗变故最好的方式。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 这世界唯一公平的，是阳光",
+                        "desc": "文/黄子京 花的芯藏在蕊中，从不轻易让人懂。",
+                        "link": "http://m.wufazhuce.com/movie/1954?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 这世界唯一公平的，是阳光",
+                        "desc": "文/黄子京 花的芯藏在蕊中，从不轻易让人懂。",
+                        "link": "http://m.wufazhuce.com/movie/1954?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 这世界唯一公平的，是阳光》 文/黄子京： 花的芯藏在蕊中，从不轻易让人懂。 阅读全文：http://m.wufazhuce.com/movie/1954?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1954?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "这世界唯一公平的，是阳光",
+                        "desc": "花的芯藏在蕊中，从不轻易让人懂。",
+                        "link": "http://m.wufazhuce.com/movie/1954?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19809",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3066",
+                "title": "平凡的一天",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fk1xTHpKrIr4f-WasSS-_L0ssmSG?imageView2/1/w/375/h/240/q/95",
+                "like_count": 2157,
+                "post_date": "2020-02-18 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3066",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3066",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 平凡的一天",
+                        "desc": "这是最平凡的一天，你也想念吗？",
+                        "link": "http://m.wufazhuce.com/radio/3066?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lmxeQnZh1kIqFwDH5YbH_4f4SsyU"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 平凡的一天",
+                        "desc": "这是最平凡的一天，你也想念吗？",
+                        "link": "http://m.wufazhuce.com/radio/3066?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lmxeQnZh1kIqFwDH5YbH_4f4SsyU"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 平凡的一天》 主播/李荟莹： 这是最平凡的一天，你也想念吗？ 阅读全文：http://m.wufazhuce.com/radio/3066?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3066?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lmxeQnZh1kIqFwDH5YbH_4f4SsyU"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "平凡的一天",
+                        "link": "http://m.wufazhuce.com/radio/3066?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lmxeQnZh1kIqFwDH5YbH_4f4SsyU"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 776 期",
+                "audio_url": "http://music.wufazhuce.com/lmxeQnZh1kIqFwDH5YbH_4f4SsyU"
+            }
+        ],
+        "menu": {
+            "vol": "2691",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4205",
+                    "title": "青梅竹马不相恋"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4206",
+                    "title": "我距离武汉1173公里",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1107",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第九章：苦难"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2760",
+                    "title": "如何面对曾经喜欢却错过的人？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1954",
+                    "title": "这世界唯一公平的，是阳光"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3066",
+                    "title": "平凡的一天"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,522 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5497",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-05-09 06:00:00",
+        "content_list": [
+            {
+                "id": "20288",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2813",
+                "title": "摄影",
+                "forward": "有时间绝望的话，还不如吃点好吃的然后睡个好觉。",
+                "img_url": "http://image.wufazhuce.com/FrsIOQVSU7PHg_oyd6dIxVwuNhvR",
+                "like_count": 21178,
+                "post_date": "2020-05-09 06:00:00",
+                "last_update_date": "2020-04-30 10:56:20",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2772",
+                "pic_info": "Osman Rana",
+                "words_info": "《非自然死亡》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2813",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2813",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2813",
+                    "image": "http://image.wufazhuce.com/FrsIOQVSU7PHg_oyd6dIxVwuNhvR",
+                    "title": "VOL.2772",
+                    "content": "有时间绝望的话，还不如吃点好吃的然后睡个好觉。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2813?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2813?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 有时间绝望的话，还不如吃点好吃的然后睡个好觉。——《非自然死亡》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2813?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2813?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20315",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4310",
+                "title": "见鬼",
+                "forward": "你可以成长，可以理智，但能不能偶尔将心里的鬼放出来一下，它不会吃人的，也就是替你哭一哭，骂一骂，让你不再质疑自己，仅此而已。",
+                "img_url": "http://image.wufazhuce.com/Fje2zvAIV23UYNwGnRlhlSCUKFx_",
+                "like_count": 3239,
+                "post_date": "2020-05-09 06:00:00",
+                "last_update_date": "2020-05-08 10:41:34",
+                "author": {
+                    "user_id": "11161700",
+                    "user_name": "赵越",
+                    "desc": "一名殚精受骗的落魄编剧。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "某部退伍士兵",
+                    "fans_total": "708",
+                    "web_url": "http://image.wufazhuce.com/FlQMCbnpBK9GURLpa9GbQr6prEGg"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4310",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4310",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4310",
+                    "image": "http://image.wufazhuce.com/Fje2zvAIV23UYNwGnRlhlSCUKFx_",
+                    "title": "见鬼 作者/赵越",
+                    "content": "你还记得你是在什么时候，成为现在这个样子的吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 见鬼",
+                        "desc": "文/赵越 你还记得你是在什么时候，成为现在这个样子的吗？",
+                        "link": "http://m.wufazhuce.com/article/4310?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 见鬼",
+                        "desc": "文/赵越 你还记得你是在什么时候，成为现在这个样子的吗？",
+                        "link": "http://m.wufazhuce.com/article/4310?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 见鬼》 文/赵越： 你还记得你是在什么时候，成为现在这个样子的吗？ 阅读全文：http://m.wufazhuce.com/article/4310?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4310?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "见鬼",
+                        "desc": "你还记得你是在什么时候，成为现在这个样子的吗？",
+                        "link": "http://m.wufazhuce.com/article/4310?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20307",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1178",
+                "title": "分手遗迹清理员：伞是雨中的晴天·第三章",
+                "forward": "有个男朋友也不错，多个人一起对抗世界的冷漠。窗外夜色飞驰。她任由自己跌入梦境。",
+                "img_url": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                "like_count": 855,
+                "post_date": "2020-05-09 06:00:00",
+                "last_update_date": "2020-05-06 12:38:46",
+                "author": {
+                    "user_id": "10730599",
+                    "user_name": "城迟",
+                    "desc": "人生前半场周转于互联网公司，凡客T恤事业部总监，乐视影业IP衍生部负责人。36岁出版代表作《我和这个世界不熟》，上市三天，冲进当当畅销榜前十。被阿耐、路内等著名作家推荐。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，代表作《我和这个世界不熟》。",
+                    "fans_total": "1326",
+                    "web_url": "http://image.wufazhuce.com/FiR3WpirjtIX3_RL6eZGxew_la3R"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第7章",
+                "number": "7",
+                "serial_id": "84",
+                "serial_list": [
+                    "1164",
+                    "1165",
+                    "1166",
+                    "1168",
+                    "1171",
+                    "1172",
+                    "1178",
+                    "1179",
+                    "1181",
+                    "1183",
+                    "1184",
+                    "1187",
+                    "1189",
+                    "1190",
+                    "1194",
+                    "1196",
+                    "1199",
+                    "1201",
+                    "1203",
+                    "1206",
+                    "1207",
+                    "1209"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1178",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1178",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1178",
+                    "image": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                    "title": "分手遗迹清理员：伞是雨中的晴天·第三章 作者/城迟",
+                    "content": "生活真是一件消耗品。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 分手遗迹清理员：伞是雨中的晴天·第三章",
+                        "desc": "文/城迟 生活真是一件消耗品。",
+                        "link": "http://m.wufazhuce.com/serial/1178?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 分手遗迹清理员：伞是雨中的晴天·第三章",
+                        "desc": "文/城迟 生活真是一件消耗品。",
+                        "link": "http://m.wufazhuce.com/serial/1178?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 分手遗迹清理员：伞是雨中的晴天·第三章》 文/城迟： 生活真是一件消耗品。 阅读全文：http://m.wufazhuce.com/serial/1178?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1178?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "分手遗迹清理员：伞是雨中的晴天·第三章",
+                        "desc": "生活真是一件消耗品。",
+                        "link": "http://m.wufazhuce.com/serial/1178?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20314",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2841",
+                "title": "如何提高自我认同感？",
+                "forward": "铭记一些温暖片刻，记录下他人对自己的眷顾与帮助，自我怀疑时拿出来翻阅且自勉。",
+                "img_url": "http://image.wufazhuce.com/FpQM45UCNQa6yvRenEPrVBZ5nM9x",
+                "like_count": 3213,
+                "post_date": "2020-05-09 06:00:00",
+                "last_update_date": "2020-05-08 23:57:21",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "陈小T",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2841",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2841",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2841",
+                    "image": "http://image.wufazhuce.com/FpQM45UCNQa6yvRenEPrVBZ5nM9x",
+                    "title": "如何提高自我认同感？",
+                    "content": "如何提高自我认同感？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何提高自我认同感？",
+                        "desc": "文/缪斯谭 相信被爱，活在爱中。",
+                        "link": "http://m.wufazhuce.com/question/2841?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何提高自我认同感？",
+                        "desc": "文/缪斯谭 相信被爱，活在爱中。",
+                        "link": "http://m.wufazhuce.com/question/2841?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何提高自我认同感？》 文/缪斯谭： 相信被爱，活在爱中。 阅读全文：http://m.wufazhuce.com/question/2841?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2841?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何提高自我认同感？",
+                        "desc": "相信被爱，活在爱中。",
+                        "link": "http://m.wufazhuce.com/question/2841?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "20312",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1993",
+                "title": "我不会和你告别了，我要待在你身边",
+                "forward": "当我决定爱你，伤痛也变成勇气，连荆棘中都开出了玫瑰。",
+                "img_url": "http://image.wufazhuce.com/Fk1W4LIG43sqiJ4HM4cZHR5bSD5H",
+                "like_count": 2017,
+                "post_date": "2020-05-09 06:00:00",
+                "last_update_date": "2020-05-09 10:05:54",
+                "author": {
+                    "user_id": "11199306",
+                    "user_name": "kimi",
+                    "desc": "自由撰稿人，业余影剧评写手。每一部影视作品里都有你未曾经历的人生，等待着被发现与倾听。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "聊聊电影和人生",
+                    "fans_total": "502",
+                    "web_url": "http://image.wufazhuce.com/Fmfan7neHDOkYfyH8A7_jgA5G0fH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "那个男人的记忆法",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4976",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1993",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1993",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1993",
+                    "image": "http://image.wufazhuce.com/Fk1W4LIG43sqiJ4HM4cZHR5bSD5H",
+                    "title": "「一个」电影: 那个男人的记忆法",
+                    "content": "播出一个月，评分不降反升。挤在今年的一堆大手笔爆款剧中，《那个男人的记忆法》红得有些&ldquo;反常&rdquo;，一如剧中的这段爱情。男女主演戏外13岁的年龄差，丝毫没有影响剧中的CP感，每一次同框的心动，让这个和冬天有关的故事都变得温暖起来。01&nbsp;没有什么能随我的心愿，停不下来，没有终点，就像被关在回忆里。毒舌主播李政勋（金东旭 饰），人称&ldquo;绅士暴君&rdquo;。无时不刻的高冷气场，让人难以接近；犀利的主持风格，时常让嘉宾难以招架，无论政客还是艺人，都被他问到哑口无言，难堪收场。这样的性格真的很不讨人喜欢。不过，他不在乎，依旧我行我素，丝毫不受外界影响。就算是直播时提词器坏掉，也不会让他感到慌张。大段大段的新闻稿脱口而出，一场放送事故被化险为夷。这么好的记忆力，谁看了不说一句&ldquo;羡慕&rdquo;。偏偏当事者本人，并不这么认为。对他来说，记忆力太好也是一种负担。在他的回忆中，有小时候妈妈身上独特的香味，也有冬天和妈妈一起在房间里看雪的温暖，以及关于那个叫郑瑞妍的女孩的一切。她第一次敲开他的车窗请求帮助，她穿着红色的舞鞋在台上起舞，她和他在芦苇丛里相拥，他说会记住那些她喜欢的格言。能够珍藏记忆是一件美好的事，但回忆未必都是美好的。那个下着雪的夜晚，她从楼顶坠落，就在他的眼前。脚上还穿着第一次见面时的那双红色皮鞋，但雪地上洇出的那片殷红，比鞋子更刺眼。在那之后的每个下雪天，这一幕都会反复出现在脑海中。 不管过去多久都历历在目，他永远记得那一刻的无助与绝望。不是不想忘，而是忘不掉。这不是一项让人羡慕的技能，而是某人拼命想要摆脱的病症：过剩记忆症候群。作为全球仅有的20例患者之一，政勋接收的所有信息，都会在脑中不断堆积，直到大脑因超负荷而衰竭。医学上暂时没有治疗的方法，或许，他只能祈祷一个奇迹。如果记忆不会随着时间流逝，那么时间便成了一种诅咒。如果时间不能治愈伤痛，那么所有安慰便毫无意义。在没有瑞妍的现实里，连微笑都变成了奢侈。除了父母和唯一的朋友，政勋不想再去接受任何人。直到那一天，吕夏珍走进了他的直播间&hellip;&hellip;02&nbsp;虽然很可耻，但是可以忘掉你活着吗？无人不知的女星吕夏珍（文佳煐 饰），热搜上的常客，社交网络的红人。凡是她用过的同款都被抢购一空，就连随手一戴的发夹都成了时尚潮流。绯闻和自拍是她的两大关键词，没有什么公关是发一张自拍不能搞定的，如果有，就多发几张。即便一天之内和两名男星传绯闻，她关注点也只是偷拍照里她的是不是美美哒。几乎所有明星都深恶痛绝的狗仔与偷拍，她却并不反感。就算因为角色被骂，在剧组被其他演员欺压，她似乎也毫不在意。吕夏珍的人生中，好像随时都保持着热情满分。她和政勋之间的差距，就像赤道和北极。第一次见面，夏珍就给政勋喝了掺酒的咖啡；直播前1分钟，&ldquo;逼&rdquo;着他换了条她觉得更合适的领带；甚至让一向冷面毒舌的主播在节目中出了放送事故。总之，夏珍的出现，就像给政勋一成不变的生活，带来了变数。而最让他难以接受的是，明明对瑞妍一无所知的夏珍，却说了和瑞妍相同的格言。也许这只是巧合，但在这段足够痛苦的回忆里，他不想有第三个人来打搅。可是，越不想有交集，就越是纠缠不清。节目播出的当晚，俩人在路边理论的场景成了狗仔照片中的新绯闻。第二天当记者向夏珍求证时，出于小小的报复心理，她居然顺水推舟地说互有好感。官方承认最为致命，解释只会让自己背上骂名。政勋只能被迫接受了这场短暂的恋爱游戏。短则两周，长则俩月，等到夏珍的新电影过了宣传期，这场假恋爱也将随之下线。一拍两散，行程背锅。然而，爱情这件事，常常事与愿违。这场两个人的假恋爱，周围人却比他们更当真。各种被偷拍的同框画面，被脑补成甜蜜的恋爱戏码；毫不相关的细微举动，被联系起来，成了在秀恩爱。不明真相的吃瓜群众们随时保持一副嗑到了的样子，不断为这段不存在的爱情，搜集着相爱的证据。全然没有在意，隐藏在这份假狗粮背后的，是双方当事人内心的秘密。原来，人前看上去总是一副乐天派模样的夏珍，其实也是一名记忆障碍患者？！她丢失了某段珍贵的记忆，在她的记忆碎片里，偶尔还会想起翘课去汉江边吃香肠的美好，只是再也记不起那个最重要的人。那个从小一起练芭蕾，一起玩到大的&hellip;&hellip;郑瑞妍。瑞妍的离世让夏珍深受打击，她企图自杀，却以失败告终。当她再次醒来，大脑仿佛启动了某种自愈模式，那些关于瑞妍的记忆都被封存。这让她误以为，自己只是因为遭遇事故，而留下了间歇性失忆的后遗症。她开始喜欢演戏和拍照，她想用作品和照片，来弥补空缺的记忆。即使被偷拍的画面，觉得有人帮自己记住，或许也是件不错的事。毕竟，对她来说，记忆并不可靠，她害怕自己再失去别的重要记忆。政勋和夏珍，就像相邻的两片拼图，拥有着互补的记忆法则。他拼命想忘记的，却是她想要努力记起的。所以，为了生存而忘记和忘不了，哪一种会更可怜呢？03&nbsp;记忆会随着时间流逝变得模糊和渺小，不必害怕，不必刻意努力，重要的是现在。电影口碑和双方人气的飙升，只能让分手这件事被无限期后延。而比分手更不可控的，是玩笑逐渐被当成现实。准备新闻很忙吧，有没有想我呢？他正在直播中，所以不能接电话吧？如果这场恋爱有人动了心，那么它就不再只是一场游戏。面对夏珍的告白，政勋用最温柔的表情说出了一句最冷酷的话：&ldquo;希望你一直幸福。&rdquo;他知道夏珍的病情，他同情这个和他有着不同记忆法则的女孩，尤其他们心中还有着共同的伤痛。因为背负着这份伤痛，他觉得自己不会再爱了。但如果忘掉伤痛，是夏珍活下去的唯一方式，他愿意替她守护好回忆。瑞妍的死另有隐情，当同样的危险再次发生在夏珍身上时，政勋决定不再让悲剧重蹈覆辙。他瞒着夏珍开始调查身边所有的可疑人员，他以为他为夏珍所做的这些，只是对记忆中瑞妍的一种弥补。这种感觉，可能是同情，是互助，是自我安慰，唯独不可能是爱情。他用权宜之计来解释这种下意识的担心，但是，爱情不是告诉自己不喜欢，就可以停止的事。爱情是藏不住的，即使捂住了嘴巴，也会从眼睛里流露出来。不小心摔倒时的四目相对，是我爱你；穿越人群和车流奔向她身边，是想要在一起。他总是不自觉地被因为夏珍而乱了方寸，连他自己都没有意识到，在遇见夏珍后，笑容又重新回到了他的脸上。而知道了政勋病情的夏珍，也试图帮他从痛苦的记忆中解脱出来。但越接近政勋，那些像梦境一般的记忆碎片就变得越清晰。她开始疑惑，那些真的只是梦吗？当然，夏珍会记起被封印的回忆，但&ldquo;爱你&rdquo;早就被写进这个故事的结尾。不同的记忆法则，并不会成为交往的障碍。反而，因为认识你，才让我发现另一个自己。那些人生的缺憾，总有一个人会帮你填满。既然痛苦的记忆抹不掉，那就一起去制造美好的记忆。爱情哪有什么本来的样子，只不过是两个原本孤独的灵魂终于找到了彼此的慰藉，互为软肋，互为铠甲。在政勋画地为牢的围城里，夏珍不是瑞妍的替代品，而是帮他解开诅咒、走出围城的那个人。为了这个人，政勋宁愿被回忆反复刺痛，因为那里藏着守护夏珍的方法。当我决定爱你，伤痛也变成勇气，连荆棘中都开出了玫瑰。《那个男人的记忆法》可通过网络搜索观看。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 我不会和你告别了，我要待在你身边",
+                        "desc": "文/kimi 忘不掉的男人，记不住的女人",
+                        "link": "http://m.wufazhuce.com/movie/1993?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 我不会和你告别了，我要待在你身边",
+                        "desc": "文/kimi 忘不掉的男人，记不住的女人",
+                        "link": "http://m.wufazhuce.com/movie/1993?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 我不会和你告别了，我要待在你身边》 文/kimi： 忘不掉的男人，记不住的女人 阅读全文：http://m.wufazhuce.com/movie/1993?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1993?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我不会和你告别了，我要待在你身边",
+                        "desc": "忘不掉的男人，记不住的女人",
+                        "link": "http://m.wufazhuce.com/movie/1993?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2772",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4310",
+                    "title": "见鬼"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1178",
+                    "serial_list": [
+                        "1164",
+                        "1165",
+                        "1166",
+                        "1168",
+                        "1171",
+                        "1172",
+                        "1178",
+                        "1179",
+                        "1181",
+                        "1183",
+                        "1184",
+                        "1187",
+                        "1189",
+                        "1190",
+                        "1194",
+                        "1196",
+                        "1199",
+                        "1201",
+                        "1203",
+                        "1206",
+                        "1207",
+                        "1209"
+                    ],
+                    "title": "分手遗迹清理员：伞是雨中的晴天·第三章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2841",
+                    "title": "如何提高自我认同感？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1993",
+                    "title": "我不会和你告别了，我要待在你身边"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

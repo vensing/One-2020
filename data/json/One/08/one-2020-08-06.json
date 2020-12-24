@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5580",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-08-06 06:00:00",
+        "content_list": [
+            {
+                "id": "20867",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2902",
+                "title": "摄影",
+                "forward": "希望美好的东西能够美好地终结，是一种卑微的人之常情。 ​​​​",
+                "img_url": "http://image.wufazhuce.com/FvJa8xXnWkVxdFRyypV5fUKA_Gjb",
+                "like_count": 14929,
+                "post_date": "2020-08-06 06:00:00",
+                "last_update_date": "2020-08-03 10:36:03",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2861",
+                "pic_info": "reg Rakozy",
+                "words_info": "坂口安吾",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2902",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2902",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2902",
+                    "image": "http://image.wufazhuce.com/FvJa8xXnWkVxdFRyypV5fUKA_Gjb",
+                    "title": "VOL.2861",
+                    "content": "希望美好的东西能够美好地终结，是一种卑微的人之常情。 ​​​​"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2902?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2902?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 希望美好的东西能够美好地终结，是一种卑微的人之常情。 ​​​​——坂口安吾 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2902?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2902?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20872",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4406",
+                "title": "老混蛋",
+                "forward": "往事踪影已迷茫，犹如幻梦一样，你在何处躲藏？背弃我的姑娘。",
+                "img_url": "http://image.wufazhuce.com/FouwaPXhUyrV4UNv8M7pS0EdQFLH",
+                "like_count": 2326,
+                "post_date": "2020-08-06 06:00:00",
+                "last_update_date": "2020-08-06 09:23:29",
+                "author": {
+                    "user_id": "6960654",
+                    "user_name": "丫头的徐先生",
+                    "desc": "民警，青年写作者",
+                    "wb_name": "@丫头的徐先生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "民警，青年写作者",
+                    "fans_total": "7375",
+                    "web_url": "http://image.wufazhuce.com/FjG3jW-dXWCvX3P9lGu74_4M4XBL"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4406",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4406",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4406",
+                    "image": "http://image.wufazhuce.com/FouwaPXhUyrV4UNv8M7pS0EdQFLH",
+                    "title": "老混蛋 作者/丫头的徐先生",
+                    "content": "老子就是年轻人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 老混蛋",
+                        "desc": "文/丫头的徐先生 老子就是年轻人。",
+                        "link": "http://m.wufazhuce.com/article/4406?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 老混蛋",
+                        "desc": "文/丫头的徐先生 老子就是年轻人。",
+                        "link": "http://m.wufazhuce.com/article/4406?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 老混蛋》 文/丫头的徐先生： 老子就是年轻人。 阅读全文：http://m.wufazhuce.com/article/4406?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4406?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "老混蛋",
+                        "desc": "老子就是年轻人。",
+                        "link": "http://m.wufazhuce.com/article/4406?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20762",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1252",
+                "title": "打雪仗·第二十三章：冰冷谜底",
+                "forward": "这个男孩是要用自己的命换我的命。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 670,
+                "post_date": "2020-08-06 06:00:00",
+                "last_update_date": "2020-08-03 17:44:04",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第23章",
+                "number": "23",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1252",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1252",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1252",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第二十三章：冰冷谜底 作者/肖睿",
+                    "content": "这个男孩是要用自己的命换我的命。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第二十三章：冰冷谜底",
+                        "desc": "文/肖睿 这个男孩是要用自己的命换我的命。",
+                        "link": "http://m.wufazhuce.com/serial/1252?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第二十三章：冰冷谜底",
+                        "desc": "文/肖睿 这个男孩是要用自己的命换我的命。",
+                        "link": "http://m.wufazhuce.com/serial/1252?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第二十三章：冰冷谜底》 文/肖睿： 这个男孩是要用自己的命换我的命。 阅读全文：http://m.wufazhuce.com/serial/1252?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1252?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第二十三章：冰冷谜底",
+                        "desc": "这个男孩是要用自己的命换我的命。",
+                        "link": "http://m.wufazhuce.com/serial/1252?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20879",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2935",
+                "title": "你知道哪些花样表白方式？",
+                "forward": "你的美好，让我病了一场。",
+                "img_url": "http://image.wufazhuce.com/FoLvUmt9eN6DPE6vdTe-A7N85ex7",
+                "like_count": 3049,
+                "post_date": "2020-08-06 06:00:00",
+                "last_update_date": "2020-08-05 18:46:41",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2935",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2935",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2935",
+                    "image": "http://image.wufazhuce.com/FoLvUmt9eN6DPE6vdTe-A7N85ex7",
+                    "title": "你知道哪些花样表白方式？",
+                    "content": "你知道哪些花样表白方式？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你知道哪些花样表白方式？",
+                        "desc": "文/网友 万一哪天就用上了，对吧。",
+                        "link": "http://m.wufazhuce.com/question/2935?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你知道哪些花样表白方式？",
+                        "desc": "文/网友 万一哪天就用上了，对吧。",
+                        "link": "http://m.wufazhuce.com/question/2935?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你知道哪些花样表白方式？》 文/网友： 万一哪天就用上了，对吧。 阅读全文：http://m.wufazhuce.com/question/2935?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2935?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你知道哪些花样表白方式？",
+                        "desc": "万一哪天就用上了，对吧。",
+                        "link": "http://m.wufazhuce.com/question/2935?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20881",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2031",
+                "title": "我在想你，阿德里安",
+                "forward": "我们爱的那个人，是唯一而不可替代的吗？",
+                "img_url": "http://image.wufazhuce.com/FiJBTN43naGb3_UxyoVZQRD4Kp1W",
+                "like_count": 1794,
+                "post_date": "2020-08-06 06:00:00",
+                "last_update_date": "2020-08-05 11:19:21",
+                "author": {
+                    "user_id": "7867217",
+                    "user_name": "MENG",
+                    "desc": "MENG，MeRead读书会创办人，不务正业写作者。",
+                    "wb_name": "@萌之刺刺",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：MeRead",
+                    "fans_total": "4470",
+                    "web_url": "http://image.wufazhuce.com/FtmFi0r5J7VmcqNwE-PyOxxm91LL"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "弗兰兹",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5014",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2031",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2031",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2031",
+                    "image": "http://image.wufazhuce.com/FiJBTN43naGb3_UxyoVZQRD4Kp1W",
+                    "title": "「一个」电影: 弗兰兹",
+                    "content": "爱情是唯一的，不可替代的吗？换句话说，我们爱的那个人是唯一的，不可替代的吗？如果爱人死去，我们将何去何从？今天看的电影《弗兰兹》，便是一个关于爱人死去后，重新爱上另一个人的故事。它让我开始思考，爱情必然和死亡有着某种天然的联系。影片中黑白和彩色的画面交错，显示了人们心中&ldquo;死去&rdquo;的部分和&ldquo;活着&rdquo;的部分。它们交替闪现，生活得以延续。01一战结束后，德国医生霍夫迈斯特家中充满了悲哀的气氛，医生的独生子弗兰兹死于战场，他的未婚妻安娜也失去了未婚夫。她继续住在准岳父岳母家中，定时去墓地给弗兰兹送去鲜花。一次，她发现弗兰兹的墓前有一束新鲜的玫瑰。打听之下，才知道是一个法国人留下的。隔天，一个年轻人出现在了霍夫迈斯特医生家中。他刚要表明来意，医生便将他轰了出去&mdash;&mdash;因为他是法国人，而弗兰兹正是死于法军的炮弹之下。而安娜在墓地终于见到了这个献花的人，她想当然地将年轻人当成了弗兰兹的朋友。她得知他叫阿德里安，于是邀请他去家里做客。当阿德里安以弗兰兹友人的身份再次出现在医生家中时，敌意消除了。两位老人都很想知道弗兰兹和阿德里安交往的过程，想知道他最后一次见到弗兰兹的情形。在阿德里安的描述中，他们最后一次相聚，两人一起在卢浮宫徜徉，欣赏马奈的&ldquo;向后仰的男人&rdquo;的画作。然后他们去音乐会跳舞，玩得开心极了&hellip;&hellip;阿德里安描述的细节越多，两位老人也就越是对他着迷，因为他们发现，这个法国小伙竟然和弗兰茨有如此多相似之处，就连气质也是一样的。于是，他的拜访逐渐成了一家人的安慰。得知阿德里安是巴黎管弦乐团的小提琴手，医生求他为自己弹奏一曲。阿德里安接过弗兰兹的小提琴，幽怨的琴声流淌在房间里时，每个人的心都被抚慰了。安娜也在阿德里安的陪伴下感受到了一丝快乐，此前她断然拒绝了单身汉克鲁兹的追求。当对方说&ldquo;或许我可以让你慢慢忘记弗兰兹&rdquo;时，她冷冷地说：&ldquo;可是我并不想忘记他。&rdquo;而当阿德里安提出去舞会时，安娜却毫不犹豫地答应了。她脱下黑色的外套，穿上新买的礼服，在舞池中笑容明媚，舞步轻扬。她陪着阿德里安去爬山，去游泳，画面变成了彩色，阳光融化了安娜的心。在阿德里安身上，她找到了和弗兰兹相同的东西，他们都喜爱诗歌，喜爱音乐，他们都年轻，有活力&hellip;&hellip;但阿德里安绝不是弗兰兹的替代品。爱情是唯一的，但是它也是会转移的。也许安娜对阿德里安的情感里，确实有对弗兰兹的怀念，可它同时也是一种全新的情感。弗兰兹是昨日，而阿德里安是今天，是明日。一味活在对死者的悲悼中并非是最深沉的爱，在爱人死后，仍能投入下一段爱情的人，也绝不是负心忘义。稀释过浓的悲伤，去追寻新的生活，重燃生命的热情，或许才是对逝者更健康、更好的怀念。&nbsp;02可这一切并没有那么美好单纯，阿德里安终于忍不下去了，他告诉了安娜真相&mdash;&mdash;自己并不是弗兰兹所谓的&ldquo;法国朋友&rdquo;。事实上，他根本不认识弗兰兹，但是他却是杀死弗兰兹的那个人。在一次突袭中，他仓皇逃入一个壕沟，和弗兰兹正面相对，两人手中都拿着枪，茫然地看着对方。过于紧张恐惧的阿德里安扣动了扳机，弗兰兹应声倒下。事后，他才发现弗兰兹的枪根本没有上膛，他丝毫没有抵抗。于是深深的自责折磨着他。他意识到，他杀死的是一个有血有肉，鲜活的生命。在弗兰兹的口袋中，还有一封写给安娜的信，他读了那封充满爱意的信，他越发无法释怀自己的行为。于是，他决定前往德国，寻求弗兰兹家人的谅解。然而这一切在一开始就被误解了，弗兰兹的家人将凶手当成了朋友。为了不让他们失望，他编织了许多谎言，直到自己无法再承受。听到真相的安娜痛苦不堪，如果知道得早些，她也许就不会这么难过，因为此时，她已然无法用恨去对待阿德里安，她甚至已经爱上了这个杀死未婚夫的凶手。在爱与恨之间，安娜的情感最终倒向了爱的一方。当阿德里安提出要在离开前亲自向医生一家谢罪时，安娜已经做出了决定。第二天一早，她就守候在阿德里安下榻的饭店，告诉他，她已经将一切都告知了弗兰兹的父母。然后，她送他到火车站，并允诺阿德里安将他的来信转达给弗兰兹的父母。谎言比真相更容易接受，但是圆谎比说实话难一千倍。安娜编造了阿德里安的母亲抱恙，必须赶回去的谎言，而阿德里安的来信内容则被隐去，写给弗兰兹父母的信被投入火炉，然后再编造一些子虚乌有的话语去欺骗他们。在沉重的痛苦中，安娜想到了死，可是在沉入水中的那一刻却被人救起了。&nbsp;03回信变得格外艰难。隔了很久，安娜才寄出了信，信中依然是谎言。然而这一次，信件被退回了。阿德里安已经搬离了那个地址。在弗兰兹母亲的鼓励下，安娜坐上火车，去法国寻找阿德里安的下落。事实上，她也是为自己去寻找阿德里安，再次拒绝了另一个男人的追求后，她唯一的希望还是落在了阿德里安身上。在巴黎，她看到了和德国一样的失去孩子的父母，看到了唱着《马赛曲》的法国人，就像唱着《莱茵河的守卫者》的德国人一样。战争没有胜利者，有的只是痛苦和牺牲。在卢浮宫，她找到了阿德里安提到的那幅马奈的作品。令她震惊的是，那张画竟然是一个自杀的画面：画中的男人向后倒在床上，胸口有一摊血迹，垂下的手上有一支手枪。画面凌乱模糊，笔触紧张压抑。她瞬间明白，阿德里安的内心是多么痛苦煎熬。她去了阿德里安工作的巴黎管弦乐团，去了医院，去了墓地，差点以为他自杀了。后来辗转找到了阿德里安父亲的继任妻子，并得知了他的住处。然而就在她为找到阿德里安而激动不已时，却发现他已经有了未婚妻。她的所有希望，所有努力，所有幻想都在这一瞬间破碎了。如果弗兰兹的过世的伤口随着时间的推移和阿德里安的出现已经慢慢愈合，那么这一次，旧痛之上的新痛会比旧痛更为致命。它直接将全部的爱和希望都没收了。她不但失去了弗兰兹，也失去了阿德里安。爱情和生命一样，已经诞生的生命，无法阻止，已经发生的爱情，无法收回。当阿德里安还在自欺欺人地以为安娜的难过是想起了弗兰兹时，安娜直截了当地告诉他：不是，我不是在想弗兰兹，我在想你，阿德里安。也许这就是女人比男人更勇敢之处，尽管女人很容易陷入爱情的梦幻之中，但是当触碰到现实时，女人比男人更有勇气去面对。阿德里安何尝没有在相处中爱上了安娜呢？只是他既没有勇气去表白，也没有勇气去反对母亲为他安排的婚事。他选择了比较容易的那条路，他逃避了。最后，阿德里安将安娜送到车站，在站台上，他和安娜拥吻了。可是这丝毫无法带给安娜安慰。火车开走之前，他再次呼唤她的名字，她说：&ldquo;太迟了。&rdquo;&nbsp;04如果说弗兰兹的死带给安娜的是无尽的痛苦，那痛苦也是她活下去的依据，可是阿德里安的&ldquo;爱&rdquo;，带给安娜的则是巨大的失望。此外，还有许多的负担，因为她将背负着那些谎言而活下去。安娜回到了巴黎，她独自一人去卢浮宫，再次观赏那幅马奈的作品，她身边的男人问她：你也喜欢这幅画吗？安娜点点头：是的，是它给了我活下去的勇气。此时的画面再次从黑白转成了彩色，死去的男人苍白的脸，无力的手，以及画面中灰暗的色彩，有种转瞬即逝的仓促，仿佛画家就在刚刚死去的尸体前匆忙画下的写生。也许此刻的安娜终于领悟，爱情并不是最终的港湾，死亡才是。一段爱情和另一段爱情，都无法真正成为自己活着的意义。只有死亡不会背叛，不会远离，只能向死而生，不要回头。已经死过一次的安娜，已不再是那个活在对弗兰兹的怀念的中的安娜了，她变得更柔软，也更坚强。在看到了战后的法国，接受了与所爱之人无法在一起的事实后，她宽容了阿德里安，也理解了战争的双方，甚至领悟了死亡和生命。安娜用自己的谎言保护了阿德里安，也保护了弗兰兹的父母。至于她是否有一天会揭开这个谎言，我们不得而知，可是我们知道，安娜不再害怕直面生活，直面真相。在两次刻骨铭心的爱之中，她得到了成长，得到了灵魂的升华。看完这部电影，我忽然意识到这是一部以女性视角展开的电影。战争的背景，情感的冲突，充满悬念的情节都只是为了展示一个女人如何去面对爱情；如何在爱情一次次&ldquo;死亡&rdquo;之后获得重生，拥有更强的共情力，更丰富的生命；如何从执着于爱情的小女人，成长为不惧生活、独立自爱的&ldquo;人&rdquo;。最终的结局并非是遗憾，因为爱情永远只是生命的一部分，重要的是，我们如何不负生命，活出自我；重要的是，历经磨难，我们依然拥有爱的力量。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 我在想你，阿德里安",
+                        "desc": "文/MENG 你重现旧日，可我无法爱你。",
+                        "link": "http://m.wufazhuce.com/movie/2031?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 我在想你，阿德里安",
+                        "desc": "文/MENG 你重现旧日，可我无法爱你。",
+                        "link": "http://m.wufazhuce.com/movie/2031?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 我在想你，阿德里安》 文/MENG： 你重现旧日，可我无法爱你。 阅读全文：http://m.wufazhuce.com/movie/2031?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2031?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我在想你，阿德里安",
+                        "desc": "你重现旧日，可我无法爱你。",
+                        "link": "http://m.wufazhuce.com/movie/2031?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20763",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3226",
+                "title": "我要，你们都别理我！",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FgbOvNyM5dgaFdxirIrRe3FgLrpA?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1406,
+                "post_date": "2020-08-06 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3226",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3226",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 我要，你们都别理我！",
+                        "desc": "某些时候，不要和我说话，我就像一个人",
+                        "link": "http://m.wufazhuce.com/radio/3226?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lsKVkE_dpD0rFAlFjSJs6KQGPcN-"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 我要，你们都别理我！",
+                        "desc": "某些时候，不要和我说话，我就像一个人",
+                        "link": "http://m.wufazhuce.com/radio/3226?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lsKVkE_dpD0rFAlFjSJs6KQGPcN-"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 我要，你们都别理我！》 主播/马晓橙： 某些时候，不要和我说话，我就像一个人 阅读全文：http://m.wufazhuce.com/radio/3226?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3226?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lsKVkE_dpD0rFAlFjSJs6KQGPcN-"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "我要，你们都别理我！",
+                        "link": "http://m.wufazhuce.com/radio/3226?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lsKVkE_dpD0rFAlFjSJs6KQGPcN-"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 861 期",
+                "audio_url": "http://music.wufazhuce.com/lsKVkE_dpD0rFAlFjSJs6KQGPcN-"
+            }
+        ],
+        "menu": {
+            "vol": "2861",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4406",
+                    "title": "老混蛋"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1252",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第二十三章：冰冷谜底"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2935",
+                    "title": "你知道哪些花样表白方式？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2031",
+                    "title": "我在想你，阿德里安"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3226",
+                    "title": "我要，你们都别理我！"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,581 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5376",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-09 06:00:00",
+        "content_list": [
+            {
+                "id": "19550",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2690",
+                "title": "摄影",
+                "forward": "永远努力在你的生活之上保留一片天空。",
+                "img_url": "http://image.wufazhuce.com/FjGarekChcC8mUEsIC6Ugeec2vWd",
+                "like_count": 17104,
+                "post_date": "2020-01-09 06:00:00",
+                "last_update_date": "2020-01-03 12:26:41",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2651",
+                "pic_info": "Alvin Balemesa",
+                "words_info": "普鲁斯特",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2690",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2690",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2690",
+                    "image": "http://image.wufazhuce.com/FjGarekChcC8mUEsIC6Ugeec2vWd",
+                    "title": "VOL.2651",
+                    "content": "永远努力在你的生活之上保留一片天空。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2690?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2690?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 永远努力在你的生活之上保留一片天空。——普鲁斯特 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2690?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2690?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19581",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4152",
+                "title": "说个笑话纪念我",
+                "forward": "生命的意义，或许就在于它会消失。",
+                "img_url": "http://image.wufazhuce.com/FgAGFjM0XDYCb-YNv7-Z-Wmr2a-M",
+                "like_count": 6082,
+                "post_date": "2020-01-09 06:00:00",
+                "last_update_date": "2020-01-09 07:50:35",
+                "author": {
+                    "user_id": "10946149",
+                    "user_name": "罗丹",
+                    "desc": "大学老师，业余脱口秀演员，热爱黑色幽默文学，因为黑色显瘦。工作日规规矩矩上班，周末鬼鬼祟祟登台。自从地下脱口秀演员身份被学生发现之后，引起部分女学生迷恋。地上地下双重身份容易构成魅力，切换的时候要经过地平线，获得日出时的景象。对写作有宏大愿景，要把每一个第一人称的我都写成双眼皮。",
+                    "wb_name": "@疑似罗丹",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "大学老师，王小波门下走狗，郫县伍迪艾伦。",
+                    "fans_total": "1479",
+                    "web_url": "http://image.wufazhuce.com/FqKcI1t9ebVcrwBD5SvVtqcZ4fDc"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4152",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4152",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4152",
+                    "image": "http://image.wufazhuce.com/FgAGFjM0XDYCb-YNv7-Z-Wmr2a-M",
+                    "title": "说个笑话纪念我 作者/罗丹",
+                    "content": "生命的意义，或许就在于它会消失。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 说个笑话纪念我",
+                        "desc": "文/罗丹 生命的意义，或许就在于它会消失。",
+                        "link": "http://m.wufazhuce.com/article/4152?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 说个笑话纪念我",
+                        "desc": "文/罗丹 生命的意义，或许就在于它会消失。",
+                        "link": "http://m.wufazhuce.com/article/4152?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 说个笑话纪念我》 文/罗丹： 生命的意义，或许就在于它会消失。 阅读全文：http://m.wufazhuce.com/article/4152?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4152?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "说个笑话纪念我",
+                        "desc": "生命的意义，或许就在于它会消失。",
+                        "link": "http://m.wufazhuce.com/article/4152?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19524",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1073",
+                "title": "魔都春梦·第十一章·海的深处",
+                "forward": "内心深处，我们是两个机器人，正在通过爱情尝试碰触人性的本质。",
+                "img_url": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                "like_count": 857,
+                "post_date": "2020-01-09 06:00:00",
+                "last_update_date": "2020-04-07 16:53:26",
+                "author": {
+                    "user_id": "4813463",
+                    "user_name": "老王子",
+                    "desc": "小说家，诗人。@新老王子",
+                    "wb_name": "@新老王子",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，诗人。@新老王子",
+                    "fans_total": "5145",
+                    "web_url": "http://image.wufazhuce.com/FgegDExkkeP8izCd3fkGKRwoyKiS"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第11章",
+                "number": "11",
+                "serial_id": "78",
+                "serial_list": [
+                    "1055",
+                    "1059",
+                    "1057",
+                    "1058",
+                    "1060",
+                    "1061",
+                    "1062",
+                    "1070",
+                    "1071",
+                    "1072",
+                    "1073",
+                    "1074",
+                    "1078",
+                    "1079",
+                    "1083",
+                    "1084",
+                    "1085",
+                    "1086",
+                    "1087"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1073",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1073",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1073",
+                    "image": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                    "title": "魔都春梦·第十一章·海的深处 作者/老王子",
+                    "content": "内心深处，我们是两个机器人，正在通过爱情尝试碰触人性的本质。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 魔都春梦·第十一章·海的深处",
+                        "desc": "文/老王子 内心深处，我们是两个机器人，正在通过爱情尝试碰触人性的本质。",
+                        "link": "http://m.wufazhuce.com/serial/1073?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 魔都春梦·第十一章·海的深处",
+                        "desc": "文/老王子 内心深处，我们是两个机器人，正在通过爱情尝试碰触人性的本质。",
+                        "link": "http://m.wufazhuce.com/serial/1073?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 魔都春梦·第十一章·海的深处》 文/老王子： 内心深处，我们是两个机器人，正在通过爱情尝试碰触人性的本质。 阅读全文：http://m.wufazhuce.com/serial/1073?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1073?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "魔都春梦·第十一章·海的深处",
+                        "desc": "内心深处，我们是两个机器人，正在通过爱情尝试碰触人性的本质。",
+                        "link": "http://m.wufazhuce.com/serial/1073?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19589",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2722",
+                "title": "思念到极致是什么感觉？",
+                "forward": "我们心里都藏着一个偷偷思念的小人，时常掐疼我们的心坎软肋。",
+                "img_url": "http://image.wufazhuce.com/FjX4DuCL9pF8WXxkIPbHr0edOmW-",
+                "like_count": 3442,
+                "post_date": "2020-01-09 06:00:00",
+                "last_update_date": "2020-01-08 20:33:04",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "爱爱谁爱谁",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2722",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2722",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2722",
+                    "image": "http://image.wufazhuce.com/FjX4DuCL9pF8WXxkIPbHr0edOmW-",
+                    "title": "思念到极致是什么感觉？",
+                    "content": "思念到极致是什么感觉？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 思念到极致是什么感觉？",
+                        "desc": "文/Seasee Youl 让你思念至极的人，往往也思念着你。",
+                        "link": "http://m.wufazhuce.com/question/2722?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 思念到极致是什么感觉？",
+                        "desc": "文/Seasee Youl 让你思念至极的人，往往也思念着你。",
+                        "link": "http://m.wufazhuce.com/question/2722?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 思念到极致是什么感觉？》 文/Seasee Youl： 让你思念至极的人，往往也思念着你。 阅读全文：http://m.wufazhuce.com/question/2722?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2722?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "思念到极致是什么感觉？",
+                        "desc": "让你思念至极的人，往往也思念着你。",
+                        "link": "http://m.wufazhuce.com/question/2722?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10407227",
+                    "user_name": "Seasee Youl",
+                    "desc": "专栏作家  知乎大V  微信公众号：第四条鱼",
+                    "wb_name": "@Seasee Youl",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "专栏作家  微信公众号：第四条鱼",
+                    "fans_total": "3952",
+                    "web_url": "http://image.wufazhuce.com/FoTw-1O5lVdpEQ6pNSlwJ92GyvUI"
+                }
+            },
+            {
+                "id": "19588",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1937",
+                "title": "这个杀手不太冷，还有些孤独",
+                "forward": "10年，3个老炮，210分钟。",
+                "img_url": "http://image.wufazhuce.com/Fnu_Y28HRErU4IuUQ2B7ZpQwr4D9",
+                "like_count": 1906,
+                "post_date": "2020-01-09 06:00:00",
+                "last_update_date": "2020-01-09 09:41:22",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10219",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "爱尔兰人",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4920",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1937",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1937",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1937",
+                    "image": "http://image.wufazhuce.com/Fnu_Y28HRErU4IuUQ2B7ZpQwr4D9",
+                    "title": "「一个」电影: 爱尔兰人",
+                    "content": "一所艺术学院的老教授课堂上问他的年轻学生们，&ldquo;你们一般去哪里看电影？&rdquo;学生异口同声答：&ldquo;网站上&rdquo;，老教授很生气，因为在他看来，电影是一种只可以在电影院才能被欣赏的艺术。电影是什么？什么是真正的电影？漫威宇宙离真正的电影像地球离半人马阿尔法星一样遥远？关于电影的追问，或许可以从这位老派却历久弥新的导演马丁&middot;斯科塞斯的回答里得到启发：&nbsp;电影是关于真相的&mdash;&mdash;美学、情感和精神上的真相。它是关于人的&mdash;&mdash;人的复杂性和他们的矛盾，有时是矛盾的本性，他们可以互相伤害，互相爱护，然后突然面对自己的。它是银幕上的意外，在生活中被戏剧化和解释的，并扩大到艺术形式中找到可能的意义。今年，这位&ldquo;英勇且有远大卓识&rdquo;的导演艺术家，带着《爱尔兰人》这部剧情如史诗般的电影不疾不徐地从人群和掌声中平静走来。这部电影，或许就是他对于&ldquo;真正的电影&rdquo;的理解，以及对他所认为的&ldquo;电影艺术&rdquo;的诠释。&nbsp;《爱尔兰人》拍摄现场0110年，3个老炮，210分钟早在十年前，马丁&middot;斯科塞斯就有意将查尔斯&middot;布朗特于2004年出版的犯罪题材回忆录《听说你刷房子了》搬上银幕，但迫于当时没有一家电影公司愿意为看起来并无卖相的年代黑帮提供如此高额的电影预算，于是计划搁置。十年过去了，马丁&middot;斯科塞斯终于等来了Netflix高达1.6亿美元的投资，也等来了&ldquo;de-aging&rdquo;的技术进步。2019年，这位拿了一堆终身成就奖的导演，带着罗伯特&middot;德尼罗和阿尔&middot;帕西诺，一起为影迷带来了这部豆瓣9.1高分，入围各大媒体十佳影片榜单的作品《爱尔兰人》。马丁&middot;斯科塞斯是谁？一个擅长黑帮题材的导演，前有&ldquo;黑帮三部曲&rdquo;：《穷街陋巷》、《赌城风云》、《好家伙》，后有《纽约黑帮》；罗伯特&middot;德尼罗是谁？那个将奥斯卡配角奖和男主角奖都囊括手中的&ldquo;戏王之王&rdquo;；阿尔&middot;帕西诺是谁？以《闻香识女人》拿下奥斯卡影帝的那个探戈舞王。&nbsp;阿尔&middot;帕西诺和罗伯特&middot;德尼罗值得一提的是，从《教父2》开始，罗伯特&middot;德尼罗和阿尔&middot;帕西诺就被认为是好莱坞的双子星。这就是电影《爱尔兰人》的三位主创，三个70多岁的老炮，年龄加在一起，232岁。电影长达210分钟，却没有一个拖沓的镜头，没有一场无用的戏，众多的人物支线，复杂的叙事结构，在马丁&middot;斯科塞斯的流畅克制的镜头下，将爱尔兰裔的弗兰克&middot;希兰青年时的枪林弹雨，中年时的叱咤风云和晚年时的孤独落寞，以及他如何从一个普通运肉司机成为黑手党顶级杀手的一生，都娓娓道来。全片没有惊心动魄的打斗场面，没有血腥暴力的人物描写，没有跌宕起伏的剧情设置，只有如配乐《In the still of the night》般的平静，冷静地掏枪杀人、简单地焚尸灭迹，干完活蘸着红酒吃面包。所有惊心动魄或将改变历史的杀戮，在电影里都变成如吃饭、喝水一般平常。&nbsp;02&nbsp;从现在起，一切顺其自然故事从一个长镜头开始，伴随着收音机里的怀旧音乐，镜头扫过疗养院的走廊，掠过忙碌的医生和白发苍苍的老人，最终落到一个坐在轮椅上的背影。坐在轮椅上的老人，就是这个故事的男主角弗兰克.希兰，他满脸皱纹，白发稀疏，转动着那只特别的金戒指。当镜头对准他的正脸时，他才含糊不清地说起1975年那场公路旅行。那天开车的是弗兰克，车上坐着罗素夫妻和弗兰克的妻子，一行四人，他们要去底特律参加一场婚礼。故事是从这里开始的吗？不是。故事的开始，要从他们路过一家加油站说起，那是弗兰克和罗素初次见面的地方。&nbsp;弗兰克和罗素在此相遇。也是从1950年起，弗兰克开始了&ldquo;Paint House（刷房子）&rdquo;的一生，而那时的弗兰克并不知道自己此后会成为一个大人物。&ldquo;I Heard You Paint Houses&rdquo;，意思是杀人后墙壁会溅到血，这句话是吉米&middot;霍法对弗兰克说的第一句话，在电影开头极短的画面中，一阵枪声后，这个如50年代的猫王和60年代的披头士一样的传奇人物，死了。所以，故事的开始还是要从吉米&middot;霍法说起。作为全片的高潮部分，也是整个电影的另一条主线&ldquo;吉米&middot;霍法的死亡之谜&rdquo;，导演在一开始就埋下了悬疑。高潮前置，一步步解开谜案便成了贯穿全片的线索。吉米&middot;霍法是谁？谁杀了他？为什么要杀死他？追寻这个问题的答案，还是要说回弗兰克，他才是故事真正的开始。作为一名在二战战场上战斗过400多天的士兵，弗兰克曾经祈祷:&nbsp;要是能活着离开，我这辈子一定再也不沾染罪恶，但紧接着战斗就开始了，你就把一切都忘了，你只想活下来保住小命。当我明白自己撑过了战争，我看了看自己的周围，对自己说，&lsquo;从现在起，一切顺其自然&rsquo;。退役后的弗兰克以开货运卡车为生，偶然机会遇见了改变他人生轨迹的第一个人：罗素&middot;布法利诺，宾州布法利诺家族的家族首领。&nbsp;弗兰克和罗素。加油站之后的第二次见面：蘸着葡萄酒吃面包。弗兰克凭借战场履历、过人身手、赤胆忠诚，很快赢得了罗素的信任。在一次次的暗杀、弃枪、抛尸、汽车炸弹行动后，弗兰克成了罗素最信任的左膀右臂，也一步步进入了黑帮的核心圈子。通过引荐，弗兰克认识了他人生转折点的第二个人：吉米&middot;霍法，60年代最知名的国际货车司机兄弟会（IBT）的主席。在他担任工会领导人期间，工会人数达到了230万会员，是美国数量最大的工会。弗兰克能成为326工会主席，完全是托了他的福。&nbsp;弗兰克和吉米&middot;霍法电影通过用弗兰克的视角，带观众重温了美国的肯尼迪时代，以及那个时代的黑帮风云和政治变幻。费城黑帮帮助肯尼迪当选总统的幕后操纵，工会主席的贪污腐败与内部斗争，肯尼迪家族的权力布局与暗杀事件，&ldquo;猪湾事件&rdquo;&hellip;&hellip;影片中所描绘的工会和黑帮的狼狈为奸，也是对现实世界中真实历史的投射。&nbsp;历史中的吉米&middot;霍法和影片中的吉米&middot;霍法作为罗素和吉米&middot;霍法的中间人，弗兰克原本的位置很稳定，一边维护着黑帮，另一边身系工会情谊。但因为工会慢慢沦为了黑帮赚钱的工具，吉米&middot;霍法却开始反抗。罗素不得不把心腹弗兰克推到最前面，金钱和利益面前，吉米&middot;霍法只能是牺牲品。那场1975年的公路旅行，真正的终点从来不是底特律，而是杀死吉米&middot;霍法。在一间空房子里，当吉米&middot;霍法天真地以为自己和弗兰克被暗算了，正准备转身离开时，却被一颗来自后脑勺的子弹击倒。他就这样躺在了血泊中，这个如50年代的猫王一般和60年代的披头士一样传奇的人物，就这样被最信任最亲近的人杀了。而这个静止镜头，也成了全片最残忍的死亡凝视时刻。也就是在这里，爱尔兰人弗兰克来到了人生高潮。&nbsp;死亡凝视：吉米&middot;霍法被弗兰克从身后开枪杀死。电影取名《爱尔兰人》，一是因为男主角弗兰克是爱尔兰人。另一层含义是：&ldquo;爱尔兰人&rdquo;是弗兰克的绰号，代表了黑手党曾经最厉害的杀手。这个经历过二战后想要顺其自然的人，最终还是回到了杀戮的世界。03就算是一个杀手，一样会有小学同学说起杀手，你的第一印象是什么？冷血、凶残、没有情感？《爱尔兰人》里的杀手，有血有肉、有情有感。他没有众人的簇拥，没有血脉贲张的凶杀，也没有惊心动魄的桥段。离开&ldquo;生意场&rdquo;，他不过是喜欢吃面包，坐在保龄球场边，穿着短袖衬衫的中年人。这个中年人，有家庭，也有朋友。电影给弗兰克安排了亲情和友情两条暗线，以此来将这个&ldquo;黑帮杀手&rdquo;人性化、生活化。亲情部分，主要是弗兰克和小女儿佩琪的对手戏。有一场戏是弗兰克在佩琪面前暴打杂货店老板，原因很简单，因为杂货店老板推了一下佩琪。弗兰克不会让自己的家人受到一丝丝伤害，他用了惯用的方式保护着他的家人。虽然这场戏，为父女之间的关系埋下了悲剧的种子。但，这却是一个杀手父亲的柔情。友情部分，主要体现在弗兰克和罗素、吉米&middot;霍法这两个人的关系。罗素对弗兰克有知遇之恩，也是弗兰克的上司。在酒吧第一次见面时，罗素告诉了弗兰克自己的小癖好，喜欢面包蘸着葡萄酒吃。相处久了，弗兰克也养成了这样的习惯，两人常常在蘸着葡萄酒吃面包时谈论着&ldquo;生意&rdquo;。以至于后来他们双双进了监狱，弗兰克也不忘给罗素拿来面包掰下一小口，再为他倒上一碗葡萄汁。而此时的罗素已经没了牙齿，弗兰克也老了。&nbsp;弗兰克和罗素在监狱中用面包蘸着葡萄汁吃。弗兰克和吉米&middot;霍法的情谊，电影用了&ldquo;留门缝&rdquo;这个细节。影片最后，神父离开弗兰克房间，弗兰克一定要&ldquo;留个门缝&rdquo;，而他就这样坐在轮椅上，直直地望着那个透着光亮的门缝，像是在等待着谁。准确地说，像是在怀念着谁。因为，吉米&middot;霍法喜欢在睡觉的时候，留个门缝。弗兰克和吉米&middot;霍法之间是有深厚友谊的，尽管最后他选择用吉米&middot;霍法的死交换了金钱和利益，以及罗素的信任。影片不止一处刻画了弗兰克的家庭生活以及他和罗素、吉米&middot;霍法的三角情谊，完全拉开了原本对&ldquo;杀手&rdquo;这个形象的刻板印象。在成为一个顶级杀手之前，弗兰克首先是个普通人。&nbsp;04人生终将由盛而衰，一去不回坐在疗养院的轮椅上，弗兰克和其他老人一样，穿着条纹睡衣，满脸皱纹，做着最日常的身体检查。吉米&middot;霍法死后，弗兰克迎来了人生高潮后的落寞。他和罗素一起被送进了监狱，在那里度过了一段时光后，他独自来到了疗养院度过最后的人生岁月。一个顶级杀手的暮年是怎样的？非常，一言难尽。银行工作的小女儿佩琪依然不愿意原谅这个杀手父亲，当弗兰克撑着拐杖恳求她&ldquo;聊一聊&rdquo;的时候，佩琪只是冷漠地在柜台上放上了&ldquo;Closed&rdquo;；年轻的护士小姐，根本不知道吉米&middot;霍法是谁，纵使曾经的他如猫王，如披头士一般赫赫有名。原本和弗兰克一起奋斗的那些老家伙呢？他们一个个都走了，他们的名字慢慢被忘记，连同那个属于他们的那个血雨腥风的时代也变成了一段无足轻重的昨日传奇。现在的弗兰克没有想要保护的人，也没有想要杀害他的人。他现在很安全，因为他已经不重要了。但喋血一生的他知道自己律师死后，第一反应依然是：&ldquo;谁干的？（who did it?）。&rdquo;有人说《爱尔兰人》的最后四十分钟，是一个杀手回归到内心深处的救赎，但在我看来，却是一个杀手不愿被时间抛弃，不愿被世人遗忘的倔强。最后，连给自己选择的死亡方式都是土葬，因为比起火葬，这样表示自己还活着。可惜，时间如酷刑，谁都无法因为它的无情而将此囚禁。时间面前，210分钟不过一部短片；时代面前，一代枭雄不过叫得上名字的小人物。人生最后，不过，一场与时间的残酷交易，再伟大的人都逃不过。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 这个杀手不太冷，还有些孤独",
+                        "desc": "文/不辣 10年，3个老炮，210分钟。",
+                        "link": "http://m.wufazhuce.com/movie/1937?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 这个杀手不太冷，还有些孤独",
+                        "desc": "文/不辣 10年，3个老炮，210分钟。",
+                        "link": "http://m.wufazhuce.com/movie/1937?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 这个杀手不太冷，还有些孤独》 文/不辣： 10年，3个老炮，210分钟。 阅读全文：http://m.wufazhuce.com/movie/1937?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1937?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "这个杀手不太冷，还有些孤独",
+                        "desc": "10年，3个老炮，210分钟。",
+                        "link": "http://m.wufazhuce.com/movie/1937?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19525",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3022",
+                "title": "遇上麻烦，不要逞强，远远跑开",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fh-EoxLnyfriuT8XuCY56n5k6q0T?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1425,
+                "post_date": "2020-01-09 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3022",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3022",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 遇上麻烦，不要逞强，远远跑开",
+                        "desc": "77届金球奖终身成就奖——汤姆汉克斯",
+                        "link": "http://m.wufazhuce.com/radio/3022?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/liKwjDv-xTJ5ZfAf_5I5-5xzKot7"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 遇上麻烦，不要逞强，远远跑开",
+                        "desc": "77届金球奖终身成就奖——汤姆汉克斯",
+                        "link": "http://m.wufazhuce.com/radio/3022?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/liKwjDv-xTJ5ZfAf_5I5-5xzKot7"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 遇上麻烦，不要逞强，远远跑开》 主播/马晓橙： 77届金球奖终身成就奖——汤姆汉克斯 阅读全文：http://m.wufazhuce.com/radio/3022?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3022?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/liKwjDv-xTJ5ZfAf_5I5-5xzKot7"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "遇上麻烦，不要逞强，远远跑开",
+                        "link": "http://m.wufazhuce.com/radio/3022?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/liKwjDv-xTJ5ZfAf_5I5-5xzKot7"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 758 期",
+                "audio_url": "http://music.wufazhuce.com/liKwjDv-xTJ5ZfAf_5I5-5xzKot7"
+            }
+        ],
+        "menu": {
+            "vol": "2651",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4152",
+                    "title": "说个笑话纪念我"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1073",
+                    "serial_list": [
+                        "1055",
+                        "1059",
+                        "1057",
+                        "1058",
+                        "1060",
+                        "1061",
+                        "1062",
+                        "1070",
+                        "1071",
+                        "1072",
+                        "1073",
+                        "1074",
+                        "1078",
+                        "1079",
+                        "1083",
+                        "1084",
+                        "1085",
+                        "1086",
+                        "1087"
+                    ],
+                    "title": "魔都春梦·第十一章·海的深处"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2722",
+                    "title": "思念到极致是什么感觉？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1937",
+                    "title": "这个杀手不太冷，还有些孤独"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3022",
+                    "title": "遇上麻烦，不要逞强，远远跑开"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

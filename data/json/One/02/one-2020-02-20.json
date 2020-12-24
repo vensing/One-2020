@@ -1,0 +1,596 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5421",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-02-20 06:00:00",
+        "content_list": [
+            {
+                "id": "19816",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2733",
+                "title": "摄影",
+                "forward": "如今的时代，过分温柔是要吃亏的。",
+                "img_url": "http://image.wufazhuce.com/Fg4tEFwFfutZW2Dm-Sd7Oswg_JUz",
+                "like_count": 24685,
+                "post_date": "2020-02-20 06:00:00",
+                "last_update_date": "2020-02-15 18:31:41",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2693",
+                "pic_info": "Paula May",
+                "words_info": "是枝裕和《如父如子》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2733",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2733",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2733",
+                    "image": "http://image.wufazhuce.com/Fg4tEFwFfutZW2Dm-Sd7Oswg_JUz",
+                    "title": "VOL.2693",
+                    "content": "如今的时代，过分温柔是要吃亏的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2733?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2733?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 如今的时代，过分温柔是要吃亏的。——是枝裕和《如父如子》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2733?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2733?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19828",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4208",
+                "title": "医生与“疫情”二三事",
+                "forward": "在这关键时刻，每一个人都互助，点亮着彼此的心灯。",
+                "img_url": "http://image.wufazhuce.com/Ftp8vRc_XO-ytVPh6H7aVewGDVch",
+                "like_count": 2271,
+                "post_date": "2020-02-20 06:00:00",
+                "last_update_date": "2020-02-20 11:17:17",
+                "author": {
+                    "user_id": "10916327",
+                    "user_name": "幺零",
+                    "desc": "一个徘徊在艺术与世俗间的钟摆，时常见惯人间世，偶尔胡诌万物生。",
+                    "wb_name": "@开光的幺零",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "医生，魔术爱好者，rapper，写作者。",
+                    "fans_total": "312",
+                    "web_url": "http://image.wufazhuce.com/FmaRe_N4u_1c3hEYmImS85aqC3mo"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4208",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4208",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4208",
+                    "image": "http://image.wufazhuce.com/Ftp8vRc_XO-ytVPh6H7aVewGDVch",
+                    "title": "医生与“疫情”二三事 作者/幺零",
+                    "content": "在这关键时刻，每一个人都互助，点亮着彼此的心灯。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "疫情故事 | 医生与“疫情”二三事",
+                        "desc": "文/幺零 在这关键时刻，每一个人都互助，点亮着彼此的心灯。",
+                        "link": "http://m.wufazhuce.com/article/4208?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "疫情故事 | 医生与“疫情”二三事",
+                        "desc": "文/幺零 在这关键时刻，每一个人都互助，点亮着彼此的心灯。",
+                        "link": "http://m.wufazhuce.com/article/4208?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《疫情故事 | 医生与“疫情”二三事》 文/幺零： 在这关键时刻，每一个人都互助，点亮着彼此的心灯。 阅读全文：http://m.wufazhuce.com/article/4208?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4208?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "医生与“疫情”二三事",
+                        "desc": "在这关键时刻，每一个人都互助，点亮着彼此的心灯。",
+                        "link": "http://m.wufazhuce.com/article/4208?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                ]
+            },
+            {
+                "id": "19836",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1110",
+                "title": "世界得了健忘症·第十章：羞辱",
+                "forward": "他曾数次向我强调自己讨厌故乡，因为故乡野蛮、粗鄙、不近人情。现在，他就是他的故乡。不，他比故乡更甚。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 877,
+                "post_date": "2020-02-20 06:00:00",
+                "last_update_date": "2020-02-18 18:17:45",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第10章",
+                "number": "10",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1110",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1110",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1110",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第十章：羞辱 作者/昔央",
+                    "content": "故乡野蛮、粗鄙、不近人情。现在，他就是他的故乡。不，他比故乡更甚。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第十章：羞辱",
+                        "desc": "文/昔央 故乡野蛮、粗鄙、不近人情。现在，他就是他的故乡。不，他比故乡更甚。",
+                        "link": "http://m.wufazhuce.com/serial/1110?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第十章：羞辱",
+                        "desc": "文/昔央 故乡野蛮、粗鄙、不近人情。现在，他就是他的故乡。不，他比故乡更甚。",
+                        "link": "http://m.wufazhuce.com/serial/1110?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第十章：羞辱》 文/昔央： 故乡野蛮、粗鄙、不近人情。现在，他就是他的故乡。不，他比故乡更甚。 阅读全文：http://m.wufazhuce.com/serial/1110?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1110?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第十章：羞辱",
+                        "desc": "故乡野蛮、粗鄙、不近人情。现在，他就是他的故乡。不，他比故乡更甚。",
+                        "link": "http://m.wufazhuce.com/serial/1110?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19837",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2762",
+                "title": "这段日子，有哪句话曾经击中过的你内心？ ​​​​",
+                "forward": "请保持你心里的光，因为你不知道谁会借此走出黑暗。",
+                "img_url": "http://image.wufazhuce.com/FkmnNoDMfvAQcRGb2KKmCFoJ1gwI",
+                "like_count": 5419,
+                "post_date": "2020-02-20 06:00:00",
+                "last_update_date": "2020-02-23 01:48:15",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2762",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2762",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2762",
+                    "image": "http://image.wufazhuce.com/FkmnNoDMfvAQcRGb2KKmCFoJ1gwI",
+                    "title": "这段日子，有哪句话曾经击中过的你内心？",
+                    "content": "这段日子，有哪句话曾经击中过的你内心？ ​​​​"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 这段日子，有哪句话曾经击中过的你内心？",
+                        "desc": "文/网友 我们不是每一步都是正确、快乐，但希望每一步都在接近正确、快乐。",
+                        "link": "http://m.wufazhuce.com/question/2762?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 这段日子，有哪句话曾经击中过的你内心？",
+                        "desc": "文/网友 我们不是每一步都是正确、快乐，但希望每一步都在接近正确、快乐。",
+                        "link": "http://m.wufazhuce.com/question/2762?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 这段日子，有哪句话曾经击中过的你内心？》 文/网友： 我们不是每一步都是正确、快乐，但希望每一步都在接近正确、快乐。 阅读全文：http://m.wufazhuce.com/question/2762?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2762?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "这段日子，有哪句话曾经击中过的你内心？",
+                        "desc": "我们不是每一步都是正确、快乐，但希望每一步都在接近正确、快乐。",
+                        "link": "http://m.wufazhuce.com/question/2762?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "19833",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1955",
+                "title": "你选择相信命运还是改变命运？",
+                "forward": "做个勇敢且坚强的人，每个人都能成为改变生活的英雄。",
+                "img_url": "http://image.wufazhuce.com/FnqAAzSFcPbk34sabqQq0QgHE0_H",
+                "like_count": 2654,
+                "post_date": "2020-02-20 06:00:00",
+                "last_update_date": "2020-02-19 10:06:14",
+                "author": {
+                    "user_id": "10639474",
+                    "user_name": "绿衣种子  ",
+                    "desc": "心若没有归宿的地方，走到哪里都是流浪",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "心若没有归宿的地方，走到哪里都是流浪",
+                    "fans_total": "532",
+                    "web_url": "http://image.wufazhuce.com/FuWxQsFAstQPKM-ByxkvFS0lmpE4"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "人生七年",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4938",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1955",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1955",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1955",
+                    "image": "http://image.wufazhuce.com/FnqAAzSFcPbk34sabqQq0QgHE0_H",
+                    "title": "「一个」电影: 人生七年",
+                    "content": "有人说，人的细胞平均七年会完成一次整体更新。七年之后，我们能否抹去过去所经历，成为一个新的自己，拥有不同的人生？我想，这部入选英国&ldquo;世界上最伟大的50部纪录片&rdquo;名单，评分高达9.6分的英国纪录片《人生七年》会给我们答案。导演在1964年开始拍摄这部纪录片，最初只想验证英国在20世纪后期的阶级固化，但在之后数十年的跟进拍摄中，他发现自己无意间接触的，是人生。阶级的藩篱在镜头下变得透明&ldquo;给我一个七岁的孩子，我会让你看到他的成年。&rdquo;为了验证影片的宣传标语，导演从英国社会中挑出了14个不同阶级的7岁孩子。他们有些家庭富裕，出生优越，受到良好的教育，从小看《金融时报》和《观察员》，关注时事，而有的孩子却只求在福利院能够不再挨打。阶级的藩篱其实是资源的藩篱，上层阶级的孩子拥有的资源远比穷人阶级来的多。经常有人把富人阶级的孩子掌握的技能归功于天赋，他们通常思维更加开阔，接受新知识快，且多数能歌善舞。但不得不承认，提升自身格局的很多事情，都需要大量的金钱。一台好的钢琴价格上万，一节音乐培训课价格高达几百。大部分收入普通的父母，愿意把钱花在孩子的补习班上，对于昂贵的音乐器材及培训课等，不免犹疑。这一点更体现在资源不那么充足的农村，父母的所有能力供给上学尚且吃力，何况艺术课呢？镜头下，这样的藩篱变得透明，富人的小孩面对镜头侃侃而谈，有条理的向导演讲述自己以后要上哪所私立中学，毕业后会考取牛津或其他名校。福利院的几个孩子，在接受采访时，目光流露出的是与年纪不相符的忧伤，他们茫然地问&ldquo;大学是什么意思？&rdquo;。透过镜头，我们已不约而同地暗下结论&mdash;&mdash;富有的孩子会继承他们父辈取得的良好资源，拥有美好生活，而穷人的小孩，遭受着命运不公的对待，幸福一定离他们很远很远。那漫不经心的纯洁笑容，只属于温饱无忧的富人阶级。人生对你的态度，很大程度上反映出你对人生的态度若影片停留在1964年，这样主观的推断，肯定会让心灵蒙上一层久久的阴霾。但随着时间的推进，一个个七年过去，七岁的孩子们在属于自己的道路上慢慢成长，我们讶然他们的变化&mdash;&mdash;生命像一件艺术品，总给人惊喜和意外。图片中这句话来自伦敦东区的男孩托尼，他上学时像一只小皮猴，穿着脏兮兮的衣服，翻破烂的围墙，上课爱捣蛋，是个不折不扣的坏学生。导演问他的梦想是什么，他说：&ldquo;我想当一个骑师，如果不能实现，就去开出租车&rdquo;。按照一般的思维，肯定有人叹息&ldquo;这孩子完蛋了，这样胸无大志，他能有出息吗？他不可能幸福了。&rdquo;事实打破了这固有的思维&mdash;&mdash;托尼每次出现在镜头前，都充满了快乐与热情，那样对生活的热爱，像一个谜题，不符合标准的方程式答案。他在21岁参加了骑师的比赛，他幸福的笑着：&ldquo;与自己的偶像同台竞技，是这辈子最值得骄傲的事情。&rdquo;在比赛中他没有取得好成绩，但他丝毫不沮丧，立即投入考取车司机合格证的准备中。他与相恋的姑娘结了婚，婚后养育了三个子女。中年时，在西班牙买房置业，尝试开酒吧，却倒闭了。导演问：&ldquo;但是你都没有很成功呀。&ldquo;他轻松地笑着说：&ldquo;至少我都试过了&rdquo;坚毅，积极，乐观的品质是生活中的宝藏，在任何时代都不会过时，它会带给平凡的生活难以想象的快乐。影片中有一个与托尼截然相反的例子，是来自中产阶级的尼克。7岁时的他，天真活泼，眼角眉梢都是笑容，进入青春期后，转学的陌生环境让他变得忧郁起来，面对镜头开始小心翼翼。他21岁时因为考取牛津大学失败而去建筑工地当搬运工，在后来的二十多年里，在英国各地当流浪汉，靠领取政府救助金生活，精神也一度出现问题。他说因为童年受到父母太好的保护，以至于在后来的人生中不知道怎么生活。他想当一个作家，写的东西却没人看，于是他开始逃避这个世界，结果世界也抛弃了他。他穿着破旧的衣服流浪各地，靠领救济金生活会，严重的心理疾病让他一度想自杀。直到42岁那年，他到了一个小镇上，与友善的居民共同排演话剧，渐渐变得活泼起来。于是他决定在此安居，重新接纳生活。他为群众积极争取福利，当选了当地的议员，甚至被邀请至伦敦参加演讲。人生的际遇，观众包括导演在内的人都不能预料，主人公们自己，也不知道七年中会发生什么&mdash;&mdash;如同现在的你我。我们都曾幻想过能够仗剑走天涯，也期待着下一个七年里充满奇遇，现实却令我们脚步迟疑。自我放弃是一个深渊，它让人变成一个害怕幸福的胆小鬼。影片的伟大之处，或许就在于它把不同阶级的人生铺展开，让人更直观地面对生活&mdash;&mdash;做个勇敢且坚强的人，每个人都能成为改变生活的英雄。教育可以伴你踏上坦荡征途影片中许多人坦言，他们未曾思考有关阶级的事情。伦敦东区的女孩杰基就是其中一个，她很早就表现出了对这类问题的反感，她对导演说：&ldquo;我不会坐在那里羡慕，归根结底我会做自己力所能及的。&rdquo;他们自信乐观，然而原生家庭带来的差异那么鲜明的横在前行的路上，让人无法忽视。富人阶级的四个孩子约翰，安德鲁，查尔斯，苏西，都按照规划念完了私立高中，约翰和安德鲁考上了牛津大学，毕业后成为了知名律师，查尔斯选择做出版社编辑，成为了英国BBC的节目制作人，苏西嫁给了儿时的好友，婚后生活富足。这些就是导演挑选的上层阶级的四个孩子，相较其他，他们的确取得了较高的成就，维持了自己&ldquo;上层阶级&rdquo;的地位。如果用优良的资源作为他们成功的原因，不如优良的教育资源来的准确。家境优越，他们很小就进入寄宿学校开始上学，这就像现在的补习班，不论孩子有没有兴趣，家长们总是为其报上许多科目。节目中，约翰曾经表示：&ldquo;电影让我们的成功看上去很理所应当，事实上，我们也常常熬夜苦读，大学要成绩够优秀才能考上。&rdquo;良好的教育资源是他们的优势，在此之上，他们必须付出异于常人的努力，才能顺利从一流大学毕业，得到一份体面的工作。教育，确实是突破天花板的一条坦荡正途。影片中，尼古拉斯是住在偏远乡下的农民的孩子，全村像他一样大的孩子只有一个，所以他每天上学都要去很远的镇上。7岁时，他说长大后想要研究月球，初中时表示自己对物理有浓厚的兴趣。21岁，他已经进入牛津大学，毕业后去美国进行有关核聚变的科研，成为大学的教授，还出版了自己的理论著作。事实上，他已经通过教育完成了阶级的转换。影片中长大后的中产阶级的男孩女孩，都表达了想重回课堂，考一个好大学的愿望。优质的教育，是利己也是利他。精英教育下的时代，一纸文凭成了争夺优质社会资源必不可少的利器。教育带来社会成就的改变是毋庸置疑的。影片给我们展示的，还有优质教育对慈善的积极作用。约翰在当上皇家律师后，利用自己的社会影响力和资金，为保加利亚的医疗资源和公共资源，积极筹措善款。牛津毕业的布鲁斯选择去到非洲等国家的公立学校教书。影片传达给的观念，教育首先是良好的修养，承担社会责任的勇气，然后才是高等的学历。&nbsp;生活就是如人饮水对于幸福每个人都有不同的定义，我认为是自我认同的满足感。由于每个人的志向和欲望不同，我们可以定义成功人士，却难以将一个标准定义为幸福。希望在并不完美的生活中，我们有足够的力量来面对风雨，也有足够的力量绽放微笑。个人如此，时代也如此，2020年的春天，迅速扩展的疫情影响了每个人的生活，鲁迅曾说：愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话，能做事的做事，能发声的发声，有一分热，发一分光，就令萤火一般，也可以在黑暗里发一点光，不必等候炬火，此后如竟没有炬火，我便是唯一的光。&nbsp;将人生分成一个个七年，每一个阶段都有不同的故事，我们不会变成完全陌生的自己，却可以过好每个新的一天，去观察，思考，然后用力拥抱今天。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 你选择相信命运还是改变命运？",
+                        "desc": "文/绿衣种子   做个勇敢且坚强的人，每个人都能成为改变生活的英雄。",
+                        "link": "http://m.wufazhuce.com/movie/1955?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 你选择相信命运还是改变命运？",
+                        "desc": "文/绿衣种子   做个勇敢且坚强的人，每个人都能成为改变生活的英雄。",
+                        "link": "http://m.wufazhuce.com/movie/1955?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 你选择相信命运还是改变命运？》 文/绿衣种子  ： 做个勇敢且坚强的人，每个人都能成为改变生活的英雄。 阅读全文：http://m.wufazhuce.com/movie/1955?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1955?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你选择相信命运还是改变命运？",
+                        "desc": "做个勇敢且坚强的人，每个人都能成为改变生活的英雄。",
+                        "link": "http://m.wufazhuce.com/movie/1955?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19817",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3067",
+                "title": "那年一别，再无相见",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fmq9iY6u70hIDv-_lGsdGp8QSPIP?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1663,
+                "post_date": "2020-02-20 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3067",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3067",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 那年一别，再无相见",
+                        "desc": "老同学，等疫情过去我们见一面吧",
+                        "link": "http://m.wufazhuce.com/radio/3067?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/luxw9xxZBwxyqLkfvNZxkTl7wpFH"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 那年一别，再无相见",
+                        "desc": "老同学，等疫情过去我们见一面吧",
+                        "link": "http://m.wufazhuce.com/radio/3067?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/luxw9xxZBwxyqLkfvNZxkTl7wpFH"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 那年一别，再无相见》 主播/马晓橙： 老同学，等疫情过去我们见一面吧 阅读全文：http://m.wufazhuce.com/radio/3067?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3067?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/luxw9xxZBwxyqLkfvNZxkTl7wpFH"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "那年一别，再无相见",
+                        "link": "http://m.wufazhuce.com/radio/3067?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/luxw9xxZBwxyqLkfvNZxkTl7wpFH"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 777 期",
+                "audio_url": "http://music.wufazhuce.com/luxw9xxZBwxyqLkfvNZxkTl7wpFH"
+            }
+        ],
+        "menu": {
+            "vol": "2693",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4208",
+                    "title": "医生与“疫情”二三事",
+                    "tag": {
+                        "id": "50",
+                        "title": "疫情故事"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1110",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第十章：羞辱"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2762",
+                    "title": "这段日子，有哪句话曾经击中过的你内心？ ​​​​"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1955",
+                    "title": "你选择相信命运还是改变命运？"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3067",
+                    "title": "那年一别，再无相见"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

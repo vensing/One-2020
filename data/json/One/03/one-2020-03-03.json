@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5432",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-03 06:00:00",
+        "content_list": [
+            {
+                "id": "19907",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2745",
+                "title": "摄影",
+                "forward": "生活，就是昂首前瞻。",
+                "img_url": "http://image.wufazhuce.com/FrPDDSgSe7aeN_KRAHDGi4B250R9",
+                "like_count": 17206,
+                "post_date": "2020-03-03 06:00:00",
+                "last_update_date": "2020-03-01 12:39:44",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2705",
+                "pic_info": "Adam Thomas",
+                "words_info": "雨果《巴黎圣母院》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2745",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2745",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2745",
+                    "image": "http://image.wufazhuce.com/FrPDDSgSe7aeN_KRAHDGi4B250R9",
+                    "title": "VOL.2705",
+                    "content": "生活，就是昂首前瞻。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2745?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2745?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 生活，就是昂首前瞻。——雨果《巴黎圣母院》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2745?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2745?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19901",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4223",
+                "title": "甜蜜蜜",
+                "forward": "《甜蜜蜜》的旋律响起，万国军站在窗边，想起了宋欣。",
+                "img_url": "http://image.wufazhuce.com/FpNoZ3P7yD13tEIbK-H00sI50U9f",
+                "like_count": 1954,
+                "post_date": "2020-03-03 06:00:00",
+                "last_update_date": "2020-03-02 22:59:20",
+                "author": {
+                    "user_id": "6960654",
+                    "user_name": "丫头的徐先生",
+                    "desc": "民警，青年写作者",
+                    "wb_name": "@丫头的徐先生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "民警，青年写作者",
+                    "fans_total": "7375",
+                    "web_url": "http://image.wufazhuce.com/FjG3jW-dXWCvX3P9lGu74_4M4XBL"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4223",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4223",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4223",
+                    "image": "http://image.wufazhuce.com/FpNoZ3P7yD13tEIbK-H00sI50U9f",
+                    "title": "甜蜜蜜 作者/丫头的徐先生",
+                    "content": "童话会永恒，爱情不会。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 甜蜜蜜",
+                        "desc": "文/丫头的徐先生 童话会永恒，爱情不会。",
+                        "link": "http://m.wufazhuce.com/article/4223?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 甜蜜蜜",
+                        "desc": "文/丫头的徐先生 童话会永恒，爱情不会。",
+                        "link": "http://m.wufazhuce.com/article/4223?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 甜蜜蜜》 文/丫头的徐先生： 童话会永恒，爱情不会。 阅读全文：http://m.wufazhuce.com/article/4223?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4223?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "甜蜜蜜",
+                        "desc": "童话会永恒，爱情不会。",
+                        "link": "http://m.wufazhuce.com/article/4223?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19887",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1120",
+                "title": "世界得了健忘症·第十五章：辞职",
+                "forward": "我们永远不能用性道德去霸凌另一个女性，因为我们都是历史悲剧大舞台上的提线木偶。",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 916,
+                "post_date": "2020-03-03 06:00:00",
+                "last_update_date": "2020-03-04 10:02:56",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第15章",
+                "number": "15",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1120",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1120",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1120",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第十五章：辞职 作者/昔央",
+                    "content": "同性并不总是相惜。是因为同性不具备任何同理心吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第十五章：辞职",
+                        "desc": "文/昔央 同性并不总是相惜。是因为同性不具备任何同理心吗？",
+                        "link": "http://m.wufazhuce.com/serial/1120?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第十五章：辞职",
+                        "desc": "文/昔央 同性并不总是相惜。是因为同性不具备任何同理心吗？",
+                        "link": "http://m.wufazhuce.com/serial/1120?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第十五章：辞职》 文/昔央： 同性并不总是相惜。是因为同性不具备任何同理心吗？ 阅读全文：http://m.wufazhuce.com/serial/1120?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1120?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第十五章：辞职",
+                        "desc": "同性并不总是相惜。是因为同性不具备任何同理心吗？",
+                        "link": "http://m.wufazhuce.com/serial/1120?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19916",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2774",
+                "title": "为什么有的人年纪轻轻却思想深度远高于常人？",
+                "forward": "如果我们从生活细微处着手，去养成一个深度思考的习惯，久而久之，就会有自己都意想不到的变化。",
+                "img_url": "http://image.wufazhuce.com/Fnkcd-aJZQFgXPi0aVxrh60QCsk5",
+                "like_count": 4532,
+                "post_date": "2020-03-03 06:00:00",
+                "last_update_date": "2020-03-02 16:26:50",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "假如我年少暴富不自卑",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2774",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2774",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2774",
+                    "image": "http://image.wufazhuce.com/Fnkcd-aJZQFgXPi0aVxrh60QCsk5",
+                    "title": "为什么有的人年纪轻轻却思想深度远高于常人？",
+                    "content": "为什么有的人年纪轻轻却思想深度远高于常人？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 为什么有的人年纪轻轻却思想深度远高于常人？",
+                        "desc": "文/悲白发 心灵是由思考上色的。",
+                        "link": "http://m.wufazhuce.com/question/2774?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 为什么有的人年纪轻轻却思想深度远高于常人？",
+                        "desc": "文/悲白发 心灵是由思考上色的。",
+                        "link": "http://m.wufazhuce.com/question/2774?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 为什么有的人年纪轻轻却思想深度远高于常人？》 文/悲白发： 心灵是由思考上色的。 阅读全文：http://m.wufazhuce.com/question/2774?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2774?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "为什么有的人年纪轻轻却思想深度远高于常人？",
+                        "desc": "心灵是由思考上色的。",
+                        "link": "http://m.wufazhuce.com/question/2774?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11119510",
+                    "user_name": "悲白发",
+                    "desc": "我愿以无边的热情迎接这寂寞寒淡的世界。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "我愿以无边的热情迎接这寂寞寒淡的世界。",
+                    "fans_total": "532",
+                    "web_url": "http://image.wufazhuce.com/FttMAQN646scljp1AeU-wt2ptZqs"
+                }
+            },
+            {
+                "id": "19905",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1961",
+                "title": "坚持爱你，哪怕等待遥遥无期",
+                "forward": "当你醒来，你在心口因为太想念一个人而隐隐作痛。你把那叫做什么？",
+                "img_url": "http://image.wufazhuce.com/FmVol48ItC0dpVMymW2hYCETe0Vs",
+                "like_count": 2739,
+                "post_date": "2020-03-03 06:00:00",
+                "last_update_date": "2020-03-02 18:42:24",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "冷山",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4944",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1961",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1961",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1961",
+                    "image": "http://image.wufazhuce.com/FmVol48ItC0dpVMymW2hYCETe0Vs",
+                    "title": "「一个」电影: 冷山",
+                    "content": "在小说《呼啸山庄》中有一句很经典的话：在我的生活中，他是我最强的思念。如果别的一切都毁了，而他还留下来，我就能继续活下去。如果别的一切都留下来，而他不在了，这个世界对于我就将成为一个极陌生的地方。而电影《冷山》是对这段话最生动的诠释。真正的爱情建立在荒原之上，那是生命的最强力量，是世间最纯碎的爱的斑斓。婉转又热烈的怦然心动电影的开头，是女主人公艾达的一段独白：亲爱的英曼先生，起初我计算着天数，后来变成了计算月份，除了盼望你早日归来，我已无所依仗，而自我们相见后，这几年来，无声的恐惧始终不散。这场战争，这场可怕的战争。对我们的改变，将是无法估量的。艾达第一次跟随父亲来到冷山的时候，英曼先生还只是一个沉默寡言的木匠。他站在高高的架子上，手上接着其他工人递来的木板，眼睛却离不开这位穿着华丽的小姐。他请求女主人介绍他们相识，并承诺事成后替女主人犁地。后来艾达真的端着苹果酒，站在了他面前。他流着汗，接过酒杯一饮而尽，说，&ldquo;我是英曼&rdquo;，眼神不羁，姿态漠然。他们第一次的见面在周围朋友的注视下显得并不自然。这个不善言辞的男人，选择用一副冷漠的面孔正式认识了他喜欢的姑娘，一颗爱情的种子自此萌芽。而那时候单纯的艾达尚不能确定自己的心意。她不愿承认自己的心动，也不愿主动前去道&ldquo;早安&rdquo;，却选择在离开时以一首钢琴曲相送，两人隔着农场相望，让彼此的感情在琴声中交融。当晚艾达发现了教堂门外，浑身湿透看她弹琴的英曼。她借口给黑人送啤酒而出门，邀请他进去。这是两人第一次独处的时间，紧张，局促让气氛略显尴尬。艾达端着啤酒来回几次，而真心话却总在嘴边难以说出口。终于，他主动开口，&ldquo;真希望只要站着不用说话，就足够&rdquo;，她立刻回，&ldquo;就是这样&rdquo;。英曼惊讶地看着她，&ldquo;或者想想，当你醒来因为苦苦思念别人，心口会隐隐作痛，你把那叫做什么&rdquo;。英曼清楚，那叫爱。他也明白，一旦战争爆发，他将应征入伍，而艾达与他不同，她是家境优渥的小姐，将随父亲去更安全的地方，很快忘记他这种粗俗的乡野村夫。艾达也清楚，那是爱。但家教与世俗教条压制着她的砰然心动，让她无法迅速在一个初识的男子面前表达真心。但他们太年轻，还是无法克制的相互吸引。艾达很快收到英曼赠送的乐谱及照片，两人在教堂唱赞歌，陪艾达父亲散步，秋波暗涌。那段充满暧昧的时光，也是两人最甜蜜的回忆。很快南北战争爆发，整个冷山镇的男人陷入个人英雄主义的狂热中，此刻的英曼明白，离别的时刻还是到了。&nbsp;各自理想的重塑与坚守战争的爆发促使两人更快的坚定内心。他出征那天，她前去送别。但艾达还是含蓄的，她紧张，不安，强烈克制着自己的情绪。两人在仓促中也闹出一点小尴尬。艾达借送书之由送他照片，而英曼自始至终没有说话，只是突然抱住她亲吻。短暂的亲热后，终是长久的别离。在楼上的艾达追随着他远去的身影，由此开始了漫长的思念与艰难的等待。关于思念的故事大多悲伤，而悲伤的源头在于遗憾与怀念。艾达怀念与他说过的每句话，然而遗憾的是他们也不曾说过几句话。前线挣扎的英曼同样清楚，他们的感情基础并不牢靠。就连他自己也说，&ldquo;我甚至不了解她&rdquo;，但是仅凭最初的几段记忆，在脑海中无数次上演而强化成坚不可摧的城墙，甚至成为活下去的唯一支撑。这是微光，在关于战争与存活的漫长黑夜里，这一点微光，成为活下去的唯一希望。英曼离开之后，艾达的生活也全是心酸的篇章。仆人离去，父亲去世，恶霸欺凌，在邻居眼里，她变成了一个家道败落一无所有的可怜虫，最可怜的地方在于，她还在等一个注定等不到的人。他们不知道的是，正是这种等待和坚信终会重逢，成了她仅存的勇气。于是在大雪飘零的日子里，在失去英曼信息的日子里，她写下希望挚爱放下武器，停下脚步，快快回来的信件。与此同时英曼同样经受着煎熬。战友行将就木，要求小提琴手拉一曲甜蜜的音乐，&ldquo;就像有个姑娘在等我&rdquo;。琴手不知道那是什么样的音乐，但英曼懂。于是在时代的大背景下，这批年轻人见过了战争真实的样子之后，在节节败退心灰意冷之后，开始怀念和平，而英曼，在见证了个人英雄主义的渺小之后，决定逃亡，回到爱人身边。风雨中的惊喜与遗憾艾达的生活随着一个叫露比的年轻姑娘的到来而好转。她豁达，乐观，肯吃苦，像男人一样有力气，带领艾达开垦农场与劳作。而英曼的逃亡生活中也遇见许多陌生人。他们在乱世相遇，成为一部分感情的寄托，也让孤独的内心少了一份委屈。战争教会女人开枪，让无辜的人受折磨，人们会在某个地方突然倒下，没有人记得，今后也不会有人祭拜。没有谁值得怜悯，只是人各有命，而英曼的命，就是一定要回到爱人身边。而关于艾达和露比，本以为她们将相依为命，直到战争结束。但生活的风雨总在意料之外。艾达与露比收养了邻居莎莉。老人在与当地恶霸的抵抗中，失去了丈夫和儿子。与此同时，露比也充满戏剧性地与父亲重逢。后来父亲与朋友在山中遇见当地民兵，单纯的人儿愿与他们分享篝火，与他们纵情高歌，去不曾想等来的是枪火。所幸父亲被迟来的露比救下，而善良的年轻人已无生还的可能。那一曲在雪夜演奏的小提琴曲，那众人围坐的吟唱，成为血腥背后的对立面，成为人性最凄凉的闪光点。她们将父亲移至附近的木屋后，艾达拿着猎枪外出觅食。这大概就是天意，让他们在这雪山之巅重逢。英曼回来了，他步履蹒跚，眼含热泪，一步步走来。但起初，艾达并没有认出英曼。她举着枪，让他转身回去，她甚至朝着爱人的方向开了一枪。命运真正的残忍袭来我始终在想，如果艾达最后没有认出英曼，英曼就此转身离去，是否他们此生再不会相见。导演安东尼喜欢将自己的故事以离别做结局，但战争中的离别，绝不应该只是如此。出征的男人没有做英雄，他跋山涉水回来，见到了思念的姑娘，并约定终身。然而第二天，他救了所有人，却失去了生命。这不仅让人回想起关于那口井的传说。艾达曾在莎莉家那口井里，看见了死前最后时刻的英曼。影片的结尾，艾达说：我再次从莎莉家的井往里看，这次没有什么预兆。只有天上的云，云朵，以及阳光。或许，这本来就是一口普通的井。而关于它的魔力，只是人的心魔。在兵荒马乱的日子里，人们对于结局，早就有了预设。就像你相信他能回来，却不敢那么确切地相信，他能像和平年代那样，真的完好无损地回来。现在，一切得到应验。男人重新向她走来，头顶乌鸦飞过，鲜血染红冰雪，最终倒下去......最短的爱情与最漫长的等待电影中的一首首民谣奠定了自始至终灰色的基调，但电影开头和结尾却绿意盎然。最终，我们看到战争结束，艾达与英曼的女儿站在绿色的草地上，在战争中幸存下来的人们重新聚集在一起，他们唱歌，拉琴，祈祷，绽放久违的笑容。是否这样，我们就可以彻底抹去那些战争带来的伤痛，那些关于逝去的人的遗憾。天真的小女孩不会知道，曾经有个男人，为了一个见过几面，热吻过几秒的姑娘，当了逃兵，横跨美国，最后慢慢走向他心爱的女子，然后倒下......他所有的爱恋来不及诉说就已然结束。但有人记得，那个人在战争中成长起来，选择带着这份记忆，坚强的活下去。导演安东尼&bull;明格拉用其特有的史诗般的拍摄风格加上罗曼蒂克的成分，造就了一段凄美精致又荡气回肠的爱情故事。其中战争的场面很少，却又无时无刻不充斥着战争的无情与血腥。农场与战火的场景不断交替，形成鲜明的对比。不管是英曼在前线的挣扎，还是艾达在后方的坚守，都是反抗战争，以及对生的渴望与对美好生活的向往。而战争带给人的改变也远远不仅生命逝去和人性泯灭。英曼见证了最残忍的死亡和人性的扭曲，纵使回来，也不再是最初那个沉默寡言的年轻人。而艾达也早已脱胎换骨，成为了足够坚强的女性。纵使他们爱意如初，也早已不是印象中的彼此。战争不仅毁灭了死去的人，某种程度上也毁灭了活着的人。所幸，战争，疾病，孤独，贫穷，所有的灰色基调在爱情面前均成为人性光辉的铺垫。其中的反战情绪与人文关怀造就磅礴大气与悲天悯人的哀伤。影片让所有时代人物的英雄气概与浪漫主义最终落点在小人物的真情实感上。他们厌恶战火，也坚信世道不会一直如此。命运让人分离，感情是漫长的等待，而是否选择翻山越岭的追寻，成为当下居安之人值得思索的命题。毕竟喜剧电影和现实主义题材看多了，都快忘记什么是真正的爱情了。而电影《冷山》给我们的答案是：纵使上天赐给我最短时间的甜蜜，我却用最漫长的坚守，在内心永远留一个地方，让这段爱情真正长久，就像他翻山越岭的漫长逃亡。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 坚持爱你，哪怕等待遥遥无期",
+                        "desc": "文/鹿西兮 真正的爱情建立在荒原之上，那是生命的最强力量，是世间最纯碎的爱的斑斓。",
+                        "link": "http://m.wufazhuce.com/movie/1961?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 坚持爱你，哪怕等待遥遥无期",
+                        "desc": "文/鹿西兮 真正的爱情建立在荒原之上，那是生命的最强力量，是世间最纯碎的爱的斑斓。",
+                        "link": "http://m.wufazhuce.com/movie/1961?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 坚持爱你，哪怕等待遥遥无期》 文/鹿西兮： 真正的爱情建立在荒原之上，那是生命的最强力量，是世间最纯碎的爱的斑斓。 阅读全文：http://m.wufazhuce.com/movie/1961?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1961?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "坚持爱你，哪怕等待遥遥无期",
+                        "desc": "真正的爱情建立在荒原之上，那是生命的最强力量，是世间最纯碎的爱的斑斓。",
+                        "link": "http://m.wufazhuce.com/movie/1961?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19888",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3078",
+                "title": "如果人生可以多种选择",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fs1Qq0R3iRvEVqwcmm40WUjWNRcZ?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1972,
+                "post_date": "2020-03-03 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3078",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3078",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 如果人生可以多种选择",
+                        "desc": "如果选择另一种生活会怎么样？",
+                        "link": "http://m.wufazhuce.com/radio/3078?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loUHmzORquRbmreeWRO2XAgzQRTh"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 如果人生可以多种选择",
+                        "desc": "如果选择另一种生活会怎么样？",
+                        "link": "http://m.wufazhuce.com/radio/3078?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loUHmzORquRbmreeWRO2XAgzQRTh"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 如果人生可以多种选择》 主播/李荟莹： 如果选择另一种生活会怎么样？ 阅读全文：http://m.wufazhuce.com/radio/3078?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3078?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/loUHmzORquRbmreeWRO2XAgzQRTh"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "如果人生可以多种选择",
+                        "link": "http://m.wufazhuce.com/radio/3078?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/loUHmzORquRbmreeWRO2XAgzQRTh"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 783 期",
+                "audio_url": "http://music.wufazhuce.com/loUHmzORquRbmreeWRO2XAgzQRTh"
+            }
+        ],
+        "menu": {
+            "vol": "2705",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4223",
+                    "title": "甜蜜蜜"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1120",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第十五章：辞职"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2774",
+                    "title": "为什么有的人年纪轻轻却思想深度远高于常人？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1961",
+                    "title": "坚持爱你，哪怕等待遥遥无期"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3078",
+                    "title": "如果人生可以多种选择"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

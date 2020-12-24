@@ -1,0 +1,571 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5472",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-04-23 06:00:00",
+        "content_list": [
+            {
+                "id": "20200",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2797",
+                "title": "摄影",
+                "forward": "永远年轻，永远热泪盈眶。",
+                "img_url": "http://image.wufazhuce.com/FsXiQJZ4Jt8mn7szAUFgkxjdNYwu",
+                "like_count": 21440,
+                "post_date": "2020-04-23 06:00:00",
+                "last_update_date": "2020-04-16 12:16:11",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2756",
+                "pic_info": "Vince Fleming",
+                "words_info": "杰克·凯鲁亚克《达摩流浪者》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2797",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2797",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2797",
+                    "image": "http://image.wufazhuce.com/FsXiQJZ4Jt8mn7szAUFgkxjdNYwu",
+                    "title": "VOL.2756",
+                    "content": "永远年轻，永远热泪盈眶。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2797?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2797?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 永远年轻，永远热泪盈眶。——杰克·凯鲁亚克《达摩流浪者》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2797?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2797?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20228",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4289",
+                "title": "梦的河流",
+                "forward": "我知道在某个未知的地方，在时间的某个维度，我一定会与老蒙再见。",
+                "img_url": "http://image.wufazhuce.com/FgaPY59F5TomF_X5MgTlrMonwF6q",
+                "like_count": 2649,
+                "post_date": "2020-04-23 06:00:00",
+                "last_update_date": "2020-04-22 18:30:00",
+                "author": {
+                    "user_id": "6960654",
+                    "user_name": "丫头的徐先生",
+                    "desc": "民警，青年写作者",
+                    "wb_name": "@丫头的徐先生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "民警，青年写作者",
+                    "fans_total": "7375",
+                    "web_url": "http://image.wufazhuce.com/FjG3jW-dXWCvX3P9lGu74_4M4XBL"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4289",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4289",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4289",
+                    "image": "http://image.wufazhuce.com/FgaPY59F5TomF_X5MgTlrMonwF6q",
+                    "title": "梦的河流 作者/丫头的徐先生",
+                    "content": "这首歌呢，送给我生命中一个非常重要的朋友。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 梦的河流",
+                        "desc": "文/丫头的徐先生 这首歌呢，送给我生命中一个非常重要的朋友。",
+                        "link": "http://m.wufazhuce.com/article/4289?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 梦的河流",
+                        "desc": "文/丫头的徐先生 这首歌呢，送给我生命中一个非常重要的朋友。",
+                        "link": "http://m.wufazhuce.com/article/4289?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 梦的河流》 文/丫头的徐先生： 这首歌呢，送给我生命中一个非常重要的朋友。 阅读全文：http://m.wufazhuce.com/article/4289?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4289?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "梦的河流",
+                        "desc": "这首歌呢，送给我生命中一个非常重要的朋友。",
+                        "link": "http://m.wufazhuce.com/article/4289?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20150",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1160",
+                "title": "即将来临·下一个世界：第十四章",
+                "forward": "通灵塔是与要塞以某种能量相连的，也就是说就像我看到他们一样，能看到我，所以我们离真正意义上的毁灭不远了……",
+                "img_url": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                "like_count": 660,
+                "post_date": "2020-04-23 06:00:00",
+                "last_update_date": "2020-04-23 07:39:27",
+                "author": {
+                    "user_id": "11174853",
+                    "user_name": "李永明",
+                    "desc": "我一路奋斗，不仅为了改变世界，也为了不让世界改变我……",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "《即将来临》第二部正在创作中",
+                    "fans_total": "219",
+                    "web_url": "http://image.wufazhuce.com/FvEDXeitvNoNe_H1vF8iAZC9Ht8B"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第14章",
+                "number": "14",
+                "serial_id": "82",
+                "serial_list": [
+                    "1136",
+                    "1137",
+                    "1140",
+                    "1141",
+                    "1143",
+                    "1145",
+                    "1147",
+                    "1149",
+                    "1152",
+                    "1153",
+                    "1155",
+                    "1157",
+                    "1159",
+                    "1160"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1160",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1160",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1160",
+                    "image": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                    "title": "即将来临·下一个世界：第十四章 作者/李永明",
+                    "content": "所以我们离真正意义上的毁灭不远了……"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 即将来临·下一个世界：第十四章",
+                        "desc": "文/李永明 所以我们离真正意义上的毁灭不远了……",
+                        "link": "http://m.wufazhuce.com/serial/1160?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 即将来临·下一个世界：第十四章",
+                        "desc": "文/李永明 所以我们离真正意义上的毁灭不远了……",
+                        "link": "http://m.wufazhuce.com/serial/1160?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 即将来临·下一个世界：第十四章》 文/李永明： 所以我们离真正意义上的毁灭不远了…… 阅读全文：http://m.wufazhuce.com/serial/1160?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1160?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "即将来临·下一个世界：第十四章",
+                        "desc": "所以我们离真正意义上的毁灭不远了……",
+                        "link": "http://m.wufazhuce.com/serial/1160?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20219",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2826",
+                "title": "自己没有上进心怎么办？",
+                "forward": "我要怎么做才能心安理得地当个废物。",
+                "img_url": "http://image.wufazhuce.com/FjG4ckTbL_TSenRGMYGu_mt8_l4G",
+                "like_count": 4412,
+                "post_date": "2020-04-23 06:00:00",
+                "last_update_date": "2020-04-22 18:16:09",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "波妞喜欢中介看房",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2826",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2826",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2826",
+                    "image": "http://image.wufazhuce.com/FjG4ckTbL_TSenRGMYGu_mt8_l4G",
+                    "title": "自己没有上进心怎么办？",
+                    "content": "自己没有上进心怎么办？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 自己没有上进心怎么办？",
+                        "desc": "文/文长长 我不想努力了。",
+                        "link": "http://m.wufazhuce.com/question/2826?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 自己没有上进心怎么办？",
+                        "desc": "文/文长长 我不想努力了。",
+                        "link": "http://m.wufazhuce.com/question/2826?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 自己没有上进心怎么办？》 文/文长长： 我不想努力了。 阅读全文：http://m.wufazhuce.com/question/2826?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2826?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "自己没有上进心怎么办？",
+                        "desc": "我不想努力了。",
+                        "link": "http://m.wufazhuce.com/question/2826?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "20119",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1980",
+                "title": "我写下自己，盼你阅读",
+                "forward": "何时是读书天？其实每天都是。不因任何理由才读，只是因为想读书。",
+                "img_url": "http://image.wufazhuce.com/Fih7_U98qL4A4mPVODzbvFD1KL7t",
+                "like_count": 2518,
+                "post_date": "2020-04-23 06:00:00",
+                "last_update_date": "2020-04-23 09:22:11",
+                "author": {
+                    "user_id": "10684944",
+                    "user_name": "奶油气泡精",
+                    "desc": "他是末日预言中的宇宙碎片",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "他是末日预言中的宇宙碎片",
+                    "fans_total": "390",
+                    "web_url": "http://image.wufazhuce.com/FsUInOnV4Bic29OX550VA35XNkj2"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "与书有关的事",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4963",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1980",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1980",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1980",
+                    "image": "http://image.wufazhuce.com/Fih7_U98qL4A4mPVODzbvFD1KL7t",
+                    "title": "「一个」电影: 与书有关的事",
+                    "content": "热知识：2020已经过去三分之一了。在过去的四个月里，所有人的生活计划都被打乱，大家一时间手足无措，不知如何是好。还好现在生活逐渐恢复正轨，但就算宅在家里，当初制定的计划也照样没完成，书上是不是落灰了？电影仍是标记着想看。如果你想两者兼得，请来看我为你准备的这份片单，能够在影视剧中汲取书的知识，也不失一种乐趣。1 |《与玛格丽特的午后》&ldquo;我们并不孤独。&rdquo;生命不息，读书不止，就算到了九十岁也要继续读书。这曾是我的生活理念，可惜我并没有坚持下来，但一位九十岁的老太太却做到了，她叫玛格丽特。玛格丽特是一个退休的农艺学家，她一生的时间都在周游世界和读书，每天下午，她都会去公园里进行阅读，在这里碰到了大老粗基曼。基曼五十多岁了，他肥胖可爱，有一个漂亮的女友和不对付的老妈，却又患有阅读障碍，当两人相遇，究竟会碰撞出什么样的火花？&ldquo;这不是典型的爱情故事，但爱和温情都在那里，她以花为名，一生都在文字中徜徉，形容词环绕于周，动词像野草一般疯长，有些令您不快，但她却温柔地植入了我这块硬邦邦的土地和我的心。&rdquo;有短评说&ldquo;在82分钟的电影里，还能把大段大段的时间让给书籍，这就是法国人的奢侈。&rdquo;要我说，爱读书是全人类的浪漫也说不定。2 |《查令十字街84号》&ldquo;春天到了，我要一本情诗集。&rdquo;美国女作家海伦，幽默有趣，嗜书如命。却经常买不到自己喜爱的书，偶然之中，她发现一家位于伦敦查令十字街84号的二手书店可以买到自己想要的书籍，便给书店老板弗兰克写了信。谁曾想，这一写就写了二十年，两人因书结缘，时常分享自己对书的感悟和观点，所有想说的话全在书里，相隔万里，深厚情意却能莫逆于心。或许是因为两人从来没有见过面的原因，才使得这段情谊更加的弥足珍贵，也更纯粹，在如今互联网高速发展的社会，三秒发照片是再平常不过的事。直到弗兰克去世海伦才有机会去他的书店看一眼，而书店不久后也要拆迁，这放到现在来看无疑是莫大的遗憾，却也令人羡慕，这才是不掺杂任何杂质的一段历史，只有两个人的惺惺相惜。电影根据海莲&middot;汉芙的同名原著改编，它是全球爱书人之间的一个暗号，被称为&ldquo;爱书人的圣经&rdquo;。&ldquo;如果你们恰好路过查令十字街84号，请代我献上一吻，我亏欠它良多。&rdquo;3 |《见字如面》&ldquo;见字如面，如雁带去思念；见字如面，如歌抚慰流年。消失了时空，怀念成相见。信中你我，定格成永远的容颜。&rdquo;从16年到现在，节目已经播出了整整四季，季季都是惊人的高分。一封信，还有一位读信的人，再加一支麦克风，就组成了一段历史。&ldquo;从前车马邮件都慢，一生只够爱一个人&rdquo;，然而在这到处都是大量短视频的时代，你是否还能够静下心来，用心聆听过往？4 |《何时是读书天》&ldquo;我有对我来说很重要的人。&rdquo;小时候最大的期盼之一，就是放学后回到家门口的小奶箱前取出温热的牛奶，拿到手里满满的幸福感。电影的女主角美奈子，就是一位送奶工，她独自生活却并不孤独，因为家里有一整面墙的书可让她读，除此之外，她生活的小镇上没有任何的变化。戏剧的是，美奈子每天早上送奶的对象之一是她曾经的恋人，槐多。两人在学生时代恋爱，却因为一场意外终止了这段恋情，他们生活在同一个城市却从不联系，直到槐多病重的妻子知道了他们的往事，决定让他们重归于好。从五十岁到八十五岁应该很长很长，这当中的时光该怎么填满？或许只有读书。电影名字问到《何时是读书天》，在我看来每天都是，不因任何理由才读，只是因为想读书。5 |《奥斯汀书会》&ldquo;你最爱简&middot;奥斯汀的哪一本？&rdquo;必须要承认，在现如今的速食社会，大家聚在一起吃吃喝喝玩玩闹闹，却极少面对面谈论电影音乐和书籍。伯纳黛特就很酷，她因为爱简&middot;奥斯汀，便成立了奥斯汀书友会，还拉着其他人一起讨论。六个人，六个月读了奥斯汀六本不同的小说，不仅仅交换着不同的读后感，还有着不同的人生观：不婚、单身、不伦、同性恋、出轨、中年危机...大家分享着自己酸甜苦辣的人生。别太羡慕，只要愿意，你也可以举办读书会，大家一起畅游在知识的海洋。6 |《一本好书》《武林外传》里的秀才曾曰过：多读书，读好书。但是有的人看一分钟书仿佛过了一小时般煎熬，耐不住性子看书怎么办？所以才有了《一本好书》这非常成功的一次冒险尝试：众多实力派演员通过话剧的模式来还原书的内容，让文字变得鲜活立体，也更加有趣。秀才的扮演者喻恩泰也在这个舞台上，他说：买完书把它放在你能看尽的不同角落，总有一天你会翻开它，像个朋友，多聊一会。7 |《朗读者》&ldquo;只有一样东西能让一个灵魂如此完整，那就是爱情。&rdquo;有关于《朗读者》的好，已无需多言。豆瓣Top250排名第226，第82届奥斯卡五项提名，最终&ldquo;Rose&rdquo;温丝莱特凭此片拿下影后。这当然不是一段简单的有关忘年恋的故事，尽管巨大的年龄差总是充满了噱头，十五岁的少年米夏爱上了三十六岁的汉娜，代沟就用读书来弥补，汉娜也沉醉在文学世界。当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。只不过越表现出对文学的向往，汉娜越是对自己是文盲的这层身份感到自卑，便不辞而别，而她另一个令人惊愕的身份则是为纳粹服务过的刽子手。米夏作为法学生，本该有无数次机会可以拯救汉娜，但因为羞耻感没有。汉娜在入狱多年后本可以有机会和米夏再次见面，却因为极度自卑在狱中结束了自己的生命。不管是爱还是历史，不敢去直视它注定会走向悲剧。8 |《编舟记》&ldquo;用指尖亲自去触碰每一个词语，或许相当于触碰到世界一般的喜悦吧。&rdquo;根据三浦紫苑的同名小说改编，拿下了12年本屋大赏和全年销售排行榜的双料冠军。编词典从来就不是一件轻松的事，相反做起来十分枯燥，但电影发扬的就是日本匠人精神，一个编辑部，一堆年轻人，花了长达十五年的时间来编著出了辞典《大渡海》，当在年轻的时候就干了这辈子都想干的工作，何尝不是一种幸福？&ldquo;词语的海洋浩瀚无边，词典就是那片大海中的一叶扁舟，人类靠着这叶名为词典的扁舟航海，找寻最能表达自己心情的言语。&rdquo;9 |《朗读者》&ldquo;它是综艺节目，但它不娱乐；它是文化节目，但它不沉闷；它以情感为表达载体，但它很励志。即使落泪，也是有力量的。&rdquo;此《朗读者》非彼《朗读者》，而是近年来极为优秀的国产综艺之一。主持人是董卿，《中国诗词大会》使得大家继春晚后的又一个平台认识了不一样的董卿，而《朗读者》里的董卿则将其多年深厚的文化素养发挥到了极致。朗读的主题的大多为治愈温情，诸如遇见、陪伴、泪水，告别。每次的朗读都展现了朗读者最充沛的情感，使得最平常不过的文字有了特殊的含义。10 |《词典》&ldquo;我们的共同体精神蕴含在语言之中。&rdquo;这才是真正的&ldquo;抗日神剧&rdquo;，讲述了朝鲜族为了反抗当时日本的统治，秘密搜集朝鲜语言来制作词典的故事。电影通过大量的矛盾冲突来向我们展示了其爱国情怀，为了保留本民族的纯正文化，主角们付出了多大的努力，大时代下的小人物，搞笑又煽情，《词典》证明了主旋律也可以很好看。豆瓣短评有人抛出一个辛辣的提问：日本有《编舟记》，韩国有《词典》，那中国的《新华字典》呢？以上，就是我为你推荐的十部有关书的影视综艺。随着电子书的凶猛来袭和线下实体书店的没落，想要再找回最初捧着书埋头苦读的那份纯粹，似乎已经成为了一种奢侈。但读书需要理由吗？读书似乎不需要任何理由。只要你想，只要你愿意，在哪里都能读，每一天都是读书天。就现在，抖抖书上的灰尘，吸一下纸质的味道，开始读书吧！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 我写下自己，盼你阅读",
+                        "desc": "文/奶油气泡精 何时是读书天？其实每天都是。不因任何理由才读，只是因为想读书。",
+                        "link": "http://m.wufazhuce.com/movie/1980?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 我写下自己，盼你阅读",
+                        "desc": "文/奶油气泡精 何时是读书天？其实每天都是。不因任何理由才读，只是因为想读书。",
+                        "link": "http://m.wufazhuce.com/movie/1980?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 我写下自己，盼你阅读》 文/奶油气泡精： 何时是读书天？其实每天都是。不因任何理由才读，只是因为想读书。 阅读全文：http://m.wufazhuce.com/movie/1980?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1980?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我写下自己，盼你阅读",
+                        "desc": "何时是读书天？其实每天都是。不因任何理由才读，只是因为想读书。",
+                        "link": "http://m.wufazhuce.com/movie/1980?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20118",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3118",
+                "title": "你拥有一间自己的房间吗？",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FmpQtQcSIISDOKjfYE3IqzXeOXRJ?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1663,
+                "post_date": "2020-04-23 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3118",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3118",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 你拥有一间自己的房间吗？",
+                        "desc": "只想在自己的房间虚度时光",
+                        "link": "http://m.wufazhuce.com/radio/3118?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ls-MPkpWoDSULf0cl_c_QCLJCzCH"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 你拥有一间自己的房间吗？",
+                        "desc": "只想在自己的房间虚度时光",
+                        "link": "http://m.wufazhuce.com/radio/3118?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ls-MPkpWoDSULf0cl_c_QCLJCzCH"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 你拥有一间自己的房间吗？》 主播/李荟莹： 只想在自己的房间虚度时光 阅读全文：http://m.wufazhuce.com/radio/3118?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3118?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/ls-MPkpWoDSULf0cl_c_QCLJCzCH"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "你拥有一间自己的房间吗？",
+                        "link": "http://m.wufazhuce.com/radio/3118?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ls-MPkpWoDSULf0cl_c_QCLJCzCH"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 809 期",
+                "audio_url": "http://music.wufazhuce.com/ls-MPkpWoDSULf0cl_c_QCLJCzCH"
+            }
+        ],
+        "menu": {
+            "vol": "2756",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4289",
+                    "title": "梦的河流"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1160",
+                    "serial_list": [
+                        "1136",
+                        "1137",
+                        "1140",
+                        "1141",
+                        "1143",
+                        "1145",
+                        "1147",
+                        "1149",
+                        "1152",
+                        "1153",
+                        "1155",
+                        "1157",
+                        "1159",
+                        "1160"
+                    ],
+                    "title": "即将来临·下一个世界：第十四章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2826",
+                    "title": "自己没有上进心怎么办？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1980",
+                    "title": "我写下自己，盼你阅读"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3118",
+                    "title": "你拥有一间自己的房间吗？"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

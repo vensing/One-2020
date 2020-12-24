@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5538",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-18 06:00:00",
+        "content_list": [
+            {
+                "id": "20549",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2854",
+                "title": "插画",
+                "forward": "对于我来说，美必须是这样的东西。它从人生中遮隔我，又从人生中保护我。",
+                "img_url": "http://image.wufazhuce.com/FqQYXAjT0E1oRXaOKBMtYrsstcui",
+                "like_count": 11977,
+                "post_date": "2020-06-18 06:00:00",
+                "last_update_date": "2020-06-15 10:24:49",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2812",
+                "pic_info": "@井拾Js",
+                "words_info": "三岛由纪夫《金阁寺》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2854",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2854",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2854",
+                    "image": "http://image.wufazhuce.com/FqQYXAjT0E1oRXaOKBMtYrsstcui",
+                    "title": "VOL.2812",
+                    "content": "对于我来说，美必须是这样的东西。它从人生中遮隔我，又从人生中保护我。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2854?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2854?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 对于我来说，美必须是这样的东西。它从人生中遮隔我，又从人生中保护我。——三岛由纪夫《金阁寺》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2854?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2854?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20554",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4354",
+                "title": "从一场婚礼上逃跑",
+                "forward": "爱情是这个样子的吗？虽然不是所有的爱情都是轰轰烈烈的，但是至少会有想和这个人结婚的冲动吧，而不是像我现在这样，只感觉到所有事情都被安排了，好像两边父母才是主角，我不过是稍微不可缺少的群演，途经参与了一下。",
+                "img_url": "http://image.wufazhuce.com/Fq57_bB4n-4IL697bWdrm8GxvstC",
+                "like_count": 1874,
+                "post_date": "2020-06-18 06:00:00",
+                "last_update_date": "2020-06-17 18:23:17",
+                "author": {
+                    "user_id": "11416923",
+                    "user_name": "章一龄",
+                    "desc": "业余写字",
+                    "wb_name": "@章一龄",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "业余写字",
+                    "fans_total": "711",
+                    "web_url": "http://image.wufazhuce.com/Fu9nwj8gWJoWUjy7wqO98UjYs3eU"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4354",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4354",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4354",
+                    "image": "http://image.wufazhuce.com/Fq57_bB4n-4IL697bWdrm8GxvstC",
+                    "title": "从一场婚礼上逃跑 作者/章一龄",
+                    "content": "他们甚至都没有吵过架。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 从一场婚礼上逃跑",
+                        "desc": "文/章一龄 他们甚至都没有吵过架。",
+                        "link": "http://m.wufazhuce.com/article/4354?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 从一场婚礼上逃跑",
+                        "desc": "文/章一龄 他们甚至都没有吵过架。",
+                        "link": "http://m.wufazhuce.com/article/4354?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 从一场婚礼上逃跑》 文/章一龄： 他们甚至都没有吵过架。 阅读全文：http://m.wufazhuce.com/article/4354?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4354?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "从一场婚礼上逃跑",
+                        "desc": "他们甚至都没有吵过架。",
+                        "link": "http://m.wufazhuce.com/article/4354?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20533",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1212",
+                "title": "打雪仗·第二章：荒楼干尸",
+                "forward": "我听过一个说法，其实我们都是外星人，都是犯了罪的外星人。地球是一座监狱，我们来到这里是坐牢的，所以人一出生就嚎啕大哭。等刑期结束后，我们就会回到母星了。那时我们的灵魂就不会再有罪恶，不会再有仇恨。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 905,
+                "post_date": "2020-06-18 06:00:00",
+                "last_update_date": "2020-06-12 15:19:30",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第2章",
+                "number": "2",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1212",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1212",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1212",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第二章：荒楼干尸 作者/肖睿",
+                    "content": "我听过一个说法，地球是一座监狱，我们来到这里是坐牢的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第二章：荒楼干尸",
+                        "desc": "文/肖睿 我听过一个说法，地球是一座监狱，我们来到这里是坐牢的。",
+                        "link": "http://m.wufazhuce.com/serial/1212?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第二章：荒楼干尸",
+                        "desc": "文/肖睿 我听过一个说法，地球是一座监狱，我们来到这里是坐牢的。",
+                        "link": "http://m.wufazhuce.com/serial/1212?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第二章：荒楼干尸》 文/肖睿： 我听过一个说法，地球是一座监狱，我们来到这里是坐牢的。 阅读全文：http://m.wufazhuce.com/serial/1212?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1212?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第二章：荒楼干尸",
+                        "desc": "我听过一个说法，地球是一座监狱，我们来到这里是坐牢的。",
+                        "link": "http://m.wufazhuce.com/serial/1212?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20573",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2884",
+                "title": "你和同桌有哪些美好的回忆？",
+                "forward": "无论是互帮互助还是掐架打诨，最后都会变成美好。",
+                "img_url": "http://image.wufazhuce.com/FvYkGflPPizYylkzEstJ5lqHV1RD",
+                "like_count": 1970,
+                "post_date": "2020-06-18 06:00:00",
+                "last_update_date": "2020-06-17 17:17:01",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2884",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2884",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2884",
+                    "image": "http://image.wufazhuce.com/FvYkGflPPizYylkzEstJ5lqHV1RD",
+                    "title": "你和同桌有哪些美好的回忆？",
+                    "content": "你和同桌有哪些美好的回忆？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你和同桌有哪些美好的回忆？",
+                        "desc": "文/网友 上课互相拔腿毛。",
+                        "link": "http://m.wufazhuce.com/question/2884?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你和同桌有哪些美好的回忆？",
+                        "desc": "文/网友 上课互相拔腿毛。",
+                        "link": "http://m.wufazhuce.com/question/2884?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你和同桌有哪些美好的回忆？》 文/网友： 上课互相拔腿毛。 阅读全文：http://m.wufazhuce.com/question/2884?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2884?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你和同桌有哪些美好的回忆？",
+                        "desc": "上课互相拔腿毛。",
+                        "link": "http://m.wufazhuce.com/question/2884?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20571",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2010",
+                "title": "你是我欲望下的隐痛，是我百转千回的梦魇",
+                "forward": "在我十几年的生活里，我一直认为自己很幸福。我的生活时时充满着欢乐，处处铺满着鲜花。",
+                "img_url": "http://image.wufazhuce.com/FgL6bGBqYJG_MP3j_C-fzgue8u0G",
+                "like_count": 1600,
+                "post_date": "2020-06-18 06:00:00",
+                "last_update_date": "2020-06-17 18:42:44",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "春潮",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4993",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2010",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2010",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2010",
+                    "image": "http://image.wufazhuce.com/FgL6bGBqYJG_MP3j_C-fzgue8u0G",
+                    "title": "「一个」电影: 春潮",
+                    "content": "&nbsp;在我十几年的生活里，我一直认为自己很幸福。我的生活时时充满着欢乐，处处铺满着鲜花。这是涉世不深的郭婉婷在电影中的一段诗朗诵，年幼的她，虽然暂不能理解&ldquo;幸福是什么&rdquo;、&ldquo;生活的鲜花在何处&rdquo;，但隐隐有感觉她所身处的生活看似如大海一般的风平浪静，其实时时刻刻都悄无声息地酝酿着一场永远不会迟到的风暴。这场风暴，不在别处，就在她所生活的家。她、她的母亲、她的姥姥，就是风暴中心。电影《春潮》取名&ldquo;春潮&rdquo;，既有美感又有深意。它是一种自然现象，指春日里海水受引力作用迅猛上涨，在抵达高潮之处后，又慢慢回落，留下一片平静海滩的过程。周而复始，永不停息。这像极了传统东方家庭中的亲子关系，前一秒还是嘶声裂肺，后一秒却又平静如初。不同的是，在家里，没人知道这场&ldquo;春潮&rdquo;何时开始，何时结束，只知道它就这样一直存在着，循环涌动。愤怒暴躁的姥姥、顺从冷漠的女儿、懂事反叛的孙女，是《春潮》的主角。这三个女性同住一个屋檐下，表面上平和友善、血浓于水，实则矛盾升级、冲突不断。在男性角色被弱化的设定下，三个年龄不同、性格迥异的女性在这个故事里充分展现了对生活、对感情独有的女性温柔和克制。&nbsp;1. 女孩、女儿和怨妇姥姥纪明岚（金燕玲饰）是一个强势、不肯服输的怨妇。在外，她备受尊重，待人谦和；在家，却擅长诘难女儿，喜欢控诉丈夫。女儿郭建波（郝蕾饰），报社记者，大龄未婚，长期寄居在母亲家。看似沉默隐忍，心中却有着如浪潮一般丰富澎湃的情绪。在孩子面前，她温暖开朗；对待陌生人，充满关怀，唯独面对母亲面前，她只有一张冷漠无情的面孔。家里，唯一一个能提升温情指数的就是孙女郭婉婷。出生在压抑多过快乐的原生家庭，十几岁的她早就学会了面对家庭不和谐，被迫成为大人之间的润滑剂，适应了成人世界的相处规矩，但身上无法掩盖的古灵精怪和孩童天真却是这个家庭最温暖的底色。三代人，三种身份，代表了一个普通女性一生的身份转变：女儿、母亲、姥姥。不同的是，生活这把刀太过锋利，在她们身上留下了深浅不同、大小不同的伤口。她们既来不及抚平自我的伤痛，更无法共情对方的痛楚。每个人能做的除了在各自痛苦的漩涡中打转，就是把无法消化的痛苦转嫁给彼此。于是，这个家庭的每一代人似乎都在被迫接纳痛苦，强制继承压抑。餐桌上，郭婉婷质问坐在一起吃饭的母亲和姥姥：&ldquo;为什么你们说话都阴阳怪气的&rdquo;。她多么羡慕，羡慕班上的那个同学。虽然成绩远远不如她，可那个同学有一个幸福的家，温柔的母亲、亲切的父亲还有她一直向往的家庭的欢声笑语。郭婉婷就这样静静地站在同学家的一个角落，看着穿着韩服的女孩在父亲的怀抱里转圈，坐在一旁的母亲微笑着。这样温馨的画面，让她的嘴角不自觉地上扬。但她又清楚知道，这样的幸福于她，是种幻想。她的家，姥姥不快乐，母亲不快乐，而她不敢快乐。她的家，每个人都伤痕累累，谁都无暇顾及快乐。而恰恰这些所谓的&ldquo;伤痕&rdquo;，竟全是最亲密的人带来的。&nbsp;2. 世间唯爱最伤人纪明岚，一个在感情上受过重创的女人。丈夫是一个&ldquo;流氓&rdquo;，年轻的时候喜欢露自己的身体给戏院女孩看，喜欢摸女孩的屁股，带小姐回家乱搞，因为没付清服务费甚至闹到过警察局。丈夫是她感情生活中无法抹去的一块污点，和他分开后，她就带着女儿郭建波相依为命。在三十多年没有婚姻生活的时光里，她含辛茹苦把女儿拉扯大，当女儿有了郭婉婷后，又将她们两个纳入自己的&ldquo;管辖和统治&rdquo;的领域。纪明岚一边以姥姥和母亲的姿态照顾着她们，一边又将自己对丈夫的愤恨和憎恶全数发泄在女儿郭建波身上。这个家，她就是宇宙中心，她的话就是命令，她的痛苦就是全家的痛苦。她要哭，恨不得所有人陪她哭；她想笑，就要所有人跟着她笑。只可惜，一家人没人愿意回应她的快乐，没人关心她的痛苦。家，本是一个象征温暖和爱，相亲相爱的地方。可在她的家，纪明岚毫无存在感，她每一次发泄情绪都是没有观众的表演。&nbsp;老友聚会结束回到家的纪明岚，情绪激昂，试图分享这一刻的快乐给女儿郭建波，却只看见她面无表情地径直走进了自己房间。女儿的冷漠，是纪明岚经历过感情伤害后的新伤。郭建波不是生来一副刀枪不入的脸，一颗硬邦邦的石头心。她不在乎纪明岚，是因为不喜欢她的怨妇模样，不喜欢她那样说自己的父亲。在郭建波眼里，父亲是一个性格好、十分温柔的男人。郭建波第一次来例假的时候，是父亲告诉了她如何叠卫生纸，也是父亲给她泡了脚。反而是母亲纪明岚对她只冷冷地留下一句&ldquo;你怎么来了这个东西&rdquo;。她更愤怒，母亲不经同意，把她的日记和珍藏的和父亲照片烧了。纪明岚的独裁，暴力，像一把冷刀把郭建波的独家记忆裁得片甲不留，连同她们之间微薄的母女之情。郭建波要报复她，她明知道纪明岚一直的夙愿是想她找个好男人，有个稳定的家。但她偏偏就是要吓退靠谱的相亲对象，就是要流连在不同的男人之间，和狂野放肆的艺术家保持着短暂即兴的男女关系，和盲人按摩馆的年轻男子产生着暧昧不明的情愫。所有她不能从母亲身上获得的爱，她都要从男人身上得到。她要牺牲自己，作践自我，直到自己变成一把锋利的箭狠狠射进母亲的心。&nbsp;电影海报上的那句话，这样写道：&ldquo;你和母亲的关系，决定了你和世界的关系。&rdquo;显然，郭建波和世界的关系并不友善，和母亲的关系也一言难尽。&nbsp;3. 温柔才是武器作为母亲，纪明岚真的这么可憎可恨吗？在几十年没有男人帮忙的家里，纪明岚早就忘了自己还有温柔的一面。生活早就让她习惯了像个男人一样去战斗，她只有足够坚强，足够强硬，才能撑起这个家。那些不能柔软的态度，不能温柔的言辞，不能脆弱的哭泣，是生活对她的重塑。&nbsp;郭建波是永远不会看到母亲的这一面的，这些只有老周才能见得。老周，是纪明岚的新伴侣，忠厚老实，烧得一手好菜。那天，老周邀请她来自己家，把最宝贝的一块表给了她，还送了她一条大红色的披肩。纪明岚懂，这是求婚。可单身生活几十年的她，一下子难以接受&ldquo;洞房&rdquo;，更何况还是在光天化日之下。这是纪明岚第一次如此脆弱地落泪，她就这样红色披肩，坐在床檐，安静地抹着泪和老周讲述着自己不堪回首的过去。那些隐秘的情感伤疤，风流丈夫带来的心理伤害，时代的伤痕在老周拥抱她的时候，才渐渐消解。此刻的她，不见暴力、愤怒、控制，只有身为女性，作为母亲的脆弱。郭建波呢？她所有的柔情，只有在离开家的时候。那天，一气之下她带着郭婉婷离开了纪明岚。在独立照顾女儿的时间里，郭建波带她去动物园看长颈鹿，陪伴她，拥抱她。作为女儿，郭建波有些绝情，但作为妈妈，她却是那么温柔。阳光下，郭建波骑着破旧的自行车载着女儿穿过车流，郭婉婷紧紧地搂着她。她们时而对视，时而仰笑。从小见惯了母亲纪明岚的强势无理、蛮横霸道，郭建波发誓不要让自己的女儿过上和自己一样的童年生活。于是，就算从小生活在有强硬母亲的原生家庭里，她还是让自己变成了一个温柔的妈妈。多好，曾经她望而不得的母爱和温暖，现在可以通通给予自己的女儿。虽然，她无法成为一个好女儿，但她可以努力变成了一个好妈妈。时间无法倒回，倒回到郭建波的童年，让母亲重新再爱她一次。但好在生命赋予了她母亲的荣光，让她有机会领悟到原来在爱的人面前，温柔才是武器，霸道和命令只能表达无爱。&nbsp;4. 永远矗立的高墙有人说，&ldquo;人的一生其实就是一条回家的路。&rdquo;所以，孩子和父母之间的那堵高墙需要被推倒吗？真的可以被推倒吗？问题的答案不重要，重要的是横在亲子关系之间的那面墙真的一点好处都没有吗？每个人的一生都是不同的，再亲密的关系都需要自我和距离，人人都需要找到属于自己的生活姿态。如果郭建波可以努力一点、乖巧一点，推倒她和纪明岚之间的高墙，就意味着她自愿让自己的一生无限趋同于母亲的一生。显然，这是她不愿意的。所以，高墙存在的意义就是它可以保护着双方过上自己想要的正常生活，尽管它容易带来矛盾和冲突。墙一直有，一直在，才是家。彼此拉扯、彼此牵制、彼此抗争，生活才得以继续。影片最后，纪明岚病倒了，郭建波在病房里对着窗念了一段长长的独白。这段长达7分钟的独白像是自喃，像是控诉，又像是日记，时而平静，时而激奋。而那句&ldquo;家庭不是战场，你的胜利也不是荣耀&rdquo;，或许是这些年郭建波最想告诉母亲的心里话，只可惜母亲永远不会知道。原来，这个世界，不是所有的墙都需要推倒，不是所有人所有事都可以和解。不和解也不是坏事，因为人的一生的确无法和解太多事。谁的生活，不是在温柔和暴力、狂喜和绝望、狂躁和冷漠的极端两头，来来回回。当源源不断的水，从生锈的铁门涌出，嵌入到地砖的缝隙，流淌到舞台的阶梯，顺着女孩追逐的脚步延向远方，说明冬天快结束了。春潮之水，代表着春天的到来。春天来了，一切都会融化。可，人生四季，哪有这么简单？平静是假，爱恨交织才是永恒的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 你是我欲望下的隐痛，是我百转千回的梦魇",
+                        "desc": "文/不辣 不能从你身上获得的爱，我都要从男人身上得到。",
+                        "link": "http://m.wufazhuce.com/movie/2010?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 你是我欲望下的隐痛，是我百转千回的梦魇",
+                        "desc": "文/不辣 不能从你身上获得的爱，我都要从男人身上得到。",
+                        "link": "http://m.wufazhuce.com/movie/2010?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 你是我欲望下的隐痛，是我百转千回的梦魇》 文/不辣： 不能从你身上获得的爱，我都要从男人身上得到。 阅读全文：http://m.wufazhuce.com/movie/2010?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2010?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你是我欲望下的隐痛，是我百转千回的梦魇",
+                        "desc": "不能从你身上获得的爱，我都要从男人身上得到。",
+                        "link": "http://m.wufazhuce.com/movie/2010?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20534",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3184",
+                "title": "不是每个故事都要有结尾",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FjTEWV2Uninsc9SMYUcxq-yg-i9j?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1545,
+                "post_date": "2020-06-18 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3184",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3184",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 不是每个故事都要有结尾",
+                        "desc": "人生的很多事情本来就没有结局。",
+                        "link": "http://m.wufazhuce.com/radio/3184?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqQ0l2eUrxW8xkTMwizZ3HWV6qZC"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 不是每个故事都要有结尾",
+                        "desc": "人生的很多事情本来就没有结局。",
+                        "link": "http://m.wufazhuce.com/radio/3184?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqQ0l2eUrxW8xkTMwizZ3HWV6qZC"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 不是每个故事都要有结尾》 主播/李荟莹： 人生的很多事情本来就没有结局。 阅读全文：http://m.wufazhuce.com/radio/3184?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3184?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lqQ0l2eUrxW8xkTMwizZ3HWV6qZC"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "不是每个故事都要有结尾",
+                        "link": "http://m.wufazhuce.com/radio/3184?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqQ0l2eUrxW8xkTMwizZ3HWV6qZC"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 835 期",
+                "audio_url": "http://music.wufazhuce.com/lqQ0l2eUrxW8xkTMwizZ3HWV6qZC"
+            }
+        ],
+        "menu": {
+            "vol": "2812",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4354",
+                    "title": "从一场婚礼上逃跑"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1212",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第二章：荒楼干尸"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2884",
+                    "title": "你和同桌有哪些美好的回忆？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2010",
+                    "title": "你是我欲望下的隐痛，是我百转千回的梦魇"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3184",
+                    "title": "不是每个故事都要有结尾"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,533 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5370",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-06 06:00:00",
+        "content_list": [
+            {
+                "id": "19547",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2687",
+                "title": "摄影",
+                "forward": "日子只能一天一天好好地过，别无他法。别烦恼明天的事。明天的烦恼明天再烦。我想开心，努力，温柔待人地过完今天一天。",
+                "img_url": "http://image.wufazhuce.com/Fl0YflfjhlnFKzDOwSGpG3NKkIab",
+                "like_count": 23435,
+                "post_date": "2020-01-06 06:00:00",
+                "last_update_date": "2020-01-03 11:05:49",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2648",
+                "pic_info": "Ingmar Hoogerhoud",
+                "words_info": "太宰治《小说灯笼》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2687",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2687",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2687",
+                    "image": "http://image.wufazhuce.com/Fl0YflfjhlnFKzDOwSGpG3NKkIab",
+                    "title": "VOL.2648",
+                    "content": "日子只能一天一天好好地过，别无他法。别烦恼明天的事。明天的烦恼明天再烦。我想开心，努力，温柔待人地过完今天一天。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2687?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2687?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 日子只能一天一天好好地过，别无他法。别烦恼明天的事。明天的烦恼明天再烦。我想开心，努力，温柔待人地过完今天一天。——太宰治《小说灯笼》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2687?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2687?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19528",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4142",
+                "title": "互相出席的葬礼",
+                "forward": "每听到一个陌生的地名就等于拔掉一根刺，慢慢他从刺猬变回了肌肤柔软的小动物，最后火车哐哧哐哧开过隧道，把他送到被群山环绕的家。",
+                "img_url": "http://image.wufazhuce.com/FqydHW_zB-1Kspdcy7GHZG4hD9Mp",
+                "like_count": 2011,
+                "post_date": "2020-01-06 06:00:00",
+                "last_update_date": "2020-01-06 10:44:03",
+                "author": {
+                    "user_id": "10934029",
+                    "user_name": "管大可",
+                    "desc": "比较年轻的男的。人在重庆，每年回家看次雪。",
+                    "wb_name": "@大可喝大可",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "明天克服拖延症。",
+                    "fans_total": "70",
+                    "web_url": "http://image.wufazhuce.com/FroC1yAwmAYRMCv5unlMbZKmiWIH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4142",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4142",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4142",
+                    "image": "http://image.wufazhuce.com/FqydHW_zB-1Kspdcy7GHZG4hD9Mp",
+                    "title": "互相出席的葬礼 作者/管大可",
+                    "content": "酒吧的气氛并不热烈，人人都心事重重似的在遮遮掩掩之下推杯换盏。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 互相出席的葬礼",
+                        "desc": "文/管大可 酒吧的气氛并不热烈，人人都心事重重似的在遮遮掩掩之下推杯换盏。",
+                        "link": "http://m.wufazhuce.com/article/4142?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 互相出席的葬礼",
+                        "desc": "文/管大可 酒吧的气氛并不热烈，人人都心事重重似的在遮遮掩掩之下推杯换盏。",
+                        "link": "http://m.wufazhuce.com/article/4142?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 互相出席的葬礼》 文/管大可： 酒吧的气氛并不热烈，人人都心事重重似的在遮遮掩掩之下推杯换盏。 阅读全文：http://m.wufazhuce.com/article/4142?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4142?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "互相出席的葬礼",
+                        "desc": "酒吧的气氛并不热烈，人人都心事重重似的在遮遮掩掩之下推杯换盏。",
+                        "link": "http://m.wufazhuce.com/article/4142?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19482",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1068",
+                "title": "铃兰·第十七章·道路尽头的荒芜",
+                "forward": "他看着相机屏幕上的铃兰花，眼眶已经湿润。现在，他可以安心离开这里了。",
+                "img_url": "http://image.wufazhuce.com/FrEEMD1gDiP2cgR6LplJ-xsl_aH-",
+                "like_count": 723,
+                "post_date": "2020-01-06 06:00:00",
+                "last_update_date": "2019-12-23 14:44:48",
+                "author": {
+                    "user_id": "10866249",
+                    "user_name": "夏阳",
+                    "desc": "小说作家，摇滚青年，久居北京，夜行动物。",
+                    "wb_name": "@ 夏阳Joker",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写小说的。",
+                    "fans_total": "1406",
+                    "web_url": "http://image.wufazhuce.com/FqaYtfVfdxDmpEumJZKSLQsaAdzB"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第17章",
+                "number": "17",
+                "serial_id": "77",
+                "serial_list": [
+                    "1038",
+                    "1040",
+                    "1041",
+                    "1044",
+                    "1045",
+                    "1046",
+                    "1049",
+                    "1052",
+                    "1053",
+                    "1054",
+                    "1056",
+                    "1063",
+                    "1064",
+                    "1065",
+                    "1066",
+                    "1067",
+                    "1068",
+                    "1069",
+                    "1075",
+                    "1076",
+                    "1077",
+                    "1080",
+                    "1081",
+                    "1082"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1068",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1068",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1068",
+                    "image": "http://image.wufazhuce.com/FrEEMD1gDiP2cgR6LplJ-xsl_aH-",
+                    "title": "铃兰·第十七章·道路尽头的荒芜 作者/夏阳",
+                    "content": "他看着相机屏幕上的铃兰花，眼眶已经湿润。现在，他可以安心离开这里了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 铃兰·第十七章·道路尽头的荒芜",
+                        "desc": "文/夏阳 他看着相机屏幕上的铃兰花，眼眶已经湿润。现在，他可以安心离开这里了。",
+                        "link": "http://m.wufazhuce.com/serial/1068?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 铃兰·第十七章·道路尽头的荒芜",
+                        "desc": "文/夏阳 他看着相机屏幕上的铃兰花，眼眶已经湿润。现在，他可以安心离开这里了。",
+                        "link": "http://m.wufazhuce.com/serial/1068?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 铃兰·第十七章·道路尽头的荒芜》 文/夏阳： 他看着相机屏幕上的铃兰花，眼眶已经湿润。现在，他可以安心离开这里了。 阅读全文：http://m.wufazhuce.com/serial/1068?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1068?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "铃兰·第十七章·道路尽头的荒芜",
+                        "desc": "他看着相机屏幕上的铃兰花，眼眶已经湿润。现在，他可以安心离开这里了。",
+                        "link": "http://m.wufazhuce.com/serial/1068?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19559",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2717",
+                "title": "性格内向的人该如何与人相处？",
+                "forward": "乐观悲观，内向外向，一个人不能被外界的词语所框定。其实更多时候，这些都是我们自己用来遮掩内心的面具而已。",
+                "img_url": "http://image.wufazhuce.com/FjnCpHXuVOjvRDik7w14I64_UIIw",
+                "like_count": 3286,
+                "post_date": "2020-01-06 06:00:00",
+                "last_update_date": "2020-01-05 19:35:04",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "Joe Kerr",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2717",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2717",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2717",
+                    "image": "http://image.wufazhuce.com/FjnCpHXuVOjvRDik7w14I64_UIIw",
+                    "title": "性格内向的人该如何与人相处？",
+                    "content": "性格内向的人该如何与人相处？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 性格内向的人该如何与人相处？",
+                        "desc": "文/文长长 别人也不一定都完美，有缺点的我也没那么差。",
+                        "link": "http://m.wufazhuce.com/question/2717?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 性格内向的人该如何与人相处？",
+                        "desc": "文/文长长 别人也不一定都完美，有缺点的我也没那么差。",
+                        "link": "http://m.wufazhuce.com/question/2717?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 性格内向的人该如何与人相处？》 文/文长长： 别人也不一定都完美，有缺点的我也没那么差。 阅读全文：http://m.wufazhuce.com/question/2717?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2717?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "性格内向的人该如何与人相处？",
+                        "desc": "别人也不一定都完美，有缺点的我也没那么差。",
+                        "link": "http://m.wufazhuce.com/question/2717?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "19552",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3181",
+                "title": "我努力变好，就是为了和你在一起",
+                "forward": "好的爱情大概就是，你因为遇见这个人，从而成为更好的自己，你们携手同行，拥有着属于你们的未来。",
+                "img_url": "http://image.wufazhuce.com/FqBsxVCzQY6sN0S0AMyfR_N3vRBJ",
+                "like_count": 2734,
+                "post_date": "2020-01-06 06:00:00",
+                "last_update_date": "2020-01-06 00:58:01",
+                "author": {
+                    "user_id": "10746564",
+                    "user_name": "朝歌晚丽",
+                    "desc": "朝歌晚丽，自由撰稿人。想去很多很多的地方，认识很多有趣的人。公众号&微博：朝歌晚丽。",
+                    "wb_name": "@朝歌晚丽",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "朝歌晚丽，自由撰稿人。公众号：朝歌晚丽。",
+                    "fans_total": "478",
+                    "web_url": "http://image.wufazhuce.com/Fi918hilz-p3O2OnoYbEl3LxWQLv"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lveqYi34KN6OLKUlIpjOUlBCNaCc",
+                "audio_platform": "4",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "预言",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3181",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3181",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3181",
+                    "image": "http://image.wufazhuce.com/FqBsxVCzQY6sN0S0AMyfR_N3vRBJ",
+                    "title": "「一个」音乐: 朝歌晚丽 预言",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  01最近上海的天气有些多变，上午还是大晴天，下午就狂风大作暴雨不停。上班时，放在桌面的手机突然响起，我拿过手机看了一下，按下接听，将手机靠近耳边。&ldquo;向晚，天气似乎不怎么好，你要好好照顾自己。我很快就回来了。&rdquo;我笑着对电话那头的人说：&ldquo;北京的天气更不好，你自己注意啊。我等你回来。&rdquo;电话挂断以后，我的唇瓣仍然带着微笑，他是朱祺，一个对我很好很好，一个很温暖很温暖，我很爱很爱的人。02认识朱祺那年，我19岁，上了一所三流大学，没什么特长，没什么爱好。整天无所事事，做什么都提不起兴趣。偏偏还对自己有一种迷之自信，觉得自己很优秀。我是一个路痴，出去玩甚至都不知道怎么回来学校。遇到朱祺的那个下午，我正抱着手机研究怎么导航怎么找公交站牌找去学校的路。正当我抱着手机东张西望的时候，朱祺走了过来，当然，他只是路过，不过我拦住了他。&ldquo;你好，请问一下去某某大学，应该怎么走。&rdquo;朱祺取下了一只耳机，对我说：&ldquo;坐304路车就好了。&rdquo;&ldquo;在哪边坐车，在哪个站下？&rdquo;&ldquo;就对面的公交站，坐2个站，我和你一个学校，现在也要过去，你跟着我走吧。&rdquo;我一听，高兴得差点蹦起来，忙跟上朱祺，和他并排走。车子慢慢地行驶，我也渐渐看到了熟悉的建筑物，这才真正放心下来。下车以后，我跟在朱祺后面，和他道谢。&ldquo;谢谢你啊，同学你叫什么名字啊。&rdquo;&ldquo;朱祺。&rdquo;就在他即将走掉的时候，我又追了上去。&ldquo;同学同学，加个微信吧。&rdquo;朱祺突然停住了，看了我很久，但最后他还是没拒绝我。而问到朱祺的我高兴得像个孩子一样，一蹦一跳地回到宿舍。03加了朱祺微信以后，我时不时就骚扰他，尽管他很少回复，但我仍然很准时对他发早中午晚安，一天不落。在即将到来的那个圣诞节，我终于鼓起勇气约了朱祺见面。在学校的圣诞树下，我同朱祺告白了，毫无疑问的是，他拒绝我了。在他要转身离开的时候，我拽住了他，不让他走。&ldquo;你不答应我我就哭给你看。&rdquo;&ldquo;我知道我现在还不优秀，可我会努力变得优秀。&rdquo;&ldquo;你答不答应我，不答应我真哭了。&rdquo;可朱祺仍然无动于衷，用力松开了我的手，然后走了。看着他离开，一瞬间我的所有委屈所有不快全部一起涌了上来，我的眼泪就这样掉了下来。我对着他的背影哭喊：&ldquo;朱祺你别走。&rdquo;在周围人的视线都聚集在我身上的时候，朱祺也走了过来。&ldquo;同学，我真的不喜欢你也和你不熟。&rdquo;我却是不管不顾：&ldquo;一回生二回熟，我那么喜欢你，你答应我不行吗？&rdquo;许是见我越哭越厉害，朱祺终究没忍心再拒绝我。04朱祺是学霸也是男神，我们在一起一个月以后我才知道这个事实。&ldquo;向晚，你能告诉我你脑袋里装的是什么吗？这么简单的题你都不会。&rdquo;我抬头对上朱祺的眼睛：&ldquo;我脑袋里装的都是你啊。&rdquo;朱祺似乎没想到我会这样说，有一瞬间的尴尬，&ldquo;咳咳，严肃一点，你上课干嘛去了？&rdquo;&ldquo;睡觉啊，晚上总是睡不好。&rdquo;朱祺是真的严肃了：&ldquo;你爸妈辛辛苦苦供你上大学是让你换地方来睡觉的吗？&rdquo;我正想反驳，朱祺却直接走了。回到宿舍我问闺蜜：&ldquo;我真的有那么差劲吗？我上课睡觉是不是错了。&rdquo;闺蜜一边看视频一边小鸡啄米似的狂点头。05在朱祺连续一个星期不理我以后，我下定决心开始改变。我开始认真听课，开始早起，开始运动，开始看书，开始天天往图书馆跑。我就坐在朱祺对面，他看他的书，我看我的，互不打扰。&ldquo;以后看书记得带笔记本做笔记，这样才事半功倍。&rdquo;我正沉浸于书中无法自拔的时候，突然听到朱祺的声音，我满怀喜悦抬头，发现他正看着我。&ldquo;你愿意理我啦？&rdquo;朱祺却是对我说：&ldquo;别看我，看书。&rdquo;看了眼时间，已经到饭点了，我抬头看了眼对面的朱祺，试探性地问：&ldquo;那个，要不要先吃饭？&rdquo;朱祺看了眼时间，继而点了点头。06我们刚在一起的时候，朱祺总是问我一个问题，&ldquo;向晚，你为什么喜欢我。&rdquo;我每次的回答都能让他面红耳赤，&ldquo;因为我想和你一起睡觉。&rdquo;我反问他的时候，他却每次都想好久，才说：&ldquo;你喜欢我，我才喜欢你。&rdquo;我和朱祺在一起以后我的改变，让周围人都大吃了一惊，我妈更是意外，我竟然会想考研。因为考研我们除了吃饭睡觉，其他时间都待在图书馆。我曾问朱祺：&ldquo;我成绩这么差，要是考研没过怎么办。&rdquo;&ldquo;没过，我就不喜欢你了。&rdquo;&ldquo;你本来就没喜欢过我。&rdquo;尽管我很努力，可我仍旧失败了。成绩出来的那天，我感觉我的天都要塌下来了，我这么差，朱祺怎么会喜欢我。那天我在校外晃荡了一整天，我没有联系朱祺，也没回他信息。可我回到宿舍以后，却发现他在宿舍门口等我。他坐在宿舍的楼梯上，手指不停哈气，看见他的一瞬间，我的眼泪几乎都要掉下来。我再也忍不住，快步朝他走过去。&ldquo;你怎么在这里。&rdquo;朱祺闻声站起来，&ldquo;你去哪了。&rdquo;我突然变得底气不足起来，&ldquo;考研失败，我去外面走了几圈，你是不是不喜欢我了。&rdquo;朱祺什么都没说，只是紧紧抱住我。07在一起的时间，我们也经常吵架，吵得最严重那次，我们冷战了一个星期。最后，我受不了，把朱祺堵在了图书馆门口。&ldquo;你还要多久才和我说话。&rdquo;朱祺不说话，&ldquo;你再不说话，我就亲你了。&rdquo;他那么高我又亲不到，最后，我觉得委屈，眼泪刷刷刷就掉了下来。见我掉泪，朱祺终于有了反应，&ldquo;别哭了，这么多人看着，我理你还不成嘛。&rdquo;我不管不顾地抱住了他，在他怀里破涕为笑。毕业以后，我与朱祺一同去了上海。上海的消费很高，我们的生活并没有想象中美好，我们一起蜗居在嘉定区的一个几平米的出租房，天天吃泡面，除了车费，其他的钱我们都不敢花，可我们仍然很开心，每晚我们都相拥而眠。朱祺找到工作的那天，我们用了身上仅有的几百块，去了一个西餐厅。朱祺说，虽然现在还不能让我过上好的生活，可他一定会努力对我好。那天的后果就是，在朱祺发工资之前的一个月，我们两个每天都同吃一份午餐，每次和父母通话，都还要装作自己过得很好。虽然过得也许并不好，可我们却每天都很开心。我找到工作的一个月以后，朱祺升职了，月薪涨了不少，可他却频繁出差，一个星期没有几天在家，每晚我回家，面对我的都是空荡荡的房间。为了朱祺，我学会了做饭，学会了收拾家里，学会了精打细算。在上海一年以后，我们的生活才慢慢稳定下来。可想起那些蜗居吃泡面的日子，我仍然觉得快乐。后来，他带了我回家，我判断不出他父母是否喜欢我，可那天，他一直紧紧牵着我，他对他父母说，&ldquo;这辈子，我只想和向晚在一起。&rdquo;我爸妈没说什么，只是对着朱祺叮嘱了好久。08朱祺回来的那天，上海天气很好，我请了假去机场接他。他穿的一件蓝色衬衣，拖着行李箱，慢慢朝我走近。&ldquo;有没有想我。&rdquo;&ldquo;想想想，当然想，我好久没吃大餐了，等你回来吃大餐的。&rdquo;朱祺牵过我的手，&ldquo;我算大餐吗？&rdquo;我笑了，&ldquo;你是我最想最想吃的大餐。&rdquo;朱祺立马用一种异样的眼神看着我，&ldquo;没想到你是这样的晚晚。&rdquo;我踮起脚在朱祺耳旁说了一句：&ldquo;你已经是我的了，现在才知道，迟了。&rdquo;\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我努力变好，就是为了和你在一起",
+                        "desc": "文/朝歌晚丽 你是我前进的动力。",
+                        "link": "http://m.wufazhuce.com/music/3181?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我努力变好，就是为了和你在一起",
+                        "desc": "文/朝歌晚丽 你是我前进的动力。",
+                        "link": "http://m.wufazhuce.com/music/3181?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我努力变好，就是为了和你在一起》 文/朝歌晚丽： 你是我前进的动力。 阅读全文：http://m.wufazhuce.com/music/3181?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3181?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我努力变好，就是为了和你在一起",
+                        "desc": "你是我前进的动力。",
+                        "link": "http://m.wufazhuce.com/music/3181?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "预言",
+                "audio_platform_icon": "http://image.wufazhuce.com/FpvA4Zg2Lt6L2EuMknvwwdCC_vk0",
+                "audio_platform_name": "看见音乐",
+                "audio_author": "阮成武",
+                "audio_album": "预言",
+                "cover": "http://image.wufazhuce.com/lthQCT31KCkhqFwLt7XR3bPTbw6H",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2648",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4142",
+                    "title": "互相出席的葬礼"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1068",
+                    "serial_list": [
+                        "1038",
+                        "1040",
+                        "1041",
+                        "1044",
+                        "1045",
+                        "1046",
+                        "1049",
+                        "1052",
+                        "1053",
+                        "1054",
+                        "1056",
+                        "1063",
+                        "1064",
+                        "1065",
+                        "1066",
+                        "1067",
+                        "1068",
+                        "1069",
+                        "1075",
+                        "1076",
+                        "1077",
+                        "1080",
+                        "1081",
+                        "1082"
+                    ],
+                    "title": "铃兰·第十七章·道路尽头的荒芜"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2717",
+                    "title": "性格内向的人该如何与人相处？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3181",
+                    "title": "我努力变好，就是为了和你在一起"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

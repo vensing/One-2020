@@ -1,0 +1,581 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5372",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-02 06:00:00",
+        "content_list": [
+            {
+                "id": "19495",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2682",
+                "title": "摄像",
+                "forward": "人总要爱着什么，活着才有意义。",
+                "img_url": "http://image.wufazhuce.com/FqROcxKRRvPGRwya39T-8wwxJ-tF",
+                "like_count": 22206,
+                "post_date": "2020-01-02 06:00:00",
+                "last_update_date": "2019-12-31 14:14:54",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2644",
+                "pic_info": "Tim Mossholder",
+                "words_info": "汪曾祺《一定要，爱着点什么》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2682",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2682",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2682",
+                    "image": "http://image.wufazhuce.com/FqROcxKRRvPGRwya39T-8wwxJ-tF",
+                    "title": "VOL.2644",
+                    "content": "人总要爱着什么，活着才有意义。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2682?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2682?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人总要爱着什么，活着才有意义。——汪曾祺《一定要，爱着点什么》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2682?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2682?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19521",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4141",
+                "title": "我们离爱情的距离",
+                "forward": "钱是离不开的，家也是丢不下的，可贫贱生活中爱是可以磨损的，一点一点被磨光。",
+                "img_url": "http://image.wufazhuce.com/Fo-VLlqpyi5kZIIDDkyOCmOWg49x",
+                "like_count": 2644,
+                "post_date": "2020-01-02 06:00:00",
+                "last_update_date": "2020-01-02 00:17:18",
+                "author": {
+                    "user_id": "10416005",
+                    "user_name": "枨不戒",
+                    "desc": "自由撰稿人，自17年来在网络平台写作，作品散见于骚客文艺、怪兽、豆瓣阅读等电子平台，散文集《老去的小镇》获得第31届梁实秋文学奖首奖。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "自由撰稿人。",
+                    "fans_total": "1497",
+                    "web_url": "http://image.wufazhuce.com/FotMRYq1mJOVVJVJQ5ZRYCy1ccMy"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4141",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4141",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4141",
+                    "image": "http://image.wufazhuce.com/Fo-VLlqpyi5kZIIDDkyOCmOWg49x",
+                    "title": "我们离爱情的距离 作者/枨不戒",
+                    "content": "她早就应该猜到，婚姻是爱情的毒药。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 我们离爱情的距离",
+                        "desc": "文/枨不戒 她早就应该猜到，婚姻是爱情的毒药。",
+                        "link": "http://m.wufazhuce.com/article/4141?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 我们离爱情的距离",
+                        "desc": "文/枨不戒 她早就应该猜到，婚姻是爱情的毒药。",
+                        "link": "http://m.wufazhuce.com/article/4141?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 我们离爱情的距离》 文/枨不戒： 她早就应该猜到，婚姻是爱情的毒药。 阅读全文：http://m.wufazhuce.com/article/4141?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4141?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我们离爱情的距离",
+                        "desc": "她早就应该猜到，婚姻是爱情的毒药。",
+                        "link": "http://m.wufazhuce.com/article/4141?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19499",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1070",
+                "title": "魔都春梦·第八章·小唐姑娘",
+                "forward": "在那段失火般的岁月里，她的不可捉摸深深吸引着我。",
+                "img_url": "http://image.wufazhuce.com/Ft8R-yNe6iFmloDmyYwW0x3RsrBX",
+                "like_count": 892,
+                "post_date": "2020-01-02 06:00:00",
+                "last_update_date": "2020-04-07 16:56:19",
+                "author": {
+                    "user_id": "4813463",
+                    "user_name": "老王子",
+                    "desc": "小说家，诗人。@新老王子",
+                    "wb_name": "@新老王子",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，诗人。@新老王子",
+                    "fans_total": "5145",
+                    "web_url": "http://image.wufazhuce.com/FgegDExkkeP8izCd3fkGKRwoyKiS"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第8章",
+                "number": "8",
+                "serial_id": "78",
+                "serial_list": [
+                    "1055",
+                    "1059",
+                    "1057",
+                    "1058",
+                    "1060",
+                    "1061",
+                    "1062",
+                    "1070",
+                    "1071",
+                    "1072",
+                    "1073",
+                    "1074",
+                    "1078",
+                    "1079",
+                    "1083",
+                    "1084",
+                    "1085",
+                    "1086",
+                    "1087"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1070",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1070",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1070",
+                    "image": "http://image.wufazhuce.com/Ft8R-yNe6iFmloDmyYwW0x3RsrBX",
+                    "title": "魔都春梦·第八章·小唐姑娘 作者/老王子",
+                    "content": "在那段失火般的岁月里，她的不可捉摸深深吸引着我。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 魔都春梦·第八章·小唐姑娘",
+                        "desc": "文/老王子 在那段失火般的岁月里，她的不可捉摸深深吸引着我。",
+                        "link": "http://m.wufazhuce.com/serial/1070?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 魔都春梦·第八章·小唐姑娘",
+                        "desc": "文/老王子 在那段失火般的岁月里，她的不可捉摸深深吸引着我。",
+                        "link": "http://m.wufazhuce.com/serial/1070?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 魔都春梦·第八章·小唐姑娘》 文/老王子： 在那段失火般的岁月里，她的不可捉摸深深吸引着我。 阅读全文：http://m.wufazhuce.com/serial/1070?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1070?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "魔都春梦·第八章·小唐姑娘",
+                        "desc": "在那段失火般的岁月里，她的不可捉摸深深吸引着我。",
+                        "link": "http://m.wufazhuce.com/serial/1070?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19527",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2712",
+                "title": "如何正确面对恋人的缺点？",
+                "forward": "让别人快乐，叫做情商；让自己快乐，那才是人生。",
+                "img_url": "http://image.wufazhuce.com/Fmjxta2ODwLKpG0kwiwPfMgjv4YO",
+                "like_count": 3723,
+                "post_date": "2020-01-02 06:00:00",
+                "last_update_date": "2020-01-01 18:32:04",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "暮色山河",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2712",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2712",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2712",
+                    "image": "http://image.wufazhuce.com/Fmjxta2ODwLKpG0kwiwPfMgjv4YO",
+                    "title": "如何正确面对恋人的缺点？",
+                    "content": "如何正确面对恋人的缺点？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何正确面对恋人的缺点？",
+                        "desc": "文/文长长 让别人快乐，叫做情商；让自己快乐，那才是人生。",
+                        "link": "http://m.wufazhuce.com/question/2712?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何正确面对恋人的缺点？",
+                        "desc": "文/文长长 让别人快乐，叫做情商；让自己快乐，那才是人生。",
+                        "link": "http://m.wufazhuce.com/question/2712?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何正确面对恋人的缺点？》 文/文长长： 让别人快乐，叫做情商；让自己快乐，那才是人生。 阅读全文：http://m.wufazhuce.com/question/2712?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2712?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何正确面对恋人的缺点？",
+                        "desc": "让别人快乐，叫做情商；让自己快乐，那才是人生。",
+                        "link": "http://m.wufazhuce.com/question/2712?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "19533",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1934",
+                "title": "2020年第2天：仪式已过，认真生活",
+                "forward": "2019，如果爱；2020，请深爱。",
+                "img_url": "http://image.wufazhuce.com/FuC_3NA1OFb59lgIh21losx84mYd",
+                "like_count": 3780,
+                "post_date": "2020-01-02 06:00:00",
+                "last_update_date": "2020-01-02 08:11:09",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "不辣等10人",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "电影中的新年寄语",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4917",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1934",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1934",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1934",
+                    "image": "http://image.wufazhuce.com/FuC_3NA1OFb59lgIh21losx84mYd",
+                    "title": "「一个」电影: 电影中的新年寄语",
+                    "content": "2020年了，度过了跨年夜，度过了新年的第一天，生活似乎又回归正常。狂欢之后，好像什么都没有改变。不是这样的，2019年那些我们看过的电影、剧集，那些我们为之感动的瞬间，一定或多或少地改变了生活的形态。在此，我们准备了10份新年寄语，希望你我都能用去年的观影，来鼓励今年的生活。@笙笙不兮2019关键词：改变2020期望值：回归小确幸年度最佳观影：《昨日的美食》2020，新年寄语：过去的一年，无论人生还是思想都经历了几次改变，常常顾得上这个顾不上那个，渐渐忘记了该怎么爱自己，忘记了一顿美食，一盏灯火，一个彼此懂得的爱人，其实就是幸福最本真的模样。而《昨日的美食》之所以打动人，就是因为那些藏在一蔬一饭中，稀松平常的小确幸。2020年，生活也许还很平淡，但一定也有许多熠熠生辉的点滴瞬间值得铭记。世界千变万化，唯爱与美食不可辜负。@不辣2019关键词：选择困难2020期望值： 舍，得年度最佳观影：《荼靡》2020，新年寄语：2019年，人生迎来了前所未有的重大选择。面对眼前的两个选项，自己到底应该怎么选，结果才会更好？犹豫和徘徊像是永远不会结束的沙漏，翻来覆去。偶然打开《荼靡》才发现原来每一个人都有类似的时刻：害怕选择了A计划，失去想要的爱情；害怕选择了B计划，失去想做的自己。我的慌张，我的错乱，有人懂。而在其中我也才真正领悟了&ldquo;舍得&rdquo;的意义：比起选择了什么，选择了就不再左顾右盼更重要。2020年，记得舍得，不怕不得。@耶律律2019关键词：If love2020期望值：then love年度最佳观影：《教授与疯子》2020，新年寄语：前半年转述，后半年讲述，所做的一切都与故事有关。有人说，世界上有两种人，一种人讲故事，另一种听故事。私以为每个人都在创造故事，如此才被人记住。我一直记得教我拼音的老师，指正我不礼貌的同学。多数人也会记得初次表白的小恋人。《教授与疯子》，正是关于创造故事的故事，翻译成朴素汉语，不失为一段&ldquo;人间佳话&rdquo;。迈纳因病行凶获罪，于高墙里为世人贡献一份礼物。可惜救赎换来&ldquo;错爱&rdquo;，将他再次拽入深渊。在他看来，苦主妻子的亲吻，是宽恕更是惩罚。热泪婆娑时我想，爱本身就是故事。求知路上，众生平等，求爱路上，众生亦平等。2019，如果爱；2020，请深爱。@黄子京2019关键词：努力+努力2020期望值：勇气+运气年度最佳观影：《天才捕手》2020，新年寄语：如果让我用一个词来概括2019年，那一定是努力&mdash;&mdash;努力写作，努力备考，努力成为自己想要成为的人。虽然时常觉得疲惫，但是收获颇多，从某种程度上来说，算是实现了自己一直以来的梦想。前几天闲暇时，我在网上看完了电影《天才捕手》。不论是作家托马斯&middot;沃尔夫对创作的痴迷，还是编辑麦克斯&middot;珀金斯对出版的匠心，都令我感同身受。2020年，希望自己能够拥有直面生活的勇气，以及令人羡慕的运气。也希望所有心怀梦想的人，都能够早日实现自己的愿望。@MENG2019关键词：保留自我2020期望值：创造幸运年度最佳观影：《有熊谷守一在的地方》2020，新年寄语：2019年是发生深刻转变的一年。重新审视自己、他人、每一段关系，回顾生命。然后因此告别了一些朋友，或是主动放弃，或是被动绝交，亦有一些本来可以有的&ldquo;缘分&rdquo;也被我掐断了。我很庆幸自己能做出这样的转变，越来越认定人生是孤独的旅程，同行的人要珍惜，但不必为任何人妥协。看了《有熊谷守一在的地方》，深受感动，画家熊谷守一几乎一辈子没有离开过自家的院子，每天徜徉其中，俯察万物生长、蚂蚁走路，池鱼游泳，云朵变幻。他说，我的院子已经足够大了，何必要去另一个宇宙？世界很小，世界也很大，活着就是一个奇迹。充分沉入内在经验，去探索人生的奇妙。希望2020年，我能继续走孤独而快乐的羊肠小道，创造属于自己的幸运。@浪味地仙2019关键词：撤档2020期望值：如期上映年度最佳观影：《风中有朵雨做的云》2020新年寄语:必须要承认，19年对于华语电影来说无疑是最凶险的一年，尽管有着像《流浪地球》《哪吒魔童》《少年的你》这样的作品大爆，但&ldquo;撤档&rdquo;一词却如隐形锁链般束缚着整个2019。《风雨云》的撤档定档闹得人心惶惶，我却因为头一次在大银幕上看到娄烨的作品而激动不已，而《兰心大剧院》在上映当天的撤档又让人惋惜。我当然知道电影对我的重要性，在百无聊赖又有点灰色的生活里，电影就像一束光，打在了艰难的以后，指引着我继续前行。电影更会帮我们记住，我们和我们的时代，所以新的一年，请大家继续爱电影吧。@蒋霖2019关键词：平淡与闪光2020期望值：不虚度年度最佳观影：《布朗克斯的故事》2020，新年寄语：在下班准备出门的一刹那，2019的最后一天还是并不偶然地被一个电话留在了办公室。真是平淡无奇的一年啊，依然朝九晚五，依然月月还债，每天出门前顾影自怜，镜子里依然是那张平淡无奇的脸。可是，一个人的时候回头瞅一瞅：2019，业余发表小说啦，工作居然升职啦，厨艺居然提高啦。人生最可悲的是什么？在《布朗克斯的故事》中，身为养父的黑帮老大用自己潇洒风光却身不由己的一生告诉男孩C：浪费天才。我辈皆是凡人，虽无天才，却天生我材。不奢望阔步疾行，我只害怕自己没有跬步向前的勇气。2020，愿热情依旧，虽无天才，亦不虚度。@鸭先知2019关键词：找到自己的路2020期望值：走好自己的路年度最佳观影：《面包和汤和猫咪好天气》2020，新年寄语：2019对我而言是尝试的一年，志愿者、实习、写稿、拍摄，尝试的好处是，如果你不知道自己喜欢做什么，至少它可以告诉你你不喜欢做什么。在尝试的过程中，你会遇见形形色色的人，而大多数人都比你更加优秀更加努力。我再也不怀疑努力和成功的正比关系了，那些遥不可及的优秀的人背后所付出的努力，是常人难以想象的。&ldquo;尝试&rdquo;会助人逃离舒适区。如果你迷茫，不妨有目标性地多做些新尝试，也许就找到自己的路了呢？新年愿望是希望自己能够好好沉淀，心无旁骛，因为我已经渐渐找到自己的路啦。@昔央2019关键词：接纳2020期望值：&ldquo;自私&rdquo;年度最佳观影：《外出偷马》2020，新年寄语：刚刚过去的2019年对我而言是至关重要的一年，这种&ldquo;至关重要&rdquo;并不是指&ldquo;我拥有一份多么体面的工作&rdquo;或是&ldquo;挣大钱&rdquo;，而是指：我逐渐成为了一个&ldquo;敢于接纳&rdquo;的人。这一年，我一直在学习接纳&mdash;&mdash;接纳我自己，接纳世界上存在的一切，也逐渐接纳自己的部分人生经历。我开始相信，一切问题都能解决，即使它不能被彻底解决，那也是它找到了属于自己的合理存在的方式。当然了，我也学会了接纳遗憾、错过、执念、欲望跟过去。逐渐懂得接纳，是通往自我和解、自我救赎的第一步&mdash;&mdash;就像《外出偷马》里爸爸对儿子讲的那样，&nbsp;You decide yourself when it hurts.（痛不痛的事，可以由你自己决定。）新的一年，希望可以越活越&ldquo;自私&rdquo;吧。作为一个同理心极强、并隶属于&ldquo;讨好型人格&rdquo;的年轻人，我希望自己能做到：大致善良、拥有适可而止的自私和恰到好处的漠不关心。少在意他人的看法，多尊重自己内心的感受。这样的话，我的生活没准能轻松不少呢。无论如何，人间这一遭，我们就一起开开心心走完吧！@yaoyaoooo2019关键词：扳倒旧我2020期望值：伏笔年度最佳观影：《问题餐厅》&nbsp;2019，特别担心在画画的新轨道上气馁，我与自己约定&ldquo;每日一画&rdquo;更新。满意画出斑⻢线女孩、烤红薯大叔、年末换灯人等等。也耻笑自己偷懒时画过橡皮筋、衣架、梳子、电吹⻛等交差。自我怀疑时，看到《问题餐厅》，被里面形形色色的&ldquo;问题中青年&rdquo;扳倒旧我，破圈相聚开餐厅的故事安慰到了。&nbsp;曾因热切期盼而付出努力，却未⻅成效的事情，但愿都成为2020幸运的伏笔吧！#你的2019年度关键词是什么，对2020年又有着怎样的期望值呢？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 2020年第2天：仪式已过，认真生活",
+                        "desc": "文/不辣等10人 2019，如果爱；2020，请深爱。",
+                        "link": "http://m.wufazhuce.com/movie/1934?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 2020年第2天：仪式已过，认真生活",
+                        "desc": "文/不辣等10人 2019，如果爱；2020，请深爱。",
+                        "link": "http://m.wufazhuce.com/movie/1934?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 2020年第2天：仪式已过，认真生活》 文/不辣等10人： 2019，如果爱；2020，请深爱。 阅读全文：http://m.wufazhuce.com/movie/1934?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1934?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "2020年第2天：仪式已过，认真生活",
+                        "desc": "2019，如果爱；2020，请深爱。",
+                        "link": "http://m.wufazhuce.com/movie/1934?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19500",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3018",
+                "title": "只要有想见的人，就不是孤身一人",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FiFL-vE5y4JLsqET1KkAYSYhIDaO?imageView2/1/w/375/h/240/q/95",
+                "like_count": 2298,
+                "post_date": "2020-01-02 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3018",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3018",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 只要有想见的人，就不是孤身一人",
+                        "desc": "你有想见的人吗？",
+                        "link": "http://m.wufazhuce.com/radio/3018?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvd6WBPtubok3BXuNKuPS8z_hGl4"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 只要有想见的人，就不是孤身一人",
+                        "desc": "你有想见的人吗？",
+                        "link": "http://m.wufazhuce.com/radio/3018?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvd6WBPtubok3BXuNKuPS8z_hGl4"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 只要有想见的人，就不是孤身一人》 主播/李荟莹： 你有想见的人吗？ 阅读全文：http://m.wufazhuce.com/radio/3018?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3018?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lvd6WBPtubok3BXuNKuPS8z_hGl4"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "只要有想见的人，就不是孤身一人",
+                        "link": "http://m.wufazhuce.com/radio/3018?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvd6WBPtubok3BXuNKuPS8z_hGl4"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 755 期",
+                "audio_url": "http://music.wufazhuce.com/lvd6WBPtubok3BXuNKuPS8z_hGl4"
+            }
+        ],
+        "menu": {
+            "vol": "2644",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4141",
+                    "title": "我们离爱情的距离"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1070",
+                    "serial_list": [
+                        "1055",
+                        "1059",
+                        "1057",
+                        "1058",
+                        "1060",
+                        "1061",
+                        "1062",
+                        "1070",
+                        "1071",
+                        "1072",
+                        "1073",
+                        "1074",
+                        "1078",
+                        "1079",
+                        "1083",
+                        "1084",
+                        "1085",
+                        "1086",
+                        "1087"
+                    ],
+                    "title": "魔都春梦·第八章·小唐姑娘"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2712",
+                    "title": "如何正确面对恋人的缺点？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1934",
+                    "title": "2020年第2天：仪式已过，认真生活"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3018",
+                    "title": "只要有想见的人，就不是孤身一人"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

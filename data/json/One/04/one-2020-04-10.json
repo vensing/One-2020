@@ -1,0 +1,612 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5465",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-04-10 06:00:00",
+        "content_list": [
+            {
+                "id": "20127",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2783",
+                "title": "摄影",
+                "forward": "让别人快乐，叫做情商；让自己快乐，那才是人生。",
+                "img_url": "http://image.wufazhuce.com/FpHlgLcfGvhKMoqqecnDhdVDJ7GS",
+                "like_count": 24283,
+                "post_date": "2020-04-10 06:00:00",
+                "last_update_date": "2020-04-02 10:46:13",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2743",
+                "pic_info": "Chris Barbalis",
+                "words_info": "文长长",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2783",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2783",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2783",
+                    "image": "http://image.wufazhuce.com/FpHlgLcfGvhKMoqqecnDhdVDJ7GS",
+                    "title": "VOL.2743",
+                    "content": "让别人快乐，叫做情商；让自己快乐，那才是人生。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2783?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2783?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 让别人快乐，叫做情商；让自己快乐，那才是人生。——文长长 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2783?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2783?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20151",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4269",
+                "title": "再去南方",
+                "forward": "那晚我们在海边坐了很久，西瓜妹说，我觉得大海就是我的第二故乡。",
+                "img_url": "http://image.wufazhuce.com/FjY4GoVjHMaGVOs_x_WcJ82ZIypJ",
+                "like_count": 2198,
+                "post_date": "2020-04-10 06:00:00",
+                "last_update_date": "2020-04-10 06:14:21",
+                "author": {
+                    "user_id": "10244046",
+                    "user_name": "无支祁",
+                    "desc": "一个苏北人。",
+                    "wb_name": "@Hs无支祁",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个苏北人。",
+                    "fans_total": "4027",
+                    "web_url": "http://image.wufazhuce.com/Fj-LWuxxisWaGG3WCVC_kmIpmyVE"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4269",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4269",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4269",
+                    "image": "http://image.wufazhuce.com/FjY4GoVjHMaGVOs_x_WcJ82ZIypJ",
+                    "title": "再去南方 作者/无支祁",
+                    "content": "爱情和不爱却都在我脚步停下的刹那降临。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 再去南方",
+                        "desc": "文/无支祁 爱情和不爱却都在我脚步停下的刹那降临。",
+                        "link": "http://m.wufazhuce.com/article/4269?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 再去南方",
+                        "desc": "文/无支祁 爱情和不爱却都在我脚步停下的刹那降临。",
+                        "link": "http://m.wufazhuce.com/article/4269?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 再去南方》 文/无支祁： 爱情和不爱却都在我脚步停下的刹那降临。 阅读全文：http://m.wufazhuce.com/article/4269?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4269?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "再去南方",
+                        "desc": "爱情和不爱却都在我脚步停下的刹那降临。",
+                        "link": "http://m.wufazhuce.com/article/4269?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20155",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4271",
+                "title": "偶尔焦虑，偶尔热爱生活",
+                "forward": "活着是为了活着，人间终究是值得。",
+                "img_url": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                "like_count": 2840,
+                "post_date": "2020-04-10 06:00:00",
+                "last_update_date": "2020-04-14 13:23:41",
+                "author": {
+                    "user_id": "11185651",
+                    "user_name": "颗馨等五位",
+                    "desc": "既然不再假装自己不是多愁善感的诗人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "做最积极的悲观主义者。",
+                    "fans_total": "885",
+                    "web_url": "http://image.wufazhuce.com/Fj65EDdIoR9aUxJnUlYaqjaKWF55"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4271",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4271",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4271",
+                    "image": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                    "title": "偶尔焦虑，偶尔热爱生活 作者/颗馨、张拉灯、梅头脑、柒斐、曲尚",
+                    "content": "活着是为了活着，人间终究是值得。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 偶尔焦虑，偶尔热爱生活",
+                        "desc": "文/张拉灯等五位 活着是为了活着，人间终究是值得。",
+                        "link": "http://m.wufazhuce.com/article/4271?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 偶尔焦虑，偶尔热爱生活",
+                        "desc": "文/张拉灯等五位 活着是为了活着，人间终究是值得。",
+                        "link": "http://m.wufazhuce.com/article/4271?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 偶尔焦虑，偶尔热爱生活》 文/张拉灯等五位： 活着是为了活着，人间终究是值得。 阅读全文：http://m.wufazhuce.com/article/4271?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4271?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "偶尔焦虑，偶尔热爱生活",
+                        "desc": "活着是为了活着，人间终究是值得。",
+                        "link": "http://m.wufazhuce.com/article/4271?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "20110",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1154",
+                "title": "恶女阿尤·第十二章：舆论杀人",
+                "forward": "用错误的方法去做对的事，究竟是对还是错呢？",
+                "img_url": "http://image.wufazhuce.com/FuWm2aUojqqcxK6Eb_y5JNUmFVp-",
+                "like_count": 771,
+                "post_date": "2020-04-10 06:00:00",
+                "last_update_date": "2020-04-07 16:49:29",
+                "author": {
+                    "user_id": "11135365",
+                    "user_name": "咸良",
+                    "desc": "91年生，看片多，读书少，热爱电影和足球，不打游戏不喝酒。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说新人，正尝试电影剧本创作。",
+                    "fans_total": "588",
+                    "web_url": "http://image.wufazhuce.com/FofYp0HTuyFcGlfuBP_qS85X81GI"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第12章",
+                "number": "12",
+                "serial_id": "81",
+                "serial_list": [
+                    "1131",
+                    "1133",
+                    "1135",
+                    "1138",
+                    "1139",
+                    "1142",
+                    "1144",
+                    "1146",
+                    "1148",
+                    "1150",
+                    "1151",
+                    "1154",
+                    "1156",
+                    "1158"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1154",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1154",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1154",
+                    "image": "http://image.wufazhuce.com/FuWm2aUojqqcxK6Eb_y5JNUmFVp-",
+                    "title": "恶女阿尤·第十二章：舆论杀人 作者/咸良",
+                    "content": "用错误的方法去做对的事，究竟是对还是错呢？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 恶女阿尤·第十二章：舆论杀人",
+                        "desc": "文/咸良 用错误的方法去做对的事，究竟是对还是错呢？",
+                        "link": "http://m.wufazhuce.com/serial/1154?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 恶女阿尤·第十二章：舆论杀人",
+                        "desc": "文/咸良 用错误的方法去做对的事，究竟是对还是错呢？",
+                        "link": "http://m.wufazhuce.com/serial/1154?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 恶女阿尤·第十二章：舆论杀人》 文/咸良： 用错误的方法去做对的事，究竟是对还是错呢？ 阅读全文：http://m.wufazhuce.com/serial/1154?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1154?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "恶女阿尤·第十二章：舆论杀人",
+                        "desc": "用错误的方法去做对的事，究竟是对还是错呢？",
+                        "link": "http://m.wufazhuce.com/serial/1154?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20149",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2812",
+                "title": "如何谈一场高质量恋爱？",
+                "forward": "坚持这种真诚，那么总归能遇到良人。",
+                "img_url": "http://image.wufazhuce.com/Fl1sfAllt5pQmROZdhgZywbwrIGH",
+                "like_count": 3697,
+                "post_date": "2020-04-10 06:00:00",
+                "last_update_date": "2020-04-14 17:52:47",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "橙子佳",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2812",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2812",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2812",
+                    "image": "http://image.wufazhuce.com/Fl1sfAllt5pQmROZdhgZywbwrIGH",
+                    "title": "如何谈一场高质量恋爱？",
+                    "content": "如何谈一场高质量恋爱？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何谈一场高质量恋爱？",
+                        "desc": "文/陈大力 恋爱有什么规律？",
+                        "link": "http://m.wufazhuce.com/question/2812?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何谈一场高质量恋爱？",
+                        "desc": "文/陈大力 恋爱有什么规律？",
+                        "link": "http://m.wufazhuce.com/question/2812?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何谈一场高质量恋爱？》 文/陈大力： 恋爱有什么规律？ 阅读全文：http://m.wufazhuce.com/question/2812?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2812?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何谈一场高质量恋爱？",
+                        "desc": "恋爱有什么规律？",
+                        "link": "http://m.wufazhuce.com/question/2812?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "7989297",
+                    "user_name": "陈大力",
+                    "desc": "陈大力，95后新锐作者，无敌大长腿，钻石少女心。公众号：陈大力（ID:chendali1995）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "95后新锐作者，无敌大长腿，钻石少女心。",
+                    "fans_total": "9855",
+                    "web_url": "http://image.wufazhuce.com/Fm7qZ68h0XjMceY1WWp7-ykCX29R"
+                }
+            },
+            {
+                "id": "20096",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3234",
+                "title": "你走了也好，不然总担心你会离开",
+                "forward": "这次，我真的把你从我的列表中删除，我们连好友都不算。",
+                "img_url": "http://image.wufazhuce.com/FpicPdxA2-CFwvVLanrG5QUebMfE",
+                "like_count": 2422,
+                "post_date": "2020-04-10 06:00:00",
+                "last_update_date": "2020-04-09 22:44:13",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lgQXgxtQzfQN3-wYtOtRfCS5GIMB",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "互删",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3234",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3234",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3234",
+                    "image": "http://image.wufazhuce.com/FpicPdxA2-CFwvVLanrG5QUebMfE",
+                    "title": "「一个」音乐: 鹿西兮 互删",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.鸟鸣，樱花，春风，阳光，这些久违的词语循环萦绕在心头。清晨走出家门，走在阳光下，仿佛与这个世界重新和好。自从你离开，我很少出门，很少拉开窗帘，总是一个人吃着外卖，偶尔尝试做饭，大多以失败告终。买了若干多肉植物和铜钱草，放在阳台窗边，精心培养，不久还是枯萎。&nbsp;我的日子里没有了你，仿佛一切都化作灰色，失去活力。&nbsp;我不知道什么时候才能好起来，只能任由时间这样流逝。他们一直告诉我，你要出去走走，不要把旧爱放心上。他们说，要尝试着开始新的生活，开始一段新的恋情。他们说，有些人注定成为遗憾，所以你要学会看开。&nbsp;我知道，春分过后，就是清明，然后谷雨，走向立夏，一切都会蓬勃生长。我也知道，是我亲手把你推开的，所以失恋这一招苦涩，总要统统尝一遍。这些道理我都懂，可就是做不到。你走之后，我很快搬去城市的另一边，一个远离你的地方，好像这样就能不再想起你。但我搬走后才明白，你是留在心上的，而不是那间房子。所以我无论逃到哪里，都逃不过你。也就是那次整理东西的时候，我才发现，夏天穿过的漂亮裙子是你买的，背的包包是你买的，还有手表，耳钉，用了一半的口红，压在角落的围巾，往年的生日礼物，床上超大的可爱熊，就连我电脑上的贴纸，也是你当初买来亲自给我贴上的。生活的边边角角，都是你的影子，让我无处躲藏，只能一遍遍怀念。而你走的时候，我记得明明你已经把东西全部带走了。那天早晨，最后一次去楼下买煎饼果子。那个奶奶突然问我，&ldquo;经常跟你一起过来的那个小伙子，怎么好久不见啦？&rdquo;我说，&ldquo;我们分开了。&rdquo;奶奶又说，&ldquo;好可惜啊，看你们很般配。&rdquo;原来在别人眼里，我们是般配的。但为什么当初在一起的时候，我会经常觉得，我好像不够优秀，不足以站在你身边。又或者怀疑，你根本没有那么爱我。哪怕身边走过一个漂亮的女孩子，你多看她一眼，我都会觉得，是因为我没有她好看。于是我一遍遍向你求证，搜集你爱我的证据，一次次任性的为了要一个答案，忽略你的感受，让你为难。又一次次向你索取爱的同时，想要侵占你所有的温柔和耐心，不经意间用尽了刁钻做作的手段。直到最后一次，我不依不饶地质问你是不是喜欢那个女同事。你一遍遍解释你对我的爱和忠诚，一次次压着火气不与我吵得太凶。晚上，你拿着一个哆啦A梦玩偶过来哄我。跟我解释那个女同事深夜发来的消息，只是因为工作上的一个失误，害你挨骂，觉得心里过意不去，跟你道歉。你承诺以后会保持安全距离，再也不会让我吃醋。我还是不理你，因为这些说辞，你以前也跟我说过。我让你辞职，离开那家公司。你问我，是不是特别不信任你。我说是。你说，越来越不懂我，好像怎样努力，都给不了我想要的。我们分开冷静一下吧。&nbsp;以前，先说分开的那个人都是我。但这次，你头也不回地走了。&nbsp;你说，总是死缠烂打，会让人生厌的，还是自己主动离开吧。&nbsp;2.妈妈上午来过一趟，带来新鲜蔬菜和水果，还有酸奶和零食，把冰箱塞得满满当当。她一边嫌弃着袜子不能堆在一起，要及时洗，一边又要开窗通风，嫌弃桌子太凌乱，会影响心情。&nbsp;我不走心地答应着，低头在沙发上玩手机。终于，妈妈拿起一个苹果递过来，装作不经意地问起了你。&ldquo;妈，我们的事你别管了。&rdquo;&ldquo;我不就是问问嘛，你急什么？&rdquo;&nbsp;妈妈叮嘱了几句，吃过午饭后很快离开。我看见妈妈把床下的柜子整理了，一个白色的小盒子，此刻被挪到墙角。&nbsp;我隐约记得这个盒子是你很久之前带回来的，打开看，里面装着一个日记本，还有一个情侣手机壳，是我们确定关系后，我送你的第一件礼物。而我的那个，后来因为弄脏，就被我丢掉了。打开日记本，是你的字迹，仔细记录着我们在一起的点点滴滴。从第一次因为工作的关系见面，互加微信，然后是连续一个月工作上的密切往来。你说那时候就已经被我吸引，跟我一起工作，能明显感觉到我是个有主见的女孩，知道自己想要什么，而你做不到。果不其然，就算工作结束，我们还是频繁的聊天，有时聊到深夜，分享喜欢的音乐，最近看的电影。晚上吃饭的时候总会把食物拍得美美的发给对方，这渐渐的成为一种习惯。我记得有次去见一个客户，结束的时候已经很晚了，外面还下起了雨。我打开手机准备打车，却看见你发来的十几条消息，问我吃饭了没有为什么没有发来照片，问我此刻在哪里，外面下雨了有没有带伞，要不要去接我下班。那我是来到这个城市后，第一次感受到被人关心的感觉。&nbsp;你让我在原地别动，打车给我送来雨伞，我们去附近的店里吃了热腾腾的米线，然后一起搭地铁，你先送我回家，看我走上楼去，才离开。但那次之后，我们的关系好像并没有什么进展。一如往常，到时间发食物的照片，聊一些乱七八糟的事情，不过问各自的工作和生活。你是个能给人安全感的男孩，也懂得给对方留下足够的空间。但我没有好好珍惜你的每份用心。原来自始至终，不是你不够慷慨，是我心不在焉。&nbsp;3.刮风，下雨，叶落，飘雪。不管怎样的状态，就算是偶尔向窗外望上一眼，路上走走停停，还是会想起你在的日子。嘴上说着放下了，要继续往前走，心里却依旧下着雨。前一阵浏览某个网站的时候，看到一个关于情感的心理学测试，点进去做题，结果是：因为你总会患得患失，不懂怎样爱一个人。&nbsp;我好像，真的不知道应该怎样爱你。当初，心动了，藏不住了，就决定跟你表白。你问我是不是三分钟热度，我摇摇头，却忘了聊天框那边的你根本看不见。但你很快又发来消息说，没关系，不管怎样，你先撤回，让我来先说喜欢吧。但&ldquo;我喜欢你&rdquo;已经超过两分钟，撤不回了。于是我就带着这撤不回的喜欢，和你开始了新的生活。我是个自尊心很强的人，对工作有严格的要求，对爱情也有童话般的设想。我喜欢浪漫，喜欢生活中每时每刻散发着小情趣，但你是个不会轻易流露感情的人。很多时候，就算面对面坐着，我也很难知道你在想什么。你说，此生说过最直白的话，就是在我的逼迫之下磕磕绊绊说出&ldquo;我爱你&rdquo;。&nbsp;而我，又总是那么迫切的想要你的承诺。我承认，后来，在一点一滴的小事上，我能感受到你的真诚，但你知道吗，这个世界上的有些爱，还是需要表达的。晚安说多了或许廉价，情话翻来覆去也会失去新鲜感。但我还是希望，你能在一个阳光明媚的早晨，睡意朦胧地说一句，有你真好。&nbsp;起初，你偶尔羞涩的表达会让我心动，但时间久了，生活中充满压力，柴米油盐的开销要精打细算。我们跟对方说的话，不再是今晚月亮很美，喜欢的歌手出了新曲，周末去看新上映的电影吧。而是，吃饭了吗，我加班你自己睡吧。后来，连这些话都省了，我给你发的消息，你大多时候只是回一个表情包。生日的时候，节日的时候，你依旧会送我小礼物，我们也还会手牵手逛街，但我们的心好像渐行渐远。我时常想起&ldquo;合久必分&rdquo;这个词，想着，或许我们也逃不过这宿命。于是那晚加班到深夜，我索性没有回家，你发来消息问我何时回去。&nbsp;我没有回答，反而问你，如果有一天我走了，你会像马达找牡丹那样找我吗？过了许久，你发来消息问，马达是谁，牡丹又是谁？你不要管这些，就先回答我的问题嘛。当然会。你撒谎。&nbsp;4.那次，我提了分手。你问我要一个理由，我说，你连我最喜欢的电影《苏州河》都没看过。你问我是不是在开玩笑。我说，我对你没感觉了，我觉得我们现在的日子，一眼就能看到头。&nbsp;聊天界面，止于我绝情的最后一句话。我突然就慌了，怕你真的同意，就这样被我推开。我迅速打上，&ldquo;我数到三你要再不说话，我们互删好友再也不见&rdquo;，犹豫着要不要发送的时候，你的消息来了。&ldquo;是我最近工作太忙，忘了你的感受。我去接你回家吧。&rdquo;那也是最后一次，你挽留我。那也是最后一次，你包容我的任性。&nbsp;5.下午三点整。阳光斜斜射进房间，映在墙上斑驳的光影。躺在床上不动，光也不移动，眼神却逐渐涣散。刚刚我们共同的朋友发来消息，说看到朋友圈里你发了另一个女孩的照片。&nbsp;我马上去看，却发现，我已经不是你的好友。我不愿相信，发去消息，像之前的每一次，给你三秒钟时间回来找我。但这次，显示的是一个红色的叹号。&nbsp;我真的，亲手把你推开了。你也真的，遵守了我之前跟你说过的话，如果不在一起了，就互删吧，以后也别再见了。&nbsp;我看着与你的聊天记录，从最近空白的几个月往上翻，隔几天发一次消息到最开始的每日问候。&nbsp;如果现实可以像翻聊天记录这样简单，那现在的我，愿意翻回去无数次找回你。&nbsp;而爱情，好像也蛮像这个过程的。当初在一起，就像添加好友的时候需要两个人同意。而分开，只需要一个人不爱了，如删除好友，只需要一方操作。我看着止于过去的聊天记录，不停掉眼泪，最终下定决心，按下删除键。这次，我真的把你从我的列表中删除，我们连好友都不算了。如今，我的未来，就从忍住不再想你开始吧。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你走了也好，不然总担心你会离开",
+                        "desc": "文/鹿西兮 我的未来，就从忍住不再想你开始吧。",
+                        "link": "http://m.wufazhuce.com/music/3234?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你走了也好，不然总担心你会离开",
+                        "desc": "文/鹿西兮 我的未来，就从忍住不再想你开始吧。",
+                        "link": "http://m.wufazhuce.com/music/3234?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你走了也好，不然总担心你会离开》 文/鹿西兮： 我的未来，就从忍住不再想你开始吧。 阅读全文：http://m.wufazhuce.com/music/3234?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3234?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你走了也好，不然总担心你会离开",
+                        "desc": "我的未来，就从忍住不再想你开始吧。",
+                        "link": "http://m.wufazhuce.com/music/3234?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "互删",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "李浩宇",
+                "audio_album": "互删",
+                "cover": "http://image.wufazhuce.com/FoS4_99y6xgo8kNEiEz5taIHPD6E",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2743",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4269",
+                    "title": "再去南方"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4271",
+                    "title": "偶尔焦虑，偶尔热爱生活",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1154",
+                    "serial_list": [
+                        "1131",
+                        "1133",
+                        "1135",
+                        "1138",
+                        "1139",
+                        "1142",
+                        "1144",
+                        "1146",
+                        "1148",
+                        "1150",
+                        "1151",
+                        "1154",
+                        "1156",
+                        "1158"
+                    ],
+                    "title": "恶女阿尤·第十二章：舆论杀人"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2812",
+                    "title": "如何谈一场高质量恋爱？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3234",
+                    "title": "你走了也好，不然总担心你会离开"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

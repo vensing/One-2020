@@ -1,0 +1,510 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5673",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-11-07 06:00:00",
+        "content_list": [
+            {
+                "id": "21383",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2996",
+                "title": "摄影",
+                "forward": "旅行或者徒步的意义，也许就是绕过你那些既定的生活，不停地成为这个世界的陌生人。",
+                "img_url": "http://image.wufazhuce.com/FmSR3-RPo8yNkhUEVCoM1XWHdPbe",
+                "like_count": 13514,
+                "post_date": "2020-11-07 06:00:00",
+                "last_update_date": "2020-11-02 13:13:19",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2954",
+                "pic_info": "Ian Stauffer",
+                "words_info": "赵挺",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2996",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2996",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2996",
+                    "image": "http://image.wufazhuce.com/FmSR3-RPo8yNkhUEVCoM1XWHdPbe",
+                    "title": "VOL.2954",
+                    "content": "旅行或者徒步的意义，也许就是绕过你那些既定的生活，不停地成为这个世界的陌生人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2996?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2996?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 旅行或者徒步的意义，也许就是绕过你那些既定的生活，不停地成为这个世界的陌生人。——赵挺 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2996?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2996?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "1"
+            },
+            {
+                "id": "21404",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4504",
+                "title": "火烈鸟",
+                "forward": "我以为游戏已经结束了。不，我们的游戏才刚开始。",
+                "img_url": "http://image.wufazhuce.com/FrUnQeSOmp0FxFlDCTQ2m9kWTaBI",
+                "like_count": 1768,
+                "post_date": "2020-11-07 06:00:00",
+                "last_update_date": "2020-11-06 12:07:27",
+                "author": {
+                    "user_id": "4814715",
+                    "user_name": "孔龙",
+                    "desc": "警察，青年写作者，微信公众号：孔龙故事。",
+                    "wb_name": "@孔龙loong ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "警察，青年写作者，微信公众号：孔龙故事。",
+                    "fans_total": "2784",
+                    "web_url": "http://image.wufazhuce.com/FnokT0hC0BMJZeD_PahCmDUJ0Tm9"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4504",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4504",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4504",
+                    "image": "http://image.wufazhuce.com/FrUnQeSOmp0FxFlDCTQ2m9kWTaBI",
+                    "title": "火烈鸟 作者/孔龙",
+                    "content": "下次，就是永远没有下次。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 火烈鸟",
+                        "desc": "文/孔龙 下次，就是永远没有下次。",
+                        "link": "http://m.wufazhuce.com/article/4504?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 火烈鸟",
+                        "desc": "文/孔龙 下次，就是永远没有下次。",
+                        "link": "http://m.wufazhuce.com/article/4504?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 火烈鸟》 文/孔龙： 下次，就是永远没有下次。 阅读全文：http://m.wufazhuce.com/article/4504?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4504?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "火烈鸟",
+                        "desc": "下次，就是永远没有下次。",
+                        "link": "http://m.wufazhuce.com/article/4504?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21305",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1326",
+                "title": "制作人们·第十三章：艺人与艺统",
+                "forward": "你是想把事情搞多大，让整个导演组道歉，逼艺统下跪，明天我们就上热搜了。你大不了换个艺人照样活，我找谁哭去。",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 657,
+                "post_date": "2020-11-07 06:00:00",
+                "last_update_date": "2020-10-16 15:17:35",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第13章",
+                "number": "13",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1326",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1326",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1326",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第十三章：艺人与艺统 作者/鳄鱼姐",
+                    "content": "让整个导演组道歉，逼艺统下跪，明天我们就上热搜了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第十三章：艺人与艺统",
+                        "desc": "文/鳄鱼姐 让整个导演组道歉，逼艺统下跪，明天我们就上热搜了。",
+                        "link": "http://m.wufazhuce.com/serial/1326?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第十三章：艺人与艺统",
+                        "desc": "文/鳄鱼姐 让整个导演组道歉，逼艺统下跪，明天我们就上热搜了。",
+                        "link": "http://m.wufazhuce.com/serial/1326?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第十三章：艺人与艺统》 文/鳄鱼姐： 让整个导演组道歉，逼艺统下跪，明天我们就上热搜了。 阅读全文：http://m.wufazhuce.com/serial/1326?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1326?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第十三章：艺人与艺统",
+                        "desc": "让整个导演组道歉，逼艺统下跪，明天我们就上热搜了。",
+                        "link": "http://m.wufazhuce.com/serial/1326?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21395",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3029",
+                "title": "近期最让你感动的一件事是什么？",
+                "forward": "生活虽然平平淡淡，但我有在努力生活。",
+                "img_url": "http://image.wufazhuce.com/FrdB4DeqCJ2u_C-QhY4OWwNJczyj",
+                "like_count": 2318,
+                "post_date": "2020-11-07 06:00:00",
+                "last_update_date": "2020-11-06 14:39:24",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE·一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3029",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3029",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3029",
+                    "image": "http://image.wufazhuce.com/FrdB4DeqCJ2u_C-QhY4OWwNJczyj",
+                    "title": "近期最让你感动的一件事是什么？",
+                    "content": "近期最让你感动的一件事是什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 近期最让你感动的一件事是什么？",
+                        "desc": "文/网友 她说她爱我，我感受到了自己的存在。",
+                        "link": "http://m.wufazhuce.com/question/3029?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 近期最让你感动的一件事是什么？",
+                        "desc": "文/网友 她说她爱我，我感受到了自己的存在。",
+                        "link": "http://m.wufazhuce.com/question/3029?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 近期最让你感动的一件事是什么？》 文/网友： 她说她爱我，我感受到了自己的存在。 阅读全文：http://m.wufazhuce.com/question/3029?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3029?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "近期最让你感动的一件事是什么？",
+                        "desc": "她说她爱我，我感受到了自己的存在。",
+                        "link": "http://m.wufazhuce.com/question/3029?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "21399",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2074",
+                "title": "咚咚咚，冬天来敲门了",
+                "forward": "今天立冬，电影配饺子食用更佳。",
+                "img_url": "http://image.wufazhuce.com/Fm1fhQ0z-ZKwU0xncjWVYQibZoA8",
+                "like_count": 2135,
+                "post_date": "2020-11-07 06:00:00",
+                "last_update_date": "2020-11-06 17:11:31",
+                "author": {
+                    "user_id": "8066600",
+                    "user_name": "不辣",
+                    "desc": "出生农村，留学英国，常居江南。曾经，热血业余边缘传媒人；如今，想专注插秧却恨家中无田，无奈投入自由写作。已出版个人长篇小说《梦》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年写作者",
+                    "fans_total": "10220",
+                    "web_url": "http://image.wufazhuce.com/FnjumacrXEQE8yHDGVGSSBydNzuA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "立冬的片单",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5057",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2074",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2074",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2074",
+                    "image": "http://image.wufazhuce.com/Fm1fhQ0z-ZKwU0xncjWVYQibZoA8",
+                    "title": "「一个」电影: 立冬的片单",
+                    "content": "四季总在不经意间飞速流转，错过了漫天纷飞的樱花，却赶上了第一场暴雨。不小心在电闪雷鸣的雨夜入梦，醒来时竟已满地落叶。犹豫着，要不要酿一瓶桂花酒，结果，只来得及做一筐冻萝卜。对时间的流逝，人是敏感，敏感在对季节的感知和敬畏。闭眼祈祷着秋天别来，睁眼却恍觉冬已如期而至。还没来得及放下旧爱，还没来得及邂逅新欢，还没来得及好好恋爱，还没来得及适应独处。雪就这样毫无缘由地落得漫山遍野，融化在心尖，像是一封封来自天空的情书，把所有暗涌，所有心动，都藏在这纯白色的寒冷中。&nbsp;一.&ldquo;喂，你好吗？我很好！&rdquo;&mdash;&mdash;《情书》岩井俊二一次山难，一场意外，让博子永远失去了她的爱人藤井树。陷入在巨大悲怆和伤感，博子久久无法释怀，无法开启新的生活。偶然的机会，她翻到了藤井树的毕业纪念册，发现了藤井树少年时期的家中住址。抱着偏执而不切实际的念想，博子开始往这个地址写信，信的内容是：&ldquo;你好吗？我很好。&rdquo;这是博子写给天国藤井树的信，明知这是一件没有结果的事，但这样做，至少让她能消解些心里的不舍和难过。或许是天意弄人，又或许是命中注定。博子的信，寄到了同名同姓的女孩藤井树手里。令人意外的是，少女藤井树和少年藤井树曾是同班同学。在博子的央求下，女孩藤井树写下了所有她回忆中关于少年藤井树的一切。也是在一封封的回信中，女孩藤井树才后知后觉，原来在她的青春里少年藤井树曾那般深情地路过，而自己却浑然未觉。所有能表达的感情，都是肤浅的。倚在图书馆窗前看书的少年藤井树把对少女藤井树的感情，全部藏在了小樽漫天飞舞的大雪里，柔软而清冽，隐忍而辽远。他借遍了图书馆的那些没人会读的书，只为一次次写下和她相同的名字；他趁着骑车同路，用口袋套住她的头以示亲近。初雪时，他鼓足勇气敲了她的门，请求她帮忙还书。只可惜，很多年后，少年藤井树去世后，女孩藤井树才翻看到了《追忆似水年华》借书卡的背面。导演侯孝贤说，不是那些时光最美而是这些时光已经永远失去了，只能用回忆来招回，所以，它是最美好的。爱情也是，最美的模样是当它只凝固在回忆中，任其过去无法追回。就像再大的雪，总会融化，但那个打开窗满眼皑皑的清晨会被我们记得很久很久。如果得到，是失去的开始。那么失去，也是拥有回忆的开始。这么一想，好像遗憾也没那么遗憾了。&nbsp;二.&ldquo;如果爱，就忘了&rdquo;&mdash;&mdash;《如果&middot;爱》陈可辛&nbsp;你说，爱情简单吗？很简单，不过就是一对年轻恋人，在一个晴朗的午后，蓝天白云下，相互依偎坐在一片绿色的草地上。所以，爱情一点儿也不复杂？不，它也很复杂。这就是爱情，既能一眼看透，却又琢磨不透。或许正因为爱情的多变和不可参透，陈可辛导演不得不煞费苦心，不惜血本用最华丽最浪漫最有挑战的歌舞剧形式，来讲这一段看似无聊寡淡却又心头一沉的三角恋爱。在色彩绚烂的画面里，在不落痕迹的蒙太奇里，在冷静而克制的构图中，这场纠葛的爱情就这样简单又不经意地发生了。寒冷的冬天，一心想在北京闯事业的孙纳因为一碗剩面结识了导演系在读的落魄学生林见东。异乡的孤独冰冷，让他们自然地拥抱在一起。但再充盈的爱都挡不住现实如尖针，面对&ldquo;爱与面包&rdquo;的选择题，孙纳选了后者。她利用林见东，得到了一个电影角色，走上了明星之路。十年后，因为一部讲三角恋的爱情电影，孙纳和林见东重逢了。此时不同彼时，曾经潦倒的林见东成了一名演员，孙纳也成了名导演聂文的情人，旧人相见却已不相识。正如记者采访孙纳时，她说的那样：&ldquo;往事唯一的价值，就是让我们不要回忆过去。&rdquo;只是，如果过去可以轻易放手，回忆可以简单忘记，也就不会有&ldquo;戏中戏&rdquo;的真情流露与惆然伤感。机缘巧合，孙纳、林见东和聂文同演了这部三角恋电影。戏里的小雨、张扬和班主，戏外的他们，三个人既纠葛在角色的爱恨情仇里，又各自挣扎在戏外的背叛和名利中，亦真亦戏。要问十年前的孙纳，爱过林见东吗？十年后的她，又真的爱聂文吗？或许爱过吧，又或许只是打着爱的名义干尽坏事。所谓爱人，也不过是利用完，便能随手丢掉。林见东也想和孙纳一般冷酷洒脱、潇洒绝情，但他做不到。孙纳离开后，他一直被困在了过去，睡不着，忘不掉，被痛苦包围。因爱生恨，他要报复。十年后再见孙纳，林见东与她缠绵一夜，醒来却又告诉她&ldquo;一切都是假的&rdquo;，只剩躺在床边的孙纳听着那盘磁带，无悲无喜。爱情是生活的必须吗？如果没有爱情，生活还能继续吗？孙纳的回答是，爱情不过一个片段，可有可无，到最后最爱自己的人只有自己。&nbsp;三.&ldquo;我记不起其他没有你的地方&rdquo;&mdash;&mdash;《暖暖内含光》米歇尔&middot;贡德里蒙太克冬季的海滩，寒冷又刺骨。恍惚中，乔伊搭上火车来到这里，再次与克莱相遇了。这是故事的开始，也是故事的结局。在这个现实科幻的爱情里，爱似乎成了一个闭环，相爱的两个人无论经历过多少次争吵、多少次分手、多少次记忆的删除，依然会宿命般地一次次相遇、相爱。爱是命中注定的纠缠，也是心甘情愿的折磨。爱情的化学反应总是类似，当沉闷无聊的乔伊遇上热情奔放的克莱，一拍即合的两个人不可自我得迅速坠入爱河。但，快乐甜蜜的时光总是短暂。不久之后，两人的关系变得越来越糟糕，无法调和的矛盾让冲动的克莱来到了&ldquo;空白有限公司&rdquo;。突然有一天，乔伊发现自己的女朋友完全变成了一个陌生人。因为，克莱在记忆中已抹去了关于乔伊的一切。于是，愤怒的乔伊，也决定做&ldquo;记忆格式化&rdquo;的手术。手术中，按着从近到远的时间顺序，乔伊记忆中与克莱有关的往事一件件被删除。看着往事重现中的快乐时光从眼前闪过，乔伊竟后悔了，试图中断手术。他带着克莱藏到机器无法发现的记忆深处，想逃过被删除的命运。只是无论怎么藏，乔伊都找不到记忆里没有克莱的地方。乔伊的计划没有成功，手术结束，他记忆中关于克莱的一切都消失了。醒来的乔伊，只记得克莱的那句&ldquo;记得到蒙太克来找我。&rdquo;或许这就是爱情的困境，纵使分别再决绝，回忆再不堪，如果有重新来过的机会，相爱的人还是会一次次奋不顾身地扎进去，一遍又一遍循环着甜蜜与苦涩。人是可以逃离悲伤的，但终究究逃不过被爱困住。&nbsp;四.&ldquo;心一旦碎了，就永远一直会碎着&rdquo;&mdash;&mdash;《海边的曼彻斯特》肯尼思&middot;洛纳根波士顿的冬天，雪总是积得很厚。来到这里之前，李拥有过幸福的家庭和快乐的时光，一个美丽漂亮的老婆和三个可爱的孩子。但当冷峻的镜头再次对准他的时候，李只是一个在波士顿拿着微薄工资颓废压抑的修理工。大多数时候，他面无表情、沉默寡言，似乎总陷入在一种无法摆脱的痛苦情绪中。偶尔遇上愤怒的人和事，他喜欢用暴力和拳头解决问题。曼彻斯特是美国东部的一个海边小城，距离波士顿20多公里，这是李的故乡。李再次回到这里，不是自愿，而是被迫回来处理哥哥的后事。人对留下伤心回忆的地方是没有免疫力，告别伤心最好的办法，就是离开这个地方。这也是李离开曼彻斯特的原因，因为一次意外火灾，他失去了三个孩子，与妻子离婚，为了抵抗愧疚和痛苦，他去了波士顿。但一旦回到曼彻斯特，那些沉重不堪的回忆又重现在了李的面前。李想尽快离开曼彻斯特，却意外被指定为侄子的监护人，偏偏侄子又一心想留在这里。几番妥协下，侄子才答应明天春天和李去波士顿，而李不得已在这里多呆一阵子。在这段时间里，李想起了年轻时和哥哥还有侄子在海边垂钓的快乐时光，也重逢了早已放下一切开始新生活的前妻。只是这一切，都无法重启李的生活。因为人生，不是每件事都可以和解。人是脆弱的，被伤过的心，永远无法痊愈。就算经历了一个又一个冬天，伤疤总还是隐隐作痛。如果过去无法过去，那就好好记得。&nbsp;五.&ldquo;接受一切，努力生活&rdquo;&mdash;&mdash;《小森林（冬春篇）》森淳一没有人能真正教别人如何面对生活，所有难题，一切迷惘最后都好像只能靠自己解答。市子合上母亲寄来的信，显然母亲的话并没有真正给她指明生活的方向。在大都市东京生活的市子既无法融入城市的喧嚣，又无法应付高昂的生活成本。好不容易碰到一个喜欢的男孩，有了留在这里的动力，给他亲手织围巾、做便当，却意外得知男孩正处于恋爱中。也许受伤，或许伤心，抑或沮丧，市子离开东京回到了故乡小森。这是被一大片森林包围的安静村庄，村子的人靠农耕为生。在这里，市子种植蔬菜，收割果实，过上了安静治愈的&ldquo;一人食&rdquo;生活。食物，成了她生活的全部，偶尔与朋友分享美食，享受单纯的社交。冬天，就这样静静流淌在一道道美味中。带有母亲记忆的双色蛋糕、只有在冬季才能赏味的冻萝卜、软糯细腻的红豆饼和红豆糕，还有一碗热腾腾的面片汤，拥有魔法的食物填饱了市子的胃，也让她渐渐找到了感受生活和享受生活的力量。原来在看似周而复始的日子，其实每一天都是不同的。以为自己的生活进入了一种死循环，总会陷入在相同的迷惘里，总是在同一个地方摔倒，总是一次次努力又回到原点，但其实每一次都是不同。人生，也好似螺旋，看起来在同一个地方兜兜转转，但实际却总会偏上一点或者偏下一些。面对生活的难题，除了继续努力，或许该是接受一切。终于，这个漫长的冬天来了。终于，下个温暖的春天还会到来。如果生活的方向尚未明朗，不如停下思考暂且先好好享受这个冬天吧。今天是冬天的第一天，祝你有一个温暖的怀抱或者一碗暖心暖胃的热汤。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 咚咚咚，冬天来敲门了",
+                        "desc": "文/不辣 今天立冬，电影配饺子食用更佳。",
+                        "link": "http://m.wufazhuce.com/movie/2074?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 咚咚咚，冬天来敲门了",
+                        "desc": "文/不辣 今天立冬，电影配饺子食用更佳。",
+                        "link": "http://m.wufazhuce.com/movie/2074?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 咚咚咚，冬天来敲门了》 文/不辣： 今天立冬，电影配饺子食用更佳。 阅读全文：http://m.wufazhuce.com/movie/2074?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2074?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "咚咚咚，冬天来敲门了",
+                        "desc": "今天立冬，电影配饺子食用更佳。",
+                        "link": "http://m.wufazhuce.com/movie/2074?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2954",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4504",
+                    "title": "火烈鸟"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1326",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第十三章：艺人与艺统"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3029",
+                    "title": "近期最让你感动的一件事是什么？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2074",
+                    "title": "咚咚咚，冬天来敲门了"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

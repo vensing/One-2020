@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5531",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-11 06:00:00",
+        "content_list": [
+            {
+                "id": "20515",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2846",
+                "title": "摄影",
+                "forward": "一个人如果人生大半都处于孤独中，那么孤独也就不再能名之为孤独了。那状态说不定反倒是一种独立的、充满自信的、甚至可说是积极向上的乐观生存方式。 ",
+                "img_url": "http://image.wufazhuce.com/FgY89eQdjqds608RCEuup68XbMmp",
+                "like_count": 16716,
+                "post_date": "2020-06-11 06:00:00",
+                "last_update_date": "2020-06-10 12:30:28",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2805",
+                "pic_info": "Fausto García",
+                "words_info": "矶崎宪一郎",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2846",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2846",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2846",
+                    "image": "http://image.wufazhuce.com/FgY89eQdjqds608RCEuup68XbMmp",
+                    "title": "VOL.2805",
+                    "content": "一个人如果人生大半都处于孤独中，那么孤独也就不再能名之为孤独了。那状态说不定反倒是一种独立的、充满自信的、甚至可说是积极向上的乐观生存方式。 "
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2846?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2846?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 一个人如果人生大半都处于孤独中，那么孤独也就不再能名之为孤独了。那状态说不定反倒是一种独立的、充满自信的、甚至可说是积极向上的乐观生存方式。 ——矶崎宪一郎 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2846?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2846?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20511",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4347",
+                "title": "社畜信条",
+                "forward": "如果中了一等奖，我就放弃刺杀董事长；如果没中，我就继续。",
+                "img_url": "http://image.wufazhuce.com/FuLE_K0HAHGa4_Gp8yErneR0eNDL",
+                "like_count": 2377,
+                "post_date": "2020-06-11 06:00:00",
+                "last_update_date": "2020-06-10 18:56:54",
+                "author": {
+                    "user_id": "11306035",
+                    "user_name": "顾连川",
+                    "desc": "喜欢白日做梦，晴天在家里看云，雨天在床上睡觉。钟情于魔幻的现实和古怪的浪漫，每个故事的主角都能看到你我，每个故事的世界都有迹可循。豆瓣：宇宙寿司馆老板。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "卖房子的人，拖延症大赛预备役选手。",
+                    "fans_total": "1353",
+                    "web_url": "http://image.wufazhuce.com/Ftom1GBOeTiezLzCkxxGTq_EGw8w"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4347",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4347",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4347",
+                    "image": "http://image.wufazhuce.com/FuLE_K0HAHGa4_Gp8yErneR0eNDL",
+                    "title": "社畜信条 作者/顾连川",
+                    "content": "我坐在家里的马桶盖上边喝可乐边思考我的谋杀计划。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 社畜信条",
+                        "desc": "文/顾连川 我坐在家里的马桶盖上边喝可乐边思考我的谋杀计划。",
+                        "link": "http://m.wufazhuce.com/article/4347?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 社畜信条",
+                        "desc": "文/顾连川 我坐在家里的马桶盖上边喝可乐边思考我的谋杀计划。",
+                        "link": "http://m.wufazhuce.com/article/4347?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 社畜信条》 文/顾连川： 我坐在家里的马桶盖上边喝可乐边思考我的谋杀计划。 阅读全文：http://m.wufazhuce.com/article/4347?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4347?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "社畜信条",
+                        "desc": "我坐在家里的马桶盖上边喝可乐边思考我的谋杀计划。",
+                        "link": "http://m.wufazhuce.com/article/4347?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20501",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1207",
+                "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第七章",
+                "forward": "人生除了生死，都是擦伤。可惜这句话，只有在面临生死时，才真正能够明白。",
+                "img_url": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                "like_count": 852,
+                "post_date": "2020-06-11 06:00:00",
+                "last_update_date": "2020-06-08 10:20:34",
+                "author": {
+                    "user_id": "10730599",
+                    "user_name": "城迟",
+                    "desc": "人生前半场周转于互联网公司，凡客T恤事业部总监，乐视影业IP衍生部负责人。36岁出版代表作《我和这个世界不熟》，上市三天，冲进当当畅销榜前十。被阿耐、路内等著名作家推荐。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，代表作《我和这个世界不熟》。",
+                    "fans_total": "1326",
+                    "web_url": "http://image.wufazhuce.com/FiR3WpirjtIX3_RL6eZGxew_la3R"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第21章",
+                "number": "21",
+                "serial_id": "84",
+                "serial_list": [
+                    "1164",
+                    "1165",
+                    "1166",
+                    "1168",
+                    "1171",
+                    "1172",
+                    "1178",
+                    "1179",
+                    "1181",
+                    "1183",
+                    "1184",
+                    "1187",
+                    "1189",
+                    "1190",
+                    "1194",
+                    "1196",
+                    "1199",
+                    "1201",
+                    "1203",
+                    "1206",
+                    "1207",
+                    "1209"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1207",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1207",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1207",
+                    "image": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                    "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第七章 作者/城迟",
+                    "content": "身为恒星，又怎会在意人类的评判呢。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 分手遗迹清理员：不会占卜的吉普赛女孩·第七章",
+                        "desc": "文/城迟 身为恒星，又怎会在意人类的评判呢。",
+                        "link": "http://m.wufazhuce.com/serial/1207?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 分手遗迹清理员：不会占卜的吉普赛女孩·第七章",
+                        "desc": "文/城迟 身为恒星，又怎会在意人类的评判呢。",
+                        "link": "http://m.wufazhuce.com/serial/1207?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 分手遗迹清理员：不会占卜的吉普赛女孩·第七章》 文/城迟： 身为恒星，又怎会在意人类的评判呢。 阅读全文：http://m.wufazhuce.com/serial/1207?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1207?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第七章",
+                        "desc": "身为恒星，又怎会在意人类的评判呢。",
+                        "link": "http://m.wufazhuce.com/serial/1207?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20509",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2874",
+                "title": "你写过最非主流的话是什么？",
+                "forward": "人类羞耻行为大赏。",
+                "img_url": "http://image.wufazhuce.com/Fl29DREwnKOqQENUCD7zDhSpumvz",
+                "like_count": 1953,
+                "post_date": "2020-06-11 06:00:00",
+                "last_update_date": "2020-06-10 18:05:27",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2874",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2874",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2874",
+                    "image": "http://image.wufazhuce.com/Fl29DREwnKOqQENUCD7zDhSpumvz",
+                    "title": "你写过最非主流的话是什么？",
+                    "content": "你写过最非主流的话是什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你写过最非主流的话是什么？",
+                        "desc": "文/网友 人类羞耻行为大赏。",
+                        "link": "http://m.wufazhuce.com/question/2874?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你写过最非主流的话是什么？",
+                        "desc": "文/网友 人类羞耻行为大赏。",
+                        "link": "http://m.wufazhuce.com/question/2874?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你写过最非主流的话是什么？》 文/网友： 人类羞耻行为大赏。 阅读全文：http://m.wufazhuce.com/question/2874?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2874?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你写过最非主流的话是什么？",
+                        "desc": "人类羞耻行为大赏。",
+                        "link": "http://m.wufazhuce.com/question/2874?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "20510",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2007",
+                "title": "你别说，这颗头秃得可真好啊！",
+                "forward": "他们并不是为蝇头小利而无视法律，而是用一套自己认定的原则，替换了现世的规则，并试图主宰自己的人生。",
+                "img_url": "http://image.wufazhuce.com/FtDiLHYHvOXX87Ln92X5th16Baji",
+                "like_count": 1499,
+                "post_date": "2020-06-11 06:00:00",
+                "last_update_date": "2020-06-11 07:02:57",
+                "author": {
+                    "user_id": "11407032",
+                    "user_name": "第十放映室",
+                    "desc": "解读说实话，批评有实据，只因小十君做人够实在。 第十放映室，一个就爱瞎说大实话的原创电影公众号。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个就爱瞎说大实话的原创电影公众号。",
+                    "fans_total": "127",
+                    "web_url": "http://image.wufazhuce.com/FnkxH03Hjcwp3IvoIGkQZ0WX89pR"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "犯罪分子",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4990",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2007",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2007",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2007",
+                    "image": "http://image.wufazhuce.com/FtDiLHYHvOXX87Ln92X5th16Baji",
+                    "title": "「一个」电影: 犯罪分子",
+                    "content": "一部21年前拍摄的短片，最近在影迷圈疯传。它就是程耳导演的毕业作品《犯罪分子》。这部短片能火，绝非偶然。一是它名声在外，被公认为北电最牛的毕业作品。用宁浩的话说：这是一部非常有个人气质的市场化电影，也是我看过的最好的学生毕业作品。二是时隔多年后，首次露面，吊足了大家的胃口。那么它究竟如何？今天，我们就来聊一聊。01.要说《犯罪分子》拍得有多好，多惊艳，倒未见得。毕竟它只是一个23岁的年轻人拍摄的第一部作品。再早熟，也难掩稚嫩。在这部短片中，你看不到《罗曼蒂克消亡史》精致又颓丧的影像风格，看不到《边境风云》极致的警匪对决，甚至看不到《第三个人》里不断涌现的&ldquo;对白前捅&rdquo;，彰显着一个导演的艺术直觉。但我们能看到的，是一股不甘平庸的劲儿。尽管那时候的程耳，技法上还如此青涩，但骨子里的先锋性已经初露峥嵘。《犯罪分子》是他向世界喊出的第一句话：姿势不重要，态度才重要。02.在绝大多数同龄导演还在想着怎么拍好一个故事，或者千万别出技术bug的时候，程耳已经在思考：我要表达什么了。很显然，《犯罪分子》是一部有话想说的电影。它不是由故事驱动的，也不是由人物，而是由创作者的表达欲。那种欲望是如此强烈，以至于故事和人物都退居其后，成为表达的文字和标点。&nbsp;《犯罪分子》的故事很简单，一句话就能概括。它讲的是一个人捡了一笔意外之财，被全城通缉。这个故事，中国大妈们最为熟悉，在《法治进行时》里不定看过多少个版本了。而影片中还真的有一个新闻片段，是酒店摄像头拍下的嫌疑人的作案过程。只见一个身穿黄褐色暗格西装，秃顶的年轻人，悄悄拿走了地上的皮箱，然后匆匆离开。这个秃顶的年轻人，就是影片的主角胡天。程耳用这样一个新闻片段提醒我们：绝大多数时候，我们都是这样冷静地去审视别人的行为的。在法律和普遍道德的裁判下，毫无疑问，胡天是一个犯罪分子。但程耳想要做的，是绕到新闻的背后，去呈现新闻没有记录以及摄像头没有拍下的内容。胡天是谁？他过着什么样的生活？他为什么要这么做？以及做了之后，他又是怎么想的？这些内容远远超过犯罪行为本身，成为这部短片的着眼点。它也是程耳观看世界的一种角度。&nbsp;03.胡天是谁？程耳用影片一半的篇幅回答了这个问题。和程耳三部长片的主角比，胡天显得太过普通。他只是一个都市中的小人物，正过着糟心的生活。事业不利，他经营的照片冲印店，生意寥寥。感情不顺，女友离他而去，还带走了所有的积蓄。家庭不幸，父亲早已不在，母亲重病在床，弟弟还在上学。生活的重担像一只无形的巨手，一根根薅掉了这个年轻人的头发。于是秃顶成了他的标志，而更讽刺的是，后来，又成了他的罪证。&nbsp;面对这样的生活，胡天既没有破罐破摔，也没有奋起反抗，而是介于宁死不屈与随波逐流之间，活得像一棵野草一样。那种态度，让人想起加缪的《局外人》。但胡天仍在局内，他对世间最朴素的情义还保有坚持。对母亲，他十分孝顺，想尽各种办法凑钱为母亲看病。对女友，他念念不忘，时常抱着女友的相片入睡。对待弟弟，他也尽心尽责。尽管他无法成为弟弟的榜样，但他尽力照顾他的生活，当弟弟遭受欺负时，他站出来替弟弟出头。这是他能做的事。但每次做完，仍不忘补一句：&ldquo;你要好好学习，别和我一样。&rdquo;程耳用近乎平实的讲述，带我们走近胡天这个人物。你很难说，他是一个好人或是坏人。你只能说，他是个过得去的人，他也可能做坏事，但是他人不坏。看到门口报摊的大爷被人欺负，他第一时间冲出去拍照，留作证据。但这丝毫也不妨碍，晚上回家，他拿起电话，打给几个关系暧昧的女子，用同一套说辞约她们到家来排遣寂寞。有情有义与游戏人间的并置，共同构成了胡天这个人物。他很真实，很像我们。&nbsp;04.如果没有那次意外，胡天的生活也将波澜不惊地继续下去。母亲要再次手术，急需一大笔钱。胡天在酒店大堂等朋友，却意外等来了脚边无人认领的一个皮箱。在经过一番思想斗争后，胡天拿起皮箱，逃走了。这个冲动的决定，彻底改变了胡天的人生轨迹。而整个故事最有趣的还不是胡天的行为，而是他身边的人因为这个事件，自动站成了两队。一队站在胡天的一方，成为共谋者；而另一队站在公理良俗的一方，成为谴责者，甚至是揭发者。前者就包括胡天的弟弟，在电视上看到新闻后，他第一时间想到的是给哥哥送去一件新大衣，以免被人认出。还有胡天的相好小张，为他打起掩护，拖住警察，争取逃跑的时间。以及医院的医生、护士，特意提前了母亲手术的时间，并向警方隐瞒了胡天来过的事实。而后者中，最典型的代表就是报摊大爷&mdash;&mdash;他曾经接受过胡天的帮助，但是当警察来调查时，他毫不犹豫地供出了胡天的下落。你注意那个镜头，警察位于画面中，突然，报摊大爷闯入了画面，揭发胡天，于是他得以分享整个画面。那是关于&ldquo;举报者&rdquo;最贴切的一幅肖像画，呈现了一个人急于立功、表现，进而分食权力快感的全过程。有人可能会问，大爷这么做有错吗？当然没什么错。但我想问的是，如果他选择不供出胡天，有错吗？其实也没什么错。那同样是&ldquo;没错&rdquo;，为什么他如此选择？实际这里面隐含着一个弱者急于谄媚权力的行为惯性。看见权力，腿就软，嘴就松，恨不得赶紧贴上去，这是程耳一个极为犀利的洞见。后者中还有一个人始终没有露面，却极为重要，就是那个电话里的朋友。他原本答应借钱给胡天，却最终失约。这还不算，第二天，他还特地打电话来谴责胡天，质问他为什么偷钱。而程耳故意把这个人留白，也不是偶然。他是想说：这个人代表的是一类人，甚至是很多人。当别人遭遇困难时，他们没有出手相帮，而当那个人走投无路，犯下错事时，又是同一帮人站出来横加指责。他们最爱说的一句话就是：再没辙，也不能做坏事啊！由此，我们得以看清&ldquo;共谋者&rdquo;与&ldquo;谴责者&rdquo;之间的分野。那就是：你是否足够了解胡天的为人和他的处境，以及是否对他产生恻隐之心。这是决定我们如何评判胡天的关键所在。但问题是，我们哪有耐心和机会去了解每个人呢？我们能做的也只有诉诸于法律以及普遍的道德，并自以为是地过上正义又高效的生活。好像也只能如此。但程耳要提醒我们的是：立场先行的道德感，并不必然指向绝对的正义，那其中也可能隐藏着我们的粗暴和冷漠。05.&nbsp;最终，在&ldquo;共谋者&rdquo;们一连串的神助攻下，胡天得以成功逃脱。只见镜头中，他露出了欢畅的笑容。那也是影片中，他唯一的一次释放。由这个结尾，我们再看《犯罪分子》，似乎又能悟出另一番味道。特别是联想起程耳后续作品中的主角，我们甚至可以把《犯罪分子》视为程耳整个作品序列的大前传。为什么这么说呢？我们先看这三部长片中的主角，他们有一个共同点就是：他们全都是法外之徒。但与此同时，他们又不是无法无天，而是遵从着自己的一套法则。《第三个人》中的何伟是一个杀人者，但他杀人不为钱，而是为实现一个理想世界，清除那些不够理想的人。《边境风云》里的毒枭之所以成为毒枭，一个不可忽视的原因是，他要保护女孩的安全，进而保护自己内心残存的悲悯。于是他杀了所有人，自己当老大，因为只有如此，才能守护这个不切实际的想法。《罗曼蒂克消亡史》里的陆先生，被人视作&ldquo;大流氓&rdquo;，而&ldquo;大流氓&rdquo;贵在一个&ldquo;大&rdquo;字上。他心里装着整个上海，谁破坏了这里的秩序，他就和谁没完。程耳偏爱这些&ldquo;不正常&rdquo;的人。他们都做违法的事，他们也都有道德瑕疵，但他们不同于一般恶人的重要差别在于：他们并不是为蝇头小利而无视法律，而是用一套自己认定的原则，替换了现世的规则，并试图主宰自己的人生。可是，他们的悲剧性也来自这里，因为一个人的原则，终究敌不过多数人的选择。所以《第三个人》里的何伟，不可避免地在庸俗的生活里学会忏悔；《边境风云》的毒枭想要金盆洗手、全身而退时，也是他行将覆灭之时；《罗曼蒂克消亡史》里的陆先生，身为帮派头目，一味想维护旧秩序，不能审时度势，自然也会被滚滚而来的新时代无情吞没。这是属于程耳的悲观主义。他敬佩那些敢于挑衅现实规则的人，但同时他也明白，这样的人通常都是悲剧收场，难有例外。从这个角度，我们回看《犯罪分子》，似乎看到了一个例外。片中的胡天，在面对皮箱时，有两个选择。一个是收手，服从规则。一个是伸手，冒犯规则。最终，他选择了后者，并得以逃离庸常的生活，奔向自由。当然，那庸常的生活，惯性是如此之大。它就体现在每天清晨7:30准时响起的闹钟，而听到闹钟的人，无论起床是否有意义，都要穿上衣服起来，假装有意义地生活。而在胡天逃亡的那天，闹钟终于没有再响起，那意味着固有的陈规已经被打破，新的一天才真正到来。&nbsp;23岁的程耳用这样一部毕业作品，实际寄托了一种天真的期待，就是那些挑战规则的人实际并不孤独，会有众人相帮。于是他让胡天不断重复那首童谣：拔萝卜，拔啊拔，拔不出来。老头子找老太婆，老太婆找小孙女，小孙女找小黄狗，小黄狗找小花猫，大家一起来拔萝卜&hellip;&hellip;而最终，萝卜被拔了出来，人终将获得自由。可是，他后来的电影，却一再否定了自己年轻时的回答。这或许是我们重看《犯罪分子》时，会感到惊喜，也同时感伤的原因。从哔哩哔哩搜索&ldquo;犯罪分子&rdquo;即可观看。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 你别说，这颗头秃得可真好啊！",
+                        "desc": "文/第十放映室 我是个坏人，但是我会改。",
+                        "link": "http://m.wufazhuce.com/movie/2007?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 你别说，这颗头秃得可真好啊！",
+                        "desc": "文/第十放映室 我是个坏人，但是我会改。",
+                        "link": "http://m.wufazhuce.com/movie/2007?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 你别说，这颗头秃得可真好啊！》 文/第十放映室： 我是个坏人，但是我会改。 阅读全文：http://m.wufazhuce.com/movie/2007?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2007?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你别说，这颗头秃得可真好啊！",
+                        "desc": "我是个坏人，但是我会改。",
+                        "link": "http://m.wufazhuce.com/movie/2007?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20502",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3177",
+                "title": "后浪不断，书声依然",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FlTRuIRYy5fdzxXP3ItZRgq_9WCt?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1397,
+                "post_date": "2020-06-11 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3177",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3177",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 后浪不断，书声依然",
+                        "desc": "母校，再见！同学，你好！",
+                        "link": "http://m.wufazhuce.com/radio/3177?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lmIjI8WN60ggf92AqZ7QBixokZPz"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 后浪不断，书声依然",
+                        "desc": "母校，再见！同学，你好！",
+                        "link": "http://m.wufazhuce.com/radio/3177?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lmIjI8WN60ggf92AqZ7QBixokZPz"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 后浪不断，书声依然》 主播/马晓橙： 母校，再见！同学，你好！ 阅读全文：http://m.wufazhuce.com/radio/3177?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3177?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lmIjI8WN60ggf92AqZ7QBixokZPz"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "后浪不断，书声依然",
+                        "link": "http://m.wufazhuce.com/radio/3177?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lmIjI8WN60ggf92AqZ7QBixokZPz"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 831 期",
+                "audio_url": "http://music.wufazhuce.com/lmIjI8WN60ggf92AqZ7QBixokZPz"
+            }
+        ],
+        "menu": {
+            "vol": "2805",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4347",
+                    "title": "社畜信条"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1207",
+                    "serial_list": [
+                        "1164",
+                        "1165",
+                        "1166",
+                        "1168",
+                        "1171",
+                        "1172",
+                        "1178",
+                        "1179",
+                        "1181",
+                        "1183",
+                        "1184",
+                        "1187",
+                        "1189",
+                        "1190",
+                        "1194",
+                        "1196",
+                        "1199",
+                        "1201",
+                        "1203",
+                        "1206",
+                        "1207",
+                        "1209"
+                    ],
+                    "title": "分手遗迹清理员：不会占卜的吉普赛女孩·第七章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2874",
+                    "title": "你写过最非主流的话是什么？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2007",
+                    "title": "你别说，这颗头秃得可真好啊！"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3177",
+                    "title": "后浪不断，书声依然"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

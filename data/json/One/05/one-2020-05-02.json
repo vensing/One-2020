@@ -1,0 +1,522 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5490",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-05-02 06:00:00",
+        "content_list": [
+            {
+                "id": "20280",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2806",
+                "title": "摄影",
+                "forward": "世界巨大，我以渺小来爱它。时间悠长，我以短暂来爱她。",
+                "img_url": "http://image.wufazhuce.com/FgRDHQXikRVMz-UAJNSqyM17gNII",
+                "like_count": 18200,
+                "post_date": "2020-05-02 06:00:00",
+                "last_update_date": "2020-04-30 10:47:13",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2765",
+                "pic_info": "Tim Mossholder",
+                "words_info": "海桑《不如让每天发生些小事情》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2806",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2806",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2806",
+                    "image": "http://image.wufazhuce.com/FgRDHQXikRVMz-UAJNSqyM17gNII",
+                    "title": "VOL.2765",
+                    "content": "世界巨大，我以渺小来爱它。时间悠长，我以短暂来爱她。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2806?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2806?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 世界巨大，我以渺小来爱它。时间悠长，我以短暂来爱她。——海桑《不如让每天发生些小事情》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2806?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2806?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20275",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4299",
+                "title": "英国房东",
+                "forward": "又是那个号码！",
+                "img_url": "http://image.wufazhuce.com/FibRELvh-0g5x2WJCU9ILaXpKDqH",
+                "like_count": 1627,
+                "post_date": "2020-05-02 06:00:00",
+                "last_update_date": "2020-05-02 22:56:23",
+                "author": {
+                    "user_id": "4814866",
+                    "user_name": "祝羽捷",
+                    "desc": "祝羽捷，写作者，译者，曾出版《世界从不寂静》、《人到了美术馆会好看起来》、翻译作品《哗众取宠》、《文艺复兴人》等。",
+                    "wb_name": "@祝羽捷",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家，媒体人。新书《世界从不寂静》。",
+                    "fans_total": "267",
+                    "web_url": "http://image.wufazhuce.com/FlUEwFErwGaaVFLRewLPk9y-DJQg"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4299",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4299",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4299",
+                    "image": "http://image.wufazhuce.com/FibRELvh-0g5x2WJCU9ILaXpKDqH",
+                    "title": "英国房东 作者/祝羽捷",
+                    "content": "又是那个号码！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 英国房东",
+                        "desc": "文/祝羽捷 又是那个号码！",
+                        "link": "http://m.wufazhuce.com/article/4299?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 英国房东",
+                        "desc": "文/祝羽捷 又是那个号码！",
+                        "link": "http://m.wufazhuce.com/article/4299?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 英国房东》 文/祝羽捷： 又是那个号码！ 阅读全文：http://m.wufazhuce.com/article/4299?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4299?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "英国房东",
+                        "desc": "又是那个号码！",
+                        "link": "http://m.wufazhuce.com/article/4299?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20238",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1168",
+                "title": "分手遗迹清理员：惊喜相册·第四章",
+                "forward": "每个人都很孤独，在我们的一生中，遇到爱，遇到性，都不稀罕，稀罕的是遇到了解。",
+                "img_url": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                "like_count": 1190,
+                "post_date": "2020-05-02 06:00:00",
+                "last_update_date": "2020-04-22 10:24:55",
+                "author": {
+                    "user_id": "10730599",
+                    "user_name": "城迟",
+                    "desc": "人生前半场周转于互联网公司，凡客T恤事业部总监，乐视影业IP衍生部负责人。36岁出版代表作《我和这个世界不熟》，上市三天，冲进当当畅销榜前十。被阿耐、路内等著名作家推荐。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，代表作《我和这个世界不熟》。",
+                    "fans_total": "1326",
+                    "web_url": "http://image.wufazhuce.com/FiR3WpirjtIX3_RL6eZGxew_la3R"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第4章",
+                "number": "4",
+                "serial_id": "84",
+                "serial_list": [
+                    "1164",
+                    "1165",
+                    "1166",
+                    "1168",
+                    "1171",
+                    "1172",
+                    "1178",
+                    "1179",
+                    "1181",
+                    "1183",
+                    "1184",
+                    "1187",
+                    "1189",
+                    "1190",
+                    "1194",
+                    "1196",
+                    "1199",
+                    "1201",
+                    "1203",
+                    "1206",
+                    "1207",
+                    "1209"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1168",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1168",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1168",
+                    "image": "http://image.wufazhuce.com/Fnrl1ynQCBfVTg7LjQW8FtIBWZvR",
+                    "title": "分手遗迹清理员：惊喜相册·第四章 作者/城迟",
+                    "content": "告别不是爱情的对立面，告别就是爱情的一部分。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 分手遗迹清理员：惊喜相册·第四章",
+                        "desc": "文/城迟 告别不是爱情的对立面，告别就是爱情的一部分。",
+                        "link": "http://m.wufazhuce.com/serial/1168?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 分手遗迹清理员：惊喜相册·第四章",
+                        "desc": "文/城迟 告别不是爱情的对立面，告别就是爱情的一部分。",
+                        "link": "http://m.wufazhuce.com/serial/1168?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 分手遗迹清理员：惊喜相册·第四章》 文/城迟： 告别不是爱情的对立面，告别就是爱情的一部分。 阅读全文：http://m.wufazhuce.com/serial/1168?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1168?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "分手遗迹清理员：惊喜相册·第四章",
+                        "desc": "告别不是爱情的对立面，告别就是爱情的一部分。",
+                        "link": "http://m.wufazhuce.com/serial/1168?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20271",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2833",
+                "title": "应如何控制情绪？",
+                "forward": "趁着东风，能赚钱的时候好好赚钱，不矫情少抱怨。",
+                "img_url": "http://image.wufazhuce.com/Fi368I-bTtw8kzuZeYLY2_W1rS-f",
+                "like_count": 4206,
+                "post_date": "2020-05-02 06:00:00",
+                "last_update_date": "2020-05-02 00:32:03",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "程嘉一",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2833",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2833",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2833",
+                    "image": "http://image.wufazhuce.com/Fi368I-bTtw8kzuZeYLY2_W1rS-f",
+                    "title": "应如何控制情绪？",
+                    "content": "应如何控制情绪？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 应如何控制情绪？",
+                        "desc": "文/缪斯谭 学会宽恕，不是利他，是利己。",
+                        "link": "http://m.wufazhuce.com/question/2833?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 应如何控制情绪？",
+                        "desc": "文/缪斯谭 学会宽恕，不是利他，是利己。",
+                        "link": "http://m.wufazhuce.com/question/2833?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 应如何控制情绪？》 文/缪斯谭： 学会宽恕，不是利他，是利己。 阅读全文：http://m.wufazhuce.com/question/2833?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2833?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "应如何控制情绪？",
+                        "desc": "学会宽恕，不是利他，是利己。",
+                        "link": "http://m.wufazhuce.com/question/2833?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "20270",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1991",
+                "title": "陈晓卿：路过人间，品遍风味",
+                "forward": "除了美味，还有那些曾经的美好——陈晓卿写在《风味2》播出之际。",
+                "img_url": "http://image.wufazhuce.com/Fm-sxiBM-6iB_fDBHmXMYzuPow2M",
+                "like_count": 1716,
+                "post_date": "2020-05-02 06:00:00",
+                "last_update_date": "2020-04-30 21:56:14",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "陈晓卿",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "风味人间第2季",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4974",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1991",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1991",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1991",
+                    "image": "http://image.wufazhuce.com/Fm-sxiBM-6iB_fDBHmXMYzuPow2M",
+                    "title": "「一个」电影: 风味人间第2季",
+                    "content": "4月26日，《风味人间》第二季即将上线。似乎应该写点什么，来纪念这段忙碌又充实的日子。1一个多月前，照例通宵加班。快凌晨的时候，茶水间突然传来大平的惊呼：&ldquo;快看！下雪了&rdquo;，有人开始往窗口聚拢。我边走边想，都三月了，怎么还会下雪？天色微明，楼下薄薄一层白色。再仔细看，原来是院子里的玉兰，已经不知不觉开了。&ldquo;玉兰花怎么又开了？&rdquo;，大平有点不好意思，边擦眼镜边讪讪地咕哝，&ldquo;喔，我们这吭哧吭哧，都一年多了。&rdquo;可不是吗？时间过得真快。纪录片制作周期动辄一年，作为离法定退休年龄只有5年的人，每次看到玉兰花在眼前盛开，心中总会有一丝异样感觉掠过。去年元旦假期结束，《风味人间2》开始建组，满世界寻找导演，最后到岗的有和我曾经一起工作过的，也有第一次合作的。大家和从前一样，培训、看书、找题、写大纲、实地调研，一个小制作公司，能够这样，把之前天各一方的人聚合起来，按照统一的模式推进流程，我还是挺有信心的。大平是这个节目的制片人之一。在《风味人间》第一季，她是分集导演，相信不少人，对她镜头下的牧民转场故事和镖旗鱼瞬间还有深刻的印象。不过第一季结束时大家打趣说，她的节目质量和儿子的学习成绩刚好成反比&mdash;&mdash;常年出差的大平，儿子虎仔正上小学三年级，我亲眼见过这位小朋友，在剪辑台旁边上网课补习。这一季让大平做制片人，出发点是希望她坐镇北京掌控全局，也能抽出更多时间陪陪儿子。不过，后来她出差的频率并没有明显减少。所以直到今天，每次见到她，最好奇的是虎仔成绩到底怎样了，但我真不好意思问。&nbsp;今年，是李勇收获的一年。春节期间，勇哥担任总导演的自然类纪录片《蔚蓝之境》，历时五年半制作，终于在央视播出，并且收获很多好评。之前，他曾与我合作过，《风味人间》第二季，我希望勇哥能够把更多的经验分享给大家。勇哥热爱自己的职业，喜欢阅读，是个闷骚的文艺青年。担任总导演后，从节目分集方案起草、前期拍摄，到解说词撰写，甚至后期调色，勇哥都亲力亲为。因为出生在齐鲁姜葱大地，勇哥知书达理、以德糊人，特别稳当。比如，第二季原本计划和第一季一样，七集内容，加一集花絮。勇哥心里不踏实，主张单做出一集用来&ldquo;备份&rdquo;，多稳当啊！结果拍着拍着就变成了八集，累死个谁。我说这些，是想表达，相比第一季，我在精力付出上轻松了很多，这是因为大平和勇哥帮我分担了许多工作。看到年轻人快速成长，独当一面，这是比平稳完成节目，更值得喜悦和欣慰的。当然，过去的十六个月，我们还是经历了不少波折。&nbsp;2这次的播出日期，4月26日，对于团队来说确实是个有意义的日子。三年前的这天，稻来纪录片实验室成立。一群人聚合在这个工作室，尝试在商业纪录片领域做点事情。理想总是丰满的，但现实多少有些骨感。从正式开始做美食纪录片，到现在已经快十年了。它源于我的爱好，但在创作的过程中，每一次都同样会经历煎熬。商业纪录片的市场化特质，让我们必须在一定模式框架下运行，但创业容易，守业难，问题的关键在于如何在看似重复的套路里，每次都能给观众带来新的惊喜。有次和作曲阿鲲聊天，希望他对某段音乐既保留一些原有的符号特征，又能让人耳目一新。阿鲲搓着手说：&ldquo;这几乎不可能，从0到1叫耳目一新，这是质变；从1到2，这叫量变。&rdquo;实际上，我们从第一季到第二季就是个量变的过程。但人总是这么复杂，既要求稳，又要求变。既不想失去原来的观众，又想通过变化吸引更多的人群。工作室诞生于互联网时代，而我们这些核心主创又都是从传统媒体过来的。在拥抱新事物的过程中，总伴随着无数纠结&mdash;&mdash;无数次徘徊在传统纪录片与所谓网生纪录片，以及现在的短视频之间。有时很想迎合现在年轻观众的胃口，但反复试验，仍很难跨出那一大步。如同一个从事京剧表演三四十年的人，突然去改唱嘻哈，不是技术问题，是自信的问题。和从前不同的是，我们现在唯一要负责任的是观众。我们非常清楚，一个小制作机构，一旦没有了观众，就没有了价值。我们的长项是专业制作，希望能够把最诱人的美食加上精彩的故事，传递给观众。所以，在新的一期节目里，我们在制作手段上做了一些新的尝试，但我觉得这不值一提。我更在意的是不变的部分&mdash;&mdash;对专业主义精神的仰视。在选材上，我们寻找到八个有趣的切口。可能，这就是和我之前做过的任何一部美食纪录片都不同的地方。最开始还有些担心素材不够，最后我们发现用50分钟的篇幅，讲完一种食物，是完全不可能实现的任务。其中最大的原因，还是人类的差异太大。比如日本人吃螃蟹，要把螃蟹处理得精致到变态；而美国人吃螃蟹，则是只取其中几块肉，剩下的都不要，其中就包括中国人最不能忍的膏和黄，多可惜啊。再比如，同样是蛋与肉泥的结合，英国人用肉裹上蛋油炸，滋味不错；而在武夷山区，家庭主妇能小心翼翼同时快速地把肉放到蛋黄的内部，这是多么有趣的南辕北辙。它不仅代表着人们的食物智慧，也暗含着他们各自的生活哲理，对人生，对天地认知的不同。&nbsp;3该说说这一季的内容了。和以往不同，这次的八集，聚焦了八种（类）食物。我们希望观众看到，在这个星球上，不同地域、不同民族，对同一种食物，会有什么样的态度，他们处理食物的方法，享用食物的方式，分别与他们的生活有着什么样的关联。最初，这一季《风味人间》有另一个名字&mdash;&mdash;《撞食记》。这个精灵古怪的名字，来自我们的总顾问沈宏非，取意源自撞色或撞衫，有一种不失尴尬的会心&mdash;&mdash;正如人们面对美食的时候，既有相互瞧不上的智慧，也有心有灵犀的不谋而合和异曲同工。在现实生活里，我们经常能够看到人们为了口味差异发生的争执，有着各式各样的鄙视链。诸如豆花的甜党与咸党之争，粽子里该不该放肉的讨论&hellip;&hellip;我是一个口味边界非常模糊的人，在味道这件事上，个人的态度非常明朗：一旦有谁觉得自己掌握了风味的唯一标准答案，只能说明这个人见识太少，并不了解世界的复杂和丰富性。食物是平等的，对待食物的不同态度，不仅有社会学、人类学的意义，仅从风味的角度理解，见识、理解和懂得欣赏一种陌生的食物，都像发现了一个新的星系。因为社会的进步，所有人都有了在公共空间表达意见的权利。互联网的出现，进一步加剧了这种差异。但我个人总觉得，我们共同在这个世界生存，更多的时候是求同存异，寻找的是共识。在参差多态的生活方式中，寻找人类对美食殊途同归的热爱，依旧是我们纪录片的主题。&nbsp;4从做纪录片到做美食纪录片，很多朋友都认为我把职业和兴趣爱好结合得完美无缺。其实任何一件事情，只有你深入进去，才知道自己有多无知。我在任何场合中，都没有把自己当成一个美食家，而是定位为一个对美食充满兴趣的人。对于我们的创作集体，我也是这样要求的，要做一个对世界充满好奇的人，要做一个热爱生活的人。有意思的是，在生活里，经常有人找我请教有关美食的问题。无论我怎么解释，他们都觉得我谦虚得有些矫揉造作。但我总会不厌其烦地解释，美食和餐饮完全是两个行业，对后者，我真的是一个白痴。我不过是阴差阳错选择了纪录片作为自己的职业，并且误打误撞地凭借美食纪录片为人所知。我们有幸生在今天这个飞速变幻的时代，几乎过不了多长时间，总有新的&ldquo;蓝海&rdquo;或者&ldquo;红海&rdquo;出现。众所周知，早在十多年前，国家就对纪录片产业多有扶持。与此同时，物质生产的极大丰富，也促成了美食产业的不断攀升。有句话说，在风口上，猪都能飞。美食纪录片恰好处于两个风口之上，它得飞多高啊？所以，我很有自知之明，知道自己的定位，从不敢自作高深，更不会因为能扇动耳朵，就以为自己真的会飞翔。尤其是做美食纪录片，长时间的类似节目频繁出现在传统媒体和网络平台上，观众确有需求，但长期疲劳轰炸，也造成了收视的透支。尤其是国内外同行不断创新的角度，和不断精进的手段，无形中给我们巨大的压力。再加上目前国内纪录片观众的成熟度也是史上前所未有的，我们只能抱着一颗虔诚和敬畏的心，勉力为之，不敢有丝毫大意。&nbsp;5当然，回顾一年多的创作历程，最大的困难，出现在节目即将拍摄收尾的时候，一场疫情席卷了世界。二月底，有天在吃饭的钟点，我开车路过帝都曾经热闹非凡的CBD，目所能及的，是一个又一个黑洞一般的餐厅。我们见证的这段历史，世界似乎是凝固了的。疫情不仅对美食行业的打击巨大，并且还波及到了我们的节目。我们的制作流程是，先做田野调查、拍摄故事，局部的美食呈现，都需要后期在餐厅仔细拍摄，才能获得最佳的视觉效果。但当我们进入这个流程的前夕，就已经无法出差，甚至在北京也找不到一家可以拍摄的餐厅。好在过去积攒了一些做餐饮的朋友，让人感动的是，这些朋友能为我们的拍摄单独选购食材，单独约厨师。拍摄时，只有开机的刹那厨师才会摘下口罩&hellip;&hellip;团队自己也受到了影响。春节后，因为不能聚集，所有的剪辑会议都是在线上开的，沟通成本无限加大。每次去卫生间都能看到自己兔子一样的双眼，那是一天到晚盯着屏幕的结果。制作周期几近失控，北京宣布部分复工的第一天，东郊的一个文创园里，最早走进去的，就是与我一样年过半百的金牌解说李立宏，还有我们的音响总监凌青。确实太难了。不过即便在这样的环境下，我们所有的参与者，都表现出了非常高的职业素养，成员尽管各自隔离，但团队始终未散。一些家在外地的导演，甚至在制作完成前，一直没有回到家人身边。让人温暖的还不止于此，工作室总是能够接到来自全国各地的投喂，从年糕到青团，从春茶到刀鱼馄饨&hellip;&hellip;那么多朋友让蜗居机房的我们，感受到了美味和季节的流转。我们的工作室，紧邻着一个住宅区的大门。过往人群的喧闹，变成了今天的人烟稀疏。空荡荡的大门口，偶尔有行色匆匆的人戴着口罩经过，喇叭里无限次重复着&ldquo;请出示出入证......请出示出入证&hellip;&hellip; &rdquo;而我们的屏幕上，却是另一番风景：温和的微笑，紧握的双手，深情的拥抱，亲密的接吻以及家庭的欢宴&hellip;&hellip;看着节目，再看看窗外。有一刻我会想，节目里的生活，才是生活应有的模样，希望疫情早一天过去吧，让我们的世界重新充满美味和欢乐。如果节目播出时，有谁在这部纪录片里，不仅看到了美味，而且还看到了人类曾经的美好，并由此更加珍惜今天，这样的观众，一定是《风味》真正的知音。《风味人间》第2季可在腾讯视频观看。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 陈晓卿：路过人间，品遍风味",
+                        "desc": "文/陈晓卿 陈晓卿揭秘：美味是怎样练成的。",
+                        "link": "http://m.wufazhuce.com/movie/1991?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 陈晓卿：路过人间，品遍风味",
+                        "desc": "文/陈晓卿 陈晓卿揭秘：美味是怎样练成的。",
+                        "link": "http://m.wufazhuce.com/movie/1991?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 陈晓卿：路过人间，品遍风味》 文/陈晓卿： 陈晓卿揭秘：美味是怎样练成的。 阅读全文：http://m.wufazhuce.com/movie/1991?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1991?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "陈晓卿：路过人间，品遍风味",
+                        "desc": "陈晓卿揭秘：美味是怎样练成的。",
+                        "link": "http://m.wufazhuce.com/movie/1991?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2765",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4299",
+                    "title": "英国房东"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1168",
+                    "serial_list": [
+                        "1164",
+                        "1165",
+                        "1166",
+                        "1168",
+                        "1171",
+                        "1172",
+                        "1178",
+                        "1179",
+                        "1181",
+                        "1183",
+                        "1184",
+                        "1187",
+                        "1189",
+                        "1190",
+                        "1194",
+                        "1196",
+                        "1199",
+                        "1201",
+                        "1203",
+                        "1206",
+                        "1207",
+                        "1209"
+                    ],
+                    "title": "分手遗迹清理员：惊喜相册·第四章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2833",
+                    "title": "应如何控制情绪？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1991",
+                    "title": "陈晓卿：路过人间，品遍风味"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

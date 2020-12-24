@@ -1,0 +1,638 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5542",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-19 06:00:00",
+        "content_list": [
+            {
+                "id": "20550",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2855",
+                "title": "插画",
+                "forward": "云收雨过波添，楼高水冷瓜甜，绿树阴垂画檐。",
+                "img_url": "http://image.wufazhuce.com/Fu2h7rlCDJxVTx7xdfbue6yIFnBP",
+                "like_count": 16002,
+                "post_date": "2020-06-19 06:00:00",
+                "last_update_date": "2020-06-15 10:26:09",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2813",
+                "pic_info": "@狐狸狐狸鱼",
+                "words_info": "白朴《天净沙·夏》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2855",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2855",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2855",
+                    "image": "http://image.wufazhuce.com/Fu2h7rlCDJxVTx7xdfbue6yIFnBP",
+                    "title": "VOL.2813",
+                    "content": "云收雨过波添，楼高水冷瓜甜，绿树阴垂画檐。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2855?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2855?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 云收雨过波添，楼高水冷瓜甜，绿树阴垂画檐。——白朴《天净沙·夏》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2855?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2855?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20553",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4353",
+                "title": "老林",
+                "forward": "人一天天老下去，奢望也一天天消失。偶尔还幻想着蹦跶一下，就像被倒扣在空玻璃瓶的蚂蚱，不死心地要奋力蹦跳。",
+                "img_url": "http://image.wufazhuce.com/Fqmb3tegryINPhIehnuftt2wm6BQ",
+                "like_count": 1909,
+                "post_date": "2020-06-19 06:00:00",
+                "last_update_date": "2020-06-19 09:09:50",
+                "author": {
+                    "user_id": "11412372",
+                    "user_name": "林三土",
+                    "desc": "我没有野心和渴望。成为这样，不是我的野心。而是我独处的方式。那些事看起来就如一个人中了邪躺在河底，眼看着潺潺流水，粼粼流光，落叶，浮木，空玻璃瓶，一样一样从身上流过去。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "孤寂中自成一世界。",
+                    "fans_total": "34",
+                    "web_url": "http://image.wufazhuce.com/Fv2QcTVAQYipwU9k0W6nuonarOjy"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4353",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4353",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4353",
+                    "image": "http://image.wufazhuce.com/Fqmb3tegryINPhIehnuftt2wm6BQ",
+                    "title": "老林 作者/林三土",
+                    "content": "悲哀是廉价的情感。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 老林",
+                        "desc": "文/林三土 悲哀是廉价的情感。",
+                        "link": "http://m.wufazhuce.com/article/4353?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 老林",
+                        "desc": "文/林三土 悲哀是廉价的情感。",
+                        "link": "http://m.wufazhuce.com/article/4353?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 老林》 文/林三土： 悲哀是廉价的情感。 阅读全文：http://m.wufazhuce.com/article/4353?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4353?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "老林",
+                        "desc": "悲哀是廉价的情感。",
+                        "link": "http://m.wufazhuce.com/article/4353?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20578",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4358",
+                "title": "2020：时间都去哪儿了？",
+                "forward": "我们爱平常，平常的爱人，平常的家人，平常的朋友，平常的生活。",
+                "img_url": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                "like_count": 1895,
+                "post_date": "2020-06-19 06:00:00",
+                "last_update_date": "2020-06-18 17:57:59",
+                "author": {
+                    "user_id": "11185651",
+                    "user_name": "颗馨等三位",
+                    "desc": "既然不再假装自己不是多愁善感的诗人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "做最积极的悲观主义者。",
+                    "fans_total": "885",
+                    "web_url": "http://image.wufazhuce.com/Fj65EDdIoR9aUxJnUlYaqjaKWF55"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4358",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4358",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4358",
+                    "image": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                    "title": "2020：时间都去哪儿了？ 作者/颗馨、梅头脑、柒斐",
+                    "content": "你该交年中总结了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 2020：时间都去哪儿了？",
+                        "desc": "文/柒斐等三位 你该交年中总结了。",
+                        "link": "http://m.wufazhuce.com/article/4358?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 2020：时间都去哪儿了？",
+                        "desc": "文/柒斐等三位 你该交年中总结了。",
+                        "link": "http://m.wufazhuce.com/article/4358?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 2020：时间都去哪儿了？》 文/柒斐等三位： 你该交年中总结了。 阅读全文：http://m.wufazhuce.com/article/4358?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4358?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "2020：时间都去哪儿了？",
+                        "desc": "你该交年中总结了。",
+                        "link": "http://m.wufazhuce.com/article/4358?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "20562",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1215",
+                "title": "维多利亚的派对·第一章：派对前段",
+                "forward": "这是那个年过四十的女人最完美的时刻，她既艳丽如花，又运筹帷幄。",
+                "img_url": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                "like_count": 1161,
+                "post_date": "2020-06-19 06:00:00",
+                "last_update_date": "2020-06-15 16:59:42",
+                "author": {
+                    "user_id": "9618188",
+                    "user_name": "吴沚默",
+                    "desc": "编剧，TVB演员。",
+                    "wb_name": "@吳沚默momo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，TVB演员。",
+                    "fans_total": "4493",
+                    "web_url": "http://image.wufazhuce.com/Fo5OsUHwTVzmosA0MtZMBJV9tOWs"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第1章",
+                "number": "1",
+                "serial_id": "86",
+                "serial_list": [
+                    "1215",
+                    "1217",
+                    "1218",
+                    "1219",
+                    "1220",
+                    "1225",
+                    "1226",
+                    "1227",
+                    "1228",
+                    "1232",
+                    "1233",
+                    "1234",
+                    "1235",
+                    "1236",
+                    "1237",
+                    "1238",
+                    "1239",
+                    "1260",
+                    "1261",
+                    "1262",
+                    "1263",
+                    "1264",
+                    "1265",
+                    "1266",
+                    "1267",
+                    "1268",
+                    "1269"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1215",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1215",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1215",
+                    "image": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                    "title": "维多利亚的派对·第一章：派对前段 作者/吴沚默",
+                    "content": "这是那个年过四十的女人最完美的时刻，她既艳丽如花，又运筹帷幄。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 维多利亚的派对·第一章：派对前段",
+                        "desc": "文/吴沚默 这是那个年过四十的女人最完美的时刻，她既艳丽如花，又运筹帷幄。",
+                        "link": "http://m.wufazhuce.com/serial/1215?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 维多利亚的派对·第一章：派对前段",
+                        "desc": "文/吴沚默 这是那个年过四十的女人最完美的时刻，她既艳丽如花，又运筹帷幄。",
+                        "link": "http://m.wufazhuce.com/serial/1215?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 维多利亚的派对·第一章：派对前段》 文/吴沚默： 这是那个年过四十的女人最完美的时刻，她既艳丽如花，又运筹帷幄。 阅读全文：http://m.wufazhuce.com/serial/1215?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1215?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "维多利亚的派对·第一章：派对前段",
+                        "desc": "这是那个年过四十的女人最完美的时刻，她既艳丽如花，又运筹帷幄。",
+                        "link": "http://m.wufazhuce.com/serial/1215?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20572",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2883",
+                "title": "人生需要哪些智慧？",
+                "forward": "我们每个人都会遇到许许多多不可说的事情，是心底的小秘密，说出来不会怎样，但就是不愿意说，说了会不开心，因为没人懂。",
+                "img_url": "http://image.wufazhuce.com/FoHfFEqCSyO_FfnmfIQoyGvg6LR6",
+                "like_count": 2219,
+                "post_date": "2020-06-19 06:00:00",
+                "last_update_date": "2020-06-18 17:51:31",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "遛弯儿仔",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2883",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2883",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2883",
+                    "image": "http://image.wufazhuce.com/FoHfFEqCSyO_FfnmfIQoyGvg6LR6",
+                    "title": "人生需要哪些智慧？",
+                    "content": "人生需要哪些智慧？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 人生需要哪些智慧？",
+                        "desc": "文/林庭 要懂得控制自己的梦想。",
+                        "link": "http://m.wufazhuce.com/question/2883?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 人生需要哪些智慧？",
+                        "desc": "文/林庭 要懂得控制自己的梦想。",
+                        "link": "http://m.wufazhuce.com/question/2883?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 人生需要哪些智慧？》 文/林庭： 要懂得控制自己的梦想。 阅读全文：http://m.wufazhuce.com/question/2883?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2883?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "人生需要哪些智慧？",
+                        "desc": "要懂得控制自己的梦想。",
+                        "link": "http://m.wufazhuce.com/question/2883?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "20558",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3278",
+                "title": "你我未能有幸，一起说声我愿意",
+                "forward": "在这个不知天高地厚的年纪，说出最荒唐的话，自以为唯爱至上，不惜与世界为敌，实则不过，浪费了你的青春。",
+                "img_url": "http://image.wufazhuce.com/Fg8oOE_IMZR0k47LgeFVdACxrW6L",
+                "like_count": 2068,
+                "post_date": "2020-06-19 06:00:00",
+                "last_update_date": "2020-06-18 08:28:58",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lh0mncwdhjlji_Y9p5-yP-G4Esi5",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "其实我想对你说",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3278",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3278",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3278",
+                    "image": "http://image.wufazhuce.com/Fg8oOE_IMZR0k47LgeFVdACxrW6L",
+                    "title": "「一个」音乐: 鹿西兮 其实我想对你说",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1时至今日，我也没有找到春隅所说的，留在不贵书店的那张字条。但我听说，她要结婚了。就在刚刚，我照常来到不贵书店，店里正放着郭旭的《其实我想对你说》，我跟着哼唱起来，&ldquo;面对生活，你灿烂虚伪的笑着&rdquo;。老板叹一口气，走过来拍拍我的肩。&ldquo;她前几天来过，在这拍了婚纱照。&rdquo;我&ldquo;嗯&rdquo;了一声，胡乱翻着手里那本《埃及四千年》。这里的老板知道我全部的故事，起初还会劝我放下，后来便什么都不说了。有一次，我在一本《城南旧事》的最后一页，找到了一张带着褶皱的字条，上面工工整整写着：分手后，我们再也别见了，你要放下，我也要开始新的生活了。我哭着质问老板这是不是她留下的。他说是。我不信，我说这不是春隅的字，也不像是她会说的话。老板看我实在太难受，最终坦白这是他写的，想帮我结束，让我放下。但这种事，又岂是外人能帮的。那次之后，我终于好了一点，找了份普通工作，重新租了一间房。每个周末下班，我都会来大明湖畔这家不贵书店，偶尔给老板带瓶酒，带包烟，继续找那张春隅留下的字条。三年过去，我几乎把书店里的每一本书，每一个角落，都翻遍了。可我一无所获，只是内心平静了许多，怀念过去，也不再撕心裂肺。我有时会怀疑，是否夹着纸条的那本书已被他人买去，又或者，春隅说某天她会在这里留下一张纸条，上面写着最后想对我说的话这件事，是骗我的。即使上天有意，让我某天拿起春隅翻过的那本书，让我碰巧看到那张字条，又能怎么样呢？我们终究走上陌路，那些想对你说的话，已不重要。如果仍在乎，如果有遗憾，如果放不下，如果还爱你，那些想对你说的话，总会有一天忍不住要找机会亲自讲给你听。但凡逃避，不联系，甚至想把回忆都一并还回去，那就代表，再也不想见到你。你再不舍，再留恋，再不停去打搅对方生活，就显得小家子气了。2我跟春隅是在那家不贵书店认识的。那天，我与舍友杨浩在大明湖附近闲逛，看见一个穿黄色碎花裙子的小姑娘往南走去。杨浩小声跟我讲，那姑娘挺好看的。于是我俩跟上她，一直走到一条小巷深处，那隐藏着一家小书店。姑娘进去跟老板熟络地打招呼，我俩也跟着走进去。小小的店面，书籍齐全，整齐码好，价格便宜。老板随性健谈，正端着一杯茉莉花茶在柜台里看书，抬头看见我俩，打趣说是不是跟着人家小姑娘才找到这的。春隅在一摞书前回头看我俩，我看向别处，杨浩却用手指着我说，&ldquo;是他要跟着的，不是我。&rdquo;我不敢抬头看春隅的表情，开始跟老板闲聊一些开书店的事宜。以我少年时期被逼迫下饱读诗书的经历，跟老板从唐诗宋词谈到文艺复兴，从泰戈尔诗集谈到苏东坡，颇有一股知己难觅风花雪月的味道。让我没想到的是，春隅走过来，问我叫什么名字，哪个大学的，大几了。我结结巴巴说，我叫胡三三，就在附近上学。她扑哧一笑，&ldquo;胡三三，这名字挺别致。&rdquo;杨浩这时拍了一下我的肩说，&ldquo;这可是我们三哥，化学系里最牛的。&rdquo;&ldquo;没想到这位弟弟懂这么多啊，肯定是看过许多书的，不如我们留个联系方式吧，以后可以交流一下读书方面的心得。&rdquo;就这样，我们加了微信，我知道了她的名字，春隅。在老板的提议下，我们晚上一起去他的酒吧。春隅说，因为考研失败，就找了一份读书企划的工作，后来发现还不错，也就不想着换工作了。周末习惯于去参加线下读书交流会，或者来这家书店买书，再去大明湖逛逛。我问能不能以后跟她一起来买书。她笑着说，想约她直接说，为什么用这么老土的借口。那晚，我磕磕巴巴说了好几遍，这缘分真奇妙，也不知不觉喝了许多酒。杨浩一直在旁边帮我问春隅的事情，她虽腼腆，也侃侃而谈。我们像是重逢的故人，在这盛夏夜晚，谈理想和现实，放纵一隅，抹去陌生人之间的隔阂与怀疑，敞开心扉说一说自己。今夜拍落伪装，只为你点一盏孤灯。3后来将近一个月的时间，我们都没有联系彼此。偶尔几次去不贵书店，也没有遇到她。倒是跟老板谈到尽兴，深夜才归，被锁在宿舍楼外。后来一天，春隅突然给我发消息说，周末有一场散文读书会，要不要参加。我一口答应，借了同学的名牌衣服早早赴约。她穿一件长款白色亚麻连衣裙，站在十字路口的树荫下向我招手的时候，我人生第一次在一个姑娘面前紧张到腿软。那场读书会持续了两个多小时，我坐在春隅旁边，每当一篇文章分享完，她就会稍稍靠近我，小声跟我讲文章的出处，作者的故事，和她的感受。那种感觉很微妙，像小时候在老家度过的夏天，微风吹过傍晚的芦苇荡，你躺在里面，四周空寂，只有虫鸣过耳，抚慰受委屈的心。春隅，把我年轻躁动的心抚平了。很快暑假，我约春隅去海边玩。在高铁上昏昏欲睡，我问春隅能不能跟她拍张照片，她笑着答应。就这样，我拥有了第一张跟春隅的合影，高铁上两个人对着镜头傻傻微笑。夏日的海边很晒，我们在附近的民宿喝咖啡，消磨掉下午的时间，于傍晚时分走向沙滩。春隅穿一件浅绿色吊带长裙，头发用一根黄色绳子轻轻绑着，我找不到任何辞藻来形容她了。海水微凉，翻涌着泡沫涌上岸边，春隅指向远方冲我喊，&ldquo;那边好美啊&rdquo;。我循着方向看过去，夕阳映照下，天边的云彩染上淡紫色，而天空，此刻跟海水一样蓝。春隅走到我身边，余晖映照她的侧脸，她眯起眼睛望着我说，&ldquo;这个时候我们是不是应该谈一下理想。&rdquo;在天空因为挂着星屑的时候，我情不自禁说出，我的理想就是跟你在一起。她说，好。4春隅经常去学校看我，带着一大堆零食。她会挽着我的胳膊，一起去书店，然后去吃饭。偶尔她也会给我讲一讲要怎样找公司实习，在公司要怎样跟上司同事打交道之类的职场问题。我们的感情很好，不会过多干涉对方，彼此坦诚，也足够信任。我跟她讲，想毕业之后带她回家。她想了好几天，才给我一个答复，好。那晚我跟杨浩在校外的烧烤摊喝了好多，我跟他讲我要结婚了，而他那时候刚巧失恋。他喜欢的姑娘三个月之前主动主动表白，三个月之后，姑娘回到了自己的城市，说不喜欢他了。没有理由，就是突然不喜欢了。我们一悲一喜，一哭一笑，酒精渗入血液，神情恍惚，只存一思。思你。隔天，春隅告诉我，我们的事情先暂缓吧，因为她的妈妈不同意。而我年轻气盛，坚持要去见她妈妈。留下豪言一定会说服阿姨，许下承诺一定娶她。只是后来我才明白，如果我十几岁时候遇见你，会偷偷在你桌洞里塞几颗糖，如果我三十几岁的遇见你，我会握着你的手承诺给你一个归宿，可我偏偏二十岁。在这个不知天高地厚的年纪，说出最荒唐的话，自以为唯爱至上，不惜与世界为敌，实则不过，浪费了你的青春。那日，春隅的妈妈给我泡好一杯红茶，问我，小伙子找到工作了吗？准备好买房子了吗？她还没开始讲不想让她的女儿跟着我受苦这种话，只是两个问题，就让我一败涂地。我自以为是的喜欢，不过是架空于理想之上的空中楼阁。我可以陪她彻夜聊天，可以陪她四处闲逛，可以逗她笑，可以抱紧她。可我不能替她雨夜撑伞，因为我的伞是破的，我不能替她挡那些危险，因为我都自身难保，我不能再随随便便就说永远，因为我连当下都没有，何来永远。我遇见春隅，只是两颗行星兀自环游时靠着幸运，偏差毫厘，遇见彼此。我们脱离了原本的轨迹，不是擦肩，就是相撞。又这样过了半年，有一次为了拿下一单生意，陪客户喝酒到深夜，醉倒在路边。春隅打来电话问我为什么又喝多了，我冲她大喊，还不是为了让你过好日子。第二日，春隅就离开了我，不给我任何解释和道歉的机会。她说，等我变好，等缘分碰巧，我们会再见，或者重新在一起。怎样才算缘分碰巧？她说，就像，有天我去不贵书店翻到一本喜欢的书，然后随手写个字条夹进去，而你下次去的时候刚好看到。5她今日结婚。我从狼狈的生活中抽身片刻，一大早来到她家附近，远远望着。上午十点，接亲的车队排了很长。我看到她穿着婚纱，被新郎抱在怀里，笑得很甜。上车之前，她转身深沉地看向家人。她的伴娘拿着刚从新郎那里讨到的红包，围绕在她身边。鞭炮被点燃，拉花飘落在她与新郎的头发上，新郎替她轻轻拂去。他们手拉着手，两个小孩帮她提着婚纱裙摆，一切如梦般美好。我没有收到她的请帖，却终于找到了那张字条。那张从未存在过的字条，承载了我的青春和春隅的坦荡，寄托了我的希望与春隅的温柔二两，那上面写的，不过就是书店老板和生活共同告诉我的那句，你该放下，我也要开始新的生活了。回想这段感情，止于现实，掩于岁月。我们没有在不够爱了或者无法继续下去的时候假装深沉，而是藏起忧伤，留个念想，不再纠缠，暂时放手。我愚钝，想明白得太晚，我无能，到现在也没有变好。但我想对你说，爱过你，便已值得。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你我未能有幸，一起说声我愿意",
+                        "desc": "文/鹿西兮 爱过你，便已值得。",
+                        "link": "http://m.wufazhuce.com/music/3278?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你我未能有幸，一起说声我愿意",
+                        "desc": "文/鹿西兮 爱过你，便已值得。",
+                        "link": "http://m.wufazhuce.com/music/3278?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你我未能有幸，一起说声我愿意》 文/鹿西兮： 爱过你，便已值得。 阅读全文：http://m.wufazhuce.com/music/3278?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3278?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你我未能有幸，一起说声我愿意",
+                        "desc": "爱过你，便已值得。",
+                        "link": "http://m.wufazhuce.com/music/3278?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "其实我想对你说",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "郭旭",
+                "audio_album": "不找了",
+                "cover": "http://image.wufazhuce.com/FuKBdSgkHuDy3O0TIMC4Fyv0otio",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2813",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4353",
+                    "title": "老林"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4358",
+                    "title": "2020：时间都去哪儿了？",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1215",
+                    "serial_list": [
+                        "1215",
+                        "1217",
+                        "1218",
+                        "1219",
+                        "1220",
+                        "1225",
+                        "1226",
+                        "1227",
+                        "1228",
+                        "1232",
+                        "1233",
+                        "1234",
+                        "1235",
+                        "1236",
+                        "1237",
+                        "1238",
+                        "1239",
+                        "1260",
+                        "1261",
+                        "1262",
+                        "1263",
+                        "1264",
+                        "1265",
+                        "1266",
+                        "1267",
+                        "1268",
+                        "1269"
+                    ],
+                    "title": "维多利亚的派对·第一章：派对前段"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2883",
+                    "title": "人生需要哪些智慧？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3278",
+                    "title": "你我未能有幸，一起说声我愿意"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

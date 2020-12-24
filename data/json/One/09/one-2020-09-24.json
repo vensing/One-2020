@@ -1,0 +1,583 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5626",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-09-24 06:00:00",
+        "content_list": [
+            {
+                "id": "21161",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2952",
+                "title": "摄影",
+                "forward": "艰难的生活永无止境，但因此生长也无止境。",
+                "img_url": "http://image.wufazhuce.com/FroDk3xm-3szLJTR9N0aWLU4Aono",
+                "like_count": 15248,
+                "post_date": "2020-09-24 06:00:00",
+                "last_update_date": "2020-09-23 13:32:22",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2910",
+                "pic_info": "Adi Ulici",
+                "words_info": "里尔克",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2952",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2952",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2952",
+                    "image": "http://image.wufazhuce.com/FroDk3xm-3szLJTR9N0aWLU4Aono",
+                    "title": "VOL.2910",
+                    "content": "艰难的生活永无止境，但因此生长也无止境。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2952?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2952?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 艰难的生活永无止境，但因此生长也无止境。——里尔克 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2952?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2952?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21152",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4455",
+                "title": "重返纽约",
+                "forward": "人们都说，我的个性遗传了母亲——内敛，敏感，固执。一点没有父亲开朗健谈的影子。开始我也这么想，但后来我渐渐觉得，性格不取决于遗传，而取决于职业。",
+                "img_url": "http://image.wufazhuce.com/Fh11IITGs2w1Q4ORgDtqxFtBm1DL",
+                "like_count": 1982,
+                "post_date": "2020-09-24 06:00:00",
+                "last_update_date": "2020-09-24 08:16:36",
+                "author": {
+                    "user_id": "11605530",
+                    "user_name": "陌德",
+                    "desc": "在一个异国小城，磨咖啡，做饭，教书。一边算着数学，一边写着无人知晓的文字。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "无法停止写作。",
+                    "fans_total": "107",
+                    "web_url": "http://image.wufazhuce.com/FqcldSCkioAkb2ZF9N2_9RPMjAoF"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4455",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4455",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4455",
+                    "image": "http://image.wufazhuce.com/Fh11IITGs2w1Q4ORgDtqxFtBm1DL",
+                    "title": "重返纽约 作者/陌德",
+                    "content": "某一天，厄运的魔鬼降临，我从天才沦为普通人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 重返纽约",
+                        "desc": "文/陌德 某一天，厄运的魔鬼降临，我从天才沦为普通人。",
+                        "link": "http://m.wufazhuce.com/article/4455?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 重返纽约",
+                        "desc": "文/陌德 某一天，厄运的魔鬼降临，我从天才沦为普通人。",
+                        "link": "http://m.wufazhuce.com/article/4455?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 重返纽约》 文/陌德： 某一天，厄运的魔鬼降临，我从天才沦为普通人。 阅读全文：http://m.wufazhuce.com/article/4455?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4455?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "重返纽约",
+                        "desc": "某一天，厄运的魔鬼降临，我从天才沦为普通人。",
+                        "link": "http://m.wufazhuce.com/article/4455?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21034",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1283",
+                "title": "我的么啊·第十四章：发现秘密",
+                "forward": "她第一次发现只看人迈步的速度和力度就能猜出那个人的表情，他们脸上都有那种光彩，那到底是种什么光。",
+                "img_url": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                "like_count": 707,
+                "post_date": "2020-09-24 06:00:00",
+                "last_update_date": "2020-09-04 12:52:44",
+                "author": {
+                    "user_id": "4814954",
+                    "user_name": "陈麒凌",
+                    "desc": "陈麒凌，也教书，也写小说。曾获得联合报文学奖首奖、全球华文文学星云奖、林语堂文学奖。",
+                    "wb_name": "@陈麒凌",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "也教书，也写小说。",
+                    "fans_total": "2296",
+                    "web_url": "http://image.wufazhuce.com/Fggt2Ut1kJ7uTNjxGSG4w-LGRL6S"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第14章",
+                "number": "14",
+                "serial_id": "87",
+                "serial_list": [
+                    "1270",
+                    "1271",
+                    "1272",
+                    "1273",
+                    "1274",
+                    "1275",
+                    "1276",
+                    "1277",
+                    "1278",
+                    "1279",
+                    "1280",
+                    "1281",
+                    "1282",
+                    "1283",
+                    "1284",
+                    "1285",
+                    "1286",
+                    "1287",
+                    "1288",
+                    "1289"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1283",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1283",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1283",
+                    "image": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                    "title": "我的么啊·第十四章：发现秘密 作者/陈麒凌",
+                    "content": "他们脸上都有那种光彩，那到底是种什么光。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 我的么啊·第十四章：发现秘密",
+                        "desc": "文/陈麒凌 他们脸上都有那种光彩，那到底是种什么光。",
+                        "link": "http://m.wufazhuce.com/serial/1283?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 我的么啊·第十四章：发现秘密",
+                        "desc": "文/陈麒凌 他们脸上都有那种光彩，那到底是种什么光。",
+                        "link": "http://m.wufazhuce.com/serial/1283?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 我的么啊·第十四章：发现秘密》 文/陈麒凌： 他们脸上都有那种光彩，那到底是种什么光。 阅读全文：http://m.wufazhuce.com/serial/1283?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1283?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我的么啊·第十四章：发现秘密",
+                        "desc": "他们脸上都有那种光彩，那到底是种什么光。",
+                        "link": "http://m.wufazhuce.com/serial/1283?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21151",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2985",
+                "title": "小镇青年在大城市的生活是怎样的？",
+                "forward": "没有钱，其实在哪都一样。",
+                "img_url": "http://image.wufazhuce.com/FjoZGISWklhBQNLuJs36hObRSzHv",
+                "like_count": 1976,
+                "post_date": "2020-09-24 06:00:00",
+                "last_update_date": "2020-09-23 18:21:40",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "和撒娇的第三方",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2985",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2985",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2985",
+                    "image": "http://image.wufazhuce.com/FjoZGISWklhBQNLuJs36hObRSzHv",
+                    "title": "小镇青年在大城市的生活是怎样的？",
+                    "content": "网友说：我认识的几个小镇姑娘都奔三了，但是她们还都坚持在大城市里飘荡着。其实我并不理解她们这么倔强到底是为了什么，小镇的舒适安逸难道不好吗？想知道她们的生活是怎样的，想知道她们是怎么坚持的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 小镇青年在大城市的生活是怎样的？",
+                        "desc": "文/禾隐 没有钱，其实在哪都一样。",
+                        "link": "http://m.wufazhuce.com/question/2985?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 小镇青年在大城市的生活是怎样的？",
+                        "desc": "文/禾隐 没有钱，其实在哪都一样。",
+                        "link": "http://m.wufazhuce.com/question/2985?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 小镇青年在大城市的生活是怎样的？》 文/禾隐： 没有钱，其实在哪都一样。 阅读全文：http://m.wufazhuce.com/question/2985?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2985?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "小镇青年在大城市的生活是怎样的？",
+                        "desc": "没有钱，其实在哪都一样。",
+                        "link": "http://m.wufazhuce.com/question/2985?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "7603647",
+                    "user_name": "禾隐",
+                    "desc": "曲项向天 嗝~",
+                    "wb_name": "@旧万年",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "微信公众号：松月里男孩。",
+                    "fans_total": "1469",
+                    "web_url": "http://image.wufazhuce.com/FsJcMZBjZYQpvf673lRkWUH1H4Ea"
+                }
+            },
+            {
+                "id": "21160",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2055",
+                "title": "原乡有根，异乡有悟",
+                "forward": "“日本人看中国”纪录片单元之二，独自火车旅行，这个人要怎么走完三万六千公里？",
+                "img_url": "http://image.wufazhuce.com/FjPGn1GBtt5BSKvXmURffDRAtze3",
+                "like_count": 1394,
+                "post_date": "2020-09-24 06:00:00",
+                "last_update_date": "2020-09-24 08:19:53",
+                "author": {
+                    "user_id": "10511986",
+                    "user_name": "yaoyaoooo",
+                    "desc": "candy crush玩家，加西亚·马尔克斯狂热粉，写作自娱，未完全脱离旅游业的新入门插画师，下个目的地包含但不限于夏季挪威峡湾、留尼汪。",
+                    "wb_name": "@yaoyaoooo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "名字里有辆奥迪，正在画画的人。",
+                    "fans_total": "517",
+                    "web_url": "http://image.wufazhuce.com/Fkaqni13cptOk7thG6X6yRQ1-Lpa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "中国铁路大纪行·春季篇",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5038",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2055",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2055",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2055",
+                    "image": "http://image.wufazhuce.com/FjPGn1GBtt5BSKvXmURffDRAtze3",
+                    "title": "「一个」电影: 中国铁路大纪行·春季篇",
+                    "content": "当下任何一个外卖小哥，都能轻易加速，甩尾两百年前时速仅仅25公里的世界第一辆火车，却对高铁时代中时速至少250公里的列车望尘莫及。在竞速时代&ldquo;直线&rdquo;&ldquo;快捷&rdquo;&ldquo;密集打卡&rdquo;的语境中，旅行也轻易发展出一套套&ldquo;五日穿六省&rdquo;&ldquo;八天遍览十二国&rdquo;的游玩模式。而被设计成低速蜿蜒，随遇而安的旅行，足以被看作一种&ldquo;返祖现象&rdquo;。日本NHK电视台2004年开启了一档纪录片《日本铁道大纪行》，邀请演员关口知宏遵循&ldquo;独自一人旅行，选择最长的路线，一个站不重复搭乘两次&rdquo;的方式环游日本，获得日本观众喜爱。随后在2005年，关口知宏用相同的线路规划思维，体验了亚欧五国（英国、西班牙、德国、瑞士、希腊、土耳其）的铁道之旅。终于在2007年，关口知宏来到中国，从拉萨出发，累计搭乘600小时火车，完成了36000公里贪吃蛇般不走回头路的《中国铁道大纪行》。&nbsp;01 车厢内你我他2006年开通的青藏线，将从海拔三千多米的始发站拉萨，爬升至五千多米的唐古拉山口，关口知宏毫无仪式感地顶着惺忪睡眼登上火车，在车上迎来旅程第一天的日出。未来两个月的春之旅，他将在大大小小的车站，重复登车，反复邂逅。想要融入旅程，嘴巴恐怕是最重要的身体工具，用来吃，也用来交谈。关口一开始在中国铁道旅行中用餐，非常保险地选择去餐车点餐。列车员温和地介绍着菜式，上菜后依旧不时关注，既是期待顾客的反馈，也是对这位国际友人的关切。初次尝到高原列车上高压锅煮面条，关口挑起眉毛声情并茂地说：&ldquo;好吃&rdquo;。列车餐食，未必能讨得严格美食家欢喜，但定能给到旅行者满怀慰藉。饱足而温暖的用餐初印象，安抚了关口对异乡饮食的忧心。在西宁开往阳平关路段，关口离开自己的车厢去&ldquo;探险&rdquo;，看见用羊毛线钩花的女士，询问得知，女士的主业是经营招待所，而编织钩花是她爱好的副业，关口夸赞她手艺精巧，女士便爽快地送出钩花小作品给关口留念。倏然而至的情谊，使关口既惊异又感动。在广州开往衡阳路段，关口对面坐着一对情侣和他们的妈妈。小情侣冲泡面的香味诱惑着关口，于是中国妈妈把自己的泡面让给了他，关口受宠若惊，却也由此意外地体验了一把最平常的中国车厢饮食。等待泡面的间隙，中国妈妈又掏出了卤蛋和瓜子塞给了关口。最叫人回味的不是免费的投喂，而是其中感莫可言的拳拳盛意吧。在三明开往南平路段，关口邻座的一对福建夫妻竟主动用日语和他搭话，他倍感亲切与诧异。原来，这对夫妻曾在日经营生意，于是可以用日语对话。关口随即拿出用以慰藉乡愁的日本小吃与茶叶，和这对有缘的夫妻分享。福建夫妻见到小吃随即认出，说自己在日本打拼的时候也经常配饭食用。关口小心询问夫妇，是否喜欢日本，是否认为日本人亲切。丈夫不假思索地给予了肯定答复。车厢内的空间格局一目了然，车厢中的你我他，也无非是各有怀想，短暂同路的天涯过客。如果谁都没有先开口，那么这段旅途不过是一次机械传输。可谁若开了口，便可能是金风玉露一相逢，我们交换了原本仅属于自己人生的吉光片羽，也是交换了一份可遇不可求的信任。从此，我们带着彼此的故事，继续奔赴异域山川，却不忘风月同天。&nbsp;02 车厢外天地人车窗外面的世界，起伏迭变。换乘的车站可能是百万千万人口的大城市，也可能是几万人口的小乡镇，停留的长短，完全取决于衔接车次的到站时间差，于是关口知宏游览之随性，毫无规律可循。在贵阳停留时，关口来到郊外天龙屯堡古镇上闲逛，发现一户人家门前停着一辆小卡车，就过去打探。得知这户人家正要去扫墓，关口竟提出想要一同前往，丝毫也不觉得这是值得避讳的唐突要求。一大家子人也毫不矫作，一口应承下来，二话不说就驱车前往。墓地离家不过十分钟车程，显然经常有人来打扫。主人一家拿出祭品，用鸡血糊着鸡毛沾在墓碑上，围着墓碑燃放了一圈鞭炮，象征欢迎先人&ldquo;回来&rdquo;看看。从未见过这种民俗的关口，连称惊奇。在贵定停留时，关口去到布依族居住的田间游荡，看见一位大爷正在脚踩一大把晒干的植物，关口问询作物名称，得知这是菜籽，用来榨油的，菜籽油炸洋芋也很好吃。关口不客气地说想尝试，大爷就邀请他上家里坐，关口露出了得逞般狡黠的笑容。大爷一到家就招呼关口坐下，自己毫不含糊就去做菜了，说是请吃炸洋芋，实际却还加菜摆上了香肠与甜米酒。这样被邀请来品尝作物收成的欢欣&ldquo;行程&rdquo;，谁说不是天时地利人和的际遇呢？在云南石林停留时，关口参观了石林景区，本以为自然地貌足够奇特，却在返回车站途中，发现路边房屋中，也矗立着奇石。关口前去敲门无人应答，原以为可以放弃了，不料他一小时后再度尝试敲门，势要把旅行的运气用在参观这魔幻的建筑上了！女主人来应门了，大方地请他进屋参观，房屋完全围绕奇石而建，在天台也未能摸到奇石的顶端。奇石像会生长一样，与人安栖在房子里头，人与石的关系，莫名生出一种敬意。到了桂林，意味着春之旅已经进行了一半。关口乘船游览漓江，又趁着夕阳余晖登顶俯瞰山水交叠的画卷美景。在天地中独处的关口，感慨时间过得又慢又快，而中国既是最像也是最不像自己家乡的国度。走出车厢，天地骤然开阔。关口知宏与他人相遇的时空，切换到了一部家族史中，到四时有序的更替中，到天地造物的奇幻中，到月升日落的明灭中。一次旅行就像是人生的一段绕行，让我们有机缘和他人相遇，和天地相视，从而照见自我，确认一部分顽强闪耀的品格，修缮一部分偏差的执念，填补一部分显露的无知。&nbsp;03 外观世界，内观本心关口知宏喜欢书画，不仅途中几次寻访书画店，还自带画图本记录旅行见闻。明明在车厢中发生那么多交谈，在车站外又发生那么多相遇，可是真要下笔，只凝结成了一页画面，和几句灵光闪现的感悟。途经肇庆，南粤的五月，已经非常炎热了，正是用扇子的时候。七星岩景区正有售卖题词扇的店铺，于是关口请店家在扇面题写&ldquo;上善若水&rdquo;，从此便扇不离手了。途经襄阳，关口再次随机寻访书画馆，遇见绘制水墨花卉的师傅，就商量着，自己用汉字写一首诗，请师傅配图。关口的即兴诗写道&mdash;&mdash;花开花落花知春，时过时往时事新。关口解释诗意&mdash;&mdash;眨眼而过的日子，就像花知春一样令我顿悟。途经玉林，关口探访当地出名的羽毛画工厂，从前工厂的作品直接由国家收购，后来经济改革，工厂需要自谋出路，于是就开发了绘画培训和其它艺术品加工项目，羽毛画也只有收到订单才会制作。关口等来制作羽毛画的老师傅，师傅口授了羽毛画的制作流程，并赠送了一小袋羽毛给关口。获得羽毛后，关口总是跃跃欲试，终于在经停茂名时，去到海边玩耍，有感制作了一幅羽毛椰树。途经内江，关口在书画店遇到运笔遒劲的师傅，于是请师傅用汉字写下&ldquo;异乡有悟&rdquo;，自己再照着师傅的字迹临摹一幅装裱。至于所悟为何，关口当下没有叙述，可能是所悟纷繁，难以一言蔽之，也可能是旅途的完成不止在于筋骨的移动，还在于心意的确认。2007年6月，关口在西安完成了铁道大纪行的&ldquo;春季篇&rdquo;，三个月后，他再度回到西安，重启蜿蜒旅程，最终抵达新疆喀什，完成了大纪行余下的&ldquo;秋季篇&rdquo;。后来，关口在博客中这样叙述中国之旅的感悟：这条路上，我抛弃了原本的自己的价值观，以及由这些价值观带来的错觉。这个旅行节目的主题曲叫《发光的东西》。到达终点时我感觉到了它&mdash;&mdash;是金子总会发光。一旦你踏上去中国的旅途，那里会有无数欢迎认识你的人。他们的淳朴，不，用淳朴也表达不出来，因为那是包含着温暖的东西。他们积极地去面对人生，所以才会感觉到他们的温暖。是金子总会发光，那是因为里面有爱，里面有着温暖。三万六千公里远行中遭遇车厢内外的人事，是关口知宏对于外在世界的探寻。寥寥几行诗句以及匆匆几页绘本表达的感悟，恰是关口知宏对内心世界的求索。我们也一样，用皮囊穿山越岭，迂回试探，频频与世间万物建立联系，不只为了抵达客观世界的某处所在，更是为了抵达深藏未露的某处内心。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 原乡有根，异乡有悟",
+                        "desc": "文/yaoyaoooo 如果不旅行，我不知道秋天有什么用。",
+                        "link": "http://m.wufazhuce.com/movie/2055?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 原乡有根，异乡有悟",
+                        "desc": "文/yaoyaoooo 如果不旅行，我不知道秋天有什么用。",
+                        "link": "http://m.wufazhuce.com/movie/2055?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 原乡有根，异乡有悟》 文/yaoyaoooo： 如果不旅行，我不知道秋天有什么用。 阅读全文：http://m.wufazhuce.com/movie/2055?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2055?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "原乡有根，异乡有悟",
+                        "desc": "如果不旅行，我不知道秋天有什么用。",
+                        "link": "http://m.wufazhuce.com/movie/2055?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21035",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3272",
+                "title": "我们为什么不能好好说话？",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FnIHccO1nKmA1rQbI86uaf21fIW2?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1331,
+                "post_date": "2020-09-24 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3272",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3272",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 我们为什么不能好好说话？",
+                        "desc": "那些不好好说话的时刻",
+                        "link": "http://m.wufazhuce.com/radio/3272?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lncKDbGluAyhntWi7zpU17TzwT7a"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 我们为什么不能好好说话？",
+                        "desc": "那些不好好说话的时刻",
+                        "link": "http://m.wufazhuce.com/radio/3272?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lncKDbGluAyhntWi7zpU17TzwT7a"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 我们为什么不能好好说话？》 主播/李荟莹： 那些不好好说话的时刻 阅读全文：http://m.wufazhuce.com/radio/3272?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3272?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lncKDbGluAyhntWi7zpU17TzwT7a"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "我们为什么不能好好说话？",
+                        "link": "http://m.wufazhuce.com/radio/3272?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lncKDbGluAyhntWi7zpU17TzwT7a"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 888 期",
+                "audio_url": "http://music.wufazhuce.com/lncKDbGluAyhntWi7zpU17TzwT7a"
+            }
+        ],
+        "menu": {
+            "vol": "2910",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4455",
+                    "title": "重返纽约"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1283",
+                    "serial_list": [
+                        "1270",
+                        "1271",
+                        "1272",
+                        "1273",
+                        "1274",
+                        "1275",
+                        "1276",
+                        "1277",
+                        "1278",
+                        "1279",
+                        "1280",
+                        "1281",
+                        "1282",
+                        "1283",
+                        "1284",
+                        "1285",
+                        "1286",
+                        "1287",
+                        "1288",
+                        "1289"
+                    ],
+                    "title": "我的么啊·第十四章：发现秘密"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2985",
+                    "title": "小镇青年在大城市的生活是怎样的？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2055",
+                    "title": "原乡有根，异乡有悟"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3272",
+                    "title": "我们为什么不能好好说话？"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

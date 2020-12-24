@@ -1,0 +1,505 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5639",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-09-21 06:00:00",
+        "content_list": [
+            {
+                "id": "21137",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2949",
+                "title": "摄影",
+                "forward": "生活是第一位的。有生活，就可以头头是道，横写竖写都行；没有生活，就会捉襟见肘，或者，瞎编。",
+                "img_url": "http://image.wufazhuce.com/Fq57jFfi60wFAdG0XGj0uAgQmxpR",
+                "like_count": 12647,
+                "post_date": "2020-09-21 06:00:00",
+                "last_update_date": "2020-09-18 15:59:57",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2907",
+                "pic_info": "Roy Zeigerman",
+                "words_info": "汪曾祺",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2949",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2949",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2949",
+                    "image": "http://image.wufazhuce.com/Fq57jFfi60wFAdG0XGj0uAgQmxpR",
+                    "title": "VOL.2907",
+                    "content": "生活是第一位的。有生活，就可以头头是道，横写竖写都行；没有生活，就会捉襟见肘，或者，瞎编。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2949?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2949?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 生活是第一位的。有生活，就可以头头是道，横写竖写都行；没有生活，就会捉襟见肘，或者，瞎编。——汪曾祺 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2949?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2949?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21142",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4453",
+                "title": "笑脸",
+                "forward": "酷似乎成了年轻人的宗教，以前我也信这一套，可人到中年，自然而然地成了叛教之徒。",
+                "img_url": "http://image.wufazhuce.com/FhQv4kIOHbLlf1PJ2LvUVmB3Wv90",
+                "like_count": 1986,
+                "post_date": "2020-09-21 06:00:00",
+                "last_update_date": "2020-09-21 10:33:32",
+                "author": {
+                    "user_id": "5529761",
+                    "user_name": "短痛",
+                    "desc": "写作者。著有《孤独的孩子，提着易碎的灯笼》。",
+                    "wb_name": "@短tone",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作者。",
+                    "fans_total": "6392",
+                    "web_url": "http://image.wufazhuce.com/Fna7qucK98hngcbtH1Ek9tzAHqL_"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4453",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4453",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4453",
+                    "image": "http://image.wufazhuce.com/FhQv4kIOHbLlf1PJ2LvUVmB3Wv90",
+                    "title": "笑脸 作者/短痛",
+                    "content": "一个人，一张脸，哪里是钱能买得来的！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 笑脸",
+                        "desc": "文/短痛 一个人，一张脸，哪里是钱能买得来的！",
+                        "link": "http://m.wufazhuce.com/article/4453?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 笑脸",
+                        "desc": "文/短痛 一个人，一张脸，哪里是钱能买得来的！",
+                        "link": "http://m.wufazhuce.com/article/4453?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 笑脸》 文/短痛： 一个人，一张脸，哪里是钱能买得来的！ 阅读全文：http://m.wufazhuce.com/article/4453?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4453?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "笑脸",
+                        "desc": "一个人，一张脸，哪里是钱能买得来的！",
+                        "link": "http://m.wufazhuce.com/article/4453?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21122",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1296",
+                "title": "阳光灿烂·第五章：梦中碎片",
+                "forward": "我爱上了你，我们不再是朋友了。",
+                "img_url": "http://image.wufazhuce.com/Fo5W3JQedEU0slgt4dejwYKk8Mca",
+                "like_count": 739,
+                "post_date": "2020-09-21 06:00:00",
+                "last_update_date": "2020-09-18 11:10:35",
+                "author": {
+                    "user_id": "11589671",
+                    "user_name": "蒋文龙",
+                    "desc": "我希冀做个纯真善良充满热情的人，怀着这个目的我开始写作。",
+                    "wb_name": "@我不是蒋文龙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "沉默者。",
+                    "fans_total": "149",
+                    "web_url": "http://image.wufazhuce.com/Fjge4yieMhSjMUrVYxTEBzVeqmBq"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第5章",
+                "number": "5",
+                "serial_id": "88",
+                "serial_list": [
+                    "1290",
+                    "1291",
+                    "1294",
+                    "1295",
+                    "1296",
+                    "1297",
+                    "1298",
+                    "1299",
+                    "1300",
+                    "1301"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1296",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1296",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1296",
+                    "image": "http://image.wufazhuce.com/Fo5W3JQedEU0slgt4dejwYKk8Mca",
+                    "title": "阳光灿烂·第五章：梦中碎片 作者/蒋文龙",
+                    "content": "我爱上了你，我们不再是朋友了。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 阳光灿烂·第五章：梦中碎片",
+                        "desc": "文/蒋文龙 我爱上了你，我们不再是朋友了。",
+                        "link": "http://m.wufazhuce.com/serial/1296?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 阳光灿烂·第五章：梦中碎片",
+                        "desc": "文/蒋文龙 我爱上了你，我们不再是朋友了。",
+                        "link": "http://m.wufazhuce.com/serial/1296?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 阳光灿烂·第五章：梦中碎片》 文/蒋文龙： 我爱上了你，我们不再是朋友了。 阅读全文：http://m.wufazhuce.com/serial/1296?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1296?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "阳光灿烂·第五章：梦中碎片",
+                        "desc": "我爱上了你，我们不再是朋友了。",
+                        "link": "http://m.wufazhuce.com/serial/1296?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21120",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2980",
+                "title": "如何反驳更能让人信服？",
+                "forward": "反驳的过程，是思考和逻辑推理的过程。",
+                "img_url": "http://image.wufazhuce.com/Fjzp-9h6KERytn_s-3gTkZl9NcT3",
+                "like_count": 1861,
+                "post_date": "2020-09-21 06:00:00",
+                "last_update_date": "2020-09-20 09:41:34",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "啥也不是的也",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2980",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2980",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2980",
+                    "image": "http://image.wufazhuce.com/Fjzp-9h6KERytn_s-3gTkZl9NcT3",
+                    "title": "如何反驳更能让人信服？",
+                    "content": "如何反驳更能让人信服？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何反驳更能让人信服？",
+                        "desc": "文/晨熙小太阳 你是什么货色，我就是什么脸色。",
+                        "link": "http://m.wufazhuce.com/question/2980?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何反驳更能让人信服？",
+                        "desc": "文/晨熙小太阳 你是什么货色，我就是什么脸色。",
+                        "link": "http://m.wufazhuce.com/question/2980?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何反驳更能让人信服？》 文/晨熙小太阳： 你是什么货色，我就是什么脸色。 阅读全文：http://m.wufazhuce.com/question/2980?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2980?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何反驳更能让人信服？",
+                        "desc": "你是什么货色，我就是什么脸色。",
+                        "link": "http://m.wufazhuce.com/question/2980?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11472921",
+                    "user_name": "晨熙小太阳",
+                    "desc": "喜欢一种健康、文化和有灵气的生活方式",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：写个东西。隐居山林的写作者",
+                    "fans_total": "558",
+                    "web_url": "http://image.wufazhuce.com/FhNGmuLntFpT1c_01cnkSvvvgw3t"
+                }
+            },
+            {
+                "id": "21143",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3332",
+                "title": "这个世界，欠我一份快乐",
+                "forward": "祝你在往后的日子里，能总拥有些突如其来的快乐也好。",
+                "img_url": "http://image.wufazhuce.com/FvcfURxWBKU5C3VO_8VbUeclIFcL",
+                "like_count": 1621,
+                "post_date": "2020-09-21 06:00:00",
+                "last_update_date": "2020-09-21 09:56:27",
+                "author": {
+                    "user_id": "11164439",
+                    "user_name": "柒斐",
+                    "desc": "海岸线爱好者，睡眠不足的普通电影观众。\r\n独立编剧，HerPeaches剧本工作室创始人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，HerPeaches工作室创始人。",
+                    "fans_total": "989",
+                    "web_url": "http://image.wufazhuce.com/FlgBlHjLF40QuAwszutvMT3biQO3"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/loBKLiW6CCx0Jw5_zKq5-rJuGuoY",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "突如其来的快乐",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3332",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3332",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3332",
+                    "image": "http://image.wufazhuce.com/FvcfURxWBKU5C3VO_8VbUeclIFcL",
+                    "title": "「一个」音乐: 柒斐 突如其来的快乐",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  如果是这样，或者也并没什么错，昭昭这么想着。午后的日头暗得像黄昏提前与这座小城问好。陪程远扬巡着一个个小城，唱歌或者做些休整。过后，昭昭还是等来了他的求婚。昭昭想都没想就答应了。她常常这样，有时被突如其来的快乐侵袭理智，而后变得如同一个失去智慧的初生小孩，凡事总要存一些感性，凭着第一印象来决定些人生转折。程远扬没房没车没稳定收入，这点和昭昭很像。她也从没弄明白自己到底擅长什么，又要如何安顿一颗晃荡了多年却还没沉静下来的心。她总是有太多突如其来的快乐，和异想天开的想法。比如，她在某一天深夜，因为走在路上看到了久违的星星，所以想要陪着程远扬去西藏唱歌，顺便把那儿的星星都看了。但一向在这些奇怪而荒诞的人间理想里，程远扬大概率是更理智的那个。昭昭有时候会心觉愧疚，毕竟让一个唱歌的保持冷静和理智，说起来也是难为了程远扬。既然如此，不如就当机立断&mdash;&mdash;这婚，结了。领证的那天昭昭如往常，在无事的黄昏，喝盏茶或者读些书，她习惯了日子的小火慢烹，也习惯随着程远扬，在四处奔走的路上，给他一个家。她总是比想象中更迁就他。原本可以在家里守着三尺讲台，平静而顺畅地工作，大概会经人介绍相亲继而结婚，生子，看着孩子结婚生子，随后老去。这些是在遇见程远扬以后，骤然改变了的。随着昭昭的一生，像风一样远扬了。程远扬夸赞她做得糖醋排骨好吃，于是她开始养成了习惯，每到一地，便总是先熟悉周边的菜市场、水产市场、生鲜市场&hellip;&hellip;赶早市对她而言，是生活中的琐碎，却也逛着逛着，就变成乐趣。糖醋排骨的糖色最难熬，昭昭却总能掌握合适的火候，看着糖油交融，在锅里冒起来泡泡，便好像在翻炒的时候，把自己和程远扬的人生倒入这口大锅里，裹进泡泡里去了。泡泡金灿灿的，&ldquo;砰&rdquo;一声儿破了，她却想到了那句&ldquo;日日是好日&rdquo;。程远扬的演出通常是在晚上，退了太阳去后，也该轮到了他上场。她从不陪他去练乐队，只是在每场演出时，默默找个地方坐下，看着台上把着麦架唱歌的人。鼓手是他们的半个媒人，键盘手是其中最有性格的，却常常因为她和程远扬两人的小吵小闹而被迫变成和事佬，贝斯手是女孩，却喜欢留着短头发，因为如此，她虽喜欢键盘手多年，却也未尝得到过点点青睐，贝斯手以为键盘手认为她不够贤惠，因此常跑来问昭昭糖醋排骨的做法。昭昭也倒乐意教学，毕竟原是该做老师的人。昭昭如今只不过写一些说不上好还是坏的字，成篇了的，就放在公众号里，一篇文章两三百块，实时到账，虽说赚得不多，但抵不住昭昭的空闲时间漫长，一来二去地写着，月入几千块钱，多做几顿糖醋排骨也是够的。那些小人在她手里今日来明日去，甚至有的还过不到明天，便已经要她给了一个好归宿。昭昭不擅长写什么悲情的故事，她总不觉得日子还能有多悲凉和凄惨，她想着，这样肆意地把大好时光握在自己手里，连同时光赠予自己的爱人，以及那些总是填在歌词里的情话，就已经足够她把日子酿出蜜去了。程远扬每每看她一边从厨房端出饭菜，一边蹦蹦跳跳地说这些令人愉悦的话，总是笑她又拥抱她。程远扬在她额头上再落下一个吻，笑起来就像是昭昭第一次见他时的样子。&ldquo;你说程远扬是不是捞到宝了，有昭昭这么好的老婆，夫复何求？&rdquo;贝斯手拍了拍键盘手的肩膀，有一搭没一搭地说着。&ldquo;我想是的。&rdquo;键盘手正开车，一边回复着贝斯手，一边想着为什么她总是能在不合时宜地时候和他这么自然地对话。鼓手坐在后排，看着旁边十指紧扣的昭昭和程远扬，大概也觉知世界美好，便傻乎乎笑了两声，顺便跟尚未见面的网友攀谈一二。日子太平静了，昭昭靠在程远扬的肩头这样想着，手指顺势去磨捻那双大手的轮廓，几年过去，她却十分感恩程远扬仍旧没把她的手放开。夜晚清冷，换季的时候昭昭容易感冒，却总要坚持抗着，她一直都不怎么爱吃药。程远扬洗完澡从浴室出来，看见满地的鼻涕纸，笑着挠昭昭脚心，逗得她一边躲一边&ldquo;哈哈哈哈&rdquo;。昭昭躺在床上看着裹了浴巾的程远扬送来一杯热水，便欣然接下。她晓得他总会把屋子收拾得很干净，把那些散落在各个角落的鼻涕纸扔掉，再燃一柱安神香为她助眠，临睡前的晚安故事应该会讲到小熊和小狗的爱情&hellip;&hellip;她习惯了。她晓得在旁人看来是她总乐意做那个迁就程远扬的人，却也知道实则是程远扬更照顾她。&ldquo;谢谢你照顾我啊。&rdquo;她颇有感激之情地在迷迷糊糊间握紧了程远扬的手。头埋进他的肩头，蹭了蹭才肯罢休。&ldquo;一直都是我们要互相照顾的。&rdquo;程远扬喜欢在睡前摆弄昭昭的头帘儿，他觉得就像是拨动吉他的琴弦似的，看着它们弹起又平复，循环往复，犹如生活。&ldquo;晓得你总是很贴心，嘻嘻。&rdquo;&ldquo;你也总知道我就愿意吃个糖醋排骨。&rdquo;&ldquo;等这次巡演结束，我想养养身体，咱们也该要个孩子了。&rdquo;&ldquo;那我就陪着你一起，咱们去你最喜欢的地方住一段时间。&rdquo;&ldquo;想去曾婆婆那儿，曾婆婆还惦记着咱们呢。&rdquo;&ldquo;好，睡吧。&rdquo;程远扬很清楚，曾婆婆在哭。但他却失去了理智似的说：&ldquo;我今晚没有演出，我想吃糖醋排骨。&rdquo;曾婆婆的哭声小了些，眼泪浸在干瘪的面颊上，随着遍布的皱纹盘绕，盘绕。曾婆婆想着昭昭，却再没有说过话。昭昭的头七过得平静。程远扬的眼睛还青肿着，却总归是告别了曾婆婆而后上山，山巅很静，让他闭上眼睛就想到演出结束那天，自己喝了不少酒。他牵着昭昭地手，窜梭在酒吧的舞池里。昭昭喜静，但还是陪着程远扬扭动，她也喝了些酒。灯光变成昏黄色，像极了每日落在灶台前的黄昏。弥散而妖娆，昏昏沉沉却也可以清醒。程远扬已经习惯看见昭昭穿戴着围裙，拿着扫帚扫地的样子，都快忘了这面容姣好的女孩儿，也向往一些近乎疯狂的举动。就一杯一杯喝，舞一波一波跳，像是经历了三生三世的天荒地老。程远扬总是紧紧牵着昭昭的手的。演出顺利一直都是程远扬在事业上的唯一所愿，但被唱片公司看到，却是他从未想过的事情。去酒吧的路上，程远扬偷偷告诉昭昭，自己这段时间一定会倒霉一次，才能平复这回的幸运之神降临。他一直相信万物守恒，这个世界的复杂不在于&ldquo;有得必有失&rdquo;，而在于下一秒谁都不晓得会得到什么，又将以怎样的失去作为代价。&ldquo;昭昭，我的代价太大了。&rdquo;空旷的山间他这样对她说，他看着天，就近在咫尺似的，却伸出手去也怎样都够不到边。伸展让他更加疲惫。胡茬冒了出来，猝然而仓皇 ，就像他们的名气一样，在签下那份合约后，就变得不再与世界其他万物有太多相同。程远扬说不清自己是否喜欢这样的日子，又或者只是习惯了与昭昭在一起时的终日闲散。&ldquo;昭昭，我带你去见曾婆婆了。她哭得伤心，你能&hellip;&hellip;你&hellip;&hellip;算了。&rdquo;他存了些理智在脑中，知道人死不能复生，就也没再说那些关于&ldquo;你还能不能回来&rdquo;一类的话了。昭昭就这样把手递给程远扬，她在冬笋汤出炉的那一刻恰到好处地关了火，又恰到好处地接到了程远扬的电话。&ldquo;又要加演？&rdquo;&ldquo;不是，是合同。&rdquo;&ldquo;怎么了？&rdquo;&ldquo;合同，我们，签了。&rdquo;&ldquo;好事儿，给你加个糖醋排骨。&rdquo;&ldquo;一起出去吃吧。&rdquo;&ldquo;嗯&hellip;&hellip;也好。&rdquo;&ldquo;那来接你。&rdquo;昭昭换上那件淡紫色的连衣裙，踏了双高跟鞋。她把手递给一开门就能撞见的那张笑脸，程远扬一路紧握着她。她想着，这样的话真好，在从前和往后，都是好的。她看着一路带着自己奔跑的男孩，她要再跨大些步子才能跟紧他。如果陪伴一个人实现梦想也是一种幸福的话，那她的幸福在今日早已超额。舞池里他们拥抱，昭昭喝了些酒，在黄昏般摇晃的灯光里，她曾失去的那些，终于如数回到了自己的身体。她看着也在看着她的程远扬，抱得更紧了些。&ldquo;是什么让你更快乐呢？&rdquo;&ldquo;没有比此刻更快乐的了。&rdquo;&ldquo;那往后会忙吗？&rdquo;&ldquo;大约是演出多一些，走的路多些，你也更忙一些。&rdquo;&ldquo;那我们以后的每一天，也还会一起起床或者一起睡觉吗？&rdquo;&ldquo;我想会吧。没有演出的时候我还能陪你一起逛早市，去采买生活用品，陪你一起看看书。&rdquo;&ldquo;那我教你做糖醋排骨，然后我们晚饭后一起散步，看电视。&rdquo;&ldquo;好啊，那还是你先洗澡，我后洗澡，躺在床上说说话，我们就一起睡觉。&rdquo;灾难和快乐一样，总会突如其来的。飞车而过，昭昭倒在地上。本来是摇晃的，促然整个世界停顿了下来。她闭上眼睛之前看到的还是程远扬，她不知道这足不足够让自己在喝孟婆汤的时候无所畏惧，她不想忘了这些好不容易回到身体里的快乐。她与他还有太多事情没来得及一起去做。她晓得自己体内的那个天使也促然倒地，就像被命运戏弄了以后，却还是想要坚持地活着。她看着那双被水雾熏透的双眼，他鬓间的汗珠又浓了些，汇成一股股，淌下来。她也，躺下来。她握住的双手还是放了，没什么力气。那些突如其来的快乐，最终还是要她自己来付出收获的代价。于她是结束，于他是失去。山上的风凛冽了些，程远扬把烟的余火熄灭，这四十九天来，抽烟这件事情是能给他突如其来快乐的唯一来源。他抽得很肆意，狂妄而忧伤。他离开的时候想到了能量守恒，他想着如果他失去了昭昭，那么将来的日子里，是不是也会以什么形式弥合得上。他晓得的，有些失去，代价太大，填补不了了。所以，昭昭，祝你在往后的日子里，能总拥有些突如其来的快乐也好。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 这个世界，欠我一份快乐",
+                        "desc": "文/柒斐 你离开的第49天，我还是没有适应。",
+                        "link": "http://m.wufazhuce.com/music/3332?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 这个世界，欠我一份快乐",
+                        "desc": "文/柒斐 你离开的第49天，我还是没有适应。",
+                        "link": "http://m.wufazhuce.com/music/3332?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 这个世界，欠我一份快乐》 文/柒斐： 你离开的第49天，我还是没有适应。 阅读全文：http://m.wufazhuce.com/music/3332?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3332?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "这个世界，欠我一份快乐",
+                        "desc": "你离开的第49天，我还是没有适应。",
+                        "link": "http://m.wufazhuce.com/music/3332?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "突如其来的快乐",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "雾虹",
+                "audio_album": "漫游",
+                "cover": "http://image.wufazhuce.com/Fh1zZqMbtfyBww3slSAO7oPbnPrw",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2907",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4453",
+                    "title": "笑脸"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1296",
+                    "serial_list": [
+                        "1290",
+                        "1291",
+                        "1294",
+                        "1295",
+                        "1296",
+                        "1297",
+                        "1298",
+                        "1299",
+                        "1300",
+                        "1301"
+                    ],
+                    "title": "阳光灿烂·第五章：梦中碎片"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2980",
+                    "title": "如何反驳更能让人信服？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3332",
+                    "title": "这个世界，欠我一份快乐"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

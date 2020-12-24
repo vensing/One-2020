@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5589",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-29 06:00:00",
+        "content_list": [
+            {
+                "id": "20802",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2894",
+                "title": "摄影",
+                "forward": "正由于我抱着与你相见的希望，我才永远认为最崎岖的路是最好的路。",
+                "img_url": "http://image.wufazhuce.com/FnQsnfA1H9jSUEd9NQIAjaPns6Pv",
+                "like_count": 17233,
+                "post_date": "2020-07-29 06:00:00",
+                "last_update_date": "2020-07-22 16:58:05",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2853",
+                "pic_info": "Nick Scheerbart",
+                "words_info": "安德烈·纪德《窄门》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2894",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2894",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2894",
+                    "image": "http://image.wufazhuce.com/FnQsnfA1H9jSUEd9NQIAjaPns6Pv",
+                    "title": "VOL.2853",
+                    "content": "正由于我抱着与你相见的希望，我才永远认为最崎岖的路是最好的路。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2894?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2894?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 正由于我抱着与你相见的希望，我才永远认为最崎岖的路是最好的路。——安德烈·纪德《窄门》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2894?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2894?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20842",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4401",
+                "title": "在悠长的午睡过后",
+                "forward": "我还活着，还有感受，还可以去热爱，有能力去拒绝。",
+                "img_url": "http://image.wufazhuce.com/FtS0K86UPwB3IWs4oxqj9GcnCNZm",
+                "like_count": 2768,
+                "post_date": "2020-07-29 06:00:00",
+                "last_update_date": "2020-07-29 08:49:09",
+                "author": {
+                    "user_id": "4813757",
+                    "user_name": "苏更生",
+                    "desc": "「一个」App常驻作家，微信公众号：ishikuaiqian",
+                    "wb_name": "@假苏更生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "「一个」App常驻作家。",
+                    "fans_total": "97549",
+                    "web_url": "http://image.wufazhuce.com/Fg_e6teZsb3lZ1QStYtdnAkh6bO8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4401",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4401",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4401",
+                    "image": "http://image.wufazhuce.com/FtS0K86UPwB3IWs4oxqj9GcnCNZm",
+                    "title": "在悠长的午睡过后 作者/苏更生",
+                    "content": "我们可以获得幸福吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 在悠长的午睡过后",
+                        "desc": "文/苏更生 我们可以获得幸福吗？",
+                        "link": "http://m.wufazhuce.com/article/4401?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 在悠长的午睡过后",
+                        "desc": "文/苏更生 我们可以获得幸福吗？",
+                        "link": "http://m.wufazhuce.com/article/4401?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 在悠长的午睡过后》 文/苏更生： 我们可以获得幸福吗？ 阅读全文：http://m.wufazhuce.com/article/4401?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4401?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "在悠长的午睡过后",
+                        "desc": "我们可以获得幸福吗？",
+                        "link": "http://m.wufazhuce.com/article/4401?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20815",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1260",
+                "title": "维多利亚的派对·第十八章：风云之事",
+                "forward": "谁没有一些，得不到的梦，谁人负你负我多？",
+                "img_url": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                "like_count": 725,
+                "post_date": "2020-07-29 06:00:00",
+                "last_update_date": "2020-07-24 12:21:34",
+                "author": {
+                    "user_id": "9618188",
+                    "user_name": "吴沚默",
+                    "desc": "编剧，TVB演员。",
+                    "wb_name": "@吳沚默momo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，TVB演员。",
+                    "fans_total": "4493",
+                    "web_url": "http://image.wufazhuce.com/Fo5OsUHwTVzmosA0MtZMBJV9tOWs"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第18章",
+                "number": "18",
+                "serial_id": "86",
+                "serial_list": [
+                    "1215",
+                    "1217",
+                    "1218",
+                    "1219",
+                    "1220",
+                    "1225",
+                    "1226",
+                    "1227",
+                    "1228",
+                    "1232",
+                    "1233",
+                    "1234",
+                    "1235",
+                    "1236",
+                    "1237",
+                    "1238",
+                    "1239",
+                    "1260",
+                    "1261",
+                    "1262",
+                    "1263",
+                    "1264",
+                    "1265",
+                    "1266",
+                    "1267",
+                    "1268",
+                    "1269"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1260",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1260",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1260",
+                    "image": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                    "title": "维多利亚的派对·第十八章：风云之事 作者/吴沚默",
+                    "content": "谁没有一些，得不到的梦，谁人负你负我多？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 维多利亚的派对·第十八章：风云之事",
+                        "desc": "文/吴沚默 谁没有一些，得不到的梦，谁人负你负我多？",
+                        "link": "http://m.wufazhuce.com/serial/1260?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 维多利亚的派对·第十八章：风云之事",
+                        "desc": "文/吴沚默 谁没有一些，得不到的梦，谁人负你负我多？",
+                        "link": "http://m.wufazhuce.com/serial/1260?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 维多利亚的派对·第十八章：风云之事》 文/吴沚默： 谁没有一些，得不到的梦，谁人负你负我多？ 阅读全文：http://m.wufazhuce.com/serial/1260?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1260?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "维多利亚的派对·第十八章：风云之事",
+                        "desc": "谁没有一些，得不到的梦，谁人负你负我多？",
+                        "link": "http://m.wufazhuce.com/serial/1260?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20840",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2928",
+                "title": "仪式感可以给我们带来什么？",
+                "forward": "往日不可追，来日尤可期。",
+                "img_url": "http://image.wufazhuce.com/FnyrXgwsFqRJ907fTbHxCbRKK1ev",
+                "like_count": 3094,
+                "post_date": "2020-07-29 06:00:00",
+                "last_update_date": "2020-07-28 18:07:22",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "田景景",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2928",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2928",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2928",
+                    "image": "http://image.wufazhuce.com/FnyrXgwsFqRJ907fTbHxCbRKK1ev",
+                    "title": "仪式感可以给我们带来什么？",
+                    "content": "仪式感可以给我们带来什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 仪式感可以给我们带来什么？",
+                        "desc": "文/陈允皓 认真地活在今天，不走过场。",
+                        "link": "http://m.wufazhuce.com/question/2928?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 仪式感可以给我们带来什么？",
+                        "desc": "文/陈允皓 认真地活在今天，不走过场。",
+                        "link": "http://m.wufazhuce.com/question/2928?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 仪式感可以给我们带来什么？》 文/陈允皓： 认真地活在今天，不走过场。 阅读全文：http://m.wufazhuce.com/question/2928?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2928?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "仪式感可以给我们带来什么？",
+                        "desc": "认真地活在今天，不走过场。",
+                        "link": "http://m.wufazhuce.com/question/2928?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10358044",
+                    "user_name": "陈允皓",
+                    "desc": "生活明朗，万物可爱。公众号：陈允皓",
+                    "wb_name": "@陈允皓Mars",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "生活明朗，万物可爱。公众号：陈允皓",
+                    "fans_total": "2380",
+                    "web_url": "http://image.wufazhuce.com/FsSQfZ7WLGyo6SbEBwas01L5iQw4"
+                }
+            },
+            {
+                "id": "20833",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3301",
+                "title": "你最后的冲刺，让我成为爱情短跑冠军",
+                "forward": "我就要成为那黑夜里的光，驱散弥漫在我周身的不安。",
+                "img_url": "http://image.wufazhuce.com/FqqY9Xd1CWWnB5iJ1zIYzLheyXfb",
+                "like_count": 1534,
+                "post_date": "2020-07-29 06:00:00",
+                "last_update_date": "2020-07-27 11:13:52",
+                "author": {
+                    "user_id": "9294032",
+                    "user_name": "申申",
+                    "desc": "戴着镣铐也要跳舞的人",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "戴着镣铐也要跳舞的人",
+                    "fans_total": "1540",
+                    "web_url": "http://image.wufazhuce.com/FuLa2p5fyBrgcr95MM0yDkcnTQjf"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/ljNoBKXJ6qqk-mHjo0RzZdAnjETm",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "不治之症",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3301",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3301",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3301",
+                    "image": "http://image.wufazhuce.com/FqqY9Xd1CWWnB5iJ1zIYzLheyXfb",
+                    "title": "「一个」音乐: 申申 不治之症",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1.工作的第四年起，戚穗就开始出现严重的失眠。越想睡越睡不着，越睡不着越暴躁。戚穗为此翻了无数篇经验分享，挂了医生的号，还莫名其妙加入了一个&ldquo;和失眠说再见&rdquo;的小组。每到深夜，戚穗都会习惯性翻看小组里那些失眠的灵魂在夜里都在忙活着什么。每次看完好像就得到一点奇怪的安慰&mdash;&mdash;这世上和我一样状况的同类有很多。大家都是一样的沮丧，一样的焦虑，一样的暴躁，一样渴望改变。负面情绪像冬天里的海浪翻腾不息，而路冯的帖子却像一叶平静的扁舟走入戚穗的视线。点进去一看，果然G城失眠的人不少。居然还有失眠者情绪如此稳定？她有点看戏的心态，看这人能&ldquo;装&rdquo;多久。有时他在晚上给自己做番茄肥牛汤；有时他晚上做一个多小时的运动，大汗淋漓的照片PO在网页上，手臂上都挂着汗珠，戚穗想：做这么久运动，还能睡着吗；有时他半夜会唱歌，小视频里的他从不露脸，抱着吉他声线温柔得像夏日的细雨，戚穗想：睡不着的人就不要扰民啦！女人就是心里一套，行动上又是另外一套。终于忍不住好奇，她给路冯发了私信。2.&ldquo;想吃老东门的烧烤吗？&rdquo;这是路冯第一句和戚穗说的话。说实话，配合当凌晨两点这个时间段，这句话显得那么&ldquo;不正经&rdquo;。以至于，她花了很长时间才确认路冯到底有没有意图。第一回看到他，真没觉得他是那种敢在深夜约妹子出去吃烧烤的男生。蓬松的短发，温和的眉眼。她心里嘀咕：这年头，真是知面不知心啊。到了饭桌上，她更是笃定。还没点餐，路冯问戚穗：吃辣吗？吃韭菜吗？吃蒜吗？有忌口吗？戚穗一概说吃吃吃，没有忌口。她细细打量着路冯，一边想：果然人不可貌相，看他这么娴熟，应该没少约妹子出来吧，早知道不出来见这种海王了。也不知道什么时候开始习惯用最坏的眼光去评判一个人，好像这样就不容易失望。好在路冯没有动手动脚也没有任何暗示性语言。而就这样，戚穗和路冯吃过无数顿饭后，戚穗才知道自己误解了路冯。路冯其实早明白戚穗的眼里藏着什么意思，但看她皱着眉头反复猜测的样子也蛮可爱。路冯是个好的谈话对象，在严肃和活泼中自由切换。渐渐变成熟了以后，戚穗可佩服路冯了，每次出来宵夜他他不但神采奕奕，而且他必定提前是做了功课&mdash;&mdash;去哪家吃。路冯想用这座城市的美食，卸载掉戚穗身上所有的暴躁与不安。这女孩从眼神到头发丝儿都对世界充满着防备。那样好的耐心，在加速的世界里真是罕见。那样绵长的温柔，戚穗再也没有遇到。换一个人，早就不耐烦了吧。换一个人，也就走不进自己心里了吧。3.他就这样不急不慢地带她吃遍了G城的大街小巷。那天清晨去赶地铁，戚穗抬头看见了一朵心形的云，她第一反应就是拍下来分享给路冯。等她拍完后，她忽然意识到路冯已经成为自己生活中很重要的人&mdash;&mdash;重要到看到一朵云就会想起他。那天下班，在他们最喜欢吃的小饭馆儿里，路冯交出了自己的真心。表白没有玫瑰，但已经足够叫人热泪盈眶了，他用好吃的食物占据了戚穗的心，每一家他俩爱的小饭馆都藏着路冯的浪漫。在一起的生活是那么合拍而甜蜜。两个失眠的灵魂在深夜有了说话的对象，再漫长的夜晚也望得见天光。现在，戚穗一想到那个场景还是会热泪盈眶：你的白色衬衣和我紫色西装外套整整齐齐地挂在衣橱里，卧室的飘窗上散落着我的小说和你常看的人物传记，床头摆着我们买来的无印良品的香薰台灯，餐桌上插着楼下买来的花摆着新鲜的水果，打开旁边的冰箱里面塞满了满满当当的食物，多到我们要在一起住一辈子。上天总爱捉弄有情人，相爱容易相守难。路冯被公司委派去S城开拓市场。当路冯说出这个消息的时候，戚穗的神情暗了又亮，像大街上电压不稳定的路灯。她知道路冯向来是个有主意的，决定的事就不会改变。她靠在路冯的肩膀上，轻轻地环住他说：好哦，我在家里等你回来。路冯的心软成一团，说：&ldquo;要好好照顾自己哦，就像我在你身旁。&rdquo;异地的日子真的难熬，夜晚的时间像是被拉到无限长。戚穗只能靠着手机去寻找路冯。路冯在S城的工作量远超预期，一开始他还能平衡工作与恋爱，渐渐地他都开始吃不消。曾经失眠的夜晚全部变成了加班，手机上戚穗发来的点点滴滴被不断地延迟回复。工资涨了不少，他利用空闲时间去买了一个戚穗喜欢的包，到了商场发现那款包有好几个型号，他打电话过去，却始终没有人接。异地就是这样，想说话的瞬间总因为生活节奏的不同被打断。我们像活在了两个世界，距离在开口的当下变成了一堵高高的墙，直直地向我们压来。4.她有时生气或是沮丧，会发一大串一大串的信息炸弹。回头去看，戚穗才知道自己做得有多差劲。她只想到了自己，却忘了路冯在一个陌生的城市也是需要关心与鼓励。路冯知道她向来是这样的性子，没有安全感，爱胡思乱想。只是他没想到，一年多的陪伴，瞬间就被异地击溃。属于他的未来却注定与无奈相伴，他只有一双手，要么给她适时的拥抱，要么打拼两人的未来。只可惜这个浑身是刺的小姑娘跟着自己受苦了，路冯再次接到戚穗的电话时，她依旧是催促他回去，依旧是失眠后的烦闷不堪。他多次跟她说过原因和自己的环境，但她终究没办法理解。而拖下去，只会让她陷入更消极的情绪循环。戚穗被分手的时候，还收到了来自路冯的最后一份礼物。他将G城他们俩爱吃的餐馆做成了一张表格，上面有地址、外卖电话。&ldquo;你和我一样总是失眠，只可惜后面失眠的日子我们不能彼此陪伴了。希望美食代替我治愈你。&rdquo;戚穗的眼泪哗哗哗地流，她打电话给路冯，甚至跑到S城找他，他都不见。她明白他们的感情无力回天，他选择做那个狠心分手的人。分手后，戚穗辗转地听到路冯的朋友说他的失眠老早就很严重了，严重到医生建议他暂停一切工作，而他只是扛着。戚穗的心揪成一团，找到那个朋友，那个朋友却只说，照顾好你自己，放心任何一家美食店路冯都不会再去，他不会再出现让你伤心。当下的那一刻，戚穗是恼怒的，他把所有的退路都封死了。而细想下来，只剩下了细细密密的痛，他那么喜欢G城的美食店，都留给了自己，那他失眠了去哪里呢？戚穗的心像一扇烂掉的窗户，任由北风呼啸而过。自从和路冯分手，她的心时常都这样空空荡荡，再也没有那个不厌其烦带她吃美食的人，再没有深夜说话的对象了，再没有&hellip;&hellip;再没有像这样好的人了。她真想抛下眼前的生活，去S城死缠烂打，和路冯再次开始啊。但躺在床上的戚穗再次刷到了路冯曾经开的那个贴子，那个帖子重新更新的一条新内容，时间是他们分手后不久：穗穗，如果你还能看到这条帖子的话，我想最后对你说点话。你不是曾经好奇我失眠时为什么做这些乱七八糟的事吗？那是因为漫漫长夜，我得学会一个人面对。希望你也能学会。长夜将至，若是无法睡着，我就要成为那黑夜里的光，驱散弥漫在我周身的不安。像你教给我的那样，像你希望的那样，像你在我身旁一样。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你最后的冲刺，让我成为爱情短跑冠军",
+                        "desc": "文/申申 遇到你的那一天就是我的复活节。",
+                        "link": "http://m.wufazhuce.com/music/3301?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你最后的冲刺，让我成为爱情短跑冠军",
+                        "desc": "文/申申 遇到你的那一天就是我的复活节。",
+                        "link": "http://m.wufazhuce.com/music/3301?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你最后的冲刺，让我成为爱情短跑冠军》 文/申申： 遇到你的那一天就是我的复活节。 阅读全文：http://m.wufazhuce.com/music/3301?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3301?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你最后的冲刺，让我成为爱情短跑冠军",
+                        "desc": "遇到你的那一天就是我的复活节。",
+                        "link": "http://m.wufazhuce.com/music/3301?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "不治之症",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "Sophis",
+                "audio_album": "不治之症",
+                "cover": "http://image.wufazhuce.com/FqmLjKMrgmBCyAxA1857ac8PDP2v",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2853",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4401",
+                    "title": "在悠长的午睡过后"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1260",
+                    "serial_list": [
+                        "1215",
+                        "1217",
+                        "1218",
+                        "1219",
+                        "1220",
+                        "1225",
+                        "1226",
+                        "1227",
+                        "1228",
+                        "1232",
+                        "1233",
+                        "1234",
+                        "1235",
+                        "1236",
+                        "1237",
+                        "1238",
+                        "1239",
+                        "1260",
+                        "1261",
+                        "1262",
+                        "1263",
+                        "1264",
+                        "1265",
+                        "1266",
+                        "1267",
+                        "1268",
+                        "1269"
+                    ],
+                    "title": "维多利亚的派对·第十八章：风云之事"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2928",
+                    "title": "仪式感可以给我们带来什么？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3301",
+                    "title": "你最后的冲刺，让我成为爱情短跑冠军"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

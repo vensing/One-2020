@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5565",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-24 06:00:00",
+        "content_list": [
+            {
+                "id": "20796",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2889",
+                "title": "摄影",
+                "forward": "不加思考的热情就像是一条随波逐流的船。",
+                "img_url": "http://image.wufazhuce.com/Fkb06uAbtJ9xFyKlxJtf1Y_K2eMh",
+                "like_count": 16427,
+                "post_date": "2020-07-24 06:00:00",
+                "last_update_date": "2020-07-22 16:48:35",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2848",
+                "pic_info": "Zoltan Tasi",
+                "words_info": "詹姆斯·乔伊斯",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2889",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2889",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2889",
+                    "image": "http://image.wufazhuce.com/Fkb06uAbtJ9xFyKlxJtf1Y_K2eMh",
+                    "title": "VOL.2848",
+                    "content": "不加思考的热情就像是一条随波逐流的船。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2889?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2889?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 不加思考的热情就像是一条随波逐流的船。——詹姆斯·乔伊斯 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2889?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2889?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20792",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4391",
+                "title": "贾超人",
+                "forward": "他要是来推你别生气，那是在跟你打招呼呢。",
+                "img_url": "http://image.wufazhuce.com/FisDw4BqVkzV8C6E_bJr0loeEQsv",
+                "like_count": 1901,
+                "post_date": "2020-07-24 06:00:00",
+                "last_update_date": "2020-07-24 10:21:05",
+                "author": {
+                    "user_id": "11416923",
+                    "user_name": "章一龄",
+                    "desc": "业余写字",
+                    "wb_name": "@章一龄",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "业余写字",
+                    "fans_total": "711",
+                    "web_url": "http://image.wufazhuce.com/Fu9nwj8gWJoWUjy7wqO98UjYs3eU"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4391",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4391",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4391",
+                    "image": "http://image.wufazhuce.com/FisDw4BqVkzV8C6E_bJr0loeEQsv",
+                    "title": "贾超人 作者/章一龄",
+                    "content": "谁tm跳河选在冬天跳啊！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 贾超人",
+                        "desc": "文/章一龄 谁tm跳河选在冬天跳啊！",
+                        "link": "http://m.wufazhuce.com/article/4391?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 贾超人",
+                        "desc": "文/章一龄 谁tm跳河选在冬天跳啊！",
+                        "link": "http://m.wufazhuce.com/article/4391?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 贾超人》 文/章一龄： 谁tm跳河选在冬天跳啊！ 阅读全文：http://m.wufazhuce.com/article/4391?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4391?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "贾超人",
+                        "desc": "谁tm跳河选在冬天跳啊！",
+                        "link": "http://m.wufazhuce.com/article/4391?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20688",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1238",
+                "title": "维多利亚的派对·第十六章：蝼蚁之巢",
+                "forward": "你看那些山脚下的人，像不像虫子？",
+                "img_url": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                "like_count": 704,
+                "post_date": "2020-07-24 06:00:00",
+                "last_update_date": "2020-07-06 11:22:41",
+                "author": {
+                    "user_id": "9618188",
+                    "user_name": "吴沚默",
+                    "desc": "编剧，TVB演员。",
+                    "wb_name": "@吳沚默momo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，TVB演员。",
+                    "fans_total": "4493",
+                    "web_url": "http://image.wufazhuce.com/Fo5OsUHwTVzmosA0MtZMBJV9tOWs"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第16章",
+                "number": "16",
+                "serial_id": "86",
+                "serial_list": [
+                    "1215",
+                    "1217",
+                    "1218",
+                    "1219",
+                    "1220",
+                    "1225",
+                    "1226",
+                    "1227",
+                    "1228",
+                    "1232",
+                    "1233",
+                    "1234",
+                    "1235",
+                    "1236",
+                    "1237",
+                    "1238",
+                    "1239",
+                    "1260",
+                    "1261",
+                    "1262",
+                    "1263",
+                    "1264",
+                    "1265",
+                    "1266",
+                    "1267",
+                    "1268",
+                    "1269"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1238",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1238",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1238",
+                    "image": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                    "title": "维多利亚的派对·第十六章：蝼蚁之巢 作者/吴沚默",
+                    "content": "你看那些山脚下的人，像不像虫子？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 维多利亚的派对·第十六章：蝼蚁之巢",
+                        "desc": "文/吴沚默 你看那些山脚下的人，像不像虫子？",
+                        "link": "http://m.wufazhuce.com/serial/1238?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 维多利亚的派对·第十六章：蝼蚁之巢",
+                        "desc": "文/吴沚默 你看那些山脚下的人，像不像虫子？",
+                        "link": "http://m.wufazhuce.com/serial/1238?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 维多利亚的派对·第十六章：蝼蚁之巢》 文/吴沚默： 你看那些山脚下的人，像不像虫子？ 阅读全文：http://m.wufazhuce.com/serial/1238?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1238?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "维多利亚的派对·第十六章：蝼蚁之巢",
+                        "desc": "你看那些山脚下的人，像不像虫子？",
+                        "link": "http://m.wufazhuce.com/serial/1238?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20811",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2922",
+                "title": "如何处理感情受伤所留下的后遗症？",
+                "forward": "那种被打碎的痛感，还是能顺着时间的细线蔓延过来，原始的肌肉记忆一般，向你散发出逃离的讯号。",
+                "img_url": "http://image.wufazhuce.com/Fkne2NV05r0vQo4osaYxoSSmxgTK",
+                "like_count": 1951,
+                "post_date": "2020-07-24 06:00:00",
+                "last_update_date": "2020-07-23 12:17:30",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "永远善良的永善",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2922",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2922",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2922",
+                    "image": "http://image.wufazhuce.com/Fkne2NV05r0vQo4osaYxoSSmxgTK",
+                    "title": "如何处理感情受伤所留下的后遗症？",
+                    "content": "如何处理感情受伤所留下的后遗症？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何处理感情受伤所留下的后遗症？",
+                        "desc": "文/陈大力 人永远在跟过去的自己交战。",
+                        "link": "http://m.wufazhuce.com/question/2922?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何处理感情受伤所留下的后遗症？",
+                        "desc": "文/陈大力 人永远在跟过去的自己交战。",
+                        "link": "http://m.wufazhuce.com/question/2922?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何处理感情受伤所留下的后遗症？》 文/陈大力： 人永远在跟过去的自己交战。 阅读全文：http://m.wufazhuce.com/question/2922?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2922?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何处理感情受伤所留下的后遗症？",
+                        "desc": "人永远在跟过去的自己交战。",
+                        "link": "http://m.wufazhuce.com/question/2922?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "7989297",
+                    "user_name": "陈大力",
+                    "desc": "陈大力，95后新锐作者，无敌大长腿，钻石少女心。公众号：陈大力（ID:chendali1995）",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "95后新锐作者，无敌大长腿，钻石少女心。",
+                    "fans_total": "9855",
+                    "web_url": "http://image.wufazhuce.com/Fm7qZ68h0XjMceY1WWp7-ykCX29R"
+                }
+            },
+            {
+                "id": "20809",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3298",
+                "title": "爱情这件事，别太较真",
+                "forward": "不过，怎样都是一辈子，俩人儿想一块儿过，最要紧的是要把爱情当儿戏。",
+                "img_url": "http://image.wufazhuce.com/FtdxkdrZnkf3Ux21r7jxOKpL1no8",
+                "like_count": 1719,
+                "post_date": "2020-07-24 06:00:00",
+                "last_update_date": "2020-11-02 11:42:24",
+                "author": {
+                    "user_id": "11431295",
+                    "user_name": "焦雨溪",
+                    "desc": "一个怕冷的人，前十八年一直生活在只有冬夏没有春秋的山城，后来大学去了永无冬日的南洋岛。不喜欢走马观花，想虔诚生活。 \r\n河北省作家协会会员。2015年获“会师四”90后全国创意小说战全国60强，蔡骏组前三。2017年第十九届新概念C组入围。2018年出版个人小说集《山宇河宙》。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "隐性温柔家，相信生活才需要天赋。",
+                    "fans_total": "481",
+                    "web_url": "http://image.wufazhuce.com/FoLq205PUG4M6pbAa88vBKfONeZA"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/FnCqMVJhtOIaLXHQuma-9pBoTcEN",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "缤纷月光",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3298",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3298",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3298",
+                    "image": "http://image.wufazhuce.com/FtdxkdrZnkf3Ux21r7jxOKpL1no8",
+                    "title": "「一个」音乐: 焦雨溪 缤纷月光",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  我跳上那列火车时是傍晚，天刚蒙上一层淡灰，月亮伴着太阳的余光跑出来，在两片云彩之间，像只瞪圆了的眼睛。&ldquo;啊，今天是满月。&rdquo;两人间的卧铺里，对面的中年女人和我说道。她很热情，我一进门，就主动帮我放行李。她力气大得惊人，单手就拎起了我的皮箱，一把放在上面的夹层里了。那里面装着我写作用的巴洛克机械键盘，还有几本厚诗集，几瓶护肤品。可能也不算很沉，但对我来说需要两只手才能拎得动。&ldquo;对啊，是满月。&rdquo;我随意应付着这场对话。过去的许多年里，每个周末我都要坐火车去看林渊。在火车上，我总会遇到谈得来或谈不来的人，但无论相处得好与坏，只要火车到站，我们离开了这个封闭的车厢，就会再次变成形同陌路的陌生人。对于这种热情款的车伴，我有过经验，如果相处得太好，告别时会有种刚结束一夜情的尴尬。所以，我刻意保持着距离。女人分享给我一包瓜子：&ldquo;你是去做什么？&rdquo;我接过瓜子：&ldquo;去找......我爱人。&rdquo;我想了半天，觉得&ldquo;爱人&rdquo;这个词现在已经可以重新启用了。&ldquo;真好啊，我爱人去世很多年了，我这次是去接我妈来我家住，儿子上大学走了，就剩我咯！&rdquo;女人靠在床边，嘎巴嘎巴地嗑瓜子。我点点头，没再接话。此时，窗外的月亮在天空中已经成了光源主力，今晚星星很少，只有一两颗突兀的闪烁，闪烁的节奏和火车的&ldquo;哐当哐当&rdquo;出奇一致。我这次坐上火车，是去复婚的。三天前，我接到了前夫林渊的短信。短信被他用回车键隔成三行，像极了一首诗：亲爱的/你/请再次成为我的妻子。我们通过电话后，我跳上了火车。像离婚之前一样，我们的异地婚姻里，一直是我去找他。这不能怪林渊，他做律师很忙，客户多，一个接一个的案子，说不定他什么时候跑过来找我，就错过了几万块。那时林渊和我说：&ldquo;爱情经济学，几十块的火车票换我昂贵的时间，这样划算。&rdquo;确实林渊很会理财，很快我们就有了两套房子，一套在我工作的医院旁边，一套在他的律所旁。他只在装修时来过&ldquo;我家&rdquo;，&ldquo;他家&rdquo;我每周轮休的时候都去。回过神时女人已经打起了鼾，她靠在被褥垛上睡着了，手里的瓜子也掉在了地上。我把我的被子展开给她盖上，又爬到上面打开行李箱，拿出巴洛克键盘和平板，想写点什么。车停靠时，一对年轻情侣敲我们单间的门，核对车票后发现走错了两个人笑嘻嘻的跑远了，手牵着手。我回身发现女人已经被吵醒了，她也不恼，睁大眼睛看着我的机械键盘说：&ldquo;你这键盘，怎么这么大个儿啊，挺沉的吧？这大箱子里可就装它了吧？&rdquo;我和她解释，这种机械键盘，是模仿蒸汽时代的打字机设计的，体积大，但是用起来手感很好。这键盘确实笨重，很久之前，我和林渊因为他争吵过。当时我们去旅行，他站在西安的街头，一把摔下手中的箱子，语气极其克制：&ldquo;你说你，出来为什么要带这么大的键盘，这箱子太重了，能不能给它寄回去，下次不带了行不行？&rdquo;我很珍惜两个人相聚的机会，结婚后，我暂时没能调去林渊城市的医院，林渊为了让放心，答应每个月我休月假时，他都请两天假，带我去旅行。于是我点点头：&ldquo;那就寄回去吧。&rdquo;可能因为我太过平静，林渊有些不好意思，他一边把键盘拿出来，一边轻声说着：&ldquo;唉，是真的太沉了。&rdquo;我理解的点着头。但他画蛇添足了：&ldquo;你的手拿手术刀拿得那么好，写什么诗啊，多无聊。&rdquo;我突然心头有些发紧：&ldquo;我的诗，前段时间选入了一个诗集。&rdquo;他似乎没注意到我脸色的变化，低头打包，继续说：&ldquo;但却是也没什么用，你不如把时间都用在工作上，你升了主治医师，就能调动了。&rdquo;他再抬起头的时候，我已经走了。那天他回到酒店，发现我一个人躺在床上。林渊很聪明，不再提白天的事情，也没埋怨我不告而别。他拉着我去吃了宵夜，去看了烟火。在五光十色的火花下，我们似乎又变成什么都没发生过的样子了。而且从那以后，我们每一次旅行，林渊都执意带着那个大键盘，即使它真的很沉，勒红了他的手。&ldquo;你那位，是做什么的？&rdquo;女人打开一桶泡面，往里面放着佐料。&ldquo;他做律师的。&rdquo;我看得有些饿，也打开了我带的那桶。我们一同去接热水。&ldquo;那他挺忙的吧？&rdquo;女人一边接热水一边问我，她刚接满，热水机里就没热水了，显示要等五分钟。&ldquo;我太忙了，还在开会呢。&rdquo;一个男声冒了出来，我和女人转头，看到了车厢里一个正在打电话的男人，他挂了电话又拨通，语气态度明显不一样了，嘴角翘起来，眼神也开始欢乐地闪烁。我和女人会意一笑，热水来了，我们端着两桶泡面一起回到了车厢。女人一边吸泡面一边说：&ldquo;男人，真的爱偷腥，你看那表情，一看就是......&rdquo;我点了点头：&ldquo;对啊，男人都以为我们看不出来，其实光看表情就已经很明显了。&rdquo;离婚前的最后一次旅行，是去三亚。白天林渊带我去潜水，晚上海边烤肉，一天下来很累，他没洗澡就躺在床上睡着了。我有洁癖，强忍着困意去洗澡，却发现一次性拖鞋没有了，给服务台打电话也没人接。我拿着房卡悄悄出去了，怕吵醒林渊，他睡觉时被吵醒会发脾气。但我拿着拖鞋回来时，却发现他坐在床上打电话。见我进来他倒是没有挂断，一本正经地谈着些什么，但是表情实在太奇怪了，那不是他被吵醒的表情，那天他的脸上带着充满倦意的幸福。想到这里，我想直接拿着行李在下一站下车，回家去，不复婚了。&ldquo;不过，怎样都是一辈子，俩人儿想一块儿过，最要紧的是要把爱情当儿戏。&rdquo;女人看着我，&ldquo;你们还年轻，多好，我这个年纪，谁走了，就是一辈子见不着了。&rdquo;&ldquo;可将就，不会心里堵得慌么？&rdquo;我吃着面抬眼看她。&ldquo;畅快也好，堵着也好，不孤单就好，到我这岁数你就懂了，有个伴儿挺重要的。&rdquo;女人点起一支烟，月光透过许多变幻的树影打在她脸上，有那么一会儿，她居然看起来有些年轻。&ldquo;确实如此。&rdquo;我开始变得平静下来，所以这次我去找林渊复婚，是为了重燃爱火吗？应该不是。离婚的半年以来，我也见过许多男人，但是条件都没有林渊好。与许多人聊天，都不会有心意相通的感觉。那些人，有大把的时间陪伴我，但他们的陪伴却使我更加孤独。火车到终点站时，我被列车员叫醒。对铺的女人已经不在了，行李整整齐齐摆放在那里，或许她是提前下车了。我把大箱子拿下来，发现它没有那么沉，我一只手也能拎动。来不及想太多，我跑向了在车窗外向我挥手的林渊。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 爱情这件事，别太较真",
+                        "desc": "文/焦雨溪 不合时宜的相遇和分开，总教人心疼。",
+                        "link": "http://m.wufazhuce.com/music/3298?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 爱情这件事，别太较真",
+                        "desc": "文/焦雨溪 不合时宜的相遇和分开，总教人心疼。",
+                        "link": "http://m.wufazhuce.com/music/3298?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 爱情这件事，别太较真》 文/焦雨溪： 不合时宜的相遇和分开，总教人心疼。 阅读全文：http://m.wufazhuce.com/music/3298?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3298?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "爱情这件事，别太较真",
+                        "desc": "不合时宜的相遇和分开，总教人心疼。",
+                        "link": "http://m.wufazhuce.com/music/3298?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "缤纷月光",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "张程",
+                "audio_album": "缤纷月光",
+                "cover": "http://image.wufazhuce.com/FngmHAv8nGzFjePOBRSKp7Zo_ino",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2848",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4391",
+                    "title": "贾超人"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1238",
+                    "serial_list": [
+                        "1215",
+                        "1217",
+                        "1218",
+                        "1219",
+                        "1220",
+                        "1225",
+                        "1226",
+                        "1227",
+                        "1228",
+                        "1232",
+                        "1233",
+                        "1234",
+                        "1235",
+                        "1236",
+                        "1237",
+                        "1238",
+                        "1239",
+                        "1260",
+                        "1261",
+                        "1262",
+                        "1263",
+                        "1264",
+                        "1265",
+                        "1266",
+                        "1267",
+                        "1268",
+                        "1269"
+                    ],
+                    "title": "维多利亚的派对·第十六章：蝼蚁之巢"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2922",
+                    "title": "如何处理感情受伤所留下的后遗症？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3298",
+                    "title": "爱情这件事，别太较真"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

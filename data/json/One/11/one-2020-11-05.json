@@ -1,0 +1,575 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5672",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-11-05 06:00:00",
+        "content_list": [
+            {
+                "id": "21381",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2994",
+                "title": "摄影",
+                "forward": "无论爱情开始得多么灿烂美丽，如果你不只是想要谈谈恋爱好玩，而是想寻求可以一起成长、一起创造，一起生活，甚至一起共度一生的人，最重要的，还是要选择有能力的爱人，并且爱你的人。",
+                "img_url": "http://image.wufazhuce.com/FtzpGHatZDPEBwmFcy0KBs0EyX66",
+                "like_count": 15355,
+                "post_date": "2020-11-05 06:00:00",
+                "last_update_date": "2020-11-02 13:11:37",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2952",
+                "pic_info": "Chiến Phạm",
+                "words_info": "陈雪",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2994",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2994",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2994",
+                    "image": "http://image.wufazhuce.com/FtzpGHatZDPEBwmFcy0KBs0EyX66",
+                    "title": "VOL.2952",
+                    "content": "无论爱情开始得多么灿烂美丽，如果你不只是想要谈谈恋爱好玩，而是想寻求可以一起成长、一起创造，一起生活，甚至一起共度一生的人，最重要的，还是要选择有能力的爱人，并且爱你的人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2994?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2994?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 无论爱情开始得多么灿烂美丽，如果你不只是想要谈谈恋爱好玩，而是想寻求可以一起成长、一起创造，一起生活，甚至一起共度一生的人，最重要的，还是要选择有能力的爱人，并且爱你的人。——陈雪 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2994?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2994?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21360",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4495",
+                "title": "无处就坐",
+                "forward": "人活着到底为了什么，辛辛苦苦一辈子，一个小玩意，仿佛什么都能上来摆弄一下。",
+                "img_url": "http://image.wufazhuce.com/FgHuZw9OA6WX0zkcq_rhkSpPtSB1",
+                "like_count": 1935,
+                "post_date": "2020-11-05 06:00:00",
+                "last_update_date": "2020-11-05 09:16:56",
+                "author": {
+                    "user_id": "10957830",
+                    "user_name": "王萌",
+                    "desc": "诗歌公众号：打铜巷。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者。",
+                    "fans_total": "410",
+                    "web_url": "http://image.wufazhuce.com/Fv11S4Cn4y2rxS0BZsyJMD9YFIYa"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4495",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4495",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4495",
+                    "image": "http://image.wufazhuce.com/FgHuZw9OA6WX0zkcq_rhkSpPtSB1",
+                    "title": "无处就坐 作者/王萌",
+                    "content": "两张年轻的脸面面相觑，一阵荒凉，仿佛抵押在人间的人质。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 无处就坐",
+                        "desc": "文/王萌 两张年轻的脸面面相觑，一阵荒凉，仿佛抵押在人间的人质。",
+                        "link": "http://m.wufazhuce.com/article/4495?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 无处就坐",
+                        "desc": "文/王萌 两张年轻的脸面面相觑，一阵荒凉，仿佛抵押在人间的人质。",
+                        "link": "http://m.wufazhuce.com/article/4495?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 无处就坐》 文/王萌： 两张年轻的脸面面相觑，一阵荒凉，仿佛抵押在人间的人质。 阅读全文：http://m.wufazhuce.com/article/4495?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4495?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "无处就坐",
+                        "desc": "两张年轻的脸面面相觑，一阵荒凉，仿佛抵押在人间的人质。",
+                        "link": "http://m.wufazhuce.com/article/4495?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21303",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1325",
+                "title": "制作人们·第十二章：闷声发大财",
+                "forward": "前辈们的人品都很烂，你是今天才知道吗？",
+                "img_url": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                "like_count": 679,
+                "post_date": "2020-11-05 06:00:00",
+                "last_update_date": "2020-10-16 15:11:20",
+                "author": {
+                    "user_id": "11601297",
+                    "user_name": "鳄鱼姐",
+                    "desc": "每次觉得好像终于明白了人生，下一个阶段又继续迷茫起来了。",
+                    "wb_name": "@鳄鱼姐233",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "喝酒非常好，可我一杯倒。",
+                    "fans_total": "318",
+                    "web_url": "http://image.wufazhuce.com/FrRYZtPems-KoHx6DXJsMO-xJBia"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第12章",
+                "number": "12",
+                "serial_id": "90",
+                "serial_list": [
+                    "1307",
+                    "1315",
+                    "1316",
+                    "1317",
+                    "1318",
+                    "1319",
+                    "1320",
+                    "1321",
+                    "1322",
+                    "1323",
+                    "1324",
+                    "1325",
+                    "1326",
+                    "1327",
+                    "1328",
+                    "1329"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1325",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1325",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1325",
+                    "image": "http://image.wufazhuce.com/FiX9q3vzxBZBwTnMbQPZy9RjZqkY",
+                    "title": "制作人们·第十二章：闷声发大财 作者/鳄鱼姐",
+                    "content": "前辈们的人品都很烂，你是今天才知道吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 制作人们·第十二章：闷声发大财",
+                        "desc": "文/鳄鱼姐 前辈们的人品都很烂，你是今天才知道吗？",
+                        "link": "http://m.wufazhuce.com/serial/1325?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 制作人们·第十二章：闷声发大财",
+                        "desc": "文/鳄鱼姐 前辈们的人品都很烂，你是今天才知道吗？",
+                        "link": "http://m.wufazhuce.com/serial/1325?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 制作人们·第十二章：闷声发大财》 文/鳄鱼姐： 前辈们的人品都很烂，你是今天才知道吗？ 阅读全文：http://m.wufazhuce.com/serial/1325?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1325?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "制作人们·第十二章：闷声发大财",
+                        "desc": "前辈们的人品都很烂，你是今天才知道吗？",
+                        "link": "http://m.wufazhuce.com/serial/1325?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21390",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3027",
+                "title": "暗恋一个不可能得到的人是什么感觉？",
+                "forward": "像吃了甜味的药，又像吃了苦味的糖，只觉心里同时被痛击和治愈。",
+                "img_url": "http://image.wufazhuce.com/FgY8vx0t0DzZfF7gj4UnYwTtmehW",
+                "like_count": 2687,
+                "post_date": "2020-11-05 06:00:00",
+                "last_update_date": "2020-11-04 17:24:16",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "半夏微凉",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3027",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3027",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3027",
+                    "image": "http://image.wufazhuce.com/FgY8vx0t0DzZfF7gj4UnYwTtmehW",
+                    "title": "暗恋一个不可能得到的人是什么感觉？",
+                    "content": "暗恋一个不可能得到的人是什么感觉？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 暗恋一个不可能得到的人是什么感觉？",
+                        "desc": "文/孙振宇 感觉自己是一团失去形状的影子。",
+                        "link": "http://m.wufazhuce.com/question/3027?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 暗恋一个不可能得到的人是什么感觉？",
+                        "desc": "文/孙振宇 感觉自己是一团失去形状的影子。",
+                        "link": "http://m.wufazhuce.com/question/3027?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 暗恋一个不可能得到的人是什么感觉？》 文/孙振宇： 感觉自己是一团失去形状的影子。 阅读全文：http://m.wufazhuce.com/question/3027?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3027?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "暗恋一个不可能得到的人是什么感觉？",
+                        "desc": "感觉自己是一团失去形状的影子。",
+                        "link": "http://m.wufazhuce.com/question/3027?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11489482",
+                    "user_name": "孙振宇",
+                    "desc": "青年写作者，贵州凯里人，擅长搞笑，喜欢折耳根、今敏和一个人听歌。愿望是走向糖霜共和，抵达银河主义。",
+                    "wb_name": "@孙大棒goku",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者，公众号：宇宙酒",
+                    "fans_total": "615",
+                    "web_url": "http://image.wufazhuce.com/Fnwii_4IlSfce2Qi14hlr51nQmoe"
+                }
+            },
+            {
+                "id": "21391",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2073",
+                "title": "40年，动画打工人的一场爆款梦",
+                "forward": "小时候集齐一整套的愿望，有谁还记得？",
+                "img_url": "http://image.wufazhuce.com/FrvIwk5gNFe9mcdoV16Q3XpwmuAX",
+                "like_count": 1378,
+                "post_date": "2020-11-05 06:00:00",
+                "last_update_date": "2020-11-05 13:47:10",
+                "author": {
+                    "user_id": "11407032",
+                    "user_name": "第十放映室",
+                    "desc": "解读说实话，批评有实据，只因小十君做人够实在。 第十放映室，一个就爱瞎说大实话的原创电影公众号。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个就爱瞎说大实话的原创电影公众号。",
+                    "fans_total": "127",
+                    "web_url": "http://image.wufazhuce.com/FnkxH03Hjcwp3IvoIGkQZ0WX89pR"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "乌龙院",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5056",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2073",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2073",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2073",
+                    "image": "http://image.wufazhuce.com/FrvIwk5gNFe9mcdoV16Q3XpwmuAX",
+                    "title": "「一个」电影: 乌龙院",
+                    "content": "上世纪70年代初，宝岛台湾曾是日本最大的动画代工厂。由于当局对本土&ldquo;审查制度&rdquo;的设限，大批赋闲在家的漫画家被日本人招募。彼时一个20岁出头的年轻人，敖幼祥，便是这其中的一位。笔耕不辍地给《小蜜蜂寻亲记》《科学小飞侠》等日漫输出了一沓沓画稿之后，打工仔敖幼祥闲时一琢磨，有些恍惚&mdash;&mdash;每天废眼睛的工作干下来，自己除了高度近视，好像并没能收获到其他东西。▲《小蜜蜂寻亲记》剧照他原本想学的是动画制作，可到头来连个基本的分镜都没搞清。日本人当时对台湾这座代工厂，突出着一个谨慎，&ldquo;分镜总跳着给，不让人偷师&rdquo;。所以不单是敖幼祥，大部分动画人只能按照图纸依样画葫芦，稳定生产别人想象中的产品。纯卖劳动力的情况一直持续到70年代末，红极一时的港漫漂向台湾。那会有部四格漫画《老夫子》，率先为港台两地的合作伸出了云梯。借此机会，台湾动画人才得以第一次打开自主创作的大门。而这批探路者当中，自然也少不了敖幼祥的身影。时代的命运，便是在这里埋下了一个铺垫&mdash;&mdash;日后影响两岸三地原创漫画的才子&ldquo;大师兄&rdquo;，是经由《老夫子》启蒙而转型的。在这之前，敖幼祥既没听说过大番薯、秦先生，也不了解所谓的四格漫画。出于原画师的职责，他才开始大量翻阅起原作。这一翻，除了让他感叹&ldquo;一页之内那么好笑&rdquo;，也对这种创作形式产生了兴趣。1980年，《老夫子》的动画成果顺利交到香港片方手中。随后的台湾探路者们，碍于资金体系等问题，大多又回到了替人代工的小路上。敖幼祥当下就觉得，反正在动画里待着发挥有限，还不如出去干自己的创作。已有七年绘制经验的他，在台湾《民生报》里找到一角，刊载四格漫画《皮皮》。这篇为救场《史努比》而临时构思的小狗故事，因可爱画风和有趣内容，一登出就受到了读者与报界的肯定。凭处女作打出些名号，另一家报纸也找到了敖幼祥。彼时身处80年代初的人们，正普遍沉迷于电影和小说所带来的强势武侠风。作为一个同等重要的娱乐形式，漫画当然不能落后。所以应报社要求，敖幼祥又以武功为内核，搭配搞笑画风，创作出了新作品。一部线条极简的系列漫画，即便如今隔着几十年的时光回望&mdash;&mdash;仍旧是一个&ldquo;怪物般的存在&rdquo;。对于80、90两代而言，在惊讶它做了那么久的同时，更惊叹于它能做得那么火。1980年，在台湾的《中国时报》开始连载。1985年，逆势登上日本讲谈社《Morning》月刊。期间几十年的时间，共计出了四格漫画系列24册，爆笑漫画系列18册，大长篇漫画系列32册，大长篇故事前传28册&hellip;&hellip;现如今，由它搭起的是一座名为&ldquo;国漫销量1.2亿册&rdquo;的巨塔。而这个数字，还不包括最初流行于市面的盗版。你看过《乌龙院》吗？你上课偷看过《乌龙院》吗？你上课偷看《乌龙院》被老师没收过吗？一本让无数少年感怀岁月的幽默宝典，就此登场。放眼国内，华人原创漫画若有如此受众，从纸面走向荧幕，将是必然。今年40岁的《乌龙院》，纵然有寥寥几笔影像痕迹，始终没能留下一道经典。在读者观众的眼中，这个IP改编无异于一片情怀的蓝海。而在作者敖幼祥的眼中，它则注定要成为一个抹不去的梦。&nbsp;01.80%的尝试满篇硬核的快乐，是《乌龙院》从最早的四格漫画系列起便主打的风格。它以七百多年前的宋朝为舞台，讲述着一段提神醒脑的武林趣事&mdash;&mdash;从前有座山，山上有座庙，庙里有四师徒，天生爱搞笑。大师父的长眉能接飞刀，二师父的大耳能拍蚊子。大师兄用脚来洗碗，小师弟最爱玩花招。身怀异能、画风清奇的四个人，一面闭门礼佛习武，一面挑战江湖。尽管身为佛门弟子，本应清心寡欲。但他们秉承&ldquo;酒肉穿肠过，佛祖心中留&rdquo;的信条，见财会起意，见色会忘友。是僧？还是俗？没人能说清，也没人会care。师徒四人的日常，本质上像一包精神小零食，充斥着屎尿屁的搞笑情节。此外随处可见的内涵段子，放到懵懂的小学生面前，又不失为一种刺激体验。可以说《乌龙院》早年的流行，就是让天真少年在枯燥的学习之外，掘到了一丝搞笑与情趣对冲的满足。其实内地校园真正刮起《乌龙院》旋风，已是它诞生后第22个年头的事了。2002年，将近50岁的敖幼祥，以一个新人的角色首次来到广东珠海。在此之前的很长时间，他都没有动过笔，而是窝在台湾乡下过清闲日子。因为想和当年参与制作《老夫子》一样，把《乌龙院》改编成经典动画&mdash;&mdash;敖幼祥十几年来反复尝试。很多人或许不知道，1984年《乌龙院》曾出过一版动画电影。而那也是继《老夫子》之后，敖幼祥与香港团队又一次合作。在这部电影里，他甚至还亲自上阵做起了导演。以自己早期的四格漫画为蓝本，讲述乌龙院上下为守护秘宝《无字天书》，与反派魔王斗智斗勇的冒险。尽管以当时的审美来看，这部片已然做到了笑料与江湖的结合。但碍于时机不成熟，人们对台湾漫画不热络，商业成绩并不理想。首战落败，不服输的敖幼祥此后又将自己的版权悉数交出&mdash;&mdash;以木偶剧、布袋戏等五花八门的形式，让《乌龙院》登上荧幕。▲画风略带诡异，黑白照更刺激可无论翻拍亦或衍生，没有一个是真正做出来的。广撒网仍无收获，这也导致他&ldquo;回过头去看旧作品，都觉得自己技术很差&rdquo;。浓烈的不满意在敖幼祥当时的作品里弥散，最后他索性不画了。2000年左右，内地经济起飞，珠海一带渐渐开始成为新的漫画基地。随之不断有投资人跑到台湾，去敲敖幼祥的门。几番沟通后，对方以为自己终于说动了敖幼祥，将为内地漫画带来一个资深创作者。但只有敖幼祥心里知道，他是瞅准了市场，来接着搞动画的。漫画是原始创作，动画是进阶梦想，这两点无论何时他都要分清。到珠海最初的两年，敖幼祥做的都是准备工作。他把四格漫画《乌龙院》原稿改了改，然后便有了我们熟悉的红色小开本口袋书。这种单行本刚一面世，就极其灵性地以轻松愉快的&ldquo;绿色休闲读物&rdquo;，迅速走红。而这之后他又和内地公司合作，推出了小学生上课必备读物，《漫画世界》。这本周刊也为敖幼祥搭建起一个平台，让他能连载新的《乌龙院》爆笑故事。为了打开市场，《漫画世界》还一度在众多漫画杂志中不断杀价。直到孩子们一个星期花上五块钱，就能在学校附近小卖店买到一本刊登《乌龙院》的杂志&mdash;&mdash;敖幼祥觉得，这回时机应该成熟了。2006年，他委托内地导演、&ldquo;喜羊羊之父&rdquo;黄伟明，用《乌龙院》四格漫画&ldquo;偷天换日&rdquo;的章节，制作了一款flash动画样片。在十几分钟的片段里，故事围绕打击盗版，铺满了师徒四人插科打诨的笑料。拿着这个样片，敖幼祥在内地转了一圈，结果意外的是&mdash;&mdash;市场还是没给他一点点反应。那时的他忽略了一件很重要的事：《乌龙院》的红火，只限于校园的课桌下。换句话说，小学生再喜欢这部漫画，改编与否的话语权也不在他们手里。掌握着改编话语权的大人们，彼时更喜欢Q萌低幼的《喜羊羊》《猪猪侠》《憨八龟》&hellip;&hellip;就连昔日港台红人老夫子，都应时代要求变成了小夫子。▲这几位弟弟，你们是谁？不得不承认，虽然漫画界有不错的位置，但于动画老本行，敖幼祥一直在失败。而无论是自己制作还是被人改编，他本人最耿耿于怀的就一点&mdash;&mdash;&ldquo;80%都是有尝试却没有做完&rdquo;。&nbsp;02.90%的圆满最初的四格漫画《乌龙院》，怎么看都不像是个有头有尾的故事。一张纸里四个格子纵向排开，扫一眼十几秒就能看完一个段子。这也是为什么有人后来想起，会觉得它没有情节，完全只是为讲笑话而存在。2006年，大长篇系列的出现，让&ldquo;乌龙院宇宙&rdquo;迎来了真正的高光时刻。它的故事，起源于一只突然出现的猫咪和一条印有谜语的锦鲤。接下来七年多的时间，乌龙院众人便围绕着秦始皇留下的、名叫&ldquo;活宝&rdquo;的万年老参精，展开了寻宝之旅。先是在断云山找到活宝的身体，继而一路踏破五行之地。经历了铁堡所在的铁桶坡（金）、神木村后的五老林（木）、大雪山底的青春池（水）、烤骨沙漠深处的地狱谷（火）。在这些地方，他们分别找到了活宝的四肢。最后又登上极乐岛，去挑战更艰难的探险奇遇。从四格到多格，一面是动画无人问津，一面是漫画迭代升级。其实，如果当时敖幼祥没有把精力继续分心到他的动画梦上&mdash;&mdash;相信《乌龙院》一定不会只是特供我们这一代人的回忆。在大长篇系列里，你能看到人物刻画更加大胆，有很多国漫少见的美型风格。情节也更加跌宕，特别是在铁桶坡、五老林，像摆棋局一样推出各方势力。而到了要玩真格的时候，画起暴力、杀起人来敖幼祥又是毫不手软。前十几卷的大长篇，我很愿意把它称之为国漫神作。是无论何时把它翻出来，都能纵享丝滑体验，嗑到废寝忘食的程度。不过这种爽感仅仅持续到2010年，动画追梦人敖幼祥再次上线。他先是把《乌龙院》大长篇送去了吉林，在那改编成《乌龙院&middot;长白传奇》。作为一部104集的电视动画，制作方曾号称要拿它做中国里程碑式的作品。然而当年虽有央视、各卫视及各地方电视提供荧屏，但最终反响还是平平。因为出来的成品低龄化不见血，配音又属实烂，根本看不见原作的爆发力。▲人物也被改的很僵那之后，不死心的敖幼祥又南下杭州，和另一家公司签了约。一场高调的发布会，制作人提出要&ldquo;围绕这个经典IP，全方位开发产业链&rdquo;。只可惜口号喊得再响，还是绕不开一个事实&mdash;&mdash;观众也好，读者也罢，对这个故事本身已没有新期待。53岁的作者，早在漫画原作的中期，五老林篇章就开始创作力下滑。笔下几个boss接连暴毙，所有伏笔都没顾及，不少重要人物更是直接失踪。在日漫席卷网络的新时代，收尾如此仓促，显然留不住口味日渐挑剔的孩子。但是制作公司既然签了合约，就一定要交出作品。《乌龙院之活宝传奇》第一季，还能以情怀为石，激起一片水花。可到了第二季，原作剧情的疲软就已唤不醒观众想要追下去的欲望。▲大概是豆瓣打分人数不够，连评分都没出去年，内地暑期档一部《哪吒》点燃了票房，也震动了台湾的动画行业。在推特上，敖幼祥发表了一篇文章，言语间满是感叹与羡慕。他后来坦言，如果现在再做选择，他会更希望能也做一部《乌龙院》的动画电影。这么多年的实践，证明了&ldquo;电视动画太难搞了，路程太漫长，细节无法控制&ldquo;。可动画电影，似乎就只需要把一个篇章从头到尾讲精彩。所以&ldquo;争取能够一年拍摄一集，这个我觉得还是可行的&rdquo;。而作为一名读者和观众，其实我更想说的是：只要敖老师能劳神，改改您那大长篇的结局，为了小学上课时看您书被没收的回忆，我也愿意再试试。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 40年，动画打工人的一场爆款梦",
+                        "desc": "文/第十放映室 小时候集齐一整套的愿望，有谁还记得？",
+                        "link": "http://m.wufazhuce.com/movie/2073?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 40年，动画打工人的一场爆款梦",
+                        "desc": "文/第十放映室 小时候集齐一整套的愿望，有谁还记得？",
+                        "link": "http://m.wufazhuce.com/movie/2073?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 40年，动画打工人的一场爆款梦》 文/第十放映室： 小时候集齐一整套的愿望，有谁还记得？ 阅读全文：http://m.wufazhuce.com/movie/2073?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2073?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "40年，动画打工人的一场爆款梦",
+                        "desc": "小时候集齐一整套的愿望，有谁还记得？",
+                        "link": "http://m.wufazhuce.com/movie/2073?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21304",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3318",
+                "title": "当病痛来敲门",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FtFgyemnHX44pEskqAgmgLn7zp4g?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1075,
+                "post_date": "2020-11-05 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3318",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3318",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 当病痛来敲门",
+                        "desc": "有些人长大的瞬间，就是一场不大不小的病情",
+                        "link": "http://m.wufazhuce.com/radio/3318?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lue8KpMsmBxnYjplwc4HD3aLNriQ"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 当病痛来敲门",
+                        "desc": "有些人长大的瞬间，就是一场不大不小的病情",
+                        "link": "http://m.wufazhuce.com/radio/3318?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lue8KpMsmBxnYjplwc4HD3aLNriQ"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 当病痛来敲门》 主播/李荟莹： 有些人长大的瞬间，就是一场不大不小的病情 阅读全文：http://m.wufazhuce.com/radio/3318?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3318?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lue8KpMsmBxnYjplwc4HD3aLNriQ"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "当病痛来敲门",
+                        "link": "http://m.wufazhuce.com/radio/3318?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lue8KpMsmBxnYjplwc4HD3aLNriQ"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 910 期",
+                "audio_url": "http://music.wufazhuce.com/lue8KpMsmBxnYjplwc4HD3aLNriQ"
+            }
+        ],
+        "menu": {
+            "vol": "2952",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4495",
+                    "title": "无处就坐"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1325",
+                    "serial_list": [
+                        "1307",
+                        "1315",
+                        "1316",
+                        "1317",
+                        "1318",
+                        "1319",
+                        "1320",
+                        "1321",
+                        "1322",
+                        "1323",
+                        "1324",
+                        "1325",
+                        "1326",
+                        "1327",
+                        "1328",
+                        "1329"
+                    ],
+                    "title": "制作人们·第十二章：闷声发大财"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3027",
+                    "title": "暗恋一个不可能得到的人是什么感觉？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2073",
+                    "title": "40年，动画打工人的一场爆款梦"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3318",
+                    "title": "当病痛来敲门"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

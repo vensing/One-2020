@@ -1,0 +1,571 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5476",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-04-18 06:00:00",
+        "content_list": [
+            {
+                "id": "20194",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2792",
+                "title": "插画",
+                "forward": "几处早莺争暖树，谁家新燕啄春泥。",
+                "img_url": "http://image.wufazhuce.com/FsXSBHTmQ5X3QFoWSecaW9zdx57Z",
+                "like_count": 12472,
+                "post_date": "2020-04-18 06:00:00",
+                "last_update_date": "2020-04-21 14:21:53",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2751",
+                "pic_info": "@狐狸狐狸鱼",
+                "words_info": "白居易《钱塘湖春行》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2792",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2792",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2792",
+                    "image": "http://image.wufazhuce.com/FsXSBHTmQ5X3QFoWSecaW9zdx57Z",
+                    "title": "VOL.2751",
+                    "content": "几处早莺争暖树，谁家新燕啄春泥。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2792?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2792?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 几处早莺争暖树，谁家新燕啄春泥。——白居易《钱塘湖春行》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2792?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2792?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20190",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4282",
+                "title": "最后的日子",
+                "forward": "只要气势上赢了，不管你是多么柔弱的小不点，这辈子也是老大。",
+                "img_url": "http://image.wufazhuce.com/FnzyVjQUia-f2SBjjDE7ddUoSnMf",
+                "like_count": 3145,
+                "post_date": "2020-04-18 06:00:00",
+                "last_update_date": "2020-04-17 16:49:42",
+                "author": {
+                    "user_id": "10866249",
+                    "user_name": "夏阳",
+                    "desc": "小说作家，摇滚青年，久居北京，夜行动物。",
+                    "wb_name": "@ 夏阳Joker",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写小说的。",
+                    "fans_total": "1406",
+                    "web_url": "http://image.wufazhuce.com/FqaYtfVfdxDmpEumJZKSLQsaAdzB"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4282",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4282",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4282",
+                    "image": "http://image.wufazhuce.com/FnzyVjQUia-f2SBjjDE7ddUoSnMf",
+                    "title": "最后的日子 作者/夏阳",
+                    "content": "如果生命只剩下一周。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 最后的日子",
+                        "desc": "文/夏阳 如果生命只剩下一周。",
+                        "link": "http://m.wufazhuce.com/article/4282?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 最后的日子",
+                        "desc": "文/夏阳 如果生命只剩下一周。",
+                        "link": "http://m.wufazhuce.com/article/4282?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 最后的日子》 文/夏阳： 如果生命只剩下一周。 阅读全文：http://m.wufazhuce.com/article/4282?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4282?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "最后的日子",
+                        "desc": "如果生命只剩下一周。",
+                        "link": "http://m.wufazhuce.com/article/4282?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20138",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1157",
+                "title": "即将来临·下一个世界：第十二章",
+                "forward": "人类就是人类口中的外星人，外星人通过地球这个试验场进行了生物模拟，如同我们将生物带到月球实验一般。",
+                "img_url": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                "like_count": 696,
+                "post_date": "2020-04-18 06:00:00",
+                "last_update_date": "2020-04-17 23:16:47",
+                "author": {
+                    "user_id": "11174853",
+                    "user_name": "李永明",
+                    "desc": "我一路奋斗，不仅为了改变世界，也为了不让世界改变我……",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "《即将来临》第二部正在创作中",
+                    "fans_total": "219",
+                    "web_url": "http://image.wufazhuce.com/FvEDXeitvNoNe_H1vF8iAZC9Ht8B"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第12章",
+                "number": "12",
+                "serial_id": "82",
+                "serial_list": [
+                    "1136",
+                    "1137",
+                    "1140",
+                    "1141",
+                    "1143",
+                    "1145",
+                    "1147",
+                    "1149",
+                    "1152",
+                    "1153",
+                    "1155",
+                    "1157",
+                    "1159",
+                    "1160"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1157",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1157",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1157",
+                    "image": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                    "title": "即将来临·下一个世界：第十二章 作者/李永明",
+                    "content": "外星人通过地球这个试验场进行了生物模拟，如同我们将生物带到月球实验一般。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 即将来临·下一个世界：第十二章",
+                        "desc": "文/李永明 外星人通过地球这个试验场进行了生物模拟，如同我们将生物带到月球实验一般。",
+                        "link": "http://m.wufazhuce.com/serial/1157?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 即将来临·下一个世界：第十二章",
+                        "desc": "文/李永明 外星人通过地球这个试验场进行了生物模拟，如同我们将生物带到月球实验一般。",
+                        "link": "http://m.wufazhuce.com/serial/1157?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 即将来临·下一个世界：第十二章》 文/李永明： 外星人通过地球这个试验场进行了生物模拟，如同我们将生物带到月球实验一般。 阅读全文：http://m.wufazhuce.com/serial/1157?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1157?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "即将来临·下一个世界：第十二章",
+                        "desc": "外星人通过地球这个试验场进行了生物模拟，如同我们将生物带到月球实验一般。",
+                        "link": "http://m.wufazhuce.com/serial/1157?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20175",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2820",
+                "title": "爱情里有先来后到吗？",
+                "forward": "最让人绝望的就是，在还不成熟的时候遇到很好的人。",
+                "img_url": "http://image.wufazhuce.com/FgO-jn5Lt_xTmI9EchqvOF0rLHTA",
+                "like_count": 2625,
+                "post_date": "2020-04-18 06:00:00",
+                "last_update_date": "2020-04-17 16:51:04",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "有马公生",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2820",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2820",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2820",
+                    "image": "http://image.wufazhuce.com/FgO-jn5Lt_xTmI9EchqvOF0rLHTA",
+                    "title": "爱情里有先来后到吗？",
+                    "content": "爱情里有先来后到吗？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 爱情里有先来后到吗？",
+                        "desc": "文/陈谌 “我难道真的要和她结婚吗？”",
+                        "link": "http://m.wufazhuce.com/question/2820?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 爱情里有先来后到吗？",
+                        "desc": "文/陈谌 “我难道真的要和她结婚吗？”",
+                        "link": "http://m.wufazhuce.com/question/2820?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 爱情里有先来后到吗？》 文/陈谌： “我难道真的要和她结婚吗？” 阅读全文：http://m.wufazhuce.com/question/2820?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2820?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "爱情里有先来后到吗？",
+                        "desc": "“我难道真的要和她结婚吗？”",
+                        "link": "http://m.wufazhuce.com/question/2820?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "4813543",
+                    "user_name": "陈谌",
+                    "desc": "90后作者、吉他手。「一个」常驻作者。@陈谌CC",
+                    "wb_name": "@陈谌CC",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "90后作者、吉他手。「一个」常驻作者。@陈谌CC",
+                    "fans_total": "12777",
+                    "web_url": "http://image.wufazhuce.com/FuIlOQycjz4QtaQSTP-UfPXwb1FF"
+                }
+            },
+            {
+                "id": "20179",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1984",
+                "title": "从1988到2020，今年韩剧最佳被“机智”预定",
+                "forward": "治愈与被治愈，从来都不是单方面的。抛开身份的标签，谁又不是个普通人呢？",
+                "img_url": "http://image.wufazhuce.com/FoyIkn-GorYd-pTsjQONc9NWn6Ci",
+                "like_count": 2108,
+                "post_date": "2020-04-18 06:00:00",
+                "last_update_date": "2020-04-16 10:14:44",
+                "author": {
+                    "user_id": "11199306",
+                    "user_name": "kimi",
+                    "desc": "自由撰稿人，业余影剧评写手。每一部影视作品里都有你未曾经历的人生，等待着被发现与倾听。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "聊聊电影和人生",
+                    "fans_total": "502",
+                    "web_url": "http://image.wufazhuce.com/Fmfan7neHDOkYfyH8A7_jgA5G0fH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "机智的医生生活",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4967",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1984",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1984",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1984",
+                    "image": "http://image.wufazhuce.com/FoyIkn-GorYd-pTsjQONc9NWn6Ci",
+                    "title": "「一个」电影: 机智的医生生活",
+                    "content": "时隔两年半，终于等来了《机智的监狱生活》的兄弟篇：《机智的医生生活》。还是tvN出品，申源浩导演与李有静编剧的黄金组合，看点和卖点都有了保证。仅仅一集，就飙到了豆瓣9.4。人人都称它是&ldquo;年度爆款&rdquo;，其实它只是呈现出了医患间的普通日常。01这是一个关于医生的故事，但首先是一个关于&ldquo;人&rdquo;的故事。从《请回答》系列到《机智》系列，延续了申导最爱的群像式叙事。这一次，主角是五个从大学时代开始、认识近二十年的医生。外表冷酷又毒舌的金俊完，宛如人间天使的安正元，自信心爆棚的奶爸李翼俊，社交恐惧的妈宝男硕亨，以及四人中唯一的女生、外号&ldquo;鬼医&rdquo;的颂华。分属不同的科室，有着迥异的性格，大学团建时的一次误打误撞，成就了这段二十年的友情。1女4男的组合，放在偶像剧中，就是杉菜遇到F4。然而，在他们这里，所有的罗曼蒂克情节就如同丢进死水的石子，激不起任何波澜。那些电视剧里的固有人设和桥段，都被一一打破。明明是富二代的正元，最初的梦想却是做一个神父，和哥哥姐姐一样将一生奉献给主。身为教授医生的翼俊，偶尔还要&ldquo;兼职&rdquo;护士长、病房修理工、食堂打饭阿姨。而外人眼中无所不能的完美模范生颂华，其实比谁都爱玩，玩起来比谁都疯狂。你以为医生的日常就是看不完的病人和做不完的手术，其实聚餐和唱K也是他们的日常。会被父母催婚，会为了点几份吃的吵架，也会在KTV争当麦霸。甚至，在工作之余，还组建了一支乐队，贝斯、吉他、架子鼓，一应俱全。带有年代感的老歌串起了往事与回忆，五个中年&ldquo;少男少女&rdquo;，迎来了迟到的青春期，骨子里超强的表现欲一旦爆发拦也拦不住。尽管是医疗剧，却又带着点&ldquo;请回答&rdquo;的怀旧感。理性与感性的高反差身份转换，让原本高冷的医生形象，又多了几分可爱和人情味。02舞台从监狱换到了医院，原以为打开方式是这样的：满屏专业术语，手术室里医生手起刀落，气氛紧张；又或者是这样的：医院高层内外勾结，各种权钱交易，黑暗腐败。虽然，拍这些同样有意义，但申导偏要和自己、和观众&ldquo;作对&rdquo;，把这些套路的桥段统统丢到了一边。在他的镜头里，你看到的是都是最常见却又最容易被忽视的画面。&ldquo;高知&rdquo;的病人家属，不仅带着信息储备而来，还会偷偷用手机录下整个问诊过程。表面上好像是为了给医生提供参考意见，实际上话里话外都带着对医生和医院的不信任。&ldquo;我听说&rdquo;、&ldquo;网上说&rdquo;，就是不愿意听面前的医生说。还有些自以为久病成医的家属，对治疗过程指手画脚，稍有不满就破口大骂。但对医生来说，最难的不是被质疑和挨骂，而是面对病人和家属时的无能为力。有这样一个病人家属，儿子在等肝移植，母亲又疑似患上脑肿瘤。她为自己只顾着儿子而忽视了母亲感到自责，另一面还要饱受丈夫和婆家的气。在电梯里遇到医生的那一刻，她终于崩溃了。然而面对这样的声泪俱下，除了抱一抱她说一句安慰，医生却什么也做不了。有时候，医生就像一个供人发泄情感的工具人，好的、坏的情绪，都要全盘接纳，然后用自己的方式去化解掉。其实，当他们酝酿好情绪与措辞，通知病人家属医治无效时，他们的难受并不比病人家属少。即便已经面临过很多次生离死别，他们依旧无法做到习以为常，坦然接受。看着病人离世，他们甚至想过干脆辞职算了。但醉酒大哭之后，一句&ldquo;再坚持一年吧&rdquo;的劝说，又可以让他们满血复活，然后坚持完一年又一年。他们是医生，但他们又不能只是医生。看病、做手术只是他们最基本的技能。遇到不愿配合的小朋友，要会自导自演装可爱，把小患者哄开心了才能看病；对于经济困难的病人，一边治疗，一边想办法帮着解决医药费。要掌握说话的艺术，要了解医院的行政事务，要自掏腰包悄悄做善事，还要周旋于复杂的人际关系。难怪医生生活要时刻保持&ldquo;机智&rdquo;。这份机智，不是耍小聪明，不是欲望和算计，而是时刻保持一种清醒。在病情诊断时的清醒，面对利益和危险时的清醒：婉拒病人夹在书里的红包，戳穿家暴父亲编出的各种谎言，以及为了病人的生命安全甘愿给技不如己的同事当副手。导演并不急于用一部电视剧来解答&ldquo;什么样的医生是个好医生&rdquo;，而是让观众意识到，当我们用各种条条框框来约束医生时，请先记住一点：他们是医生，但首先是人。03星光闪闪的卡司阵容，连路人甲角色都是大咖、戏骨。但要说全剧最厉害的大咖，莫过于导演本人。在他的作品中，永远都有着明显的&ldquo;申源浩风格&rdquo;，在细节上体现着暗戳戳的&ldquo;小心思&rdquo;。比如，折射人物性格的洞洞鞋，暗示恋情走向的车牌号。当然，更多的是一种情感上的细腻。日常，却又总能让人眼前一亮；反转，却又是情理之中。医疗剧中常见的生离死别、世间百态，被他揉碎了重新融入到这些琐碎的小事中。刚要下班的正元被紧急召回，边跑边将听诊器哈气焐热了，才放到小患者身上；俊完拒绝了老人想要参加完女儿婚礼再手术的要求，却在婚礼当天悄悄去仪式现场安慰新娘；脑死亡病人在器官捐赠手术前，翼俊请求将手术拖到零点后再进行，因为这天是儿童节，他不想让从捐赠者的儿子，以后每个儿童节都因为失去父亲而痛苦。这些看似&ldquo;可以但非必要&rdquo;的小细节，远比煽情的台词更让人觉得暖心。导演熟练地掌控着温情牌，却又以冷静地口吻讲述最平常的事。他为每一件事、每一个人都预留了转机，那些你以为的事实可能并不是真相。在为怀有无脑儿的孕妇实施分娩手术前，硕亨拜托助理医生，抱到孩子出来后，务必用手捂住孩子的嘴别让哭声传出来，别人当他是社恐心理作祟，其实他是出于对孕妇的保护，生怕孩子的哭声为孕妇的余生留下负罪感。戴着鼻环、稚气未脱的00后年轻父母，见到他们的第一眼，难免对他们养育孩子的能力和责任心表示怀疑。然而，事实是，年轻的妈妈等在监护室外掩面哭泣，她也很难受，很心急，却怕被别人说年纪小，连哭都不敢哭。原来，谁都是在假装坚强地活着，谁都是在打击中努力成长。虽然申源浩被戏称为打造&ldquo;封神&rdquo;剧的导演，但他从不在剧中对角色封神。他尽可能地以一个平视的视角，向观众展现出了一幅医生与患者的群像。观众能从中找到自己的影子，也能从细碎中寻得几分感同身受。医生没有被神化，病患和家属也没有被恶意丑化。所以，导演并不是在为医生打抱不平，也不是在为&ldquo;谁是弱势群体&rdquo;的争论而站队。或许，他只是希望，那些曾经被放大的恶意和矛盾，可以在看完这部剧后，变成多一份的理解与支持。那个曾经对着医生破口大骂的家属，在女儿医治无效后对主治医生深深鞠躬，反过来安慰医生。而正元在每一次自己的病人去世时，都忍不住想要埋怨上帝的不公。其实，病人家属懂医生在无力回天时的无奈，医生也同样理解家属想要挽救病人的悲痛与心焦。情感是相通的，温暖和善意也是可以被相互传递的。医生和病人之间的治愈与被治愈，从来都不是单方面的。与人为善，也是与自己的和解。毕竟，抛开身份的标签，谁又不是个普通人呢？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 从1988到2020，今年韩剧最佳被“机智”预定",
+                        "desc": "文/kimi 治愈与被治愈，从来都不是单方面的。抛开身份的标签，谁又不是个普通人呢？",
+                        "link": "http://m.wufazhuce.com/movie/1984?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 从1988到2020，今年韩剧最佳被“机智”预定",
+                        "desc": "文/kimi 治愈与被治愈，从来都不是单方面的。抛开身份的标签，谁又不是个普通人呢？",
+                        "link": "http://m.wufazhuce.com/movie/1984?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 从1988到2020，今年韩剧最佳被“机智”预定》 文/kimi： 治愈与被治愈，从来都不是单方面的。抛开身份的标签，谁又不是个普通人呢？ 阅读全文：http://m.wufazhuce.com/movie/1984?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1984?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "从1988到2020，今年韩剧最佳被“机智”预定",
+                        "desc": "治愈与被治愈，从来都不是单方面的。抛开身份的标签，谁又不是个普通人呢？",
+                        "link": "http://m.wufazhuce.com/movie/1984?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20141",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3122",
+                "title": "彩蛋｜谢谢你这么认真的生活",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FshMLa99QPcpZc3TpVGnHHD4G4Kx?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1616,
+                "post_date": "2020-04-18 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙、李荟莹",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3122",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3122",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 彩蛋｜谢谢你这么认真的生活",
+                        "desc": "有了它，你就可以给你的小宝贝摘星星了",
+                        "link": "http://m.wufazhuce.com/radio/3122?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lo42zG6VNEp7YVIetlCISOlWIkSZ"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 彩蛋｜谢谢你这么认真的生活",
+                        "desc": "有了它，你就可以给你的小宝贝摘星星了",
+                        "link": "http://m.wufazhuce.com/radio/3122?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lo42zG6VNEp7YVIetlCISOlWIkSZ"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 彩蛋｜谢谢你这么认真的生活》 主播/马晓橙等二位： 有了它，你就可以给你的小宝贝摘星星了 阅读全文：http://m.wufazhuce.com/radio/3122?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3122?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lo42zG6VNEp7YVIetlCISOlWIkSZ"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "彩蛋｜谢谢你这么认真的生活",
+                        "link": "http://m.wufazhuce.com/radio/3122?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lo42zG6VNEp7YVIetlCISOlWIkSZ"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 806 期",
+                "audio_url": "http://music.wufazhuce.com/lo42zG6VNEp7YVIetlCISOlWIkSZ"
+            }
+        ],
+        "menu": {
+            "vol": "2751",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4282",
+                    "title": "最后的日子"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1157",
+                    "serial_list": [
+                        "1136",
+                        "1137",
+                        "1140",
+                        "1141",
+                        "1143",
+                        "1145",
+                        "1147",
+                        "1149",
+                        "1152",
+                        "1153",
+                        "1155",
+                        "1157",
+                        "1159",
+                        "1160"
+                    ],
+                    "title": "即将来临·下一个世界：第十二章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2820",
+                    "title": "爱情里有先来后到吗？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1984",
+                    "title": "从1988到2020，今年韩剧最佳被“机智”预定"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3122",
+                    "title": "彩蛋｜谢谢你这么认真的生活"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

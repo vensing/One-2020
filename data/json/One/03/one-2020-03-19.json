@@ -1,0 +1,587 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5447",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-03-19 06:00:00",
+        "content_list": [
+            {
+                "id": "19992",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2761",
+                "title": "摄影",
+                "forward": "改变心态只需一分钟，而这一分钟却能改变一整天。",
+                "img_url": "http://image.wufazhuce.com/Fp-WZpBGvXVtnDTpIH3IuQDtnAQN",
+                "like_count": 23963,
+                "post_date": "2020-03-19 06:00:00",
+                "last_update_date": "2020-03-13 17:14:01",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2721",
+                "pic_info": "@一万兄",
+                "words_info": "赫伯特·斯宾塞",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2761",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2761",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2761",
+                    "image": "http://image.wufazhuce.com/Fp-WZpBGvXVtnDTpIH3IuQDtnAQN",
+                    "title": "VOL.2721",
+                    "content": "改变心态只需一分钟，而这一分钟却能改变一整天。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2761?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2761?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 改变心态只需一分钟，而这一分钟却能改变一整天。——赫伯特·斯宾塞 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2761?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2761?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20001",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4245",
+                "title": "爱情病人与情书",
+                "forward": "爱情这个事件，怕是人间最难形容的了。",
+                "img_url": "http://image.wufazhuce.com/FgU6IQOehtQNGBtWX4BNOpwz4SCH",
+                "like_count": 4529,
+                "post_date": "2020-03-19 06:00:00",
+                "last_update_date": "2020-03-18 18:46:13",
+                "author": {
+                    "user_id": "10870881",
+                    "user_name": "王晴",
+                    "desc": "作家，编剧。\r\n北方女子，现居北京。\r\n崇尚美好主义，热衷探索人性。\r\n被圈中好友称作硕果仅存的文艺青年活化石，被她的拥趸誉为像刀光也像月光的奇女子。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新书《人间不责备》热销中。",
+                    "fans_total": "1456",
+                    "web_url": "http://image.wufazhuce.com/Fs0evAO8nxDW323SFqN6itzfZauD"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4245",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4245",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4245",
+                    "image": "http://image.wufazhuce.com/FgU6IQOehtQNGBtWX4BNOpwz4SCH",
+                    "title": "爱情病人与情书 作者/王晴",
+                    "content": "我爱你，我要写下这千千万万遍。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 爱情病人与情书",
+                        "desc": "文/王晴 我爱你，我要写下这千千万万遍。",
+                        "link": "http://m.wufazhuce.com/article/4245?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 爱情病人与情书",
+                        "desc": "文/王晴 我爱你，我要写下这千千万万遍。",
+                        "link": "http://m.wufazhuce.com/article/4245?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 爱情病人与情书》 文/王晴： 我爱你，我要写下这千千万万遍。 阅读全文：http://m.wufazhuce.com/article/4245?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4245?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "爱情病人与情书",
+                        "desc": "我爱你，我要写下这千千万万遍。",
+                        "link": "http://m.wufazhuce.com/article/4245?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19981",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1134",
+                "title": "世界得了健忘症·第二十二章：健忘",
+                "forward": "一个女孩子活在这个世界上，做到何种程度才算是保护好了自己？",
+                "img_url": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                "like_count": 1091,
+                "post_date": "2020-03-19 06:00:00",
+                "last_update_date": "2020-03-14 12:28:09",
+                "author": {
+                    "user_id": "7468492",
+                    "user_name": "昔央",
+                    "desc": "编剧，青年作家，乐评人。代表作《想把我唱给你听》、《世界得了健忘症》、《演员的诞生》、《初雪告白》等。公众号：夕阳下的武士。",
+                    "wb_name": "@昔央",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者，编剧，已出版新书《想把我唱给你听》",
+                    "fans_total": "15582",
+                    "web_url": "http://image.wufazhuce.com/FhJx82FwP9t8GKsEI284bhmtXPus"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第22章",
+                "number": "22",
+                "serial_id": "80",
+                "serial_list": [
+                    "1091",
+                    "1092",
+                    "1096",
+                    "1098",
+                    "1100",
+                    "1102",
+                    "1103",
+                    "1104",
+                    "1107",
+                    "1110",
+                    "1112",
+                    "1114",
+                    "1116",
+                    "1118",
+                    "1120",
+                    "1122",
+                    "1124",
+                    "1125",
+                    "1128",
+                    "1130",
+                    "1132",
+                    "1134"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1134",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1134",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1134",
+                    "image": "http://image.wufazhuce.com/Fs98qrclDTpcZTkOpn86y1A96UZj",
+                    "title": "世界得了健忘症·第二十二章：健忘 作者/昔央",
+                    "content": "一个女孩子活在这个世界上，做到何种程度才算是保护好了自己？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 世界得了健忘症·第二十二章：健忘",
+                        "desc": "文/昔央 一个女孩子活在这个世界上，做到何种程度才算是保护好了自己？",
+                        "link": "http://m.wufazhuce.com/serial/1134?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 世界得了健忘症·第二十二章：健忘",
+                        "desc": "文/昔央 一个女孩子活在这个世界上，做到何种程度才算是保护好了自己？",
+                        "link": "http://m.wufazhuce.com/serial/1134?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 世界得了健忘症·第二十二章：健忘》 文/昔央： 一个女孩子活在这个世界上，做到何种程度才算是保护好了自己？ 阅读全文：http://m.wufazhuce.com/serial/1134?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1134?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "世界得了健忘症·第二十二章：健忘",
+                        "desc": "一个女孩子活在这个世界上，做到何种程度才算是保护好了自己？",
+                        "link": "http://m.wufazhuce.com/serial/1134?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20007",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2792",
+                "title": "如何处理亲密关系中的隔阂？",
+                "forward": "我们可以和陌生人敞开心扉聊上很久，但对自己真正亲密的人，却有很多话如鲠在喉，说不出口。",
+                "img_url": "http://image.wufazhuce.com/FiFSJRvHbXKV4Ge4bChCn70wbEX2",
+                "like_count": 2779,
+                "post_date": "2020-03-19 06:00:00",
+                "last_update_date": "2020-03-18 17:46:21",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "慕容冲",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2792",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2792",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2792",
+                    "image": "http://image.wufazhuce.com/FiFSJRvHbXKV4Ge4bChCn70wbEX2",
+                    "title": "如何处理亲密关系中的隔阂？",
+                    "content": "如何处理亲密关系中的隔阂？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何处理亲密关系中的隔阂？",
+                        "desc": "文/张拉灯 不要把自己得到的爱，当做是理所应当。",
+                        "link": "http://m.wufazhuce.com/question/2792?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何处理亲密关系中的隔阂？",
+                        "desc": "文/张拉灯 不要把自己得到的爱，当做是理所应当。",
+                        "link": "http://m.wufazhuce.com/question/2792?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何处理亲密关系中的隔阂？》 文/张拉灯： 不要把自己得到的爱，当做是理所应当。 阅读全文：http://m.wufazhuce.com/question/2792?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2792?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何处理亲密关系中的隔阂？",
+                        "desc": "不要把自己得到的爱，当做是理所应当。",
+                        "link": "http://m.wufazhuce.com/question/2792?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10264854",
+                    "user_name": "张拉灯",
+                    "desc": "一个App编辑。",
+                    "wb_name": "@张拉灯_",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个App编辑。",
+                    "fans_total": "4751",
+                    "web_url": "http://image.wufazhuce.com/Ftljx61tLjt8NU-9P9umT998ryhe"
+                }
+            },
+            {
+                "id": "20006",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1968",
+                "title": "别忘了要去爱，别忘了要温柔",
+                "forward": "等你自由后，你想做的第一件事是什么？跳舞。",
+                "img_url": "http://image.wufazhuce.com/Fmlzm420WuCC1sSHq7sWhQ8tLvPY",
+                "like_count": 2312,
+                "post_date": "2020-03-19 06:00:00",
+                "last_update_date": "2020-03-17 15:14:02",
+                "author": {
+                    "user_id": "11069712",
+                    "user_name": "王花花",
+                    "desc": "武大文学学士，人大电影学硕士。专业电影学徒，业余影评制造者，日常码字小工匠。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "与电影周旋久",
+                    "fans_total": "198",
+                    "web_url": "http://image.wufazhuce.com/FmpbkH_JPW4cjIzziNRPj0RIEaQN"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "乔乔的异想世界",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4951",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1968",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1968",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1968",
+                    "image": "http://image.wufazhuce.com/Fmlzm420WuCC1sSHq7sWhQ8tLvPY",
+                    "title": "「一个」电影: 乔乔的异想世界",
+                    "content": "在本届奥斯卡获奖影片中，《乔乔的异想世界》是颇为独特的一部。影片不仅以神经跳脱的喜剧风格柔化了战争的苦涩，将沉重的二战题材演绎得诙谐俏皮；还将镜头对准德国社会，把主人公设定为一个狂热的小纳粹&mdash;&mdash;十岁的乔乔&bull;贝茨勒。而这个看似有点&ldquo;政治不正确&rdquo;的设定，最终通过乔乔从&ldquo;好战&rdquo;到&ldquo;反战&rdquo;的价值倒戈，完成了&ldquo;批判纳粹&rdquo;和&ldquo;反思战争&rdquo;的叙事闭环。我们跟着乔乔，目睹了人性的盲目、战争的虚伪与卑劣，也见证着爱的力量，在笑泪之中与他一同走完了这场人生的启蒙之旅。（1）想拥有狼的身体、豹的勇气，却不料成了一只兔子。乔乔&bull;贝茨勒，一名忠实的&ldquo;小纳粹&rdquo;。他在卧室里挂满纳粹的宣传海报，把效忠元首的政治口号喊得头头是道，甚至还将阿道夫&bull;希特勒幻想成自己最亲密的朋友。今天，他正式加入希特勒青年团，即将成为一个&ldquo;真正的男人&rdquo;。他异想世界的朋友&ldquo;阿道夫&rdquo;告诉他，成为帝国的英勇战士要有狼的身体、豹的勇气。可事实上，乔乔只是个胆小善良，有点自卑，体形瘦小，连鞋带都不会系的十岁男孩。在野外训练营，纳粹的宣传机器正把孩子们打造成下一批战争工具。教官向孩子们灌输&ldquo;犹太人曾与鱼交配&rdquo;之类极端的种族歧视言论，男孩们在这里学习作战知识，女孩们学习战场护理和如何为帝国生育血统纯正的接班人。他们甚至还被要求徒手杀死一只兔子，以证明自己能在战场上英勇杀敌。然而，尽管乔乔用&ldquo;我喜欢杀人&rdquo;来回答教官的提问，但法西斯教育中的血腥与残忍第一次与他内心深处的善良天性发生对峙。 在那一瞬间，对生命的怜悯胜过了男孩的自尊心和想成为一个&ldquo;男人&rdquo;的渴望，他放走了兔子，在其他队员的嘲笑中，收获了一个绰号&mdash;&mdash;&ldquo;乔乔兔&rdquo;。而这一瞬间的的善良，让乔乔在今后的每一次残忍面前都选择尊重生命，也给予了他最终看透战争真相的机会。（2）当肚子里飞满蝴蝶的时候，终于懂得了爱是什么。在投掷手榴弹的训练中受伤后，乔乔离开训练营。告别狂热的男性力量，&ldquo;蝴蝶&rdquo;串起了乔乔和他生命中的女性。听到楼上有响动，乔乔寻声走进卧室，先是看到墙面装饰画中的蝴蝶图案，随后是桌上摆放的蝴蝶标本，紧接着，他撬开墙板的缝隙，发现了母亲偷偷收留的犹太女孩艾莎。他不能坐视不管，却又为了保护妈妈而不得不保守秘密。乔乔与朋友&ldquo;阿道夫&rdquo;商量出一套&ldquo;反向精神控制法&rdquo;，先获得犹太人的信任，再反过来控制他们。这套&ldquo;作战计划&rdquo;并没有奏效。远离战争的硝烟和疯狂的屠杀，这个房间成了与世无争的世外桃源。超越种族，超越偏见与敌视，真诚和善良让他们慢慢靠近。&nbsp;镜头中两人从分属不同空间到共享画面乔乔让艾莎告诉自己&ldquo;犹太人的一切&rdquo;，并试图将&ldquo;研究成果&rdquo;写成一本书。在这个过程中，艾莎口中的犹太人与老师口中的&ldquo;犹太怪物&rdquo;形象时常发生错位，乔乔用他十岁的小脑袋试图弥合这个裂隙，但最终却不得不相信眼前的事实：犹太人与德国人并没有什么区别，身上流淌的雅利安血液也不会让自己更加高贵。对艾莎的感情和对纳粹信仰的疑惑一同与日俱增。终于，在她面前，乔乔第一次感受到肚子里飞满蝴蝶的感觉，妈妈说，这就是爱情的滋味。接下来，面对盖世太保的搜查，乔乔选择保护艾莎。他慢慢走出对纳粹的盲目崇拜，并最终背叛了他曾愿为之献出生命的一切。（3）妈妈的蝴蝶飞走了。&nbsp;城市的冷暖如果说象征着温暖的黄色蝴蝶带乔乔发现了艾莎，让这个小男孩经历了生命中第一次爱的悸动。那么代表着冰冷的蓝色蝴蝶，则将乔乔带往一个令人心碎的悲剧。寒冬将至，脱下纳粹军装的乔乔出门采买生活用品。镜头随着他扫过街边摆弄武器的主妇和布防铁丝网的士兵。大战将近的讯息在这个冷色调的城市弥散。一只蓝蝴蝶飞舞而来，跟随着它，乔乔在广场的绞刑架前，看到了母亲的红色皮鞋。这个荒诞的世界里，大人们像孩子一样笃信不合常理的种族偏见，孩子们则像大人一样高谈阔论自己并不理解的战争和政治。乔乔的母亲是唯一清醒而坚定的灵魂。她告诉艾莎，生命的每一天都是对纳粹的胜利 ；她让乔乔像一个十岁男孩一样享受童年时光，告诉他，战争不应是生命的意义。生命中美好的东西是爱情，是浪漫，是舞蹈，是自由，是希望。在父亲缺席的岁月，母亲用她温柔的力量努力守护着孩子的童真，突破极端的政治宣教，竭力为他留住一块精神的净土。而关于母亲的一切，都像那只蝴蝶一样，飞走了。在这双红色皮鞋面前，乔乔不得不直面战争的残酷。他曾渴望钢铁、炸药和肌肉的力量，向往在战争的炮火硝烟中成长为真正的男人，却终于意识到纳粹所宣扬的一切是多么漏洞百出，而自己曾经的狂热又是多么的肤浅。乔乔试图系上母亲散开的鞋带，在巨大的悲痛与幻灭中长大成人。&nbsp;屋顶的轩窗见证着一场又一场时代悲剧（4）现在不是当纳粹的好时机。战争终于蔓延到小镇。乔乔的好朋友，只有十岁的约克也要拿起武器去战斗。德国成了全世界的敌人，抓捕犹太人反倒变得不那么重要。但丑化犹太人的那套说辞转换了对象，依然有人深信不疑。从十几岁的小男孩嘴里说出&ldquo;苏联人会吃小孩，英国人会与狗发生性关系&rdquo;的言论，让人哭笑不得，又瞠目结舌。与他们相比，乔乔是幸运的。在纳粹一败涂地之前，他就已撕下战争的遮羞布。而太多太多的人，就像影片开头穿插剪辑的历史画面，他们欢呼着向伟大的元首致敬，也终将与他一同沦为炮灰。在一段慢镜头中，乔乔目睹了这一切。他看到老人、女人和孩子，还有早已看透一切的纳粹军官，他们兴奋或茫然地冲进枪林弹雨，却不知这场牺牲将毫无意义。在远方，希特勒自杀，帝国已无可救药地走向覆灭。这场战争中的虚伪与卑劣将永远受人唾弃，而这些可怜的孩子，他们向往的崇高事业却只是一场可笑的悲剧。死里逃生的约克对乔乔说：&ldquo;现在不是当纳粹的好时机。&rdquo;这个民族终将明白，无论什么时候，&ldquo;纳粹&rdquo;都让他们付出难以承受的代价。战后的小镇复归平静。当令人疯狂的战争口号在风中消散，只留下人性的爱与善良在废墟上熠熠闪光；钢铁、炸药和肌肉，看似强大的力量终将黯然退场。我们也不断被影片提醒，不同国家、不同种族间的偏见与敌视，并不会让生活变得更好。而正如乔乔的母亲所说，&ldquo;爱是最强大的力量&rdquo;，它超越狭隘、超越偏见，它对抗杀戮、对抗暴虐。经过一番思想斗争，乔乔决定带艾莎来到自由的世界。伴随德语版的&ldquo;Heroes&rdquo;，两人在门口相对起舞的画面，让人喜悦和热泪盈眶。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 别忘了要去爱，别忘了要温柔",
+                        "desc": "文/王花花 等你自由后，你想做的第一件事是什么？跳舞。",
+                        "link": "http://m.wufazhuce.com/movie/1968?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 别忘了要去爱，别忘了要温柔",
+                        "desc": "文/王花花 等你自由后，你想做的第一件事是什么？跳舞。",
+                        "link": "http://m.wufazhuce.com/movie/1968?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 别忘了要去爱，别忘了要温柔》 文/王花花： 等你自由后，你想做的第一件事是什么？跳舞。 阅读全文：http://m.wufazhuce.com/movie/1968?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1968?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "别忘了要去爱，别忘了要温柔",
+                        "desc": "等你自由后，你想做的第一件事是什么？跳舞。",
+                        "link": "http://m.wufazhuce.com/movie/1968?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19982",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3093",
+                "title": "晚风踩着云朵，月亮贩售快乐",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FgydI8Q2cApg6GFBzluk6uobn-kP?imageView2/1/w/375/h/240/q/95",
+                "like_count": 2471,
+                "post_date": "2020-03-19 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3093",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3093",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 晚风踩着云朵，月亮贩售快乐",
+                        "desc": "月色似那年，相顾已无言",
+                        "link": "http://m.wufazhuce.com/radio/3093?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ln7LWucVJARLAT-PZyFhfIvLWPnu"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 晚风踩着云朵，月亮贩售快乐",
+                        "desc": "月色似那年，相顾已无言",
+                        "link": "http://m.wufazhuce.com/radio/3093?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ln7LWucVJARLAT-PZyFhfIvLWPnu"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 晚风踩着云朵，月亮贩售快乐》 主播/马晓橙： 月色似那年，相顾已无言 阅读全文：http://m.wufazhuce.com/radio/3093?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3093?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/ln7LWucVJARLAT-PZyFhfIvLWPnu"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "晚风踩着云朵，月亮贩售快乐",
+                        "link": "http://m.wufazhuce.com/radio/3093?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ln7LWucVJARLAT-PZyFhfIvLWPnu"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 790 期",
+                "audio_url": "http://music.wufazhuce.com/ln7LWucVJARLAT-PZyFhfIvLWPnu"
+            }
+        ],
+        "menu": {
+            "vol": "2721",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4245",
+                    "title": "爱情病人与情书"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1134",
+                    "serial_list": [
+                        "1091",
+                        "1092",
+                        "1096",
+                        "1098",
+                        "1100",
+                        "1102",
+                        "1103",
+                        "1104",
+                        "1107",
+                        "1110",
+                        "1112",
+                        "1114",
+                        "1116",
+                        "1118",
+                        "1120",
+                        "1122",
+                        "1124",
+                        "1125",
+                        "1128",
+                        "1130",
+                        "1132",
+                        "1134"
+                    ],
+                    "title": "世界得了健忘症·第二十二章：健忘"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2792",
+                    "title": "如何处理亲密关系中的隔阂？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1968",
+                    "title": "别忘了要去爱，别忘了要温柔"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3093",
+                    "title": "晚风踩着云朵，月亮贩售快乐"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

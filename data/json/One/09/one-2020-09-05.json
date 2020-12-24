@@ -1,0 +1,518 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5612",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-09-05 06:00:00",
+        "content_list": [
+            {
+                "id": "21004",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2932",
+                "title": "摄影",
+                "forward": "人的一生中有两个生日，一个是自己诞生的日子，一个是真正理解自己的日子。",
+                "img_url": "http://image.wufazhuce.com/FvtPdscwZVRnlar_-ADivFvTkcVR",
+                "like_count": 18116,
+                "post_date": "2020-09-05 06:00:00",
+                "last_update_date": "2020-08-28 18:35:21",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2891",
+                "pic_info": "Pepe reyes",
+                "words_info": "松浦弥太郎",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2932",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2932",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2932",
+                    "image": "http://image.wufazhuce.com/FvtPdscwZVRnlar_-ADivFvTkcVR",
+                    "title": "VOL.2891",
+                    "content": "人的一生中有两个生日，一个是自己诞生的日子，一个是真正理解自己的日子。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2932?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2932?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人的一生中有两个生日，一个是自己诞生的日子，一个是真正理解自己的日子。——松浦弥太郎 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2932?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2932?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21014",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4436",
+                "title": "耳语",
+                "forward": "“对我来说，爱情就是你的声音。”",
+                "img_url": "http://image.wufazhuce.com/FjXwF1yGz02Z2EjcbV4wuZG8joXf",
+                "like_count": 2286,
+                "post_date": "2020-09-05 06:00:00",
+                "last_update_date": "2020-09-04 12:04:16",
+                "author": {
+                    "user_id": "4814881",
+                    "user_name": "肖爻悄悄",
+                    "desc": "杀无趣掌门人，细节爱好者。",
+                    "wb_name": "@肖爻悄悄",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "杀无趣掌门人，细节爱好者。",
+                    "fans_total": "190",
+                    "web_url": "http://image.wufazhuce.com/FgOU9rja9-4u9MKknZurv856fq0B"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4436",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4436",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4436",
+                    "image": "http://image.wufazhuce.com/FjXwF1yGz02Z2EjcbV4wuZG8joXf",
+                    "title": "耳语 作者/肖爻悄悄",
+                    "content": "“爱情发生时，我听见了声音。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 耳语",
+                        "desc": "文/肖爻悄悄 “爱情发生时，我听见了声音。”",
+                        "link": "http://m.wufazhuce.com/article/4436?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 耳语",
+                        "desc": "文/肖爻悄悄 “爱情发生时，我听见了声音。”",
+                        "link": "http://m.wufazhuce.com/article/4436?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 耳语》 文/肖爻悄悄： “爱情发生时，我听见了声音。” 阅读全文：http://m.wufazhuce.com/article/4436?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4436?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "耳语",
+                        "desc": "“爱情发生时，我听见了声音。”",
+                        "link": "http://m.wufazhuce.com/article/4436?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20974",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1275",
+                "title": "我的么啊·第六章：轻松入戏",
+                "forward": "你随便一句回应就能让她睡个好觉，哪怕只接个电话说句喂，为什么要惩罚她呢，她这辈子做过最严重的坏事——不过是生了你。",
+                "img_url": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                "like_count": 899,
+                "post_date": "2020-09-05 06:00:00",
+                "last_update_date": "2020-08-25 14:43:05",
+                "author": {
+                    "user_id": "4814954",
+                    "user_name": "陈麒凌",
+                    "desc": "陈麒凌，也教书，也写小说。曾获得联合报文学奖首奖、全球华文文学星云奖、林语堂文学奖。",
+                    "wb_name": "@陈麒凌",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "也教书，也写小说。",
+                    "fans_total": "2296",
+                    "web_url": "http://image.wufazhuce.com/Fggt2Ut1kJ7uTNjxGSG4w-LGRL6S"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第6章",
+                "number": "6",
+                "serial_id": "87",
+                "serial_list": [
+                    "1270",
+                    "1271",
+                    "1272",
+                    "1273",
+                    "1274",
+                    "1275",
+                    "1276",
+                    "1277",
+                    "1278",
+                    "1279",
+                    "1280",
+                    "1281",
+                    "1282",
+                    "1283",
+                    "1284",
+                    "1285",
+                    "1286",
+                    "1287",
+                    "1288",
+                    "1289"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1275",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1275",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1275",
+                    "image": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                    "title": "我的么啊·第六章：轻松入戏 作者/陈麒凌",
+                    "content": "为什么要惩罚她呢，她这辈子做过最严重的坏事——不过是生了你。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 我的么啊·第六章：轻松入戏",
+                        "desc": "文/陈麒凌 为什么要惩罚她呢，她这辈子做过最严重的坏事——不过是生了你。",
+                        "link": "http://m.wufazhuce.com/serial/1275?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 我的么啊·第六章：轻松入戏",
+                        "desc": "文/陈麒凌 为什么要惩罚她呢，她这辈子做过最严重的坏事——不过是生了你。",
+                        "link": "http://m.wufazhuce.com/serial/1275?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 我的么啊·第六章：轻松入戏》 文/陈麒凌： 为什么要惩罚她呢，她这辈子做过最严重的坏事——不过是生了你。 阅读全文：http://m.wufazhuce.com/serial/1275?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1275?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我的么啊·第六章：轻松入戏",
+                        "desc": "为什么要惩罚她呢，她这辈子做过最严重的坏事——不过是生了你。",
+                        "link": "http://m.wufazhuce.com/serial/1275?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21022",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2966",
+                "title": "有哪些好的情绪宣泄方式？",
+                "forward": "堵不如疏。",
+                "img_url": "http://image.wufazhuce.com/FrzX39V4yWCM1Z1Onhg68hIHVuLF",
+                "like_count": 2333,
+                "post_date": "2020-09-05 06:00:00",
+                "last_update_date": "2020-09-04 11:57:08",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "东升·张",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2966",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2966",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2966",
+                    "image": "http://image.wufazhuce.com/FrzX39V4yWCM1Z1Onhg68hIHVuLF",
+                    "title": "有哪些好的情绪宣泄方式？",
+                    "content": "有哪些好的情绪宣泄方式？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 有哪些好的情绪宣泄方式？",
+                        "desc": "文/晨熙小太阳 生活一地鸡毛，不如把它点着。",
+                        "link": "http://m.wufazhuce.com/question/2966?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 有哪些好的情绪宣泄方式？",
+                        "desc": "文/晨熙小太阳 生活一地鸡毛，不如把它点着。",
+                        "link": "http://m.wufazhuce.com/question/2966?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 有哪些好的情绪宣泄方式？》 文/晨熙小太阳： 生活一地鸡毛，不如把它点着。 阅读全文：http://m.wufazhuce.com/question/2966?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2966?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有哪些好的情绪宣泄方式？",
+                        "desc": "生活一地鸡毛，不如把它点着。",
+                        "link": "http://m.wufazhuce.com/question/2966?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11472921",
+                    "user_name": "晨熙小太阳",
+                    "desc": "喜欢一种健康、文化和有灵气的生活方式",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：写个东西。隐居山林的写作者",
+                    "fans_total": "558",
+                    "web_url": "http://image.wufazhuce.com/FhNGmuLntFpT1c_01cnkSvvvgw3t"
+                }
+            },
+            {
+                "id": "21052",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2048",
+                "title": "勇 闯 无 人 岛",
+                "forward": "今天，我只关心你有没有好好吃饭。",
+                "img_url": "http://image.wufazhuce.com/FrggjLBtCJq3ie9QjmHdJkxW8Rtr",
+                "like_count": 1519,
+                "post_date": "2020-09-05 06:00:00",
+                "last_update_date": "2020-09-04 15:24:28",
+                "author": {
+                    "user_id": "11199306",
+                    "user_name": "kimi",
+                    "desc": "自由撰稿人，业余影剧评写手。每一部影视作品里都有你未曾经历的人生，等待着被发现与倾听。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "聊聊电影和人生",
+                    "fans_total": "502",
+                    "web_url": "http://image.wufazhuce.com/Fmfan7neHDOkYfyH8A7_jgA5G0fH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "三时三餐渔村篇 第五季",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5031",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2048",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2048",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2048",
+                    "image": "http://image.wufazhuce.com/FrggjLBtCJq3ie9QjmHdJkxW8Rtr",
+                    "title": "「一个」电影: 三时三餐渔村篇 第五季",
+                    "content": "来自996和007的焦虑，被deadline支配的恐惧，仔细想想，你有多久没有关注过一日三餐了？上一次认真思考这个问题，可能还是对着手机软件准备点外卖的时候。如果可以，谁愿意每天在朝九晚五的生活中麻木，谁不向往&ldquo;面朝大海，春暖花开&rdquo;的生活？于是，在越过越快的日常中，越播越慢的治愈系综艺便成了都市人的续命良方。下乡、做饭、见朋友，慢且日常，却屡试不爽。这样的模式，对慢综艺大神罗英石PD来说，简直是信手拈来。《三时三餐》里用了六年，即便是这次的渔村篇，也已经持续了5季。但大神的高明之处在于，总能让你发现节目中的新魅力，心甘情愿地贡献收视率。和前4季相比，这一季渔村篇的录制显得尤为特别。录制时恰逢新冠疫情爆发，春暖花开抵不过&ldquo;与世隔离&rdquo;，口罩将人与人之间的距离拉得远，旅行也变成了奢望。因此，这档能摘掉口罩、和好朋友吃吃喝喝聊聊天的综艺来得颇为及时。依旧是车胜元、柳海真、孙浩俊组成的渔村限定三人组，仅仅是听他们唠嗑，就足够欢乐。虽然久未见面，但三人人设不倒。车主厨还是那个车主厨，时刻保持满分时尚感。衣服和球鞋要搭配好，连干活用的塑胶手套也要选同色系。戴着墨镜干活，把一条狭窄的摘葱之路走出了T台feel。演技派大叔柳海真，到了岛上更是大显身手。捕鱼、海钓、搞发明，各项生存技能满分。为了以后演戏需要，这叔居然还抽空去考了船类驾照，这次也正好派上用场。至于三人中最年轻的孙浩俊，其实也已经是37岁的中年人了。只不过从第一次录制（30岁）至今，依旧没有改变&ldquo;工具人&rdquo;的命运。无时不刻不在干活，就算没有接到哥哥们的指令，也会自己找活干。三个35+的中年男人聚到一起，在远离都市的海上孤岛，不用手机和社交网络，也没有综艺节目里必备的任务卡。唯一要做的就是关心一日三餐吃什么。听上去容易，做起来难。刚到达岛上的三人，就为眼前的简陋设施而感到&ldquo;心凉&rdquo;了。考虑到安全问题，节目组特地将拍摄地选在了暂时无人居住的南方小岛竹窟岛。岛有多小呢？环岛跑一圈只要11分钟，没有便利店，也没有城市里习以为常的生活基础设施。录制前，罗PD就已经婉转地向三位嘉宾表示：想要什么得靠你们自己一点点去建造了。别以为是模拟经营类游戏照进现实，因为现实是小岛生存挑战。空间上的&ldquo;小&rdquo;限制了活动范围，自然也增加了产生冲突的几率。以至于还没开始录制，柳海真就开玩笑，在这个无处可逃的小岛上，三个人不会天天吵架吧？红顶砖瓦的老式民居是这一次的&ldquo;三餐之家&rdquo;，垒起来的石堆就是围栏。因为屋顶太矮，车胜元这样的高个子在房间里根本无法&ldquo;直立行走&rdquo;。屋外墙上挂着大蒜串儿，角落里摆着各式酱缸，房间里的陈设极富年代感。乍一看，有种到了乡下奶奶家的感觉，意外地有点亲切。豆芽自己发，海鲜自己抓，要煮饭了就自己生火起炉灶。屋子旁边的菜地里种着各种蔬菜，需要鸡蛋就直接去鸡舍里摸几个，当然数量全凭运气。寒碜吗？有点儿，但也并非美好全无。各种新鲜的食材丰富了一日三餐，而且绝对是没有&ldquo;中间商&rdquo;的纯天然。不想干活了，可以坐在门口听雨声；太阳落山了，就在卧室里欣赏晚霞。这样天然的海景房生活，把都市人羡慕的&ldquo;返璞归真&rdquo;变成了现实。很快，三人就认可了这里的美好，信心满满地开始了岛民生活。带着一麻袋大白菜和萝卜上岛的车胜元，做起了每季必备的车氏泡菜。清洗、切块、调料、腌制，一气呵成。看车大叔做菜，没人能不馋。讲起&ldquo;大蒜要浸泡过更容易去皮&rdquo;、&ldquo;面糊要加碳酸水和冰块调制&rdquo;这些做菜心得，车主厨也是头头是道。谁能想到这个戴着大妈式样塑胶手套、蹲在地上对着垃圾桶削皮的大叔，会是银幕上万众瞩目的大明星？节目前，孙浩俊特地去美容院做了发型，却被岛上初来乍到的一场大雨给浇没了。于是他所幸放弃打扮，怎么舒服怎么来。蹲在炉子前灰头土脸地生火煮饭，穿着长筒胶鞋去海边岩石里挖可以做下饭菜的贝壳。为了能在车胜元召唤时及时帮上忙，他随时把调料瓶揣在口袋里。而自觉担任起捕鱼任务的柳海真，最常见的形象则是戴着顶棒球帽奔波于小屋、海钓船和石壁之间。往往带着给大家改善伙食的愿望在船上一坐一下午，或者沿着石壁爬上爬下察看布好的渔网。然而大多数情况下都是一无所获，偶尔渔网里有一两天误入的小鱼，也被他放归大海。在这里，偶像包袱，不需要的；综艺剧本，不存在的。地里刚摘下来的蒜薹，掐下一截就放嘴里尝味道；没地方洗苹果，衣服上擦两下就能直接吃。甚至连明星本应该最注重的镜头感，也是在导演提醒下才想起来&ldquo;要帅一点地干活&rdquo;。突如其来的暴雨，空空如也的鱼篓，无功而返的海钓，一切都是不可控的，计划永远赶不上变化。通常早上心满意足地写好一日三餐的菜单，最后因为什么鱼都没抓到，只能把菜单划掉重写。但所幸因为这些突发状况，让随性的日子没有变成日复一日的&ldquo;昨天&rdquo;。下雨天不能外出，三人就煮一锅热腾腾的面片汤，就着爽口的泡菜吃得心满意足。顺便眺望远处的海上小岛，开玩笑说那是自己买下来的。没有捕到鱼的日子，车主厨就用现有材料做出一顿美食。放了狗爪螺的葱煎饼，配上特调的辣酱；加了红萝卜的鸡蛋卷，被煎得厚而饱满；筋道的汤面上，撒一把紫菜碎。剩饭可以用来做锅巴汤，海草可以做摆盘的装饰。无需华丽的菜式，却因为可以和朋友在一起聊天逗乐，而变得很满足。好朋友孔晓振来岛上做客，也是毫无女明星包袱。刚到岛上因为太饿，连前一天剩下的地瓜也吃得津津有味。为了招待她，三人把所有的食材都拿了出来。车胜元特地做了冷面，给晓振的那份用好看的盘子装好，再放上半个切好的煮鸡蛋。三人自己则用不锈钢碗盛面，再把剩下的半个鸡蛋切成三份。&nbsp;看到三个大男人碗里只有一些鸡蛋碎末，孔晓振带着歉意说：&ldquo;不会只有我有鸡蛋吃吧？&rdquo;大家纷纷表示都有，为了让晓振吃得安心，车胜元还装作不在乎地称自己那份早就吃完了。怕身为女明星的晓振在镜头前有负担，车胜元和柳海真告诉她吃不完也没关系。反倒是一向率真的晓振，边吃边说：&ldquo;不，我会吃完的，因为太饿了！&rdquo;虽然最终也没能让孔晓振吃上一顿肉，但岛上的生活并非艰苦而乏味的。几个人一边干活一边聊着生活日常，空旷的渔村里，时常回荡着乐呵呵的欢笑声。为了锻炼身体，柳海真在岛上打造了一个&ldquo;会员制&rdquo;的健身房。不仅有各种基础运动器械，还配备了会员用的毛巾和矿泉水。以及，一个用石头打造的&ldquo;全自动&rdquo;密码锁。明明只是吃个烤地瓜、烤土豆，却煞有架势地假装是在高级餐厅点餐，礼貌地问一句：&ldquo;客人，请问您要几分熟？&rdquo;一个人开玩笑，其他人也默契地配合演出。自己给自己加戏，自己把自己哄开心了。不吝啬对彼此的称赞，也不忘给对自己说一句&ldquo;今天做得挺棒的&rdquo;。那些在城市里觉得无聊的小事，在这里却充满了无限乐趣。这，就是罗PD和他节目的魅力所在。那些生活中被忽视的细节，在节目中都得以呈现。在他的镜头里，明星可以放下包袱做自己，普通人也可以找到自己向往的生活。不刻意，不做作，平淡得如同我们和朋友相处的日常，处处充满了烟火气。就像《煮面男》里让姜虎东在全国各地寻找煮出美味拉面的方法，《暑假》里真的让郑有美和崔宇植这两个成年人去乡下过个暑假一样，《三时三餐》分明就是在看三个男人搭伙过日子。他的节目不是秀，而是生活本身。未必精致，却从不缺少生活的仪式感。在鸟叫声中醒来，在晨光下环岛跑步；留心路边盛开的野花，发现石缝里藏着的贝壳。终于不点外卖，自己动手做饭做菜，才发现原来想要做出好吃的是一件不容易的事。每天干着活，时间不知不觉就流走了。平常在都市里还在睡觉的时间点儿，到了渔村却已经起来准备早饭了。因为早起，感觉一天的时间都被延长了。慢下来的生活，给了每个人和自己、和他人相处的机会，去观察，去思考，去发现美。原来，快乐并不没有想象得那么奢侈。原来，我们已经与&ldquo;自己&rdquo;阔别那么久。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 勇 闯 无 人 岛",
+                        "desc": "文/kimi 慢慢来，别着急，生活不会吃了你。",
+                        "link": "http://m.wufazhuce.com/movie/2048?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 勇 闯 无 人 岛",
+                        "desc": "文/kimi 慢慢来，别着急，生活不会吃了你。",
+                        "link": "http://m.wufazhuce.com/movie/2048?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 勇 闯 无 人 岛》 文/kimi： 慢慢来，别着急，生活不会吃了你。 阅读全文：http://m.wufazhuce.com/movie/2048?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2048?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "勇 闯 无 人 岛",
+                        "desc": "慢慢来，别着急，生活不会吃了你。",
+                        "link": "http://m.wufazhuce.com/movie/2048?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            }
+        ],
+        "menu": {
+            "vol": "2891",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4436",
+                    "title": "耳语"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1275",
+                    "serial_list": [
+                        "1270",
+                        "1271",
+                        "1272",
+                        "1273",
+                        "1274",
+                        "1275",
+                        "1276",
+                        "1277",
+                        "1278",
+                        "1279",
+                        "1280",
+                        "1281",
+                        "1282",
+                        "1283",
+                        "1284",
+                        "1285",
+                        "1286",
+                        "1287",
+                        "1288",
+                        "1289"
+                    ],
+                    "title": "我的么啊·第六章：轻松入戏"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2966",
+                    "title": "有哪些好的情绪宣泄方式？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2048",
+                    "title": "勇 闯 无 人 岛"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

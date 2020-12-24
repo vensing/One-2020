@@ -1,0 +1,571 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5457",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-04-07 06:00:00",
+        "content_list": [
+            {
+                "id": "20124",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2780",
+                "title": "摄影",
+                "forward": "如果我们一同被人梦见，那便是我们的相逢。",
+                "img_url": "http://image.wufazhuce.com/FsOiq4MX1PuUUECJXFdbmIsWVW1R",
+                "like_count": 18317,
+                "post_date": "2020-04-07 06:00:00",
+                "last_update_date": "2020-04-02 10:43:29",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2740",
+                "pic_info": "远方",
+                "words_info": "茨维塔耶娃",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2780",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2780",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2780",
+                    "image": "http://image.wufazhuce.com/FsOiq4MX1PuUUECJXFdbmIsWVW1R",
+                    "title": "VOL.2740",
+                    "content": "如果我们一同被人梦见，那便是我们的相逢。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2780?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2780?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 如果我们一同被人梦见，那便是我们的相逢。——茨维塔耶娃 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2780?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2780?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20142",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4266",
+                "title": "同居",
+                "forward": "当家作主的人一旦离家，家立马就冷掉。",
+                "img_url": "http://image.wufazhuce.com/Fm7Gk0LbUfJRyVmJtJNk0XBi6jdT",
+                "like_count": 4015,
+                "post_date": "2020-04-07 06:00:00",
+                "last_update_date": "2020-04-07 10:14:40",
+                "author": {
+                    "user_id": "5529761",
+                    "user_name": "短痛",
+                    "desc": "写作者。著有《孤独的孩子，提着易碎的灯笼》。",
+                    "wb_name": "@短tone",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作者。",
+                    "fans_total": "6392",
+                    "web_url": "http://image.wufazhuce.com/Fna7qucK98hngcbtH1Ek9tzAHqL_"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4266",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4266",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4266",
+                    "image": "http://image.wufazhuce.com/Fm7Gk0LbUfJRyVmJtJNk0XBi6jdT",
+                    "title": "同居 作者/短痛",
+                    "content": "这里有一个从衣柜里来的人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 同居",
+                        "desc": "文/短痛 这里有一个从衣柜里来的人。",
+                        "link": "http://m.wufazhuce.com/article/4266?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 同居",
+                        "desc": "文/短痛 这里有一个从衣柜里来的人。",
+                        "link": "http://m.wufazhuce.com/article/4266?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 同居》 文/短痛： 这里有一个从衣柜里来的人。 阅读全文：http://m.wufazhuce.com/article/4266?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4266?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "同居",
+                        "desc": "这里有一个从衣柜里来的人。",
+                        "link": "http://m.wufazhuce.com/article/4266?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20062",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1147",
+                "title": "即将来临·下一个世界：第七章",
+                "forward": "“呵呵，生气了，你知道吗？我也一样。”泰恩说完，拿下自己的眼绕，露出了空洞洞的右眼。",
+                "img_url": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                "like_count": 678,
+                "post_date": "2020-04-07 06:00:00",
+                "last_update_date": "2020-04-07 18:18:33",
+                "author": {
+                    "user_id": "11174853",
+                    "user_name": "李永明",
+                    "desc": "我一路奋斗，不仅为了改变世界，也为了不让世界改变我……",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "《即将来临》第二部正在创作中",
+                    "fans_total": "219",
+                    "web_url": "http://image.wufazhuce.com/FvEDXeitvNoNe_H1vF8iAZC9Ht8B"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第7章",
+                "number": "7",
+                "serial_id": "82",
+                "serial_list": [
+                    "1136",
+                    "1137",
+                    "1140",
+                    "1141",
+                    "1143",
+                    "1145",
+                    "1147",
+                    "1149",
+                    "1152",
+                    "1153",
+                    "1155",
+                    "1157",
+                    "1159",
+                    "1160"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1147",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1147",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1147",
+                    "image": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                    "title": "即将来临·下一个世界：第七章 作者/李永明",
+                    "content": "“呵呵，生气了，你知道吗？我也一样。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 即将来临·下一个世界：第七章",
+                        "desc": "文/李永明 “呵呵，生气了，你知道吗？我也一样。”",
+                        "link": "http://m.wufazhuce.com/serial/1147?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 即将来临·下一个世界：第七章",
+                        "desc": "文/李永明 “呵呵，生气了，你知道吗？我也一样。”",
+                        "link": "http://m.wufazhuce.com/serial/1147?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 即将来临·下一个世界：第七章》 文/李永明： “呵呵，生气了，你知道吗？我也一样。” 阅读全文：http://m.wufazhuce.com/serial/1147?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1147?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "即将来临·下一个世界：第七章",
+                        "desc": "“呵呵，生气了，你知道吗？我也一样。”",
+                        "link": "http://m.wufazhuce.com/serial/1147?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20037",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2797",
+                "title": "有哪些“我爱你”的“高级表达”？",
+                "forward": "年年有余，周周复始，也许给不了你很多感动，但我会陪你很久。",
+                "img_url": "http://image.wufazhuce.com/For9XrWvE2xEdndgxa9KXudOkJwW",
+                "like_count": 11802,
+                "post_date": "2020-04-07 06:00:00",
+                "last_update_date": "2020-04-06 09:43:25",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "天使爱人",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2797",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2797",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2797",
+                    "image": "http://image.wufazhuce.com/For9XrWvE2xEdndgxa9KXudOkJwW",
+                    "title": "有哪些“我爱你”的“高级表达”？",
+                    "content": "有哪些“我爱你”的“高级表达”？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 有哪些“我爱你”的“高级表达”？",
+                        "desc": "文/余小小小 能停留在名为你的世界，每天醒来都有满心的喜悦。",
+                        "link": "http://m.wufazhuce.com/question/2797?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 有哪些“我爱你”的“高级表达”？",
+                        "desc": "文/余小小小 能停留在名为你的世界，每天醒来都有满心的喜悦。",
+                        "link": "http://m.wufazhuce.com/question/2797?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 有哪些“我爱你”的“高级表达”？》 文/余小小小： 能停留在名为你的世界，每天醒来都有满心的喜悦。 阅读全文：http://m.wufazhuce.com/question/2797?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2797?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有哪些“我爱你”的“高级表达”？",
+                        "desc": "能停留在名为你的世界，每天醒来都有满心的喜悦。",
+                        "link": "http://m.wufazhuce.com/question/2797?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11188816",
+                    "user_name": "余小小小",
+                    "desc": "悲喜和无常总是共生。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "悲喜和无常总是共生。",
+                    "fans_total": "427",
+                    "web_url": "http://image.wufazhuce.com/FmM_X6jQ2iZONqO9hD62LL81MYFh"
+                }
+            },
+            {
+                "id": "20116",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1978",
+                "title": "如果努力没用，那就更努力一点",
+                "forward": "一旦你相信“认真你就输了”，你就永远不会成为赢家。",
+                "img_url": "http://image.wufazhuce.com/FqAl0tjhcDNNDnJlzmdlMQlm58mu",
+                "like_count": 2189,
+                "post_date": "2020-04-07 06:00:00",
+                "last_update_date": "2020-04-06 19:23:31",
+                "author": {
+                    "user_id": "10639474",
+                    "user_name": "绿衣种子  ",
+                    "desc": "心若没有归宿的地方，走到哪里都是流浪",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "心若没有归宿的地方，走到哪里都是流浪",
+                    "fans_total": "532",
+                    "web_url": "http://image.wufazhuce.com/FuWxQsFAstQPKM-ByxkvFS0lmpE4"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "大赢家",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4961",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1978",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1978",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1978",
+                    "image": "http://image.wufazhuce.com/FqAl0tjhcDNNDnJlzmdlMQlm58mu",
+                    "title": "「一个」电影: 大赢家",
+                    "content": "一场抢劫演习，警车已就位，媒体以直播形式报道，是展现喜闻乐见的歹徒被轻易制服的场景，还是模拟一场艰难却真实的抢劫案件？由大鹏，柳岩主演的电影《大赢家》线上免费上映，电影讲述了一个普通银行员工扮演劫匪协助警察进行演习的故事。《大赢家》改编自日本小说《游戏永无结束时》，在此之前，韩国电影《率性而为》，也改编自这部小说。二者实际上是在讲述同一个故事，难免会有对比。《大赢家》与《率性而为》很不同的一点是加入了许多喜剧的因素，韩版以警察扮演劫匪的视角讽刺韩国官僚机构办事不力的现实，因此深刻也沉重，《大赢家》将故事置于轻松的氛围下，更像一场小品剧。《大赢家》讲述的的是《率性而活》的另一面，其中，默默努力却遭受同事排挤的严谨一形象引人深思。1、一场演习，何必认真呢？简单的一个故事，从警察联合银行开展一次抢劫演习开始说起。开始，大家都没有把这次演习当成一回事，警察出警前漫不经心地笑着：&ldquo;保证半小时内完成任务！&rdquo;银行的职工为有半天的假期欢喜不已，准备早点糊弄过去回家，新闻转播车来了，写定通稿，念完亦准备离开。这场演习，本身就是一次嘘头，华丽的开始，也该顺利的结束&mdash;&mdash;劫匪被警察不费吹灰之力地抓起来。可是，扮演劫匪却是做事一根筋的轴人&mdash;&mdash;严谨。在大家都不把演习当回事的时候，他测算路口红灯，街角探头，制定逃跑计划，扣留人质，制服警察，他像一个真正的劫匪，为了抢银行周密地部署着。与此相对的，是银行里众人的不配合，&ldquo;不就是场演习吗，至于嘛！&rdquo;&ldquo;你看看这屋内屋外，多少人陪你一个人在玩？！&rdquo;争吵，喧闹，大吼着要立刻结束演习的声音穿进耳膜，让人想下按静音键。按照严谨的想法，劫匪会没收人质的手机，他拿着一个小篮，腆着脸将同事的手机收起来。在接了警察妻子的电话后，他得知今天是警察的生日，放下手机，他小心翼翼地对警察笑着，说：&ldquo;生日快乐&rdquo;，却没有收获一个微笑。镜头停留在他尴尬的笑容上。这样的场景，似曾相识。临近高考时，每到模拟考，班主任挂在嘴边的就是一句话：把平常当成高考，把高考当成平常。彼时年少，只觉得，怎么能把平常考试当成高考提心吊胆呢？心脏都会疲劳吧。直到从高考场中出来，方才明白，超常发挥难如登天，模拟考中不认真的，高考仍然会犯错。生活中大多数人在工作中抱以漫不经心的态度，认为事情既然还没发生，那就多一事不如少一事。当粉饰太平的形式主义成为主流，认真做事的人还能坚持多久？很喜欢影片中老警察说的一句话：&ldquo;问题在演习中发现，总比在实战中发生要好吧，警察的生命，也只有一次。&rdquo;一场演习，何必认真呢，或许这就是答案。2、电影并不&ldquo;完美&rdquo;从《屌丝男士》开始认识大鹏，那时每个星期最欢乐的时光就是在电视前看他的小视频，到他的《煎饼侠》上映，中国喜剧市场已经有了&ldquo;大鹏式&rdquo;幽默的一席之地。但是这部电影，大鹏身上的笑点并不多，大部分的笑料都是由其他小人物承担，比如自带萌点的孟鹤堂，嫌弃老公的孕妇。在人质当中，有一名为孕妇的银行顾客，已经到了预产期。大人们可以挨饿，可是宝宝不能不吃。于是，一群人借着这个冠冕堂皇的理由，找警察谈判，在银行内吃起了热气腾腾的火锅。本土化元素点火锅情节的加入，也让气氛更加活泼。还有严谨的母亲，对着摄像机的镜头给严谨在线征婚，连严谨没谈过恋爱的事情也说出来，让人啼笑皆非。影片中其他的一些亮点也可圈可点。比如爷爷与孙子的温情线，爷爷不知道该怎么关心孙子，只能给他大把的零用钱，这也是目前许多隔代人相处的方式。没有共同话语，老人只能通过如此笨拙的方法来表达对孙子的爱。当爷爷探着头，看孙子的手机，问：&ldquo;你在打游戏吗？&rdquo;小孩把钱塞回他手里：&ldquo;拿这些钱去买个新手机，我教你打。&rdquo;年轻人愿意向老人分享自己的世界，真的很温暖。作为一部改编的电影，它保留了原著故事中的精髓，增加喜剧因素，对形式主义的讽刺很到位。银行行长这个角色，一看，就可以想到身边的某个领导。电影为了营造出灰色幽默的喜剧效果，许多镜头都采用灰色的色调。但是，我觉得在这样的小场景中，过于暗的色彩会让人感到压抑，儿戏般的道具与模拟的实景之间来回切换，减少了代入感。很多笑点和价值观的插入，也稍显刻意。比如孕妇临盆，演习暂停，严谨要求以场外的两人做人质交换孕妇，警察局长答应了，然后他走了几步，忽然回头对严谨说：&ldquo;记住，认真做事的人，永远是赢家&rdquo;，还影片末尾严谨的独白：&ldquo;如果努力没用，那就更努力一点&rdquo;，价值观是正的，却有强行煽情的意图。最让人惊喜的是相声出身的孟鹤堂，他第一次参演电影，许多表演却显得非常成熟。严谨准备杀人质，看着他与另一个银行员工抽签，我第一次将印象中儒雅的他归为&ldquo;可爱&rdquo;。为了能够早点下班，他与同伴争夺被&ldquo;杀&rdquo;的资格，被绑到银行外，胸前挂着象征炸弹的香蕉，双腿一蹦一蹦地往前跳地喊道：&ldquo;领导，我要求立即击毙劫匪，我&hellip;&hellip;我选择牺牲我自己！打爆我的炸弹！&rdquo;如果喜剧还有一种形式，那应该就是相声演员自带的搞笑萌点吧。谁是赢家？我们身边肯定有那么几个人，很善良却不善交际，对待工作一丝不苟，多数时候坚持原则到了固执的地步，这样的人，像一根轴线，坚韧却孤单。严谨就是银行的一名普通员工，因为过分的认真，他不被周围人喜欢，认真扮演强盗，却凶不起来，最残暴的表情也只是傻傻的龇牙。但他极认真的践行了&ldquo;有困难克服困难，没有困难给警察制造困难&rdquo;的演习要求，用自己的努力，影响了只想敷衍了事的队友。当银行领导以众人的工作为要挟，夺下严谨的外套假扮劫匪，让警察击毙。&ldquo;圆满&rdquo;的结局终于到来，除了领导外却没有一个人鼓掌。看着行长做作的姿态，大家此时时候才真心认可严谨，认可他了的工作态度。真相被一个一个人接着说出来，严谨把脸埋在地上，肩膀抖动。这段，也是韩版改编中没有的。戏中，严谨在层层的包围圈隐蔽，引导警察去开车逃离的人质。银行里静悄悄的，只有他和心上人徐海娇，他们藏在实现准备好的柜子上。柳岩扮演的徐海娇竟然也是&ldquo;劫匪&rdquo;。此前，她悄悄帮助严谨关上银行门，安放后门的&ldquo;炸弹&rdquo;，最后的这个反转让人惊喜。&ldquo;劫匪&rdquo;们计划成功，收获爱情，是大赢家，而警察局长在发现少了两具&ldquo;尸体&rdquo;时，就识破&ldquo;劫匪&rdquo;的把戏，只在银行静待严谨和徐海娇从房顶下来，亦是赢家。生活中，不必每个人都是&ldquo;轴&rdquo;人，如影片中警察说的：&ldquo;严谨这样的人，一百个里有这样一个就够了，要是没有，还真不行。&rdquo;如果我们做不到这般认真，是不是可以给坚持原则，认真做事的人多一些理解？若是电影在两个月前播出，或许会引发更大的讨论，而不仅是停在对形式主义的讽刺。几个月前，若是多几个这样的&ldquo;轴&rdquo;人，惨痛的教训或许可以避免。现在，一些疫情仍然严重的国家，多一些这样的人，明日的曙光是否可以来的早一些？同时，也是因为有这样&ldquo;轴人&rdquo;，我们才能最快的迎接胜利的到来。最后，还是那句话，凡事，就怕认真。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 如果努力没用，那就更努力一点",
+                        "desc": "文/绿衣种子   妈，我要去抢银行。",
+                        "link": "http://m.wufazhuce.com/movie/1978?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 如果努力没用，那就更努力一点",
+                        "desc": "文/绿衣种子   妈，我要去抢银行。",
+                        "link": "http://m.wufazhuce.com/movie/1978?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 如果努力没用，那就更努力一点》 文/绿衣种子  ： 妈，我要去抢银行。 阅读全文：http://m.wufazhuce.com/movie/1978?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1978?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如果努力没用，那就更努力一点",
+                        "desc": "妈，我要去抢银行。",
+                        "link": "http://m.wufazhuce.com/movie/1978?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20052",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3103",
+                "title": "我坦白，我过得并不好... ...",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FuNwqCTLoOk7BNmjD8_G9MKvCKtg?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1888,
+                "post_date": "2020-04-07 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3103",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3103",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 我坦白，我过得并不好... ...",
+                        "desc": "都挺好，呵呵，我自己都信了",
+                        "link": "http://m.wufazhuce.com/radio/3103?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvryKgTcQ_gxObQu-YO2wORo7Zv7"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 我坦白，我过得并不好... ...",
+                        "desc": "都挺好，呵呵，我自己都信了",
+                        "link": "http://m.wufazhuce.com/radio/3103?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvryKgTcQ_gxObQu-YO2wORo7Zv7"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 我坦白，我过得并不好... ...》 主播/马晓橙： 都挺好，呵呵，我自己都信了 阅读全文：http://m.wufazhuce.com/radio/3103?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3103?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lvryKgTcQ_gxObQu-YO2wORo7Zv7"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "我坦白，我过得并不好... ...",
+                        "link": "http://m.wufazhuce.com/radio/3103?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvryKgTcQ_gxObQu-YO2wORo7Zv7"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 800 期",
+                "audio_url": "http://music.wufazhuce.com/lvryKgTcQ_gxObQu-YO2wORo7Zv7"
+            }
+        ],
+        "menu": {
+            "vol": "2740",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4266",
+                    "title": "同居"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1147",
+                    "serial_list": [
+                        "1136",
+                        "1137",
+                        "1140",
+                        "1141",
+                        "1143",
+                        "1145",
+                        "1147",
+                        "1149",
+                        "1152",
+                        "1153",
+                        "1155",
+                        "1157",
+                        "1159",
+                        "1160"
+                    ],
+                    "title": "即将来临·下一个世界：第七章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2797",
+                    "title": "有哪些“我爱你”的“高级表达”？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1978",
+                    "title": "如果努力没用，那就更努力一点"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3103",
+                    "title": "我坦白，我过得并不好... ..."
+                }
+            ]
+        },
+        "ad": []
+    }
+}

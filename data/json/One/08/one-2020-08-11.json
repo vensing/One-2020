@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5582",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-08-11 06:00:00",
+        "content_list": [
+            {
+                "id": "20890",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2907",
+                "title": "摄影",
+                "forward": "成功只有一个——按照自己的方式，去度过人生。",
+                "img_url": "http://image.wufazhuce.com/FkIq2WKT-iUQPvbGiX0Wbvb3r1DH",
+                "like_count": 15327,
+                "post_date": "2020-08-11 06:00:00",
+                "last_update_date": "2020-08-07 18:29:39",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2866",
+                "pic_info": "Krivec Ales",
+                "words_info": "当年明月《明朝那些事儿》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2907",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2907",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2907",
+                    "image": "http://image.wufazhuce.com/FkIq2WKT-iUQPvbGiX0Wbvb3r1DH",
+                    "title": "VOL.2866",
+                    "content": "成功只有一个——按照自己的方式，去度过人生。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2907?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2907?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 成功只有一个——按照自己的方式，去度过人生。——当年明月《明朝那些事儿》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2907?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2907?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20888",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4410",
+                "title": "钓衣服",
+                "forward": "人就是这样，只要身边有个要照顾的人，日子就有了根，手里就有了劲儿。",
+                "img_url": "http://image.wufazhuce.com/FtLhCTc7V-Gu5sBscVnZjJxLcwhj",
+                "like_count": 2393,
+                "post_date": "2020-08-11 06:00:00",
+                "last_update_date": "2020-08-11 11:33:23",
+                "author": {
+                    "user_id": "5529761",
+                    "user_name": "短痛",
+                    "desc": "写作者。著有《孤独的孩子，提着易碎的灯笼》。",
+                    "wb_name": "@短tone",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "写作者。",
+                    "fans_total": "6392",
+                    "web_url": "http://image.wufazhuce.com/Fna7qucK98hngcbtH1Ek9tzAHqL_"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4410",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4410",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4410",
+                    "image": "http://image.wufazhuce.com/FtLhCTc7V-Gu5sBscVnZjJxLcwhj",
+                    "title": "钓衣服 作者/短痛",
+                    "content": "“那人干啥呢？”“钓衣服。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 钓衣服",
+                        "desc": "文/短痛 “那人干啥呢？”“钓衣服。”",
+                        "link": "http://m.wufazhuce.com/article/4410?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 钓衣服",
+                        "desc": "文/短痛 “那人干啥呢？”“钓衣服。”",
+                        "link": "http://m.wufazhuce.com/article/4410?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 钓衣服》 文/短痛： “那人干啥呢？”“钓衣服。” 阅读全文：http://m.wufazhuce.com/article/4410?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4410?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "钓衣服",
+                        "desc": "“那人干啥呢？”“钓衣服。”",
+                        "link": "http://m.wufazhuce.com/article/4410?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20768",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1254",
+                "title": "打雪仗·第二十五章：同生共死",
+                "forward": "这大概就是报应吧，人们说生女儿是难过一天，剩下的一辈子都甜美。生儿子反过来，也就他出生那一天高兴，剩下的日子都是难过。因为儿子是来向你讨上一世你欠下的债务。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 735,
+                "post_date": "2020-08-11 06:00:00",
+                "last_update_date": "2020-08-03 17:44:41",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第25章",
+                "number": "25",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1254",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1254",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1254",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第二十五章：同生共死 作者/肖睿",
+                    "content": "这大概就是报应吧。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第二十五章：同生共死",
+                        "desc": "文/肖睿 这大概就是报应吧。",
+                        "link": "http://m.wufazhuce.com/serial/1254?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第二十五章：同生共死",
+                        "desc": "文/肖睿 这大概就是报应吧。",
+                        "link": "http://m.wufazhuce.com/serial/1254?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第二十五章：同生共死》 文/肖睿： 这大概就是报应吧。 阅读全文：http://m.wufazhuce.com/serial/1254?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1254?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第二十五章：同生共死",
+                        "desc": "这大概就是报应吧。",
+                        "link": "http://m.wufazhuce.com/serial/1254?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20896",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2940",
+                "title": "如何克服畏难情绪？",
+                "forward": "世界上没有扛不起的山。",
+                "img_url": "http://image.wufazhuce.com/FjgBC3k34T9V-ioGGF4zBtqjyzXw",
+                "like_count": 2730,
+                "post_date": "2020-08-11 06:00:00",
+                "last_update_date": "2020-08-10 15:05:33",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "Pigheart",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2940",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2940",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2940",
+                    "image": "http://image.wufazhuce.com/FjgBC3k34T9V-ioGGF4zBtqjyzXw",
+                    "title": "如何克服畏难情绪？",
+                    "content": "如何克服畏难情绪？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何克服畏难情绪？",
+                        "desc": "文/缪斯谭 “这个世界没什么好畏惧的，反正我们只来一次。​”",
+                        "link": "http://m.wufazhuce.com/question/2940?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何克服畏难情绪？",
+                        "desc": "文/缪斯谭 “这个世界没什么好畏惧的，反正我们只来一次。​”",
+                        "link": "http://m.wufazhuce.com/question/2940?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何克服畏难情绪？》 文/缪斯谭： “这个世界没什么好畏惧的，反正我们只来一次。​” 阅读全文：http://m.wufazhuce.com/question/2940?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2940?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何克服畏难情绪？",
+                        "desc": "“这个世界没什么好畏惧的，反正我们只来一次。​”",
+                        "link": "http://m.wufazhuce.com/question/2940?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "20897",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2033",
+                "title": "在每一次悲伤时唱情歌",
+                "forward": "“为你的悲伤而快乐，那就是爱的感觉，悲喜交加”。",
+                "img_url": "http://image.wufazhuce.com/FvWrZCi6N_DtVB9aHhw058mmzLmM",
+                "like_count": 1531,
+                "post_date": "2020-08-11 06:00:00",
+                "last_update_date": "2020-08-10 16:38:57",
+                "author": {
+                    "user_id": "11185651",
+                    "user_name": "颗馨",
+                    "desc": "既然不再假装自己不是多愁善感的诗人。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "做最积极的悲观主义者。",
+                    "fans_total": "885",
+                    "web_url": "http://image.wufazhuce.com/Fj65EDdIoR9aUxJnUlYaqjaKWF55"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "初恋这首情歌",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5016",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2033",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2033",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2033",
+                    "image": "http://image.wufazhuce.com/FvWrZCi6N_DtVB9aHhw058mmzLmM",
+                    "title": "「一个」电影: 初恋这首情歌",
+                    "content": "回忆一下，你的青春，有没有所谓的&ldquo;高光时刻&rdquo;？也许来的有点意外，你也没想到，原来，我可以成为这样的人，也许来自你长久的努力，得偿所愿，你知道，它们没有白费。原来，我做了就会成功。这一刻会让茫然的青春有一个方向，让你开始走上找到真正自己的路。最近重映的《初恋这首情歌》就是这样一部电影，片中的男主角康纳就是这样一个和你我一样的普通男孩。他看上去普普通通，需要朋友，渴望遇见一个女孩。他也有点叛逆，有点迷茫。他不知道自己是谁，但他想找到答案。于是，在普通的一天，他在学校门口看见一个女孩拉菲娜，为了追她，康纳决定组一支乐队。01 &nbsp;世界上没有一个乐队这么草率这支乐队有多草率呢？为了拍MV而组建，准确的说，是为了给拉菲娜拍MV而组建。或者说，为了让康纳见到拉菲娜而组建。以会乐器为唯一条件，没人知道要做什么样的音乐，甚至也没人知道为什么要组建乐队，只是刚好会乐器，又无所事事。一支以 &ldquo;未来&rdquo;作为乐队的风格，却没有一个人知道，他们这些爱尔兰孩子，除了偷渡去英国，未来还能怎样。既然不知道自己想要什么，既然刚好有人提出要组乐队，不如凑在一起试试看。埃蒙是整个乐队最有才华的人，他负责作曲，会你能想到的所有乐器。听上去他是乐队的不二人选，可找到他，纯属偶然。没人知道他会这么多乐器，只是因为他父亲在做专门跑婚礼挣钱的翻唱乐队，所以猜测他大概是会乐器的。在遇见康纳以前，埃蒙只是个听母亲的话，除了和兔子在一起没有什么事做的男孩。在家里，妈妈不喜欢音乐，也不想欣赏，只想让儿子按部就班地生活。许多个晚上，康纳会突然带着歌词敲他的家门，问他要不要一起写歌。他们一起写旋律，编曲，一人一把吉他构想着一首歌会变成什么样，这里慢一点，这里加一点合声，这里用吸尘器管子唱。一首首属于他们乐队自己的歌就这么出现了。埃蒙的生活一点点地被这个稀里糊涂组成的乐队填满，好像漫长的青春开始充实，至少他有了让自己满足的事。第一次有自己的歌，第一次拍MV，第一次化妆，第一次在学校穿不一样的衣服，甚至用染头发这种方式反抗。这是他们第一次尝试走出人群，被别人看见。&nbsp;因为这个乐队，他们都在改变，把喜怒哀乐写成歌，哪怕只是关于女孩或者对老师的反抗，渐渐也试着成为一支真正的乐队，去追求本来没想追求的艺术。他们的歌越来越好，被拉菲娜肯定，甚至能让埃蒙妈妈跳起舞来。在学校独立举办一个半小时的演出，人群挤满体育馆，之前欺负康纳的同学也来帮忙维持秩序。在首演的舞台上，他们第一首歌就点燃全场，所有人都摇摆起来。被肯定，被所有人肯定，被曾经看不起自己的人肯定，在这个时候，康纳却想唱首慢歌。所有人都知道慢歌不吸引人，观众会散去，埃蒙还是坚定地支持康纳。这首歌叫《Find you》，不是简单的&ldquo;Find you&rdquo;，是&ldquo;On my way to find you&rdquo;。这条路，是我的路，我找到了，现在，就去找你。&nbsp;02 &nbsp;世界上没有一个女孩像你一样拉菲娜，是这个乐队成立的原因，是这个乐队唯一的MV女主角，也是康纳的缪斯女神。为了见到拉菲娜，康纳写新歌拍新的MV，而每次见到拉菲娜，康纳都有新的心情想记录。拉菲娜的确很美，美到让每个男孩都想跟她说话，她却不屑和任何一个男孩说话。她想要更成熟的生活，所以化浓妆，烫爆炸头，和成年男子谈恋爱，叼着烟站在校门口，梦想去伦敦做模特，只有成为MV女主角这种事能吸引她。可她也只有十六岁，住在孤儿院，不上学却总站在校门口，烟没点着过，对伦敦也一无所知。她只是想离开这里，离开这一切不属于她的平庸。也许她是这群人里最认真对待MV的人，她不只是简单的出镜，她会调整乐队成员的服装，为了上镜，给每个人化妆，为了康纳的一个想法，她不会游泳却真的跳海。&ldquo;为了艺术。我想告诉你，你不能做什么事都只做一半。&rdquo;她不是没有灵气的女孩，她不是只有美丽的皮囊，她看过所有电影，知道康纳说的《回到未来》，知道他想要的&ldquo;五十年代的舞蹈&rdquo;是什么样的。她是这些人里唯一接受自己的全部过去，还依然十分向往未来的人。在康纳执着地求爱时，她问康纳，你知不知道什么是happy-sad。这是个很难翻译的词，常规的解释都词不达意，好像只有一个说法可以相对直观的说明&mdash;&mdash;为你的悲伤而快乐。这个词问住了康纳，他之前从没想过，喜欢一个人会有sad，也没想过有happy-sad。拉菲娜启发了他，爱，这漫长的青春期和枯燥的生活好像都是如此。我们应该认识到，我们的生命中happy真的没有那么多，也许sad更多，可我们一样需要快乐。更多时候，我们应该学会为了这些悲伤而快乐，学会接受这一切。为了去伦敦实现一个模特的&ldquo;幻梦&rdquo;，拉菲娜没有赴那场&ldquo;五十年代舞蹈&rdquo;的宴会，她跟着男友去了伦敦。可惜一切都没有那么理想，伦敦的一切都是大话。他们没有钱，没有人脉，男友半途就抛下她离开了。她最终还是回到了这里，她不愿意面对康纳，而康纳只留下了新歌的磁带，邀请她去看他们乐队的首演。那首歌就是《Find you》，那晚，康纳在体育馆里固执地唱着这首唯一的慢歌，期待她来，而拉菲娜坐在公园，听着康纳给的磁带泪流满面。康纳懂了happy-sad的意思，他也愿意支持拉菲娜。在演出结束后，康纳带着自己乐队全部的磁带和录像带牵着拉菲娜一起，他们决定开着康纳爷爷留下的小船去海那边的伦敦。他们依然一无所有，毫无准备，可他们已经准备好了，准备好迎接一切，去看看梦想的那头，不管是happy还是sad。&nbsp;03 &nbsp;世界上没有一个家是不糟心的康纳组乐队其实不只是因为拉菲娜，也和哥哥布兰登有关。这个家已经支离破碎了，每天隔着房门都可以听到父母吵架的声音，父母并不相爱，所有人都知道母亲出轨了，却还要一起装傻。家里破产了，所有人的生活一下变得拮据起来。母亲会坐在家门口看着远处，趁着夕阳余晖看报纸，仿佛自己还在西班牙度假，父亲毫无情趣，不懂艺术，也跟不上潮流，看着乐队MV不理解这些人只对口型，而不是现场表演。每个孩子都隔着房门听过父母吵架。为了盖过父母吵架的声音，布兰登会放摇滚乐，那是家里短暂的喘气时间。孩子们可以在房间里跳舞，不用去想那些压抑的事。整个家里康纳最喜欢也最信任的就是布兰登，他第一次看MV是因为布兰登，得知他要组乐队第一时间要他必须原创的人也是布兰登。康纳总会真诚地问布兰登，这首歌好不好，目前的音乐需要再听听谁的歌来改进？甚至关于拉菲娜的所有事，康纳都会告诉布兰登。康纳就像年轻时的哥哥，喜欢摇滚乐，组乐队，有点叛逆，对父母的一切感到压抑又无奈。布兰登太懂康纳了，可他已经在这个家里生活了二十多年了，他看了二十年的眼色，有了弟弟妹妹之后还要教他们躲避这些事，从这样的情绪里出逃。这不代表他习惯了，不再痛苦了。当他看到康纳的乐队这么顺利，康纳如此快乐自在，他崩溃了。这个弟弟就像曾经的他，找到了离开这个家的出口，逃出这一切之后又被认可，就像他小时候，可那时的他没人看到。他堕落了，没有去更大的城市，也失去了自己的乐队。每天窝在家里，守着一屋子的唱片，还要承受父母的一切。为什么，康纳可以逃走呢？他却没有逃走呢？会不会康纳逃走之后也会像他一样，年纪轻轻这一辈子却已经过完了一样。最后他还是选择站在康纳这一边，作为最初支持康纳的人，也是康纳最在乎的人。在拉菲娜和康纳去伦敦之前，他开车送他们去码头，即使知道他们一无所有，还是选择支持他们，给他们祝福。无论如何，康纳的身后必须有他。这个家里，总要有一个人做自己喜欢的事，和自己喜欢的人在一起。比起《初恋这首情歌》这个名字，港版的《唱通街》或许更恰当，因为这部电影不仅仅有关爱情，那些歌曲也不只是有关爱情。更多的是青春，是梦想，是我们都或多或少遭遇过的事。那些茫然的日子，那些不知所措的日子，我们没有爱，没有光明，只是这样活着，我们不知道是不是有快乐，是不是这一切都值得悲伤，也不知道要如何好起来。还好这个世界是有美好的。不管是happy-sad，是遥不可及又有点可笑的梦，你总有会找到一个出口，在那么一个&ldquo;高光时刻&rdquo;之后，你会知道你是谁。也许你只是颗迷失的星星，总有一天，会找到自己的轨迹的。夏天刚刚结束，可一切还来得及，记得去电影院，看看这部最好的音乐青春。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 在每一次悲伤时唱情歌",
+                        "desc": "文/颗馨 经典重映，这次也是“乐队的夏天”！",
+                        "link": "http://m.wufazhuce.com/movie/2033?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 在每一次悲伤时唱情歌",
+                        "desc": "文/颗馨 经典重映，这次也是“乐队的夏天”！",
+                        "link": "http://m.wufazhuce.com/movie/2033?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 在每一次悲伤时唱情歌》 文/颗馨： 经典重映，这次也是“乐队的夏天”！ 阅读全文：http://m.wufazhuce.com/movie/2033?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2033?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "在每一次悲伤时唱情歌",
+                        "desc": "经典重映，这次也是“乐队的夏天”！",
+                        "link": "http://m.wufazhuce.com/movie/2033?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20769",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3228",
+                "title": "我怕格格不入，我怕平庸一生",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fp9fk-bIDAchwOQ9dqwpVtxI4dxf?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1566,
+                "post_date": "2020-08-11 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3228",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3228",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 我怕格格不入，我怕平庸一生",
+                        "desc": "我怕别人不喜欢我，更怕自己不喜欢自己",
+                        "link": "http://m.wufazhuce.com/radio/3228?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqJolcNUmb2kPZNTVkN6ppOsAhvG"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 我怕格格不入，我怕平庸一生",
+                        "desc": "我怕别人不喜欢我，更怕自己不喜欢自己",
+                        "link": "http://m.wufazhuce.com/radio/3228?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqJolcNUmb2kPZNTVkN6ppOsAhvG"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 我怕格格不入，我怕平庸一生》 主播/马晓橙： 我怕别人不喜欢我，更怕自己不喜欢自己 阅读全文：http://m.wufazhuce.com/radio/3228?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3228?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lqJolcNUmb2kPZNTVkN6ppOsAhvG"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "我怕格格不入，我怕平庸一生",
+                        "link": "http://m.wufazhuce.com/radio/3228?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lqJolcNUmb2kPZNTVkN6ppOsAhvG"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 863 期",
+                "audio_url": "http://music.wufazhuce.com/lqJolcNUmb2kPZNTVkN6ppOsAhvG"
+            }
+        ],
+        "menu": {
+            "vol": "2866",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4410",
+                    "title": "钓衣服"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1254",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第二十五章：同生共死"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2940",
+                    "title": "如何克服畏难情绪？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2033",
+                    "title": "在每一次悲伤时唱情歌"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3228",
+                    "title": "我怕格格不入，我怕平庸一生"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

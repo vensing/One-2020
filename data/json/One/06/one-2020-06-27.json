@@ -1,0 +1,603 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5548",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-06-27 06:00:00",
+        "content_list": [
+            {
+                "id": "20598",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2862",
+                "title": "摄影",
+                "forward": "人只有一次生命，绝无可能用实验来证明假设，因此他就永远不可能知道为自己情感所左右到底是对还是错。",
+                "img_url": "http://image.wufazhuce.com/FgZqLzCkML53imB8R2CI-MAIYR2j",
+                "like_count": 12094,
+                "post_date": "2020-06-27 06:00:00",
+                "last_update_date": "2020-06-22 11:55:34",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2821",
+                "pic_info": "Nic Co",
+                "words_info": "米兰·昆德拉",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2862",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2862",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2862",
+                    "image": "http://image.wufazhuce.com/FgZqLzCkML53imB8R2CI-MAIYR2j",
+                    "title": "VOL.2821",
+                    "content": "人只有一次生命，绝无可能用实验来证明假设，因此他就永远不可能知道为自己情感所左右到底是对还是错。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2862?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2862?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人只有一次生命，绝无可能用实验来证明假设，因此他就永远不可能知道为自己情感所左右到底是对还是错。——米兰·昆德拉 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2862?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2862?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20611",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4363",
+                "title": "遇见一个好人",
+                "forward": "喜欢一个人，希望她快乐，看见她痛苦的时候，希望能为她解忧。不就是这么简单吗？",
+                "img_url": "http://image.wufazhuce.com/Fnw7ZoOEXxD3Lk3pXDULptllb78W",
+                "like_count": 2479,
+                "post_date": "2020-06-27 06:00:00",
+                "last_update_date": "2020-06-27 09:13:16",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4363",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4363",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4363",
+                    "image": "http://image.wufazhuce.com/Fnw7ZoOEXxD3Lk3pXDULptllb78W",
+                    "title": "遇见一个好人 作者/陈雪",
+                    "content": "要记得，人人都有被爱的权利。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 遇见一个好人",
+                        "desc": "文/陈雪 要记得，人人都有被爱的权利。",
+                        "link": "http://m.wufazhuce.com/article/4363?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 遇见一个好人",
+                        "desc": "文/陈雪 要记得，人人都有被爱的权利。",
+                        "link": "http://m.wufazhuce.com/article/4363?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 遇见一个好人》 文/陈雪： 要记得，人人都有被爱的权利。 阅读全文：http://m.wufazhuce.com/article/4363?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4363?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "遇见一个好人",
+                        "desc": "要记得，人人都有被爱的权利。",
+                        "link": "http://m.wufazhuce.com/article/4363?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20605",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1223",
+                "title": "打雪仗·第六章：亡灵合影",
+                "forward": "明明是夜晚，他却闻到天上的烈日在云层中灼人的味道。现在是冬天，可北国太阳光的味道猛烈丰沛，仿佛浪潮般涌来。",
+                "img_url": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                "like_count": 685,
+                "post_date": "2020-06-27 06:00:00",
+                "last_update_date": "2020-06-22 12:40:20",
+                "author": {
+                    "user_id": "11407696",
+                    "user_name": "肖睿",
+                    "desc": "肖睿，小说家，代表作《一路嚎叫》《生生不息》（2019年夏衍电影文学奖首奖）。他也是一名电影创作者，由他策划的《八月》《告别》等多部电影曾获得金马影展最佳剧情片，金鸡奖最佳中小成本影片等数十个华语影坛重要奖项。\r\n《打雪仗》是他以数个金融崩盘的“鬼城”原型为舞台，潜心创作三年的最新长篇悬疑小说。",
+                    "wb_name": "@沉默的肖洛霍睿",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家 夏衍电影文学奖首奖得主",
+                    "fans_total": "563",
+                    "web_url": "http://image.wufazhuce.com/FiiB8ugbrBXJd7ocxQJruswFU2HO"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第6章",
+                "number": "6",
+                "serial_id": "85",
+                "serial_list": [
+                    "1211",
+                    "1212",
+                    "1213",
+                    "1221",
+                    "1222",
+                    "1223",
+                    "1224",
+                    "1229",
+                    "1230",
+                    "1231",
+                    "1240",
+                    "1241",
+                    "1244",
+                    "1242",
+                    "1243",
+                    "1245",
+                    "1246",
+                    "1247",
+                    "1248",
+                    "1249",
+                    "1250",
+                    "1251",
+                    "1252",
+                    "1253",
+                    "1254",
+                    "1255",
+                    "1256",
+                    "1257",
+                    "1258",
+                    "1259"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1223",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1223",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1223",
+                    "image": "http://image.wufazhuce.com/Fh572-uYwniR38kVDU95J_aVVjeI",
+                    "title": "打雪仗·第六章：亡灵合影 作者/肖睿",
+                    "content": "明明是夜晚，他却闻到天上的烈日在云层中灼人的味道。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 打雪仗·第六章：亡灵合影",
+                        "desc": "文/肖睿 明明是夜晚，他却闻到天上的烈日在云层中灼人的味道。",
+                        "link": "http://m.wufazhuce.com/serial/1223?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 打雪仗·第六章：亡灵合影",
+                        "desc": "文/肖睿 明明是夜晚，他却闻到天上的烈日在云层中灼人的味道。",
+                        "link": "http://m.wufazhuce.com/serial/1223?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 打雪仗·第六章：亡灵合影》 文/肖睿： 明明是夜晚，他却闻到天上的烈日在云层中灼人的味道。 阅读全文：http://m.wufazhuce.com/serial/1223?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1223?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "打雪仗·第六章：亡灵合影",
+                        "desc": "明明是夜晚，他却闻到天上的烈日在云层中灼人的味道。",
+                        "link": "http://m.wufazhuce.com/serial/1223?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20617",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2892",
+                "title": "对于拒绝太过敏感怎么办？",
+                "forward": "想邀请心意的人约会，想问一位朋友借钱，想争取一份工作，想表达自己的意见……但都因为害怕被拒绝，给自己一个看似合理的借口——反正可能性也不大。于是不了了之。",
+                "img_url": "http://image.wufazhuce.com/FuOA6NttxoRXWK3Dcvj44TpzQz38",
+                "like_count": 1904,
+                "post_date": "2020-06-27 06:00:00",
+                "last_update_date": "2020-06-26 14:47:21",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "Ronald",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2892",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2892",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2892",
+                    "image": "http://image.wufazhuce.com/FuOA6NttxoRXWK3Dcvj44TpzQz38",
+                    "title": "对于拒绝太过敏感怎么办？",
+                    "content": "对于拒绝太过敏感怎么办？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 对于拒绝太过敏感怎么办？",
+                        "desc": "文/陈允皓 最重要的还是厚脸皮。",
+                        "link": "http://m.wufazhuce.com/question/2892?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 对于拒绝太过敏感怎么办？",
+                        "desc": "文/陈允皓 最重要的还是厚脸皮。",
+                        "link": "http://m.wufazhuce.com/question/2892?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 对于拒绝太过敏感怎么办？》 文/陈允皓： 最重要的还是厚脸皮。 阅读全文：http://m.wufazhuce.com/question/2892?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2892?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "对于拒绝太过敏感怎么办？",
+                        "desc": "最重要的还是厚脸皮。",
+                        "link": "http://m.wufazhuce.com/question/2892?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10358044",
+                    "user_name": "陈允皓",
+                    "desc": "生活明朗，万物可爱。公众号：陈允皓",
+                    "wb_name": "@陈允皓Mars",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "生活明朗，万物可爱。公众号：陈允皓",
+                    "fans_total": "2380",
+                    "web_url": "http://image.wufazhuce.com/FsSQfZ7WLGyo6SbEBwas01L5iQw4"
+                }
+            },
+            {
+                "id": "20619",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2014",
+                "title": "爱让我们成为，生活里的诗人",
+                "forward": "记得第一次写诗，还是很混沌的年纪，我进了理科班，却渐渐爱上写作......伴随写诗和反叛，少年时代一去不返。",
+                "img_url": "http://image.wufazhuce.com/FvUgvDNrEzhM-4w4yHxpgKlhuS1H",
+                "like_count": 1795,
+                "post_date": "2020-06-27 06:00:00",
+                "last_update_date": "2020-06-28 16:54:51",
+                "author": {
+                    "user_id": "10540688",
+                    "user_name": "文长长等五位",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12691",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "为你写下爱的诗篇",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4997",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2014",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2014",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2014",
+                    "image": "http://image.wufazhuce.com/FvUgvDNrEzhM-4w4yHxpgKlhuS1H",
+                    "title": "「一个」电影: 为你写下爱的诗篇",
+                    "content": "没有人不想去追寻诗和远方，做一个诗人大概是许多人年少时期就向往的梦。那时正值青春，几笔寥寥，就勾勒出心中的夜空和瀚海；把文字当作最有趣的排列组合游戏，没想到却写就了无法复制的诗篇；遇见影像，在一帧帧的时光当中，我们看到又或者成为了那个我们曾歆羡、渴慕的人，成为了属于我们自己的诗人。一路上，不断收获，不断成长，终于把自己充盈成最饱满的样子。当越走越远时忽而回首，那一幕幕黑暗中的舞动，原来一直都在心中。@文长长推荐电影：《欲望都市》不知是初老症兆，还是当今时代变化太快，每天都有多样的新鲜信息、新鲜文化产品出现，新信息不断地覆盖在旧信息上，让旧信息变得模糊斑驳，我能很清楚说出最近几个月我看过的很有启发的电影，但就算参照着几年前的自己在每部看完的电影下写的观后感，我也记不清三年前、五年前乃至更久远年份，我被哪部电影的哪个情节触动过。但人生总有例外，虽例外也不常有。五年前看过，且我至今还能说出喜欢原因的电影只有一部：《欲望都市》。毫不夸张地说，《欲望都市》里的Carrie一度是我的写作精神偶像。电影里的Carrie是一个情感专栏作家，她认认真真谈恋爱，带着百分之百的真心去爱每一个交往过的男孩，她还有三个可以一起吃饭一起购物一起聚会一起八卦的好姐妹，生活过得热爱非凡。有时晚上聚会完回家，开一盏温馨的灯，打开电脑，Carrie就在电脑上敲下自己对感情对人生的感悟。她写下的文字，会在大杂志上刊登，她所得的稿费，随后也会用来买花戴买鞋穿。十八九岁的时候，每每看到Carrie写作的这一幕，内心都是羡慕的。羡慕有人能把生活的感受写成文字，这些文字还有读者看；羡慕有人能靠写作养活自己，活得独立且热闹；更羡慕Carrie漂亮中带有性感，感性中带有理性，能热烈去爱一个人，也能真心为一个人为一段关系流泪，是真心的爱，也是真心的难过，但哭完之后还是愿意爬起来，依旧敢爱敢恨，不会拿着对前人的遗憾亏欠下一个人，更不会辜负自己的爱。喜欢《欲望都市》这部电影，倒不是Carrie的经历鼓舞到我，让我成为了一名作家，毕竟《欲望都市》讲的更多是偏情感的话题。对这部电影的特殊感情特殊记忆主要因为，电影中的专栏作家Carrie、公关经理Samantha、律师Miranda以及理想主义Charlotte让我看到：女性也可以有不一样的活法，她们可以追求自己理想，追求所爱，可以在自己擅长领域大放异彩，成为专业领域很专业的人的同时，也拥有丰富多彩的生活。我以前以为我喜欢Carrie，只因为她有足够的人格魅力，活得干脆热烈，还是个专栏作家。五年后再看Carrie，才发现我们喜欢的那个人，其实也是我们内心想要成为的人。我们喜欢电影里的某个人，喜欢的从来不单是那个人，更多是因为那个人身上有我们对未来的映像。&nbsp;@无支祁推荐电影《十二夜》09年15岁，被一个过生日的同学邀请去他家聚会，几个少男少女因此第一次喝酒，一扎啤酒让六个人横七竖八的躺在沙发上。我醒来的时候下午两点，他们都还在呼呼大睡，我于是百无聊赖，坐在电视柜前面翻着碟片，然后把一张叫《十二夜》的香港碟放进DVD。电影一共92分钟，可能因为观看它的时候我因为醉酒而生理上很难受，因此觉得特别冗长。《十二夜》讲述了张柏芝饰演的空姐和陈奕迅饰演的工程师从相识到相爱再分离的故事。导演从这段感情故事里截取了十二个没有任何特别的普通夜晚，却是每个人每个爱情故事的缩影。在相识的夜晚他们互相拥抱，在热恋的夜晚他们用没有张力的台词，自然地聊天，计算他们相遇的概率是多么渺茫，最终认为他们的相爱是上天注定的奇迹。在热恋的夜晚即使工作再忙他们也要煲电话粥，然后再第二天早上驱车半个城市突然出现在对方楼下送早餐。然后在第五夜和第六夜他们开始拌嘴，疲惫，开始追究对方的过去，开始因为女主角小腿不够细而心生厌倦。终于在第七夜和第八夜两个人经历了所有情侣都会有的争吵，争执，为了一个错过的电话，或者一些&ldquo;你到底爱不爱我&rdquo;的追问，两个人最终无力应对，于是分手。接下来的夜晚是分手后的难过，和&ldquo;到底谁对谁错&rdquo;的不甘心。最终女主角决定约见男主角，结果却没有勇气相见，在错过的街头，她看着他远去，然后怅然若失。一个男人看到失魂落魄的她，于是走上前来，又是一个十二夜开始了。《十二夜》故事线非常简单，台词简单易懂又真实，真实到里面的每一句台词我相信恋爱过的人都说过。&ldquo;你闭上眼会不会想起我的模样&rdquo;，&ldquo;你不是嫌我这样就是嫌我那样&rdquo;，&ldquo;想不想我，有多想&rdquo;，&ldquo;是不是我对你越好你就越嚣张&rdquo;。导演像是看透了爱情的本质，把所有人的爱情标准化，有一种&ldquo;所有的爱情都不过如此罢了&rdquo;的不屑感。也许乍一看全是平淡，像是睡了一个普通的午觉，醒来的时候却又觉得怅然若失。后来我每年都会看一次《十二夜》，自己也试过写各种版本的《十二夜》，例如朋友相处的十二夜，从相识到无话不谈；到一个崭新的城市的十二夜，从不认识路到最后离开这个城市。十二夜是所有故事的框架，导演林爱华向我展示了非常好的叙事逻辑，利用时间的切割来分离故事的层次，再搭配一个完整又简单的故事，用最普通的台词，把人代入到故事里。这是对我写作影响最深的一部电影，我想大部分的小说应该像《十二夜》一样，认真地讲好一个故事，哪怕这故事很简单，这应该比所有的一切都重要。&nbsp;@谢绾推荐电影：《速度与激情》系列疫情从开始到平稳，我和叶生还没一起看过电影，总觉得在家里四方天地，支着平板看电影，缺乏些应有的乐趣。诚然我不是个文青，鲜少几次被拽去电影院看文艺片，都以困倦睡着告终。我一直不吝于承认自己喜欢商业片，那种靠爆炸特效和卡司支撑起来的爆米花电影，哪怕剧情从开头就可以一路顺当稳妥猜到结局。我喜欢写故事，故事里总会出现《速度与激情》，因为叶生同我就是因为这部电影认识的。约摸是四五年前，我还是个大学生时候，速激首映。从宿舍二楼翻墙下去，偷偷摸摸溜到学校门口，恰巧遇到同样坚定不移为首映礼贡献自己一份力的叶生。其实电影是什么内容，我已经记不大清了。大部头的电影接二连三，因为许多缘故，我并没有能和叶生一起坐在电影院刷过去。但是我在国外最无聊的时候，他顶着时差，和我开着视频看同一部电影，也算是有仪式感的了。叶生同我地工作算同行，他时常会看我写的东西，然后故作漫不经心地评价几句，却句句切中要害。其实要说一部电影对我的写作生涯有多少帮助，其实是假的，最好也是唯一的助力，就是让我认识了叶生。希望疫情尽快过去，让我们能够去电影院看第九部。&nbsp;@耶律律推荐电影：《死亡诗社》&nbsp;玉人酒千升，饮者梦一层。绿水滑如镜，横刀自来风。前些天酒后任性，买下一口诸刃唐横刀， 从取快递那刻起，一直把玩到深夜，并为它赋诗一首。因为过分喜爱而写诗，在这个能拍照的时空里，显得很中二。记得第一次写诗，还是很混沌的年纪，我进了理科班，却渐渐爱上写作。一次中二语文考试中，我中二病犯，八百字作文格，写下三首古体诗。阅卷老师以字数不够为由，画了好大一颗蛋。伴随写诗和反叛，少年时代一去不返。留下的，全是精确而醒目的证据，活过的证据。仿佛《死亡诗社》里吟诵惠特曼诗句那样：&nbsp;我步入丛林因为我希望生活得有意义我希望活得深刻吸取生命中所有的精华把非生命的一切都击溃以免当我生命终结时发现自己从来没有活过韦尔顿男子寄宿学校，新进一位英文教师基廷。第一堂课，他便请学生们撕掉课本里&ldquo;现实主义&rdquo;章节，引导他们感受生命，为它贡献一篇自己的诗歌。他脚踩讲桌，接着要求孩子们挨个站上去，并说道：努力聆听自己的声音，因为你开始越晚，便越不可能找到它。经过简洁纯粹的启蒙，尼尔、安德森为首的几人，效仿基廷组成死亡诗社，每晚去岩洞轮流诵诗，当然也包括吸烟和欣赏裸体画报。少年们勇敢追寻爱与诗，尼尔也不例外，他喜欢表演并成功演出。可演出结束当晚，便受到父亲坚决反对，于是他选择结束生命。尼尔并非死于启蒙，而是教条与顺从。安德森等人，得重头学习现实主义，去践行校训。这个悲伤的故事，几乎触及到教育本质：绝大多数人死在学校里，而非病榻上。基廷因教唆罪名，被迫放弃工作。他临走时，一众学生纷纷踩上课桌，他们像惠特曼赞颂林肯那样送别基廷道：O CAPTAIN! MY CAPTAIN!多年前一个礼拜五，我听懂了基廷的教诲，写下自己的诗篇，多年后的此刻，看他略带癫狂助人开窍，依然忍不住眼泪决堤。&nbsp;@城迟推荐电影：《死神的精度》《分手遗迹清理员》从4月25日在ONE上开始连载，小说上部更新完结。恰巧赶上此次电影推荐，一切都刚刚好，不知道这算不算个巧合。《分手遗迹清理员》是个有关分离的故事。主人公在情侣分手后，清理他们恋爱时的纪念品、日常用品、朋友圈的合影、玩过的毛绒玩具等等。清理员的生意总是很好。因为这世上很多事都是不确定的，但死亡和分离是一定的。如果把时间尺度拉长，所有告白的尾声都是告别，所有生存的结局都是死亡。有人说，分离就是轻微的死亡。今天推荐的电影是《死神的精度》。电影改编自伊坂幸太郎的小说。金城武饰演一个&ldquo;不务正业&rdquo;的死神。虽说是死神，但他并不负责&ldquo;杀死&rdquo;客户，只是对客户进行7天的调查。调查结束后，提交一份报告。如果报告结果是&ldquo;可&rdquo;，客户的死亡将被执行。与之相反，如果结果是&ldquo;放行&rdquo;，客户将继续生存下去。我很喜欢这种设定，开篇即给出&ldquo;抉择时刻&rdquo;。与其说是死神，其实更像是机关里的公务员。调查只是走个过场，大多情况下给出的结果都是 &ldquo;可&rdquo;。因为工作一成不变，死神难免提不起兴致，&ldquo;上班&rdquo;通常消极怠工，多数时间钻进CD店听歌，而且有套貌似合理的借口：因为天使聚集在图书馆，死神混迹在唱片店。死神的客户职业种类也很有趣。相比电影，小说原著多出三个角色。电话客服专员、黑道大哥、杀人犯、销售员、复仇者、理发店的老妇人。面对这些人，死神如何决定，&ldquo;可&rdquo;或是&ldquo;放行&rdquo;？如果是&ldquo;可&rdquo;的话，客户的死前遗愿又将如何实现？电话客服是否成为女歌手？黑道大哥是否坚守自己的道义？老妇人是否见到自己的孙子？有关死亡的故事，看完却非常治愈。影片最后，客户越来越释然，死神越来越温暖。从一个奇特的设定开始，却有一个治愈的结尾，这是伊坂幸太郎的拿手好戏。历险过程会有妖魔鬼怪，但结局总有童话般的暖心。金城武举伞独行的阴郁，与我脑海中分手清理员的形象不谋而合。死神负责终止一个生命，清理员负责告别一段感情。看似为了终结什么，但释怀才是最终目的。于是他们见识着各自的人间悲喜，解答着各自的人生命题。还是那句老话。现实生活已经很难了，我希望自己能写出成人世界的童话。愿懦弱都有热血支撑。愿承受的暴力都能复仇。愿离家的人有黄昏陪伴。愿未来可以被导航。愿温情都有日夜作为注脚。愿告别语都以&ldquo;明天见&rdquo;作为尾声。所以爱你们，《分手遗迹清理员》下部再见了。成为一个诗人，去写作，走进文字建造的城堡，本身就是一件很浪漫的事。在炎炎夏日里，独坐在家，捧着西瓜，把想看的电影好好看一遍，把想说的话写在纸上，把还来得及表达的爱意说出口，把生活过成自己想要的模样，幸福便即刻降临。那些让繁冗琐碎的日子变得闪耀而灿烂的爱，在不经意间终会被发现。如同炎日后的雨水，润泽而清洌，澄澈又明亮。而后我们才在笑容和释然中知晓，原来，成为诗人是一件很简单的事情，只要有爱，只要拥有并愿意给予，只要勇敢，我们都是自己生活里的诗人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 爱让我们成为，生活里的诗人",
+                        "desc": "文/谢绾等五位 为你写诗，愿你爱我。",
+                        "link": "http://m.wufazhuce.com/movie/2014?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 爱让我们成为，生活里的诗人",
+                        "desc": "文/谢绾等五位 为你写诗，愿你爱我。",
+                        "link": "http://m.wufazhuce.com/movie/2014?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 爱让我们成为，生活里的诗人》 文/谢绾等五位： 为你写诗，愿你爱我。 阅读全文：http://m.wufazhuce.com/movie/2014?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2014?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "爱让我们成为，生活里的诗人",
+                        "desc": "为你写诗，愿你爱我。",
+                        "link": "http://m.wufazhuce.com/movie/2014?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20599",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3194",
+                "title": "彩蛋丨我们不但不丑，我们还很温柔",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fjgq9wfTko8DSIXp5VOmv1yT6iqR?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1255,
+                "post_date": "2020-06-27 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682917",
+                    "user_name": "马晓橙、李荟莹",
+                    "desc": "\"一个\"app-朗读者\r\nONE深夜电台-主播\r\n\"一日调频\"- 主播\r\n微博：@马晓橙",
+                    "wb_name": "@马晓橙",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个卖声工作者",
+                    "fans_total": "79082",
+                    "web_url": "http://image.wufazhuce.com/FuCLLfAwoOmtm925rQ2wx2KLu9rO"
+                },
+                "content_id": "3194",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3194",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 彩蛋丨我们不但不丑，我们还很温柔",
+                        "desc": "男主播和女主播天台上的小秘密...",
+                        "link": "http://m.wufazhuce.com/radio/3194?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lgjKSx9SwBEw9bEt1IIbaUBuatPI"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 彩蛋丨我们不但不丑，我们还很温柔",
+                        "desc": "男主播和女主播天台上的小秘密...",
+                        "link": "http://m.wufazhuce.com/radio/3194?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lgjKSx9SwBEw9bEt1IIbaUBuatPI"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 彩蛋丨我们不但不丑，我们还很温柔》 主播/马晓橙等二位： 男主播和女主播天台上的小秘密... 阅读全文：http://m.wufazhuce.com/radio/3194?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3194?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lgjKSx9SwBEw9bEt1IIbaUBuatPI"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "彩蛋丨我们不但不丑，我们还很温柔",
+                        "link": "http://m.wufazhuce.com/radio/3194?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lgjKSx9SwBEw9bEt1IIbaUBuatPI"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 841 期",
+                "audio_url": "http://music.wufazhuce.com/lgjKSx9SwBEw9bEt1IIbaUBuatPI"
+            }
+        ],
+        "menu": {
+            "vol": "2821",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4363",
+                    "title": "遇见一个好人"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1223",
+                    "serial_list": [
+                        "1211",
+                        "1212",
+                        "1213",
+                        "1221",
+                        "1222",
+                        "1223",
+                        "1224",
+                        "1229",
+                        "1230",
+                        "1231",
+                        "1240",
+                        "1241",
+                        "1244",
+                        "1242",
+                        "1243",
+                        "1245",
+                        "1246",
+                        "1247",
+                        "1248",
+                        "1249",
+                        "1250",
+                        "1251",
+                        "1252",
+                        "1253",
+                        "1254",
+                        "1255",
+                        "1256",
+                        "1257",
+                        "1258",
+                        "1259"
+                    ],
+                    "title": "打雪仗·第六章：亡灵合影"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2892",
+                    "title": "对于拒绝太过敏感怎么办？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2014",
+                    "title": "爱让我们成为，生活里的诗人"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3194",
+                    "title": "彩蛋丨我们不但不丑，我们还很温柔"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

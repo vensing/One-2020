@@ -1,0 +1,670 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5474",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-04-14 06:00:00",
+        "content_list": [
+            {
+                "id": "20168",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2788",
+                "title": "摄影",
+                "forward": "往后我们还有无数的日子要过，反正到头来人生只是那么一回事。如果我把那么多事情先想来想去，未免太伤神了。你这么年轻，应该努力向前奔。",
+                "img_url": "http://image.wufazhuce.com/Fn5vTY178hfrT4mb0CgPW9FOuFw6",
+                "like_count": 21635,
+                "post_date": "2020-04-14 06:00:00",
+                "last_update_date": "2020-04-12 22:34:04",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2747",
+                "pic_info": "Fred Kearney",
+                "words_info": "约翰·斯坦贝克 《愤怒的葡萄》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2788",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2788",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2788",
+                    "image": "http://image.wufazhuce.com/Fn5vTY178hfrT4mb0CgPW9FOuFw6",
+                    "title": "VOL.2747",
+                    "content": "往后我们还有无数的日子要过，反正到头来人生只是那么一回事。如果我把那么多事情先想来想去，未免太伤神了。你这么年轻，应该努力向前奔。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2788?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2788?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 往后我们还有无数的日子要过，反正到头来人生只是那么一回事。如果我把那么多事情先想来想去，未免太伤神了。你这么年轻，应该努力向前奔。——约翰·斯坦贝克 《愤怒的葡萄》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2788?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2788?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20176",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4277",
+                "title": "为你点亮一盏灯",
+                "forward": "他们在公园的长椅上并排坐着，感觉他们像是结婚多年的夫妻，趁着孩子们都睡了，在自家附近的公园散步。",
+                "img_url": "http://image.wufazhuce.com/FiVBjMH1JeE9t_SI2MJHHnrHBuRa",
+                "like_count": 2103,
+                "post_date": "2020-04-14 06:00:00",
+                "last_update_date": "2020-04-14 08:53:56",
+                "author": {
+                    "user_id": "7671727",
+                    "user_name": "陈雪",
+                    "desc": "著有《恋爱课》《迷宫中的恋人》。根据陈雪原著《摩天大楼》改编的同名网剧在腾讯视频热播中。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家",
+                    "fans_total": "18356",
+                    "web_url": "http://image.wufazhuce.com/Fu6o0fqKHsI_TjdpPX3N2Kc99vNP"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4277",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4277",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4277",
+                    "image": "http://image.wufazhuce.com/FiVBjMH1JeE9t_SI2MJHHnrHBuRa",
+                    "title": "为你点亮一盏灯 作者/陈雪",
+                    "content": "夜深时，有没有人为你点亮一盏灯？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 为你点亮一盏灯",
+                        "desc": "文/陈雪 夜深时，有没有人为你点亮一盏灯？",
+                        "link": "http://m.wufazhuce.com/article/4277?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 为你点亮一盏灯",
+                        "desc": "文/陈雪 夜深时，有没有人为你点亮一盏灯？",
+                        "link": "http://m.wufazhuce.com/article/4277?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 为你点亮一盏灯》 文/陈雪： 夜深时，有没有人为你点亮一盏灯？ 阅读全文：http://m.wufazhuce.com/article/4277?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4277?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "为你点亮一盏灯",
+                        "desc": "夜深时，有没有人为你点亮一盏灯？",
+                        "link": "http://m.wufazhuce.com/article/4277?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20184",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4280",
+                "title": "李鸿其：我的生命经验和电影连结，产生的结果就是细节",
+                "forward": "爱电影的他本人，就是惊喜。",
+                "img_url": "http://image.wufazhuce.com/Ftq9ZDysQGXwOfbqaNfXYZp3OScG",
+                "like_count": 1396,
+                "post_date": "2020-04-14 06:00:00",
+                "last_update_date": "2020-04-14 07:31:51",
+                "author": {
+                    "user_id": "10826894",
+                    "user_name": "大噪",
+                    "desc": "小而宁，大而噪。",
+                    "wb_name": "@姜大噪",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小而宁，大而噪。",
+                    "fans_total": "567",
+                    "web_url": "http://image.wufazhuce.com/FhP11mQQubEBqtX22QldIDsNtUCx"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4280",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4280",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4280",
+                    "image": "http://image.wufazhuce.com/Ftq9ZDysQGXwOfbqaNfXYZp3OScG",
+                    "title": "李鸿其：我的生命经验和电影连结，产生的结果就是细节 作者/大噪",
+                    "content": "这是一份很有深度的片单。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "片单 | 李鸿其：我的生命经验和电影连结，产生的结果就是细节",
+                        "desc": "文/大噪 这是一份很有深度的片单。",
+                        "link": "http://m.wufazhuce.com/article/4280?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "片单 | 李鸿其：我的生命经验和电影连结，产生的结果就是细节",
+                        "desc": "文/大噪 这是一份很有深度的片单。",
+                        "link": "http://m.wufazhuce.com/article/4280?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《片单 | 李鸿其：我的生命经验和电影连结，产生的结果就是细节》 文/大噪： 这是一份很有深度的片单。 阅读全文：http://m.wufazhuce.com/article/4280?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4280?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "李鸿其：我的生命经验和电影连结，产生的结果就是细节",
+                        "desc": "这是一份很有深度的片单。",
+                        "link": "http://m.wufazhuce.com/article/4280?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "46",
+                        "title": "片单"
+                    }
+                ]
+            },
+            {
+                "id": "20103",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1153",
+                "title": "即将来临·下一个世界：第十章",
+                "forward": "定向改造可以脱离人类本身机能，将其他物种的强悍特征“嫁接”到人类身上的真正意义上的“第三人类” 。",
+                "img_url": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                "like_count": 637,
+                "post_date": "2020-04-14 06:00:00",
+                "last_update_date": "2020-04-13 19:12:15",
+                "author": {
+                    "user_id": "11174853",
+                    "user_name": "李永明",
+                    "desc": "我一路奋斗，不仅为了改变世界，也为了不让世界改变我……",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "《即将来临》第二部正在创作中",
+                    "fans_total": "219",
+                    "web_url": "http://image.wufazhuce.com/FvEDXeitvNoNe_H1vF8iAZC9Ht8B"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第10章",
+                "number": "10",
+                "serial_id": "82",
+                "serial_list": [
+                    "1136",
+                    "1137",
+                    "1140",
+                    "1141",
+                    "1143",
+                    "1145",
+                    "1147",
+                    "1149",
+                    "1152",
+                    "1153",
+                    "1155",
+                    "1157",
+                    "1159",
+                    "1160"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1153",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1153",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1153",
+                    "image": "http://image.wufazhuce.com/FlyVdCTk9hvK1SKMfFeZh1X332gN",
+                    "title": "即将来临·下一个世界：第十章 作者/李永明",
+                    "content": "将其他物种的强悍特征“嫁接”到人类身上的真正意义上的“第三人类” 。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 即将来临·下一个世界：第十章",
+                        "desc": "文/李永明 将其他物种的强悍特征“嫁接”到人类身上的真正意义上的“第三人类” 。",
+                        "link": "http://m.wufazhuce.com/serial/1153?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 即将来临·下一个世界：第十章",
+                        "desc": "文/李永明 将其他物种的强悍特征“嫁接”到人类身上的真正意义上的“第三人类” 。",
+                        "link": "http://m.wufazhuce.com/serial/1153?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 即将来临·下一个世界：第十章》 文/李永明： 将其他物种的强悍特征“嫁接”到人类身上的真正意义上的“第三人类” 。 阅读全文：http://m.wufazhuce.com/serial/1153?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1153?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "即将来临·下一个世界：第十章",
+                        "desc": "将其他物种的强悍特征“嫁接”到人类身上的真正意义上的“第三人类” 。",
+                        "link": "http://m.wufazhuce.com/serial/1153?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20148",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2811",
+                "title": "有哪些与爱情有关的心理学知识？",
+                "forward": "喜欢总是支支吾吾，玩玩却是妙语连珠。",
+                "img_url": "http://image.wufazhuce.com/FjvrACwGGimBtxcCldPC648T_VVc",
+                "like_count": 4883,
+                "post_date": "2020-04-14 06:00:00",
+                "last_update_date": "2020-04-13 09:23:15",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "简简单单",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2811",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2811",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2811",
+                    "image": "http://image.wufazhuce.com/FjvrACwGGimBtxcCldPC648T_VVc",
+                    "title": "有哪些与爱情有关的心理学知识？",
+                    "content": "有哪些与爱情有关的心理学知识？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 有哪些与爱情有关的心理学知识？",
+                        "desc": "文/冬阳 喜欢总是支支吾吾，玩玩却是妙语连珠。",
+                        "link": "http://m.wufazhuce.com/question/2811?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 有哪些与爱情有关的心理学知识？",
+                        "desc": "文/冬阳 喜欢总是支支吾吾，玩玩却是妙语连珠。",
+                        "link": "http://m.wufazhuce.com/question/2811?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 有哪些与爱情有关的心理学知识？》 文/冬阳： 喜欢总是支支吾吾，玩玩却是妙语连珠。 阅读全文：http://m.wufazhuce.com/question/2811?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2811?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "有哪些与爱情有关的心理学知识？",
+                        "desc": "喜欢总是支支吾吾，玩玩却是妙语连珠。",
+                        "link": "http://m.wufazhuce.com/question/2811?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11235175",
+                    "user_name": "冬阳",
+                    "desc": "用精神分析，才能发现问题的本质。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "咨询分析，公众号：深刻情感说",
+                    "fans_total": "264",
+                    "web_url": "http://image.wufazhuce.com/FqZMe-h0tyR8MHfjsNAHwItO2LL-"
+                }
+            },
+            {
+                "id": "20163",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1983",
+                "title": "经过你，我找回了自己",
+                "forward": "如同雨季总会过去一样，每个人的生活注定迎来新的开始。无助过、痛过、迷失过，才能真正找回自己。",
+                "img_url": "http://image.wufazhuce.com/Fljyw38XokTI-EicuHXrVPSQouZj",
+                "like_count": 1792,
+                "post_date": "2020-04-14 06:00:00",
+                "last_update_date": "2020-04-11 18:00:22",
+                "author": {
+                    "user_id": "11157390",
+                    "user_name": "表姐电影",
+                    "desc": "电影届吐槽小能手，可爱又毒舌。公众号：表姐电影。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "发现电影之美",
+                    "fans_total": "240",
+                    "web_url": "http://image.wufazhuce.com/FvNuOPy9FSHHFGKAEVAfHvsL5WhH"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "热带雨",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4966",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1983",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1983",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1983",
+                    "image": "http://image.wufazhuce.com/Fljyw38XokTI-EicuHXrVPSQouZj",
+                    "title": "「一个」电影: 热带雨",
+                    "content": "去年的平遥国际影展上，新加坡导演陈哲艺执导的《热带雨》首映，看完之后，不但是我，问了几个一起看过的朋友，都给了这部电影极高的评价。不负众望，影片最终一举获得费穆荣誉最佳影片和最佳女主角、迷影选择荣誉三项大奖，成为平遥电影展的最大爆款。 之后，影片又在第56届金马奖上入围了6项提名，并最终夺得最佳女主角大奖。&nbsp;这部电影也是表姐的：年度华语最佳之一。 今天，我们就来聊聊这部影片吧。这部影片是导演陈哲艺的第二部长片。早在2013年，他就凭借处女作《爸妈不在家》而获得第66届戛纳电影节金摄影机奖。之后又在当年的金马奖上，爆冷夺得最佳影片、最佳原著剧本、最佳新导演、最佳女配角四项大奖。要知道，当年这部寂寂无名的新人导演处女作，击败的对手包括了王家卫、贾樟柯、蔡明亮和杜琪峰等大师名导，而拍摄这部影片的导演陈哲艺，当年才只有29岁。美国好莱坞《综艺》杂志更是将他评为：年度全球最值得关注的10位导演之一。凭借处女作一鸣惊人之后，陈哲艺时隔六年才推出了自己的第二部长片《热带雨》。影片延续了《爸妈不在家》当中的家庭小品风格，但所选择的题材却要敏感大胆得多。故事讲述了南国湿热的雨季里，一位陷入中年危机的女教师与学生之间的禁忌之恋。电影开始于新加坡的燥热而又多雨的雨季。正是热带季风吹拂的季节，让整座城市大雨不停。阿玲，是一位从马来西亚移居新加坡的中学老师。步入40岁的她，正在遭遇一场中年危机。她与丈夫结婚多年，外人看来幸福的婚姻，其实早已千疮百孔。原因是阿玲一直想要个孩子，可婚后一直未有生育，夫妻间也逐渐出现裂痕。阿玲还想要尝试，可丈夫却不愿行房，一直逃避这种有性无爱的夫妻生活，就连做人工受孕检查，丈夫都不愿意去医院。明明生孩子是夫妻两个人的事情，丈夫却推给阿玲一个人去解决。多年来，阿玲屡次尝试人工受孕却无所获，经常要打排卵针，这更让她身心备受煎熬。再加上阿玲的公公因为中风瘫痪在家，照料老人的重担更一股脑全压在阿玲肩上。除了家庭的重担和压力之外，阿玲的工作也充满失意。阿玲是一所高中的中文老师，可在新加坡这种移民国家，中文教育一直不受重视。在阿玲任职的学校，中文课日渐边缘化，更让她在教学工作上感到挫败。婚姻崩溃，事业失败，加上喘不过气的生活状态。就像新加坡雨季中连绵不断的大雨一样，阿玲的生活，似乎被密密麻麻的乌云所笼罩。疲惫的她，在独自去医院做检查回来的路上，遇到了自己的学生伟伦。伟伦的父母常年在外经商，对儿子一直疏于照顾，导致他的性格有些孤僻。在学校里，伟伦成绩不佳，却热爱武术。他的父母送他来中文学校上学，只是为了方便以后去大陆做生意。因为中文成绩太差，伟伦经常被留校补课，有时遇上大雨，阿玲会顺便送伟伦回家。久而久之，伟伦与这位女老师之间逐渐从尴尬到熟络，内心更产生了一种异样的感情。因为爸妈常年不在家，伟伦在阿玲那里感受到了一种久违的温暖。他悄悄拍下了阿玲白裙飘飘地站在窗边的照片，情窦初开的少年不可自拔地对阿玲产生了一种异样的情愫。而对于一直承受着生活煎熬的阿玲来说，年少气盛的伟伦则代表了一种活力和朝气。她一方面在内心里视伟伦为儿子，另一方面又从这个男孩身上感受到异性的荷尔蒙。这种复杂而暧昧的情感，让身为女人和母亲的阿玲在自我的角色之间，一直寻觅而摆荡。某天回家的路上，一场大雨将阿玲困在了伟伦的家中。看着悉心照顾自己的阿玲，伟伦无可自拔的越爱越深，终于忍受不了做出了逾矩的举动。就在伟伦的卧室里，原本的师生之间因为孤寂与对爱的需求，彼此的情欲开始迸发。可激情过后，阿玲深知这段感情注定无法被世俗接受，她提出了就此分手。心碎的伟伦既不舍又不甘心，却无力阻止。就在两人不断拉扯的复杂关系中，这段在寄托与欲望之间游走的关系，还是迎来了结局。就像雨季总会过去一样，每个人的生活注定迎来新的开始&hellip;&hellip;&nbsp;表面上看影片似乎在讲述师生不伦恋，但其实影片更像是在讲述一位女性的中年危机。阿玲是一位典型的亚洲传统女性的代表，她隐忍坚强，始终在家庭中独自付出。但同时也面临着婚姻、事业和生活的三重困境，让人看到了现代女性在职业与家庭的困境。导演花费了大量的细节来展现阿玲生活的沉重和疲惫感&mdash;&mdash;从她独自在车上给自己打排卵针，到回家之后照顾瘫痪公公时的沉默，再到面对丈夫的冷漠与出轨时的失语。&nbsp;阿玲的内心虽然备受煎熬，却并没有像八点档电视剧女主角那样哭泣流泪，反而自始至终保持着一种沉默而有力的韧性。电影以阿玲和伟伦在大雨中的拥抱分别作为高潮，预示了两个人之间的结局。因为被分手而情绪失控的伟伦质问阿玲，如同一个孩子一样：我的心好痛，真的很痛。可作为成年人的阿玲的回答却非常理性，她说：是这样的，你以后就会慢慢习惯的。两人之间感性和理性之间的冲突与矛盾，其实早已注定了这段不伦之恋的终结。说到这里，必须要称赞一下女主角杨雁雁细腻精湛的演技，为影片加分不少。杨雁雁把女性的压抑与自卑诠释得非常到位，而影片后半段，她与学生伟伦之间的纠葛，则是女人的感性与大人的理性的挣扎，想要却知道留不得的痛苦侵扰着她。正如金马奖评委所说的那样：她连后照镜里的眼神都有戏，都能感受到她盈满眼眶的忧郁与无助。影片在剧本层面非常工整扎实，无论是摄影运镜，还是叙事剪辑，处处体现了一种精致的设计感。表姐印象最深的是，阿玲、伟伦和阿玲公公一起吃榴莲的段落。在这个场景中，阿玲的丈夫缺席暗示着阿玲生活里男性角色的缺席，但因为伟伦的加入，却形成了一种奇妙的和谐感。原本在生活重压下的阿玲，在这一刻才重新感受到了一种久违的家庭的温馨氛围。与此同时，榴莲，无疑也代表着欲望的禁果。预示了男女主角之间感情会进一步升级。值得一提的是，电影的背景设定在新加坡的雨季。几乎从头下到尾的雨使人忧郁，同时也隐喻着女主角阿玲的内心世界。一直到影片结尾，阿玲终于放下所有扰烦她的心事，回到家乡马来西亚看望母亲，直到此时，影片中才出现了少有的阳光普照的晴天。雨季过后的阳光，无疑寓意着&mdash;阿玲对这段关系的释怀、放下。也是他们能够坦然面对自己、面对未来的象征。因为，无助过、痛过、迷失过，才能真正找回自己。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 经过你，我找回了自己",
+                        "desc": "文/表姐电影 分手之前，我能Hug你吗？",
+                        "link": "http://m.wufazhuce.com/movie/1983?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 经过你，我找回了自己",
+                        "desc": "文/表姐电影 分手之前，我能Hug你吗？",
+                        "link": "http://m.wufazhuce.com/movie/1983?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 经过你，我找回了自己》 文/表姐电影： 分手之前，我能Hug你吗？ 阅读全文：http://m.wufazhuce.com/movie/1983?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1983?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "经过你，我找回了自己",
+                        "desc": "分手之前，我能Hug你吗？",
+                        "link": "http://m.wufazhuce.com/movie/1983?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20133",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3120",
+                "title": "天上的星星，笑地上的人",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FiVDNhUzuKdBc_5MnqAYOi5KlSUK?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1987,
+                "post_date": "2020-04-14 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3120",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3120",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 天上的星星，笑地上的人",
+                        "desc": "一闪一闪，小星星",
+                        "link": "http://m.wufazhuce.com/radio/3120?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvuncdDMpfQDuNqvkqSMXVd9Uid8"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 天上的星星，笑地上的人",
+                        "desc": "一闪一闪，小星星",
+                        "link": "http://m.wufazhuce.com/radio/3120?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvuncdDMpfQDuNqvkqSMXVd9Uid8"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 天上的星星，笑地上的人》 主播/李荟莹： 一闪一闪，小星星 阅读全文：http://m.wufazhuce.com/radio/3120?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3120?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lvuncdDMpfQDuNqvkqSMXVd9Uid8"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "天上的星星，笑地上的人",
+                        "link": "http://m.wufazhuce.com/radio/3120?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvuncdDMpfQDuNqvkqSMXVd9Uid8"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 804 期",
+                "audio_url": "http://music.wufazhuce.com/lvuncdDMpfQDuNqvkqSMXVd9Uid8"
+            }
+        ],
+        "menu": {
+            "vol": "2747",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4277",
+                    "title": "为你点亮一盏灯"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4280",
+                    "title": "李鸿其：我的生命经验和电影连结，产生的结果就是细节",
+                    "tag": {
+                        "id": "46",
+                        "title": "片单"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1153",
+                    "serial_list": [
+                        "1136",
+                        "1137",
+                        "1140",
+                        "1141",
+                        "1143",
+                        "1145",
+                        "1147",
+                        "1149",
+                        "1152",
+                        "1153",
+                        "1155",
+                        "1157",
+                        "1159",
+                        "1160"
+                    ],
+                    "title": "即将来临·下一个世界：第十章"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2811",
+                    "title": "有哪些与爱情有关的心理学知识？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1983",
+                    "title": "经过你，我找回了自己"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3120",
+                    "title": "天上的星星，笑地上的人"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

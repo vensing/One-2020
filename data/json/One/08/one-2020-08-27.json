@@ -1,0 +1,583 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5607",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-08-27 06:00:00",
+        "content_list": [
+            {
+                "id": "20953",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2923",
+                "title": "摄影",
+                "forward": "我最后的敬礼要献给那些知道我不完美，却依然爱我的人。",
+                "img_url": "http://image.wufazhuce.com/Flsu4iQEXzE7mszh-awSWRL90HLx",
+                "like_count": 20791,
+                "post_date": "2020-08-27 06:00:00",
+                "last_update_date": "2020-08-21 17:39:09",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2882",
+                "pic_info": "Hasan Almasi",
+                "words_info": "泰戈尔",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2923",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2923",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2923",
+                    "image": "http://image.wufazhuce.com/Flsu4iQEXzE7mszh-awSWRL90HLx",
+                    "title": "VOL.2882",
+                    "content": "我最后的敬礼要献给那些知道我不完美，却依然爱我的人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2923?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2923?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我最后的敬礼要献给那些知道我不完美，却依然爱我的人。——泰戈尔 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2923?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2923?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20961",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4426",
+                "title": "树人",
+                "forward": "她发觉几句寒暄把两个人分割在了不同的时代。",
+                "img_url": "http://image.wufazhuce.com/FkUcA7usRl9LXJL788KP5oPnRhId",
+                "like_count": 1805,
+                "post_date": "2020-08-27 06:00:00",
+                "last_update_date": "2020-08-26 11:05:09",
+                "author": {
+                    "user_id": "11558024",
+                    "user_name": "罗顼",
+                    "desc": "大学在读生，翻译预备役。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "临时释放。",
+                    "fans_total": "63",
+                    "web_url": "http://image.wufazhuce.com/Fsg4o3-iVFze_6F7zZ5WNhIli9CA"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4426",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4426",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4426",
+                    "image": "http://image.wufazhuce.com/FkUcA7usRl9LXJL788KP5oPnRhId",
+                    "title": "树人 作者/罗顼",
+                    "content": "什么都不懂，当然永远不怕。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 树人",
+                        "desc": "文/罗顼 什么都不懂，当然永远不怕。",
+                        "link": "http://m.wufazhuce.com/article/4426?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 树人",
+                        "desc": "文/罗顼 什么都不懂，当然永远不怕。",
+                        "link": "http://m.wufazhuce.com/article/4426?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 树人》 文/罗顼： 什么都不懂，当然永远不怕。 阅读全文：http://m.wufazhuce.com/article/4426?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4426?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "树人",
+                        "desc": "什么都不懂，当然永远不怕。",
+                        "link": "http://m.wufazhuce.com/article/4426?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20967",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1271",
+                "title": "我的么啊·第二章：棋逢对手",
+                "forward": "聪明人从来不花未来钱，我才不让他们挣我的钱呢，我要挣他们的钱。",
+                "img_url": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                "like_count": 873,
+                "post_date": "2020-08-27 06:00:00",
+                "last_update_date": "2020-08-25 14:41:27",
+                "author": {
+                    "user_id": "4814954",
+                    "user_name": "陈麒凌",
+                    "desc": "陈麒凌，也教书，也写小说。曾获得联合报文学奖首奖、全球华文文学星云奖、林语堂文学奖。",
+                    "wb_name": "@陈麒凌",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "也教书，也写小说。",
+                    "fans_total": "2296",
+                    "web_url": "http://image.wufazhuce.com/Fggt2Ut1kJ7uTNjxGSG4w-LGRL6S"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第2章",
+                "number": "2",
+                "serial_id": "87",
+                "serial_list": [
+                    "1270",
+                    "1271",
+                    "1272",
+                    "1273",
+                    "1274",
+                    "1275",
+                    "1276",
+                    "1277",
+                    "1278",
+                    "1279",
+                    "1280",
+                    "1281",
+                    "1282",
+                    "1283",
+                    "1284",
+                    "1285",
+                    "1286",
+                    "1287",
+                    "1288",
+                    "1289"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1271",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1271",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1271",
+                    "image": "http://image.wufazhuce.com/FlmJlzt0tbiH6AxseQ2-vw7F-_BP",
+                    "title": "我的么啊·第二章：棋逢对手 作者/陈麒凌",
+                    "content": "聪明人从来不花未来钱，我才不让他们挣我的钱呢，我要挣他们的钱。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 我的么啊·第二章：棋逢对手",
+                        "desc": "文/陈麒凌 聪明人从来不花未来钱，我才不让他们挣我的钱呢，我要挣他们的钱。",
+                        "link": "http://m.wufazhuce.com/serial/1271?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 我的么啊·第二章：棋逢对手",
+                        "desc": "文/陈麒凌 聪明人从来不花未来钱，我才不让他们挣我的钱呢，我要挣他们的钱。",
+                        "link": "http://m.wufazhuce.com/serial/1271?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 我的么啊·第二章：棋逢对手》 文/陈麒凌： 聪明人从来不花未来钱，我才不让他们挣我的钱呢，我要挣他们的钱。 阅读全文：http://m.wufazhuce.com/serial/1271?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1271?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我的么啊·第二章：棋逢对手",
+                        "desc": "聪明人从来不花未来钱，我才不让他们挣我的钱呢，我要挣他们的钱。",
+                        "link": "http://m.wufazhuce.com/serial/1271?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20968",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2956",
+                "title": "如何较好适应新的生活环境？",
+                "forward": "不要怕，过下去。",
+                "img_url": "http://image.wufazhuce.com/FinnsWQ1fFeQr8gb9n0xJ8jmyz6y",
+                "like_count": 2124,
+                "post_date": "2020-08-27 06:00:00",
+                "last_update_date": "2020-08-26 18:09:40",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "烹调的油烟",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2956",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2956",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2956",
+                    "image": "http://image.wufazhuce.com/FinnsWQ1fFeQr8gb9n0xJ8jmyz6y",
+                    "title": "如何较好适应新的生活环境？",
+                    "content": "如何较好适应新的生活环境？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何较好适应新的生活环境？",
+                        "desc": "文/林庭 境随心转，心随境转。",
+                        "link": "http://m.wufazhuce.com/question/2956?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何较好适应新的生活环境？",
+                        "desc": "文/林庭 境随心转，心随境转。",
+                        "link": "http://m.wufazhuce.com/question/2956?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何较好适应新的生活环境？》 文/林庭： 境随心转，心随境转。 阅读全文：http://m.wufazhuce.com/question/2956?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2956?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何较好适应新的生活环境？",
+                        "desc": "境随心转，心随境转。",
+                        "link": "http://m.wufazhuce.com/question/2956?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "9176244",
+                    "user_name": "林庭",
+                    "desc": "小说写作者",
+                    "wb_name": "@林庭庭林",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说写作者",
+                    "fans_total": "7882",
+                    "web_url": "http://image.wufazhuce.com/Fj-KfT5SAA-CvLdrYXY8f275JhUm"
+                }
+            },
+            {
+                "id": "20984",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2040",
+                "title": "他也是淋雨许久的大人吧",
+                "forward": "雨至，带着水汽味道和你的心跳，这份少女的爱，中年大叔不能答应？",
+                "img_url": "http://image.wufazhuce.com/Fs5DIQjOc8pn66h62sHAVoNK3qnL",
+                "like_count": 1779,
+                "post_date": "2020-08-27 06:00:00",
+                "last_update_date": "2020-08-27 10:31:23",
+                "author": {
+                    "user_id": "10840381",
+                    "user_name": "鹿西兮",
+                    "desc": "一个特别普通的无聊人，三观可正，做人无畏，想往外飞。",
+                    "wb_name": "@鹿溪兮",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "姑娘想要高山前建楼。",
+                    "fans_total": "2046",
+                    "web_url": "http://image.wufazhuce.com/FmyAPBtkYhl3MxOjV3plExYIy_N3"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "恋如雨止（真人版）",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5023",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2040",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2040",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2040",
+                    "image": "http://image.wufazhuce.com/Fs5DIQjOc8pn66h62sHAVoNK3qnL",
+                    "title": "「一个」电影: 恋如雨止（真人版）",
+                    "content": "总有人说，爱情像雨，来时或轰轰烈烈，电闪雷鸣，巴不得向全世界宣告这份浩荡心事；又或者淅淅沥沥，连绵多日，将少女那阴郁的心意压紧压实，去时往往悄然无声，甚至戛然而止，只留一份潮湿的记忆于心底。雨总会停，幸运的话能看见彩虹。雨也会再来，带着同样的水汽味道和加速的心跳。所以恋爱不应总如漫长雨季，悲伤压抑，束缚难堪。雨止并非结束，它还有雨过天晴的喜悦，明媚清爽，万物皆新。由同名漫画改编的电影《恋如雨止》，便给人一种淋着小雨穿越森林，最终雨过天晴的感觉。花季少女恋上中年大叔，荒唐的感情背后，青春的悸动与人生的困苦在此间交织。最终，不成熟的情愫与温柔的男人一起远去，留下的，是属于少女一个人重拾方向全力奔跑的背影。这是青春，坎坷，迷茫，怦然心动来得毫无理由，这也是成长，执着，任性，横冲直撞后的心有所归。&nbsp;01 &nbsp;她需要一个撑伞的人17岁的橘晶是一名高二学生，外表冷淡寡言，内心却单纯热烈。她拥有超高的跑步天分，曾是学校田径队的优秀选手，却因为受伤不得不退出。之后她来到一家家庭餐厅打工，喜欢上了餐厅的店长近藤正己。近藤是个普通的中年男人，外形邋遢，性格软弱，遇事只会不停道歉。45岁的他离过一次婚，还有一个孩子。但就是这样一个看似毫无光彩的男人，意外地吸引了橘晶的注意。橘晶跟大多数怀揣心事的少女一样，暗中关注近藤的举动，她把自己的打工时间排满，时常死死盯着近藤看，还会偷偷闻近藤衣服上的味道。所有的表现都预示着，橘晶已经陷入一场不为人知的单恋。但这并非是一段看起来如此草率天真的感情，它的背后还藏着一个温馨的起源。那时候的橘晶因为脚伤刚刚离开田径队，正处于人生低谷期。那天她被大雨困在餐厅，近藤看见了这个抑郁的女孩，他主动送上一杯黑咖啡，又怕她不喜欢，魔法般变出了一块方糖放在她面前。橘晶，就是这样被温柔体贴的近藤打动的。这是缘分，两人在雨天相遇，男人意外抚平了女孩的心。初遇的时刻，橘晶的悲伤昭然若揭，然而近藤却并非表面这般平静，他藏起的，是橘晶不曾看到也不曾体味的疲惫与无奈。但橘晶却贪恋那份温暖，不远千里也要来餐厅打工，只希望更走近他一点。所幸如她所愿，两个人的心正有意无意地靠近着。工作不久，橘晶为了追上落下东西的客人，致使脚伤发炎，着急的近藤带橘晶去医院，这让两个人第一次有了身体接触。第二日，想要登门致歉的近藤与橘晶又在高架桥上相遇，两人在餐厅聊天，橘晶难得的开怀大笑，她穿着宽松的T恤，坐在喜欢的人对面，眼神也变得柔和。而近藤从头至尾的表现却显得木讷，他不懂少女的心事，也不解这份风情。但这并不妨碍橘晶对他的喜欢，她甚至情不自禁说出了&ldquo;我喜欢你&rdquo;这四个字。影片的前奏全然在热血少女的天真单恋中展开，轻快明朗，让人一度期望这份感情能够超脱世俗眼光。年少时候，我们总会被有魅力的大人吸引。就像当初，近藤无意间为独自在人生雨季中奔跑的橘晶撑起了一把伞，这份细心与温柔让橘晶感动。但我们难以断定的是，这份感动是否就是心动。&nbsp;02 &nbsp;他也是淋雨许久的大人吧又是一个下雨的天气，淋着雨的橘晶不知不觉走到近藤的住处，她再次向他表白。夜色的黑暗吞噬女孩的骄傲，只剩一成不变的雨声给女孩做伴奏。喜欢，满眼悲伤的喜欢。诉说过喜欢后转身即走的孤单，是少女的一点点任性，一半的执着和满满的深情。近藤满脸的呆滞都表示着他无法理解少女的这份喜欢，他或许也有所心动，但成年人的理性与克制告诉他不能回应这份感情。他拒绝了橘晶，但女孩依旧炽热的心与多次的告白让他不知所措。在橘晶的死缠烂打下，近藤答应与她约会一次，以此让她了解中年大叔的无聊与腐朽。橘晶精心打扮，哪怕近藤看不出少女的这份心思。他们去看恐怖电影，一起吃饭，做着大多数情侣都会做的事。这个时候，橘晶道出了年少时候我们大多数人的疑惑，喜欢一个人需要理由吗？近藤给橘晶的答案是，跨越年龄层的爱情，需要一个理由。这便是成年人与少女的思想碰撞。小时候总以为，爱便是爱，理应纯粹，无关其他。但这份理想主义终有一天会被击碎，取而代之的是对感情的怀疑与小心翼翼。近藤提前告诉了橘晶这个道理，是否就可以避免她有一天撞得头破血流。橘晶还是提议去近藤喜欢的地方，好让彼此加深了解。近藤难为情下，带她去了书店，也就是在这里，橘晶发现了一个崭新的近藤正己。痴迷书籍的近藤年轻时候曾梦想成为一名小说家，却一直没有信心落笔。在书店侃侃而谈的他，与在餐厅唯唯诺诺的他判若两人。他也曾跟橘晶一样，是有着炙热理想的少年。成年之后的焦灼与压力，让他的梦想逐渐幻灭。但当所有人只看到他中年大叔的空壳外表时，是否忘记，他只不过是一个藏着梦想淋雨走了许久的大人。属于他的青春时代早已远去，但面对正值花季的橘晶，他不愿这个女孩如他一般带着遗憾生活。他劝橘晶去做想做的事，不要像自己这般涣散不堪。他无法回应她的感情，却也不想让她的梦完全破碎。既然已经出现在她的青春里，那就扮演好少女眼中闪着光的大人。长大后，老去后，才不至于回忆起这段时光只是一场闹剧。&nbsp;03 &nbsp;恋如雨止，心却不止无论是近藤的劝告，周围人的温暖，还是竞争对手的出现，都让橘晶对于认真复健重回赛场这件事有所思考，但这份想法并不强烈，还缺一针强心剂。如果说一开始，橘晶只是被近藤的温柔打动，进而将那份感动执拗地当作了喜欢。那么现在近藤对于她的意义，不过是生活中目前唯一会感到快乐的存在。她将这份快乐与爱情掺杂在一起，以主动直白的姿态奋力抓着生活的最后一根稻草。近藤将这一切看在眼里，不再一味拒绝将她推开。他要做的，是帮助橘晶重拾梦想。等到那一天，橘晶重新闪着光站在所有人面前，与自己的过去做一个了断，这份感情自然也会等来一个结局。承载着橘晶特殊情感的近藤，愿意做这一针强心剂。又是雨夜，橘晶出现在发烧的近藤面前。她再次表达爱意，却不再那般偏执，面对无法靠近的近藤，她第一次感觉到了心碎。只是因为，橘晶不再自欺欺人，看清了来自生活的真实恶意。梦想幻灭，友情危机，自以为是的爱情，周围人的反对，她无法不去重新审视自己的生活。停电的间隙，橘晶拥抱了近藤，惊讶之余近藤也回应了橘晶，这是他能给女孩的唯一的怜爱。短暂的黑暗掩盖内心的矜持，窗外的大雨覆盖加速的心跳，混杂着眼泪，感受对方身体的温度。这种拥抱只此一次，彼此心照不宣。明媚阳光下，蓝色大海边，穿着浅蓝色连衣裙的橘晶正遵守与近藤的约定，教他的儿子跑步。近藤看见了跑步时眼里有光的橘晶，也明白是时候在背后推她一把了。&ldquo;下个月排班不能给你排满了，再下个月，往后都是，不来也可以&rdquo;。你该去做想做的事情，不应在这浪费时间。作为恋人站在你身边并非合适的姿态，作为朋友在背后推你前进才是正确的选择。关于这段似是而非的迷恋已是恍如隔世，青春里的这场大雨淋湿了许多人，但橘晶是幸运的，遇见了近藤，遇见了这份互相救赎的感情。影片的最后，橘晶回归训练队，近藤在鼓励橘晶之余，也被她的勇敢与执着打动，重拾当初的梦想，落笔写作。再次相遇已是无意间的邂逅。橘晶恢复正常训练，近藤也即将升职。两人隔着一段距离彼此问好，重新明确关系，今后终于能以朋友身份坦荡交往。原本不在同一时间线的两个人因为相通的感情彼此取暖，成为了更好的人。绚烂的青春映衬着中年人的危机与绝望，年少无知的年纪刺痛了许久不曾得到庇护的个体，但它既不冲撞，也不荒凉。影片披着一段跨越世俗的爱情外壳，以追梦路上跌倒的人们作为载体，将烂俗的感情抛掷一旁，讲述了一段充满信念感与力量的梦想赞歌。我很喜欢影片中对于理想的解释，他说，我的未来也没有保障，但是没办法，太喜欢了。相较于动漫，影片保留了治愈与励志的成份，关于爱情的诠释却更加单纯而轻薄。少女任性而深情，仰慕着一个曾令她感动的人，除去表面上爱而不得的遗憾与热情过后的冷静审视，实际上更是跨越年龄的情感碰撞和人与人之间距离问题的探讨。他们摒弃欲望，跨越自身局限又不曾踏破世俗规则。他们因为遇见彼此而得以成长与成熟，又因为对方的存在将自己固化的思维重塑，最终与自身情感和解。或许橘晶依旧怀念那份感情，但学会了放下，何必一定陷入情感的泥潭。彼此相知，互相激励，继而奔向更好的人生，便已是圆满。虽然人生雨季还有许多，雨也不知何时才会停止，陪你走过雨季的那个人也不知几时才能再见。但请珍惜这份情感，珍惜如今奔赴的更好的未来，珍惜成为更好的人的机会，并请坚信，未来某个雨季，还会有人陪你一起走过。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 他也是淋雨许久的大人吧",
+                        "desc": "文/鹿西兮 希望你的回忆里，我不是一场闹剧。",
+                        "link": "http://m.wufazhuce.com/movie/2040?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 他也是淋雨许久的大人吧",
+                        "desc": "文/鹿西兮 希望你的回忆里，我不是一场闹剧。",
+                        "link": "http://m.wufazhuce.com/movie/2040?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 他也是淋雨许久的大人吧》 文/鹿西兮： 希望你的回忆里，我不是一场闹剧。 阅读全文：http://m.wufazhuce.com/movie/2040?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2040?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "他也是淋雨许久的大人吧",
+                        "desc": "希望你的回忆里，我不是一场闹剧。",
+                        "link": "http://m.wufazhuce.com/movie/2040?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20954",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3253",
+                "title": "是孤独，也是自由",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FiCKoTqkpyPusTravP-U2aw6H-OH?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1521,
+                "post_date": "2020-08-27 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3253",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3253",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 是孤独，也是自由",
+                        "desc": "想和你困在这沙发",
+                        "link": "http://m.wufazhuce.com/radio/3253?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnetZJLjCLdgXNvnlvmdRzdjl3Ao"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 是孤独，也是自由",
+                        "desc": "想和你困在这沙发",
+                        "link": "http://m.wufazhuce.com/radio/3253?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnetZJLjCLdgXNvnlvmdRzdjl3Ao"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 是孤独，也是自由》 主播/李荟莹： 想和你困在这沙发 阅读全文：http://m.wufazhuce.com/radio/3253?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3253?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lnetZJLjCLdgXNvnlvmdRzdjl3Ao"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "是孤独，也是自由",
+                        "link": "http://m.wufazhuce.com/radio/3253?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lnetZJLjCLdgXNvnlvmdRzdjl3Ao"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 871 期",
+                "audio_url": "http://music.wufazhuce.com/lnetZJLjCLdgXNvnlvmdRzdjl3Ao"
+            }
+        ],
+        "menu": {
+            "vol": "2882",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4426",
+                    "title": "树人"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1271",
+                    "serial_list": [
+                        "1270",
+                        "1271",
+                        "1272",
+                        "1273",
+                        "1274",
+                        "1275",
+                        "1276",
+                        "1277",
+                        "1278",
+                        "1279",
+                        "1280",
+                        "1281",
+                        "1282",
+                        "1283",
+                        "1284",
+                        "1285",
+                        "1286",
+                        "1287",
+                        "1288",
+                        "1289"
+                    ],
+                    "title": "我的么啊·第二章：棋逢对手"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2956",
+                    "title": "如何较好适应新的生活环境？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2040",
+                    "title": "他也是淋雨许久的大人吧"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3253",
+                    "title": "是孤独，也是自由"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,539 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5563",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-07-22 06:00:00",
+        "content_list": [
+            {
+                "id": "20753",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2887",
+                "title": "摄影",
+                "forward": "我们不会停止阅读，即使每本书总有读完的时候，如同我们不会停止生活，即使死亡必然来临。",
+                "img_url": "http://image.wufazhuce.com/Fh9BBVnxqoLHH9traVSeLIqAWB0n",
+                "like_count": 12544,
+                "post_date": "2020-07-22 06:00:00",
+                "last_update_date": "2020-07-14 15:04:00",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2846",
+                "pic_info": "Riku Lu",
+                "words_info": "罗贝托·波拉尼奥《地球上最后的夜晚》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2887",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2887",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2887",
+                    "image": "http://image.wufazhuce.com/Fh9BBVnxqoLHH9traVSeLIqAWB0n",
+                    "title": "VOL.2846",
+                    "content": "我们不会停止阅读，即使每本书总有读完的时候，如同我们不会停止生活，即使死亡必然来临。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2887?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2887?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 我们不会停止阅读，即使每本书总有读完的时候，如同我们不会停止生活，即使死亡必然来临。——罗贝托·波拉尼奥《地球上最后的夜晚》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2887?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2887?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "20778",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4390",
+                "title": "橘子皮",
+                "forward": "我不知道他叫什么名字，我们只知道他是一个怪胎。",
+                "img_url": "http://image.wufazhuce.com/FmWG6Ac5ZzOY9VreyrZJb_5qRrWy",
+                "like_count": 1836,
+                "post_date": "2020-07-22 06:00:00",
+                "last_update_date": "2020-07-22 09:37:18",
+                "author": {
+                    "user_id": "11272692",
+                    "user_name": "宁迪",
+                    "desc": "宁迪，95年，就是喜欢写小说。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "宁迪，95年，就是喜欢写小说。",
+                    "fans_total": "162",
+                    "web_url": "http://image.wufazhuce.com/FrgNe7b9fqW49hfWn3neYmxpw0vv"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4390",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4390",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4390",
+                    "image": "http://image.wufazhuce.com/FmWG6Ac5ZzOY9VreyrZJb_5qRrWy",
+                    "title": "橘子皮 作者/宁迪",
+                    "content": "他喜欢吃橘子皮，我喜欢吃橘子。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 橘子皮",
+                        "desc": "文/宁迪 他喜欢吃橘子皮，我喜欢吃橘子。",
+                        "link": "http://m.wufazhuce.com/article/4390?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 橘子皮",
+                        "desc": "文/宁迪 他喜欢吃橘子皮，我喜欢吃橘子。",
+                        "link": "http://m.wufazhuce.com/article/4390?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 橘子皮》 文/宁迪： 他喜欢吃橘子皮，我喜欢吃橘子。 阅读全文：http://m.wufazhuce.com/article/4390?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4390?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "橘子皮",
+                        "desc": "他喜欢吃橘子皮，我喜欢吃橘子。",
+                        "link": "http://m.wufazhuce.com/article/4390?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20679",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1237",
+                "title": "维多利亚的派对·第十五章：水中之灯",
+                "forward": "水灯灿烂，竟衬托得池塘水，像一片冷却的幽冥之地。",
+                "img_url": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                "like_count": 694,
+                "post_date": "2020-07-22 06:00:00",
+                "last_update_date": "2020-07-03 10:58:21",
+                "author": {
+                    "user_id": "9618188",
+                    "user_name": "吴沚默",
+                    "desc": "编剧，TVB演员。",
+                    "wb_name": "@吳沚默momo",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "编剧，TVB演员。",
+                    "fans_total": "4493",
+                    "web_url": "http://image.wufazhuce.com/Fo5OsUHwTVzmosA0MtZMBJV9tOWs"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第15章",
+                "number": "15",
+                "serial_id": "86",
+                "serial_list": [
+                    "1215",
+                    "1217",
+                    "1218",
+                    "1219",
+                    "1220",
+                    "1225",
+                    "1226",
+                    "1227",
+                    "1228",
+                    "1232",
+                    "1233",
+                    "1234",
+                    "1235",
+                    "1236",
+                    "1237",
+                    "1238",
+                    "1239",
+                    "1260",
+                    "1261",
+                    "1262",
+                    "1263",
+                    "1264",
+                    "1265",
+                    "1266",
+                    "1267",
+                    "1268",
+                    "1269"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1237",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1237",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1237",
+                    "image": "http://image.wufazhuce.com/FuyBndFcKQngI51GHJqMeBXTG9ha",
+                    "title": "维多利亚的派对·第十五章：水中之灯 作者/吴沚默",
+                    "content": "水灯灿烂，竟衬托得池塘水，像一片冷却的幽冥之地。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 维多利亚的派对·第十五章：水中之灯",
+                        "desc": "文/吴沚默 水灯灿烂，竟衬托得池塘水，像一片冷却的幽冥之地。",
+                        "link": "http://m.wufazhuce.com/serial/1237?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 维多利亚的派对·第十五章：水中之灯",
+                        "desc": "文/吴沚默 水灯灿烂，竟衬托得池塘水，像一片冷却的幽冥之地。",
+                        "link": "http://m.wufazhuce.com/serial/1237?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 维多利亚的派对·第十五章：水中之灯》 文/吴沚默： 水灯灿烂，竟衬托得池塘水，像一片冷却的幽冥之地。 阅读全文：http://m.wufazhuce.com/serial/1237?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1237?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "维多利亚的派对·第十五章：水中之灯",
+                        "desc": "水灯灿烂，竟衬托得池塘水，像一片冷却的幽冥之地。",
+                        "link": "http://m.wufazhuce.com/serial/1237?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "20791",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2920",
+                "title": "私人空间有多重要？",
+                "forward": "内心不充盈，就容易妄图寄生于外界，从中汲取光热，以抵御内心荒芜。",
+                "img_url": "http://image.wufazhuce.com/FhY5nz8WjGbu-X71aXv6Zzi2bWz-",
+                "like_count": 2973,
+                "post_date": "2020-07-22 06:00:00",
+                "last_update_date": "2020-07-21 13:43:47",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "丁恶人",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2920",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2920",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2920",
+                    "image": "http://image.wufazhuce.com/FhY5nz8WjGbu-X71aXv6Zzi2bWz-",
+                    "title": "私人空间有多重要？",
+                    "content": "私人空间有多重要？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 私人空间有多重要？",
+                        "desc": "文/缪斯谭 留一方小天地，存一念大意志。",
+                        "link": "http://m.wufazhuce.com/question/2920?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 私人空间有多重要？",
+                        "desc": "文/缪斯谭 留一方小天地，存一念大意志。",
+                        "link": "http://m.wufazhuce.com/question/2920?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 私人空间有多重要？》 文/缪斯谭： 留一方小天地，存一念大意志。 阅读全文：http://m.wufazhuce.com/question/2920?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2920?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "私人空间有多重要？",
+                        "desc": "留一方小天地，存一念大意志。",
+                        "link": "http://m.wufazhuce.com/question/2920?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3326",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "20782",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3296",
+                "title": "你随晚风，入我梦境",
+                "forward": "晚风裹挟着南方特有的湿气吹在脸上，宋逸走上前两步，指着她老是崴在石砖里的高跟，“你应该买双平底鞋。”",
+                "img_url": "http://image.wufazhuce.com/FpTC5vvyLjUVcCMBVJlOD7G3N8s3",
+                "like_count": 1827,
+                "post_date": "2020-07-22 06:00:00",
+                "last_update_date": "2020-07-21 23:11:44",
+                "author": {
+                    "user_id": "10594014",
+                    "user_name": "二葵",
+                    "desc": "直截了当白羊座",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "直截了当白羊座",
+                    "fans_total": "1144",
+                    "web_url": "http://image.wufazhuce.com/FnCiAnxUC4bylXx_kO0LdYbiz8As"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lqt2jhlHrdkwkBFy3jFP1l2pjgEC",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "晚风",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3296",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3296",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3296",
+                    "image": "http://image.wufazhuce.com/FpTC5vvyLjUVcCMBVJlOD7G3N8s3",
+                    "title": "「一个」音乐: 二葵 晚风",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  1傅影晗从机场出来的时候宋逸已经等在了外面，他像那些酒店接机的人一样举着个牌牌，上面略显滑稽的贴着影晗的大头照，上书一行卡通大字：欢迎小仙女回家。看到宋逸朝她挥手，周围几个小女生都投来艳羡的目光，可影晗觉得自己已经不年轻了，她囧得只想找个地缝钻进去。&ldquo;我都已经29了，能不能不要搞这些花里胡哨的。&rdquo;钻进车子，外面的暑气一下子消散，影晗又指了指那个牌牌，&ldquo;在哪里搞的。&rdquo;宋逸咧开嘴笑，露出一口白牙，&ldquo;淘宝全套服务，因为公司给报销，我就买了最贵的，50块。&rdquo;影晗终于忍不住笑了，这次出差办了一项大业务，公司肯定会派人来接，但这本来都是实习生的活计，没想到宋逸借着职务之便，这么厚脸皮的揽了过来。车厢里空调适中吹得人舒爽，工作的疲累在见到宋逸那一刻便悄无声息的涌起，影晗拿起宋逸给她准备的盖毯偏过头睡去，睡前还在喃声嘱咐他：&ldquo;公司恋爱还是低调点吧。&rdquo;路上堵车，回到家时天已经黑透，宋逸拉开车门把副驾上的影晗抱出来，影晗在他怀里稍微挣了挣便又睡去，宋逸低头看她，妆容一丝不苟的她头发却睡得微乱，那个在外面雷厉风行钢铁一般的女人，也只有在此刻才会露出如此柔弱又无辜的模样。曾经他们都视彼此为竞争对手，可命运有时的一个玩笑，却会制造出惊喜。影晗迷迷糊糊间感觉有人在帮她卸妆，手法轻柔又熟悉，她喟叹一声，&ldquo;明天要陪我出去玩吗？我这就休假了。&rdquo;&ldquo;不行啊，我要加班。&rdquo;她撇撇嘴，&ldquo;那我自己在家吧。&rdquo;&ldquo;你不是不喜欢闷着吗？&rdquo;傅影晗的拼命总是人尽皆知，她永远不到天黑不回家，大家都以为她敬业，直到后来宋逸才知道，她只是不喜欢一个人闷着。影晗良久都没有回答他，宋逸以为她睡着了，她的声音又轻轻传来，&ldquo;大概是现在有你了吧。&rdquo;2宋逸比傅影晗还小一岁，却直接从公司总部调过来和她平起平坐，对此影晗没有任何不满，毕竟和她这种从基层一点点打拼上来的不同，宋逸那华丽的海外学历和实习经验，就直接从起跑线上刷掉了一大批人。这世界总有人一出生便带着翅膀，他们借着东风游刃有余的飞翔，影晗没有风也没有翅膀，所以她努力跑。但即使没有敌意，影晗还是对宋逸充满着戒备，职场上到处是潜在的竞争对手，实在不是谁都能做朋友。真正熟识起来是在一个酒局上，那时宋逸才调过来两个月，两人只能算是点头之交，影晗的一个合同谈到了尾声，她在饭桌上努力地活络场面，白酒红酒一起下肚，在巧笑盼兮间和甲方打着官司。她的酒量不差，但也没有好到极致，为了时刻保持清醒，她中间便跑去卫生间催吐。出来时却看见宋逸等在门口，他看着她发白的面庞，说：&ldquo;你不能再喝了，最后几点我去敲。&rdquo;影晗的头晕沉沉的，但闻言立刻拉住他，皱眉道：&ldquo;这是我的项目。&rdquo;宋逸回头：&ldquo;我刚来，这项目上根本没有我的名字，出差也只是陪跑，你怕什么？&rdquo;影晗目光沉沉地望向他，宋逸坦然地回视，最后，影晗放开了拉着他手腕的手。职场上的风云诡谲她见得太多，但不知道为什么，看着宋逸真诚明亮的眼睛，影晗莫名想信别人一回。饭局结束时已经11点多，影晗摇摇晃晃的走在大马路上，宋逸隔着不远不近的距离与她并肩齐行。霓虹仍然一闪一闪，地标建筑上的LED屏无声滚动，行人三三两两的走在被灯光照亮的夜色里，与老家洒满星辰的村落不同，这里多的是不归人。影晗偏爱这样的晚上，在这座城市里每个人都忙忙碌碌又微不足道，只有在所有喧嚣都隐去的夜里，她才能找到自己的归属感。晚风裹挟着南方特有的湿气吹在脸上，宋逸走上前两步，指着她老是崴在石砖里的高跟，&ldquo;你应该买双平底鞋。&rdquo;影晗笑笑不置可否，又大步向前走去，她走的七歪八斜又威风凛凛，身后传来毫不遮掩的笑声。回到家里躺在床上放音乐，卸去所有心事内心柔软又平静，影晗一手刷着歌曲的评论一边关灯，却在看到最上方的那条热评时稍微愣了愣。那条热评说：一起吹过晚风的人，应该能记很久吧。&nbsp;3宋逸加班那天影晗到底没有一个人呆在家里，宋逸给她买了附近景区的门票，让她先去转一转。一个人抱着单反瞎拍，一个白嫩嫩的小女孩举着泡泡机撒欢般从她面前跑过，她镜头里便留下了满屏的彩色泡泡。影晗突然想起了自己的小时候。和这个小女孩差不多的年纪吧，那时候父母每天不是打工就是干农活，根本没有时间照顾他们，弟弟都是她在带。她领着弟弟呆在家里，串门的邻居发现这一家几乎每天都只有小孩子，那些婶子们便开始逗孩子取乐，给他们讲隐藏在房梁或屋檐下的鬼故事。弟弟胖胖的小身子躲在她身后，等到那些婶子们走了，才怯怯的拉住她的袖子仰头问她，&ldquo;姐姐，我们屋里真的有鬼吗？&rdquo;影晗答不上来，但她也开始害怕，她开始拉着弟弟在外面瞎跑，不到天黑父母回来，她绝不回家。直到很久很久以后，影晗已经明白屋梁上没有鬼，而且理解并原谅了婶子们的无心之失，可她依然不愿意一个人呆在屋子里，尤其是在白天喧哗的时候，比起现在大部分的肥宅快乐女孩，她总是觉得一个人闷在屋里任由时光流逝，是一件让人发慌的事情。这么多年影晗一直努力跑，不停地跑，考进重点高中，考进重点班，考进重点大学，在大企业入职，很多不开心不值得的人和事都浮光掠影般被抛诸脑后，她凭着一己之力改变了自己的生存环境，等再回过头看时，她早已不是当年那个瑟缩着害怕的小女孩了。她可以在周末安然的呆在家里刷剧，可以接受比她家庭条件好很多的宋逸的追求，可以凭借自己的实力左右别人对她说话的语气，所有幸福她都心安理得，因为傅影晗值得。生命本就是一场漫长的自我治愈，只是宋逸，仍然是她意想不到的温柔。刚恋爱时影晗完全不想公开，因为她潜意识里还是觉得他们出身差距太大会没有结果，没有安全感的人大抵都是如此，影晗一边小心翼翼地经营着这段感情，一边又随时做好了准备失去的可能。可不管影晗如何逃避，宋逸总在坚定地走向她，理解她的坚持与倔强，包容她的所有。影晗沿着一条曲折的小径往前走，走到一个长椅上坐下，一棵大树刚好帮她遮去阳光，大片荷花池环绕着她向前伸展，举目望去满眼都是翡翠般晶莹的碧色。影晗意外的看了眼自己的衣服，一身粉白相间的运动服，面料舒适柔软，脚上也是同色系的运动鞋，她整个人看起来都柔软又有活力，和以往的风格大不相同。看来宋逸是知道景区有她喜欢的荷花呀。影晗看了看自己脚下的运动鞋，突然想起刚认识宋逸时他说的那句话：&ldquo;你应该买双平底鞋。&rdquo;高跟鞋的骄傲和浮华平底鞋给不了，平底鞋的踏实和安全感，高跟鞋也不能达到。有了宋逸后，影晗渐渐喜欢上了平底鞋。大概在充满爱的环境里长大的孩子，都不会吝啬付出爱吧，宋逸便是这样的天使，他的内心足够强大，hold得住她的外强中干。影晗站在荷塘中间拍照，像是一朵开得最温柔也最美丽的荷花，她一边走一边想，马上就是两周年纪念日了，她要送宋逸什么礼物好呢。宋逸送过她什么昂贵的礼物，她心里都会记下并有所回赠，还好她经济独立且自由，才可以经营这样势均力敌的爱情。影晗一边想一边往前走，在荷花池的一个拐角，竖着一个中型的LED屏，上面滚动播放着景区的广告，却在影晗快走近的时候，突然切了画面。是一个自动播放的幻灯片，上面全都是影晗。有她公司年会做主持的照片，有她做汇报的照片，有她趴在办公室睡着的照片，有做饭的照片，有喝酒的照片，有拖着行李箱跑的照片，带妆的素颜的，工作照生活照，全是抓拍，一张张滚动播放，各式各样的，全都是她。影晗脚下生钉般盯着LED屏，她的脑袋开始轰轰响，下意识知道了可能要发生什么。宋逸从前方缓缓走出来，他一手捧着一大捧玫瑰花，一手还举着昨天接机时的牌牌，牌子上依然略显滑稽的贴着影晗的大头照，只是上面的文案却变了&mdash;&mdash;嫁给我吧傅影晗！你是你的女强人，也是我的小女人。是的，在2020的这一天，在她30岁生日的前一个月，她被求婚了。影晗双手接过宋逸递过来的玫瑰花，略带埋怨的嗔了他一眼，他给她挑了这样一身休闲服，自己却一身西装革履。&nbsp;宋逸把牌子竖在旁边，然后在傅影晗面前站定。是在谈判桌上都没有表现出来过的紧张，他说：&ldquo;我知道你不喜欢大肆宣扬，所以我想给你一个低调而温馨的求婚。&rdquo;他说：&ldquo;如果当时我没有看出你在酒桌前的强撑，或者我看出后没有起怜悯之心，我可能就会错过我一生的幸福。&rdquo;他说：&ldquo;我从来没有见过你这样的女生，坚韧又坚强，在困境中都闪闪发光。&rdquo;他说：&ldquo;我喜欢你的拼劲全力，也疼惜你的孤单脆弱，我想呵护你的所有，用尽一生一世。&rdquo;他说：&ldquo;嫁给我吧。&rdquo;影晗终是哭了出来，眼泪把宋逸手中的钻戒映出睫睫的光斑一闪一闪，她低头看着单膝跪地的男人，他眼中同样泪光闪闪。影晗想起她过往的岁月，无数次失落失意都没有放弃，不管遇到多少不公都不怨天尤人，她给了这个世界应有的温柔，这大概是老天还她的馈赠。这日天空澄澈湛蓝，云朵洁白柔软，傅影晗站在一片望不到头的碧叶荷花中，嫁给了她最爱的男人。&nbsp;真好，宋逸能够爱上她，真好，自己能够遇见他。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 你随晚风，入我梦境",
+                        "desc": "文/二葵 偶尔想你，经常偶尔。",
+                        "link": "http://m.wufazhuce.com/music/3296?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 你随晚风，入我梦境",
+                        "desc": "文/二葵 偶尔想你，经常偶尔。",
+                        "link": "http://m.wufazhuce.com/music/3296?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 你随晚风，入我梦境》 文/二葵： 偶尔想你，经常偶尔。 阅读全文：http://m.wufazhuce.com/music/3296?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3296?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你随晚风，入我梦境",
+                        "desc": "偶尔想你，经常偶尔。",
+                        "link": "http://m.wufazhuce.com/music/3296?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "晚风",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "陈婧霏",
+                "audio_album": "晚风",
+                "cover": "http://image.wufazhuce.com/Fq0sr91JpXZ2rVpBaKpgDlq-B1nh",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2846",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4390",
+                    "title": "橘子皮"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1237",
+                    "serial_list": [
+                        "1215",
+                        "1217",
+                        "1218",
+                        "1219",
+                        "1220",
+                        "1225",
+                        "1226",
+                        "1227",
+                        "1228",
+                        "1232",
+                        "1233",
+                        "1234",
+                        "1235",
+                        "1236",
+                        "1237",
+                        "1238",
+                        "1239",
+                        "1260",
+                        "1261",
+                        "1262",
+                        "1263",
+                        "1264",
+                        "1265",
+                        "1266",
+                        "1267",
+                        "1268",
+                        "1269"
+                    ],
+                    "title": "维多利亚的派对·第十五章：水中之灯"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2920",
+                    "title": "私人空间有多重要？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3296",
+                    "title": "你随晚风，入我梦境"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

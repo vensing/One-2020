@@ -1,0 +1,628 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5395",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-24 06:00:00",
+        "content_list": [
+            {
+                "id": "19647",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2701",
+                "title": "摄影",
+                "forward": "世界是我的食物。人只用少量时间进食，大部分时间在消化，独处就是我消化世界。",
+                "img_url": "http://image.wufazhuce.com/FktWRrvUvdYrqbrtHkw9IcQ6rmqP",
+                "like_count": 14399,
+                "post_date": "2020-01-24 06:00:00",
+                "last_update_date": "2020-01-17 16:12:02",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2666",
+                "pic_info": "Alisa Anton",
+                "words_info": "周国平",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2701",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2701",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2701",
+                    "image": "http://image.wufazhuce.com/FktWRrvUvdYrqbrtHkw9IcQ6rmqP",
+                    "title": "VOL.2666",
+                    "content": "世界是我的食物。人只用少量时间进食，大部分时间在消化，独处就是我消化世界。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2701?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2701?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 世界是我的食物。人只用少量时间进食，大部分时间在消化，独处就是我消化世界。——周国平 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2701?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2701?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19690",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4173",
+                "title": "除夕",
+                "forward": "过年这件事，无非是“团聚”和“美满幸福”。",
+                "img_url": "http://image.wufazhuce.com/FnBhrqQLVyVPC7jLGl9mMG4vwD2I",
+                "like_count": 2460,
+                "post_date": "2020-01-24 06:00:00",
+                "last_update_date": "2020-01-23 18:15:21",
+                "author": {
+                    "user_id": "10244046",
+                    "user_name": "无支祁",
+                    "desc": "一个苏北人。",
+                    "wb_name": "@Hs无支祁",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个苏北人。",
+                    "fans_total": "4027",
+                    "web_url": "http://image.wufazhuce.com/Fj-LWuxxisWaGG3WCVC_kmIpmyVE"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4173",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4173",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4173",
+                    "image": "http://image.wufazhuce.com/FnBhrqQLVyVPC7jLGl9mMG4vwD2I",
+                    "title": "除夕 作者/无支祁",
+                    "content": "过年这件事，无非是“团聚”和“美满幸福”。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 除夕",
+                        "desc": "文/无支祁 过年这件事，无非是“团聚”和“美满幸福”。",
+                        "link": "http://m.wufazhuce.com/article/4173?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 除夕",
+                        "desc": "文/无支祁 过年这件事，无非是“团聚”和“美满幸福”。",
+                        "link": "http://m.wufazhuce.com/article/4173?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 除夕》 文/无支祁： 过年这件事，无非是“团聚”和“美满幸福”。 阅读全文：http://m.wufazhuce.com/article/4173?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4173?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "除夕",
+                        "desc": "过年这件事，无非是“团聚”和“美满幸福”。",
+                        "link": "http://m.wufazhuce.com/article/4173?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19689",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4172",
+                "title": "今年很难，但依旧要过年",
+                "forward": "相信未来，共渡难关，一切会好的。",
+                "img_url": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                "like_count": 2343,
+                "post_date": "2020-01-24 06:00:00",
+                "last_update_date": "2020-01-24 11:14:30",
+                "author": {
+                    "user_id": "10264854",
+                    "user_name": "张拉灯等二位",
+                    "desc": "一个App编辑。",
+                    "wb_name": "@张拉灯_",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个App编辑。",
+                    "fans_total": "4751",
+                    "web_url": "http://image.wufazhuce.com/Ftljx61tLjt8NU-9P9umT998ryhe"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4172",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4172",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4172",
+                    "image": "http://image.wufazhuce.com/FojNp3bwafQSg0QgYWrMH9R0QVJf",
+                    "title": "今年很难，但依旧要过年 作者/张拉灯、曲尚",
+                    "content": "相信未来，共渡难关，一切会好的。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "Be As One | 今年很难，但依旧要过年",
+                        "desc": "文/张拉灯等二位 相信未来，共渡难关，一切会好的。",
+                        "link": "http://m.wufazhuce.com/article/4172?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "Be As One | 今年很难，但依旧要过年",
+                        "desc": "文/张拉灯等二位 相信未来，共渡难关，一切会好的。",
+                        "link": "http://m.wufazhuce.com/article/4172?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《Be As One | 今年很难，但依旧要过年》 文/张拉灯等二位： 相信未来，共渡难关，一切会好的。 阅读全文：http://m.wufazhuce.com/article/4172?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4172?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "今年很难，但依旧要过年",
+                        "desc": "相信未来，共渡难关，一切会好的。",
+                        "link": "http://m.wufazhuce.com/article/4172?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [
+                    {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                ]
+            },
+            {
+                "id": "19643",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1088",
+                "title": "两次破碎·第一章：周三来信",
+                "forward": "像是种偏执的邀请，全然不顾对方心情，自动开启一场猜谜游戏。",
+                "img_url": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                "like_count": 1506,
+                "post_date": "2020-01-24 06:00:00",
+                "last_update_date": "2020-04-07 16:05:00",
+                "author": {
+                    "user_id": "10959497",
+                    "user_name": "连筑",
+                    "desc": "连筑，1990年生，长春人。曾在报社工作多年，现自由写作，以其他笔名出版随笔多部。2019年正式开始小说创作，一个新的开始。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "新手猫奴，努力成为小说家。@连筑1990",
+                    "fans_total": "704",
+                    "web_url": "http://image.wufazhuce.com/Fi4Je0FkmCAz-IQp5WRj1qhRnWGM"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第1章",
+                "number": "1",
+                "serial_id": "79",
+                "serial_list": [
+                    "1088",
+                    "1089",
+                    "1090",
+                    "1093",
+                    "1094",
+                    "1095",
+                    "1097",
+                    "1099",
+                    "1101",
+                    "1105",
+                    "1106",
+                    "1109",
+                    "1111",
+                    "1113",
+                    "1115",
+                    "1117",
+                    "1119",
+                    "1121",
+                    "1123",
+                    "1126",
+                    "1127",
+                    "1129"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1088",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1088",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1088",
+                    "image": "http://image.wufazhuce.com/FiZ1IkEUa7RZvd_2jWBcilq702Th",
+                    "title": "两次破碎·第一章：周三来信 作者/连筑",
+                    "content": "像是种偏执的邀请，全然不顾对方心情，自动开启一场猜谜游戏。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 两次破碎·第一章：周三来信",
+                        "desc": "文/连筑 像是种偏执的邀请，全然不顾对方心情，自动开启一场猜谜游戏。",
+                        "link": "http://m.wufazhuce.com/serial/1088?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 两次破碎·第一章：周三来信",
+                        "desc": "文/连筑 像是种偏执的邀请，全然不顾对方心情，自动开启一场猜谜游戏。",
+                        "link": "http://m.wufazhuce.com/serial/1088?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 两次破碎·第一章：周三来信》 文/连筑： 像是种偏执的邀请，全然不顾对方心情，自动开启一场猜谜游戏。 阅读全文：http://m.wufazhuce.com/serial/1088?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1088?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "两次破碎·第一章：周三来信",
+                        "desc": "像是种偏执的邀请，全然不顾对方心情，自动开启一场猜谜游戏。",
+                        "link": "http://m.wufazhuce.com/serial/1088?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19684",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2737",
+                "title": "你最难忘的春节记忆是什么？ ​​​​",
+                "forward": "今年的春节，我永生难忘。",
+                "img_url": "http://image.wufazhuce.com/Fhi8JbNn1Cs5qC5hMFec5QUJ1vY4",
+                "like_count": 1897,
+                "post_date": "2020-01-24 06:00:00",
+                "last_update_date": "2020-01-23 19:21:27",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "大酥饼",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2737",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2737",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2737",
+                    "image": "http://image.wufazhuce.com/Fhi8JbNn1Cs5qC5hMFec5QUJ1vY4",
+                    "title": "你最难忘的春节记忆是什么？ ​​​​",
+                    "content": "你最难忘的春节记忆是什么？ ​​​​"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你最难忘的春节记忆是什么？ ​​​​",
+                        "desc": "文/网友 今年的春节，我永生难忘。",
+                        "link": "http://m.wufazhuce.com/question/2737?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你最难忘的春节记忆是什么？ ​​​​",
+                        "desc": "文/网友 今年的春节，我永生难忘。",
+                        "link": "http://m.wufazhuce.com/question/2737?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你最难忘的春节记忆是什么？ ​​​​》 文/网友： 今年的春节，我永生难忘。 阅读全文：http://m.wufazhuce.com/question/2737?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2737?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你最难忘的春节记忆是什么？ ​​​​",
+                        "desc": "今年的春节，我永生难忘。",
+                        "link": "http://m.wufazhuce.com/question/2737?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "0",
+                    "user_name": "网友",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                }
+            },
+            {
+                "id": "19627",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3193",
+                "title": "我本不擅长表达，只为你多学两句情话",
+                "forward": "人总是逢山开山，傍水开路，却在感情里走了一遍又一遍。我想，也许跋山涉水还能留到最后的人，才值得更好的爱。",
+                "img_url": "http://image.wufazhuce.com/Fl-fOXExCR2HOlp9b7fCVSUR6tl7",
+                "like_count": 2507,
+                "post_date": "2020-01-24 06:00:00",
+                "last_update_date": "2020-01-23 23:22:43",
+                "author": {
+                    "user_id": "7820045",
+                    "user_name": "董大胆等四位",
+                    "desc": "典型巨蟹座，微博@是董大胆",
+                    "wb_name": "@是董大胆",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "典型巨蟹座",
+                    "fans_total": "14449",
+                    "web_url": "http://image.wufazhuce.com/FuEA5ld2cD8j9-0b8BLXSk1fsgxC"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/luWdvo_mfi-lcCY1kGf4wD16FUJt",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "我所理解的爱情？",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3193",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3193",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3193",
+                    "image": "http://image.wufazhuce.com/Fl-fOXExCR2HOlp9b7fCVSUR6tl7",
+                    "title": "「一个」音乐: 董大胆、谢绾、梁佑、周维格 我所理解的爱情？",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  总会有首歌唱尽你心中的爱情，今天除夕，我们邀请到四位音乐作者给大家推荐一首歌曲，聊聊她们关于这首歌，关于年边的爱情故事。这期文章音频是电台主播荟莹的一期电台节目《我所理解的爱情？》。节目中也有着关于编辑部和ONE的作者给大家带来的故事。推荐歌曲：《约定》文|梁佑16年年末的时候，谢生来成都找我。我当时正在期末考试。考完最后那堂试，一出教室门，便看到不远处的他。&nbsp;过道里灯光很暗，空气潮湿憋闷，只有脚步声和几个人小声说话的声音。他穿着蓝色格子外套，单肩背着书包，冲着我笑。我也是，除了笑，讲不出话来。我们去学校的小酒馆喝酒聊天，酒没喝多少，话倒是讲了不少。后来我不停地哭，那一年我过得很不好。他在我最糟糕的时候，站在我面前，伸手将我从困境中拉了出来。跨年那天，我带他去锦里，我去过很多次，但那晚还是迷路了。两个人绕着锦里走了好几圈，终于走出来。我们站在路边的昏黄色路灯下等车，他一直看着我，轻声唱起《约定》：还记得街灯照出一脸黄，还燃亮那份微温的便当。我仰头看向路灯，无数尘埃飘浮在空中，像下了一场大雪。谢生说，从他退掉去苏州的车票，改签成都的那一刻，他就知道，那趟列车不会有返程，一切早已注定。此刻我写下这些字，已经是2020年，又到了一个新年。&nbsp;这几年，我和谢生一直陪在彼此身边，一起看着世界的浮浮沉沉，人间迷人又沉重的烟火。我们各自独立，又逐渐成为彼此的一部分。我们无数次谈及死亡与分离，最后都是更紧地抱住彼此。&nbsp;人世旅程短暂，多年后，希望能听到你再唱起那首《约定》。&nbsp;推荐歌曲《lion》文|谢绾我是一个很迷信的人。所以通过各种玄学途径，算出自己感情运势很差的时候，我松了口气。这也算是找个借口，为那几段分手都不体面的感情来个最终告别。蔺是我这么多恋爱里面，最喜欢，也最难以释怀的男友。甚至在我所撰写的故事里面，都有着太多他的痕迹与影子。那些我曾经缄默不语，无法忘怀以及敏感古怪的心事，都只能通过这种方式来舒缓。我们认识许多年，后来没有删掉彼此微信，却也没办法继续做朋友，老死不相往来。我始终是一个通过感情来获取成长的人，就像某些植物，病态地从其他植物身上获取养料。想要爱情，想要自我，最终也难两全。我读过很多网易云热评，渴望在评论里面找到共鸣，找到那些震颤的，爱而不得的深情。也一再告诉朋友，告诉自己，我放下了，已经不在乎了，可这些都是骗人的。每一次受到情感挫折，我仍旧会想到，如果是蔺，他该怎么做。其实我们的故事早已走完了，可是笔仍然没有停歇。朋友开玩笑说：&ldquo;你简直是在靠消费他来赚钱。&rdquo;是的，是这样。所以到了2020年的新年，我又一次写他。这段时间一直单曲循环着五代女团的《lion》，恰好唱到最后一句：&ldquo;谁也不能驯服我，包括爱情。&rdquo;对于我来讲，感情真的已经不是生活里数一数二重要的成分了，越长大，它越排在后面。不必自怨自艾，不必满怀期待。生而短暂，我更想拥抱自己。推荐歌曲：《出现又离开》&nbsp;文|周维格我始终相信，冬天会有美好发生。每年春节回家，北方的田野总是装点着白色，从大巴车上下来，步行十分钟小道。沿途的婚车碾雪驶过，马路旁丢下鞭炮，炮声在雪地里传来阵阵闷响，如同幸福降临的敲门声。我看着婚车里的新娘一闪而过，想起余颖。我翻开恋爱记录，和余颖在一起的第1493天，距离第一次拥抱第1465天，距离第一次旅行第916天，也是我们分手第352天&hellip;&hellip;那年春节她跟我回家，坐在车上忐忑的望着窗外，好奇地看着周遭的一切。她对着镜子补妆，不停地问我好看吗，我笑着点头，那时，是我们距离幸福最近的时候。她吃不惯家里的油腻，把碗里的肉偷偷挑给我，傻傻地跟我妈说喜欢喝汤。我记得那个春节，我们家喝了一个星期的汤。春节后，父母跟我们商量婚事，问余颖意见，她羞涩的看着我，说听我的。我们决定年底春节结婚。算了算日子，如果没分开，好像就是今天吧。不过，感情是最不能预测的事件，后来我们因为种种问题发生争吵，赌气，甚至去另一个城市。距离和不妥协最终打败了我们。尽管我们年龄成熟，彼此都明白感情有时甜如膏糖，有时洪水猛兽。可当洪水泛滥，猛兽侵袭的时候，我们四年建造的围栏，还是一触即溃。你会发现，不管以前爱得多深，分手的时候，没有一件小事是无辜的。很是好奇，人总是逢山开山，傍水开路，却在感情里走了一遍又一遍。我想，也许跋山涉水还能留到最后的人，才值得更好的爱吧。如今我们各自祝福，而我也明白，最后要等的人总有一天会踏星而来。从此山高水长，是夏日清风，是冬日暖阳。&nbsp;推荐歌曲：《一次就好》文|董大胆我和科是2015年在一起的，当时我们皆未到二字开头的年纪，爱来得热烈，消散也不过弹指一挥间。告白时他唱了那年大热的电影的主题曲《一次就好》，在唱歌这方面，他并没有天赋，一首歌唱得磕磕绊绊，可我却仍然听湿了眼眶。夏夜骑行、雨中演唱会、海边漫步，这些想起来就让人心神荡漾的事我们都一起经历过，但最终都在我记忆中成为了模糊的黑白照片。分手理由俗烂到让人发笑，他要去追寻自己的梦想，笃定我等不起。在我反复道出我可以之后，他却说不想耽误我。再纠缠下去，倒显得我不够洒脱，索性如他所愿。我仍将他留在我的好友列表里，看着他经历了从恋爱到分手，再到下一段恋爱，再分手，而我却还是一直单身。朋友说，你就没想过要和他从头来过？嗯，想过的。很多很多次，陌生号码突然来电的时候，微博粉丝新增一人的时候，偶尔想要丢下面具的时候&hellip;&hellip;无数个时刻，幻想他就在身边，幻想他下一秒就会出现，对我说，不如我们从头来过。可每个需要他在的时刻，他都不在。所以当他真正回来的那一天，我反而释然了。原来我早就不爱他，对他的爱在那些以为撑不下去的时刻里，早已悄无声息消散。那首歌仍藏在我的歌单里，若某天再听到它，我还是会想起那横冲直撞的青春和让我流泪的人。而新的一年，要忘掉所有不合时宜的往事，静静等待那个愿意为自己爬上月亮的人。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 我本不擅长表达，只为你多学两句情话",
+                        "desc": "文/董大胆等四位 你值得最好的爱。",
+                        "link": "http://m.wufazhuce.com/music/3193?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 我本不擅长表达，只为你多学两句情话",
+                        "desc": "文/董大胆等四位 你值得最好的爱。",
+                        "link": "http://m.wufazhuce.com/music/3193?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 我本不擅长表达，只为你多学两句情话》 文/董大胆等四位： 你值得最好的爱。 阅读全文：http://m.wufazhuce.com/music/3193?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3193?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "我本不擅长表达，只为你多学两句情话",
+                        "desc": "你值得最好的爱。",
+                        "link": "http://m.wufazhuce.com/music/3193?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "我所理解的爱情？",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "李荟莹",
+                "audio_album": "ONE电台",
+                "cover": "http://image.wufazhuce.com/Ft47y_8x4JBO62q6CQI44xH1ExAp",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "2666",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4173",
+                    "title": "除夕"
+                },
+                {
+                    "content_type": "1",
+                    "content_id": "4172",
+                    "title": "今年很难，但依旧要过年",
+                    "tag": {
+                        "id": "41",
+                        "title": "Be As One"
+                    }
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1088",
+                    "serial_list": [
+                        "1088",
+                        "1089",
+                        "1090",
+                        "1093",
+                        "1094",
+                        "1095",
+                        "1097",
+                        "1099",
+                        "1101",
+                        "1105",
+                        "1106",
+                        "1109",
+                        "1111",
+                        "1113",
+                        "1115",
+                        "1117",
+                        "1119",
+                        "1121",
+                        "1123",
+                        "1126",
+                        "1127",
+                        "1129"
+                    ],
+                    "title": "两次破碎·第一章：周三来信"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2737",
+                    "title": "你最难忘的春节记忆是什么？ ​​​​"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3193",
+                    "title": "我本不擅长表达，只为你多学两句情话"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

@@ -1,0 +1,581 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5383",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-22",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-01-16 06:00:00",
+        "content_list": [
+            {
+                "id": "19618",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "2697",
+                "title": "摄影",
+                "forward": "人生和世事大抵如此，靠近了，都不壮观。",
+                "img_url": "http://image.wufazhuce.com/FnbF4R9DaKnwP5WgRTeB-9aVipA1",
+                "like_count": 22314,
+                "post_date": "2020-01-16 06:00:00",
+                "last_update_date": "2020-01-13 21:34:11",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.2658",
+                "pic_info": "Flo Karr",
+                "words_info": "郑执《生吞》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2697",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/2697",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/2697",
+                    "image": "http://image.wufazhuce.com/FnbF4R9DaKnwP5WgRTeB-9aVipA1",
+                    "title": "VOL.2658",
+                    "content": "人生和世事大抵如此，靠近了，都不壮观。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2697?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2697?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 人生和世事大抵如此，靠近了，都不壮观。——郑执《生吞》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2697?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/2697?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "19631",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4159",
+                "title": "冬景",
+                "forward": "冬天是庄严的，静穆的，使每个人去沉思，而不再轻浮。",
+                "img_url": "http://image.wufazhuce.com/Ft5qU9RyTwpj0Siny06NZ79LrXDB",
+                "like_count": 2843,
+                "post_date": "2020-01-16 06:00:00",
+                "last_update_date": "2020-01-15 22:20:48",
+                "author": {
+                    "user_id": "7772700",
+                    "user_name": "贾平凹",
+                    "desc": "作家。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作家。新书《万物有灵》。",
+                    "fans_total": "7434",
+                    "web_url": "http://image.wufazhuce.com/Fq8mKa6azO_Ue04RBH0_omwgLWyD"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4159",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4159",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4159",
+                    "image": "http://image.wufazhuce.com/Ft5qU9RyTwpj0Siny06NZ79LrXDB",
+                    "title": "冬景 作者/贾平凹",
+                    "content": "冬天是庄严的，静穆的，使每个人去沉思，而不再轻浮。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 冬景",
+                        "desc": "文/贾平凹 冬天是庄严的，静穆的，使每个人去沉思，而不再轻浮。",
+                        "link": "http://m.wufazhuce.com/article/4159?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 冬景",
+                        "desc": "文/贾平凹 冬天是庄严的，静穆的，使每个人去沉思，而不再轻浮。",
+                        "link": "http://m.wufazhuce.com/article/4159?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 冬景》 文/贾平凹： 冬天是庄严的，静穆的，使每个人去沉思，而不再轻浮。 阅读全文：http://m.wufazhuce.com/article/4159?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4159?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "冬景",
+                        "desc": "冬天是庄严的，静穆的，使每个人去沉思，而不再轻浮。",
+                        "link": "http://m.wufazhuce.com/article/4159?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19562",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1079",
+                "title": "魔都春梦·第十四章：豆瓣女孩",
+                "forward": "她本不是我们应该接触到的女孩子，我们之间除了年龄差异，还有阶层差异。",
+                "img_url": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                "like_count": 862,
+                "post_date": "2020-01-16 06:00:00",
+                "last_update_date": "2020-04-07 16:52:50",
+                "author": {
+                    "user_id": "4813463",
+                    "user_name": "老王子",
+                    "desc": "小说家，诗人。@新老王子",
+                    "wb_name": "@新老王子",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说家，诗人。@新老王子",
+                    "fans_total": "5145",
+                    "web_url": "http://image.wufazhuce.com/FgegDExkkeP8izCd3fkGKRwoyKiS"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第14章",
+                "number": "14",
+                "serial_id": "78",
+                "serial_list": [
+                    "1055",
+                    "1059",
+                    "1057",
+                    "1058",
+                    "1060",
+                    "1061",
+                    "1062",
+                    "1070",
+                    "1071",
+                    "1072",
+                    "1073",
+                    "1074",
+                    "1078",
+                    "1079",
+                    "1083",
+                    "1084",
+                    "1085",
+                    "1086",
+                    "1087"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1079",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1079",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1079",
+                    "image": "http://image.wufazhuce.com/FmgYjqjGVrrnhOI2Fi2dLJ6Pf77w",
+                    "title": "魔都春梦·第十四章：豆瓣女孩 作者/老王子",
+                    "content": "她本不是我们应该接触到的女孩子，我们之间除了年龄差异，还有阶层差异。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 魔都春梦·第十四章：豆瓣女孩",
+                        "desc": "文/老王子 她本不是我们应该接触到的女孩子，我们之间除了年龄差异，还有阶层差异。",
+                        "link": "http://m.wufazhuce.com/serial/1079?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 魔都春梦·第十四章：豆瓣女孩",
+                        "desc": "文/老王子 她本不是我们应该接触到的女孩子，我们之间除了年龄差异，还有阶层差异。",
+                        "link": "http://m.wufazhuce.com/serial/1079?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 魔都春梦·第十四章：豆瓣女孩》 文/老王子： 她本不是我们应该接触到的女孩子，我们之间除了年龄差异，还有阶层差异。 阅读全文：http://m.wufazhuce.com/serial/1079?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1079?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "魔都春梦·第十四章：豆瓣女孩",
+                        "desc": "她本不是我们应该接触到的女孩子，我们之间除了年龄差异，还有阶层差异。",
+                        "link": "http://m.wufazhuce.com/serial/1079?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19614",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "2726",
+                "title": "书要怎样写，才会有人读？",
+                "forward": "读书就像恋爱，难免以貌取人。有些道道还是得讲讲。",
+                "img_url": "http://image.wufazhuce.com/FtSs-0FzqK1vRVnbCP-xVLgUDtxn",
+                "like_count": 2009,
+                "post_date": "2020-01-16 06:00:00",
+                "last_update_date": "2020-01-16 10:46:14",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "幼稚人精",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2726",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/2726",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/2726",
+                    "image": "http://image.wufazhuce.com/FtSs-0FzqK1vRVnbCP-xVLgUDtxn",
+                    "title": "书要怎样写，才会有人读？",
+                    "content": "书要怎样写，才会有人读？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 书要怎样写，才会有人读？",
+                        "desc": "文/易中天 看书先看封皮，看报先看标题。",
+                        "link": "http://m.wufazhuce.com/question/2726?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 书要怎样写，才会有人读？",
+                        "desc": "文/易中天 看书先看封皮，看报先看标题。",
+                        "link": "http://m.wufazhuce.com/question/2726?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 书要怎样写，才会有人读？》 文/易中天： 看书先看封皮，看报先看标题。 阅读全文：http://m.wufazhuce.com/question/2726?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/2726?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "书要怎样写，才会有人读？",
+                        "desc": "看书先看封皮，看报先看标题。",
+                        "link": "http://m.wufazhuce.com/question/2726?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "4814769",
+                    "user_name": "易中天",
+                    "desc": "厦门大学教授，作品《易中天中华史》。",
+                    "wb_name": "@易中天",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "现居江南，潜心写作《易中天中华史》。",
+                    "fans_total": "2242",
+                    "web_url": "http://image.wufazhuce.com/Fu2jn5XuSwyLHeoMgDEfTKm-ZtQp"
+                }
+            },
+            {
+                "id": "19621",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "1940",
+                "title": "你相不相信一生只爱一个人？",
+                "forward": "人生或许就是这样一个过程，我们遇见一些人，发生一些事，最终却都不得不选择告别。",
+                "img_url": "http://image.wufazhuce.com/Fgbz7ekOk80gwAzlk_42IhLigOn5",
+                "like_count": 3458,
+                "post_date": "2020-01-16 06:00:00",
+                "last_update_date": "2020-01-15 18:07:36",
+                "author": {
+                    "user_id": "9606198",
+                    "user_name": "黄子京",
+                    "desc": "作者、诗人。微信公众号：黄子京。",
+                    "wb_name": "@黄子京hzj",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "作者、诗人。微信公众号：黄子京。",
+                    "fans_total": "5327",
+                    "web_url": "http://image.wufazhuce.com/FgqaxpmefULlWSexRwIEJ9NcoaMf"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "只有芸知道",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "4923",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1940",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/1940",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/1940",
+                    "image": "http://image.wufazhuce.com/Fgbz7ekOk80gwAzlk_42IhLigOn5",
+                    "title": "「一个」电影: 只有芸知道",
+                    "content": "2019年12月，冯小刚导演的新作《只有芸知道》上映。没有幽默搞笑的台词，没有凝视历史的段落，影片以一种娓娓道来的方式，讲述了一对夫妻相濡以沫的爱情故事。01&nbsp;从前的日色变得慢。车，马，邮件都慢。一生只够爱一个人。这是木心的一首诗，也是整部电影的开头。当黄轩所饰演的隋东风以一种忧伤的语调说出这句话的时候，我们知道，一段回忆开始了。那是十几年前的新西兰，年轻的隋东风租住在华人林太（徐帆饰）的别墅里，靠着送外卖的收入维持生计。与他同时期住在这里的，还有一个中国姑娘，名字叫罗芸（杨采钰饰），在一家海鲜餐厅打工。因为两人的工作时间恰好相反，所以他们始终都没有见过面。一个阳光明媚的假日，隋东风和罗芸在庭院里遇见了对方。两个人一见如故，相谈甚欢。原来他们在北京时，就经常在公交车上偶遇，只是那时他们虽然对彼此印象深刻，却从未与对方说过话。如果说世间真的存在缘分，那么它或许就是一条丝线的形状。它从北京一路延伸到奥克兰，将两个年轻人的命运牢牢地缠绕在一起。骑单车，擦护手霜，隋东风和罗芸的关系越来越近。爱情在他们之间渐渐发酵，隋东风产生了和罗芸共度一生的念头。然而罗芸却拒绝了他的求婚，她似乎有着自己的难言之隐。奈何隋东风追得太紧，罗芸便带他去了赌场。她把决定权交给上天，告诉隋东风，只要这一次赌赢了，她就同意和他结婚。也许是上天眷顾，隋东风那天的运气特别好。他连赢了两局，不仅抱得美人归，还赢下了十万元现金。02在林太的家里，隋东风和罗芸举行了婚礼。婚礼只有他们三个人。席间隋东风承诺，从今以后，会把家中最好的东西都给罗芸，令罗芸十分感动。婚后，两人搬去了克莱德小镇。在那里，他们用赢来的钱开了一家中餐馆，取名&ldquo;芸家馆子&rdquo;。餐馆的生意很好，其间他们雇用了员工梅琳达，收养了流浪狗布鲁。与此同时，罗芸惊喜地发现自己怀孕了，便满怀憧憬地期待着一个新生命的到来。日子平淡地过着，直到有一天，罗芸突然晕倒，幸好流浪狗布鲁及时发现。在它的提醒下，隋东风发现了昏迷不醒的罗芸，将她送到了医院。医生说，罗芸已经身患绝症，时日无多。隋东风不忍心将真相告诉她，可是她自己心里十分清楚。没有了孩子，布鲁也患病离去。两个人虽然无比难过，却依然坚强地生活着。罗芸一直向往极光，在梅琳达的帮助下，她和隋东风如愿见到了极光。她默默地在心中许愿，希望他们的餐馆能够被一场大火烧毁，因为她觉得，这个餐馆已经彻底困住了他们的生活。不料愿望真的实现了，罗芸看着隋东风悲伤沮丧的模样，心中泛起无限的愧疚。她对梅琳达诉说了这个秘密，并且告诉梅琳达，如果有一天自己不在了，就把这个秘密告诉隋东风。正如罗芸所预想的那样，她的病越来越重，最后不得不通过手术来治疗。医生说，这次手术之后，她很有可能无法醒来。她自知凶多吉少，却签下了不抢救文件。手术前一晚，罗芸在卫生间洗了很久的澡。她说，她想让隋东风记住她最干净、最美丽的样子。两个人相拥在病床上，罗芸轻声道：&ldquo;东风，你替我捐一把椅子吧，就在咱家旁边那个公园里。你每天遛弯儿累了，就坐下来歇一会，坐在那把椅子上，就像坐在我怀里。&rdquo;罗芸去世后，隋东风抱着她的骨灰，踏上了帮她完成遗愿的路途。他深知，罗芸一生喜欢鲸鱼，便将她骨灰的四分之一，撒入了鲸鱼跃起的大海，其它的三份，一份与爱犬布鲁埋葬在一起，一份送给了她的父母，一份留在了自己的身边。在北京，罗芸的家里，她的父母对隋东风讲起了罗芸儿时的经历。他们说，罗芸从小患有心脏病，医生说，她活不过二十岁，可是在隋东风的陪伴下，她竟意外地活到了四十五岁。隋东风想，罗芸或许就像布鲁坟边的那棵大树，每时每刻都在从老天爷手中抢着活下来的权利。影片至此结束，镜头落在隋东风替罗芸所捐的那把座椅上。椅子的最上方，有一个黑色的标牌，上面写着：Wherever you are is my home.（你在哪儿，哪儿就是我的家。）03这部电影改编自冯小刚的好友张述和罗洋的真实爱情故事，编剧张翎也是二人多年的好友，她此次创作的原则是，在重大的情节点上保持现实生活中的真实事件，而在情节与情节之间连缀一些虚构的部分。有人觉得，影片开头，隋东风对着妻子的照片说，如果她回来了，就把这个戒指挪个地儿，后来戒指真的掉落在地上，这样的情节看起来有些失真。张翎说，这个情节并非艺术处理，而是确有其事，只不过当时掉落在地上的是硬币，而电影里把硬币换成了戒指。如此看来，也许生活中总从不缺乏奇迹，而爱，大抵正是所有奇迹最初的根源。类似的事情还有一件。罗芸的原型罗洋在手术之后，迟迟没有醒来。医生说，如果打一针，就可以让罗洋醒来，但是她会极其痛苦。隋东风的原型张述选择了拒绝。病床前，张述拉着妻子的手，告诉她，自己尊重她，就这样让她走吧，不料罗洋竟流出泪来。医生说，他也无法解释这样的情况，按理说罗洋此时此刻并没有知觉，可是谁又能确切地知道呢？这件事令冯小刚深受触动，他开始重新思考生命本身的意义。或许这样的思考，也正是他拍摄此片的初衷之一吧。如散文，如诗行，倒叙与插叙结合，回忆与现实并重。很多观众在看完这部电影之后，都不由得红了眼眶，甚至有观众说，这是一部长在已婚妇女泪点上的电影。其实不止已婚妇女，已婚男人、未婚男女，所有憧憬爱、拥有爱以及失去爱的人，都会在这部电影中，找到属于自己的那份感动。&ldquo;有你的日子，就是我要过的日子。&rdquo;正如电影海报上的这句话，所谓真正的爱情，或许就是在柴米油盐的平淡中，感受那份无可替代的陪伴。04忘了从什么时候开始，我们对亲密关系产生了恐惧。我们恐惧结婚，恐惧恋爱，恐惧和另一个人朝夕相处。而种种恐惧，究其根源，大抵都因为我们害怕受伤，害怕失望，不敢将一颗心完整地交给别人。《只有芸知道》让我们在速食爱情的社会里，看到了一份细水长流的感情。它没有海誓山盟，没有大起大落，有的只是一个人全心全意地陪在另一个人的身旁，走过人生那些波澜不惊的岁月。像童话吗？很像。但是我们却不能否认，这就是我们长辈那一代人曾经经历过的爱情，也正是我们内心深处最为憧憬的那种感情。两个人，一条狗，在静谧的新西兰小镇，远离城市的喧嚣，彼此充分地享受着一份无人打扰的美好。这样的日子仅是想想，都令人心驰神往。正如冯小刚导演所言，年龄大了，非常想拍一些美好的、对自己内心也有营养的电影。这部电影的确给我们带来了一种治愈的力量，也让我们懂得，珍惜当下的幸福，到底有多么重要。记得黄轩在一次采访中提到，11月28日，是罗芸的原型罗洋的生日。隋东风的原型张述给多伦多的电台写了一封电子邮件，想要为自己的太太点一首歌，但是他并不知道电台会不会按时播放。那天晚上，张述早早就把音箱打开，坐在一旁安静地等待。突然古典乐响起，正是他和太太最喜欢的那一首。他马上拿起手机去拍那个音箱，从音箱一直摇过桌子上他们曾一起照过的那些照片。伴随着古典乐伤感的曲调，他似乎完成了一次对这段感情的追忆。黄轩觉得，罗洋在张述的生命中并没有消失，家中到处都是二人的照片，每到生日的时候，他还会像以往一样为太太点歌。她一直活在他的心里，从不曾离去。也许这便是爱情最为纯粹的模样。她来了，我以满心的欢喜迎接她；她走了，我的心中仍有一个无比重要的角落，永远为她守候。05不疾不徐，催人泪下，这部电影并不是一部冲突强烈的电影，却让我们在不知不觉间，陷入男主角那深深的哀伤之中。&ldquo;没你的孤独才叫孤独，有你的心跳才觉舒服。&rdquo;当这首歌在电影里响起时，我们都不由得想起了自己心中那个独一无二的他（她）。人生或许就是这样一个过程，我们遇见一些人，发生一些事，最终却都不得不选择告别。好在我们的脑海中还存留着那些相处的细节，那一举手、一回眸，仍旧会时不时地钻进我们的梦里，在那些虚无缥缈的场景中，完成着日思夜想的重逢。如果你已经拥有一份真挚的感情，请不要轻易放开他（她）的手，珍惜每时每刻微小的幸福，或许胜过日日奢望那些未必能够实现的荣华。如果你尚未寻到那份温暖的陪伴，请不要丧失追求爱情的信心，缘分总藏在生活中最不经意的那个角落，需要时间将它慢慢显露。劳碌奔波的日子里，爱是我们生活中唯一的亮色。它让我们真切地感受到生命的意义，也让我们对未来心怀向往。如果可以的话，对那个最重要的人说一句心里话吧，趁旧事未远，趁新事未近，趁你我还未老去。毕竟有些机会稍纵即逝，迟疑半晌，错过的，有可能便是一生。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 你相不相信一生只爱一个人？",
+                        "desc": "文/黄子京 我和你的爱情，没有再见，只有永远。",
+                        "link": "http://m.wufazhuce.com/movie/1940?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 你相不相信一生只爱一个人？",
+                        "desc": "文/黄子京 我和你的爱情，没有再见，只有永远。",
+                        "link": "http://m.wufazhuce.com/movie/1940?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 你相不相信一生只爱一个人？》 文/黄子京： 我和你的爱情，没有再见，只有永远。 阅读全文：http://m.wufazhuce.com/movie/1940?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/1940?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你相不相信一生只爱一个人？",
+                        "desc": "我和你的爱情，没有再见，只有永远。",
+                        "link": "http://m.wufazhuce.com/movie/1940?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "19563",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3029",
+                "title": "新的一天，请坚韧又温柔",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/Fk4OS59yu0Gm2erK7g7PyAwpieU3?imageView2/1/w/375/h/240/q/95",
+                "like_count": 1775,
+                "post_date": "2020-01-16 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "98834",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3029",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3029",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 新的一天，请坚韧又温柔",
+                        "desc": "每当压力满值时，就向往一次芬兰",
+                        "link": "http://m.wufazhuce.com/radio/3029?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvlY-VZUhVVDwuX8kof8GbQFDuGc"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 新的一天，请坚韧又温柔",
+                        "desc": "每当压力满值时，就向往一次芬兰",
+                        "link": "http://m.wufazhuce.com/radio/3029?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvlY-VZUhVVDwuX8kof8GbQFDuGc"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 新的一天，请坚韧又温柔》 主播/李荟莹： 每当压力满值时，就向往一次芬兰 阅读全文：http://m.wufazhuce.com/radio/3029?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3029?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/lvlY-VZUhVVDwuX8kof8GbQFDuGc"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "新的一天，请坚韧又温柔",
+                        "link": "http://m.wufazhuce.com/radio/3029?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/lvlY-VZUhVVDwuX8kof8GbQFDuGc"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 761 期",
+                "audio_url": "http://music.wufazhuce.com/lvlY-VZUhVVDwuX8kof8GbQFDuGc"
+            }
+        ],
+        "menu": {
+            "vol": "2658",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4159",
+                    "title": "冬景"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1079",
+                    "serial_list": [
+                        "1055",
+                        "1059",
+                        "1057",
+                        "1058",
+                        "1060",
+                        "1061",
+                        "1062",
+                        "1070",
+                        "1071",
+                        "1072",
+                        "1073",
+                        "1074",
+                        "1078",
+                        "1079",
+                        "1083",
+                        "1084",
+                        "1085",
+                        "1086",
+                        "1087"
+                    ],
+                    "title": "魔都春梦·第十四章：豆瓣女孩"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "2726",
+                    "title": "书要怎样写，才会有人读？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "1940",
+                    "title": "你相不相信一生只爱一个人？"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3029",
+                    "title": "新的一天，请坚韧又温柔"
+                }
+            ]
+        },
+        "ad": []
+    }
+}
