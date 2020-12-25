@@ -6,7 +6,7 @@
 
 
  /**
-  * binary search splits find a line break point
+  * Binary search splits to find a line break point
   * @param {*} text 
   * @param {*} width 
   * @param {*} context 
@@ -60,4 +60,4 @@ function breakLinesForCanvas(context, text, width, font) {
     return result;
 }
 
-module.exports.breakLinesForCanvas = breakLinesForCanvas;
+module.exports = { breakLinesForCanvas };

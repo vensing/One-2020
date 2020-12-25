@@ -5,7 +5,7 @@ const { createCanvas, loadImage } = require('canvas');
 const fileTools = require('./util/fileTools');
 
 
-const filePath = './data/json/One/01';
+const filePath = './data/json/One/01/one-2020-01-01.json';
 
 /**
  * sleep current task 
@@ -15,7 +15,7 @@ function wait(ms) {
     return new Promise(resolve => setTimeout(() => resolve(), ms));
 };
 
-function testReadFiles(filePath) {
+function readJsonFiles(filePath) {
 
     let state = fs.statSync(filePath);
     if (state.isFile()) {
@@ -35,9 +35,10 @@ function testReadFiles(filePath) {
     }
 }
 
-testReadFiles(filePath);
+readJsonFiles(filePath);
 
 function nodeCanvasToImage(json) {
+
     const picInfo = {};
     const contentList = json.data.content_list[0];
     picInfo.content = contentList.forward;
@@ -57,7 +58,7 @@ function nodeCanvasToImage(json) {
     ctx.fillStyle = 'rgba(245, 245, 245, 1)';
     ctx.fillRect(0, 0, canvasWidth, canvasHeight);
 
-    // Draw cat with lime helmet
+    // Load image then create canvas, draw text and output png file.
     loadImage(picInfo.poster).then((image) => {
 
         const textLeftPx = canvasWidth / 2;
@@ -76,7 +77,8 @@ function nodeCanvasToImage(json) {
         const contentHeight = 920;
         const lineHeight = 40;
         const linePadding = 60;
-        //ctx.fillText(picInfo.content + picInfo.content, 611, 740, 1022);
+
+        // Split a string to many lines, fillText not support new line. :(
         const resultLines = canvasTextLine.breakLinesForCanvas(ctx, picInfo.content, canvasWidth - linePadding, '30px Microsoft Yahei');
         resultLines.forEach(function (line, index) {
             ctx.fillText(line, textLeftPx, contentHeight + lineHeight * index);
@@ -84,19 +86,20 @@ function nodeCanvasToImage(json) {
 
         ctx.font = '26px Microsoft Yahei';
         ctx.fillText(picInfo.title, textLeftPx, contentHeight + lineHeight * resultLines.length + 50);
-        
 
-        // console.log('<img src="' + canvas.toDataURL() + '" />')
         const stream = canvas.createPNGStream();
         let month = picInfo.today.date.split('-')[1];
-        const folderPath = './data/images/onePic/' + month;
-        const ret = fileTools.dirExists(folderPath);
-        ret.then(() => {
-            const out = fs.createWriteStream(folderPath + '/' + picInfo.today.date + '.png');
+        const folderPath = './data/images/onePic/' + month + '/';
+        const dirExistStatus = fileTools.dirExists(folderPath);
+        dirExistStatus.then(() => {
+            const out = fs.createWriteStream(folderPath + picInfo.today.date + '.png');
             stream.pipe(out);
             out.on('finish', () => console.log('The PNG file was created.'));
+            out.on('error', (err) => console.log('create write stream error!', err));
         });
 
+    }).catch(err => {
+        console.log('load image error!', err);
     });
 
 }

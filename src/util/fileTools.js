@@ -57,6 +57,4 @@ async function dirExists(dir) {
     return mkdirStatus;
 }
 
-const util = { dirExists: dirExists };
-
-module.exports = util;
+module.exports = { dirExists };

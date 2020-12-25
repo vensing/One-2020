@@ -42,7 +42,7 @@ function OneAPI(dateTime) {
 
     let month = dateTime.split('-')[1];
 
-    http.get(options, function (res) {
+    const req = http.get(options, function (res) {
         const statusCode = res.statusCode;
         if (statusCode === 200) {
             // console.log(res.headers['content-type']);
@@ -60,8 +60,8 @@ function OneAPI(dateTime) {
                     const data = JSON.stringify(JSON.parse(decoded), null, 4);
                     const folderPath = './data/json/One/' + month;
                     console.log(folderPath);
-                    const ret = fileTools.dirExists(folderPath);
-                    ret.then(() => {
+                    const dirExistStatus = fileTools.dirExists(folderPath);
+                    dirExistStatus.then(() => {
                         fs.writeFile(folderPath + '/one-' + dateTime + '.json', data, (err) => {
                             if (err) {
                                 throw err;
@@ -76,6 +76,10 @@ function OneAPI(dateTime) {
             });
 
         }
+    });
+
+    req.on('error', (e) => {
+        console.error(`request encounters problem: ${e.message}`);
     });
 }
 
