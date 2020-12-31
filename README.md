@@ -12,6 +12,9 @@ The canvas-node library is used to read the json data, typeset the images and te
 ### How to use
 
 ```sh
+# Install dependencies
+npm install
+
 # Grabbing json information
 npm run spider 
 
@@ -24,3 +27,6 @@ npm run start
 
 This project is for learning purposes only and should not be used for other commercial purposes.
 
+If the installation dependency fails, try using cnpm. If `node-canvas` doesn't work, take a look at the `node-pre-gyp` project.
+
+One more thing, you can browse the online today one pic here https://vensing.com/one/ .

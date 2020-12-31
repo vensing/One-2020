@@ -48,7 +48,7 @@ async function dirExists(dir) {
     }
     //if the path does not exist, take the superior path
     let tempDir = path.parse(dir).dir;
-    //recursive util superior path exist and create
+    //recursive until superior path exist and create
     let status = await dirExists(tempDir);
     let mkdirStatus;
     if (status) {
