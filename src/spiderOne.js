@@ -19,8 +19,8 @@ function wait(ms) {
     return new Promise(resolve => setTimeout(() => resolve(), ms));
 };
 
-let start = "2020-01-01";
-let end = "2020-01-31";
+let start = "2020-12-23";
+let end = "2020-12-31";
 let startTime = getDate(start);
 let endTime = getDate(end);
 

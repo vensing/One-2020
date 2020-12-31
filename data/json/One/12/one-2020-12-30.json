@@ -1,0 +1,507 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5724",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-31",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-12-30 06:00:00",
+        "content_list": [
+            {
+                "id": "21687",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "3049",
+                "title": "摄影",
+                "forward": "在生命的尽头还能对将来的幸福抱有希望，这比整个世界都更有价值。",
+                "img_url": "http://image.wufazhuce.com/Ft7A-ZeRZcamVOKq5EF6gs6LTDCA",
+                "like_count": 8786,
+                "post_date": "2020-12-30 06:00:00",
+                "last_update_date": "2020-12-24 11:40:55",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.3007",
+                "pic_info": "Arvind Shakya",
+                "words_info": "格里马尔蒂《我余生的第一天》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3049",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/3049",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/3049",
+                    "image": "http://image.wufazhuce.com/Ft7A-ZeRZcamVOKq5EF6gs6LTDCA",
+                    "title": "VOL.3007",
+                    "content": "在生命的尽头还能对将来的幸福抱有希望，这比整个世界都更有价值。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3049?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3049?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 在生命的尽头还能对将来的幸福抱有希望，这比整个世界都更有价值。——格里马尔蒂《我余生的第一天》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3049?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3049?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "1"
+            },
+            {
+                "id": "21708",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4558",
+                "title": "这一年你过得好吗",
+                "forward": "此刻已经是年末，太累了，就停下来休息吧，命运并不是让我们每天赶路，还留了周末让我们休息。",
+                "img_url": "http://image.wufazhuce.com/Fpfub_2qnsQ52Fs17OA9DQwBCfwG",
+                "like_count": 2187,
+                "post_date": "2020-12-30 06:00:00",
+                "last_update_date": "2020-12-30 10:41:19",
+                "author": {
+                    "user_id": "4813757",
+                    "user_name": "苏更生",
+                    "desc": "「一个」App常驻作家，微信公众号：ishikuaiqian",
+                    "wb_name": "@假苏更生",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "「一个」App常驻作家。",
+                    "fans_total": "97831",
+                    "web_url": "http://image.wufazhuce.com/Fg_e6teZsb3lZ1QStYtdnAkh6bO8"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4558",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4558",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4558",
+                    "image": "http://image.wufazhuce.com/Fpfub_2qnsQ52Fs17OA9DQwBCfwG",
+                    "title": "这一年你过得好吗 作者/苏更生",
+                    "content": "挺住已是生活的奖赏，我还没倒下，你们也可以。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 这一年你过得好吗",
+                        "desc": "文/苏更生 挺住已是生活的奖赏，我还没倒下，你们也可以。",
+                        "link": "http://m.wufazhuce.com/article/4558?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 这一年你过得好吗",
+                        "desc": "文/苏更生 挺住已是生活的奖赏，我还没倒下，你们也可以。",
+                        "link": "http://m.wufazhuce.com/article/4558?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 这一年你过得好吗》 文/苏更生： 挺住已是生活的奖赏，我还没倒下，你们也可以。 阅读全文：http://m.wufazhuce.com/article/4558?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4558?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "这一年你过得好吗",
+                        "desc": "挺住已是生活的奖赏，我还没倒下，你们也可以。",
+                        "link": "http://m.wufazhuce.com/article/4558?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21600",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1340",
+                "title": "L的悲剧·第十一章：偶遇",
+                "forward": "“想你开心，想看你笑。”",
+                "img_url": "http://image.wufazhuce.com/FhUoHDE6j7GdSWrEknSVvhRyxZgc",
+                "like_count": 694,
+                "post_date": "2020-12-30 06:00:00",
+                "last_update_date": "2020-12-15 15:29:07",
+                "author": {
+                    "user_id": "11727410",
+                    "user_name": "磺胺剂",
+                    "desc": "93年生，金融程序猿。机缘巧合开始写作，钟情于推理悬疑。自由散漫，无波无澜。撸会猫咪，翻本小书，酌杯小酒，看窗外万家灯火，夜色正浓。",
+                    "wb_name": "@磺胺剂",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说新人。人是有极限的，但文字没有。",
+                    "fans_total": "272",
+                    "web_url": "http://image.wufazhuce.com/FrfdfVImqdgVKmCRLhvQ-qKO5Dd9"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第11章",
+                "number": "11",
+                "serial_id": "91",
+                "serial_list": [
+                    "1330",
+                    "1331",
+                    "1332",
+                    "1333",
+                    "1334",
+                    "1335",
+                    "1336",
+                    "1337",
+                    "1338",
+                    "1339",
+                    "1340"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1340",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1340",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1340",
+                    "image": "http://image.wufazhuce.com/FhUoHDE6j7GdSWrEknSVvhRyxZgc",
+                    "title": "L的悲剧·第十一章：偶遇 作者/磺胺剂",
+                    "content": "“想你开心，想看你笑。”"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | L的悲剧·第十一章：偶遇",
+                        "desc": "文/磺胺剂 “想你开心，想看你笑。”",
+                        "link": "http://m.wufazhuce.com/serial/1340?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | L的悲剧·第十一章：偶遇",
+                        "desc": "文/磺胺剂 “想你开心，想看你笑。”",
+                        "link": "http://m.wufazhuce.com/serial/1340?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | L的悲剧·第十一章：偶遇》 文/磺胺剂： “想你开心，想看你笑。” 阅读全文：http://m.wufazhuce.com/serial/1340?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1340?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "L的悲剧·第十一章：偶遇",
+                        "desc": "“想你开心，想看你笑。”",
+                        "link": "http://m.wufazhuce.com/serial/1340?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21705",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3082",
+                "title": "成年人的恋爱方式是怎么样的？",
+                "forward": "“奔着结婚谈恋爱”，这句话听起来有点俗，但也挺浪漫的。",
+                "img_url": "http://image.wufazhuce.com/FubT0w3SVI9ENj-DFYhThwk3lOEo",
+                "like_count": 2537,
+                "post_date": "2020-12-30 06:00:00",
+                "last_update_date": "2020-12-30 10:40:16",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "海绵宝宝没海绵",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3082",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3082",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3082",
+                    "image": "http://image.wufazhuce.com/FubT0w3SVI9ENj-DFYhThwk3lOEo",
+                    "title": "成年人的恋爱方式是怎么样的？",
+                    "content": "成年人的恋爱方式是怎么样的？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 成年人的恋爱方式是怎么样的？",
+                        "desc": "文/文长长 别逼一个最爱你的人即兴表演。",
+                        "link": "http://m.wufazhuce.com/question/3082?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 成年人的恋爱方式是怎么样的？",
+                        "desc": "文/文长长 别逼一个最爱你的人即兴表演。",
+                        "link": "http://m.wufazhuce.com/question/3082?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 成年人的恋爱方式是怎么样的？》 文/文长长： 别逼一个最爱你的人即兴表演。 阅读全文：http://m.wufazhuce.com/question/3082?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3082?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "成年人的恋爱方式是怎么样的？",
+                        "desc": "别逼一个最爱你的人即兴表演。",
+                        "link": "http://m.wufazhuce.com/question/3082?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "10540688",
+                    "user_name": "文长长",
+                    "desc": "青年作家，烈酒小清新。",
+                    "wb_name": "@文长长winnie ",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作家，烈酒小清新；新书《自洽》。",
+                    "fans_total": "12763",
+                    "web_url": "http://image.wufazhuce.com/FvXlkWyAVJVYQFcOKxpTMq47wwxg"
+                }
+            },
+            {
+                "id": "21702",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3388",
+                "title": "上了生活的贼船，就做一个快乐的海盗",
+                "forward": "所以我要去拥抱新的生活，也祝你早日向阳。",
+                "img_url": "http://image.wufazhuce.com/Fiy45iYJFmAs8wKWIvidkSTlXEaP",
+                "like_count": 1480,
+                "post_date": "2020-12-30 06:00:00",
+                "last_update_date": "2020-12-30 07:35:36",
+                "author": {
+                    "user_id": "7606937",
+                    "user_name": "Regor_等五位",
+                    "desc": "自由撰稿人。微博：@Regor_",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "自由撰稿人",
+                    "fans_total": "1865",
+                    "web_url": "http://image.wufazhuce.com/Fqg42sF-Wz4H67vvpE79l1NiChHU"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lmCFf6enWHpm6wLBn29NGvGp1uq_",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "E2",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3388",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3388",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3388",
+                    "image": "http://image.wufazhuce.com/Fiy45iYJFmAs8wKWIvidkSTlXEaP",
+                    "title": "「一个」音乐: Regor_、Just芝士、曲尚、郑超、余怀 E2",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  十八岁之后，我总感觉世界开启了二倍速模式。时间变得轻盈，身体愈发沉重。大体相同的躁郁和狂欢，年复一年地在这段时间里向人们扑面挤压。前一秒高呼着&ldquo;新年快乐&rdquo;，后一秒说着&ldquo;2020快点滚蛋&rdquo;，与友人聚餐时讨论着&ldquo;新的一年我要做好多事情&rdquo;，在关灯后的睡前一分钟想起&ldquo;今年我好像什么都没做好&rdquo;。不管你有没有做好一些事情，不管在2020年发生了什么，崭新的2021年还是会带着崭新的未来和你会晤。不必总是惦念着过去，不必总是怀疑自己，就放心大胆地带着2020年的一切痕迹走向2021年吧。&nbsp;@曲尚推荐歌曲：《坠落》&mdash;&mdash;陈梦嘉第一次听到这首歌，是在他网易云的分享里面，那时候我们已经分开，但我还是常常去看他的各种社交动态。这首歌被我单曲循环许久，仔细聆听其中的歌词，包括他分享的那句：就别抱紧我，别安慰我。其实我或多或少能感受到，对于我们这段感情，他比我更舍不得。十几年的关系，因为分手而断掉，说来好像确实有点不太值得。可我们都应该清楚，当两个人做出偏向爱情的选择时，就要准备好面对分手后无法再做朋友这个后果。而且他是那种玻璃心重，会多想很多的人，我明明很爱他，很需要他，但他仍然会认为，这个世界没有他也无所谓，再往小点说，我没有他也无所谓。他的存在于我而言，是种很强烈的精神寄托，哪怕我再委屈，我都不觉得孤单，因为他会一直在我身后，我只要回头就可以看到他。大概是他始终在黑暗处，所以哪怕我给他再多爱，再多关心，他都很难去相信。在他眼中，我们的爱从来没有完完整整属于过他，可事实却是，他不愿意打开自己的心，怕我走进去，又希望我走进去。他很怕别人把他看穿，很多时候我都认为他是有双重人格，以至于我时常分不清他到底想要的是什么。如果分手对他来说是解脱，那我愿意成全他。只不过我还是希望他可以快乐，以后别再对爱敏感，对人抗拒。我很爱你，但你更爱你自己。所以我要去拥抱新的生活，也祝你早日向阳。十二月的尾巴，就给我们的感情画上完美的句号吧。&nbsp;@Regor_推荐曲目：《查无此人》&mdash;&mdash;陈小霞我和哥哥曾是最早的一代留守儿童。小时候过年，除了穿新衣拿压岁钱之外，最快乐的事情就是窝在油锅边看父亲炸鱼肉豆腐丸子。那是节宴上我最喜欢的菜，每逢过年父亲都会记得。他拿着不锈钢勺，往挤出肉馅的虎口上一抹，往油锅上轻轻一划，肉丸跌落在热油里滋滋作响。父亲喜欢去老家的河边散步，那儿有祖上留下的龙眼树、油栗树和一亩多点的沙田。我跟在他身后，用土灶房里拿来的火钳捡掉在沙地上的带刺壳栗子，放在塑料袋里。脚上穿的快要磨破底的帆布鞋是父亲从外地带回来的，一年来多数穿着它在山间田野跑来跑去，慢慢地脚掌变大，脚趾顶破鞋尖也不舍得扔掉。于是，我的脚掌很容易地扎到了刺。当晚父亲拿着缝衣针，握着我的脚掌在灯下试图挑刺，却始终没狠心扎下来。最后缝衣针交给了叔叔，刺挑出来时，并不见父亲身影。童年很快地过去了，我再没见过那些田鼠和野菜。我有了新的伙伴，世界慢慢扩大，也对父亲知道以外的那些知识感到好奇。后来我们之间多了一些隐瞒和争吵，一直吵到大学毕业。一个父亲的控制欲和一个少女的叛逆永远在对峙和较量。激进如父亲的防范，也没有让我免于敢爱敢恨所带来的愚蠢的伤害。可即便吃过苦头摔过跟头，每当触动心弦还是义无反顾，熟悉得就像是我的本能。直到筋疲力尽，失无可失。自此，&ldquo;义无反顾&rdquo;在我认知里成了一个愚蠢的词。当我还热衷于谈恋爱的时候，爷爷走了。小镇的殡仪馆在冬天越发冷清，父亲异常沉默，那个保护他前半生的人永远离开了。回程的中巴车上，叔叔和哥哥们散落地坐着，各自哭着自己的心事和伤悲。我坐在父亲左边，我看见他脸上的斑驳的泪痕，这似乎是第一次见到他哭。我握住他的手，这是长大以后第一次握他的手，父亲并无所动。粗糙且肌肤松弛的手因为情绪起伏在微微颤抖。这是我和父亲真正的和解。几年过去，父亲越发老了，我也学会了做炸鱼肉豆腐丸子。过年时的那一口土灶油锅，也顺其自然地交由我掌管。那些失去的天真和热烈，就像是一封查无此人的信件，提醒我长大了，需成为他的铜墙铁壁。&nbsp;@郑超推荐曲目：《Mr blue》&mdash;&mdash;Catherine Feeny要放松，要努力，要乐观。我常拿这几句话劝朋友，更多的时候是对着自己说，像道士身处妖异场面时脱口而出的几句古语真言一样，带有某种迷信的色彩。当面临某些时刻，我在心里默念这几句，心里会安定一些。而信息比较爆炸的时代，随着个人品味的提高，这样的话往往让人觉得苍白，认为这是一句乱七八糟的，缺失主语的，充满鼓动性和鸡汤味的口号。但有些真心的朋友来找我倾诉时，我也想不出更形而上的优美语言用以鼓励他们，总是自觉很惭愧。我知道很多人的生活方式正面临着一些问题。半夜缩在床边一角用手机看很多剧集，偶尔碰到些煽情的感性桥段会流泪，剧烈一点的还会抽泣两下，一般这种感动无法在当时找人分享，等到了第二天起床基本就忘得干干净净，洗掉脸上的盐渍，若无其事继续工作；橡胶体育场，手上绑着套环，带着耳机面无表情地跑步，耳中的音乐要舒缓，要平静，不能让节奏打乱呼吸，就这样一圈，一圈，又一圈，到呼吸道灼痛如燃烧为止；难得的休息日，身体仍然在节律中保持了早起，于是再也睡不着，昨天憧憬的一些小计划被困顿冲散，在刷新了无数条无意义的视频和信息之后，睡意又在固定的作息时间袭来，你躺了下去，这一天就此结束。这样的问题被人们抛出来，我不知道该当何解，人与人的交流理论上可以解决一切，但互相不被理解的痛苦又是一道更漆黑的深渊。我理解很多忧郁的表征，沉默，迟缓，惯性地保持低头，躲避一切可能的眼神交流，这是一种保护措施。而假装人前热络健谈，用社交满足来回避乏味的生活，在空无一人时又将如何面对自我？于是我对他们说，要放松，要努力，要乐观。废话一句。但大家都若有所思的点头。我们从来不需要需求帮助，我们只是需要一个理由，来抵抗无意义的生活以及来自它的重重难关，并奢望这个过程可以生发出一些意义。未来会变好的，好的不是世界，是逐渐搭起堡垒的我们。新的一年，要放松，要努力，要乐观。&nbsp;@余怀推荐曲目：《88》&mdash;&mdash;郭一凡莎士比亚说：&ldquo;黑夜无论怎样悠长，白昼总会到来。&rdquo;可天光乍泄之前，总会有一些至暗时刻。2020年，谁曾料想，因为疫情，人们会停下步履匆匆的脚步，乱了方寸，甚至被改变了人生的方向。1月27日早晨我从睡梦中醒来，打开手机全是科比飞机失事的新闻，一声长叹，不胜唏嘘。世事一场大梦，人生几度秋凉。也许是这两年身边的变故太多，我的心里开始藏着另一个世界，那里没有世间疾苦，生活很幸福。都说人要倒霉喝凉水都塞牙，我今年算是深有体会。本来疫情就休息了足够长时间，不料9月份骑车打滑侧翻受伤，又休养了一个多月才重新开始工作。天不遂人愿，如果没法选择，那就嬉皮笑脸面对人生的难。毕竟人生，除了生死，其他都是小事。这一年里，曾迷茫、失落、不安，也始终坚信，阴霾散去总会有光，风雨过后，倾洒的是一片暖阳。就像郭一凡在这首歌里写道：&ldquo; 别怕，别怕，扑面而来的，都只是生活，这次我选成熟。&rdquo;舒缓轻快的旋律加上郭一凡充满磁性的声音萦绕耳畔，就觉得心安，会心一笑，不再忧心忡忡满腹愁肠。生活的真谛是什么？是要快乐。我有位很要好的朋友曾喜欢一个男孩，为此不顾一切千里迢迢去到他所在的城市。从热烈、幸福、满心欢喜，岁月渐长，却攒够了失望，结果今年不欢而散各奔东西。她说，爱，要双向奔赴才会有未来。我笑说，那你的未来没有了。她也笑了笑，放下过去，就会有未来。是啊，一切都是瞬息，一切都将会过去。就算世事难以预料，会有各种各样的难题。可那又怎样呢？这就是人生啊。跟不堪回首的过去告个别，轻装上路，继续前行。前路是阳光普照，也有满天星辰。别忘了，要快乐。2020，再见，再也不见。&nbsp;@Just芝士推荐曲目：《说了再见》&mdash;&mdash;周杰伦天气倏尔就冷得彻底，冰冷的空气仿佛能冻住对一些人的思念，一些暧昧，一些爱而不得和缱绻。最近迷恋上一些老歌，翻出一代人的青春纪念册，周杰伦的名字赫然在目，他唱的一首《说了再见》，适合在这个冬日就一壶热红酒一起饮下。这是一首旋律和曲调都很温柔的歌，平铺直入的由气候变化入场，曾经遇到的那个人，没想到说了再见就真的再也见不到了。我们无时无刻不在与一些人或事物告别，爱的、不爱的、还有那些曾经伤害过的人。人生并不一直顺遂，所有的经历和相遇，当然不是每一段都能美满结局，过去有再多的意难平也终究是过去，想开点，你获得了失望，同样也收获成长。前路坎坷，更深露又重，我们在这些忘掉与忘不掉之间拉扯徘徊，在你来我往中变得豁达，最后选择同离开走远的人说一声珍重。冬天注定是要用雪来掩盖那些心酸往事，之前愤愤不平，期盼他遇到的每个人都不如你，后来才淡然说一句：&ldquo;从此山水不相逢，不问旧人长与短。&rdquo;然后再接着年复一年，日复一日的过下去，只是惟愿今后遇见的每一个人，都有些值得纪念的东西。世人常说天下无不散之宴席，宴席会散，宾客会走，管你曾经再高楼万丈，热闹非凡，也总是会成为过眼云烟，最后徒留满地喧嚣后的残屑。又是一年接近尾声，又该是新桃换旧符，韶华易逝，和昨日种种勇敢道别，旧年再见，新年你好。&nbsp;正在查看年度歌单的ONE&nbsp;&nbsp;欢迎各位读者向音乐栏目投稿音乐短文（形式如上）。投稿请发送到编辑部微信，或是责编邮箱。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 上了生活的贼船，就做一个快乐的海盗",
+                        "desc": "文/Regor_等五位 万般滋味，都是生活。",
+                        "link": "http://m.wufazhuce.com/music/3388?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 上了生活的贼船，就做一个快乐的海盗",
+                        "desc": "文/Regor_等五位 万般滋味，都是生活。",
+                        "link": "http://m.wufazhuce.com/music/3388?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 上了生活的贼船，就做一个快乐的海盗》 文/Regor_等五位： 万般滋味，都是生活。 阅读全文：http://m.wufazhuce.com/music/3388?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3388?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "上了生活的贼船，就做一个快乐的海盗",
+                        "desc": "万般滋味，都是生活。",
+                        "link": "http://m.wufazhuce.com/music/3388?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "E2",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "ZZX",
+                "audio_album": "E",
+                "cover": "http://image.wufazhuce.com/Fic6Y5pjIYIGNFE3sIadMlgZX6nf",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "3007",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4558",
+                    "title": "这一年你过得好吗"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1340",
+                    "serial_list": [
+                        "1330",
+                        "1331",
+                        "1332",
+                        "1333",
+                        "1334",
+                        "1335",
+                        "1336",
+                        "1337",
+                        "1338",
+                        "1339",
+                        "1340"
+                    ],
+                    "title": "L的悲剧·第十一章：偶遇"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3082",
+                    "title": "成年人的恋爱方式是怎么样的？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3388",
+                    "title": "上了生活的贼船，就做一个快乐的海盗"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

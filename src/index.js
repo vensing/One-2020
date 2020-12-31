@@ -5,7 +5,7 @@ const { createCanvas, loadImage } = require('canvas');
 const fileTools = require('./util/fileTools');
 
 
-const filePath = './data/json/One/01/one-2020-01-01.json';
+const filePath = './data/json/One/12';
 
 /**
  * sleep current task 
@@ -30,7 +30,7 @@ function readJsonFiles(filePath) {
         files.forEach(async (file, index) => {
             await wait(2000 * index);
             // console.log(filePath);
-            testReadFiles(path.join(filePath, file));
+            readJsonFiles(path.join(filePath, file));
         });
     }
 }

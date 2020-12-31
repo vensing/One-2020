@@ -1,0 +1,547 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5745",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-31",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-12-31 06:00:00",
+        "content_list": [
+            {
+                "id": "21707",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "3053",
+                "title": "摄影",
+                "forward": "只有那些自觉而富有智慧的人，才知道该如何面对失控。于方寸之间，创造新的可能，在任何时刻，你都可以随时起舞。",
+                "img_url": "http://image.wufazhuce.com/FtrsdVAgs16D8FskDGDe8yyOmgJo",
+                "like_count": 7966,
+                "post_date": "2020-12-31 06:00:00",
+                "last_update_date": "2020-12-29 15:53:33",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.3008",
+                "pic_info": "腾讯新闻出品",
+                "words_info": "《十三邀》第五季",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3053",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/3053",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/3053",
+                    "image": "http://image.wufazhuce.com/FtrsdVAgs16D8FskDGDe8yyOmgJo",
+                    "title": "VOL.3008",
+                    "content": "只有那些自觉而富有智慧的人，才知道该如何面对失控。于方寸之间，创造新的可能，在任何时刻，你都可以随时起舞。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3053?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3053?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 只有那些自觉而富有智慧的人，才知道该如何面对失控。于方寸之间，创造新的可能，在任何时刻，你都可以随时起舞。——《十三邀》第五季 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3053?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3053?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21699",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4557",
+                "title": "情人谷",
+                "forward": "没事，那时候年纪小，都不懂事。",
+                "img_url": "http://image.wufazhuce.com/FkQIHH2mWwuFdvxVJnD-xZq4faFv",
+                "like_count": 1215,
+                "post_date": "2020-12-31 06:00:00",
+                "last_update_date": "2020-12-31 09:12:14",
+                "author": {
+                    "user_id": "11760244",
+                    "user_name": "谢明朗",
+                    "desc": "现居北京，作品在《收获》《十月》等期刊上均不常见。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "三流小说家",
+                    "fans_total": "21",
+                    "web_url": "http://image.wufazhuce.com/FmufB9zxYdD8pbH6nvGB0wBn9pPl"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 1,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4557",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4557",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4557",
+                    "image": "http://image.wufazhuce.com/FkQIHH2mWwuFdvxVJnD-xZq4faFv",
+                    "title": "情人谷 作者/谢明朗",
+                    "content": "走着走着我忽然觉得，没有目的地是这么的快乐。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 情人谷",
+                        "desc": "文/谢明朗 走着走着我忽然觉得，没有目的地是这么的快乐。",
+                        "link": "http://m.wufazhuce.com/article/4557?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 情人谷",
+                        "desc": "文/谢明朗 走着走着我忽然觉得，没有目的地是这么的快乐。",
+                        "link": "http://m.wufazhuce.com/article/4557?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 情人谷》 文/谢明朗： 走着走着我忽然觉得，没有目的地是这么的快乐。 阅读全文：http://m.wufazhuce.com/article/4557?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4557?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "情人谷",
+                        "desc": "走着走着我忽然觉得，没有目的地是这么的快乐。",
+                        "link": "http://m.wufazhuce.com/article/4557?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21704",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1355",
+                "title": "消弥·第二章：起雾了",
+                "forward": "雾气蒸燎里，英木黎惨白的脸，和太平间门口的陈狄安倒真有夫妻相。",
+                "img_url": "http://image.wufazhuce.com/FsNU3KnTnO3d3o47PRlCc88YoMaa",
+                "like_count": 592,
+                "post_date": "2020-12-31 06:00:00",
+                "last_update_date": "2020-12-30 17:40:04",
+                "author": {
+                    "user_id": "11766208",
+                    "user_name": "刘宛照",
+                    "desc": "女作家读者，流行乐听众，美术馆扫地的间隙，写一本三流小说。",
+                    "wb_name": "@晚照舍",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "陈医生患者，正在治疗对色彩的恐惧。",
+                    "fans_total": "31",
+                    "web_url": "http://image.wufazhuce.com/FhyvPQYcI6hF41Xpi8-RPJ30DKdj"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第2章",
+                "number": "2",
+                "serial_id": "92",
+                "serial_list": [
+                    "1354",
+                    "1355"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1355",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1355",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1355",
+                    "image": "http://image.wufazhuce.com/FsNU3KnTnO3d3o47PRlCc88YoMaa",
+                    "title": "消弥·第二章：起雾了 作者/刘宛照",
+                    "content": "世间所有男人里，我最相信你，我不相信别人，求求你别让我信别人。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | 消弥·第二章：起雾了",
+                        "desc": "文/刘宛照 世间所有男人里，我最相信你，我不相信别人，求求你别让我信别人。",
+                        "link": "http://m.wufazhuce.com/serial/1355?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | 消弥·第二章：起雾了",
+                        "desc": "文/刘宛照 世间所有男人里，我最相信你，我不相信别人，求求你别让我信别人。",
+                        "link": "http://m.wufazhuce.com/serial/1355?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | 消弥·第二章：起雾了》 文/刘宛照： 世间所有男人里，我最相信你，我不相信别人，求求你别让我信别人。 阅读全文：http://m.wufazhuce.com/serial/1355?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1355?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "消弥·第二章：起雾了",
+                        "desc": "世间所有男人里，我最相信你，我不相信别人，求求你别让我信别人。",
+                        "link": "http://m.wufazhuce.com/serial/1355?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21710",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3084",
+                "title": "你如何总结2020年？",
+                "forward": "为世上所有的人们祝福，甚至祝福得更多。",
+                "img_url": "http://image.wufazhuce.com/FlkIgbOhpP0GS0_mlnAYRHhwVY8Q",
+                "like_count": 1541,
+                "post_date": "2020-12-31 06:00:00",
+                "last_update_date": "2020-12-30 10:40:57",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "ONE·一个工作室",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3084",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3084",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3084",
+                    "image": "http://image.wufazhuce.com/FlkIgbOhpP0GS0_mlnAYRHhwVY8Q",
+                    "title": "你如何总结2020年？",
+                    "content": "你如何总结2020年？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 你如何总结2020年？",
+                        "desc": "文/孙振宇 为世上所有的人们祝福，甚至祝福得更多。",
+                        "link": "http://m.wufazhuce.com/question/3084?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 你如何总结2020年？",
+                        "desc": "文/孙振宇 为世上所有的人们祝福，甚至祝福得更多。",
+                        "link": "http://m.wufazhuce.com/question/3084?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 你如何总结2020年？》 文/孙振宇： 为世上所有的人们祝福，甚至祝福得更多。 阅读全文：http://m.wufazhuce.com/question/3084?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3084?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "你如何总结2020年？",
+                        "desc": "为世上所有的人们祝福，甚至祝福得更多。",
+                        "link": "http://m.wufazhuce.com/question/3084?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11489482",
+                    "user_name": "孙振宇",
+                    "desc": "青年写作者，贵州凯里人，擅长搞笑，喜欢折耳根、今敏和一个人听歌。愿望是走向糖霜共和，抵达银河主义。",
+                    "wb_name": "@孙大棒goku",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "青年作者，公众号：宇宙酒",
+                    "fans_total": "647",
+                    "web_url": "http://image.wufazhuce.com/Fnwii_4IlSfce2Qi14hlr51nQmoe"
+                }
+            },
+            {
+                "id": "21712",
+                "category": "5",
+                "display_category": 6,
+                "item_id": "2097",
+                "title": "新的风暴已经出现",
+                "forward": "万一，明天是世界末日怎么办？",
+                "img_url": "http://image.wufazhuce.com/FkMN1GezhPYfWXxg6jQSdk5Hswk8",
+                "like_count": 1176,
+                "post_date": "2020-12-31 06:00:00",
+                "last_update_date": "2020-12-30 15:41:57",
+                "author": {
+                    "user_id": "10684944",
+                    "user_name": "奶油气泡精",
+                    "desc": "他是末日预言中的宇宙碎片",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "他是末日预言中的宇宙碎片",
+                    "fans_total": "395",
+                    "web_url": "http://image.wufazhuce.com/FsUInOnV4Bic29OX550VA35XNkj2"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "灾难片片单",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": "5080",
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "2097",
+                "content_type": "5",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/movie/2097",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/movie/2097",
+                    "image": "http://image.wufazhuce.com/FkMN1GezhPYfWXxg6jQSdk5Hswk8",
+                    "title": "「一个」电影: 灾难片片单",
+                    "content": "还有几个小时，真实而又魔幻的2020就要过去了，想必很多人差不多和我有一样的感受&ldquo;哈，怎么今年过得这么快&rdquo;，在这一年里，许多人明白了生离死别这个成语的真正含义，大家似乎还没准备好去迎接，又或者不敢踏出迈向2021的那一步。所以我这次准备的片单，寓意就是要&ldquo;把所有的灾难不幸都放在2020，美好未来留给2021&rdquo;，当然，你也可以打开小小脑洞，倘若下面的各类灾难明天真的要来临，你该如何求生？&nbsp;1.《流感》&ldquo;我们要去首尔，让首尔也产生感染者，那样政府才会想办法救活我们。&rdquo;豆瓣上不少短评都是标记于&ldquo;武汉封城日&rdquo;那天观看，恐怕武汉市民看它所得来的感触要比其他人深得多，当迅速蔓延的病毒改变了整个2020年的局势，说不害怕那是假的。虽然不少人对《流感》评价并不算高，比如男女主性格讨厌，主角光环生硬，情节站不住脚。但若说韩国商业片成熟到足以对抗好莱坞的话，大概是下面这个镜头，体育场万人焚尸。这俨然超过了正常人的认知，但很微妙的符合疫情刚爆发时大家的心境：互联网上谣言乱飞，新闻被曲解，人心惶惶担心下一个感染的就是自己，为了囤口罩抢双黄连可以当街打斗，当灾难来临，至暗时刻下，恐慌带来的伤害早就超过病毒带来的伤害，人性的闪光与卑劣并存，被载入史册的2020，不会只剩尘埃，我们也不必推倒重来。&nbsp;2.《感染》导演落合正幸，曾执导过《世界奇妙物语》《咒怨》系列。在刚看完它后，我连忙在微信上给认识的人发消息，不要去看这部片子。它的确是够恶心，绿色的黏稠液体，穿肠烂肚的尸体，直让我发出阵阵干呕，但让我觉得《感染》最可怕的地方在于，它以医院为载体，将日本特有的心理恐吓发挥到了极致。我为什么要将一座医院的医疗事故归于灾难的元素，是因为导演讲的故事如同多骨诺米牌。因为用错了药导致病人的死亡，于是众人为了自保而掩盖事实真相，因为贪心想研究未知的新型感染病，于是医生决定不打算向上通报，为了隐瞒一个错误，从而引发了更大的错误。直到最后谜底揭晓才恍然大悟。原来感染源哪是什么病毒体，而来自于众人的黑暗面，良心上的谴责使得众人发疯，一切的感染的源头，皆来自他们生前犯下的错，造下的孽，却从未想着补救的后果。&nbsp;3.《特别响，非常近》&ldquo;我们有时要面对恐惧。&rdquo;01年的911事件被称作美国本土最为严重的恐怖袭击活动，在十年后，美国人终于可以理性的来直视这个血淋林的伤口。刚开始看你一定不理解导演为何会用一个九岁小男生奥斯卡的视角来讲完整个故事，更何况他刻薄又恶毒，在失去父亲后甚至会冲着母亲大喊&ldquo;我宁愿你在那大厦，而不是他&rdquo;。随着剧情的发展，才了解到奥斯卡患上了阿斯伯格综合征，他无法从失去父亲的阴影下走出来，只好自虐到遍体鳞伤。&ldquo;特别响&rdquo;是飞机撞向纽约世界贸易中心的爆炸，&ldquo;非常近&rdquo;是父亲打来的电话离他的距离，奥斯卡却害怕到不敢去接。有种悲痛注定无法安静地独自消化，只能通过分享来获得安慰，多少表面的平静浪静是波涛汹涌选的巨大伤痛。如果太阳爆炸，你得八分钟后才有所察觉，因为光速需要这么长时间，在这八分钟里，世界依旧明亮温暖，爸爸已经死了一年了，我能感觉我和他之间的八分钟快耗尽了。&nbsp;4.《唐山大地震》&ldquo;没了，才知道什么叫没了。&rdquo;尽管冯小刚去年的《只有芸知道》温吞平淡，但在十年前还被叫&ldquo;小钢炮&rdquo;的他接连交出的两部电影，绝对能在历史上留下浓墨重彩的一笔。《一九四二》无疑是更为惨痛的，抗日战争＋闹饥荒，人不再是人，而成为了换粮食的牲口。但在同样是天灾的情况下，相比于直面撕开了一九四二的伤疤，冯小刚为三十四年后的唐山大地震贴上了一枚创可贴，他向全世界的父母都抛出了一个难题：当两个孩子只能救一个，你会怎么办？离去的已经离去，活下来的却更加艰难，因为他们要带着猛烈的思念来艰难度日。二十三秒的地震，却要用三十二年来修补内心的裂痕，当多年未见的姐弟意外重逢，方登抚摸着那颗迟来太久的西红柿，在父亲墓碑前嘶吼着对不起，她终于原谅了母亲，也放过了挣扎已久的自己。&nbsp;5.《迷雾》&ldquo;我们人类生来就疯狂，同一个房间有两个人以上，我们就会选边站，想尽办法自相残杀，不然怎么会有政治和宗教。&rdquo;《迷雾》相比其他要说的五部，灾难格局算不上多大，但其压抑揪心的程度却是最厉害的。导演弗兰克&middot;德拉邦特的厉害之处自不必多说，改编自史蒂芬&middot;金的小说有多精彩更不用多说，这两个神一样人物联手，为观众带来想要一探究竟的暗黑深渊。迷雾困住的从来就不止是小镇，还蒙蔽住了人们的双眼，当人们被困在超市这样的封闭空间，面对未知生物所带来的恐怖袭击，到底是该相信自己还是相信别人，甚至说把希望寄托于上帝？当物质消失，安全感被粉碎，他们是否还有能力互相充当他人的精神支柱？随着时间的流逝，也许下场只能有两个：他们要么心连心互救，要么一起疯狂毁灭。很显然，神婆能够成功建立成邪教组织，足以说明大家的结局是后者。男主最后放弃了信仰开枪自杀，殊不知救援队后一秒就来了，迟来的希望更让人绝望。《迷雾》所带来的道理依旧是那一句永恒到可以刻进墓碑的话：相比天灾和鬼神，人心仍是最可怕的那一个。&nbsp;6.《2012》&ldquo;到明天所有的人类，都会成为银河里的小小灰尘。&rdquo;倘若说要为这回的片单画上一个完美的句号，那么《2012》肯定是最佳选择，这部上映于09年的电影，预言了三年后世界末日将会来临。在那个非主流的年代，微信还没流行开来的年代，相信你一定在QQ空间里看到过&ldquo;玛雅人口中的真相竟然是？&rdquo;&ldquo;要是明天就是世界末日，你愿意去抱抱你身边的父母同学老师么，愿意的就转，不愿意的滚蛋！&rdquo;等诸如此类的段子。如今距离2012已经过去八年了，影片中所呈现的地震、火山爆发、洪水、海啸一系列的灾难全球人民都一一经历过。哪怕是今年最严重危险的疫情，我们也咬着牙挺过来了，世界并不会在2012年终结，更不会在2020年终结。在第一次看完《2012》令我最惊讶的点无疑是：在好莱坞还时不时对亚裔充斥着刻板印象的如今，十一年前这部备受好评的美国大片，中国反而是救世主。是的，中国没有打个酱油就消失，也不存在所谓的&ldquo;内地特供&rdquo;，而是&ldquo;中国救世界&rdquo;，那位淡定的西藏喇嘛，还有纯正普通话的片段，就连诺亚方舟都是MADE IN CHINA。以前说要造诺亚方舟保准会被人嘲笑是异想天开，到现在说不定我们真能鼓捣个出来，科技早已有着巨大的进步，地球这颗蔚蓝的星球，见证着人类数千年来的文化文明。&nbsp;有时在想，虽然我们乍一看都只不过是历史下的一粒沙，天空中的一朵云，轻飘飘的看似留不下什么痕迹，但凝聚在一起就是超出想象之外的力量。我们正经历着历史，也见证着历史，微博上有人总结了今年发生的大事件，仿佛全地球的人们都处于水深火热之中：澳洲火灾、日本&ldquo;新冠游轮&rdquo;、美国大选、韩国邪教、印度蝗灾，世界疫情。但我们顽强到像是在石头缝中发芽的种子，野火烧不尽，春风吹又生。我们终于明白了在课文里学到的&ldquo;一方有难，八方支援&rdquo;的含义。吹哨人李医生离开了，但他留下的精神是永不磨灭的；眼科医生陶勇被砍伤生命垂危，生死关走了一遭后仍温柔地相信这人世间。最后，请让我借用水果姐Katy Perry的几句歌词来鼓励即将度过20年末，迎来21年初的大家:「No not the end of the world,Don&#39;t lose hope,Actually just the beginning,Don&#39;t say goodbye」我们勇敢逆行，敢于负重前行，在一些瞬间，总会有一些人给我们原本灰暗的生活带来光芒，而这些人，其实就在你我身边。2020，潘多拉打开了魔盒，&ldquo;希望&rdquo;关在了盒子里，可即使人类不断地受苦、被生活折磨，但是心中总是留有可贵的希望，才能自我激励。在死亡以前，希望永远存在，人生也绝对充满了美好的希望。所以大家伙儿，新的一年，向前看！别回头！"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "电影 | 新的风暴已经出现",
+                        "desc": "文/奶油气泡精 万一，明天是世界末日怎么办？",
+                        "link": "http://m.wufazhuce.com/movie/2097?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "电影 | 新的风暴已经出现",
+                        "desc": "文/奶油气泡精 万一，明天是世界末日怎么办？",
+                        "link": "http://m.wufazhuce.com/movie/2097?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《电影 | 新的风暴已经出现》 文/奶油气泡精： 万一，明天是世界末日怎么办？ 阅读全文：http://m.wufazhuce.com/movie/2097?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/movie/2097?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "新的风暴已经出现",
+                        "desc": "万一，明天是世界末日怎么办？",
+                        "link": "http://m.wufazhuce.com/movie/2097?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21689",
+                "category": "8",
+                "display_category": 6,
+                "item_id": "3391",
+                "title": "一切，都是从一月开始",
+                "forward": "",
+                "img_url": "http://image.wufazhuce.com/FnFpfu4k_109KGBzROE4pR5RZpNT?imageView2/1/w/375/h/240/q/95",
+                "like_count": 703,
+                "post_date": "2020-12-31 00:00:00",
+                "last_update_date": "",
+                "author": {
+                    "user_id": "7682938",
+                    "user_name": "李荟莹",
+                    "desc": "ONE深夜电台－主播\r\n",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "one深夜电台主播",
+                    "fans_total": "99202",
+                    "web_url": "http://image.wufazhuce.com/FuzEKZ_VfpR3aKFpJu5A-lp4vkOC"
+                },
+                "content_id": "3391",
+                "content_type": "8",
+                "share_url": "http://m.wufazhuce.com/radio/3391",
+                "share_list": {
+                    "wx": {
+                        "title": "ONE电台 | 一切，都是从一月开始",
+                        "desc": "开启2021年的倒计时",
+                        "link": "http://m.wufazhuce.com/radio/3391?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ll5iJ-9M_a2kI_4gfmwSZ05H08Ie"
+                    },
+                    "wx_timeline": {
+                        "title": "ONE电台 | 一切，都是从一月开始",
+                        "desc": "开启2021年的倒计时",
+                        "link": "http://m.wufazhuce.com/radio/3391?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ll5iJ-9M_a2kI_4gfmwSZ05H08Ie"
+                    },
+                    "weibo": {
+                        "title": "ONE一个《ONE电台 | 一切，都是从一月开始》 主播/李荟莹： 开启2021年的倒计时 阅读全文：http://m.wufazhuce.com/radio/3391?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/radio/3391?channel=weibo",
+                        "imgUrl": "",
+                        "audio": "http://music.wufazhuce.com/ll5iJ-9M_a2kI_4gfmwSZ05H08Ie"
+                    },
+                    "qq": {
+                        "title": "ONE电台",
+                        "desc": "一切，都是从一月开始",
+                        "link": "http://m.wufazhuce.com/radio/3391?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": "http://music.wufazhuce.com/ll5iJ-9M_a2kI_4gfmwSZ05H08Ie"
+                    }
+                },
+                "tag_list": [],
+                "is_regular": "1",
+                "volume": "第 936 期",
+                "audio_url": "http://music.wufazhuce.com/ll5iJ-9M_a2kI_4gfmwSZ05H08Ie"
+            }
+        ],
+        "menu": {
+            "vol": "3008",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4557",
+                    "title": "情人谷"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1355",
+                    "serial_list": [
+                        "1354",
+                        "1355"
+                    ],
+                    "title": "消弥·第二章：起雾了"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3084",
+                    "title": "你如何总结2020年？"
+                },
+                {
+                    "content_type": "5",
+                    "content_id": "2097",
+                    "title": "新的风暴已经出现"
+                },
+                {
+                    "content_type": "8",
+                    "content_id": "3391",
+                    "title": "一切，都是从一月开始"
+                }
+            ]
+        },
+        "ad": []
+    }
+}

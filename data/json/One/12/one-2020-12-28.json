@@ -1,0 +1,507 @@
+{
+    "res": 0,
+    "data": {
+        "id": "5723",
+        "weather": {
+            "city_name": "地球",
+            "date": "2020-12-31",
+            "temperature": "-273.15",
+            "humidity": "120",
+            "climate": "对流层",
+            "wind_direction": "一阵妖风",
+            "hurricane": "36级",
+            "icons": {
+                "day": "weather_icon_unknown",
+                "night": "weather_icon_unknown_night"
+            }
+        },
+        "date": "2020-12-28 06:00:00",
+        "content_list": [
+            {
+                "id": "21684",
+                "category": "0",
+                "display_category": 6,
+                "item_id": "3047",
+                "title": "摄影",
+                "forward": "要学会在轻淡无形，不给别人施加压力的情况下去爱一个人。很好的爱一个人需要经过漫长的时间，甚至用一生的时间才能办到——保持足够距离，拥有适宜的谦卑。",
+                "img_url": "http://image.wufazhuce.com/FkXRynSFvcCJ5JTTcqDNzrZdMQ6v",
+                "like_count": 13008,
+                "post_date": "2020-12-28 06:00:00",
+                "last_update_date": "2020-12-24 11:38:29",
+                "author": {},
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": "VOL.3005",
+                "pic_info": "Trung Nguyen",
+                "words_info": "梅·萨藤 《独居日记》",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3047",
+                "content_type": "0",
+                "content_bgcolor": "",
+                "share_url": "http://m.wufazhuce.com/one/3047",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/one/3047",
+                    "image": "http://image.wufazhuce.com/FkXRynSFvcCJ5JTTcqDNzrZdMQ6v",
+                    "title": "VOL.3005",
+                    "content": "要学会在轻淡无形，不给别人施加压力的情况下去爱一个人。很好的爱一个人需要经过漫长的时间，甚至用一生的时间才能办到——保持足够距离，拥有适宜的谦卑。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3047?channel=singlemessage",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3047?channel=timeline",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个 要学会在轻淡无形，不给别人施加压力的情况下去爱一个人。很好的爱一个人需要经过漫长的时间，甚至用一生的时间才能办到——保持足够距离，拥有适宜的谦卑。——梅·萨藤 《独居日记》 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3047?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/one/3047?channel=qq",
+                        "imgUrl": "",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "orientation": "0"
+            },
+            {
+                "id": "21698",
+                "category": "1",
+                "display_category": 6,
+                "item_id": "4555",
+                "title": "暗涌",
+                "forward": "不去要求别人按照自己臆想中的方式生活，是对一个成年人最起码的尊重。",
+                "img_url": "http://image.wufazhuce.com/Fj38vfpw2ANpdsfPOUFB6mMCw4Je",
+                "like_count": 2476,
+                "post_date": "2020-12-28 06:00:00",
+                "last_update_date": "2020-12-27 17:43:21",
+                "author": {
+                    "user_id": "11513719",
+                    "user_name": "伊朝南",
+                    "desc": "一个在阳光下和黑暗中都能茁壮生长的白日梦患者。",
+                    "wb_name": "@伊朝南",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一个脱离不了低级趣味的人。",
+                    "fans_total": "769",
+                    "web_url": "http://image.wufazhuce.com/FpKk5N9eg_v2zyAkX7XPWYqc8YtG"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "4555",
+                "content_type": "1",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/article/4555",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/article/4555",
+                    "image": "http://image.wufazhuce.com/Fj38vfpw2ANpdsfPOUFB6mMCw4Je",
+                    "title": "暗涌 作者/伊朝南",
+                    "content": "事实证明我还是太年轻。"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "阅读 | 暗涌",
+                        "desc": "文/伊朝南 事实证明我还是太年轻。",
+                        "link": "http://m.wufazhuce.com/article/4555?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "阅读 | 暗涌",
+                        "desc": "文/伊朝南 事实证明我还是太年轻。",
+                        "link": "http://m.wufazhuce.com/article/4555?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《阅读 | 暗涌》 文/伊朝南： 事实证明我还是太年轻。 阅读全文：http://m.wufazhuce.com/article/4555?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/article/4555?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "暗涌",
+                        "desc": "事实证明我还是太年轻。",
+                        "link": "http://m.wufazhuce.com/article/4555?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21597",
+                "category": "2",
+                "display_category": 6,
+                "item_id": "1339",
+                "title": "L的悲剧·第十章：感遇",
+                "forward": "既然我无法分辨，那就主动远离，这样我就不用面对失望的打击……",
+                "img_url": "http://image.wufazhuce.com/FhUoHDE6j7GdSWrEknSVvhRyxZgc",
+                "like_count": 759,
+                "post_date": "2020-12-28 06:00:00",
+                "last_update_date": "2020-12-15 15:26:54",
+                "author": {
+                    "user_id": "11727410",
+                    "user_name": "磺胺剂",
+                    "desc": "93年生，金融程序猿。机缘巧合开始写作，钟情于推理悬疑。自由散漫，无波无澜。撸会猫咪，翻本小书，酌杯小酒，看窗外万家灯火，夜色正浓。",
+                    "wb_name": "@磺胺剂",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "小说新人。人是有极限的，但文字没有。",
+                    "fans_total": "272",
+                    "web_url": "http://image.wufazhuce.com/FrfdfVImqdgVKmCRLhvQ-qKO5Dd9"
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "连载：第10章",
+                "number": "10",
+                "serial_id": "91",
+                "serial_list": [
+                    "1330",
+                    "1331",
+                    "1332",
+                    "1333",
+                    "1334",
+                    "1335",
+                    "1336",
+                    "1337",
+                    "1338",
+                    "1339",
+                    "1340"
+                ],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "1339",
+                "content_type": "2",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/serial/1339",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/serial/1339",
+                    "image": "http://image.wufazhuce.com/FhUoHDE6j7GdSWrEknSVvhRyxZgc",
+                    "title": "L的悲剧·第十章：感遇 作者/磺胺剂",
+                    "content": "既然我无法分辨，那就主动远离，这样我就不用面对失望的打击……"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "连载 | L的悲剧·第十章：感遇",
+                        "desc": "文/磺胺剂 既然我无法分辨，那就主动远离，这样我就不用面对失望的打击……",
+                        "link": "http://m.wufazhuce.com/serial/1339?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "连载 | L的悲剧·第十章：感遇",
+                        "desc": "文/磺胺剂 既然我无法分辨，那就主动远离，这样我就不用面对失望的打击……",
+                        "link": "http://m.wufazhuce.com/serial/1339?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《连载 | L的悲剧·第十章：感遇》 文/磺胺剂： 既然我无法分辨，那就主动远离，这样我就不用面对失望的打击…… 阅读全文：http://m.wufazhuce.com/serial/1339?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/serial/1339?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "L的悲剧·第十章：感遇",
+                        "desc": "既然我无法分辨，那就主动远离，这样我就不用面对失望的打击……",
+                        "link": "http://m.wufazhuce.com/serial/1339?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": []
+            },
+            {
+                "id": "21694",
+                "category": "3",
+                "display_category": 6,
+                "item_id": "3080",
+                "title": "如何确定你真正想做的事情是什么？",
+                "forward": "直面需求，不假佛系。",
+                "img_url": "http://image.wufazhuce.com/Fq6Pt6AWxH9K1I_ZKa7YkZVENUrL",
+                "like_count": 2353,
+                "post_date": "2020-12-28 06:00:00",
+                "last_update_date": "2020-12-27 21:51:50",
+                "author": {
+                    "user_id": "0",
+                    "user_name": "不会安装内存条",
+                    "web_url": "http://image.wufazhuce.com/placeholder-author-avatar.png",
+                    "summary": "",
+                    "desc": "",
+                    "is_settled": "",
+                    "settled_type": "",
+                    "fans_total": "",
+                    "wb_name": ""
+                },
+                "video_url": "",
+                "audio_url": "",
+                "audio_platform": 2,
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3080",
+                "content_type": "3",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/question/3080",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/question/3080",
+                    "image": "http://image.wufazhuce.com/Fq6Pt6AWxH9K1I_ZKa7YkZVENUrL",
+                    "title": "如何确定你真正想做的事情是什么？",
+                    "content": "如何确定你真正想做的事情是什么？"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "问答 | 如何确定你真正想做的事情是什么？",
+                        "desc": "文/缪斯谭 定期评估自己的状态。",
+                        "link": "http://m.wufazhuce.com/question/3080?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "问答 | 如何确定你真正想做的事情是什么？",
+                        "desc": "文/缪斯谭 定期评估自己的状态。",
+                        "link": "http://m.wufazhuce.com/question/3080?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《问答 | 如何确定你真正想做的事情是什么？》 文/缪斯谭： 定期评估自己的状态。 阅读全文：http://m.wufazhuce.com/question/3080?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/question/3080?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "如何确定你真正想做的事情是什么？",
+                        "desc": "定期评估自己的状态。",
+                        "link": "http://m.wufazhuce.com/question/3080?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "answerer": {
+                    "user_id": "11317888",
+                    "user_name": "缪斯谭",
+                    "desc": "我是缪斯谭，个人成长导师，情感咨询师，知乎：缪斯谭。\r\n信奉最好的爱永远是给予自己自由，给予他人自由。「To ask nothing. To expect noting. To depend on nothing.」（无所求、无所待、无所依）\r\n我能做的，是尽己所能，于失道者，为作良医，于暗夜中，为作光明，帮你自我圆满，分析当下这一刻的前因后果，继往开来，找到自己的光与热，从而明白如何更好地爱自己，爱他人，爱天地。",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "一身浩然正气|公众号：【缪斯谭】",
+                    "fans_total": "3427",
+                    "web_url": "http://image.wufazhuce.com/FrFcEKRkAqXz6uOScB4x2Gg2rCFr"
+                }
+            },
+            {
+                "id": "21697",
+                "category": "4",
+                "display_category": 6,
+                "item_id": "3387",
+                "title": "愿你眉目舒展，顺问冬安",
+                "forward": "没有人能看到我们的终点是什么，所以呢，什么都不要怕，我们都要好好努力，以后过幸福的生活。",
+                "img_url": "http://image.wufazhuce.com/Fh1YiBXcAmg_d-bM4jRSFLEXx4D-",
+                "like_count": 1534,
+                "post_date": "2020-12-28 06:00:00",
+                "last_update_date": "2020-12-27 21:53:34",
+                "author": {
+                    "user_id": "10268072",
+                    "user_name": "梁佑",
+                    "desc": "公众号：苍蝇与马",
+                    "wb_name": "",
+                    "is_settled": "0",
+                    "settled_type": "0",
+                    "summary": "公众号：苍蝇与马",
+                    "fans_total": "2855",
+                    "web_url": "http://image.wufazhuce.com/FtbNqxCso2jiboHhODfmTn0I_CMn"
+                },
+                "video_url": "",
+                "audio_url": "http://music.wufazhuce.com/lko-15AlMStaDQz0xEGw2PnNXc7t",
+                "audio_platform": "2",
+                "start_video": "",
+                "has_reading": 0,
+                "volume": 0,
+                "pic_info": "",
+                "words_info": "",
+                "subtitle": "以新世界的名义",
+                "number": 0,
+                "serial_id": 0,
+                "serial_list": [],
+                "movie_story_id": 0,
+                "ad_id": 0,
+                "ad_type": 0,
+                "ad_pvurl": "",
+                "ad_linkurl": "",
+                "ad_makettime": "",
+                "ad_closetime": "",
+                "ad_share_cnt": "",
+                "ad_pvurl_vendor": "",
+                "content_id": "3387",
+                "content_type": "4",
+                "content_bgcolor": "#FFFFFF",
+                "share_url": "http://m.wufazhuce.com/music/3387",
+                "share_info": {
+                    "url": "http://m.wufazhuce.com/music/3387",
+                    "image": "http://image.wufazhuce.com/Fh1YiBXcAmg_d-bM4jRSFLEXx4D-",
+                    "title": "「一个」音乐: 梁佑 以新世界的名义",
+                    "content": "\n  \n    \n    \n    \n    var ONEGLOBAL = {cache: \"placeholder-one-cache-flag\", staturl:\"http://analytical.wufazhuce.com:81/\", fullwebview: false} \n  \n  \n  很多年后，当傅影再次回想起当年去过的那个旧货市场时，才明白，其实早在那个时刻，她便已经预感到，她会独自一人过完此生。&nbsp;那时，她在读大学，和几个朋友在外面合租，他们都是一样的人，一样热爱滑板，一样惧怕和外界接触，害怕和这个世界产生过多地联系，虽然这联系，早在出生之时便已经决定了。傅影刚开始加入到他们之中时，是受宠若惊的，因为在她过去的漫长人生里，从来没有过朋友，整个童年在无情地否定中度过，导致她的性格十分古怪，她对所有要进入她生命的人都充满了戒备之心，只是不知道为什么，她又偏偏加入到了他们之中。合租的那些日子，对于傅影来说，是和海一样温暖的蓝色，几个人都在做各种兼职，补贴生活。他们一起去菜市场买菜，照着网上的食谱学习各种家常菜，一开始总是炒糊，但是又舍不得浪费，于是白米饭里拌着黑色的菜，表情复杂地往下咽。一起去旧货市场买衣服，他们都喜欢二手衣服，程仔说，这样很酷，傅影不屑地说，&ldquo;你懂什么呀，这叫陌生又危险的美感。&rdquo;程仔是几个男生里长得最好看的，留着木村拓哉年轻时的同款发型，高高瘦瘦，轮廓清晰，凭借着程仔的脸，他们每次买衣服都能砍下来很多钱，大家开心地回家，哼着八十年代的粤语歌，或者是最流行的广场舞歌曲。但那些衣服，傅影后来再也没有穿过，都被她装进了纸箱里，叠得整整齐齐，放在她平时压根不会看到的地方。她不希望自己太清醒，不想让那些旧日的物品提醒自己，所有美好的时光终归是短暂的，生命的永恒本质，是一个人面对这世界的浮浮沉沉。&nbsp;当年，他们一起去附近的电脑城，在卖二手器材的店里，淘到了松下的第一代手持摄像机，上面落满了灰尘，是傅影发现的，她从货物架上拿起那个摄像机，走到他们几个身边，大家一致看上了那款黑色摄像机。老板一口要价500，几个人软磨硬泡，嬉皮笑脸，搬出学生的身份一直磨蹭，老板叼着烟，最后不耐烦地挥挥手，&ldquo;450，不能再少了。&rdquo;他们乖乖付了钱，临走前，老板拿出几盘录像带送给他们，说这是全新的。起初，买摄像机的目的，是想多记录一些他们玩滑板的瞬间，没想到最后，记录了很多他们做饭，聊天，喝酒，打闹，看电影的场景，摄像机里还拍了很多张他们的照片，留着最疯狂发型的吴忧，穿着最花最旧衬衫的程仔，站在荒野上吹冷风的傅影，那些照片拷在电脑上，都保留了下来，只是录像，都没有了。摄像机买来的第一天，他们把老板送的录像带插到里面时，才明白被老板骗了，老板送给他们的，压根就不是全新的录像带，几个人好奇地围在摄像机旁，画面最开始有字幕，是九十年代的北京，几个年轻人，坐在办公室里聊天吹牛，时而大笑，时而看向镜头，窗户外面是晴天。傅影觉得既神奇又伤感，神奇世间事竟会如此奇妙，录像里的几个年轻人也许怎么都不会想到，十几年后，他们当年的记录会以这样的方式，出现在长春的这个小出租屋里，而几个完全陌生的年轻人，正好奇着他们当年的青春。伤感这世间的人与事，若没有影像与文字记录，终将在人们的记忆里消失，但影像与文字，也不是恒久的，这么看来，在历史的长河里，一切都是转瞬即逝。&nbsp;大四那年，几个人忙于实习与毕业，匆匆忙忙地从出租屋里将各自的东西搬出来，而最重要的摄像机，以及他们当年的录像带，全都遗失了，所有人都觉得遗憾，可是没有人再提这件事。后来，程仔去了广州的一家杂志社工作，吴忧和小董在成都开了一家刺青店，有次傅影专程跑去成都，在胳膊上纹了一扇窗户。好像所有的人都走散了，其实不是，每个人从一开始都在走自己的路，只是在某个时间，机缘巧合，大家短暂地相聚在一起，共同抵抗着那些年倾倒在他们身上的孤独与寂寞。工作以后，傅影总是混淆很多事，她不知道过去那些日子是她的新世界，还是如今，一个人在城市里孤勇前行的日子，才是她的新世界。二十二岁那年，他们去四川自驾游，无所畏惧的年轻人，为了躲避高速公路上的收费站，选择了其他路线。那是雨季，天气恶劣，路途中总是会遇到落石，她记忆深刻，有一天前方出了车祸，他们离得很近，听到汽车爆炸的声音，堵车到晚上十点多，她在后面睡着了，梦中她一个人在一个破旧的村庄里，所有的房屋看上去都是快要倒塌的样子，她很害怕，大声喊着他们几个人的名字，可是没有一个人回答她，她被吓醒了。雨还在下，后面全是车，程仔笑着说，没想到这条路也会有这么多人，看着熟悉的面孔，梦中的无尽孤独瞬间化为安全与感动，可是傅影不得不再一次承认，无论是谁在她身边，她都逃不掉那些缠绕她多年的噩梦，尽管这么多年，她一直在努力寻找一个属于她的新世界。&nbsp;多年后，当她出差路过成都时，她和吴忧去了昭觉寺，安静的夏日午后，他们坐在树下。吴忧说：&ldquo;你知道吗，那些年，你给我们大家的感觉都是你不仅在抗拒这个世界，你还在抗拒我们，你一直在想象一个关于你自己的世界，傅影，不知道现在你究竟过得怎么样，大家都希望你能过得好。&rdquo;她低下头，没有说话。原来曾经，所有人都在小心翼翼地守护着她，她像一个怪胎一样活了这么多年，她那被否定的童年，被孤立的青春，好像都过去了，又好像没有过去。那天和吴忧分开后，她对着机场厕所里的镜子，一边哭，一边补妆。那一刻，她无比清醒地认识到，其实她的生命，她的世界，是从遇见他们以后才真正开始的。只是毕业后的那场离别，对于她来说，太痛苦了，她无法释怀。虽然她在很小的时候便明白，这所有的一切，除了独自承担，别无他法，但是她明明可以一直在泥沼里待下去的，他们将她拉了出来，却在她习惯了这种温暖以后又离开，就像她好不容易搭建起来一个世界，又毫无征兆地塌陷了。她从厕所出来，看到一个和程仔长得很像的少年，背着背包从她身边经过，朝气蓬勃的青春模样，令人着迷。她想起那些年，大家总是在喝多以后谈论梦想。躺沙发，坐地板，或者靠墙站着，每个人的嘴里都叼着一根烟，投影仪上一遍遍地播放着《银翼杀手》，那是他们最喜欢的电影。程仔眯着眼睛说，没有人能看到我们的终点是什么，所以呢，什么都不要怕，我们都要好好努力，以后过幸福的生活。傅影看着荧幕上的完美结局，会心地笑着，其实早在那时，她的新世界就已经到来了，只是她一直未曾察觉。\n  \n  \n\n  \n"
+                },
+                "share_list": {
+                    "wx": {
+                        "title": "音乐 | 愿你眉目舒展，顺问冬安",
+                        "desc": "文/梁佑 时间治愈的都是愿意自渡的人。",
+                        "link": "http://m.wufazhuce.com/music/3387?channel=singlemessage",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "wx_timeline": {
+                        "title": "音乐 | 愿你眉目舒展，顺问冬安",
+                        "desc": "文/梁佑 时间治愈的都是愿意自渡的人。",
+                        "link": "http://m.wufazhuce.com/music/3387?channel=timeline",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    },
+                    "weibo": {
+                        "title": "ONE一个《音乐 | 愿你眉目舒展，顺问冬安》 文/梁佑： 时间治愈的都是愿意自渡的人。 阅读全文：http://m.wufazhuce.com/music/3387?channel=weibo 下载ONE一个APP:http://weibo.com/p/100404157874",
+                        "desc": "",
+                        "link": "http://m.wufazhuce.com/music/3387?channel=weibo",
+                        "imgUrl": "",
+                        "audio": ""
+                    },
+                    "qq": {
+                        "title": "愿你眉目舒展，顺问冬安",
+                        "desc": "时间治愈的都是愿意自渡的人。",
+                        "link": "http://m.wufazhuce.com/music/3387?channel=qq",
+                        "imgUrl": "http://image.wufazhuce.com/ONE_logo_120_square.png",
+                        "audio": ""
+                    }
+                },
+                "tag_list": [],
+                "music_name": "以新世界的名义",
+                "audio_platform_icon": "http://image.wufazhuce.com/music_copyright_2_2.png",
+                "audio_platform_name": "ONE·一个",
+                "audio_author": "初音ミク等二位",
+                "audio_album": "以新世界的名义",
+                "cover": "http://image.wufazhuce.com/FnkQ0qf0ahDN3IwuI6bi3FJSOtju",
+                "bg_color": "#000"
+            }
+        ],
+        "menu": {
+            "vol": "3005",
+            "list": [
+                {
+                    "content_type": "1",
+                    "content_id": "4555",
+                    "title": "暗涌"
+                },
+                {
+                    "content_type": "2",
+                    "content_id": "1339",
+                    "serial_list": [
+                        "1330",
+                        "1331",
+                        "1332",
+                        "1333",
+                        "1334",
+                        "1335",
+                        "1336",
+                        "1337",
+                        "1338",
+                        "1339",
+                        "1340"
+                    ],
+                    "title": "L的悲剧·第十章：感遇"
+                },
+                {
+                    "content_type": "3",
+                    "content_id": "3080",
+                    "title": "如何确定你真正想做的事情是什么？"
+                },
+                {
+                    "content_type": "4",
+                    "content_id": "3387",
+                    "title": "愿你眉目舒展，顺问冬安"
+                }
+            ]
+        },
+        "ad": []
+    }
+}
